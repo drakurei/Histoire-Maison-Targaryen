@@ -216,7 +216,7 @@
           },
           "body": {
             "fr": "En 102 av. C., les Quatorze Flammes entrent en éruption en un seul jour. La péninsule se brise, la cité disparaît, et avec elle presque tous les seigneurs dragons, leurs bêtes et leur savoir. Les causes restent débattues : simple catastrophe naturelle pour la plupart des mestres, châtiment des dieux pour certains septons, défaillance des sortilèges qui tenaient les volcans en repos selon le septon Barth. Aucune de ces explications n'est démontrée. Le résultat, en revanche, ne fait pas de doute. Une seule famille de seigneurs dragons échappe au désastre avec ses dragons, celle qui était partie douze ans plus tôt. Le rêve de Daenys, raillé à Valyria, devient l'acte fondateur de la Maison, et ce qui passait pour une fuite se change en survie.",
-            "en": "In 102 BC the Fourteen Flames erupted on a single day. The peninsula shattered, the city vanished, and with it almost every dragonlord, their beasts and their learning. The causes are still argued: a natural catastrophe for most maesters, divine punishment for some septons, a failure of the spells that held the volcanoes quiet for Septon Barth. None of these explanations has been shown to be true. The outcome, on the other hand, is beyond doubt. Only one family of dragonlords escaped the disaster with its dragons, the one that had left twelve years before. Daenys's dream, scorned in Valyria, became the founding act of the House, and what had looked like flight turned into survival."
+            "en": "In 102 BC the Fourteen Flames erupted on a single day. The peninsula shattered, the city vanished, and with it almost every dragonlord, their beasts and their learning. The causes are still argued: a natural catastrophe for most maesters, divine punishment for some septons and, in Septon Barth's view, a failure of the spells that held the volcanoes quiet. None of these explanations has been shown to be true. The outcome, on the other hand, is beyond doubt. Only one family of dragonlords escaped the disaster with its dragons, the one that had left twelve years before. Daenys's dream, scorned in Valyria, became the founding act of the House, and what had looked like flight turned into survival."
           },
           "links": [
             {
@@ -300,8 +300,8 @@
             "en": "Three dragons for one generation"
           },
           "body": {
-            "fr": "Des cinq dragons qu'Aenar avait amenés de Valyria, quatre meurent au cours du siècle suivant. Seul Balerion, qu'on appellera la Terreur noire, vit jusqu'à l'époque d'Aegon. Deux œufs éclosent pourtant sur l'île et donnent Vhagar, puis Meraxès. Les livres ne fixent pas ces éclosions ; celle de Vhagar, souvent placée vers 52 av. C., résulte d'un calcul. Quand naissent Visenya, Aegon et Rhaenys, enfants d'Aerion et de Valaena Velaryon, la Maison dispose donc de trois dragons, dont un seul a connu Valyria. Chacun des trois enfants en montera un : Aegon Balerion, Visenya Vhagar, Rhaenys Meraxès. Cette répartition fera la Conquête.",
-            "en": "Of the five dragons Aenar had brought from Valyria, four died in the century that followed. Only Balerion, later called the Black Dread, lived into Aegon's time. Two eggs did hatch on the island, however, and gave Vhagar and then Meraxes. The books do not date these hatchings; Vhagar's, often put around 52 BC, is the product of a calculation. When Visenya, Aegon and Rhaenys were born, the children of Aerion and Valaena Velaryon, the House therefore had three dragons, only one of which had known Valyria. Each of the three children would ride one: Aegon on Balerion, Visenya on Vhagar, Rhaenys on Meraxes. That division would make the Conquest."
+            "fr": "Des cinq dragons qu'Aenar avait amenés de Valyria, quatre meurent au cours du siècle suivant. Seul Balerion, qu'on appellera la Terreur noire, vit jusqu'à l'époque d'Aegon. Deux dragons nés sur l'île viennent pourtant s'ajouter à lui : Vhagar et Meraxès. Les livres ne datent pas ces éclosions et n'en donnent pas même l'ordre ; celle de Vhagar, souvent placée vers 52 av. C., résulte d'un calcul. À la génération de Visenya, d'Aegon et de Rhaenys, enfants d'Aerion et de Valaena Velaryon, la Maison dispose donc de trois dragons, dont un seul a connu Valyria. Chacun des trois enfants en montera un : Aegon Balerion, Visenya Vhagar, Rhaenys Meraxès. Cette répartition fera la Conquête.",
+            "en": "Of the five dragons Aenar had brought from Valyria, four died in the century that followed. Only Balerion, later called the Black Dread, lived into Aegon's time. Two dragons born on the island joined him, however: Vhagar and Meraxes. The books do not date these hatchings, nor even give their order; Vhagar's, often put around 52 BC, is the product of a calculation. In the generation of Visenya, Aegon and Rhaenys, the children of Aerion and Valaena Velaryon, the House therefore had three dragons, only one of which had known Valyria. Each of the three children would ride one: Aegon on Balerion, Visenya on Vhagar, Rhaenys on Meraxes. That division would make the Conquest."
           },
           "links": [
             {
@@ -497,7 +497,7 @@
           ],
           "answer": 3,
           "explanation": {
-            "fr": "Valyria se nommait les Possessions : en principe, tout propriétaire libre avait voix au chapitre. En pratique, les grandes familles de seigneurs dragons dominaient les décisions.",
+            "fr": "Valyria se nommait les Possessions : en principe, tout propriétaire libre avait voix au chapitre. En pratique, les grandes familles de seigneurs dragons, une quarantaine, dominaient les décisions.",
             "en": "Valyria called itself the Freehold: in principle every free landholder had a voice in its affairs. In practice the great dragonlord families, some forty of them, dominated its decisions."
           },
           "source": {
@@ -728,8 +728,8 @@
           ],
           "answer": 1,
           "explanation": {
-            "fr": "Visenya montait Vhagar, Rhaenys Meraxès et Aegon Balerion. Vhagar survivra à sa cavalière de près d'un siècle et à presque tous les dragons nés de son temps.",
-            "en": "Visenya rode Vhagar, Rhaenys rode Meraxes and Aegon rode Balerion. Vhagar would outlive her rider by nearly a century, and outlast almost every dragon born in her time."
+            "fr": "Visenya montait Vhagar, Rhaenys Meraxès et Aegon Balerion. Vhagar survivra à sa cavalière de plus de quatre-vingts ans et à presque tous les dragons nés de son temps.",
+            "en": "Visenya rode Vhagar, Rhaenys rode Meraxes and Aegon rode Balerion. Vhagar would outlive her rider by more than eighty years, and outlast almost every dragon born in her time."
           },
           "source": {
             "id": "fab"
@@ -811,8 +811,8 @@
         "en": "The bloodline: kings, branches, marriages"
       },
       "intro": {
-        "fr": "Dix-sept rois Targaryen se succèdent sur le Trône de Fer entre la Conquête et la rébellion de Robert, mais la couronne ne passe presque jamais en ligne droite. Elle saute des générations, revient à des oncles, s'égare dans des branches bâtardes. Ce parcours lit l'arbre dans l'ordre des règnes et s'arrête aux unions qui ont tout décidé : mariages entre frère et sœur, alliances avec les grandes maisons, choix des Grands Conseils. On y apprend surtout à reconnaître les moments où l'héritage cesse d'être évident.",
-        "en": "Seventeen Targaryen kings sat the Iron Throne between the Conquest and Robert's Rebellion, yet the crown almost never passed in a straight line. It skipped generations, went back to uncles, strayed into bastard branches. This path reads the tree in the order of the reigns and pauses at the marriages that decided everything: unions of brother and sister, alliances with the great houses, the choices of the Great Councils. Above all, it teaches how to recognise the moments when the succession stopped being obvious."
+        "fr": "Dix-sept rois Targaryen se succèdent sur le Trône de Fer entre la Conquête et la rébellion de Robert, mais la couronne ne passe presque jamais en ligne droite. Elle saute des générations, revient à des oncles, se voit disputée par des branches bâtardes. Ce parcours lit l'arbre dans l'ordre des règnes et s'arrête aux unions qui ont tout décidé : mariages entre frère et sœur, alliances avec les grandes maisons, choix des Grands Conseils. On y apprend surtout à reconnaître les moments où l'héritage cesse d'être évident.",
+        "en": "Seventeen Targaryen kings sat the Iron Throne between the Conquest and Robert's Rebellion, yet the crown almost never passed in a straight line. It skipped generations, went back to uncles, was challenged by bastard branches. This path reads the tree in the order of the reigns and pauses at the marriages that decided everything: unions of brother and sister, alliances with the great houses, the choices of the Great Councils. Above all, it teaches how to recognise the moments when the succession stopped being obvious."
       },
       "minutes": 30,
       "steps": [
@@ -1079,8 +1079,8 @@
             "en": "The Great Bastards"
           },
           "body": {
-            "fr": "Aegon IV, fils de Viserys II, épouse sa sœur Naerys, qui lui donne un fils, le futur Daeron II, et une fille, Daenerys. Il a surtout de nombreux enfants hors mariage. Quatre d'entre eux, qu'on appellera les grands bâtards, comptent pour la suite : Daemon, fils de sa cousine Daena ; Aegor Rivers, dit Aigracier ; Brynden Rivers, dit Freuxsanglant ; Shiera, dite Astre-des-mers. Sur son lit de mort, en 184, Aegon IV légitime tous ses bâtards. Il avait déjà offert à Daemon l'épée d'Aegon le Conquérant, Feunoyr, dont le jeune homme prend le nom. Ce geste ouvre une branche rivale : en 196, Daemon Feunoyr se proclame roi. Sur l'arbre, ces lignes latérales se lisent comme des menaces.",
-            "en": "Aegon IV, son of Viserys II, married his sister Naerys, who gave him a son, the future Daeron II, and a daughter, Daenerys. Above all he fathered many children outside marriage. Four of them, later called the Great Bastards, matter for what follows: Daemon, son of his cousin Daena; Aegor Rivers, called Bittersteel; Brynden Rivers, called Bloodraven; and Shiera, called Seastar. On his deathbed, in 184, Aegon IV legitimised all his bastards. He had already given Daemon the sword of Aegon the Conqueror, Blackfyre, whose name the young man took. The gesture opened a rival branch: in 196 Daemon Blackfyre proclaimed himself king. On the tree, these side lines read as threats."
+            "fr": "Aegon IV, fils de Viserys II, épouse sa sœur Naerys, qui lui donne un fils, le futur Daeron II, et une fille, Daenerys. Il a surtout de nombreux enfants hors mariage. Quatre d'entre eux, qu'on appellera les grands bâtards, comptent pour la suite : Daemon, fils de sa cousine Daena ; Aegor Rivers, dit Aigracier ; Brynden Rivers, dit Freuxsanglant ; Shiera, née d'une mère lysienne. Sur son lit de mort, en 184, Aegon IV légitime tous ses bâtards. Il avait déjà offert à Daemon l'épée d'Aegon le Conquérant, Feunoyr, dont le jeune homme prend le nom. Ce geste ouvre une branche rivale : en 196, Daemon Feunoyr se proclame roi. Sur l'arbre, ces lignes latérales se lisent comme des menaces.",
+            "en": "Aegon IV, son of Viserys II, married his sister Naerys, who gave him a son, the future Daeron II, and a daughter, Daenerys. Above all he fathered many children outside marriage. Four of them, later called the Great Bastards, matter for what follows: Daemon, son of his cousin Daena; Aegor Rivers, called Bittersteel; Brynden Rivers, called Bloodraven; and Shiera Seastar, born of a Lyseni mother. On his deathbed, in 184, Aegon IV legitimised all his bastards. He had already given Daemon the sword of Aegon the Conqueror, Blackfyre, whose name the young man took. The gesture opened a rival branch: in 196 Daemon Blackfyre proclaimed himself king. On the tree, these side lines read as threats."
           },
           "links": [
             {
@@ -1836,8 +1836,8 @@
               "en": "The same year Rhaenyra marries Daemon."
             },
             {
-              "fr": "La paternité des fils de Rhaenyra reste une rumeur.",
-              "en": "The fathering of Rhaenyra's sons remains a rumour."
+              "fr": "Les doutes sur la paternité des fils de Rhaenyra ne reposent que sur des rumeurs.",
+              "en": "The doubts about who fathered Rhaenyra's sons rest on rumour alone."
             }
           ]
         },
@@ -1848,8 +1848,8 @@
             "en": "Two coronations"
           },
           "body": {
-            "fr": "Viserys Ier meurt en 129. Avant que la nouvelle ne parvienne à Peyredragon, où se trouve Rhaenyra, les conseillers de la reine Alicent s'assurent de la capitale et font couronner Aegon, l'aîné de ses fils, dans Fossedragon, le grand dôme où logent les dragons royaux. On ignore combien de temps la mort du roi fut tenue secrète ; les récits divergent sur ce point. Informée, Rhaenyra se fait couronner à son tour à Peyredragon. Le royaume a désormais deux souverains : Aegon II, maître de Port-Réal et du Trône de Fer, et Rhaenyra, qui dispose de la flotte des Velaryon et d'un plus grand nombre de dragons. Les deux partis envoient des messagers aux grands seigneurs pour s'assurer de leur appui.",
-            "en": "Viserys I died in 129. Before the news could reach Dragonstone, where Rhaenyra was, Queen Alicent's councillors secured the capital and had Aegon, her eldest son, crowned in the Dragonpit, the great dome that housed the royal dragons. How long the king's death was kept secret is unknown; the accounts disagree on the point. Once informed, Rhaenyra had herself crowned in turn on Dragonstone. The realm now had two sovereigns: Aegon II, master of King's Landing and the Iron Throne, and Rhaenyra, who had the Velaryon fleet and a larger number of dragons. Both parties sent messengers to the great lords to secure their support."
+            "fr": "Viserys Ier meurt en 129. Avant que la nouvelle ne parvienne à Peyredragon, où se trouve Rhaenyra, les conseillers de la reine Alicent s'assurent de la capitale et font couronner Aegon, l'aîné de ses fils, dans Fossedragon, le grand dôme où logent les dragons royaux. La mort du roi reste cachée pendant sept jours, le temps de préparer ce couronnement. Informée, Rhaenyra se fait couronner à son tour à Peyredragon. Le royaume a désormais deux souverains : Aegon II, maître de Port-Réal et du Trône de Fer, et Rhaenyra, qui dispose de la flotte des Velaryon et d'un plus grand nombre de dragons. Les deux partis envoient des messagers aux grands seigneurs pour s'assurer de leur appui.",
+            "en": "Viserys I died in 129. Before the news could reach Dragonstone, where Rhaenyra was, Queen Alicent's councillors secured the capital and had Aegon, her eldest son, crowned in the Dragonpit, the great dome that housed the royal dragons. The king's death was kept hidden for seven days, while that coronation was prepared. Once informed, Rhaenyra had herself crowned in turn on Dragonstone. The realm now had two sovereigns: Aegon II, master of King's Landing and the Iron Throne, and Rhaenyra, who had the Velaryon fleet and a larger number of dragons. Both parties sent messengers to the great lords to secure their support."
           },
           "links": [
             {
@@ -2104,8 +2104,8 @@
             "en": "The end and the cost"
           },
           "body": {
-            "fr": "Aegon II meurt empoisonné en 131, alors qu'une armée du Nord, menée par Cregan Stark, approche de la capitale. On n'a jamais su qui avait versé le poison. Le trône revient au fils de Rhaenyra, Aegon III, un garçon d'une dizaine d'années. Pendant quelques jours, Cregan rend la justice comme Main du roi, puis il rentre dans le Nord : c'est ce qu'on appelle l'Heure du Loup. Le bilan dépasse la seule famille royale. Des dragons vivants au début de la guerre, quatre seulement subsistent à la fin, et le dernier dragon des Targaryen meurt en 153. La Maison a gagné sa querelle de succession et perdu, dans le même temps, ce qui lui avait permis de conquérir le royaume.",
-            "en": "Aegon II died of poison in 131, as a northern army led by Cregan Stark was nearing the capital. Who poured the poison was never established. The throne passed to Rhaenyra's son, Aegon III, a boy of about ten. For a few days Cregan dispensed justice as Hand of the King, then went home to the North: this is what is called the Hour of the Wolf. The toll reached far beyond the royal family. Of the dragons alive at the start of the war, only four remained at its end, and the last Targaryen dragon died in 153. The House had won its quarrel over the succession and lost, at the same stroke, what had allowed it to conquer the realm."
+            "fr": "Aegon II meurt empoisonné en 131, alors qu'une armée du Nord, menée par Cregan Stark, approche de la capitale. On n'a jamais su qui avait versé le poison. Le trône revient au fils de Rhaenyra, Aegon III, un garçon d'une dizaine d'années. Pendant quelques jours, Cregan rend la justice comme Main du roi, puis il rentre dans le Nord : c'est ce qu'on appelle l'Heure du Loup. Le bilan dépasse la seule famille royale. À la fin de la guerre, quatre dragons seulement sont encore en vie, dont un éclos pendant le conflit. Le dernier dragon des Targaryen meurt en 153. La Maison a gagné sa querelle de succession et perdu, dans le même temps, ce qui lui avait permis de conquérir le royaume.",
+            "en": "Aegon II died of poison in 131, as a northern army led by Cregan Stark was nearing the capital. Who poured the poison was never established. The throne passed to Rhaenyra's son, Aegon III, a boy of about ten. For a few days Cregan dispensed justice as Hand of the King, then went home to the North: this is what is called the Hour of the Wolf. The toll reached far beyond the royal family. At the war's end only four dragons were still alive, one of them hatched during the fighting. The last Targaryen dragon died in 153. The House had won its quarrel over the succession and lost, at the same stroke, what had allowed it to conquer the realm."
           },
           "links": [
             {
@@ -2444,8 +2444,8 @@
           ],
           "answer": 1,
           "explanation": {
-            "fr": "Daemon sur Caraxès et Aemond sur Vhagar s'affrontèrent au-dessus de l'Œildieu en 130. Les deux princes et leurs dragons y trouvèrent la mort, et aucun ne revint.",
-            "en": "Daemon on Caraxes and Aemond on Vhagar met in the air above the Gods Eye in 130. Both princes and both dragons died there, and none of them came back."
+            "fr": "Daemon sur Caraxès et Aemond sur Vhagar s'affrontèrent au-dessus de l'Œildieu en 130. Les deux princes et leurs dragons y trouvèrent la mort.",
+            "en": "Daemon on Caraxes and Aemond on Vhagar met in the air above the Gods Eye in 130. Both princes and both dragons died there."
           },
           "source": {
             "id": "fab"
@@ -2543,8 +2543,8 @@
           ],
           "answer": 3,
           "explanation": {
-            "fr": "Quatre dragons survécurent : Silverwing, Sheepstealer, Cannibal et Morning, tout juste éclose. Les deux dragons sans maître disparurent, et la Maison ne retrouva jamais sa puissance d'avant.",
-            "en": "Four dragons survived: Silverwing, Sheepstealer, Cannibal and the newly hatched Morning. The two masterless dragons vanished soon after, and the House never regained the strength it had before the war."
+            "fr": "Quatre dragons survécurent : Silverwing, Sheepstealer, Cannibal et Morning, tout juste éclose. Sheepstealer, parti avec Orties, et Cannibal disparurent ensuite, et la Maison ne retrouva jamais sa puissance d'avant.",
+            "en": "Four dragons survived: Silverwing, Sheepstealer, Cannibal and the newly hatched Morning. Sheepstealer, gone with Nettles, and Cannibal later vanished, and the House never regained the strength it had before the war."
           },
           "source": {
             "id": "fab"
@@ -2609,8 +2609,8 @@
             "en": "Balerion, the Black Dread"
           },
           "body": {
-            "fr": "Balerion est le seul des cinq dragons d'Aenar à vivre jusqu'à l'époque d'Aegon. Né à Valyria, il est déjà ancien au moment de la Conquête. Son feu est noir, et c'est sous ses flammes que tombe Harrenhal, où périssent Harren le Noir et ses fils. Après la mort d'Aegon, en 37, il passe à Maegor, qui le monte contre ses neveux et contre la Foi. Plus tard, la jeune princesse Aerea s'enfuit sur son dos et ne revient, plus d'un an après, que pour mourir. Le prince Viserys, futur Viserys Ier, est son dernier cavalier : en 93, il obtient de lui quelques tours au-dessus de la ville. Balerion meurt de vieillesse l'année suivante, âgé de plus de deux siècles.",
-            "en": "Balerion was the only one of Aenar's five dragons to live into Aegon's time. Hatched in Valyria, he was already old at the time of the Conquest. His fire was black, and it was under his flames that Harrenhal fell, with Harren the Black and his sons inside. After Aegon's death in 37 he passed to Maegor, who rode him against his nephews and against the Faith. Later the young Princess Aerea fled on his back and came home, more than a year afterwards, only to die. Prince Viserys, the future Viserys I, was his last rider: in 93 he coaxed a few circuits above the city out of him. Balerion died of old age the following year, more than two centuries old."
+            "fr": "Balerion est le seul des cinq dragons d'Aenar à vivre jusqu'à l'époque d'Aegon. Né à Valyria, il est déjà ancien au moment de la Conquête. Son feu est noir, et c'est sous ses flammes que tombe Harrenhal, où périssent Harren le Noir et ses fils. Après la mort d'Aegon, en 37, il passe à Maegor, qui le monte contre ses neveux et contre la Foi. Plus tard, la jeune princesse Aerea s'enfuit sur son dos et ne revient, plus d'un an après, que pour mourir. Le prince Viserys, futur Viserys Ier, est son dernier cavalier : en 93, il obtient de lui trois tours au-dessus de la ville. Balerion meurt de vieillesse l'année suivante, âgé de plus de deux siècles.",
+            "en": "Balerion was the only one of Aenar's five dragons to live into Aegon's time. Hatched in Valyria, he was already old at the time of the Conquest. His fire was black, and it was under his flames that Harrenhal fell, with Harren the Black and his sons inside. After Aegon's death in 37 he passed to Maegor, who rode him against his nephews and against the Faith. Later the young Princess Aerea fled on his back and came home, more than a year afterwards, only to die. Prince Viserys, the future Viserys I, was his last rider: in 93 he coaxed three circuits of the city out of him. Balerion died of old age the following year, more than two centuries old."
           },
           "links": [
             {
@@ -2664,8 +2664,8 @@
             "en": "Vhagar and Meraxes"
           },
           "body": {
-            "fr": "Les dragons des deux reines de la Conquête sont nés à Peyredragon. Meraxès, aux écailles d'argent et aux yeux d'or, porte Rhaenys. En 10 apr. C., pendant la guerre contre Dorne, un trait de scorpion lui traverse l'œil au-dessus de Denfert ; la dragonne et sa cavalière tombent ensemble. Vhagar, la dragonne de Visenya, connaît une vie beaucoup plus longue. Après Visenya, elle porte le prince Baelon, puis Laena Velaryon, enfin Aemond. Au temps de la Danse, elle est la plus vieille et la plus grande des dragons de Westeros, presque aussi grande que l'était Balerion. Elle meurt en 130 au-dessus de l'Œildieu. Elle seule relie les combats de la Conquête à ceux de la guerre civile.",
-            "en": "The dragons of the two queens of the Conquest were born on Dragonstone. Meraxes, with silver scales and golden eyes, carried Rhaenys. In 10 AC, during the war against Dorne, a scorpion bolt pierced her eye above Hellholt; dragon and rider fell together. Vhagar, Visenya's dragon, had a far longer life. After Visenya she carried Prince Baelon, then Laena Velaryon, and finally Aemond. By the time of the Dance she was the oldest and largest dragon in Westeros, nearly as large as Balerion had been. She died in 130 above the Gods Eye. She alone links the battles of the Conquest to those of the civil war."
+            "fr": "Les dragons des deux reines de la Conquête sont nés à Peyredragon. Meraxès, aux écailles d'argent et aux yeux d'or, porte Rhaenys. En 10 apr. C., pendant la guerre contre Dorne, un trait de scorpion lui traverse l'œil au-dessus de Denfert ; la dragonne s'abat avec sa cavalière, dont la mort est rapportée de plusieurs façons. Vhagar, la dragonne de Visenya, connaît une vie beaucoup plus longue. Après Visenya, elle porte le prince Baelon, puis Laena Velaryon, enfin Aemond. Au temps de la Danse, elle est la plus vieille et la plus grande des dragons de Westeros, presque aussi grande que l'était Balerion. Elle meurt en 130 au-dessus de l'Œildieu. Elle seule relie les combats de la Conquête à ceux de la guerre civile.",
+            "en": "The dragons of the two queens of the Conquest were born on Dragonstone. Meraxes, with silver scales and golden eyes, carried Rhaenys. In 10 AC, during the war against Dorne, a scorpion bolt pierced her eye above Hellholt; the dragon came down with her rider, whose death is told in more than one way. Vhagar, Visenya's dragon, had a far longer life. After Visenya she carried Prince Baelon, then Laena Velaryon, and finally Aemond. By the time of the Dance she was the oldest and largest dragon in Westeros, nearly as large as Balerion had been. She died in 130 above the Gods Eye. She alone links the battles of the Conquest to those of the civil war."
           },
           "links": [
             {
@@ -2715,8 +2715,8 @@
             "en": "The Old King's dragons"
           },
           "body": {
-            "fr": "Sous Jaehaerys Ier, les dragons se multiplient à Peyredragon et à Port-Réal. Le roi monte Vermithor ; la reine Alysanne monte Silverwing, avec laquelle elle parcourt le royaume jusqu'au Mur. Leurs enfants ont aussi leurs dragons : Aemon prend Caraxès, Baelon Vhagar, Alyssa Meleys, qu'on appellera la Reine rouge. Ce sont ces bêtes, nées ou dressées pendant la longue paix, qui serviront de montures pendant la Danse, une génération plus tard. Caraxès passe à Daemon, Meleys à Rhaenys, fille d'Aemon. La longévité des dragons explique un trait singulier de l'histoire targaryenne : une même bête porte souvent un grand-père, puis un petit-fils, et relie entre elles des époques éloignées.",
-            "en": "Under Jaehaerys I the dragons multiplied on Dragonstone and in King's Landing. The king rode Vermithor; Queen Alysanne rode Silverwing, with whom she travelled the realm as far as the Wall. Their children had their dragons too: Aemon took Caraxes, Baelon Vhagar, Alyssa Meleys, who would be called the Red Queen. These beasts, hatched or trained during the long peace, would serve as mounts in the Dance a generation later. Caraxes passed to Daemon, Meleys to Rhaenys, daughter of Aemon. The long lives of dragons explain a peculiar feature of Targaryen history: the same beast often carried a grandfather and then a grandson, and tied distant eras together."
+            "fr": "Sous Jaehaerys Ier, les dragons se multiplient à Peyredragon et à Port-Réal. Le roi monte Vermithor ; la reine Alysanne monte Silverwing, avec laquelle elle parcourt le royaume jusqu'au Mur. Leurs enfants ont aussi leurs dragons : Aemon prend Caraxès, Baelon Vhagar, Alyssa Meleys, qu'on appellera la Reine rouge. Ce sont ces bêtes, nées ou dressées pendant la longue paix, qui serviront de montures pendant la Danse, une génération plus tard. Caraxès passe à Daemon, Meleys à Rhaenys, fille d'Aemon. La longévité des dragons explique un trait singulier de l'histoire targaryenne : une même bête porte souvent plusieurs générations de la famille et relie entre elles des époques éloignées.",
+            "en": "Under Jaehaerys I the dragons multiplied on Dragonstone and in King's Landing. The king rode Vermithor; Queen Alysanne rode Silverwing, with whom she travelled the realm as far as the Wall. Their children had their dragons too: Aemon took Caraxes, Baelon Vhagar, Alyssa Meleys, who would be called the Red Queen. These beasts, hatched or trained during the long peace, would serve as mounts in the Dance a generation later. Caraxes passed to Daemon, Meleys to Rhaenys, daughter of Aemon. The long lives of dragons explain a peculiar feature of Targaryen history: the same beast often carried several generations of the family and tied distant eras together."
           },
           "links": [
             {
@@ -2876,8 +2876,8 @@
             "en": "The end of the dragons"
           },
           "body": {
-            "fr": "À la fin de la Danse, quatre dragons seulement sont en vie : Silverwing, redevenue sauvage ; Sheepstealer et Cannibal, qui disparaissent ; et Morning, à peine éclose pour Rhaena, fille de Daemon. Les dragons nés ensuite sont faibles et les œufs n'éclosent plus guère. Le dernier dragon des Targaryen, une femelle verte, chétive, aux ailes atrophiées, meurt en 153, sous le règne d'Aegon III. On a accusé le roi lui-même de l'avoir fait empoisonner, puis, bien plus tard, les mestres ; rien ne le prouve. Aegon III, qui avait vu sa mère livrée à Sunfyre, reste dans les chroniques comme le Fléau des dragons. Pendant près d'un siècle et demi, la dynastie règne sur le souvenir de ses dragons.",
-            "en": "At the end of the Dance only four dragons were alive: Silverwing, gone wild again; Sheepstealer and Cannibal, who disappeared; and Morning, newly hatched for Rhaena, daughter of Daemon. The dragons born afterwards were weak, and the eggs seldom hatched any more. The last Targaryen dragon, a stunted green female with withered wings, died in 153, in the reign of Aegon III. The king himself was accused of having her poisoned, and much later the maesters were; nothing proves either. Aegon III, who had seen his mother given to Sunfyre, is remembered in the chronicles as the Dragonbane. For nearly a century and a half the dynasty reigned on the memory of its dragons."
+            "fr": "À la fin de la Danse, quatre dragons seulement sont en vie : Silverwing, redevenue sauvage ; Sheepstealer et Cannibal, qui disparaissent ; et Morning, à peine éclose pour Rhaena, fille de Daemon. Les dragons nés ensuite sont faibles et les œufs n'éclosent plus guère. Le dernier dragon des Targaryen, une femelle verte, chétive, aux ailes atrophiées, meurt en 153, sous le règne d'Aegon III. On a accusé le roi lui-même de l'avoir fait empoisonner, puis, bien plus tard, les mestres ; rien ne le prouve. Aegon III, qui avait vu sa mère livrée à Sunfyre, reste dans les chroniques comme le Fléau des dragons. Pendant plus d'un siècle, la dynastie règne sur le souvenir de ses dragons.",
+            "en": "At the end of the Dance only four dragons were alive: Silverwing, gone wild again; Sheepstealer and Cannibal, who disappeared; and Morning, newly hatched for Rhaena, daughter of Daemon. The dragons born afterwards were weak, and the eggs seldom hatched any more. The last Targaryen dragon, a stunted green female with withered wings, died in 153, in the reign of Aegon III. The king himself was accused of having her poisoned, and much later the maesters were; nothing proves either. Aegon III, who had seen his mother given to Sunfyre, is remembered in the chronicles as the Dragonbane. For more than a century the dynasty reigned on the memory of its dragons."
           },
           "links": [
             {
@@ -2931,8 +2931,8 @@
             "en": "Bringing dragons back"
           },
           "body": {
-            "fr": "Plusieurs rois tentent de rendre la vie aux œufs restés à Peyredragon et à Port-Réal. Aegon III fait venir des mages d'Essos ; Baelor Ier prie au-dessus des œufs ; Aegon IV fait construire par les pyromants des dragons de bois et de fer, qui coûtent la vie à des centaines d'hommes et n'aboutissent à rien. La tentative la plus lourde de conséquences est celle d'Aegon V. En 259, il réunit sa famille à Lestival, son château des marches de Dorne, et le château brûle. Le roi, son fils Duncan et ser Duncan le Grand, lord Commandant de la Garde Royale, y meurent. Ce qui s'est passé reste obscur : une lettre tachée laisse deviner des œufs, des pyromants et du feu grégeois, sans témoignage sûr. Le même jour naît Rhaegar.",
-            "en": "Several kings tried to bring life back to the eggs left on Dragonstone and in King's Landing. Aegon III sent for mages from Essos; Baelor I prayed over the eggs; Aegon IV had the pyromancers build dragons of wood and iron, which cost hundreds of lives and came to nothing. The attempt with the heaviest consequences was that of Aegon V. In 259 he gathered his family at Summerhall, his castle in the Dornish Marches, and the castle burned. The king, his son Duncan and Ser Duncan the Tall, Lord Commander of the Kingsguard, died there. What happened remains obscure: a stained letter hints at eggs, pyromancers and wildfire, with no reliable witness. Rhaegar was born that same day."
+            "fr": "Plusieurs rois tentent de rendre des dragons à la Maison. Aegon III fait venir des mages d'Essos ; Baelor Ier prie au-dessus des œufs ; Aegon IV fait construire par les pyromants des dragons de bois et de fer, qui coûtent la vie à des centaines d'hommes et n'aboutissent à rien. La tentative la plus lourde de conséquences est celle d'Aegon V. En 259, il réunit sa famille à Lestival, son château des marches de Dorne, et le château brûle. Le roi, son fils Duncan et ser Duncan le Grand, lord Commandant de la Garde Royale, y meurent. Ce qui s'est passé reste obscur : une lettre tachée laisse deviner des œufs, des pyromants et du feu grégeois, sans témoignage sûr. Le même jour naît Rhaegar.",
+            "en": "Several kings tried to give the House dragons again. Aegon III sent for mages from Essos; Baelor I prayed over the eggs; Aegon IV had the pyromancers build dragons of wood and iron, which cost hundreds of lives and came to nothing. The attempt with the heaviest consequences was that of Aegon V. In 259 he gathered his family at Summerhall, his castle in the Dornish Marches, and the castle burned. The king, his son Duncan and Ser Duncan the Tall, Lord Commander of the Kingsguard, died there. What happened remains obscure: a stained letter hints at eggs, pyromancers and wildfire, with no reliable witness. Rhaegar was born that same day."
           },
           "links": [
             {
@@ -2959,8 +2959,8 @@
           ],
           "retain": [
             {
-              "fr": "Plusieurs rois tentent en vain de faire éclore des œufs.",
-              "en": "Several kings try in vain to hatch eggs."
+              "fr": "Plusieurs rois tentent en vain de retrouver des dragons.",
+              "en": "Several kings try in vain to regain dragons."
             },
             {
               "fr": "Lestival brûle en 259 ; Aegon V y meurt.",
@@ -2979,8 +2979,8 @@
             "en": "Daenerys's three dragons"
           },
           "body": {
-            "fr": "Pour ses noces avec le khal Drogo, Daenerys reçoit trois œufs de dragon changés en pierre par les siècles, offerts comme de simples curiosités. Après la mort de Drogo, elle les place sur le bûcher funèbre de son époux et entre dans les flammes. Au matin, elle en sort vivante, et trois dragons sont nés. Elle les nomme d'après des hommes de sa vie : Drogon, noir et rouge, pour Drogo ; Rhaegal, vert et bronze, pour son frère Rhaegar ; Viserion, crème et or, pour son frère Viserys. À Meereen, après la mort d'un enfant attribuée à un dragon, elle enchaîne Rhaegal et Viserion, tandis que Drogon lui échappe. Dans l'arène de Daznak, il revient et l'emporte loin de la ville. Les livres publiés s'arrêtent là.",
-            "en": "For her wedding to Khal Drogo, Daenerys received three dragon eggs turned to stone by the centuries, given as mere curiosities. After Drogo's death she placed them on her husband's funeral pyre and walked into the flames. In the morning she came out alive, and three dragons had been born. She named them after men in her life: Drogon, black and red, for Drogo; Rhaegal, green and bronze, for her brother Rhaegar; Viserion, cream and gold, for her brother Viserys. In Meereen, after a child's death was blamed on a dragon, she chained Rhaegal and Viserion, while Drogon escaped her. In Daznak's Pit he returned and carried her far from the city. The published books stop there."
+            "fr": "Pour ses noces avec le khal Drogo, Daenerys reçoit trois œufs de dragon changés en pierre par les siècles, offerts comme de simples curiosités. Après la mort de Drogo, elle les place sur le bûcher funèbre de son époux et entre dans les flammes. Au matin, elle en sort vivante, et trois dragons sont nés. Elle les nomme d'après des hommes de sa vie : Drogon, noir et rouge, pour Drogo ; Rhaegal, vert et bronze, pour son frère Rhaegar ; Viserion, crème et or, pour son frère Viserys. À Meereen, après la mort d'un enfant attribuée à un dragon, elle enchaîne Rhaegal et Viserion, tandis que Drogon lui échappe. Dans l'arène de Daznak, il revient et l'emporte loin de la ville. Les livres publiés la laissent ensuite loin de Meereen, sans dire ce que deviendront ses dragons.",
+            "en": "For her wedding to Khal Drogo, Daenerys received three dragon eggs turned to stone by the centuries, given as mere curiosities. After Drogo's death she placed them on her husband's funeral pyre and walked into the flames. In the morning she came out alive, and three dragons had been born. She named them after men in her life: Drogon, black and red, for Drogo; Rhaegal, green and bronze, for her brother Rhaegar; Viserion, cream and gold, for her brother Viserys. In Meereen, after a child's death was blamed on a dragon, she chained Rhaegal and Viserion, while Drogon escaped her. In Daznak's Pit he returned and carried her far from the city. The published books then leave her far from Meereen, without saying what will become of her dragons."
           },
           "links": [
             {
@@ -3117,8 +3117,8 @@
           ],
           "answer": 1,
           "explanation": {
-            "fr": "En 10 apr. C., pendant la Première Guerre dornienne, un trait de scorpion traversa l'œil de Meraxès au-dessus de Denfert. Rhaenys mourut dans la chute.",
-            "en": "In 10 AC, during the First Dornish War, a bolt from a scorpion went through the eye of Meraxes above Hellholt. Rhaenys died in the fall."
+            "fr": "En 10 apr. C., pendant la Première Guerre dornienne, un trait de scorpion traversa l'œil de Meraxès au-dessus de Denfert. Rhaenys y trouva la mort, dans des circonstances que les récits rapportent diversement.",
+            "en": "In 10 AC, during the First Dornish War, a bolt from a scorpion went through the eye of Meraxes above Hellholt. Rhaenys died there, in circumstances the accounts report differently."
           },
           "source": {
             "id": "fab"
