@@ -1,0 +1,278 @@
+/*
+ * Thème de la version 3, « le Codex armorié » (v3-spec §2). Tout est sous la classe racine .v3.
+ *
+ * Le champ pour trouver, le vélin pour lire. Le champ d'obsidienne est plat (ni grain, ni
+ * lumière) ; la fasce de gueules y règle le temps. Le folio de vélin ([data-surface='velin'])
+ * ne se pose que là où un texte long se lit. Les encres sémantiques --v3-* changent avec la
+ * surface ; le pont redéfinit celles des composants importés de la V1 (--v1-*) et les mesures
+ * de ceux de la V2 (--v2-*), qui se lisent ainsi sans être modifiés.
+ *
+ * Rangé dans la couche v3, après reset et base : les CSS Modules (hors couche) l'emportent.
+ */
+
+@layer v3 {
+  .v3 {
+    /* ------------------------------------------------------------ Mesures du bâti */
+    --v3-ligne: 4rem;
+    --v3-fasce-ciel: 0.75rem;
+    --v3-fasce-masse: 2.75rem;
+    --v3-fasce-rangee: 2.75rem;
+    --v3-fasce-chiffres: 0rem;
+    --v3-fasce-fil: 3px;
+    --v3-cartel: 21rem;
+    --v3-fasce: calc(var(--v3-fasce-ciel) + var(--v3-fasce-masse) + var(--v3-fasce-rangee) + var(--v3-fasce-chiffres));
+    --v3-fasce-eteinte: calc(var(--v3-fasce-fil) + var(--v3-fasce-rangee) + var(--v3-fasce-chiffres));
+    --v3-fasce-seule: calc(var(--v3-fasce-rangee) + var(--v3-fasce-chiffres));
+    --v3-fasce-courante: var(--v3-fasce);
+    --v3-zone-sure: env(safe-area-inset-bottom, 0px);
+    --v3-fasce-totale: calc(var(--v3-fasce-courante) + var(--v3-zone-sure));
+    --v3-reserve-bas: calc(var(--v3-fasce-totale) + var(--e6));
+    --v3-volet: min(28rem, 34vw);
+    --v3-folio-pad: clamp(1.25rem, 4vw, 4rem);
+    --v3-colonne: calc((100% - 11 * var(--gouttiere)) / 12);
+    --v3-bord: 1rem;
+
+    /* ------------------------------------------------------------ Matières */
+    --v3-cuir-1: oklch(0.3 0.1 24);
+    --v3-cuir-2: oklch(0.26 0.04 45);
+    --v3-cuir-3: oklch(0.32 0.115 23);
+    --v3-cuir-4: oklch(0.23 0.035 40);
+    --v3-cuir-5: var(--cramoisi);
+    --v3-cuir-6: oklch(0.25 0.05 50);
+    --v3-cuir-7: oklch(0.215 0.022 32);
+    --v3-cuir-8: var(--suie);
+    --v3-or-encre: oklch(0.47 0.09 72);
+    --v3-or-sombre: oklch(0.52 0.1 75);
+    --v3-vert: oklch(0.58 0.09 150);
+    /* Ombre du folio : courte, dure, teintée ; jamais grise ni floue. */
+    --v3-ombre-portee: oklch(0.08 0.012 25 / 0.62);
+
+    /* ------------------------------------------------------------ Encres du champ */
+    --v3-texte: var(--ivoire);
+    --v3-texte-2: var(--cendre);
+    --v3-rubrique: var(--braise);
+    --v3-or: var(--or);
+    --v3-trait: var(--basalte);
+    --v3-surface: var(--obsidienne);
+    --v3-actif: var(--braise);
+    --focus-couleur: var(--braise);
+
+    /* ------------------------------------------------------------ Pont vers la V1 */
+    --v1-texte: var(--v3-texte);
+    --v1-texte-2: var(--v3-texte-2);
+    --v1-rubrique: var(--v3-rubrique);
+    --v1-or: var(--v3-or);
+    --v1-or-sombre: var(--v3-or-sombre);
+    --v1-or-encre: var(--v3-or-encre);
+    --v1-trait: var(--v3-trait);
+    --v1-surface: var(--v3-surface);
+    --v1-actif: var(--v3-actif);
+    --v1-folio-pad: var(--v3-folio-pad);
+    --v1-folio-max: none;
+    --v1-ombre-portee: var(--v3-ombre-portee);
+    --v1-barre: 0px;
+    --v1-etagere: 0px;
+    --v1-cuir-1: var(--v3-cuir-1);
+    --v1-cuir-2: var(--v3-cuir-2);
+    --v1-cuir-3: var(--v3-cuir-3);
+    --v1-cuir-4: var(--v3-cuir-4);
+    --v1-cuir-5: var(--v3-cuir-5);
+    --v1-cuir-6: var(--v3-cuir-6);
+    --v1-cuir-7: var(--v3-cuir-7);
+    --v1-cuir-8: var(--v3-cuir-8);
+
+    /* ------------------------------------------------------------ Pont vers la V2 */
+    --v2-ligne: var(--v3-ligne);
+    --v2-fasce-ciel: var(--v3-fasce-ciel);
+    --v2-fasce-masse: var(--v3-fasce-masse);
+    --v2-fasce-rangee: var(--v3-fasce-rangee);
+    --v2-fasce-chiffres: var(--v3-fasce-chiffres);
+    --v2-fasce: var(--v3-fasce-courante);
+    --v2-zone-sure: var(--v3-zone-sure);
+    --v2-fasce-totale: var(--v3-fasce-totale);
+    --v2-cartel: var(--v3-cartel);
+    --v2-volet: var(--v3-volet);
+    --v2-hachure: 4px;
+    --v2-bord: var(--v3-bord);
+    --v2-vert: var(--v3-vert);
+    --v2-reserve: var(--obsidienne);
+    --v2-reserve-bas: var(--v3-reserve-bas);
+    --v2-colonne: var(--v3-colonne);
+
+    /* La carte peinte de la V2 : pas de hachure de mer. */
+    --map-hatch: transparent;
+
+    min-height: 100svh;
+    background: var(--obsidienne);
+    color: var(--v3-texte);
+  }
+
+  /* Fasce éteinte : un fil de cramoisi et la rangée. */
+  .v3[data-fasce='eteinte'] {
+    --v3-fasce-courante: var(--v3-fasce-eteinte);
+  }
+
+  /* Portail, majesté à l'écran : la fasce fixe ne montre que sa rangée. */
+  .v3[data-fasce='portail'] {
+    --v3-fasce-courante: var(--v3-fasce-seule);
+  }
+
+  /* Téléphone et tablette : masse de 16 px sans ciel, rangée des commandes. */
+  @media (width < 1024px) {
+    .v3 {
+      --v3-ligne: 3rem;
+      --v3-fasce-ciel: 0rem;
+      --v3-fasce-masse: 1rem;
+      --marge-page: 1.25rem;
+    }
+  }
+
+  @media (768px <= width < 1024px) {
+    .v3 {
+      --v3-fasce-chiffres: 2.75rem;
+    }
+  }
+
+  /* Paysage bas : masse de 10 px. */
+  @media (width < 1024px) and (height < 480px) and (orientation: landscape) {
+    .v3 {
+      --v3-fasce-masse: 0.625rem;
+      --v3-fasce-chiffres: 0rem;
+    }
+  }
+
+  /* ------------------------------------------------------------ Encres du vélin */
+  .v3 [data-surface='velin'] {
+    --v3-texte: var(--encre);
+    --v3-texte-2: var(--encre-pale);
+    --v3-rubrique: var(--rubrique);
+    --v3-or: var(--v3-or-sombre);
+    --v3-trait: oklch(0.74 0.04 72);
+    --v3-surface: var(--velin);
+    --v3-actif: var(--rubrique);
+    --focus-couleur: var(--rubrique);
+
+    --v1-texte: var(--v3-texte);
+    --v1-texte-2: var(--v3-texte-2);
+    --v1-rubrique: var(--v3-rubrique);
+    --v1-or: var(--v3-or);
+    --v1-trait: var(--v3-trait);
+    --v1-surface: var(--v3-surface);
+    --v1-actif: var(--v3-actif);
+
+    color: var(--v3-texte);
+    line-height: var(--il-recit);
+    color-scheme: light;
+  }
+
+  /* ------------------------------------------------------------ Titres
+     Bas de casse, serrés. Ivoire sur le champ ; sur le folio, la rubrique les porte (Rubric). */
+  .v3 :is(h1, h2, h3, h4) {
+    font-family: var(--f-chronique);
+    font-weight: 350;
+    font-variation-settings: 'opsz' 72;
+    letter-spacing: -0.02em;
+    line-height: 0.98;
+    color: var(--v3-texte);
+    text-wrap: balance;
+  }
+
+  .v3 :is(h3, h4) {
+    font-weight: 400;
+    font-variation-settings: 'opsz' 36;
+    line-height: 1.05;
+  }
+
+  /* ------------------------------------------------------------ Liens (v3-spec §5)
+     Soulignement de 2 px décalé de 3 px ; le texte ne change jamais de couleur.
+     Champ : cendre (navigation), sang (entité), braise au survol.
+     Vélin : rubrique, encre épaissie à 3 px au survol. */
+  .v3 a {
+    color: inherit;
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    text-decoration-color: var(--cendre);
+    transition: text-decoration-color var(--d-geste-court) var(--c-expo);
+  }
+
+  .v3 a[data-entite] {
+    text-decoration-color: var(--sang);
+  }
+
+  .v3 a:hover,
+  .v3 a:focus-visible {
+    text-decoration-color: var(--braise);
+    text-decoration-thickness: 2px;
+  }
+
+  .v3 [data-surface='velin'] a,
+  .v3 [data-surface='velin'] a[data-entite] {
+    text-decoration-color: var(--rubrique);
+  }
+
+  .v3 [data-surface='velin'] a:hover,
+  .v3 [data-surface='velin'] a:focus-visible {
+    text-decoration-color: var(--encre);
+    text-decoration-thickness: 3px;
+  }
+
+  /* ------------------------------------------------------------ La glose interlinéaire */
+  .v3 .gloss--hv {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    vertical-align: top;
+  }
+
+  .v3 .gloss__tr {
+    font-family: var(--f-recit);
+    font-style: italic;
+    font-weight: 400;
+    font-size: max(0.42em, var(--t-1));
+    line-height: 1.22;
+    letter-spacing: 0;
+    color: var(--v3-texte-2);
+    font-variation-settings: normal;
+  }
+
+  /* ------------------------------------------------------------ Le récit */
+  .v3 p {
+    hyphens: auto;
+  }
+
+  .v3 time {
+    white-space: nowrap;
+  }
+
+  /* Sigles d'ère : vraies petites capitales, jamais espacées. */
+  .v3 .ere {
+    font-variant-caps: all-small-caps;
+    letter-spacing: 0;
+  }
+
+  .v3 ::selection {
+    background: var(--cramoisi);
+    color: var(--ivoire);
+  }
+
+  .v3 [data-surface='velin'] ::selection {
+    background: var(--sang);
+    color: var(--ivoire);
+  }
+
+  /* Aucune croix native dans les champs de recherche. */
+  .v3 input[type='search']::-webkit-search-cancel-button {
+    appearance: none;
+  }
+}
+
+/*
+ * Au téléphone, la gouttière réservée à la barre de défilement laissait une bande sombre au
+ * bord droit du vélin (défaut de la V1 vu à 390) : hors couche pour passer devant `base`.
+ */
+@media (width < 1024px) {
+  html:has(.v3) {
+    scrollbar-gutter: auto;
+  }
+}

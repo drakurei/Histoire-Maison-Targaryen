@@ -1,0 +1,104 @@
+{
+  "personId": "shaera",
+  "titles": [
+    {
+      "fr": "Reine",
+      "en": "Queen"
+    },
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Fille d'Aegon V, Shaera épousa en secret son frère Jaehaerys contre la volonté de son père et fut reine pendant les trois années de son règne.",
+    "en": "The daughter of Aegon V, Shaera married her brother Jaehaerys in secret against her father's will and was queen for the three years of his reign."
+  },
+  "sections": [
+    {
+      "id": "shaera-promesse",
+      "heading": {
+        "fr": "Une fiancée pour Hautjardin",
+        "en": "A Bride for Highgarden"
+      },
+      "body": {
+        "fr": "Shaera naît en 226 apr. C., fille aînée d'Aegon et de Betha Blackwood, après ses frères Duncan et Jaehaerys ; viendront ensuite Daeron et Rhaelle. Elle a sept ans quand le Grand Conseil de 233 apr. C. fait de son père un roi. Aegon V a pris en aversion la vieille coutume qui mariait le frère à la sœur pour garder pur le sang du dragon. Il entend au contraire unir ses enfants aux grandes maisons et se faire par là des alliés.\n\nEn 237 apr. C., à onze ans, Shaera est donc promise par sa mère à Luthor Tyrell, l'héritier de Hautjardin. Le projet se heurte à un sentiment que ses parents n'ont pas su prévenir : Shaera et son frère Jaehaerys s'aiment. Le roi et la reine font tout pour les éloigner l'un de l'autre, sans autre résultat que d'aviver ce qu'ils voulaient éteindre.",
+        "en": "Shaera was born in 226 AC, the elder daughter of Aegon and Betha Blackwood, after her brothers Duncan and Jaehaerys; Daeron and Rhaelle came later. She was seven when the Great Council of 233 AC made her father king. Aegon V had come to dislike the old custom of marrying brother to sister to keep the dragon's blood pure. He meant instead to unite his children with the great houses and so gain allies.\n\nIn 237 AC, at eleven, Shaera was therefore promised by her mother to Luthor Tyrell, heir to Highgarden. The plan ran up against a feeling her parents had failed to forestall: Shaera and her brother Jaehaerys loved each other. The king and queen did all they could to keep them apart, with no result but to inflame what they had hoped to smother."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        }
+      ]
+    },
+    {
+      "id": "shaera-mariage",
+      "heading": {
+        "fr": "Le mariage secret de 240",
+        "en": "The Secret Marriage of 240"
+      },
+      "body": {
+        "fr": "En 239 apr. C., le prince Duncan rompt ses fiançailles pour épouser Jenny de Vieilles-Pierres ; malgré la révolte d'Accalmie, le roi finit par céder à son fils. Shaera et Jaehaerys en tirent la leçon. En 240 apr. C., à quatorze et quinze ans, ils trompent la surveillance de leurs gardiens et se marient en secret. Quand la nouvelle parvient à leurs parents, l'union est consommée, et Aegon V n'a d'autre choix que de l'accepter, en essuyant la colère des Tyrell et des Tully.\n\nShaera met au monde un fils, Aerys, en 244 apr. C., à dix-huit ans, puis une fille, Rhaella, dans les deux ans qui suivent. Le couple s'était choisi ; Jaehaerys décide pourtant de marier ses deux enfants l'un à l'autre, sur la foi d'une sorcière des bois qui prédit que le prince promis naîtra de cette lignée. Aerys et Rhaella s'y plient sans affection. Ce que Shaera pensa de ce mariage, les sources ne le disent pas.",
+        "en": "In 239 AC Prince Duncan broke his betrothal to marry Jenny of Oldstones; despite the revolt at Storm's End, the king ended by yielding to his son. Shaera and Jaehaerys learned the lesson. In 240 AC, aged fourteen and fifteen, they slipped their guardians and married in secret. By the time the news reached their parents the union had been consummated, and Aegon V had no choice but to accept it, while bearing the anger of the Tyrells and the Tullys.\n\nShaera bore a son, Aerys, in 244 AC, at eighteen, and then a daughter, Rhaella, within the next two years. The couple had chosen each other; Jaehaerys nonetheless decided to marry their two children to one another, trusting a woods witch who foretold that the prince that was promised would be born of that line. Aerys and Rhaella submitted without affection. What Shaera thought of this marriage, the sources do not say."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys IV (ch. 23)"
+        }
+      ]
+    },
+    {
+      "id": "shaera-reine",
+      "heading": {
+        "fr": "Reine",
+        "en": "Queen"
+      },
+      "body": {
+        "fr": "En 259 apr. C., Aegon V réunit les siens à Lestival pour attendre la naissance du premier enfant d'Aerys et de Rhaella, qui serait le premier petit-enfant de Shaera. L'incendie tue le roi et le prince Duncan. On ignore si Shaera et Jaehaerys étaient présents ; on sait seulement qu'ils survécurent, comme le jeune couple et le nouveau-né, Rhaegar. Jaehaerys monte sur le trône et Shaera devient reine.\n\nL'année suivante, quand l'armée part pour les Degrés de Pierre combattre Maelys Feunoyr, la Main conseille au roi de ne pas la conduire et de demeurer à Port-Réal auprès de la reine. C'est la dernière fois que les sources la mentionnent avec certitude. Jaehaerys meurt en 262 apr. C., et son fils règne désormais sous le nom d'Aerys II. La date de la mort de Shaera n'est pas connue, pas plus que la part qu'elle prit, veuve, à la cour de son fils.",
+        "en": "In 259 AC Aegon V gathered his family at Summerhall to await the birth of the first child of Aerys and Rhaella, who would be Shaera's first grandchild. The fire killed the king and Prince Duncan. It is not known whether Shaera and Jaehaerys were present; we know only that they survived, as did the young couple and the newborn Rhaegar. Jaehaerys came to the throne and Shaera became queen.\n\nThe following year, when the army left for the Stepstones to fight Maelys Blackfyre, the Hand advised the king not to lead it and to remain in King's Landing with the queen. This is the last time the sources mention her with certainty. Jaehaerys died in 262 AC, and his son now reigned as Aerys II. The date of Shaera's death is unknown, as is whatever part she played, as a widow, at her son's court."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-grand-conseil-233",
+    "p6-duncan-jenny",
+    "p6-lestival",
+    "p6-neuf-sous"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "On ignore si Shaera assista à la tragédie de Lestival et quand elle mourut. Les sources attribuent à Jaehaerys seul la décision de marier Aerys et Rhaella ; le rôle de Shaera dans ce choix n'est pas connu.",
+    "en": "It is not known whether Shaera witnessed the tragedy of Summerhall or when she died. The sources credit Jaehaerys alone with the decision to marry Aerys to Rhaella; Shaera's part in that choice is unknown."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon V"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys II"
+    },
+    {
+      "id": "adwd",
+      "locator": "Daenerys IV (ch. 23)"
+    }
+  ]
+}

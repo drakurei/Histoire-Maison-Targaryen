@@ -1,0 +1,157 @@
+{
+  "personId": "jacaerys-velaryon",
+  "titles": [
+    {
+      "fr": "Prince de Peyredragon, nommé par Rhaenyra en 129 apr. C.",
+      "en": "Prince of Dragonstone, named by Rhaenyra in 129 AC"
+    },
+    {
+      "fr": "Prince",
+      "en": "Prince"
+    },
+    {
+      "fr": "Cavalier de Vermax",
+      "en": "Rider of Vermax"
+    }
+  ],
+  "lead": {
+    "fr": "Fils aîné de Rhaenyra et de Laenor Velaryon, Jacaerys fut l'héritier des noirs et leur négociateur auprès des seigneurs du Val et du Nord, avant de mourir à la bataille du Gosier au début de 130 apr. C.",
+    "en": "Eldest son of Rhaenyra and Laenor Velaryon, Jacaerys was the heir of the blacks and their envoy to the lords of the Vale and the North before he died in the battle of the Gullet early in 130 AC."
+  },
+  "sections": [
+    {
+      "id": "jacaerys-velaryon-enfance",
+      "heading": {
+        "fr": "L'aîné contesté",
+        "en": "The Contested Eldest"
+      },
+      "body": {
+        "fr": "Jacaerys naît à la fin de 114 apr. C. Laenor voulait l'appeler Joffrey ; Corlys impose un prénom de la tradition velaryonne. Peu après naît Daeron, dernier fils de la reine Alicent, et Viserys fait partager aux deux enfants la même nourrice, dans l'espoir que des frères de lait ne grandiront pas en ennemis. Comme ses frères, Jace reçoit au berceau un œuf de dragon ; il éclot, et le dragon, Vermax, dément ceux qui prédisaient que des bâtards n'en feraient rien naître.\n\nEn 118 apr. C., il est promis à sa cousine Baela. Deux ans plus tard, aux funérailles de Laenor, Aemond traite les fils de Rhaenyra de « Strong » ; dans la rixe, Lucerys crève un œil à son oncle pour défendre Jace. Le roi menace de la langue quiconque reprendra l'insulte. Aemond la répète pourtant, en public, au banquet du premier jour de 127 apr. C.",
+        "en": "Jacaerys was born at the end of 114 AC. Laenor wanted to call him Joffrey; Corlys insisted on a traditional Velaryon name. Soon afterwards Daeron, Queen Alicent's last son, was born, and Viserys had the two infants share a wet nurse in the hope that milk brothers would not grow up as enemies. Like his brothers, Jace was given a dragon egg in the cradle; it hatched, and the dragon, Vermax, confounded those who had foretold that bastards would hatch nothing.\n\nIn 118 AC he was betrothed to his cousin Baela. Two years later, at Laenor's funeral, Aemond called Rhaenyra's sons “Strongs”; in the brawl, Lucerys put out one of his uncle's eyes in Jace's defence. The king threatened the tongue of anyone who repeated the insult. Aemond repeated it all the same, in public, at the feast on the first day of 127 AC."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "jacaerys-velaryon-ambassade",
+      "heading": {
+        "fr": "L'ambassade du Nord",
+        "en": "The Embassy to the North"
+      },
+      "body": {
+        "fr": "En 129 apr. C., Jacaerys a quatorze ans. Au premier conseil des noirs, il se propose avec Lucerys pour porter les lettres de sa mère, et jure de ne pas prendre part aux combats. Le lendemain, Rhaenyra le nomme prince de Peyredragon. Sur Vermax, il gagne d'abord les Eyrié, où Jeyne Arryn promet son appui pourvu que des dragons défendent le Val, puis les Trois Sœurs, et enfin Blancport, où il obtient le soutien des Manderly en promettant son frère Joffrey à la plus jeune fille de lord Desmond.\n\nÀ Winterfell, il se lie avec le jeune lord Cregan Stark. Selon le grand mestre Munkun, les deux hommes chassent et boivent ensemble et se jurent fraternité. L'accord qu'ils concluent, le pacte de Glace et de Feu, promet la première fille de Jacaerys à l'héritier de Winterfell en échange des épées du Nord. Cregan s'en souviendra après la mort de celui qui l'avait conclu.",
+        "en": "In 129 AC Jacaerys was fourteen. At the first council of the blacks he offered, with Lucerys, to carry his mother's letters, and swore to take no part in the fighting. The next day Rhaenyra named him Prince of Dragonstone. On Vermax he flew first to the Eyrie, where Jeyne Arryn promised support provided dragons would defend the Vale, then to the Three Sisters, and finally to White Harbor, where he won the Manderlys by promising his brother Joffrey to Lord Desmond's youngest daughter.\n\nAt Winterfell he formed a bond with the young Lord Cregan Stark. According to Grand Maester Munkun, the two hunted and drank together and swore brotherhood. The agreement they made, the Pact of Ice and Fire, promised Jacaerys's first daughter to the heir of Winterfell in exchange for the swords of the North. Cregan would remember it after the death of the man who had made it."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        }
+      ]
+    },
+    {
+      "id": "jacaerys-velaryon-semailles",
+      "heading": {
+        "fr": "Les Semailles",
+        "en": "The Sowing"
+      },
+      "body": {
+        "fr": "Revenu à Peyredragon, Jacaerys trouve un parti en deuil : Lucerys a été tué près d'Accalmie, puis la princesse Rhaenys est morte à Repos-du-Freux, et Corlys s'éloigne de la reine. Jace le ramène en le faisant Main et prépare avec lui une attaque contre Port-Réal. Il envoie Joffrey dans le Val, loin des combats, et remet à la fin de la guerre le mariage que Baela réclame.\n\nPour remplacer les dragons perdus, il promet terres et chevalerie à quiconque montera l'un des dragons sans maître de Peyredragon. Champignon revendique l'idée ; Munkun la rend au prince. Beaucoup de candidats y meurent, quatre réussissent, et Addam de la Carène, monté sur Seasmoke, est légitimé à la demande de Corlys et de Jace. Le prince obtient aussi du prince de Pentos qu'il accueille ses demi-frères Aegon et Viserys ; ils embarquent à la fin de 129 apr. C.",
+        "en": "Back on Dragonstone, Jacaerys found a party in mourning: Lucerys had been killed near Storm's End, then Princess Rhaenys had died at Rook's Rest, and Corlys was drifting away from the queen. Jace won him back by making him Hand and planned an attack on King's Landing with him. He sent Joffrey to the Vale, far from the fighting, and put off until the war's end the marriage Baela was demanding.\n\nTo replace the lost dragons, he promised land and knighthood to anyone who could mount one of the masterless dragons of Dragonstone. Mushroom claims the idea as his own; Munkun gives it to the prince. Many candidates died in the attempt, four succeeded, and Addam of Hull, mounted on Seasmoke, was legitimised at the request of Corlys and Jace. The prince also persuaded the Prince of Pentos to take in his half-brothers Aegon and Viserys; they sailed at the end of 129 AC."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        }
+      ]
+    },
+    {
+      "id": "jacaerys-velaryon-gosier",
+      "heading": {
+        "fr": "Le Gosier",
+        "en": "The Gullet"
+      },
+      "body": {
+        "fr": "Le navire des deux enfants tombe dans le Gosier sur une flotte de la Triarchie, venue à l'appel des verts. Aegon s'échappe sur Stormcloud ; Viserys est pris. Au début de 130 apr. C., Jacaerys attaque la flotte ennemie avec Vermax et les nouveaux dragonniers. La victoire semble acquise lorsque Vermax descend trop bas : touché à l'œil par un carreau, ou retenu par un grappin selon d'autres récits, il s'abat sur une galère en flammes.\n\nProjeté hors de la selle, Jace se cramponne à l'épave jusqu'à ce que les arbalétriers myriens l'envoient par le fond. Il a quinze ans. La flotte velaryonne finit par repousser les navires de la Triarchie, mais Lamarck a été pillée pendant la bataille. Les noirs perdent leur héritier et celui qui leur avait gagné le Val et le Nord. Baela épousera plus tard Alyn Velaryon, et Cregan Stark descendra vers le sud en 131 apr. C., fidèle à la parole donnée à Jace.",
+        "en": "The children's ship ran into a Triarchy fleet in the Gullet, summoned by the greens. Aegon escaped on Stormcloud; Viserys was taken. Early in 130 AC Jacaerys attacked the enemy fleet with Vermax and the new dragonriders. Victory seemed won when Vermax came down too low: struck in the eye by a bolt, or caught by a grapnel according to other accounts, he crashed onto a burning galley.\n\nThrown clear of the saddle, Jace held on to the burning hulk until Myrish crossbowmen sent him under. He was fifteen. The Velaryon fleet in the end drove off the Triarchy's ships, but Driftmark had been sacked during the battle. The blacks lost their heir and the man who had won them the Vale and the North. Baela would later marry Alyn Velaryon, and Cregan Stark would march south in 131 AC, true to the word he had given Jace."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "Aftermath: The Hour of the Wolf"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "vermax"
+  ],
+  "eventIds": [
+    "p5-mariage-laenor",
+    "p5-printemps-rouge",
+    "p5-deux-couronnements",
+    "p5-semailles",
+    "p5-gosier",
+    "p5-heure-du-loup"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "Sa filiation est contestée : fils de Laenor selon la version officielle, de Harwin Strong selon la rumeur. Champignon affirme qu'il épousa en secret Sara Snow, demi-sœur de Cregan Stark, dans le bois sacré de Winterfell, que Jeyne Arryn mit son lit pour condition à son alliance, et que Vermax pondit des œufs sous Winterfell ; Gyldayn et Eustace écartent ces récits. La cause exacte de la chute de Vermax n'est pas établie.",
+    "en": "His parentage is contested: Laenor's son according to the official version, Harwin Strong's according to rumour. Mushroom claims that he secretly married Sara Snow, Cregan Stark's half-sister, in the godswood of Winterfell, that Jeyne Arryn made her bed the price of her alliance, and that Vermax laid eggs beneath Winterfell; Gyldayn and Eustace dismiss these tales. The exact cause of Vermax's fall is not established."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: A Son for a Son"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The North: Winterfell"
+    },
+    {
+      "id": "tpatq"
+    }
+  ]
+}

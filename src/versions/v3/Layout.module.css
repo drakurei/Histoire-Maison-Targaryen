@@ -1,0 +1,44 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  overflow-x: clip;
+}
+
+/* Le champ : tout ce qui est au-dessus de la fasce. Rien ne passe sous elle. */
+.champ {
+  flex: 1;
+  min-width: 0;
+  padding-bottom: var(--v3-fasce-totale);
+}
+
+.attente {
+  min-height: 60svh;
+}
+
+/*
+ * La ligne des registres (RegisterLine de la V2, importée telle quelle) sur une seule rangée
+ * dès 1600 px. En dessous, le nom, les registres et la langue ne tiennent pas côte à côte
+ * (audit V3 : à 1280 le nom chevauchait « Vestriarja » et la langue « Gūrēñagon ») : les
+ * registres passent sous le nom, sur une seule rangée. La règle vit ici, la V3 ne modifie
+ * pas la V2. Le sélecteur vise l'en-tête qui porte la liste.
+ */
+@media (1024px <= width < 1600px) {
+  .root header:has(> nav > ul) > nav > ul {
+    flex-wrap: nowrap;
+    column-gap: clamp(0.75rem, 1.6vw, 1.75rem);
+  }
+}
+
+@media (1600px <= width < 1760px) {
+  .root header:has(> nav > ul) {
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    grid-template-areas: 'nom registres langue';
+    column-gap: var(--e5);
+  }
+
+  .root header:has(> nav > ul) > nav > ul {
+    flex-wrap: nowrap;
+    justify-content: center;
+    column-gap: clamp(0.75rem, 1.1vw, 1.25rem);
+  }
+}

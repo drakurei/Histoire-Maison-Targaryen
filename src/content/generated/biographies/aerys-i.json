@@ -1,0 +1,130 @@
+{
+  "personId": "aerys-i",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+      "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+    }
+  ],
+  "lead": {
+    "fr": "Deuxième fils de Daeron II, Aerys Ier hérita en 209 apr. C. d'un trône qu'il n'attendait pas et laissa gouverner sa Main, Brynden Rivers, jusqu'à sa mort en 221 apr. C.",
+    "en": "The second son of Daeron II, Aerys I inherited in 209 AC a throne he had not expected and let his Hand, Brynden Rivers, govern until his death in 221 AC."
+  },
+  "sections": [
+    {
+      "id": "aerys-i-jeunesse",
+      "heading": {
+        "fr": "Un prince lettré",
+        "en": "A Bookish Prince"
+      },
+      "body": {
+        "fr": "Aerys naît entre 172 et 176 apr. C., second fils du prince Daeron et de Myriah Martell. Comme ses frères, il apprend les armes avec ser Quentyn Boule ; il n'y montre aucun talent. Dès l'enfance, ce sont les livres qui l'occupent, et surtout ceux qui traitent des anciennes prophéties et des arts occultes ; il y lit, entre autres, une prophétie qui annonce le retour des dragons.\n\nLui et son frère Rhaegel quittent rarement la cour, si bien que leur père donne Lestival, le palais des Marches, au plus jeune, Maekar. Aerys épouse sa cousine Aelinor Penrose. Il ne montre aucun désir de lui donner un enfant ; il évite sa couche, et la rumeur veut que le mariage n'ait jamais été consommé.\n\nSecond fils, avec un frère aîné en pleine force et deux neveux pour prendre la suite, il n'avait aucune raison de penser qu'il régnerait un jour.",
+        "en": "Aerys was born between 172 and 176 AC, the second son of Prince Daeron and Myriah Martell. Like his brothers he learned arms with Ser Quentyn Ball; he showed no gift for them. From childhood it was books that absorbed him, above all those dealing with ancient prophecies and the occult arts; among them he read a prophecy foretelling the return of dragons.\n\nHe and his brother Rhaegel seldom left court, so their father gave Summerhall, the palace in the Marches, to the youngest, Maekar. Aerys married his cousin Aelinor Penrose. He showed no wish to give her a child; he shunned her bed, and rumour has it that the marriage was never consummated.\n\nA second son, with an elder brother in his prime and two nephews to follow, he had no reason to think he would ever reign."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        }
+      ]
+    },
+    {
+      "id": "aerys-i-avenement",
+      "heading": {
+        "fr": "Un roi inattendu",
+        "en": "An Unexpected King"
+      },
+      "body": {
+        "fr": "En 209 apr. C., la mort de Baelor à Cendregué, puis celle de Daeron II et des deux fils de Baelor pendant le Grand Fléau de Printemps, font d'Aerys un roi. L'épidémie dure encore au début du règne. Le nouveau souverain nomme Main son oncle Brynden Rivers, à la surprise de la cour et à la colère de son frère Maekar, qui espérait la charge. Brynden sera aussi son maître des chuchoteurs, et un Grand Mestre réputé versé dans la sorcellerie est élu dans le même temps.\n\nAerys laisse gouverner. Il s'enferme dans ses lectures, au point d'oublier, dit-on, de changer de vêtements ou de mettre sa couronne. Son conseil le presse de répudier Aelinor et d'épouser une femme qui lui donnerait un héritier ; il refuse.\n\nLe règne commence mal : une sécheresse de plus d'un an jette les paysans sur les routes, le brigandage s'étend, les prix montent, et l'on juge les chemins moins sûrs que sous son père.",
+        "en": "In 209 AC the death of Baelor at Ashford, then those of Daeron II and Baelor's two sons in the Great Spring Sickness, made Aerys king. The epidemic had not yet run its course when the reign began. The new sovereign named his uncle Brynden Rivers Hand, to the surprise of the court and the anger of his brother Maekar, who had hoped for the office. Brynden would also be his master of whisperers, and a Grand Maester reputed to dabble in sorcery was chosen at the same time.\n\nAerys let others govern. He shut himself up with his reading, to the point, it is said, of forgetting to change his clothes or put on his crown. His council urged him to set Aelinor aside and marry a woman who would give him an heir; he refused.\n\nThe reign began badly: a drought of more than a year drove the smallfolk onto the roads, banditry spread, prices rose, and travel was thought less safe than under his father."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        }
+      ]
+    },
+    {
+      "id": "aerys-i-guerres",
+      "heading": {
+        "fr": "Guerres et héritiers",
+        "en": "Wars and Heirs"
+      },
+      "body": {
+        "fr": "Les troubles viennent aussi de la mer. En 211 et 212 apr. C., Dagon Greyjoy et ses Fer-nés pillent la Belle Île, la Treille et les côtes du Nord. En 212 apr. C., un complot Feunoyr échoue à Murs-Blancs grâce aux espions de la Main. En 219 apr. C., la troisième rébellion finit par la mort du prétendant Haegon et la capture d'Aegor Rivers. Brynden et le prince Aerion réclament sa tête ; Aerys, clément, l'envoie au Mur, et Aegor est délivré en route.\n\nLe roi n'a pas d'enfant. Il reconnaît successivement quatre héritiers : son frère Rhaegel, mort en 215 apr. C. ; le fils de celui-ci, Aelor, mort en 217 apr. C. dans un accident dont sa jumelle et épouse Aelora fut la cause ; Aelora, qui se donna la mort peu après ; enfin son dernier frère, Maekar.\n\nAerys meurt de mort naturelle en 221 apr. C., sans postérité. Sa clémence envers Aegor coûta au royaume une rébellion de plus ; sa confiance en Brynden lui épargna sans doute davantage.",
+        "en": "Trouble came from the sea as well. In 211 and 212 AC Dagon Greyjoy and his ironborn raided Fair Isle, the Arbor and the northern coasts. In 212 AC a Blackfyre plot failed at Whitewalls thanks to the Hand's spies. In 219 AC the third rebellion ended with the death of the pretender Haegon and the capture of Aegor Rivers. Brynden and Prince Aerion wanted his head; Aerys, merciful, sent him to the Wall, and Aegor was freed on the way.\n\nThe king had no children. He acknowledged four heirs in turn: his brother Rhaegel, who died in 215 AC; Rhaegel's son Aelor, who died in 217 AC in an accident caused by his twin and wife Aelora; Aelora, who took her own life soon after; and lastly his youngest brother, Maekar.\n\nAerys died a natural death in 221 AC, leaving no issue. His clemency toward Aegor cost the realm one more rebellion; his trust in Brynden probably spared it more."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        },
+        {
+          "id": "acok",
+          "locator": "Jon I (ch. 6)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-cendregue-209",
+    "p6-murs-blancs",
+    "p6-troisieme-feunoyr"
+  ],
+  "warIds": [
+    "rebellion-feunoyr-2",
+    "rebellion-feunoyr-3"
+  ],
+  "disputed": {
+    "fr": "La rumeur selon laquelle son mariage avec Aelinor Penrose ne fut jamais consommé n'est pas vérifiable. Sa date de naissance n'est pas donnée ; on la place entre 172 et 176 apr. C. Le choix de Brynden comme Main, que l'on rattache à leur goût commun des arts occultes, n'a pas d'explication attestée. Les circonstances de la mort d'Aelor et de celle d'Aelora ne sont rapportées que sommairement.",
+    "en": "The rumour that his marriage to Aelinor Penrose was never consummated cannot be verified. His birth date is not given; it is placed between 172 and 176 AC. His choice of Brynden as Hand, which is linked to their shared taste for the occult arts, has no attested explanation. The circumstances of Aelor's death and of Aelora's are reported only briefly."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+      "id": "tss",
+      "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+    },
+    {
+      "id": "tmk",
+      "locator": "Whitewalls"
+    },
+    {
+      "id": "acok",
+      "locator": "Jon I (ch. 6)"
+    }
+  ]
+}

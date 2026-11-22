@@ -1,0 +1,95 @@
+{
+  "personId": "gael",
+  "titles": [
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Dernière enfant de Jaehaerys Ier et d'Alysanne, Gael fut la compagne des vieux jours de sa mère et mourut en 99 apr. C. dans des circonstances que la cour tint secrètes.",
+    "en": "The last child of Jaehaerys I and Alysanne, Gael was her mother's companion in her old age and died in 99 AC in circumstances the court kept secret."
+  },
+  "sections": [
+    {
+      "id": "gael-naissance",
+      "heading": {
+        "fr": "L'enfant de l'hiver",
+        "en": "The Winter Child"
+      },
+      "body": {
+        "fr": "Gael naît en 80 apr. C., treizième et dernière enfant de Jaehaerys et d'Alysanne. On l'appelle l'enfant de l'hiver, parce qu'elle vient au monde pendant un hiver et, selon d'autres, parce que sa mère, âgée de quarante-quatre ans, est elle-même à l'hiver de ses maternités. Petite et pâle à la naissance, elle passe sa première année aux soins du grand mestre Elysar et d'une septa.\n\nL'enfant grandit douce et timide, mais simple d'esprit et fragile. Les chroniques en disent peu, et ce peu tient surtout à sa place auprès de sa mère. Elle naît deux ans après le départ de son frère Vaegon pour la Citadelle, l'année même où le roi exige que Daella soit mariée. La famille qu'elle découvre en grandissant est déjà celle des départs et des deuils : elle n'a que deux ans à la mort de Daella, quatre à celle d'Alyssa et au scandale de Saera.",
+        "en": "Gael was born in 80 AC, the thirteenth and last child of Jaehaerys and Alysanne. She was called the Winter Child, because she came into the world during a winter and, some say, because her mother, then forty-four, was herself in the winter of her childbearing years. Small and pale at birth, she spent her first year in the care of Grand Maester Elysar and a septa.\n\nThe child grew up sweet and shy, but simple-minded and frail. The chronicles say little of her, and that little concerns mostly her place at her mother's side. She was born two years after her brother Vaegon left for the Citadel, in the very year the king demanded that Daella be married. The family she came to know as she grew was already one of departures and bereavements: she was only two when Daella died, four at Alyssa's death and Saera's disgrace."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        }
+      ]
+    },
+    {
+      "id": "gael-compagne",
+      "heading": {
+        "fr": "L'ombre de la reine",
+        "en": "The Queen's Shadow"
+      },
+      "body": {
+        "fr": "Entre 82 et 87 apr. C., trois de ses sœurs meurent, Daella, Alyssa et Viserra, et Saera est perdue de l'autre côté de la mer. Gael devient, avec Maegelle, le réconfort de sa mère. Elle la suit comme son ombre et dort dans son lit.\n\nLa reine vieillit mal. Elle vole pour la dernière fois en 93 apr. C., se brise la hanche deux ans plus tard, perd l'ouïe, puis la mémoire des noms. Après la mort de Maegelle, en 96 apr. C., il ne lui reste que quatre enfants : Baelon, souvent retenu par ses devoirs d'héritier puis de Main ; Vaegon, qui écrit sans chaleur et qu'elle n'a pas vu depuis des années ; Saera, qui ne répond pas à ses lettres ; et Gael. Dans ces années, la plus jeune des princesses est la seule présence constante auprès de la reine.",
+        "en": "Between 82 and 87 AC three of her sisters died, Daella, Alyssa and Viserra, and Saera was lost across the sea. Gael became, with Maegelle, her mother's comfort. She followed her like a shadow and slept in her bed.\n\nThe queen aged badly. She flew for the last time in 93 AC, broke her hip two years later, lost her hearing and then her memory for names. After Maegelle's death in 96 AC, only four of her children remained: Baelon, often kept away by his duties as heir and then as Hand; Vaegon, who wrote without warmth and whom she had not seen in years; Saera, who did not answer her letters; and Gael. In those years the youngest of the princesses was the only constant presence beside the queen."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        }
+      ]
+    },
+    {
+      "id": "gael-mort",
+      "heading": {
+        "fr": "Une mort tue",
+        "en": "A Death Kept Silent"
+      },
+      "body": {
+        "fr": "En 99 apr. C., Gael disparaît de la cour. On annonce qu'une fièvre d'été l'a emportée. La vérité ne fut connue qu'après la mort du roi et de la reine : un chanteur de passage l'avait séduite ; elle avait mis au monde un fils mort-né, puis, accablée de chagrin, s'était avancée dans les eaux de la Néra pour s'y noyer.\n\nAlysanne ne s'en remit pas. Port-Réal et le Donjon Rouge lui devinrent insupportables ; elle se retira à Peyredragon, où elle avait passé les années les plus heureuses de sa vie, et y mourut moins d'un an après sa fille. Le silence officiel sur la mort de Gael dit quelque chose de la cour de Jaehaerys dans ses dernières années : une famille réduite, un roi vieilli, et des chagrins qu'on préférait taire plutôt que d'en laisser un récit public. Le nom du séducteur ne nous est pas parvenu.",
+        "en": "In 99 AC Gael vanished from court. It was announced that a summer fever had taken her. The truth became known only after the deaths of the king and queen: a travelling singer had seduced her; she had given birth to a stillborn son and then, overcome with grief, had walked into the waters of the Blackwater to drown.\n\nAlysanne never recovered. King's Landing and the Red Keep became unbearable to her; she withdrew to Dragonstone, where she had spent the happiest years of her life, and died there less than a year after her daughter. The official silence about Gael's death says something about Jaehaerys's court in its last years: a diminished family, an aged king, and griefs that were kept quiet rather than given a public account. The seducer's name has not come down to us."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [],
+  "warIds": [],
+  "disputed": {
+    "fr": "La version officielle d'une fièvre d'été ne fut démentie qu'après la mort de ses parents. Le chanteur n'est pas nommé, et les récits placent la noyade tantôt dans la baie de la Néra, tantôt dans le fleuve.",
+    "en": "The official account of a summer fever was contradicted only after her parents' deaths. The singer is not named, and accounts place the drowning sometimes in Blackwater Bay, sometimes in the river."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys I"
+    }
+  ]
+}

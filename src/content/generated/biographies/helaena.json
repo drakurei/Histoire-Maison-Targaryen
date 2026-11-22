@@ -1,0 +1,177 @@
+{
+  "personId": "helaena",
+  "titles": [
+    {
+      "fr": "Reine",
+      "en": "Queen"
+    },
+    {
+      "fr": "Princesse",
+      "en": "Princess"
+    },
+    {
+      "fr": "Cavalière de Dreamfyre",
+      "en": "Rider of Dreamfyre"
+    }
+  ],
+  "lead": {
+    "fr": "Fille de Viserys Ier et d'Alicent Hightower, sœur et épouse d'Aegon II, Helaena fut reine pendant la Danse des dragons et l'une de ses premières victimes, sans avoir jamais pris part aux combats.",
+    "en": "Daughter of Viserys I and Alicent Hightower, sister and wife of Aegon II, Helaena was queen during the Dance of the Dragons and one of its first victims, though she never took part in the fighting."
+  },
+  "sections": [
+    {
+      "id": "helaena-jeunesse",
+      "heading": {
+        "fr": "Une princesse paisible",
+        "en": "A Gentle Princess"
+      },
+      "body": {
+        "fr": "Helaena naît en 109 apr. C., deuxième enfant de Viserys et d'Alicent. À treize ans, disent les chroniques, elle était plus ronde et moins frappante que la plupart des Targaryen, mais d'humeur égale et joyeuse, et chacun lui prédisait d'être une bonne mère. À onze ans, elle montait déjà Dreamfyre, la dragonne bleu pâle qu'avait montée avant elle Rhaena, fille d'Aenys Ier.\n\nEn 122 apr. C., elle épouse son frère aîné Aegon. Les jumeaux Jaehaerys et Jaehaera naissent l'année suivante, Maelor en 127 apr. C. Au festin du premier jour de cette année-là, rapporte Champignon, son neveu Jacaerys l'invite à danser, et Aegon s'en offense au point que la Garde Royale doit s'interposer. Le troisième jour du troisième mois de 129 apr. C., elle conduit ses enfants auprès de leur grand-père ; le roi leur raconte une histoire où leur ancêtre Jaehaerys Ier vole au-delà du Mur. Il meurt dans la nuit.",
+        "en": "Helaena was born in 109 AC, the second child of Viserys and Alicent. At thirteen, the chronicles say, she was plumper and less striking than most Targaryens, but even-tempered and cheerful, and everyone expected her to make a good mother. At eleven she was already riding Dreamfyre, the pale blue she-dragon once ridden by Rhaena, daughter of Aenys I.\n\nIn 122 AC she married her elder brother Aegon. The twins Jaehaerys and Jaehaera were born the following year, Maelor in 127 AC. At the feast on the first day of that year, Mushroom relates, her nephew Jacaerys asked her to dance, and Aegon took such offence that the Kingsguard had to step in. On the third day of the third month of 129 AC she brought her children to their grandfather; the king told them a story in which their forebear Jaehaerys I flew beyond the Wall. He died that night."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "id": "helaena-reine",
+      "heading": {
+        "fr": "Reine des verts",
+        "en": "Queen of the Greens"
+      },
+      "body": {
+        "fr": "À la mort de Viserys, Helaena n'est prévenue qu'un jour après la découverte du corps. Au couronnement de son mari à Fossedragon, sa mère lui pose sa propre couronne sur la tête et la salue comme sa reine. Rhaenyra, qui déclare traîtres Alicent et Otto Hightower, se dit prête à pardonner à ses demi-frères et à sa demi-sœur s'ils viennent lui jurer fidélité à Peyredragon. Helaena, de son côté, appuie avec sa mère l'idée d'envoyer le grand mestre Orwyle offrir des conditions de paix, et Aegon y consent sans enthousiasme.\n\nLe petit peuple de Port-Réal l'aimait. Rien n'indique qu'elle ait pesé sur la conduite de la guerre, et sa dragonne reste à Fossedragon : la reine ne vole pas au combat. Le conflit la rattrape pourtant par ses enfants, que les deux camps commencent à regarder comme des héritiers à protéger ou à abattre.",
+        "en": "When Viserys died, Helaena was told only a day after the body was found. At her husband's coronation in the Dragonpit, her mother set her own crown on her head and hailed her as queen. Rhaenyra, who declared Alicent and Otto Hightower traitors, said she was ready to pardon her half-brothers and half-sister if they came to Dragonstone and swore fealty to her. Helaena, for her part, joined her mother in supporting the plan to send Grand Maester Orwyle with terms of peace, and Aegon agreed without enthusiasm.\n\nThe common people of King's Landing loved her. Nothing suggests she had any weight in the conduct of the war, and her dragon remained in the Dragonpit: the queen did not fly to battle. The conflict caught up with her all the same through her children, whom both sides were beginning to see as heirs to be protected or struck down."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "id": "helaena-sang-et-fromage",
+      "heading": {
+        "fr": "Le choix imposé",
+        "en": "The Forced Choice"
+      },
+      "body": {
+        "fr": "Chaque soir, Helaena mène ses enfants chez leur grand-mère, dans la tour de la Main, moins bien gardée que la citadelle de Maegor. Les deux tueurs envoyés par Daemon par l'entremise de Mysaria le savent. Ils ont déjà ligoté Alicent et tué sa servante quand la reine entre ; ils abattent son garde, barrent la porte et exigent qu'elle désigne lequel de ses fils doit mourir. Elle offre sa vie, on la refuse ; on menace sa fille. Elle finit par nommer Maelor, trop petit, pense-t-elle, pour comprendre. Les tueurs décapitent Jaehaerys et s'enfuient avec sa tête.\n\nHelaena ne s'en remet pas. Elle cesse de manger, de se laver, de quitter sa chambre, et ne supporte plus la vue de Maelor, qu'elle avait désigné de sa bouche ; le roi confie l'enfant à Alicent. Les époux font désormais chambre à part, et l'on ne peut plus compter sur la reine comme dragonnière. Quand Rhaenyra prend Port-Réal, en 130 apr. C., Helaena est retenue captive au Donjon Rouge.",
+        "en": "Every evening Helaena took her children to their grandmother in the Tower of the Hand, which was less well guarded than Maegor's Holdfast. The two killers Daemon had sent through Mysaria knew it. They had already bound Alicent and killed her maid when the queen came in; they cut down her guard, barred the door and demanded that she name which of her sons must die. She offered her own life and was refused; they threatened her daughter. At last she named Maelor, too small, she thought, to understand. The killers beheaded Jaehaerys and fled with his head.\n\nHelaena never recovered. She stopped eating, washing and leaving her chamber, and could no longer bear the sight of Maelor, whom she had named with her own lips; the king gave the boy to Alicent. Husband and wife slept apart from then on, and the queen could no longer be counted on as a dragonrider. When Rhaenyra took King's Landing in 130 AC, Helaena was held captive in the Red Keep."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "id": "helaena-mort",
+      "heading": {
+        "fr": "La fenêtre de la citadelle",
+        "en": "The Window in the Holdfast"
+      },
+      "body": {
+        "fr": "Maelor est tué à Pont-l'Amer pendant sa fuite, et sa tête est envoyée à Rhaenyra. Peu après le combat au-dessus de l'Œildieu, en 130 apr. C., Helaena se jette d'une fenêtre de la citadelle de Maegor et meurt empalée sur les piques des douves sèches. Elle avait vingt et un ans. On rapporte qu'au même moment, à Fossedragon, Dreamfyre se dressa et rompit deux de ses chaînes.\n\nDès la nuit tombée, la ville parle de meurtre et accuse la reine d'avoir fait tuer sa demi-sœur. Munkun attribue la calomnie au prêcheur qu'on appelle le Berger, Champignon à Larys Strong. La foule se soulève au nom d'Helaena et de ses fils, et l'émeute s'achève par l'assaut de Fossedragon, où Dreamfyre périt à son tour sous l'effondrement du dôme. Sa fille Jaehaera épousera Aegon III en 131 apr. C. ; la mort de celle-ci, deux ans plus tard, éteint la descendance d'Helaena.",
+        "en": "Maelor was killed at Bitterbridge during his flight, and his head was sent to Rhaenyra. Shortly after the fight above the Gods Eye in 130 AC, Helaena threw herself from a window of Maegor's Holdfast and died impaled on the spikes of the dry moat. She was twenty-one. It is said that at that same moment, in the Dragonpit, Dreamfyre rose up and broke two of her chains.\n\nBy nightfall the city was talking of murder and blaming the queen for her half-sister's death. Munkun attributes the slander to the preacher known as the Shepherd, Mushroom to Larys Strong. The crowd rose in the name of Helaena and her sons, and the riot ended in the storming of the Dragonpit, where Dreamfyre died in turn beneath the collapsing dome. Her daughter Jaehaera would marry Aegon III in 131 AC; her death two years later ended Helaena's line."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        },
+        {
+          "id": "trotd"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "dreamfyre"
+  ],
+  "eventIds": [
+    "p5-mort-viserys",
+    "p5-deux-couronnements",
+    "p5-sang-et-fromage",
+    "p5-chute-port-real",
+    "p5-oeildieu",
+    "p5-fossedragon"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "Les motifs de sa mort sont discutés. Champignon la dit enceinte après avoir été livrée à un bordel, histoire que Gyldayn écarte. Munkun invoque la pendaison, ce jour-là, de deux chevaliers aux murs du Donjon Rouge, mais rien ne prouve qu'elle l'ait vue. Eustace suppose que Mysaria venait de lui apprendre comment Maelor était mort. La date varie aussi : Yandel place sa mort le jour même du combat au-dessus de l'Œildieu, d'autres récits quelques jours plus tard. Le meurtre que la rumeur prêta à Rhaenyra n'a jamais été prouvé.",
+    "en": "The reasons for her death are debated. Mushroom claims she was with child after being given over to a brothel, a tale Gyldayn dismisses. Munkun points to the hanging of two knights from the walls of the Red Keep that day, but nothing proves she saw it. Eustace supposes that Mysaria had just told her how Maelor died. The date varies as well: Yandel places her death on the very day of the fight above the Gods Eye, other accounts some days later. The murder that rumour laid at Rhaenyra's door was never proved."
+  },
+  "adaptation": {
+    "fr": "House of the Dragon lui prête des paroles énigmatiques qui semblent annoncer l'avenir ; les livres ne lui attribuent aucun don de ce genre. Dans la série, Maelor n'est pas là lors du meurtre de Jaehaerys : les tueurs exigent d'Helaena qu'elle désigne lequel des jumeaux est le garçon.",
+    "en": "House of the Dragon gives her cryptic utterances that seem to foretell the future; the books credit her with no such gift. In the series Maelor is absent when Jaehaerys is murdered: the killers make Helaena point out which of the twins is the boy."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: A Son for a Son"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: The Hooded Hand"
+    },
+    {
+      "id": "tpatq"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon II"
+    },
+    {
+      "id": "trotd"
+    },
+    {
+      "id": "hotd",
+      "locator": "Seasons 1 and 2"
+    }
+  ]
+}

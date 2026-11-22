@@ -56,7 +56,7 @@ export function NomEntite({ kind, id, name, children, className, onActive }: Nom
       onBlur={onActive ? () => onActive(false) : undefined}
     >
       {kind === 'person' && isSovereign(id) ? (
-        <CrownGlyph className={styles.couronne} size="0.9em" title={t('label.reign')} />
+        <CrownGlyph variant="legible" className={styles.couronne} size="0.9em" title={t('label.reign')} />
       ) : null}
       {text ? <span lang={text.isHv ? VALYRIAN_TAG : undefined}>{text.primary}</span> : children}
     </Link>

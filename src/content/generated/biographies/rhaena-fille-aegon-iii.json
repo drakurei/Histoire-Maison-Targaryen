@@ -1,0 +1,106 @@
+{
+  "personId": "rhaena-fille-aegon-iii",
+  "titles": [
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    },
+    {
+      "fr": "Septa de la Foi des Sept",
+      "en": "Septa of the Faith of the Seven"
+    }
+  ],
+  "lead": {
+    "fr": "Deuxième fille d'Aegon III, Rhaena partagea sans se plaindre la réclusion que Baelor Ier imposa à ses sœurs, et finit par devenir septa.",
+    "en": "The second daughter of Aegon III, Rhaena shared without complaint the confinement Baelor I imposed on his sisters, and in the end became a septa."
+  },
+  "sections": [
+    {
+      "id": "rhaena-fille-aegon-iii-enfance",
+      "heading": {
+        "fr": "La sœur discrète",
+        "en": "The Quiet Sister"
+      },
+      "body": {
+        "fr": "Rhaena naît en 147 apr. C., quatrième des cinq enfants d'Aegon III et de Daenaera Velaryon, entre Daena, son aînée de deux ans, et Elaena, la cadette. Elle porte le prénom d'une demi-sœur de son père, la fille de Daemon et de Laena Velaryon.\n\nSon enfance se passe dans la cour silencieuse d'Aegon III, où gouverne leur oncle Viserys, la Main. Elle a six ans quand meurt, en 153 apr. C., le dernier dragon de la maison. Les chroniques ne retiennent presque rien d'elle avant le règne de son frère Baelor, sinon un contraste qu'elles soulignent volontiers : là où Daena est volontaire et frondeuse, Rhaena passe pour docile, réservée et pieuse.\n\nCette discrétion explique le peu qu'on sait d'elle. On ne lui connaît ni écrits, ni enfants, ni querelle mémorable, et son nom n'apparaît guère dans les histoires que par comparaison avec ses sœurs.",
+        "en": "Rhaena was born in 147 AC, the fourth of the five children of Aegon III and Daenaera Velaryon, between Daena, two years her elder, and Elaena, the youngest. She bore the name of one of her father's half-sisters, the daughter of Daemon and Laena Velaryon.\n\nHer childhood was spent at the silent court of Aegon III, governed by their uncle Viserys, the Hand. She was six when the last dragon of the house died in 153 AC. The chronicles keep almost nothing of her before the reign of her brother Baelor, except a contrast they are fond of drawing: where Daena was wilful and rebellious, Rhaena was held to be biddable, reserved and devout.\n\nThis reticence explains how little is known of her. No writings, no children and no memorable quarrel are recorded for her, and her name appears in the histories mostly by comparison with her sisters."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        }
+      ]
+    },
+    {
+      "id": "rhaena-fille-aegon-iii-reclusion",
+      "heading": {
+        "fr": "Recluse sans révolte",
+        "en": "Confined Without Complaint"
+      },
+      "body": {
+        "fr": "En 161 apr. C., Baelor Ier enferme ses trois sœurs dans un pavillon du Donjon Rouge, le futur Maidenvault. Il dit vouloir préserver leur innocence de la corruption du monde et des désirs des hommes ; beaucoup soupçonnent qu'il craint surtout pour la sienne. Rhaena a quatorze ans.\n\nSes sœurs protestent, et Daena s'évade à plusieurs reprises. Rhaena, elle, ne se plaint pas. Presque aussi dévote que son frère, elle semble trouver dans la vie retirée qu'il impose une existence qui lui convient. On a vu dans cette piété l'influence du roi sur sa jeune sœur ; il est aussi possible qu'elle ait simplement partagé ses goûts.\n\nLa réclusion dure dix ans. Elle prive les trois princesses de toute vie publique, de tout mariage et de tout appui à la cour, ce qui pèsera lourd au moment de la succession.",
+        "en": "In 161 AC Baelor I shut his three sisters away in a building of the Red Keep, the future Maidenvault. He said he wished to preserve their innocence from the corruption of the world and the desires of men; many suspected he feared chiefly for his own. Rhaena was fourteen.\n\nHer sisters protested, and Daena escaped more than once. Rhaena did not complain. Almost as devout as her brother, she seems to have found in the retired life he imposed an existence that suited her. Some have seen in this piety the king's influence on his young sister; it is just as possible that she simply shared his tastes.\n\nThe confinement lasted ten years. It deprived the three princesses of any public life, of any marriage and of any support at court, which would weigh heavily when the succession came."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        }
+      ]
+    },
+    {
+      "id": "rhaena-fille-aegon-iii-septa",
+      "heading": {
+        "fr": "La septa",
+        "en": "The Septa"
+      },
+      "body": {
+        "fr": "À la mort de Baelor, en 171 apr. C., les trois sœurs retrouvent leur liberté. Une partie du peuple et quelques seigneurs pensent que la couronne revient à Daena, l'aînée. Les précédents de 101 apr. C. et de la Danse sont invoqués, et les droits des filles d'Aegon III, ceux de Rhaena compris, sont écartés au profit de leur oncle Viserys II.\n\nRhaena ne paraît pas avoir pesé dans ce débat. Elle finit par entrer dans la Foi et devient septa. Les sources ne disent ni quand elle prononça ses vœux, ni où elle vécut ensuite, ni quand elle mourut.\n\nSon destin éclaire, par contraste, celui de ses sœurs. Daena devint la mère d'un prétendant, Elaena une femme de cour et d'affaires mariée trois fois. Rhaena est la seule des trois à avoir trouvé dans la religion de Baelor une vocation plutôt qu'une prison, et c'est sans doute pourquoi l'histoire l'a presque oubliée.",
+        "en": "When Baelor died in 171 AC, the three sisters regained their freedom. Part of the people and a few lords held that the crown belonged to Daena, the eldest. The precedents of 101 AC and of the Dance were invoked, and the claims of Aegon III's daughters, Rhaena's included, were set aside in favour of their uncle Viserys II.\n\nRhaena does not seem to have counted for much in this debate. In the end she entered the Faith and became a septa. The sources say neither when she took her vows, nor where she lived afterwards, nor when she died.\n\nHer fate throws light, by contrast, on her sisters'. Daena became the mother of a pretender, Elaena a woman of court and business who married three times. Rhaena alone of the three found in Baelor's religion a vocation rather than a prison, which is no doubt why history has almost forgotten her."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys II"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-baelor",
+    "p6-viserys-ii"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "Ni la date de ses vœux de septa, ni celle de sa mort ne sont connues. Les sources ne disent pas si elle choisit la Foi pendant sa réclusion ou après la mort de Baelor.",
+    "en": "Neither the date of her vows as a septa nor that of her death is known. The sources do not say whether she chose the Faith during her confinement or after Baelor's death."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Baelor I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon III"
+    },
+    {
+      "id": "asos",
+      "locator": "Sansa I (ch. 6)"
+    }
+  ]
+}

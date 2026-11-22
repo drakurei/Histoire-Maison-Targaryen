@@ -1,0 +1,168 @@
+{
+  "personId": "orys-baratheon",
+  "titles": [
+    {
+      "fr": "Seigneur d'Accalmie",
+      "en": "Lord of Storm's End"
+    },
+    {
+      "fr": "Seigneur suzerain des terres de l'Orage",
+      "en": "Lord Paramount of the Stormlands"
+    },
+    {
+      "fr": "Main du Roi",
+      "en": "Hand of the King"
+    }
+  ],
+  "lead": {
+    "fr": "Compagnon d'armes et demi-frère présumé d'Aegon le Conquérant, première Main du roi et fondateur de la maison Baratheon.",
+    "en": "Comrade in arms and reputed half-brother of Aegon the Conqueror, first Hand of the King and founder of House Baratheon."
+  },
+  "sections": [
+    {
+      "id": "orys-baratheon-un-batard-de-peyredragon",
+      "heading": {
+        "fr": "Un bâtard de Peyredragon",
+        "en": "A Bastard of Dragonstone"
+      },
+      "body": {
+        "fr": "On ne sait presque rien de la naissance d'Orys. Ni l'année, ni le lieu, ni le nom de sa mère ne sont donnés. La rumeur en faisait un fils bâtard d'Aerion Targaryen, et donc le demi-frère d'Aegon ; près d'un siècle plus tard, le roi Jaehaerys Ier tenait la chose pour notoire, tout en avouant ignorer dans quelles circonstances Orys avait été conçu. Les chroniques s'accordent mieux sur le reste : Orys passait pour le seul véritable ami d'Aegon et pour son champion depuis la jeunesse.\n\nSa place auprès du seigneur de Peyredragon apparaît dans l'affaire qui déclencha la guerre. Quand Argilac offrit sa fille à Aegon, celui-ci proposa Orys à sa place. Argilac, qui le tenait pour un bâtard, prit l'offre comme une insulte et renvoya les mains de l'émissaire. Le mépris visait Orys autant que son maître, et c'est Orys qui le ferait payer.",
+        "en": "Almost nothing is known of Orys's birth. Neither the year, nor the place, nor his mother's name is given. Rumour made him a bastard son of Aerion Targaryen, and so Aegon's half-brother; nearly a century later King Jaehaerys I treated this as common knowledge, while admitting he did not know the circumstances of Orys's conception. The chronicles agree better on the rest: Orys was held to be Aegon's only true friend and his champion from boyhood.\n\nHis place at the side of the lord of Dragonstone shows in the affair that started the war. When Argilac offered his daughter to Aegon, Aegon put Orys forward in his stead. Argilac, who regarded him as a bastard, took the offer as an insult and sent back the envoy's hands. The contempt was aimed at Orys as much as at his master, and it was Orys who would make him pay for it."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        }
+      ]
+    },
+    {
+      "id": "orys-baratheon-la-derniere-tempete",
+      "heading": {
+        "fr": "La Dernière Tempête",
+        "en": "The Last Storm"
+      },
+      "body": {
+        "fr": "Au débarquement de 2 av. C., Orys commandait à terre lors du premier combat, contre les seigneurs de Sombreval et de Viergétang. Après le premier couronnement d'Aegon, il fut fait Main du roi et partit avec Rhaenys et le gros de l'armée vers Accalmie. Prévenu par la reine, qui avait vu du haut de Meraxès Argilac sortir de son château, il s'établit sur les collines au sud des Bronzes et attendit une armée deux fois plus nombreuse que la sienne.\n\nLa bataille se livra sous un orage. Les chevaliers de l'Orage percèrent son centre et vinrent se heurter au dragon. Orys descendit alors de sa colline, rencontra Argilac, lui offrit de se rendre, puis le tua en combat singulier, blessé lui-même. Argella, la fille du roi, voulut tenir Accalmie ; sa garnison la livra. Orys la traita avec égards, l'épousa et prit les armes et la devise des Durrandon : ainsi naquit la maison Baratheon.",
+        "en": "At the landing in 2 BC, Orys commanded on the ground in the first fight, against the lords of Duskendale and Maidenpool. After Aegon's first coronation he was made Hand of the King and set out with Rhaenys and the main army for Storm's End. Warned by the queen, who from Meraxes had seen Argilac leave his castle, he took up a position on the hills south of Bronzegate and waited for an army twice the size of his own.\n\nThe battle was fought in a storm. The stormland knights broke his centre and ran into the dragon. Orys then came down from his hill, met Argilac, offered him the chance to yield, and killed him in single combat, taking a wound himself. Argella, the king's daughter, tried to hold Storm's End; her garrison handed her over. Orys treated her with courtesy, married her and took the arms and words of the Durrandons: so House Baratheon was born."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Stormlands: House Baratheon"
+        }
+      ]
+    },
+    {
+      "id": "orys-baratheon-la-main-perdue",
+      "heading": {
+        "fr": "La main perdue",
+        "en": "The Lost Hand"
+      },
+      "body": {
+        "fr": "Dans la guerre de Dorne, en 4 apr. C., Orys conduisit mille chevaliers par les Osseux, le chemin qui traverse les montagnes Rouges. Les Dorniens les harcelèrent de pierres et de flèches qu'ils lançaient sans se montrer, puis les enfermèrent au passage d'une rivière, entre deux éboulements. La colonne fut massacrée ; seuls Orys et une douzaine de seigneurs jugés dignes d'une rançon furent pris vivants par le seigneur Wyl.\n\nAegon finit par payer, chaque prisonnier contre son poids en or. Les Dorniens rendirent les captifs, mais après leur avoir tranché la main qui tenait l'épée, pour qu'ils ne la lèvent plus contre Dorne. Aigri, Orys quitta la charge de Main et se retira dans les terres de l'Orage, ne pensant plus qu'à se venger. Quand la princesse Deria vint à Port-Réal proposer la paix en 13 apr. C., il conseilla de la renvoyer à son père privée d'une main.",
+        "en": "In the Dornish war, in 4 AC, Orys led a thousand knights up the Boneway, the road through the Red Mountains. The Dornish harried them with stones and arrows thrown by men they never saw, then trapped them at a river crossing between two rockfalls. The column was slaughtered; only Orys and a dozen lords thought worth a ransom were taken alive, by the lord of Wyl.\n\nAegon eventually paid, each prisoner's weight in gold. The Dornish returned the captives, but only after cutting off their sword hands, so that they would never raise them against Dorne again. Embittered, Orys gave up the office of Hand and withdrew to the stormlands, with no thought but revenge. When Princess Deria came to King's Landing in 13 AC to propose peace, he advised sending her back to her father short of a hand."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Reign of the Dragon: The Wars of King Aegon I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Dorne: Dorne Against the Dragons"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Stormlands: House Baratheon"
+        }
+      ]
+    },
+    {
+      "id": "orys-baratheon-la-derniere-vengeance",
+      "heading": {
+        "fr": "La dernière vengeance",
+        "en": "The Last Revenge"
+      },
+      "body": {
+        "fr": "L'occasion vint sous Aenys Ier. En 37 apr. C., un chef dornien que l'on appelait le Roi Vautour jeta une grande troupe sur les marches de Dorne. Une partie, conduite par Walter Wyl, fils de l'homme qui avait mutilé Orys, mit le siège devant le château des Swann. Le vieux seigneur d'Accalmie sortit une dernière fois et écrasa les assiégeants sous les murs.\n\nOn lui amena Walter Wyl, blessé mais vivant. Orys lui fit couper la main qui tenait l'épée, puis l'autre, puis les deux pieds, et appela cela les intérêts de sa dette. Il mourut sur le chemin du retour des blessures reçues dans la bataille. Selon son fils Davos, il s'éteignit satisfait, sous une tente où pendaient les membres de son ennemi. La maison qu'il avait fondée tint Accalmie pendant près de trois siècles, et l'un de ses descendants, Robert, prit le Trône de Fer aux Targaryen en 283 apr. C.",
+        "en": "The chance came under Aenys I. In 37 AC a Dornish leader known as the Vulture King hurled a large host against the Dornish marches. Part of it, under Walter Wyl, son of the man who had maimed Orys, laid siege to the castle of the Swanns. The old lord of Storm's End rode out one last time and crushed the besiegers beneath its walls.\n\nWalter Wyl was brought to him, wounded but alive. Orys had his sword hand cut off, then the other, then both feet, and called it the interest on his debt. He died on the way home of wounds taken in the battle. According to his son Davos, he died content, in a tent where his enemy's limbs hung. The house he founded held Storm's End for nearly three centuries, and one of his descendants, Robert, took the Iron Throne from the Targaryens in 283 AC."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Stormlands: House Baratheon"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aenys I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p2-offre-argilac",
+    "p3-debarquement",
+    "p3-derniere-tempete",
+    "p4-guerre-dornienne"
+  ],
+  "warIds": [
+    "conquete",
+    "premiere-guerre-dornienne"
+  ],
+  "disputed": {
+    "fr": "Sa filiation n'est connue que par la rumeur, même si Jaehaerys Ier la jugeait notoire et évoquait le droit de cuissage comme origine possible. Son année de naissance n'est pas connue.",
+    "en": "His parentage is known only through rumour, even though Jaehaerys I thought it common knowledge and suggested the right of the first night as a possible origin. His year of birth is unknown."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Aegon's Conquest"
+    },
+    {
+      "id": "fab",
+      "locator": "Reign of the Dragon: The Wars of King Aegon I"
+    },
+    {
+      "id": "fab",
+      "locator": "The Sons of the Dragon"
+    },
+    {
+      "id": "fab",
+      "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Reign of the Dragons: The Conquest"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Stormlands: House Baratheon"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "Dorne: Dorne Against the Dragons"
+    }
+  ]
+}

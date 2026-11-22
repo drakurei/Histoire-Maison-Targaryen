@@ -1,0 +1,120 @@
+{
+  "personId": "aegon-fils-aenys-i",
+  "titles": [
+    {
+      "fr": "Prince de Peyredragon",
+      "en": "Prince of Dragonstone"
+    },
+    {
+      "fr": "Roi proclamé par ses partisans, jamais couronné",
+      "en": "King proclaimed by his supporters, never crowned"
+    }
+  ],
+  "lead": {
+    "fr": "Fils aîné et héritier d'Aenys Ier, évincé par son oncle Maegor et tué en le combattant sous l'Œildieu en 43 apr. C., d'où son surnom de Sans-Couronne.",
+    "en": "Eldest son and heir of Aenys I, displaced by his uncle Maegor and killed fighting him beneath the Gods Eye in 43 AC, hence his name of the Uncrowned."
+  },
+  "sections": [
+    {
+      "id": "aegon-fils-aenys-i-un-heritier-sans-dragon",
+      "heading": {
+        "fr": "Un héritier sans dragon",
+        "en": "An Heir Without a Dragon"
+      },
+      "body": {
+        "fr": "Aegon naquit en 26 apr. C., deuxième enfant d'Aenys et d'Alyssa Velaryon. En 37 apr. C., il se trouvait avec son frère Viserys auprès de leur grand-père à Peyredragon quand le Conquérant, qui leur racontait ses guerres, fut frappé de l'attaque qui l'emporta. Il grandit à la cour de son père sans s'attacher à un dragon ; sa sœur aînée Rhaena l'emmenait parfois voler sur le sien.\n\nEn 41 apr. C., à quinze ans, il épousa Rhaena. Au festin, Aenys lui donna le titre de prince de Peyredragon, que Maegor avait porté jusque-là ; Visenya quitta la salle. Le roi envoya ensuite les jeunes époux parcourir le royaume, mais refusa que Rhaena emmène Songefeu, de peur que son fils, qui n'avait pas de dragon, ne parût moins viril que sa femme. La précaution ne servit à rien. On les hua partout, on leur lança de la boue, et la révolte de la Foi les surprit en chemin.",
+        "en": "Aegon was born in 26 AC, the second child of Aenys and Alyssa Velaryon. In 37 AC he and his brother Viserys were with their grandfather on Dragonstone when the Conqueror, who was telling them of his wars, suffered the stroke that killed him. He grew up at his father's court without bonding with a dragon; his elder sister Rhaena sometimes took him flying on hers.\n\nIn 41 AC, at fifteen, he married Rhaena. At the feast Aenys gave him the title of Prince of Dragonstone, which Maegor had held until then; Visenya left the hall. The king then sent the couple on a journey through the realm, but would not let Rhaena take Dreamfyre, for fear that his son, who had no dragon, would seem less of a man than his wife. The precaution served no purpose. They were jeered everywhere, pelted with mud, and the Faith's revolt caught them on the road."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        }
+      ]
+    },
+    {
+      "id": "aegon-fils-aenys-i-l-heritier-evince",
+      "heading": {
+        "fr": "L'héritier évincé",
+        "en": "The Displaced Heir"
+      },
+      "body": {
+        "fr": "Assiégés à Crakehall par des fidèles en armes, Aegon et Rhaena apprirent en 42 apr. C. la mort d'Aenys, puis le couronnement de Maegor à Peyredragon. Quand les assiégeants partirent marcher sur Port-Réal, le couple gagna Castral Roc, où Lyman Lannister lui accorda l'hospitalité sans lui promettre ses épées. Les jumelles Aerea et Rhaella y naquirent. À Lamarck, sa mère Alyssa le proclama roi ; le royaume se mit à l'appeler le Sans-Couronne.\n\nBeaucoup de ceux qui l'entouraient l'abandonnèrent. On le disait faible comme son père, et l'on rappelait qu'il n'avait pas de dragon quand Maegor montait Balerion. En 43 apr. C., profitant d'un long séjour de son oncle à Villevieille, il entra dans Port-Réal caché dans une charrette avec Rhaena. Ils ne cherchèrent pas à prendre le trône, faute de pouvoir le tenir, mais des dragons : Rhaena reprit Songefeu, et Aegon s'attacha à Vif-Argent, le dragon de son père.",
+        "en": "Besieged at Crakehall by armed men of the Faith, Aegon and Rhaena learned in 42 AC of Aenys's death and then of Maegor's coronation on Dragonstone. When the besiegers left to march on King's Landing, the couple reached Casterly Rock, where Lyman Lannister gave them hospitality without promising them his swords. The twins Aerea and Rhaella were born there. On Driftmark his mother Alyssa proclaimed him king; the realm began to call him the Uncrowned.\n\nMany of those around him fell away. He was said to be weak like his father, and people pointed out that he had no dragon while Maegor rode Balerion. In 43 AC, taking advantage of his uncle's long stay in Oldtown, he entered King's Landing hidden in a cart with Rhaena. They did not try to take the throne, lacking the strength to hold it, but dragons: Rhaena recovered Dreamfyre, and Aegon claimed Quicksilver, his father's dragon."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maegor I"
+        }
+      ]
+    },
+    {
+      "id": "aegon-fils-aenys-i-sous-l-oeildieu",
+      "heading": {
+        "fr": "Sous l'Œildieu",
+        "en": "Beneath the Gods Eye"
+      },
+      "body": {
+        "fr": "Revenu dans l'ouest, Aegon rassembla une armée, que Rhaena ne suivit pas. Sa mère cherchait en secret l'appui des Stark, des Arryn, des Baratheon et des Lannister ; ces maisons attendaient une victoire pour se déclarer. À la fin de 43 apr. C., le prince dénonça son oncle comme usurpateur et marcha à travers le Conflans avec quinze mille hommes.\n\nMaegor lança contre lui plusieurs armées venues de directions différentes. Aegon, plus fort que chacune d'elles, ne sut pas les battre l'une après l'autre. La rencontre eut lieu au sud de l'Œildieu. Maegor y parut sur Balerion. Le vieux dragon, bien plus grand, saisit Vif-Argent et lui arracha une aile ; le prince mourut dans la chute, et son armée fut détruite. Il avait seize ou dix-sept ans.\n\nCe fut le premier combat entre dragons de la Maison. Ses filles survécurent, et la question de leurs droits ressurgit à la mort de Maegor.",
+        "en": "Back in the west, Aegon gathered an army, which Rhaena did not follow. His mother was secretly seeking the support of the Starks, Arryns, Baratheons and Lannisters; those houses were waiting for a victory before declaring themselves. Late in 43 AC the prince denounced his uncle as a usurper and marched through the riverlands with fifteen thousand men.\n\nMaegor sent several armies against him from different directions. Aegon, stronger than any one of them, failed to defeat them one at a time. The armies met south of the Gods Eye. Maegor appeared there on Balerion. The old dragon, far larger, seized Quicksilver and tore away a wing; the prince died in the fall, and his army was destroyed. He was sixteen or seventeen.\n\nIt was the first fight between dragons of the house. His daughters survived, and the question of their rights resurfaced at Maegor's death."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        },
+        {
+          "id": "fab",
+          "locator": "Prince into King: The Ascension of Jaehaerys I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "quicksilver"
+  ],
+  "eventIds": [
+    "p4-mort-aegon",
+    "p4-soulevement-foi",
+    "p4-maegor-roi",
+    "p4-sous-oeildieu"
+  ],
+  "warIds": [
+    "soulevement-foi-militante"
+  ],
+  "disputed": {
+    "fr": "On ignore qui décida que Rhaena et son dragon resteraient en arrière, et si leur présence aurait changé l'issue de la bataille. Après la mort de Maegor, certains soutinrent que, Maegor étant un usurpateur, le véritable roi avait été Aegon, et que la couronne devait passer à ses filles plutôt qu'à son frère Jaehaerys.",
+    "en": "It is unknown who decided that Rhaena and her dragon would stay behind, or whether their presence would have changed the outcome of the battle. After Maegor's death some argued that, Maegor being a usurper, the true king had been Aegon, and that the crown should pass to his daughters rather than to his brother Jaehaerys."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Sons of the Dragon"
+    },
+    {
+      "id": "fab",
+      "locator": "Prince into King: The Ascension of Jaehaerys I"
+    },
+    {
+      "id": "tsotd"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Maegor I"
+    }
+  ]
+}

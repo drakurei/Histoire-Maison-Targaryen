@@ -1,0 +1,122 @@
+{
+  "personId": "duncan",
+  "titles": [
+    {
+      "fr": "Prince de Peyredragon",
+      "en": "Prince of Dragonstone"
+    }
+  ],
+  "lead": {
+    "fr": "Fils aîné d'Aegon V, Duncan renonça à la couronne pour épouser Jenny de Vieilles-Pierres et mourut avec son père dans l'incendie de Lestival, en 259 apr. C.",
+    "en": "The eldest son of Aegon V, Duncan gave up the crown to marry Jenny of Oldstones and died with his father in the fire at Summerhall in 259 AC."
+  },
+  "sections": [
+    {
+      "id": "duncan-heritier",
+      "heading": {
+        "fr": "L'héritier d'Aegon V",
+        "en": "Heir to Aegon V"
+      },
+      "body": {
+        "fr": "Duncan est le premier enfant d'Aegon et de Betha Blackwood ; il naît au début des années 220 apr. C., quand rien ne destine encore son père au trône. On l'appelle Duncan le Petit, et l'on suppose qu'il doit son nom au meilleur ami de son père, ser Duncan le Grand, sans que l'auteur l'ait jamais confirmé. Le Grand Conseil de 233 apr. C. fait de son père un roi, et de lui le prince de Peyredragon.\n\nEn 236 apr. C., il chevauche avec le roi et ses frères contre Daemon III Feunoyr et se trouve au pont de la Wend quand l'armée des exilés est détruite. L'année suivante, sa mère arrange pour ses enfants une série d'alliances avec de grandes maisons : Duncan est promis à une fille de lord Lyonel Baratheon, d'Accalmie. Le roi entend ainsi rompre avec les mariages entre frère et sœur et gagner l'appui des seigneurs à son règne.",
+        "en": "Duncan was the first child of Aegon and Betha Blackwood, born in the early 220s AC, when nothing yet marked his father for the throne. He was called Duncan the Small, and he is supposed to have been named for his father's closest friend, Ser Duncan the Tall, though the author has never confirmed it. The Great Council of 233 AC made his father king, and him Prince of Dragonstone.\n\nIn 236 AC he rode with the king and his brothers against Daemon III Blackfyre and was at the Wendwater bridge when the exiles' army was destroyed. The following year his mother arranged a series of alliances with great houses for her children: Duncan was promised to a daughter of Lord Lyonel Baratheon of Storm's End. In this way the king meant to break with marriages between brother and sister and win the lords' support for his reign."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        }
+      ]
+    },
+    {
+      "id": "duncan-jenny",
+      "heading": {
+        "fr": "Le prince des Libellules",
+        "en": "The Prince of Dragonflies"
+      },
+      "body": {
+        "fr": "En 239 apr. C., voyageant dans le Conflans, Duncan rencontre une jeune femme sans naissance, étrange et belle, que l'on connaît sous le nom de Jenny de Vieilles-Pierres. Il l'épouse. Aegon V, qui avait pourtant épousé la femme qu'il aimait, ne peut admettre que l'héritier du trône prenne une roturière et cherche à faire défaire l'union. Le Grand Septon, le Grand Mestre et le conseil se joignent à lui pour sommer le prince de choisir. Duncan garde Jenny et renonce à ses droits au profit de son frère Jaehaerys. On l'appelle désormais le prince des Libellules.\n\nLa renonciation ne suffit pas à réparer l'offense. Lord Lyonel, dont la fille avait pris l'affront à cœur, rejette sa fidélité et se proclame roi de l'Orage. La révolte, brève et sanglante, ne prend fin qu'après un combat singulier où ser Duncan le Grand l'emporte sur lui ; la princesse Rhaelle, sœur de Duncan, est promise à l'héritier d'Accalmie pour sceller la paix.",
+        "en": "In 239 AC, travelling in the riverlands, Duncan met a young woman of no birth, strange and lovely, known as Jenny of Oldstones. He married her. Aegon V, though he had married the woman he loved, could not accept that the heir to the throne should take a commoner, and sought to have the union undone. The High Septon, the Grand Maester and the council joined him in demanding that the prince choose. Duncan kept Jenny and gave up his rights in favour of his brother Jaehaerys. From then on he was called the Prince of Dragonflies.\n\nThe renunciation did not repair the offence. Lord Lyonel, whose daughter had taken the slight to heart, cast off his fealty and proclaimed himself Storm King. The revolt, short and bloody, ended only after a single combat in which Ser Duncan the Tall overcame him; Princess Rhaelle, Duncan's sister, was promised to the heir of Storm's End to seal the peace."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "adwd",
+          "locator": "The Discarded Knight (ch. 59)"
+        }
+      ]
+    },
+    {
+      "id": "duncan-lestival",
+      "heading": {
+        "fr": "Lestival et la chanson",
+        "en": "Summerhall and the Song"
+      },
+      "body": {
+        "fr": "Duncan reste à la cour, où l'on finit par recevoir Jenny et par l'appeler poliment « lady Jenny ». Il garde le goût des joutes. En 247 apr. C., à un tournoi tenu chez les Dondarrion, il accepte d'affronter un écuyer de dix ans entré en lice en chevalier mystère, et le salue d'un mot qui lui restera : l'enfant est Barristan Selmy, dit depuis le Hardi. Quand neuf aventuriers d'Essos se jurent de se tailler chacun un royaume, c'est à Duncan qu'on prête la boutade sur ces couronnes qui se vendent neuf pour un sou, d'où le nom de la guerre suivante.\n\nIl meurt à Lestival en 259 apr. C., avec son père et ser Duncan le Grand. Les sources ne disent pas si Jenny périt avec lui. Leur amour devient un sujet favori des chanteurs. À la fin du siècle, on chante encore la chanson de Jenny, et Catelyn Tully se souvient d'avoir joué enfant, avec Petyr Baelish, à être Jenny et son prince dans les ruines de Vieilles-Pierres.",
+        "en": "Duncan remained at court, where Jenny was in time received and politely called “Lady Jenny”. He kept his taste for jousting. In 247 AC, at a tourney held by the Dondarrions, he agreed to face a ten-year-old squire who had entered the lists as a mystery knight, and greeted him with a word that stuck: the boy was Barristan Selmy, called the Bold ever after. When nine adventurers in Essos swore to carve out a kingdom each, it was Duncan who was credited with the jest about crowns going nine for a penny, which gave the next war its name.\n\nHe died at Summerhall in 259 AC, with his father and Ser Duncan the Tall. The sources do not say whether Jenny perished with him. Their love became a favourite subject of singers. At the end of the century Jenny's song was still sung, and Catelyn Tully remembered playing at Jenny and her prince with Petyr Baelish as a child, among the ruins of Oldstones."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        },
+        {
+          "id": "asos",
+          "locator": "Jaime VIII (ch. 67)"
+        },
+        {
+          "id": "asos",
+          "locator": "Catelyn V (ch. 45)"
+        },
+        {
+          "id": "adwd",
+          "locator": "The Discarded Knight (ch. 59)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-grand-conseil-233",
+    "p6-quatrieme-feunoyr",
+    "p6-duncan-jenny",
+    "p6-lestival"
+  ],
+  "warIds": [
+    "rebellion-feunoyr-4"
+  ],
+  "disputed": {
+    "fr": "L'ordre des faits est flottant : The World of Ice & Fire place d'abord la renonciation de Duncan avant la révolte de lord Lyonel, puis écrit que la paix ne revint qu'une fois qu'il eut renoncé. Le sort de Jenny à Lestival n'est pas connu, et l'origine du prénom de Duncan n'a jamais été confirmée.",
+    "en": "The order of events is uncertain: The World of Ice & Fire first places Duncan's renunciation before Lord Lyonel's revolt, then writes that peace returned only once he had renounced. Jenny's fate at Summerhall is unknown, and the origin of Duncan's name has never been confirmed."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon V"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys II"
+    },
+    {
+      "id": "asos",
+      "locator": "Catelyn V (ch. 45)"
+    },
+    {
+      "id": "asos",
+      "locator": "Jaime VIII (ch. 67)"
+    },
+    {
+      "id": "adwd",
+      "locator": "The Discarded Knight (ch. 59)"
+    }
+  ]
+}

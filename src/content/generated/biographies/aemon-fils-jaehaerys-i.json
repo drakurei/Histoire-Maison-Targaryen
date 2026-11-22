@@ -1,0 +1,107 @@
+{
+  "personId": "aemon-fils-jaehaerys-i",
+  "titles": [
+    {
+      "fr": "Prince de Peyredragon",
+      "en": "Prince of Dragonstone"
+    },
+    {
+      "fr": "Grand justicier et maître des lois",
+      "en": "Lord Justiciar and Master of Laws"
+    }
+  ],
+  "lead": {
+    "fr": "Fils aîné de Jaehaerys Ier et héritier du trône pendant trente ans, Aemon mourut en 92 apr. C. avant son père, et sa mort ouvrit la première querelle de succession de la dynastie.",
+    "en": "The eldest son of Jaehaerys I and heir to the throne for thirty years, Aemon died in 92 AC before his father, and his death opened the dynasty's first dispute over the succession."
+  },
+  "sections": [
+    {
+      "id": "aemon-fils-jaehaerys-i-heritier",
+      "heading": {
+        "fr": "Un héritier désigné au berceau",
+        "en": "An Heir from the Cradle"
+      },
+      "body": {
+        "fr": "Aemon naît à Peyredragon en 55 apr. C., premier fils du couple royal à survivre. À la suggestion de la reine, on place un œuf de dragon dans son berceau. Son père le dit son héritier dès sa naissance ; Alysanne objecte que leur fille Daenerys est l'aînée, et le roi répond que les deux enfants régneront ensemble une fois mariés. La mort de Daenerys en 60 apr. C. met fin au projet. En 62 apr. C., à sept ans, Aemon reçoit le titre de prince de Peyredragon.\n\nL'enfant est grave, prudent, curieux ; sa mère racontait que son premier mot avait été une question. Il grandit aux côtés de son frère Baelon, qui le suit partout, et leurs assauts dans la cour d'armes attirent la foule. On ne le marie pas à sa sœur Alyssa, que la reine destine à Baelon, mais à Jocelyn Baratheon, demi-sœur du roi par sa mère. Le mariage, annoncé en 68 apr. C., est célébré en grande pompe en 70 apr. C.",
+        "en": "Aemon was born on Dragonstone in 55 AC, the first son of the royal couple to survive. At the queen's suggestion, a dragon's egg was placed in his cradle. His father called him his heir from birth; Alysanne objected that their daughter Daenerys was the elder, and the king answered that the two children would reign together once married. Daenerys's death in 60 AC ended the plan. In 62 AC, at the age of seven, Aemon was made Prince of Dragonstone.\n\nThe boy was serious, careful and curious; his mother used to say that his first word had been a question. He grew up beside his brother Baelon, who followed him everywhere, and their bouts in the training yard drew crowds. He was not married to his sister Alyssa, whom the queen meant for Baelon, but to Jocelyn Baratheon, the king's half-sister through his mother. The match, announced in 68 AC, was celebrated with great ceremony in 70 AC."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        },
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        }
+      ]
+    },
+    {
+      "id": "aemon-fils-jaehaerys-i-chevalier",
+      "heading": {
+        "fr": "Le chevalier et Caraxes",
+        "en": "The Knight and Caraxes"
+      },
+      "body": {
+        "fr": "En 72 apr. C., Aemon remporte la mêlée des écuyers au tournoi de Sombreval, se distingue ensuite en lice et reçoit l'adoubement. De retour à Port-Réal, il prend pour monture Caraxes, le plus farouche des jeunes dragons de Fossedragon. Sa fille unique, Rhaenys, naît en 74 apr. C. En 81 apr. C., à vingt-six ans, il succède à lord Rodrik Arryn, parti pour le Val avec la princesse Daella, comme grand justicier et maître des lois.\n\nSa seule guerre fut brève. En 83 apr. C., le prince Morion Martell tente de débarquer dans les terres de l'Orage ; Aemon, Baelon et le roi, montés sur leurs dragons, brûlent sa flotte avant qu'elle ne touche terre. Port-Réal fête une victoire qui n'a coûté la vie à aucun homme du roi. Pendant la première querelle de ses parents, en 88 apr. C., Aemon rejoint son père dans l'Ouest, sans parvenir à le ramener à la cour.",
+        "en": "In 72 AC Aemon won the squires' melee at the tourney at Duskendale, went on to distinguish himself in the lists and was knighted. Back in King's Landing he claimed Caraxes, the fiercest of the young dragons in the Dragonpit. His only child, Rhaenys, was born in 74 AC. In 81 AC, at twenty-six, he succeeded Lord Rodrik Arryn, who had left for the Vale with Princess Daella, as Lord Justiciar and Master of Laws.\n\nHis only war was short. In 83 AC Prince Morion Martell attempted a landing in the stormlands; Aemon, Baelon and the king, mounted on their dragons, burned his fleet before it reached the shore. King's Landing celebrated a victory that had cost the king not one of his men. During his parents' first quarrel, in 88 AC, Aemon joined his father in the westerlands but could not persuade him to return to court."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        }
+      ]
+    },
+    {
+      "id": "aemon-fils-jaehaerys-i-mort",
+      "heading": {
+        "fr": "La mort à Torth",
+        "en": "Death on Tarth"
+      },
+      "body": {
+        "fr": "En 92 apr. C., des exilés de Myr se sont emparés de la moitié orientale de Torth. Aemon part les combattre au troisième mois, peu après avoir appris que Rhaenys attend son premier enfant, et devance la flotte de son gendre, lord Corlys Velaryon. Il rejoint lord Cameron Torth dans son camp, au cœur montagneux de l'île. Deux éclaireurs myriens découvrent le camp ; l'un tire sur le seigneur de l'île, le manque, et atteint le prince à la gorge. Aemon meurt sur place.\n\nBaelon vole aussitôt sur Vhagar venger son frère. Mais la mort d'Aemon pose une question que personne n'avait voulu prévoir : son unique enfant est une fille. Jaehaerys choisit Baelon pour héritier, écartant Rhaenys et l'enfant qu'elle porte. La reine s'y oppose, les Velaryon et les Baratheon aussi. De ce choix naît le surnom que Champignon donnera plus tard à Rhaenys, « la Reine qui ne fut jamais ».",
+        "en": "In 92 AC exiles from Myr had seized the eastern half of Tarth. Aemon set out against them in the third month, shortly after learning that Rhaenys was expecting her first child, and arrived ahead of the fleet of his son-in-law, Lord Corlys Velaryon. He joined Lord Cameron Tarth at his camp in the mountainous heart of the island. Two Myrish scouts discovered the camp; one of them shot at the lord of the island, missed, and struck the prince in the throat. Aemon died where he stood.\n\nBaelon flew at once on Vhagar to avenge his brother. But Aemon's death raised a question no one had cared to foresee: his only child was a daughter. Jaehaerys chose Baelon as his heir, passing over Rhaenys and the child she carried. The queen opposed the choice, and so did the Velaryons and the Baratheons. From it came the name Mushroom would later give Rhaenys, “the Queen Who Never Was”."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "caraxes"
+  ],
+  "eventIds": [
+    "p4-mort-aemon"
+  ],
+  "warIds": [],
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+    },
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys I"
+    }
+  ]
+}

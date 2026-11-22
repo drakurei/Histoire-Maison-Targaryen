@@ -1,0 +1,116 @@
+{
+  "personId": "laena-velaryon",
+  "titles": [
+    {
+      "fr": "Dame de la maison Velaryon",
+      "en": "Lady of House Velaryon"
+    },
+    {
+      "fr": "Cavalière de Vhagar",
+      "en": "Rider of Vhagar"
+    },
+    {
+      "fr": "Épouse du prince Daemon",
+      "en": "Wife of Prince Daemon"
+    }
+  ],
+  "lead": {
+    "fr": "Fille aînée de Corlys Velaryon et de la princesse Rhaenys, Laena monta Vhagar, épousa le prince Daemon en 115 apr. C. et mourut des suites de couches en 120 apr. C.",
+    "en": "Elder child of Corlys Velaryon and Princess Rhaenys, Laena rode Vhagar, married Prince Daemon in 115 AC and died after childbirth in 120 AC."
+  },
+  "sections": [
+    {
+      "id": "laena-velaryon-enfance",
+      "heading": {
+        "fr": "La fille du Serpent de mer",
+        "en": "The Sea Snake's Daughter"
+      },
+      "body": {
+        "fr": "Laena naît à la fin de 92 apr. C., peu après la mort de son grand-père, le prince Aemon. Avant sa naissance, la cour a débattu de « l'enfant dans le ventre » : un fils de Rhaenys aurait pu faire valoir les droits de la branche aînée. C'est une fille, et en 101 apr. C. le Grand Conseil l'écarte avec sa mère au profit de Viserys.\n\nEncore enfant, Laena devient la cavalière de Vhagar, ancienne monture de la reine Visenya et la plus grande des bêtes que possèdent alors les Targaryen. Après la mort d'Aemma Arryn, le grand mestre Runciter suggère au roi d'épouser cette jeune fille de douze ans pour réconcilier les deux maisons. Viserys lui préfère Alicent Hightower. Corlys s'en offense ; Laena, à en croire le mestre de son père, se souciait davantage de voler que de prétendants.",
+        "en": "Laena was born late in 92 AC, shortly after the death of her grandfather, Prince Aemon. Before her birth the court had argued over “the boy in the belly”: a son of Rhaenys might have pressed the rights of the senior line. She was a girl, and in 101 AC the Great Council passed over her and her mother in favour of Viserys.\n\nWhile still a child, Laena became the rider of Vhagar, once Queen Visenya's mount and the largest beast the Targaryens then possessed. After Aemma Arryn's death, Grand Maester Runciter suggested that the king marry this girl of twelve to reconcile the two houses. Viserys preferred Alicent Hightower. Corlys took offence; Laena, if her father's maester is to be believed, cared more for flying than for suitors."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "laena-velaryon-daemon",
+      "heading": {
+        "fr": "Le mariage de Lamarck",
+        "en": "The Driftmark Marriage"
+      },
+      "body": {
+        "fr": "À douze ans, Laena est promise à un fils du Seigneur de la Mer de Braavos. Le père meurt, le fils dilapide sa fortune et vient s'installer à Lamarck, et pendant des années Corlys trouve des raisons de repousser la noce sans oser rompre la promesse. En 115 apr. C., Daemon, veuf depuis peu, arrive sur l'île ; il provoque le fiancé, le tue en duel avec Sœur Noire, et épouse Laena quinze jours plus tard. Les chanteurs y voient un coup de foudre, d'autres un calcul.\n\nSachant le roi mécontent, les époux gagnent Pentos sur leurs dragons, puis Volantis, Qohor et Norvos. Revenue à Pentos, Laena s'y découvre enceinte et y met au monde, en 116 apr. C., deux filles jumelles, Baela et Rhaena. Six mois plus tard, elle les ramène par mer à Lamarck, tandis que Daemon ramène les dragons par la voie des airs.",
+        "en": "At twelve Laena was promised to a son of the Sealord of Braavos. The father died, the son squandered his fortune and came to live on Driftmark, and for years Corlys found reasons to put off the wedding without daring to break the promise. In 115 AC Daemon, lately widowed, came to the island; he provoked the betrothed, killed him in a duel with Dark Sister and married Laena a fortnight later. Singers saw love at first sight, others a calculation.\n\nKnowing the king would be displeased, the couple flew to Pentos on their dragons, then on to Volantis, Qohor and Norvos. Back in Pentos, Laena found she was with child and gave birth there, in 116 AC, to twin daughters, Baela and Rhaena. Six months later she brought them home to Driftmark by sea, while Daemon flew the dragons back."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        }
+      ]
+    },
+    {
+      "id": "laena-velaryon-mort",
+      "heading": {
+        "fr": "La mort dans la tour",
+        "en": "Death in the Tower"
+      },
+      "body": {
+        "fr": "Revenue à l'ouest, Laena se lie d'amitié avec Rhaenyra, sa belle-sœur par Laenor ; les deux femmes se rendent visite et volent ensemble. En 118 apr. C., avec l'accord du roi, les jumelles sont promises aux deux fils aînés de la princesse. Enceinte de nouveau en 119 apr. C., Laena entre en travail dans les premiers jours de 120 apr. C., Rhaenyra à son chevet. Après un jour et une nuit, elle met au monde un fils difforme, qui meurt dans l'heure.\n\nLa fièvre suit. Ni le mestre de Lamarck ni celui de Peyredragon ne parviennent à la sauver, et elle s'éteint après trois jours de délire. On rapporte qu'elle se leva pour rejoindre Vhagar, voulant voler encore une fois, et que ses forces la trahirent dans l'escalier de la tour. Sa mort laisse Vhagar sans cavalier ; aux funérailles de Laenor, la même année, le jeune Aemond s'en empare. Baela donnera plus tard le prénom de sa mère à sa première fille.",
+        "en": "Back in the west, Laena grew close to Rhaenyra, her sister-in-law through Laenor; the two women visited each other and flew together. In 118 AC, with the king's consent, the twins were betrothed to the princess's two eldest sons. With child again in 119 AC, Laena went into labour in the first days of 120 AC, with Rhaenyra at her side. After a day and a night she bore a misshapen son, who died within the hour.\n\nFever followed. Neither the maester of Driftmark nor the maester of Dragonstone could save her, and she died after three days of delirium. It is said that she rose from her bed to go to Vhagar, wanting to take wing once more, and that her strength gave out on the stairs of the tower. Her death left Vhagar without a rider; at Laenor's funeral the same year, the young Aemond claimed her. Baela would later give her mother's name to her first daughter."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "vhagar"
+  ],
+  "eventIds": [
+    "p4-grand-conseil-101",
+    "p5-alicent",
+    "p5-printemps-rouge"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "Les motifs de Daemon en l'épousant sont discutés : passion selon les chanteurs, ambition et besoin d'alliés selon d'autres. Champignon prétend que le couple alla jusqu'aux ruines de Valyria ; des sources jugées plus sûres le font seulement voyager dans les Cités libres. Sa dernière tentative pour rejoindre Vhagar n'est rapportée que comme une tradition.",
+    "en": "Daemon's motives in marrying her are debated: passion according to the singers, ambition and the need for allies according to others. Mushroom claims the couple went as far as the ruins of Valyria; sources considered more reliable have them travel only through the Free Cities. Her last attempt to reach Vhagar is reported only as a tradition."
+  },
+  "adaptation": {
+    "fr": "House of the Dragon la fait mourir pendant l'accouchement en ordonnant à Vhagar de la brûler ; dans les livres, elle succombe à la fièvre quelques jours après la naissance de son fils.",
+    "en": "House of the Dragon has her die during labour by ordering Vhagar to burn her; in the books she succumbs to fever a few days after her son's birth."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys I"
+    },
+    {
+      "id": "trp"
+    },
+    {
+      "id": "hotd",
+      "locator": "Season 1"
+    }
+  ]
+}

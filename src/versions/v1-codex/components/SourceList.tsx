@@ -9,7 +9,7 @@ import styles from './SourceList.module.css';
  * Sigles des ouvrages, tels que les lecteurs les abrègent (titres originaux). Donnée
  * d'appareil : à déplacer dans content/sources/sources.json si le contrat gagne un champ `siglum`.
  */
-const SIGLA: Readonly<Record<string, string>> = {
+export const SIGLA: Readonly<Record<string, string>> = {
   fab: 'F&B',
   twoiaf: 'TWoIaF',
   trotd: 'TRotD',

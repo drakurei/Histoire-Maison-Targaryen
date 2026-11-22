@@ -1,0 +1,102 @@
+{
+  "personId": "daeron-fils-maekar-i",
+  "titles": [
+    {
+      "fr": "Prince de Peyredragon",
+      "en": "Prince of Dragonstone"
+    }
+  ],
+  "lead": {
+    "fr": "Fils aîné de Maekar Ier, Daeron fut l'héritier du trône à partir de 221 apr. C., mais il mourut avant son père et ne laissa qu'une fille que l'on jugea incapable de régner.",
+    "en": "The eldest son of Maekar I, Daeron was heir to the throne from 221 AC, but he died before his father and left only a daughter judged unfit to rule."
+  },
+  "sections": [
+    {
+      "id": "daeron-fils-maekar-i-cendregue",
+      "heading": {
+        "fr": "L'auberge et le tournoi",
+        "en": "The Inn and the Tourney"
+      },
+      "body": {
+        "fr": "En 209 apr. C., Maekar, alors prince de Lestival, envoie ses fils Daeron et Aegon au tournoi de Cendregué, dans l'espoir qu'ils y fassent meilleure figure que les fils de son frère Baelor. Daeron n'a aucun goût pour les joutes. Il fausse compagnie à son escorte et emmène le cadet, qui lui sert d'écuyer. Ses propres cheveux n'ont pas l'éclat argenté des Targaryen et lui permettent de passer inaperçu ; il rase en revanche la tête d'Aegon. On le retrouve ivre dans une auberge des environs.\n\nPour expliquer la disparition de l'enfant, il raconte à son père qu'un chevalier brigand d'une taille démesurée l'a enlevé sur la route et qu'il l'a poursuivi en vain. Le mensonge tombe au plus mal. Duncan, le chevalier errant chez qui Aegon s'est placé comme écuyer, vient d'être arrêté pour avoir frappé le prince Aerion, et la fable de Daeron semble l'accabler un peu plus.",
+        "en": "In 209 AC Maekar, then Prince of Summerhall, sent his sons Daeron and Aegon to the tourney at Ashford Meadow, hoping they would cut a better figure than the sons of his brother Baelor. Daeron had no taste for jousting. He slipped away from his escort and took the younger boy, who served as his squire, along with him. His own hair lacked the silver sheen of the Targaryens and let him pass unnoticed; Aegon's he shaved off. He was found drunk at an inn nearby.\n\nTo account for the boy's disappearance, he told his father that a robber knight of enormous size had carried him off on the road and that he had chased them in vain. The lie came at the worst possible moment. Duncan, the hedge knight with whom Aegon had taken service as a squire, had just been arrested for striking Prince Aerion, and Daeron's tale seemed to weigh further against him."
+      },
+      "sources": [
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow: the inn, the arrest of Duncan"
+        }
+      ]
+    },
+    {
+      "id": "daeron-fils-maekar-i-reve",
+      "heading": {
+        "fr": "Un rêve de dragon mort",
+        "en": "A Dream of a Dead Dragon"
+      },
+      "body": {
+        "fr": "Daeron vient ensuite trouver Duncan pour s'excuser : il n'avait pas remarqué, dit-il, que son frère n'était plus avec lui. Il lui confie aussi qu'il l'avait vu en rêve avant de le croiser à l'auberge, et que ses rêves se réalisent. Dans celui-ci, un grand dragon mort tombait sur le chevalier, qui se relevait vivant. Daeron ne sait pas ce que cela signifie et avoue que Duncan lui fait peur. Il promet enfin de ne pas se battre pour de bon.\n\nLe jour du jugement par sept, il combat donc dans le camp de son frère Aerion, aux côtés de leur père et de trois chevaliers de la Garde Royale. Désarçonné dès la première charge par ser Robyn Rhysling, il reste à terre comme il l'avait annoncé, et son propre cheval lui marche sur le pied. Le rêve trouve son sens à la fin de la journée : le prince Baelor, frappé par Maekar, meurt de sa blessure dans les bras de Duncan.",
+        "en": "Daeron later came to Duncan to apologise: he had not noticed, he said, that his brother was no longer with him. He also told him that he had seen him in a dream before meeting him at the inn, and that his dreams came true. In this one a great dragon fell dead upon the knight, who rose from beneath it alive. Daeron did not know what it meant and admitted that Duncan frightened him. Finally he promised not to fight in earnest.\n\nOn the day of the trial of seven he therefore fought on the side of his brother Aerion, alongside their father and three knights of the Kingsguard. Unhorsed in the very first charge by Ser Robyn Rhysling, he stayed on the ground as he had said he would, and his own horse trod on his foot. The dream found its meaning at the end of the day: Prince Baelor, struck by Maekar, died of his wound in Duncan's arms."
+      },
+      "sources": [
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow: the trial of seven"
+        }
+      ]
+    },
+    {
+      "id": "daeron-fils-maekar-i-heritier",
+      "heading": {
+        "fr": "L'héritier qui ne régna pas",
+        "en": "The Heir Who Never Reigned"
+      },
+      "body": {
+        "fr": "En 221 apr. C., la mort d'Aerys Ier, qui n'a pas d'enfant, porte Maekar sur le trône, et Daeron devient prince de Peyredragon. Il trouve le château lugubre et préfère, dit-on, se faire appeler prince de Lestival. Son frère Aemon, devenu mestre, le sert à Peyredragon plutôt que de siéger au conseil. Daeron épouse Kiera de Tyrosh, veuve de son cousin Valarr, mort lors du Grand Fléau de Printemps ; leur fille Vaella naît en 222 apr. C. Elle grandit douce, mais simple d'esprit.\n\nDaeron meurt avant son père, à une date que les sources ne donnent pas. On attribue sa mort à une vérole contractée auprès d'une fille de joie. Sa disparition prépare la crise de 233 apr. C. : à la mort de Maekar, l'héritière directe est une enfant que personne ne croit capable de régner. Bien plus tard, Aemon dira que ses trois frères avaient rêvé de dragons et que ces rêves les avaient tous tués.",
+        "en": "In 221 AC the death of the childless Aerys I brought Maekar to the throne, and Daeron became Prince of Dragonstone. He found the castle gloomy and preferred, it is said, to be styled Prince of Summerhall. His brother Aemon, now a maester, served him on Dragonstone rather than sit on the council. Daeron married Kiera of Tyrosh, widow of his cousin Valarr, who had died in the Great Spring Sickness; their daughter Vaella was born in 222 AC. She grew up gentle but simple-minded.\n\nDaeron died before his father, on a date the sources do not give. His death is put down to a pox caught from a whore. It prepared the crisis of 233 AC: when Maekar died, the direct heir was a girl whom no one believed fit to rule. Much later Aemon would say that all three of his brothers had dreamed of dragons, and that those dreams had killed every one of them."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "acok",
+          "locator": "Jon I (ch. 6)"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell III (ch. 26)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-cendregue-209",
+    "p6-grand-conseil-233"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "La date de sa mort n'est pas connue, sinon qu'elle précède celle de Maekar en 233 apr. C. La vérole n'est qu'une réputation rapportée par les chroniques. Mestre Aemon, de son côté, attribue la mort de ses trois frères à leurs rêves de dragons, sans préciser ce qu'il entend par là.",
+    "en": "The date of his death is unknown, except that it came before Maekar's in 233 AC. The pox is only a reputation passed on by the chronicles. Maester Aemon, for his part, blamed the deaths of his three brothers on their dreams of dragons, without saying what he meant by it."
+  },
+  "sources": [
+    {
+      "id": "thk",
+      "locator": "Ashford Meadow"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Maekar I"
+    },
+    {
+      "id": "acok",
+      "locator": "Jon I (ch. 6)"
+    },
+    {
+      "id": "affc",
+      "locator": "Samwell III (ch. 26)"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+/* À propos : le colophon sur le vélin ; l'emblème en sang et le poinçon sur le champ. */
+.chiffre {
+  margin-top: var(--e4);
+  max-width: var(--mesure);
+}
+
+.familles {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--e6) var(--e6);
+  margin-top: var(--e5);
+}
+
+.famille {
+  display: grid;
+  row-gap: var(--e1);
+  align-content: start;
+}
+
+.familleNom {
+  font-size: var(--t3);
+  line-height: 1;
+  color: var(--v3-texte);
+}
+
+.familleNom[data-famille='texturina'] {
+  font-weight: 350;
+  letter-spacing: -0.02em;
+}
+
+.familleNom[data-famille='grenze'] {
+  color: var(--v3-rubrique);
+}
+
+.familleNom[data-famille='alegreya'] {
+  font-style: italic;
+}
+
+.familleRole {
+  max-width: 30em;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.45;
+}
+
+.familleCredit {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--v3-texte-2);
+}
+
+@media (width < 720px) {
+  .familles {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+.mention {
+  max-width: var(--mesure);
+  margin-top: var(--e4);
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--v3-texte-2);
+}
+
+.justification {
+  margin-top: var(--e8);
+  max-width: 34em;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--v3-texte-2);
+}
+
+/* ------------------------------------------------------------ Colonne (champ) */
+.colonne {
+  row-gap: var(--e7);
+  align-content: space-between;
+}
+
+.embleme {
+  display: grid;
+  row-gap: var(--e3);
+  justify-items: start;
+}
+
+.emblemeDessin {
+  width: min(100%, 22rem);
+  height: auto;
+  color: var(--sang);
+}
+
+.poincon {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: start;
+  scroll-margin-top: var(--e6);
+  outline: none;
+}
+
+.poinconMarque {
+  color: var(--ivoire);
+}
+
+.poincon:target .poinconMarque,
+.poincon:focus .poinconMarque {
+  color: var(--braise);
+}
+
+.poinconTexte {
+  display: grid;
+  row-gap: var(--e2);
+  font-family: var(--f-recit);
+  font-size: calc(var(--t0) * 0.94);
+  line-height: 1.55;
+  color: var(--ivoire);
+}
+
+.poinconTitre {
+  font-size: var(--t2);
+  font-weight: 300;
+}
+
+.poinconTitre :global(.gloss__tr) {
+  font-size: var(--t-1);
+}

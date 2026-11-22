@@ -1,0 +1,36 @@
+.marque {
+  display: inline-block;
+  flex: none;
+  vertical-align: -0.05em;
+  overflow: visible;
+}
+
+.marque[data-ton='noir'] {
+  fill: var(--v3-texte);
+}
+
+.marque[data-ton='vert'] {
+  fill: var(--v3-vert);
+}
+
+.marque[data-ton='rouge'] {
+  fill: var(--sang);
+}
+
+.marque[data-ton='or'] {
+  fill: var(--v3-or);
+}
+
+.vide {
+  fill: none;
+  stroke: var(--v3-texte-2);
+  stroke-width: 1.5;
+}
+
+:global(.v3 [data-surface='velin']) .marque[data-ton='rouge'] {
+  fill: var(--rubrique);
+}
+
+:global(.v3 [data-surface='velin']) .marque[data-ton='or'] {
+  fill: var(--v3-or-encre);
+}

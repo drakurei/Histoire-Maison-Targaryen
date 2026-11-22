@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-v3-savoirs",
+  "note": "Groupe D de la version 3 (langue et ses salles, sources, apprendre, parcours, à propos, introuvable). Le reste réutilise les clés page.*, v1.* et v2.* déjà publiées. Aucune forme valyrienne nouvelle.",
+  "items": [
+    {
+      "key": "v3.savoirs.langue.colonne",
+      "fr": "La formule analysée",
+      "en": "The formula, word by word"
+    },
+    {
+      "key": "v3.savoirs.lexique.colonne",
+      "fr": "Le mot choisi",
+      "en": "The chosen word"
+    },
+    {
+      "key": "v3.savoirs.lexique.compte",
+      "fr": "Les {n} formes du lexique, une marque par forme, de la plus sûre à la plus distante. Celles que la recherche écarte pâlissent.",
+      "en": "The {n} forms of the lexicon, one mark per form, from the surest to the most distant. Those the search leaves out grow pale."
+    },
+    {
+      "key": "v3.savoirs.lexique.statut",
+      "fr": "{label} : {n}",
+      "en": "{label}: {n}"
+    },
+    {
+      "key": "v3.savoirs.parcours.colonne",
+      "fr": "L’étape en cours",
+      "en": "The current step"
+    },
+    {
+      "key": "v3.savoirs.apprendre.legende",
+      "fr": "Sous chaque parcours, la part de l’histoire qu’il traverse. Le rouge compte les dragons vivants, le trait clair donne la durée couverte, les encoches les événements cités.",
+      "en": "Under each path, the stretch of history it crosses. The red counts the living dragons, the pale line gives the span covered, the notches the events cited."
+    },
+    {
+      "key": "v3.savoirs.apropos.colonne",
+      "fr": "L’emblème et le poinçon",
+      "en": "The emblem and the hallmark"
+    }
+  ]
+}

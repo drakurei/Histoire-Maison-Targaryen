@@ -1,0 +1,196 @@
+{
+  "personId": "aegon-iv",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+      "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+    },
+    {
+      "fr": "Prince de la maison Targaryen",
+      "en": "Prince of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Fils de Viserys II, Aegon IV régna de 172 à 184 apr. C. ; ses favorites, ses caprices et la légitimation de ses bâtards sur son lit de mort léguèrent à la dynastie plus de soixante ans de rébellions.",
+    "en": "The son of Viserys II, Aegon IV reigned from 172 to 184 AC; his favourites, his whims and the legitimisation of his bastards on his deathbed bequeathed the dynasty more than sixty years of rebellion."
+  },
+  "sections": [
+    {
+      "id": "aegon-iv-jeunesse",
+      "heading": {
+        "fr": "Le prince séduisant",
+        "en": "The Charming Prince"
+      },
+      "body": {
+        "fr": "Aegon naît au troisième mois de 135 apr. C., à Port-Réal, fils aîné du prince Viserys et de Larra Rogare, de Lys. Sa mère regagne sa cité natale quand il a quatre ans et n'en revient pas. Jeune homme, il passe pour le plus brillant des princes : bon jouteur, chasseur, danseur, causeur plein d'esprit. Il a un défaut que tous relèvent : il ne sait pas se gouverner lui-même.\n\nSa première liaison connue date de ses quatorze ans. En 153 apr. C., son père le marie à sa sœur Naerys, pieuse et fragile, qu'il n'aime pas ; leur fils Daeron naît le dernier jour de la même année.\n\nIl accompagne son cousin Daeron Ier en Dorne et ramène à Port-Réal les otages livrés à Lancehélion ; l'une d'eux, lady Cassella Vaith, devient sa maîtresse. Sous Baelor, il est envoyé à Braavos, dit-on, pour laisser la princesse se remettre d'une couche qui avait failli la tuer.",
+        "en": "Aegon was born in the third month of 135 AC in King's Landing, the elder son of Prince Viserys and Larra Rogare of Lys. His mother went back to her native city when he was four and never returned. As a young man he was held the most brilliant of princes: a good jouster, huntsman and dancer, and a witty talker. He had one flaw everyone noted: he could not govern himself.\n\nHis first known affair dates from his fourteenth year. In 153 AC his father married him to his sister Naerys, pious and frail, whom he did not love; their son Daeron was born on the last day of that same year.\n\nHe went with his cousin Daeron I to Dorne and brought back to King's Landing the hostages given up at Sunspear; one of them, Lady Cassella Vaith, became his mistress. Under Baelor he was sent to Braavos, it is said, to give the princess time to recover from a childbirth that had nearly killed her."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        }
+      ]
+    },
+    {
+      "id": "aegon-iv-regne",
+      "heading": {
+        "fr": "Un roi gouverné par ses plaisirs",
+        "en": "A King Ruled by His Pleasures"
+      },
+      "body": {
+        "fr": "Viserys II meurt en 172 apr. C., après un an de règne, si soudainement que certains historiens ont soupçonné son fils de l'avoir empoisonné. Il régnera douze ans, et presque tout ce qu'on rapporte de ce règne le condamne.\n\nLe roi s'entoure de flatteurs et récompense ceux qui l'amusent. Il donne à une maison ce qu'il retire à une autre ; il fait des promotions du Guet une manière de payer ses favoris ; il offre un œuf de dragon à lord Butterwell après un séjour où il aurait séduit ses trois filles. Ses maîtresses, dont il dira en avoir aimé neuf, se succèdent à la cour au vu de tous. Deux collines que se disputent les Bracken et les Blackwood changent de nom, puis de maître, au gré de ses faveurs pour une Bracken, puis pour une Blackwood.\n\nPour les seigneurs restés sur leurs terres, ce roi pouvait sembler frivole et sans danger. Ceux qui vivaient près de lui le savaient changeant, avide et cruel.",
+        "en": "Viserys II died in 172 AC after a year on the throne, so suddenly that some historians have suspected his son of poisoning him. He would reign for twelve years, and almost everything recorded of that reign condemns him.\n\nThe king surrounded himself with flatterers and rewarded those who amused him. He gave to one house what he took from another; he used promotions in the City Watch to pay his favourites; he gave a dragon's egg to Lord Butterwell after a visit during which he was said to have seduced all three of his daughters. His mistresses, of whom he would claim to have loved nine, followed one another at court in full view. Two hills disputed between the Brackens and the Blackwoods changed their name, then their master, as his favour passed from a Bracken to a Blackwood.\n\nTo the lords who stayed on their lands this king might seem frivolous and harmless. Those who lived near him knew him to be fickle, greedy and cruel."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys II"
+        }
+      ]
+    },
+    {
+      "id": "aegon-iv-dragons",
+      "heading": {
+        "fr": "Des dragons de bois et de fer",
+        "en": "Dragons of Wood and Iron"
+      },
+      "body": {
+        "fr": "Aegon avait dix-huit ans quand mourut, en 153 apr. C., le dernier dragon de la maison. Comme son oncle Aegon III, il voulut rendre des dragons à la couronne, mais par une autre voie : au lieu de chercher à faire éclore des œufs, il ordonna aux pyromants de lui en construire.\n\nL'occasion fut une nouvelle guerre contre Dorne, que le roi comptait nourrir de la vieille haine des terres de l'Orage et du Bief. Malgré les protestations de son fils Daeron, il fit bâtir une grande flotte et la lança en 174 apr. C. vers la côte dornienne ; une tempête la dispersa et la détruisit en route. Les sept dragons mécaniques des alchimistes, censés cracher le feu grégeois, firent pire : ils brûlèrent un quart du Bois-du-Roi et tuèrent des centaines des hommes chargés de les manœuvrer.\n\nLe roi ne parla plus jamais de Dorne. L'épisode résume ce que les historiens reprochent à son règne : une ambition de conquérant, servie sans patience ni jugement.",
+        "en": "Aegon was eighteen when the last dragon of the house died in 153 AC. Like his uncle Aegon III he wished to give the crown dragons again, but by another road: instead of trying to hatch eggs, he ordered the pyromancers to build him some.\n\nThe occasion was a new war against Dorne, which the king meant to feed on the old hatred of the stormlands and the Reach. Over his son Daeron's protests he had a great fleet built and sent it toward the Dornish coast in 174 AC; a storm scattered and destroyed it on the way. The alchemists' seven mechanical dragons, meant to spout wildfire, did worse: they burned a quarter of the kingswood and killed hundreds of the men set to work them.\n\nThe king never spoke of Dorne again. The episode sums up what historians hold against his reign: a conqueror's ambition, pursued without patience or judgement."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        }
+      ]
+    },
+    {
+      "id": "aegon-iv-famille",
+      "heading": {
+        "fr": "Le roi contre les siens",
+        "en": "The King Against His Own"
+      },
+      "body": {
+        "fr": "Aegon haïssait ce que sa femme et son frère représentaient. Naerys, que les mestres disaient en danger de mort à chaque grossesse, dut continuer à lui donner des enfants ; Aemon, le Chevalier-Dragon, était aussi admiré que le roi l'était peu. Quand ser Morgil Hastwyck accusa la reine d'adultère, Aemon le tua en combat judiciaire. D'après mestre Kaeth, c'est le roi qui avait suscité l'accusation ; il le nia.\n\nEn 178 apr. C., Aegon fit exécuter sa maîtresse Bethany Bracken, son amant ser Terrence Toyne, de la Garde Royale, et le père de la jeune femme. Deux frères de Toyne tentèrent ensuite de tuer le roi ; Aemon mourut en le protégeant. Naerys mourut en couches un an après lui.\n\nDélivré de l'un et de l'autre, le roi laissa entendre de plus en plus ouvertement que Daeron était né de leurs amours. Il ne le déshérita pourtant jamais : les Martell, famille de la femme du prince, et nombre de seigneurs écœurés par la cour se seraient rangés derrière l'héritier.",
+        "en": "Aegon hated what his wife and his brother stood for. Naerys, whom the maesters held to be at risk of death with every pregnancy, had to go on bearing him children; Aemon, the Dragonknight, was as admired as the king was not. When Ser Morgil Hastwyck accused the queen of adultery, Aemon killed him in trial by combat. According to Maester Kaeth, it was the king who had prompted the accusation; he denied it.\n\nIn 178 AC Aegon had his mistress Bethany Bracken executed, along with her lover Ser Terrence Toyne of the Kingsguard and the young woman's father. Two of Toyne's brothers later tried to kill the king; Aemon died protecting him. Naerys died in childbed a year after him.\n\nRid of them both, the king hinted ever more openly that Daeron was the fruit of their love. Yet he never disinherited him: the Martells, the family of the prince's wife, and many lords sickened by the court would have rallied to the heir."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys II"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        }
+      ]
+    },
+    {
+      "id": "aegon-iv-mort",
+      "heading": {
+        "fr": "Le legs empoisonné",
+        "en": "The Poisoned Legacy"
+      },
+      "body": {
+        "fr": "Vers 182 apr. C., le roi arme chevalier son bâtard Daemon, fils de sa cousine Daena, qui vient de remporter à douze ans un tournoi d'écuyers, et lui remet en public Feunoyr, l'épée du Conquérant que les rois se transmettaient. C'est la première reconnaissance officielle de l'enfant, et le début des propos sur un autre héritier possible.\n\nAu début de 184 apr. C., Aegon meurt à quarante-neuf ans, si obèse qu'il ne peut plus quitter sa couche, le corps rongé par un mal que les mestres disent n'avoir jamais vu et que les septons tiennent pour un jugement des dieux. Son dernier décret légitime tous ses bâtards et les place dans l'ordre de succession après Daeron. Ceux qui sont nés de mères nobles, dont Daemon, Aegor, Brynden et Shiera, prennent le nom de Grands Bâtards.\n\nLes motifs de cet acte, rancune envers Daeron, affection pour ses autres enfants ou simple caprice, restent obscurs. Les conséquences ne le sont pas : cinq rébellions Feunoyr, de 196 à 260 apr. C.",
+        "en": "Around 182 AC the king knighted his bastard Daemon, the son of his cousin Daena, who had just won a squires' tourney at twelve, and publicly gave him Blackfyre, the Conqueror's sword that the kings had handed down. It was the boy's first official acknowledgement, and the beginning of talk about another possible heir.\n\nEarly in 184 AC Aegon died at forty-nine, so fat that he could no longer leave his couch, his body eaten by an affliction the maesters said they had never seen and the septons held to be a judgement of the gods. His last decree legitimised all his bastards and placed them in the succession after Daeron. Those born of noble mothers, among them Daemon, Aegor, Brynden and Shiera, became known as the Great Bastards.\n\nThe motives behind this act, spite toward Daeron, affection for his other children or mere whim, remain obscure. Its consequences do not: five Blackfyre rebellions, from 196 to 260 AC."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "dernier-dragon"
+  ],
+  "eventIds": [
+    "p6-daeron-dorne",
+    "p6-baelor",
+    "p6-viserys-ii",
+    "p6-aegon-iv",
+    "p6-herberouge"
+  ],
+  "warIds": [
+    "conquete-de-dorne",
+    "rebellion-feunoyr-1"
+  ],
+  "disputed": {
+    "fr": "Certains historiens soupçonnent Aegon d'avoir empoisonné son père, Viserys II, sans preuve. Selon mestre Kaeth, il fut l'instigateur de l'accusation d'adultère portée contre la reine ; il le nia toujours. La rumeur lui attribue la paternité de Viserys Plumm, fils posthume de lord Ossifer et de la princesse Elaena. Les raisons pour lesquelles il ne déshérita pas Daeron, puis légitima ses bâtards, ne sont pas établies. L'adoubement de Daemon se place en 182 ou en 183 apr. C. selon les calculs.",
+    "en": "Some historians suspect Aegon of poisoning his father, Viserys II, without proof. According to Maester Kaeth, he was behind the charge of adultery brought against the queen; he always denied it. Rumour makes him the father of Viserys Plumm, the posthumous son of Lord Ossifer and Princess Elaena. Why he did not disinherit Daeron, and then legitimised his bastards, is not established. Daemon's knighting falls in 182 or 183 AC depending on the reckoning."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon IV"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Baelor I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon III"
+    },
+    {
+      "id": "fab",
+      "locator": "The Lysene Spring and the End of Regency"
+    },
+    {
+      "id": "tss",
+      "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+    },
+    {
+      "id": "tmk",
+      "locator": "Whitewalls"
+    }
+  ]
+}

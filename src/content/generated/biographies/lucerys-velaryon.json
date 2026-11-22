@@ -1,0 +1,134 @@
+{
+  "personId": "lucerys-velaryon",
+  "titles": [
+    {
+      "fr": "Prince",
+      "en": "Prince"
+    },
+    {
+      "fr": "Héritier désigné de Lamarck",
+      "en": "Designated heir to Driftmark"
+    },
+    {
+      "fr": "Cavalier d'Arrax",
+      "en": "Rider of Arrax"
+    }
+  ],
+  "lead": {
+    "fr": "Deuxième fils de Rhaenyra et de Laenor Velaryon, désigné héritier de Lamarck, Lucerys fut tué par Aemond au-dessus de la baie des Naufrageurs en 129 apr. C., et sa mort fit d'une querelle de succession une guerre ouverte.",
+    "en": "Second son of Rhaenyra and Laenor Velaryon and designated heir to Driftmark, Lucerys was killed by Aemond over Shipbreaker Bay in 129 AC, and his death turned a quarrel over the succession into open war."
+  },
+  "sections": [
+    {
+      "id": "lucerys-velaryon-enfance",
+      "heading": {
+        "fr": "L'œil d'Aemond",
+        "en": "Aemond's Eye"
+      },
+      "body": {
+        "fr": "Lucerys naît en 115 apr. C. Le roi, dit-on, se réjouit du petit-fils qu'on lui présente, tandis que la reine Alicent conseille à Laenor, devant la cour, de persévérer jusqu'à en avoir un qui lui ressemble. Comme ses frères, il reçoit au berceau un œuf qui éclot : son dragon se nomme Arrax. En 118 apr. C., il est promis à sa cousine Rhaena, fille de Daemon et de Laena.\n\nEn 120 apr. C., aux funérailles de Laenor à Lamarck, Aemond, dix ans, monte Vhagar à la dérobée. Les trois fils de Rhaenyra l'attendent avec des épées d'exercice ; Aemond prend le dessus et les traite de « Strong ». Quand il s'acharne sur Jacaerys, Lucerys, cinq ans, tire un couteau et lui crève l'œil droit. Alicent exige qu'on lui prenne un œil en retour ; Viserys refuse et se contente d'excuses échangées entre les enfants.",
+        "en": "Lucerys was born in 115 AC. The king, it is said, was delighted with the grandson presented to him, while Queen Alicent advised Laenor, before the court, to keep trying until he got one who looked like him. Like his brothers he was given an egg in the cradle that hatched: his dragon was named Arrax. In 118 AC he was betrothed to his cousin Rhaena, daughter of Daemon and Laena.\n\nIn 120 AC, at Laenor's funeral on Driftmark, the ten-year-old Aemond secretly mounted Vhagar. Rhaenyra's three sons were waiting for him with practice swords; Aemond got the better of them and called them “Strongs”. When he set upon Jacaerys, the five-year-old Lucerys drew a knife and put out his right eye. Alicent demanded that the boy lose an eye in return; Viserys refused and settled for apologies exchanged between the children."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "lucerys-velaryon-lamarck",
+      "heading": {
+        "fr": "L'héritier de Lamarck",
+        "en": "The Heir to Driftmark"
+      },
+      "body": {
+        "fr": "En 126 apr. C., Corlys tombe malade et la succession de Lamarck se pose. Jacaerys doit hériter du trône ; Rhaenyra presse donc Corlys de désigner Lucerys. Ser Vaemond Velaryon, neveu du Serpent de mer, proteste que les fils de la princesse sont des bâtards de Harwin Strong. Daemon le fait saisir et décapiter. Les parents de Vaemond portent l'accusation devant le roi, qui leur fait couper la langue et maintient Lucerys.\n\nÀ l'ouverture de la guerre, Lucerys a treize ans et sert depuis longtemps comme écuyer. Avec Jacaerys, il propose de porter les lettres de sa mère, pour montrer aussi, en arrivant à dos de dragon, que ses frères et lui sont bien des Targaryen. Il jure sur L'Étoile à sept branches de ne pas se battre. On lui confie la mission jugée la plus courte et la plus sûre : Accalmie, chez lord Borros Baratheon, dont on attend un accueil favorable.",
+        "en": "In 126 AC Corlys fell ill and the succession to Driftmark came into question. Jacaerys was to inherit the throne, so Rhaenyra urged Corlys to name Lucerys. Ser Vaemond Velaryon, the Sea Snake's nephew, protested that the princess's sons were Harwin Strong's bastards. Daemon had him seized and beheaded. Vaemond's kinsmen carried the charge before the king, who had their tongues removed and upheld Lucerys.\n\nWhen the war began, Lucerys was thirteen and had long served as a squire. With Jacaerys he offered to carry his mother's letters, and to show, by arriving on dragonback, that he and his brothers were true Targaryens. He swore on The Seven-Pointed Star that he would not fight. He was given the mission thought shortest and safest: Storm's End, to Lord Borros Baratheon, who was expected to receive him kindly."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        }
+      ]
+    },
+    {
+      "id": "lucerys-velaryon-accalmie",
+      "heading": {
+        "fr": "La baie des Naufrageurs",
+        "en": "Shipbreaker Bay"
+      },
+      "body": {
+        "fr": "À Accalmie, Lucerys trouve Aemond arrivé avant lui sur Vhagar, venu acheter l'alliance de Borros en épousant une de ses filles. Borros demande au jeune prince laquelle il prendrait, lui ; Lucerys répond qu'il est promis à Rhaena, et le seigneur le renvoie. Aemond exige qu'il s'arrache un œil pour solder sa dette ; Borros refuse que le sang d'un messager coule sous son toit, mais laisse Aemond partir à sa suite.\n\nAu-dessus de la baie des Naufrageurs, dans l'orage, Vhagar, cinq fois plus grande, rattrape Arrax. Les chroniqueurs doutent qu'il y ait eu un véritable affrontement. Le dragon tombe à la mer ; trois jours plus tard, les flots rendent sa tête et son cou au pied des falaises. Le corps de Lucerys n'est jamais retrouvé. Rhaenyra s'effondre à la nouvelle, Joffrey jure vengeance, et Daemon répond par le meurtre d'un fils d'Aegon II.",
+        "en": "At Storm's End Lucerys found that Aemond had arrived before him on Vhagar, come to buy Borros's alliance by marrying one of his daughters. Borros asked the young prince which of them he would take; Lucerys answered that he was betrothed to Rhaena, and the lord sent him away. Aemond demanded that he put out his own eye to settle his debt; Borros refused to let an envoy's blood be shed under his roof, but allowed Aemond to leave after him.\n\nOver Shipbreaker Bay, in the storm, Vhagar, five times his size, caught up with Arrax. The chroniclers doubt there was a real fight at all. The dragon fell into the sea; three days later the waves gave back his head and neck at the foot of the cliffs. Lucerys's body was never found. Rhaenyra collapsed at the news, Joffrey swore vengeance, and Daemon answered with the murder of a son of Aegon II."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "arrax",
+    "vhagar"
+  ],
+  "eventIds": [
+    "p5-mariage-laenor",
+    "p5-printemps-rouge",
+    "p5-deux-couronnements",
+    "p5-accalmie",
+    "p5-sang-et-fromage"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "Sa filiation est contestée comme celle de ses frères. Les récits de sa fin divergent : Champignon prétend qu'Aemond retrouva le corps sur le rivage et en offrit les yeux à Maris Baratheon ; d'autres disent que Vhagar arracha le prince à sa selle et l'avala, ou qu'il survécut sans mémoire. Gyldayn juge ces versions douteuses, et Munkun tient qu'il mourut avec son dragon.",
+    "en": "His parentage is contested, like his brothers'. Accounts of his end diverge: Mushroom claims that Aemond found the body on the shore and offered its eyes to Maris Baratheon; others say that Vhagar plucked the prince from his saddle and swallowed him, or that he survived with no memory of who he was. Gyldayn judges these versions doubtful, and Munkun holds that he died with his dragon."
+  },
+  "adaptation": {
+    "fr": "House of the Dragon présente la mort de Lucerys comme un accident : Vhagar échappe au contrôle d'Aemond, qui ne voulait que l'effrayer. Les livres ne donnent pas cette excuse et montrent Aemond lancé à la poursuite d'Arrax.",
+    "en": "House of the Dragon presents Lucerys's death as an accident: Vhagar slips out of the control of Aemond, who meant only to frighten him. The books offer no such excuse and show Aemond setting off in pursuit of Arrax."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: A Son for a Son"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon II"
+    },
+    {
+      "id": "hotd",
+      "locator": "Season 1"
+    }
+  ]
+}

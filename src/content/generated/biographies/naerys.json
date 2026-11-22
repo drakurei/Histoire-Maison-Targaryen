@@ -1,0 +1,168 @@
+{
+  "personId": "naerys",
+  "titles": [
+    {
+      "fr": "Reine des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "Queen of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Fille de Viserys II, Naerys épousa contre son gré son frère Aegon IV et fut la mère de Daeron II, dont la naissance servit de prétexte à une rumeur que rien n'a jamais tranchée.",
+    "en": "The daughter of Viserys II, Naerys was married against her will to her brother Aegon IV and was the mother of Daeron II, whose birth became the pretext for a rumour nothing has ever settled."
+  },
+  "sections": [
+    {
+      "id": "naerys-jeunesse",
+      "heading": {
+        "fr": "Une princesse pieuse",
+        "en": "A Pious Princess"
+      },
+      "body": {
+        "fr": "Naerys naît en 138 apr. C. à Port-Réal, troisième enfant et seule fille du prince Viserys et de Larra Rogare. Sa mère regagne Lys l'année suivante en laissant ses enfants à la cour. La princesse grandit dévote, frêle, attachée surtout à son second frère, Aemon, qui sait la faire rire et partage sa piété. Elle aurait voulu devenir septa.\n\nEn 153 apr. C., son père la marie à son frère aîné, Aegon, avec la bénédiction du roi Aegon III. Les chanteurs veulent que le frère et la sœur aient pleuré pendant la cérémonie. Les historiens rapportent autre chose : Aemon chercha querelle au marié au cours du festin, et c'est au coucher que Naerys fondit en larmes. Peu après les noces, Aemon prononça ses vœux dans la Garde Royale, à dix-sept ans.\n\nCe mariage unissait deux êtres que tout opposait. Aegon aimait la chasse, la table et les femmes ; il n'eut jamais pour son épouse ni affection ni égards, et elle ne figura jamais parmi les femmes qu'il disait avoir aimées.",
+        "en": "Naerys was born in 138 AC in King's Landing, the third child and only daughter of Prince Viserys and Larra Rogare. Her mother went back to Lys the following year, leaving her children at court. The princess grew up devout and frail, closest above all to her second brother, Aemon, who knew how to make her laugh and shared her piety. She would have liked to become a septa.\n\nIn 153 AC her father married her to her eldest brother, Aegon, with the blessing of King Aegon III. In the singers' version, brother and sister both shed tears at the ceremony. The historians tell it otherwise: Aemon picked a quarrel with the groom during the feast, and it was at the bedding that Naerys cried. Shortly after the wedding Aemon took his vows in the Kingsguard, at seventeen.\n\nThe marriage joined two people who had nothing in common. Aegon loved hunting, the table and women; he never showed his wife either affection or regard, and she was never among the women he claimed to have loved."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        }
+      ]
+    },
+    {
+      "id": "naerys-mariage",
+      "heading": {
+        "fr": "Des couches sans répit",
+        "en": "Childbed Without Respite"
+      },
+      "body": {
+        "fr": "Le dernier jour de 153 apr. C., Naerys met au monde un fils, Daeron. La naissance manque de la tuer, et le Grand Mestre Alford prévient qu'une nouvelle grossesse pourrait lui être fatale. Naerys demande alors à son mari de vivre désormais avec elle comme un frère avec sa sœur, puis de la délier de ses vœux pour qu'elle entre dans la Foi. Aegon refuse l'un et l'autre.\n\nLes grossesses suivantes confirment le pronostic. En 161 apr. C., elle accouche de jumeaux qui meurent aussitôt ; le roi Baelor jeûne un mois et envoie Aegon à Braavos, pour éloigner, dit-on, le mari de la convalescente. En 172 apr. C. naissent d'autres jumeaux : le garçon est mort-né, la fille, Daenerys, survit. La reine reste longtemps entre la vie et la mort, et la Main, lord Bracken, dont la fille vient de donner un bâtard au roi, parle déjà de la remplacer. Naerys se rétablit, et le scandale coûte sa charge à lord Bracken.",
+        "en": "On the last day of 153 AC Naerys gave birth to a son, Daeron. The birth nearly killed her, and Grand Maester Alford warned that another pregnancy might be fatal. Naerys then asked her husband to live with her henceforth as a brother with his sister, and then to release her from her vows so that she might enter the Faith. Aegon refused both.\n\nThe pregnancies that followed bore the warning out. In 161 AC she was delivered of twins who died at once; King Baelor fasted for a month and sent Aegon to Braavos, to keep the husband away, it is said, while she recovered. In 172 AC more twins were born: the boy was stillborn, the girl, Daenerys, lived. The queen hung for a long time between life and death, and the Hand, Lord Bracken, whose daughter had just borne the king a bastard, was already talking of replacing her. Naerys recovered, and the scandal cost Lord Bracken his office."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys II"
+        }
+      ]
+    },
+    {
+      "id": "naerys-rumeur",
+      "heading": {
+        "fr": "La rumeur sur Daeron",
+        "en": "The Rumour About Daeron"
+      },
+      "body": {
+        "fr": "Reine depuis 172 apr. C., Naerys vit à la cour de son mari au milieu de ses favorites. Ses appuis sont ailleurs : son frère Aemon, son fils Daeron, et Melissa Blackwood, la plus douce des maîtresses du roi, qui se lie d'amitié avec elle.\n\nC'est vers 174 apr. C., quand Daeron s'oppose à la guerre de Dorne voulue par son père, que naît l'accusation. Ser Morgil Hastwyck accuse la reine d'adultère et de trahison ; Aemon défend l'honneur de sa sœur en combat judiciaire et tue l'accusateur. Selon mestre Kaeth, le roi avait lui-même lancé l'affaire, ce qu'il démentit. La rumeur portait sur Daeron seul ; on ne mit jamais en doute la naissance de Daenerys.\n\nLes chansons ont fait de Naerys et d'Aemon des amants condamnés au silence. Rien, dans les sources, ne permet de dire s'ils le furent. Dans A Feast for Crows, un chevalier de la Garde Royale tient encore l'histoire pour un mensonge forgé par Aegon afin d'écarter son héritier.",
+        "en": "Queen since 172 AC, Naerys lived at her husband's court amid his favourites. Her support lay elsewhere: her brother Aemon, her son Daeron, and Melissa Blackwood, the gentlest of the king's mistresses, who befriended her.\n\nIt was around 174 AC, when Daeron opposed the war on Dorne his father wanted, that the charge arose. Ser Morgil Hastwyck accused the queen of adultery and treason; Aemon defended his sister's honour in trial by combat and killed the accuser. According to Maester Kaeth, the king had set the affair going himself, which he denied. The rumour concerned Daeron alone; no one ever questioned the birth of Daenerys.\n\nThe songs made Naerys and Aemon into lovers condemned to silence. Nothing in the sources allows one to say whether they were. In A Feast for Crows a knight of the Kingsguard still holds the tale to be a lie forged by Aegon to set his heir aside."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "affc",
+          "locator": "The Soiled Knight (ch. 13)"
+        },
+        {
+          "id": "agot",
+          "locator": "Sansa III (ch. 44)"
+        }
+      ]
+    },
+    {
+      "id": "naerys-mort",
+      "heading": {
+        "fr": "La mort de la reine",
+        "en": "The Queen's Death"
+      },
+      "body": {
+        "fr": "Aemon meurt en défendant le roi contre les frères de ser Terrence Toyne, venus venger leur frère supplicié. Naerys ne lui survit qu'un an : elle meurt en couches, et l'enfant n'est plus jamais mentionné, ce qui laisse penser qu'il mourut avec elle. Les sources ne donnent pas l'année exacte ; elle se place entre 179 et 184 apr. C.\n\nAegon IV ne fit presque rien pour honorer la mémoire de sa femme ni celle de son frère. Il se mit au contraire à évoquer, à mots à peine couverts, l'illégitimité de Daeron, ce qu'il n'avait pas osé faire tant que la reine et le Chevalier-Dragon étaient en vie.\n\nNaerys laissa deux enfants : Daeron, qui régna sous le nom de Daeron II et fut appelé le Bon, et Daenerys, dont le mariage avec le prince Maron fit entrer Dorne dans le royaume en 187 apr. C. La reine malheureuse eut ainsi, par ses enfants, une part dans la paix que sa maison avait si longtemps cherchée.",
+        "en": "Aemon died defending the king against the brothers of Ser Terrence Toyne, who had come to avenge their tortured brother. Naerys outlived him by only a year: she died in childbed, and the child is never mentioned again, which suggests it died with her. The sources do not give the exact year; it falls between 179 and 184 AC.\n\nAegon IV did almost nothing to honour the memory of his wife or of his brother. Instead he began to speak, in barely veiled terms, of Daeron's illegitimacy, something he had not dared to do while the queen and the Dragonknight were alive.\n\nNaerys left two children: Daeron, who reigned as Daeron II and was called the Good, and Daenerys, whose marriage to Prince Maron brought Dorne into the realm in 187 AC. Through her children the unhappy queen thus had a share in the peace her house had sought for so long."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-baelor",
+    "p6-aegon-iv",
+    "p6-union-dorne"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "La paternité de Daeron II n'a jamais été tranchée : la filiation officielle le donne à Aegon IV, la rumeur que celui-ci entretint à Aemon. Mestre Kaeth tient l'accusation de ser Morgil pour une manœuvre du roi. L'année de la mort de Naerys n'est pas donnée ; on la place un an après celle d'Aemon, entre 179 et 184 apr. C. Le sort de son dernier enfant n'est pas rapporté.",
+    "en": "The paternity of Daeron II was never settled: the official line gives him to Aegon IV, the rumour Aegon fostered to Aemon. Maester Kaeth regards Ser Morgil's accusation as the king's own manoeuvre. The year of Naerys's death is not given; it is placed a year after Aemon's, between 179 and 184 AC. The fate of her last child is not recorded."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Baelor I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon IV"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+      "id": "fab",
+      "locator": "The Lysene Spring and the End of Regency"
+    },
+    {
+      "id": "tmk",
+      "locator": "Whitewalls"
+    },
+    {
+      "id": "affc",
+      "locator": "The Soiled Knight (ch. 13)"
+    },
+    {
+      "id": "agot",
+      "locator": "Sansa III (ch. 44)"
+    }
+  ]
+}

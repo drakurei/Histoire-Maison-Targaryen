@@ -1,0 +1,102 @@
+/*
+ * La majesté : de bord à bord de la fenêtre (elle sort des marges de page), la masse posée au
+ * pixel sur l'échelle de la fasce, les repères sur son relief. Son pied touche la rangée de
+ * la fasce : rien entre elles.
+ */
+.majeste {
+  position: relative;
+  margin-inline: calc(-1 * var(--marge-page));
+}
+
+.cadre {
+  position: absolute;
+  inset: 0;
+  cursor: crosshair;
+}
+
+.masse {
+  position: absolute;
+  bottom: 0;
+  line-height: 0;
+}
+
+.masse :global(svg) {
+  display: block;
+}
+
+/* L'année réglée : la même encoche ivoire que sur la fasce. */
+.encoche {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--ivoire);
+  pointer-events: none;
+}
+
+.reperes {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.repere {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: var(--f-musee);
+}
+
+.repere[data-mode='relief'] {
+  transform: translateY(-100%);
+}
+
+.repere[data-cote='gauche'] {
+  align-items: flex-end;
+  text-align: right;
+}
+
+.texte {
+  display: grid;
+  gap: 0.1rem;
+  padding-bottom: 0.4rem;
+}
+
+.repere[data-cote='gauche'] .texte {
+  justify-items: end;
+}
+
+.annee {
+  font-weight: 700;
+  font-size: var(--t-1);
+  line-height: 1.2;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+}
+
+.lien {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-size: var(--t0);
+  line-height: 1.2;
+  color: var(--ivoire);
+  pointer-events: auto;
+}
+
+.tige {
+  display: block;
+  width: 2px;
+  background: var(--ivoire);
+}
+
+.repere[data-cote='gauche'] .tige {
+  align-self: flex-end;
+}
+
+@media (width < 1024px) {
+  .lien {
+    font-size: var(--t-1);
+  }
+}

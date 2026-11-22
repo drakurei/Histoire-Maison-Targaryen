@@ -101,6 +101,7 @@ export function Carte({ title, placeIds, frameIds, highlightIds = null, selected
         highlightIds={highlightIds}
         onActivate={onActivate}
         showRegions
+        hit={44}
       />
     </div>
   );

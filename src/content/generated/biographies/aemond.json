@@ -1,0 +1,182 @@
+{
+  "personId": "aemond",
+  "titles": [
+    {
+      "fr": "Prince",
+      "en": "Prince"
+    },
+    {
+      "fr": "Prince régent et Protecteur du royaume",
+      "en": "Prince Regent and Protector of the Realm"
+    },
+    {
+      "fr": "Cavalier de Vhagar",
+      "en": "Rider of Vhagar"
+    }
+  ],
+  "lead": {
+    "fr": "Deuxième fils de Viserys Ier et d'Alicent Hightower, Aemond le Borgne prit Vhagar, tua son neveu Lucerys et gouverna comme prince régent avant de mourir au-dessus de l'Œildieu en 130 apr. C.",
+    "en": "Second son of Viserys I and Alicent Hightower, Aemond One-Eye claimed Vhagar, killed his nephew Lucerys and ruled as prince regent before dying above the Gods Eye in 130 AC."
+  },
+  "sections": [
+    {
+      "id": "aemond-jeunesse",
+      "heading": {
+        "fr": "L'œil et le dragon",
+        "en": "The Eye and the Dragon"
+      },
+      "body": {
+        "fr": "Aemond naît en 110 apr. C. Enfant, il est hardi, emporté, rancunier ; seul de sa fratrie, il n'a pas encore de dragon à dix ans. En 120 apr. C., aux funérailles de Laenor à Lamarck, son père lui suggère d'en choisir un à Peyredragon s'il en a l'audace. Aemond vise plus haut : Vhagar, la plus vieille des bêtes, laissée sans cavalière par la mort de Laena. Surpris par le petit Joffrey, il le bouscule, grimpe sur le dos de la dragonne et fait deux tours dans le ciel.\n\nLes trois fils de Rhaenyra l'attendent à son retour. Dans la rixe, il les traite de « Strong » ; Lucerys lui crève l'œil droit d'un coup de couteau. Pressé par son père, Aemond avoue tenir l'insulte de son frère Aegon. Il portera ensuite un saphir dans l'orbite vide, et dira que l'échange d'un œil contre un dragon lui convenait. Sous la direction de Criston Cole, il devient une lame redoutée.",
+        "en": "Aemond was born in 110 AC. As a child he was bold, hot-tempered and unforgiving; alone among his siblings, he still had no dragon at ten. In 120 AC, at Laenor's funeral on Driftmark, his father suggested he choose one on Dragonstone if he dared. Aemond aimed higher: Vhagar, the oldest of the beasts, left without a rider by Laena's death. Caught by little Joffrey, he shoved the boy aside, climbed onto the she-dragon's back and flew two circles in the sky.\n\nRhaenyra's three sons were waiting for him when he landed. In the brawl he called them “Strongs”; Lucerys put out his right eye with a knife. Pressed by his father, Aemond admitted he had the insult from his brother Aegon. He later wore a sapphire in the empty socket, and said that an eye for a dragon had been a fair exchange. Under Criston Cole's teaching he became a feared blade."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "aemond-accalmie",
+      "heading": {
+        "fr": "Accalmie",
+        "en": "Storm's End"
+      },
+      "body": {
+        "fr": "En 129 apr. C., le conseil vert l'envoie à Accalmie gagner lord Borros Baratheon en épousant l'une de ses filles. Lucerys y arrive pour sa mère pendant qu'il s'y trouve encore. Aemond le provoque et réclame un œil en paiement ; Borros refuse qu'on se batte sous son toit et fait retenir le prince, puis le laisse partir. Raillé par Maris, l'une des filles du seigneur, Aemond s'envole sur Vhagar à la poursuite d'Arrax et l'abat dans l'orage, au-dessus de la baie des Naufrageurs.\n\nÀ Port-Réal, l'accueil est partagé. Aegon donne un festin en son honneur ; Alicent pâlit, et Otto lui reproche son aveuglement. Ses ennemis le traiteront désormais de meurtrier de son propre sang. Champignon ajoute qu'il retrouva le corps de Lucerys et en offrit les yeux à Maris, récit que rien ne confirme. La mort du garçon appelle celle de Jaehaerys et ferme la porte à toute paix.",
+        "en": "In 129 AC the green council sent him to Storm's End to win Lord Borros Baratheon by marrying one of his daughters. Lucerys arrived there on his mother's behalf while Aemond was still present. Aemond provoked him and demanded an eye in payment; Borros would not allow a fight under his roof and had the prince held back, then let him go. Taunted by Maris, one of the lord's daughters, Aemond took to the air on Vhagar in pursuit of Arrax and brought him down in the storm over Shipbreaker Bay.\n\nIn King's Landing his welcome was mixed. Aegon gave a feast in his honour; Alicent went pale, and Otto reproached him for his blindness. His enemies would call him a kinslayer from then on. Mushroom adds that he recovered Lucerys's body and offered its eyes to Maris, a story nothing confirms. The boy's death called forth Jaehaerys's and shut the door on any peace."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Stormlands: House Baratheon"
+        }
+      ]
+    },
+    {
+      "id": "aemond-regent",
+      "heading": {
+        "fr": "Le prince régent",
+        "en": "The Prince Regent"
+      },
+      "body": {
+        "fr": "À Repos-du-Freux, la même année, Aemond et Aegon tuent Rhaenys et Meleys ; le roi en revient brûlé, Aemond indemne. Il gouverne dès lors comme prince régent et protecteur du royaume, coiffé de la couronne du Conquérant, qui lui allait mieux qu'à son frère, aurait-il dit. Son but est Daemon. Avec Criston Cole, devenu Main, il marche sur Harrenhal en 130 apr. C., sans demander l'aide de son jeune frère Daeron, qu'il juge trop jeune et dont il ne veut pas partager la gloire.\n\nC'est l'erreur des verts. Daemon a déjà quitté Harrenhal, et pendant que l'armée cherche un ennemi absent, Rhaenyra prend Port-Réal, où il ne reste aucun dragon pour la défendre. Aemond reprend le château, fait mettre à mort ser Simon Strong et les siens, mais épargne Alys Rivers, qui devient sa maîtresse. Puis il se sépare de Cole et, seul sur Vhagar, brûle les terres des seigneurs du Conflans ralliés à la reine.",
+        "en": "At Rook's Rest that same year Aemond and Aegon killed Rhaenys and Meleys; the king came back burned, Aemond unhurt. From then on he ruled as prince regent and protector of the realm, wearing the Conqueror's crown, which suited him better than his brother, he is said to have remarked. His aim was Daemon. With Criston Cole, now Hand, he marched on Harrenhal in 130 AC without asking for the help of his younger brother Daeron, whom he thought too young and with whom he did not care to share the glory.\n\nIt was the greens' mistake. Daemon had already left Harrenhal, and while the army hunted an absent enemy, Rhaenyra took King's Landing, where no dragon remained to defend it. Aemond retook the castle, had Ser Simon Strong and his kin put to death, but spared Alys Rivers, who became his lover. Then he parted from Cole and, alone on Vhagar, burned the lands of the river lords who had declared for the queen."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        }
+      ]
+    },
+    {
+      "id": "aemond-oeildieu",
+      "heading": {
+        "fr": "Au-dessus de l'Œildieu",
+        "en": "Above the Gods Eye"
+      },
+      "body": {
+        "fr": "Daemon et Orties le cherchent sans le trouver. Daemon finit par revenir à Harrenhal et l'y attend treize jours. Au coucher du soleil du vingt-deuxième jour du cinquième mois de 130 apr. C., Aemond paraît, accompagné d'Alys Rivers, alors enceinte. Il attache avec soin les chaînes de sa selle ; Daemon, dit-on, laisse pendre les siennes.\n\nCaraxes surgit du côté aveugle de Vhagar et lui referme les mâchoires sur le cou. Les deux dragons tombent enlacés vers le lac. Selon le récit retenu, Daemon saute d'une selle à l'autre, arrache le heaume de son neveu et lui plonge Sœur Noire dans l'œil manquant avant que l'eau ne les engloutisse. Des années plus tard, on retrouve au fond de l'Œildieu les restes de Vhagar et, enchaînés à la selle, les os en armure d'Aemond, l'épée encore plantée dans l'orbite. Sous la régence d'Aegon III, Alys Rivers, maîtresse de Harrenhal, se dira sa veuve et présentera un enfant comme leur fils légitime.",
+        "en": "Daemon and Nettles searched for him without success. Daemon finally returned to Harrenhal and waited there thirteen days. At sunset on the twenty-second day of the fifth month of 130 AC, Aemond appeared, with Alys Rivers, then with child. He fastened his saddle chains with care; Daemon, it is said, left his own hanging loose.\n\nCaraxes came at Vhagar from her blind side and locked his jaws on her neck. The two dragons fell together towards the lake. According to the accepted account, Daemon leapt from one saddle to the other, tore off his nephew's helm and drove Dark Sister into the missing eye before the water closed over them. Years later the remains of Vhagar were found at the bottom of the Gods Eye and, chained to the saddle, Aemond's armoured bones, the sword still lodged in the socket. During Aegon III's regency Alys Rivers, holding Harrenhal, would call herself his widow and present a boy as their trueborn son."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Hooded Hand"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "vhagar",
+    "arrax",
+    "meleys",
+    "caraxes"
+  ],
+  "eventIds": [
+    "p5-printemps-rouge",
+    "p5-accalmie",
+    "p5-sang-et-fromage",
+    "p5-repos-des-freux",
+    "p5-chute-port-real",
+    "p5-oeildieu"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "Sur la mort de Lucerys, Champignon ajoute l'épisode des yeux offerts à Maris, que Gyldayn tient pour douteux. Le saut de Daemon d'une selle à l'autre est rapporté, non établi, et le corps de Daemon ne fut jamais retrouvé. Les rapports d'Aemond et d'Alys Rivers restent obscurs : on la disait sorcière, et l'enfant qu'elle présenta comme son fils légitime ne fut jamais reconnu.",
+    "en": "On Lucerys's death, Mushroom adds the episode of the eyes offered to Maris, which Gyldayn regards as doubtful. Daemon's leap from one saddle to the other is reported, not established, and Daemon's body was never found. The relationship between Aemond and Alys Rivers remains obscure: she was said to be a witch, and the boy she presented as his trueborn son was never acknowledged."
+  },
+  "adaptation": {
+    "fr": "Dans House of the Dragon, la mort de Lucerys passe pour un accident, Vhagar échappant à son cavalier ; la deuxième saison montre aussi Aemond laissant Vhagar frapper Sunfyre à Repos-du-Freux, comme pour atteindre son frère. Les livres ne connaissent ni cette excuse ni cette trahison.",
+    "en": "In House of the Dragon Lucerys's death appears to be an accident, Vhagar slipping out of her rider's control; the second season also shows Aemond letting Vhagar strike Sunfyre at Rook's Rest, as if aiming at his brother. The books know neither that excuse nor that betrayal."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: A Son for a Son"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: The Hooded Hand"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon II"
+    },
+    {
+      "id": "hotd",
+      "locator": "Seasons 1 and 2"
+    }
+  ]
+}

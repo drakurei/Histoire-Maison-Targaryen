@@ -1,0 +1,172 @@
+/*
+ * Guerres : chaque rangée porte son texte à la marge, puis, de bord à bord, sa place sur
+ * l'échelle de la fasce, avec ses deux camps écrits contre elle.
+ */
+.entete {
+  grid-template-columns: minmax(0, auto) minmax(0, 30rem);
+  align-items: end;
+  column-gap: var(--e7);
+}
+
+.chapeau {
+  max-width: 46ch;
+  padding-bottom: var(--e3);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.6;
+}
+
+.note {
+  margin-top: var(--e6);
+  max-width: 62ch;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+  color: var(--cendre);
+}
+
+.figure {
+  display: grid;
+  gap: var(--e7);
+  margin-top: var(--e6);
+  margin-inline: calc(-1 * var(--marge-page));
+}
+
+.groupe {
+  display: grid;
+  gap: var(--e2);
+}
+
+.periode {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--e3);
+  padding-inline: var(--marge-page);
+  font-size: var(--t2);
+  font-weight: 300;
+}
+
+.chiffre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t2);
+  line-height: 0.9;
+  color: var(--cendre);
+}
+
+.glose {
+  display: block;
+  margin-top: var(--e1);
+}
+
+/* Le crochet de la période, à l'échelle vraie, comme dans la rangée des périodes de la fasce. */
+.crochet {
+  display: block;
+  overflow: visible;
+  fill: none;
+  stroke: var(--sang);
+  stroke-width: 2;
+}
+
+.liste {
+  display: grid;
+  gap: var(--e5);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.rangee {
+  display: grid;
+  gap: var(--e2);
+  padding-top: var(--e4);
+}
+
+.tete {
+  display: grid;
+  gap: var(--e2);
+  padding-inline: var(--marge-page);
+  max-width: calc(46rem + 2 * var(--marge-page));
+}
+
+.titre {
+  font-size: var(--t2);
+  font-weight: 300;
+  line-height: 1;
+}
+
+.titre a {
+  text-decoration-color: var(--cendre);
+}
+
+.chiffres {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+  row-gap: var(--e1);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+  color: var(--cendre);
+}
+
+.annees {
+  color: var(--ivoire);
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+.rangee[data-maintenant] .annees {
+  color: var(--braise);
+}
+
+.camps {
+  display: inline-flex;
+  flex-wrap: wrap;
+  column-gap: var(--e4);
+  row-gap: var(--e1);
+}
+
+.camp {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.4em;
+}
+
+.autres {
+  color: var(--cendre);
+}
+
+.campsLigne {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+}
+
+.axe {
+  display: grid;
+  margin-top: var(--e2);
+}
+
+.trait,
+.masse svg {
+  display: block;
+  overflow: visible;
+}
+
+.masse {
+  line-height: 0;
+}
+
+.duree {
+  fill: var(--ivoire);
+}
+
+.bataille {
+  fill: var(--ivoire);
+}
+
+@media (width < 1024px) {
+  .entete {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

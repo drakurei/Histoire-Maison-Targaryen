@@ -1,0 +1,61 @@
+/* Les deux commandes sous la carte : texte souligné sur le champ, sans fond, 44 px. */
+.rejouer {
+  display: grid;
+  gap: var(--e1);
+}
+
+.boutons {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+}
+
+.bouton {
+  min-height: 2.75rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--ivoire);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+  cursor: pointer;
+}
+
+.bouton:hover:not(:disabled),
+.bouton:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+.bouton:focus-visible {
+  outline: 2px solid var(--braise);
+  outline-offset: 3px;
+}
+
+.bouton:disabled {
+  color: var(--cendre);
+  text-decoration: none;
+  cursor: default;
+}
+
+.etat {
+  min-height: 1.4em;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.4;
+  color: var(--ivoire);
+}
+
+.compteur {
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.garde {
+  display: block;
+  color: var(--cendre);
+}

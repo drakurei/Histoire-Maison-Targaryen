@@ -1,0 +1,242 @@
+{
+  "personId": "corlys-velaryon",
+  "titles": [
+    {
+      "fr": "Seigneur des Marées",
+      "en": "Lord of the Tides"
+    },
+    {
+      "fr": "Sire de Lamarck",
+      "en": "Master of Driftmark"
+    },
+    {
+      "fr": "Main de la Reine",
+      "en": "Hand of the Queen"
+    },
+    {
+      "fr": "Régent d'Aegon III",
+      "en": "Regent for Aegon III"
+    },
+    {
+      "fr": "Maître des navires",
+      "en": "Master of Ships"
+    }
+  ],
+  "lead": {
+    "fr": "Navigateur des neuf voyages et seigneur de Lamarck, Corlys Velaryon fut maître des navires sous Jaehaerys Ier, l'allié décisif de Rhaenyra pendant la Danse des dragons, puis régent d'Aegon III.",
+    "en": "The navigator of the nine voyages and lord of Driftmark, Corlys Velaryon was master of ships under Jaehaerys I, Rhaenyra's decisive ally during the Dance of the Dragons, and then a regent for Aegon III."
+  },
+  "sections": [
+    {
+      "id": "corlys-velaryon-mer",
+      "heading": {
+        "fr": "Un marin",
+        "en": "A Sailor"
+      },
+      "body": {
+        "fr": "Corlys naît à Lamarck en 53 apr. C., fils de Corwyn Velaryon et petit-fils de lord Daemon Velaryon. À six ans, il traverse le détroit jusqu'à Pentos avec un oncle, et il navigue ensuite chaque année dans les équipages. Il commande son premier navire à seize ans. Dans ces années, il touche Villevieille, les Cités libres, les îles d'Été, Braavos et Fort-Levant ; il va même par mer au-delà du Mur, sans trouver de passage vers le nord autour de Westeros.\n\nSur le Serpent de mer, navire qu'il a conçu, il accomplit neuf grands voyages vers l'est. Le premier le mène au-delà de Qarth jusqu'à Yi Ti et Leng, et double la fortune de sa maison. Au dernier, il achète vingt navires à Qarth et les charge d'épices, de soie et d'éléphants : quatorze reviennent, les éléphants meurent tous, et Corlys devient plus riche que les Lannister et les Hightower. Le nom du navire lui reste comme surnom.",
+        "en": "Corlys was born on Driftmark in 53 AC, the son of Corwyn Velaryon and grandson of Lord Daemon Velaryon. At six he crossed the narrow sea to Pentos with an uncle, and thereafter he sailed every year as one of the crew. He commanded his first ship at sixteen. In those years he called at Oldtown, the Free Cities, the Summer Isles, Braavos and Eastwatch-by-the-Sea; he even sailed beyond the Wall, without finding a passage north around Westeros.\n\nOn the Sea Snake, a ship of his own design, he made nine great voyages to the east. The first took him past Qarth to Yi Ti and Leng, and doubled the fortune of his house. On the last he bought twenty ships in Qarth and loaded them with spices, silk and elephants: fourteen came home, all the elephants died, and Corlys became richer than the Lannisters and the Hightowers. The ship's name stayed with him as a byname."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "trotd"
+        }
+      ]
+    },
+    {
+      "id": "corlys-velaryon-seigneur",
+      "heading": {
+        "fr": "Le seigneur des Marées",
+        "en": "Lord of the Tides"
+      },
+      "body": {
+        "fr": "Héritier de son grand-père, Corlys devient seigneur des Marées et sire de Lamarck. Sa fortune lui permet de bâtir sur Lamarck un nouveau siège où il entrepose les trésors de l'Orient, tandis que deux bourgs marchands nés sur l'île détournent une part du commerce de Port-Réal. Il siège au conseil restreint comme maître des navires. En 90 apr. C., à trente-sept ans, il épouse Rhaenys, fille du prince Aemon, de vingt et un ans sa cadette.\n\nEn 92 apr. C., il conduit sa flotte à Torth pour soutenir Aemon contre les exilés myriens ; le prince est tué avant son arrivée. Quand Jaehaerys préfère Baelon à Rhaenys et à l'enfant qu'elle porte, Corlys abandonne sa charge et rentre à Lamarck. Laena naît à la fin de l'année, Laenor en 94 apr. C. Dès lors, la maison Velaryon se tient pour la branche lésée de la dynastie, et elle a les moyens de le faire savoir.",
+        "en": "Heir to his grandfather, Corlys became Lord of the Tides and Master of Driftmark. His fortune allowed him to build a new seat on Driftmark, where he stored the treasures of the east, while two merchant towns that grew up on the island drew part of the trade away from King's Landing. He sat on the small council as master of ships. In 90 AC, at thirty-seven, he married Rhaenys, Prince Aemon's daughter, twenty-one years his junior.\n\nIn 92 AC he took his fleet to Tarth to support Aemon against the Myrish exiles; the prince was killed before he arrived. When Jaehaerys preferred Baelon to Rhaenys and the child she carried, Corlys gave up his office and went home to Driftmark. Laena was born late that year, Laenor in 94 AC. From then on House Velaryon regarded itself as the wronged branch of the dynasty, and it had the means to make that known."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "corlys-velaryon-alliances",
+      "heading": {
+        "fr": "Le Grand Conseil et les Degrés de Pierre",
+        "en": "The Great Council and the Stepstones"
+      },
+      "body": {
+        "fr": "En 101 apr. C., on rapporte à la cour que Corlys rassemble navires et hommes pour défendre le droit de son fils. Le Grand Conseil écarte la menace : le couple y plaide pour Laenor de toute sa fortune, et perd. En 105 apr. C., le roi écarte Laena, et il épouse l'année suivante Alicent Hightower ; Corlys s'allie alors au prince Daemon. À partir de 106 apr. C., Daemon commande l'armée et Corlys la flotte contre la Triarchie, qui tient les Degrés de Pierre. En 109 apr. C., c'est Corlys qui pose la couronne sur la tête de Daemon.\n\nEn 114 apr. C., Laenor épouse Rhaenyra, et Corlys impose pour le premier enfant un prénom de sa maison, Jacaerys. Laena épouse Daemon. L'année 120 apr. C. lui enlève ses deux enfants. En 126 apr. C., malade, il voit son neveu Vaemond contester l'héritage de Lamarck en traitant de bâtards les fils de Rhaenyra ; Daemon fait exécuter Vaemond, et Corlys se rétablit.",
+        "en": "In 101 AC word reached the court that Corlys was gathering ships and men to defend his son's right. The Great Council defused the threat: the couple pleaded Laenor's cause there with all their fortune, and lost. In 105 AC the king passed over Laena, and the following year he married Alicent Hightower; Corlys then allied himself with Prince Daemon. From 106 AC Daemon led the army and Corlys the fleet against the Triarchy, which held the Stepstones. In 109 AC it was Corlys who set the crown on Daemon's head.\n\nIn 114 AC Laenor married Rhaenyra, and Corlys insisted that the first child be given a name of his house, Jacaerys. Laena married Daemon. The year 120 AC took both his children from him. In 126 AC, while he lay ill, his nephew Vaemond contested the inheritance of Driftmark, calling Rhaenyra's sons bastards; Daemon had Vaemond executed, and Corlys recovered."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "trp"
+        }
+      ]
+    },
+    {
+      "id": "corlys-velaryon-danse",
+      "heading": {
+        "fr": "La guerre des noirs",
+        "en": "The Blacks' War"
+      },
+      "body": {
+        "fr": "En 129 apr. C., Corlys rejoint Rhaenyra à Peyredragon. Il est le plus grand seigneur de son parti : plus de la moitié de l'armée noire lui doit allégeance, et sa flotte ferme le Gosier, étranglant le commerce de Port-Réal. Il s'oppose à ceux qui veulent brûler la ville, puisqu'on veut la gouverner. La mort de Rhaenys à Repos-du-Freux le dresse contre la reine, qu'il en tient pour responsable ; Jacaerys le ramène en le faisant Main de la Reine.\n\nLa bataille du Gosier coûte à sa flotte un tiers de ses navires ; les survivants de la flotte de la Triarchie pillent et brûlent son château et ses trésors. Après la défection de deux dragonniers de basse naissance à Tumbleton, quand Rhaenyra fait arrêter ceux qui lui restent, il défend Addam Velaryon, le prévient et le laisse fuir sur Seasmoke. Il est battu, enchaîné, jeté dans une cellule noire. Ses hommes, qui formaient la moitié des forces de la reine dans la ville, désertent par centaines.",
+        "en": "In 129 AC Corlys joined Rhaenyra on Dragonstone. He was the greatest lord of her party: more than half of the black army owed him allegiance, and his fleet closed the Gullet, strangling the trade of King's Landing. He opposed those who wanted to burn the city, since the aim was to rule it. Rhaenys's death at Rook's Rest turned him against the queen, whom he held responsible; Jacaerys won him back by making him Hand of the Queen.\n\nThe battle in the Gullet cost his fleet a third of its ships; the survivors of the Triarchy's fleet sacked and burned his castle and his treasures. After two lowborn dragonriders went over to the enemy at Tumbleton, and Rhaenyra ordered the arrest of those who remained, he spoke up for Addam Velaryon, warned him and let him escape on Seasmoke. He was beaten, chained and thrown into a black cell. His men, who made up half the queen's strength in the city, deserted by the hundreds."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "id": "corlys-velaryon-fin",
+      "heading": {
+        "fr": "La paix et la régence",
+        "en": "Peace and Regency"
+      },
+      "body": {
+        "fr": "Sorti de prison après la fuite de Rhaenyra, Corlys traite avec les verts. En échange de son ralliement à Aegon II, il obtient le pardon de tous ceux qui ont combattu pour Rhaenyra, la libération de sa petite-fille Baela et la promesse que le jeune Aegon, fils de Rhaenyra, épousera Jaehaera, fille du roi, et sera son héritier. Il s'éloigne ensuite du conseil, où Larys Strong vient le rechercher ; tous deux préparent en secret la fin de la guerre.\n\nAprès la mort d'Aegon II, il demande la paix aux grands seigneurs du parti vert. Arrêté pendant l'Heure du Loup, il est libéré par un édit d'Aegon III. Régent du jeune roi à partir de 131 apr. C., il est le plus puissant de ses tuteurs quand il s'effondre dans l'escalier du Donjon Rouge, le sixième jour du troisième mois de 132 apr. C., à soixante-dix-neuf ans. Il est enseveli en mer, à bord du vieux Serpent de mer.",
+        "en": "Released from prison after Rhaenyra's flight, Corlys treated with the greens. In return for coming over to Aegon II, he obtained a pardon for all who had fought for Rhaenyra, the release of his granddaughter Baela and the promise that young Aegon, Rhaenyra's son, would marry Jaehaera, the king's daughter, and be his heir. He then drew away from the council, until Larys Strong came to bring him back; together they secretly prepared the end of the war.\n\nAfter Aegon II's death he sued for peace with the great lords of the green party. Arrested during the Hour of the Wolf, he was freed by an edict of Aegon III. A regent for the young king from 131 AC, he was the most powerful of his guardians when he collapsed on the stairs of the Red Keep on the sixth day of the third month of 132 AC, aged seventy-nine. He was buried at sea aboard the old Sea Snake."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "fab",
+          "locator": "Aftermath: The Hour of the Wolf"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Hooded Hand"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p4-mort-aemon",
+    "p4-grand-conseil-101",
+    "p4-degres-de-pierre",
+    "p5-mariage-laenor",
+    "p5-printemps-rouge",
+    "p5-repos-des-freux",
+    "p5-gosier",
+    "p5-tumbleton-1",
+    "p5-mort-aegon-ii",
+    "p5-heure-du-loup",
+    "p6-regence",
+    "tv-p5-laenor"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "Deux versions de sa libération existent : selon Gyldayn, les hommes de Perkin la Puce ouvrirent les cachots en prenant le Donjon Rouge ; selon Yandel, il fallut attendre le retour des hommes d'Aegon II. Addam et Alyn, qu'il défendit comme de vrais héritiers de Lamarck, passaient officiellement pour des bâtards de Laenor ; la rumeur les donnait pour ses propres fils. Champignon l'accuse d'avoir trempé dans l'incendie de Harrenhal en 120 apr. C. ; aucun autre témoin ne le dit. La date de la bataille du Gosier, fin 129 ou 130 apr. C., varie selon les récits, et Gyldayn doute que le dragon Cannibale ait survolé ses funérailles.",
+    "en": "There are two versions of his release: according to Gyldayn, the men of Perkin the Flea opened the dungeons when they took the Red Keep; according to Yandel, he had to wait for the return of Aegon II's men. Addam and Alyn, whom he defended as true heirs of Driftmark, were officially bastards of Laenor; rumour made them his own sons. Mushroom accuses him of a hand in the fire at Harrenhal in 120 AC; no other witness says so. The date of the battle in the Gullet, late 129 or 130 AC, varies between accounts, and Gyldayn doubts that the dragon Cannibal flew over his funeral."
+  },
+  "adaptation": {
+    "fr": "Dans House of the Dragon, son fils Laenor ne meurt pas en 120 apr. C. : il feint sa mort avec l'aide de Rhaenyra et de Daemon et s'enfuit en Essos, à l'insu de son père. Dans les livres, il est tué à Lamarck par Qarl Correy.",
+    "en": "In House of the Dragon, his son Laenor does not die in 120 AC: he fakes his death with the help of Rhaenyra and Daemon and flees to Essos, unbeknown to his father. In the books he is killed on Driftmark by Qarl Correy."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+    },
+    {
+      "id": "fab",
+      "locator": "Aftermath: The Hour of the Wolf"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: The Hooded Hand"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon III"
+    },
+    {
+      "id": "trotd"
+    },
+    {
+      "id": "trp"
+    },
+    {
+      "id": "tpatq"
+    },
+    {
+      "id": "hotd",
+      "locator": "saison 1, épisode 7"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "personId": "gaemon-peyredragon",
+  "titles": [
+    {
+      "fr": "Seigneur de Peyredragon",
+      "en": "Lord of Dragonstone"
+    }
+  ],
+  "lead": {
+    "fr": "Fils d'Aenar l'Exilé et deuxième seigneur Targaryen de Peyredragon, que la tradition surnomme le Glorieux sans dire ce qui lui valut ce nom.",
+    "en": "Son of Aenar the Exile and second Targaryen lord of Dragonstone, whom tradition calls the Glorious without saying what earned him the name."
+  },
+  "sections": [
+    {
+      "id": "gaemon-peyredragon-heritier-de-l-exil",
+      "heading": {
+        "fr": "L'héritier de l'exil",
+        "en": "Heir to the Exile"
+      },
+      "body": {
+        "fr": "Gaemon arriva à Peyredragon avec sa famille en 114 av. C. On ne sait pas s'il était alors un enfant ou un homme fait : les chroniques ne donnent pas son année de naissance. Il était le fils d'Aenar et le frère de Daenys, dont le rêve avait décidé le départ. À la mort de son père, à une date inconnue, il devint le deuxième seigneur Targaryen de l'île.\n\nSon héritage n'avait rien d'un domaine ordinaire. Peyredragon était une forteresse valyrienne isolée, au bord d'un monde dont la capitale venait de disparaître, ou allait bientôt disparaître. Selon que Gaemon succéda à Aenar avant ou après 102 av. C., il gouverna un avant-poste ou les restes d'un empire. Les sources ne permettent pas de trancher, et cette incertitude pèse sur tout ce qu'on peut dire de lui.",
+        "en": "Gaemon came to Dragonstone with his family in 114 BC. Whether he was then a child or a grown man is unknown: the chronicles do not give his year of birth. He was Aenar's son and the brother of Daenys, whose dream had prompted the departure. On his father's death, at an unknown date, he became the second Targaryen lord of the island.\n\nWhat he inherited was no ordinary holding. Dragonstone was an isolated Valyrian fortress on the edge of a world whose capital had just vanished, or soon would. Depending on whether Gaemon succeeded Aenar before or after 102 BC, he ruled either an outpost or the remnant of an empire. The sources do not settle the question, and that uncertainty weighs on everything that can be said of him."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        }
+      ]
+    },
+    {
+      "id": "gaemon-peyredragon-un-surnom-sans-recit",
+      "heading": {
+        "fr": "Un surnom sans récit",
+        "en": "A Name Without a Story"
+      },
+      "body": {
+        "fr": "Les chroniques appellent Gaemon « le Glorieux » et le distinguent parmi les seigneurs de Peyredragon du Siècle de sang. Elles n'expliquent pas pourquoi. Aucune bataille, aucune alliance, aucun ouvrage ne lui est attribué. Le surnom peut venir de ses contemporains comme d'une tradition familiale tardive, soucieuse de donner du lustre aux premières générations.\n\nLe contexte invite à la prudence. Pendant ce siècle, les Targaryen se tinrent à l'écart des guerres qui déchiraient les anciennes colonies de Valyria. Un seigneur glorieux qui ne fait pas la guerre n'a rien d'impossible, mais l'historien aimerait savoir en quoi consistait cette gloire. Elle tenait peut-être à la conservation des dragons, à la richesse de l'île, au prestige d'une lignée qui avait survécu. Ce ne sont là que des hypothèses, et aucune ne s'appuie sur un texte.",
+        "en": "The chronicles call Gaemon “the Glorious” and single him out among the lords of Dragonstone during the Century of Blood. They do not explain why. No battle, alliance or building is credited to him. The name may come from his contemporaries or from a later family tradition eager to add lustre to its first generations.\n\nThe context calls for caution. Throughout that century the Targaryens kept clear of the wars tearing at Valyria's former colonies. A glorious lord who wages no war is not impossible, but the historian would like to know what the glory consisted of. It may have lain in keeping the dragons alive, in the island's wealth, in the prestige of a line that had survived. These are only conjectures, and none rests on a text."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Doom of Valyria"
+        }
+      ]
+    },
+    {
+      "id": "gaemon-peyredragon-descendance",
+      "heading": {
+        "fr": "Une descendance et un nom repris",
+        "en": "Descendants and a Borrowed Name"
+      },
+      "body": {
+        "fr": "Gaemon épousa sa sœur Daenys, selon l'usage valyrien. Leurs enfants Aegon et Elaena s'épousèrent et gouvernèrent ensemble Peyredragon après lui ; une fille cadette, dont le nom est perdu, entra par mariage dans une maison mineure. De la branche principale descendent tous les seigneurs suivants de l'île, et par eux Aegon le Conquérant.\n\nNi la date ni les circonstances de la mort de Gaemon ne sont connues. Son souvenir, pourtant, ne s'effaça pas. Près de deux siècles plus tard, le roi Jaehaerys Ier donna son nom à l'un de ses fils, né en 73 apr. C. et mort avant d'avoir trois mois. Le choix suppose qu'à la cour, Gaemon restait une figure qu'on honorait. Au Grand Conseil de 101 apr. C., enfin, un prétendant fit valoir une ascendance remontant à sa fille cadette : c'est la dernière fois que les sources évoquent cette lignée secondaire.",
+        "en": "Gaemon married his sister Daenys, as Valyrian custom allowed. Their children Aegon and Elaena married each other and ruled Dragonstone together after him; a younger daughter, whose name is lost, married into a minor house. From the main branch descend all the later lords of the island, and through them Aegon the Conqueror.\n\nNeither the date nor the manner of Gaemon's death is known. His memory nonetheless endured. Nearly two centuries later, King Jaehaerys I gave his name to one of his sons, born in 73 AC and dead before he was three months old. The choice implies that Gaemon was still a figure to be honoured at court. Finally, at the Great Council of 101 AC, a claimant pressed a descent going back to his younger daughter: it is the last time the sources mention that lesser line."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p2-reve-daenys",
+    "p1-fleau",
+    "p2-siecle-de-sang",
+    "p2-gaemon-et-successeurs"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "La raison du surnom « le Glorieux » n'est pas donnée. On ignore si Gaemon succéda à son père avant ou après le Fléau, et ni sa naissance ni sa mort ne sont datées.",
+    "en": "The reason for the name “the Glorious” is not given. It is unknown whether Gaemon succeeded his father before or after the Doom, and neither his birth nor his death is dated."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Aegon's Conquest"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Reign of the Dragons: The Conquest"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    }
+  ]
+}

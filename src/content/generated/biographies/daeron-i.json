@@ -1,0 +1,173 @@
+{
+  "personId": "daeron-i",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+      "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+    },
+    {
+      "fr": "Prince de Peyredragon",
+      "en": "Prince of Dragonstone"
+    }
+  ],
+  "lead": {
+    "fr": "Fils aîné d'Aegon III, Daeron Ier régna de 157 à 161 apr. C. ; il soumit Dorne sans dragons, puis la perdit et y mourut à dix-huit ans.",
+    "en": "The eldest son of Aegon III, Daeron I reigned from 157 to 161 AC; he subdued Dorne without dragons, then lost it and died there at eighteen."
+  },
+  "sections": [
+    {
+      "id": "daeron-i-jeunesse",
+      "heading": {
+        "fr": "Un prince né après les dragons",
+        "en": "A Prince Born After the Dragons"
+      },
+      "body": {
+        "fr": "Daeron naît en 143 apr. C., premier des cinq enfants d'Aegon III et de Daenaera Velaryon ; viennent ensuite Baelor, Daena, Rhaena et Elaena. Il grandit dans une cour assombrie par l'humeur de son père, que la Danse avait laissé taciturne, et que gouverne en pratique son oncle Viserys, Main du Roi.\n\nIl a dix ans quand meurt, en 153 apr. C., le dernier dragon de la maison, une bête chétive dont aucun œuf n'éclot. Les mages qu'Aegon III fait ensuite venir d'Essos échouent à leur tour. Daeron appartient ainsi à la première génération de Targaryen qui ne connaît les dragons que par les récits.\n\nSon père meurt de consomption en 157 apr. C. Le nouveau roi a quatorze ans. Viserys reste Main, mais il ne réclame pas de régence, et Daeron gouverne en son nom dès son couronnement. Les chroniques le montrent sûr de lui, habile à entraîner les hommes, et résolu à achever ce que ses ancêtres avaient laissé en suspens.",
+        "en": "Daeron was born in 143 AC, the first of the five children of Aegon III and Daenaera Velaryon; Baelor, Daena, Rhaena and Elaena followed. He grew up at a court darkened by his father's temper, which the Dance had left withdrawn and silent, and which was governed in practice by his uncle Viserys, the Hand of the King.\n\nHe was ten when the last dragon of the house died in 153 AC, a sickly creature none of whose eggs ever hatched. The mages Aegon III then brought over from Essos failed in their turn. Daeron thus belonged to the first generation of Targaryens who knew dragons only from stories.\n\nHis father died of consumption in 157 AC. The new king was fourteen. Viserys remained Hand, but he did not ask for a regency, and Daeron ruled in his own name from his coronation. The chronicles show him self-assured, able to carry men with him, and determined to finish what his forebears had left undone."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron I"
+        }
+      ]
+    },
+    {
+      "id": "daeron-i-conquete",
+      "heading": {
+        "fr": "La conquête de Dorne",
+        "en": "The Conquest of Dorne"
+      },
+      "body": {
+        "fr": "Dorne était la seule terre de Westeros que ni Aegon le Conquérant ni ses sœurs n'avaient pu réduire. Aux conseillers qui lui rappelaient que la couronne n'avait plus de dragons, le jeune roi répondit, dit-on, que le dragon, c'était lui. Il prépara la campagne avec lord Alyn Velaryon, en tirant les leçons de la Première Guerre dornienne.\n\nEn 157 apr. C., trois armées entrent en Dorne. Lord Lyonel Tyrell descend la Passe du Prince ; le roi prend les Osseux en tournant les postes dorniens par des sentiers de chèvres ; la flotte d'Alyn Velaryon force Bourg-Cabanes et remonte la Sang-vert. En 158 apr. C., le prince de Dorne et quarante seigneurs plient le genou à Lancehélion. La prise du pays aurait coûté dix mille hommes.\n\nLe roi regagne Port-Réal en 159 apr. C. avec quatorze otages de haute naissance, et il écrit La Conquête de Dorne, récit dont on loue la simplicité. On sait aussi qu'il y grossit le nombre de ses adversaires.",
+        "en": "Dorne was the one land in Westeros that neither Aegon the Conqueror nor his sisters had managed to subdue. When his councillors reminded him that the crown no longer had any dragons, the young king is said to have replied that he himself was the dragon. He planned the campaign with Lord Alyn Velaryon, drawing on the lessons of the First Dornish War.\n\nIn 157 AC three armies entered Dorne. Lord Lyonel Tyrell came down the Prince's Pass; the king took the Boneway, slipping past the Dornish watch posts by goat tracks; Alyn Velaryon's fleet forced the Planky Town and sailed up the Greenblood. In 158 AC the Prince of Dorne and forty lords bent the knee at Sunspear. Taking the country is said to have cost ten thousand men.\n\nThe king returned to King's Landing in 159 AC with fourteen highborn hostages and wrote The Conquest of Dorne, an account praised for its plainness. It is also known that he inflated the numbers of his enemies in it."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Seven Kingdoms: Dorne, Dorne Against the Dragons"
+        }
+      ]
+    },
+    {
+      "id": "daeron-i-soulevement",
+      "heading": {
+        "fr": "Les seigneurs, non le pays",
+        "en": "The Lords, Not the Land"
+      },
+      "body": {
+        "fr": "La soumission de Lancehélion liait les seigneurs ; elle ne liait pas le peuple. Pendant que le roi réduisait les derniers rebelles, une flèche empoisonnée qui lui était destinée atteignit son cousin Aemon, le Chevalier-Dragon, qu'il fallut renvoyer se soigner dans la capitale. Après le départ de Daeron, lord Tyrell, laissé pour gouverner, pourchassa les insurgés de château en château. Quarante mille hommes, ou cinquante mille selon d'autres, seraient morts dans les trois années suivantes.\n\nLe gouverneur périt au Grès, dans un piège tendu dans la chambre même que lui offrait son hôte, et le pays entier se souleva. Le Grand Mestre Kaeth avance une cause extérieure : le projet de marier une sœur du roi au Seigneur de la Mer de Braavos, alors en guerre avec Lys et Pentos, aurait poussé ces deux cités à soutenir les Dorniens. L'hypothèse est plausible ; elle n'est pas démontrée.\n\nDaeron revint en 160 apr. C. Il gagna plusieurs combats dans les Osseux, tandis qu'Alyn Velaryon frappait de nouveau Bourg-Cabanes et la Sang-vert.",
+        "en": "The submission at Sunspear bound the lords; it did not bind the people. While the king was putting down the last rebels, a poisoned arrow meant for him struck his cousin Aemon, the Dragonknight, who was sent back to the capital to recover. Lord Tyrell, left to govern, hunted the insurgents from castle to castle. Forty thousand men, or fifty thousand by other counts, are said to have died over the next three years.\n\nThe governor was killed at Sandstone, in a trap laid in the very bedchamber his host had given him, and the whole country rose. Grand Maester Kaeth suggests a cause from abroad: a plan to marry one of the king's sisters to the Sealord of Braavos, then at war with Lys and Pentos, would have driven those two cities to support the Dornish. The hypothesis is plausible; it is not proven.\n\nDaeron came back in 160 AC. He won several fights along the Boneway, while Alyn Velaryon struck the Planky Town and the Greenblood once more."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Free Cities: The Quarrelsome Daughters: Myr, Lys, and Tyrosh"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Seven Kingdoms: Dorne, Dorne Against the Dragons"
+        }
+      ]
+    },
+    {
+      "id": "daeron-i-mort",
+      "heading": {
+        "fr": "Sous une bannière de paix",
+        "en": "Under a Peace Banner"
+      },
+      "body": {
+        "fr": "En 161 apr. C., les Dorniens firent savoir qu'ils étaient prêts à renouveler leur hommage. Le roi vint parlementer sous une bannière de paix. C'était un guet-apens : son escorte fut assaillie, et Daeron mourut l'épée Feunoyr à la main, à dix-huit ans. Trois chevaliers de la Garde Royale tombèrent avec lui, un quatrième se rendit, et Aemon fut pris après avoir tué deux des assaillants. Le cercle d'acier valyrien du Conquérant, que portait le roi, se perdit en Dorne.\n\nDaeron mourait sans enfant. Son frère Baelor lui succéda et renonça à la conquête. Le port des terres de l'Orage où débarqua le corps prit le nom de Ville-en-Pleurs.\n\nSa mémoire resta flatteuse : à Villevieille, une statue équestre le représente l'épée levée en direction de Dorne, et Jon Snow le compte parmi ses héros. Le bilan est plus sévère. En quatre ans, la conquête avait coûté des dizaines de milliers de vies, et Dorne n'entra dans le royaume qu'en 187 apr. C., par un accord scellé d'un mariage.",
+        "en": "In 161 AC the Dornish let it be known that they were ready to renew their homage. The king came to treat under a peace banner. It was an ambush: his escort was attacked, and Daeron died with the sword Blackfyre in his hand, at eighteen. Three knights of the Kingsguard fell with him, a fourth yielded, and Aemon was taken after killing two of the attackers. The Valyrian steel circlet of the Conqueror, which the king wore, was lost in Dorne.\n\nDaeron died childless. His brother Baelor succeeded him and gave up the conquest. The stormlands port where the body came ashore took the name of the Weeping Town.\n\nHis memory stayed flattering: in Oldtown an equestrian statue shows him with his sword raised toward Dorne, and Jon Snow counts him among his heroes. The balance sheet is harsher. In four years the conquest had cost tens of thousands of lives, and Dorne joined the realm only in 187 AC, through an agreement sealed by a marriage."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Stormlands"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "agot",
+          "locator": "Jon I (ch. 5)"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell V (ch. 45)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "dernier-dragon"
+  ],
+  "eventIds": [
+    "p5-dernier-dragon",
+    "p6-daeron-dorne",
+    "p6-baelor",
+    "p6-union-dorne"
+  ],
+  "warIds": [
+    "conquete-de-dorne"
+  ],
+  "disputed": {
+    "fr": "Les pertes ne sont connues que par des estimations : dix mille morts pour prendre Dorne, puis quarante ou cinquante mille pour tenter de la garder ; le récit du roi lui-même grossit les forces adverses. Le soutien de Lys et de Pentos aux insurgés, et son lien avec le projet de mariage braavien, ne reposent que sur l'hypothèse du Grand Mestre Kaeth. Le lieu de l'embuscade de 161 apr. C. n'est pas indiqué.",
+    "en": "The losses are known only from estimates: ten thousand dead to take Dorne, then forty or fifty thousand in trying to hold it; the king's own account inflates the enemy's numbers. The support of Lys and Pentos for the insurgents, and its link with the Braavosi marriage plan, rest only on Grand Maester Kaeth's hypothesis. The place of the ambush of 161 AC is not given."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon III"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Seven Kingdoms: Dorne, Dorne Against the Dragons"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Free Cities: The Quarrelsome Daughters: Myr, Lys, and Tyrosh"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Stormlands"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Maekar I"
+    },
+    {
+      "id": "agot",
+      "locator": "Jon I (ch. 5)"
+    },
+    {
+      "id": "affc",
+      "locator": "Samwell V (ch. 45)"
+    }
+  ]
+}

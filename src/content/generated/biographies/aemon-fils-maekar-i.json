@@ -1,0 +1,179 @@
+{
+  "personId": "aemon-fils-maekar-i",
+  "titles": [
+    {
+      "fr": "Mestre de la Garde de Nuit à Châteaunoir",
+      "en": "Maester of the Night's Watch at Castle Black"
+    },
+    {
+      "fr": "Prince de la maison Targaryen",
+      "en": "Prince of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Troisième fils de Maekar Ier, Aemon préféra la chaîne de mestre à la couronne et servit plus de soixante ans la Garde de Nuit ; il mourut en 300 apr. C., à cent deux ans, sur la route de Villevieille.",
+    "en": "The third son of Maekar I, Aemon chose a maester's chain over the crown and served the Night's Watch for more than sixty years; he died in 300 AC, aged one hundred and two, on the way to Oldtown."
+  },
+  "sections": [
+    {
+      "id": "aemon-fils-maekar-i-citadelle",
+      "heading": {
+        "fr": "Un prince à la Citadelle",
+        "en": "A Prince at the Citadel"
+      },
+      "body": {
+        "fr": "Aemon naît en 198 apr. C., troisième fils du prince Maekar et de Dyanna Dayne. Son grand-père Daeron II lui donne le nom d'Aemon le Chevalier-Dragon. Enfant studieux, il partage avec son cadet Aegon, qu'il surnomme « l'Œuf », l'espoir de voir éclore les œufs de dragon reçus au berceau ; les deux frères rejouent aussi la bataille d'Herberouge avec des soldats peints sur la table de leur mestre.\n\nDaeron II, qui compte déjà beaucoup de descendants mâles, juge dangereux d'avoir trop de prétendants possibles. Vers neuf ou dix ans, Aemon est envoyé à la Citadelle de Villevieille, malgré l'opposition de son père. Il y forge sa chaîne et achève ses études à dix-neuf ans. Quand Maekar monte sur le trône, en 221 apr. C., il refuse de siéger au conseil restreint, où il aurait évincé le Grand Mestre, et sert plutôt son frère aîné Daeron à Peyredragon jusqu'à la mort de celui-ci.",
+        "en": "Aemon was born in 198 AC, the third son of Prince Maekar and Dyanna Dayne. His grandfather Daeron II named him after Aemon the Dragonknight. A studious child, he shared with his younger brother Aegon, whom he nicknamed “Egg”, the hope of seeing the dragon's eggs they had been given in the cradle hatch; the two brothers also refought the battle of the Redgrass Field with painted soldiers on their maester's table.\n\nDaeron II, who already had many male descendants, thought it dangerous to have too many possible claimants. At nine or ten Aemon was sent to the Citadel at Oldtown, over his father's objections. There he forged his chain and finished his studies at nineteen. When Maekar came to the throne in 221 AC, he declined a seat on the small council, where he would have displaced the Grand Maester, and served his eldest brother Daeron on Dragonstone instead, until Daeron died."
+      },
+      "sources": [
+        {
+          "id": "affc",
+          "locator": "Samwell I (ch. 5)"
+        },
+        {
+          "id": "acok",
+          "locator": "Jon I (ch. 6)"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        }
+      ]
+    },
+    {
+      "id": "aemon-fils-maekar-i-couronne",
+      "heading": {
+        "fr": "La couronne refusée",
+        "en": "The Crown Refused"
+      },
+      "body": {
+        "fr": "En 233 apr. C., Maekar meurt en assiégeant un seigneur rebelle. Ses deux premiers fils l'ont précédé dans la tombe, et leurs héritiers sont une fillette simple d'esprit et un nourrisson. Le Grand Conseil réuni pour désigner le roi se tourne vers Aemon : plusieurs seigneurs se méfient d'Aegon, qu'ils jugent trop proche du petit peuple, et l'on propose de délier le mestre de ses vœux. Aemon refuse sans éclat et désigne son jeune frère, qui devient Aegon V.\n\nIl ne s'en tient pas là. Craignant que des mécontents ne se servent un jour de son nom contre le roi, il choisit de prendre le noir. Il part pour le Mur avec Brynden Rivers, condamné pour le meurtre d'Aenys Feunoyr, et avec une escorte d'honneur formée de prisonniers tirés des cachots pour prononcer avec lui les vœux de la Garde. Ser Duncan le Grand, l'ami d'Aegon, accompagne le convoi par mer jusqu'au Mur.",
+        "en": "In 233 AC Maekar died besieging a rebel lord. His first two sons had gone to the grave before him, and their heirs were a simple-minded girl and an infant. The Great Council called to choose the king turned to Aemon: several lords distrusted Aegon, whom they thought too close to the common people, and it was proposed that the maester be released from his vows. Aemon quietly refused and named his younger brother, who became Aegon V.\n\nHe did not stop there. Fearing that malcontents might one day use his name against the king, he chose to take the black. He left for the Wall with Brynden Rivers, condemned for the murder of Aenys Blackfyre, and with an honour guard of prisoners taken from the dungeons to swear the vows of the Watch with him. Ser Duncan the Tall, Aegon's friend, went with the company by sea as far as the Wall."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "acok",
+          "locator": "Jon I (ch. 6)"
+        }
+      ]
+    },
+    {
+      "id": "aemon-fils-maekar-i-mur",
+      "heading": {
+        "fr": "Soixante ans au Mur",
+        "en": "Sixty Years on the Wall"
+      },
+      "body": {
+        "fr": "À Châteaunoir, Aemon devient le mestre de la Garde de Nuit et le reste plus de soixante ans, sous une longue suite de lords Commandants. Il correspond avec le prince Rhaegar, son arrière-petit-neveu. Il voit d'abord en lui le prince promis de la prophétie, à cause des circonstances de sa naissance ; Rhaegar partage cette idée, puis le persuade qu'elle s'applique plutôt à son fils Aegon. La chute de sa maison, en 283 apr. C., est pour Aemon la plus dure épreuve de ses vœux : il apprend la mort des siens sans quitter le Mur.\n\nDevenu aveugle, il voit arriver Jon Snow parmi les recrues. Quand Jon songe à déserter pour rejoindre son demi-frère parti en guerre, Aemon lui révèle son nom et lui dit ce que coûte le choix entre l'amour et le devoir. Pendant l'attaque des sauvageons contre Châteaunoir, il conseille les défenseurs, puis prend la défense de Jon contre ceux qui veulent le faire pendre ; à l'élection du nouveau lord Commandant, le choix se porte sur Jon.",
+        "en": "At Castle Black Aemon became maester of the Night's Watch and remained so for more than sixty years, under a long line of Lord Commanders. He corresponded with Prince Rhaegar, his great-great-nephew. At first he saw in him the prince that was promised of the prophecy, because of the circumstances of his birth; Rhaegar shared the idea, then persuaded him that it applied rather to his son Aegon. The fall of his house in 283 AC was for Aemon the hardest test of his vows: he learned of the deaths of his kin without leaving the Wall.\n\nBlind by then, he welcomed Jon Snow among the recruits. When Jon thought of deserting to join his half-brother at war, Aemon told him his own name and what the choice between love and duty had cost him. During the wildling attack on Castle Black he advised the defenders, then defended Jon against those who wanted him hanged; at the election of a new Lord Commander, the choice fell on Jon."
+      },
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Jon VIII (ch. 60)"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell IV (ch. 35)"
+        },
+        {
+          "id": "asos",
+          "locator": "Jon VII (ch. 55)"
+        },
+        {
+          "id": "asos",
+          "locator": "Jon IX (ch. 69)"
+        },
+        {
+          "id": "asos",
+          "locator": "Jon XII (ch. 79)"
+        }
+      ]
+    },
+    {
+      "id": "aemon-fils-maekar-i-mort",
+      "heading": {
+        "fr": "La dernière traversée",
+        "en": "The Last Voyage"
+      },
+      "body": {
+        "fr": "En 300 apr. C., Jon Snow, devenu lord Commandant, craint que la prêtresse rouge Mélisandre ne convoite le sang royal du vieillard. Il l'envoie à Villevieille avec Samwell Tarly, Vère et un nourrisson. La traversée l'épuise. À Braavos, fiévreux, il se croit revenu au temps de sa jeunesse et parle à l'Œuf, puis se souvient que ses trois frères avaient rêvé de dragons.\n\nLa nouvelle que Daenerys a fait naître trois dragons le ranime un temps. Il en conclut qu'elle est la promise de la prophétie : le mot valyrien qu'on traduit par « prince » n'a pas de genre, et l'on aurait mal lu le texte en le réservant à un homme. Il presse Samwell de convaincre la Citadelle qu'il faut envoyer un mestre auprès de la reine. Il meurt dans son sommeil à bord d'un navire des îles d'Été, au large de Dorne, à cent deux ans. Le capitaine refusant un bûcher à son bord, on garde son corps dans un tonneau de rhum jusqu'à Villevieille.",
+        "en": "In 300 AC Jon Snow, now Lord Commander, feared that the red priestess Melisandre coveted the old man's royal blood. He sent him to Oldtown with Samwell Tarly, Gilly and an infant. The voyage wore him out. In Braavos, feverish, he believed himself young again and spoke to Egg, then recalled that all three of his brothers had dreamed of dragons.\n\nNews that Daenerys had brought three dragons into the world revived him for a time. He concluded that she was the one the prophecy promised: the Valyrian word rendered as “prince” has no gender, and the text had been misread by keeping it for a man. He urged Samwell to convince the Citadel to send a maester to the queen. He died in his sleep aboard a Summer Islands ship off the coast of Dorne, aged one hundred and two. Since the captain would allow no pyre on board, his body was kept in a cask of rum until they reached Oldtown."
+      },
+      "sources": [
+        {
+          "id": "affc",
+          "locator": "Samwell I (ch. 5)"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell II (ch. 15)"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell III (ch. 26)"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell IV (ch. 35)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-grand-conseil-233",
+    "p8-mort-aemon"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "Aemon situe lui-même son départ pour la Citadelle vers neuf ou dix ans, sans plus de précision. Sa lecture de la prophétie du prince promis, appliquée tour à tour à Rhaegar, au fils de celui-ci puis à Daenerys, reste la sienne : les livres parus ne disent pas si elle est juste.",
+    "en": "Aemon himself placed his departure for the Citadel at nine or ten, without being more precise. His reading of the prophecy of the prince that was promised, applied in turn to Rhaegar, to Rhaegar's son and then to Daenerys, remains his own: the published books do not say whether it is right."
+  },
+  "adaptation": {
+    "fr": "Dans la série Game of Thrones, Aemon ne quitte jamais Châteaunoir : il y meurt de vieillesse, entouré de ses frères de la Garde, au lieu de mourir en mer sur la route de Villevieille.",
+    "en": "In the Game of Thrones series Aemon never leaves Castle Black: he dies of old age there among his brothers of the Watch, instead of dying at sea on the way to Oldtown."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Maekar I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon V"
+    },
+    {
+      "id": "agot",
+      "locator": "Jon VIII (ch. 60)"
+    },
+    {
+      "id": "acok",
+      "locator": "Jon I (ch. 6)"
+    },
+    {
+      "id": "affc",
+      "locator": "Samwell I (ch. 5)"
+    },
+    {
+      "id": "affc",
+      "locator": "Samwell III (ch. 26)"
+    },
+    {
+      "id": "affc",
+      "locator": "Samwell IV (ch. 35)"
+    },
+    {
+      "id": "got",
+      "locator": "Season 5"
+    }
+  ]
+}

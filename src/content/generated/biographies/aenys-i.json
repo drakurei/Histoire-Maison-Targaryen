@@ -1,0 +1,139 @@
+{
+  "personId": "aenys-i",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynar et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes",
+      "en": "Lord of the Seven Kingdoms"
+    },
+    {
+      "fr": "Protecteur du royaume",
+      "en": "Protector of the Realm"
+    }
+  ],
+  "lead": {
+    "fr": "Fils aîné d'Aegon le Conquérant et de Rhaenys, deuxième roi Targaryen, dont le règne de cinq ans s'acheva dans la révolte de la Foi.",
+    "en": "Elder son of Aegon the Conqueror and Rhaenys, second Targaryen king, whose five-year reign ended amid the revolt of the Faith."
+  },
+  "sections": [
+    {
+      "id": "aenys-i-un-enfant-fragile",
+      "heading": {
+        "fr": "Un enfant fragile",
+        "en": "A Frail Child"
+      },
+      "body": {
+        "fr": "Aenys naquit à Peyredragon en 7 apr. C. Petit, maladif, refusant toute autre nourrice que sa mère, il inquiéta la cour au point que l'on douta de sa naissance. On lui confia la même année un dragon tout juste éclos, Vif-Argent, et l'enfant grandit avec la bête ; les rumeurs cessèrent. Trois ans plus tard, la mort de Rhaenys le fit retomber dans un état si inquiétant qu'on se demanda s'il vivrait.\n\nAegon le garda près de lui à Port-Réal, tandis que Maegor, son cadet de cinq ans, grandissait à Peyredragon auprès de Visenya. Les deux frères se connurent peu. Aenys fut formé aux armes par la Garde Royale, sans jamais égaler la force de son père ; il préférait la compagnie des mestres et des septons, la musique, l'alchimie et l'observation des astres. En 22 apr. C., il épousa sa cousine Alyssa Velaryon. Ils eurent six enfants, et les témoignages s'accordent sur l'affection qui unissait le couple.",
+        "en": "Aenys was born on Dragonstone in 7 AC. Small, sickly and refusing any nurse but his mother, he worried the court so much that his parentage was questioned. That same year he was given a newly hatched dragon, Quicksilver, and the child grew with the beast; the rumours ceased. Three years later Rhaenys's death threw him back into a state so alarming that people wondered whether he would live.\n\nAegon kept him close in King's Landing, while Maegor, five years younger, grew up on Dragonstone with Visenya. The two brothers barely knew each other. Aenys was trained at arms by the Kingsguard without ever matching his father's strength; he preferred the company of maesters and septons, music, alchemy and the study of the stars. In 22 AC he married his cousin Alyssa Velaryon. They had six children, and the accounts agree on the affection between husband and wife."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        }
+      ]
+    },
+    {
+      "id": "aenys-i-un-roi-aimable",
+      "heading": {
+        "fr": "Un roi aimable",
+        "en": "An Amiable King"
+      },
+      "body": {
+        "fr": "À la mort d'Aegon en 37 apr. C., Aenys se trouvait à Hautjardin ; il rejoignit Peyredragon sur Vif-Argent et y fut proclamé roi. Après les funérailles, il remit Feunoyr, l'épée de son père, à Maegor, en reconnaissant que celui-ci la porterait mieux, et lui promit de régner avec lui. Le geste se voulait généreux ; Visenya y vit l'aveu d'une faiblesse.\n\nL'année même, quatre révoltes éclatèrent : un prétendu petit-fils de Harren le Noir prit Harrenhal, un faux roi-prêtre souleva les îles de Fer, un chef de bandes dornien appelé le Roi Vautour ravagea les marches, et au Val un frère cadet emprisonna Ronnel Arryn. Le roi se demandait encore pourquoi ses sujets se rebellaient quand les seigneurs, et Maegor, mirent fin aux soulèvements. Aimable, attaché à l'affection du peuple, Aenys hésitait devant toute décision qui risquait de décevoir quelqu'un. Il fit de Maegor sa Main.",
+        "en": "When Aegon died in 37 AC, Aenys was at Highgarden; he reached Dragonstone on Quicksilver and was proclaimed king there. After the funeral he handed Blackfyre, his father's sword, to Maegor, acknowledging that his brother would bear it better, and promised that they would rule together. The gesture was meant generously; Visenya saw it as an admission of weakness.\n\nThat same year four revolts broke out: a self-styled grandson of Harren the Black seized Harrenhal, a false priest-king roused the Iron Islands, a Dornish raider called the Vulture King ravaged the marches, and in the Vale a younger brother imprisoned Ronnel Arryn. The king was still wondering why his subjects had rebelled when the lords, and Maegor, put the risings down. Amiable and eager for the people's love, Aenys hesitated over any decision that might disappoint someone. He made Maegor his Hand."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aenys I"
+        }
+      ]
+    },
+    {
+      "id": "aenys-i-deux-mariages-et-la-foi",
+      "heading": {
+        "fr": "Deux mariages et la colère de la Foi",
+        "en": "Two Marriages and the Wrath of the Faith"
+      },
+      "body": {
+        "fr": "La crise vint de la famille. En 39 apr. C., Maegor, sans enfant de son épouse Hightower, en prit une seconde. Le Grand Septon condamna l'union, les seigneurs pieux s'indignèrent, et Aenys donna à son frère le choix entre la répudiation et cinq ans d'exil. Maegor partit pour Pentos avec sa femme, Balerion et Feunoyr, qu'il refusa de rendre.\n\nEn 41 apr. C., le roi maria sa fille aînée Rhaena à son fils aîné Aegon, selon l'usage de la Maison, et nomma le jeune marié prince de Peyredragon. La Foi, qui avait toléré les mariages du Conquérant, refusa celui-ci. Le Grand Septon traita Aenys d'abomination, puis de tyran sans droit au trône. Le septon qui avait célébré les noces, devenu Main du roi, fut massacré dans la rue. Les Fils du Guerrier se retranchèrent dans le septuaire du Souvenir, les Pauvres Compagnons tinrent les routes, et Aenys quitta sa capitale pour Peyredragon.",
+        "en": "The crisis came from within the family. In 39 AC Maegor, childless by his Hightower wife, took a second one. The High Septon condemned the union, pious lords were outraged, and Aenys gave his brother a choice between setting her aside and five years of exile. Maegor left for Pentos with his wife, Balerion and Blackfyre, which he refused to give back.\n\nIn 41 AC the king married his eldest daughter Rhaena to his eldest son Aegon, as the house was used to doing, and named the bridegroom Prince of Dragonstone. The Faith, which had tolerated the Conqueror's marriages, would not accept this one. The High Septon called Aenys an abomination, then a tyrant with no right to the throne. The septon who had performed the wedding, by then Hand of the King, was hacked to death in the street. The Warrior's Sons fortified the Sept of Remembrance, the Poor Fellows held the roads, and Aenys left his capital for Dragonstone."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aenys I"
+        }
+      ]
+    },
+    {
+      "id": "aenys-i-une-mort-a-peyredragon",
+      "heading": {
+        "fr": "Une mort à Peyredragon",
+        "en": "A Death on Dragonstone"
+      },
+      "body": {
+        "fr": "À Peyredragon, Visenya conseilla au roi de livrer au feu le Septuaire étoilé de Villevieille et le septuaire du Souvenir. Il ne put s'y résoudre, ni décider d'autre chose. Il tomba malade. Le Grand Mestre lui trouvait l'air d'un homme de soixante ans ; il en avait trente-cinq. Visenya prit ses soins en main et il parut un temps se remettre, puis il s'effondra en apprenant que son fils et sa fille étaient assiégés à Crakehall. Il mourut trois jours plus tard, en 42 apr. C.\n\nIl fut incinéré sur l'île ; Alyssa chanta pour lui. Son héritier était le jeune Aegon, mais Visenya partit sur-le-champ chercher Maegor à Pentos, et la couronne passa au frère. Le règne d'Aenys, cinq ans à peine, laissa à ses successeurs une question qu'il n'avait pas su trancher : savoir jusqu'où les Targaryen pouvaient suivre leurs propres coutumes contre la Foi du royaume qu'ils gouvernaient.",
+        "en": "On Dragonstone Visenya urged the king to put the Starry Sept in Oldtown and the Sept of Remembrance to the torch. He could not bring himself to it, nor decide on anything else. He fell ill. The Grand Maester thought he looked a man of sixty; he was thirty-five. Visenya took charge of his care and for a while he seemed to recover, then he collapsed on learning that his son and daughter were besieged at Crakehall. He died three days later, in 42 AC.\n\nHe was burned on the island; Alyssa sang for him. His heir was young Aegon, but Visenya left at once to fetch Maegor from Pentos, and the crown passed to the brother. Aenys's reign, barely five years long, left his successors a question he had been unable to settle: how far the Targaryens could keep their own customs against the Faith of the realm they ruled."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aenys I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "quicksilver"
+  ],
+  "eventIds": [
+    "p4-mort-aegon",
+    "p4-soulevement-foi"
+  ],
+  "warIds": [
+    "soulevement-foi-militante"
+  ],
+  "disputed": {
+    "fr": "On soupçonna plus tard Visenya d'avoir hâté la mort d'Aenys, qu'elle soignait et dont la disparition servait son fils ; la plupart des récits parlent d'une maladie. Les chroniques divergent aussi sur son couronnement : l'une le fait couronner à Peyredragon de la couronne de son père, puis recevoir à Villevieille une couronne d'or des mains du Grand Septon, l'autre décrit une cérémonie au Donjon Rouge. La rumeur qui lui donnait pour père un chanteur de l'entourage de Rhaenys ne repose sur rien.",
+    "en": "Visenya was later suspected of hastening the death of Aenys, whom she nursed and whose passing served her son; most accounts speak of illness. The chronicles also differ on his coronation: one has him crowned on Dragonstone with his father's crown and later given a golden crown by the High Septon at Oldtown, the other describes a ceremony in the Red Keep. The rumour that made a singer of Rhaenys's circle his father rests on nothing."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Sons of the Dragon"
+    },
+    {
+      "id": "tsotd"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aenys I"
+    }
+  ]
+}

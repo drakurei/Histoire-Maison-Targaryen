@@ -1,0 +1,281 @@
+/* La langue : statuts et salles sur le vélin ; la formule analysée sur le champ. */
+
+/* ------------------------------------------------------------ Formule au téléphone (vélin) */
+.formuleTel {
+  margin-top: var(--e7);
+}
+
+/* ------------------------------------------------------------ Interdits */
+.interdits {
+  display: grid;
+  row-gap: var(--e4);
+}
+
+.interdits > p + p {
+  text-indent: 0;
+}
+
+/* ------------------------------------------------------------ Statuts */
+.statuts {
+  display: grid;
+  row-gap: var(--e6);
+  margin-top: var(--e6);
+}
+
+.statut {
+  display: grid;
+  grid-template-columns: 2.25rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  row-gap: var(--e2);
+}
+
+.statutMarque {
+  grid-row: 1 / span 3;
+  color: var(--v3-texte);
+}
+
+.statut[data-statut='editorial'] .statutMarque {
+  color: var(--v3-rubrique);
+}
+
+.statut[data-statut='adaptation'] .statutMarque {
+  color: var(--v3-texte-2);
+}
+
+.statutNom {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e4);
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 500;
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  color: var(--v3-texte);
+}
+
+.statutNombre {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-weight: 500;
+  letter-spacing: 0;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--v3-texte-2);
+}
+
+.statutDef {
+  max-width: 36em;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+}
+
+.exemple {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  color: var(--v3-texte-2);
+}
+
+.exempleLabel {
+  font-family: var(--f-musee);
+  font-style: normal;
+  font-size: var(--t-1);
+}
+
+.exempleLien {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  font-family: var(--f-chronique);
+  font-style: normal;
+  font-size: var(--t1);
+  font-weight: 500;
+  letter-spacing: -0.015em;
+  color: var(--v3-texte);
+}
+
+.exempleSens {
+  color: var(--v3-texte);
+}
+
+@media (width >= 1024px) {
+  .statut {
+    grid-template-columns: 2.25rem minmax(0, 7fr) minmax(0, 3fr);
+  }
+
+  .statutMarque {
+    grid-row: 1 / span 2;
+  }
+
+  .statutNom,
+  .statutDef {
+    grid-column: 2;
+  }
+
+  .exemple {
+    grid-column: 3;
+    grid-row: 1 / span 2;
+    display: grid;
+    justify-items: start;
+    align-content: start;
+  }
+}
+
+/* ------------------------------------------------------------ Les trois salles */
+.salles {
+  display: grid;
+  row-gap: var(--e6);
+}
+
+.salle {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr);
+  column-gap: var(--e5);
+  align-items: start;
+}
+
+.salleNombre {
+  font-family: var(--f-lettrine);
+  font-size: var(--t3);
+  line-height: 0.85;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--v3-rubrique);
+  text-align: right;
+}
+
+.salleCorps {
+  display: grid;
+  row-gap: var(--e2);
+  justify-items: start;
+}
+
+.salleNom {
+  font-size: var(--t2);
+  font-weight: 400;
+}
+
+.salleNom a {
+  display: inline-flex;
+  min-height: var(--cible);
+  align-items: flex-start;
+  color: var(--v3-rubrique);
+}
+
+.salleTexte {
+  max-width: 40em;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.5;
+}
+
+.echantillon {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  color: var(--v3-texte);
+}
+
+.echantillonSens,
+.echantillonLecons {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  letter-spacing: 0;
+  color: var(--v3-texte-2);
+}
+
+@media (width < 1024px) {
+  .salle {
+    grid-template-columns: 2.75rem minmax(0, 1fr);
+    column-gap: var(--e3);
+  }
+
+  .salleNombre {
+    font-size: var(--t2);
+  }
+}
+
+/* ------------------------------------------------------------ La formule, sur le champ */
+.glose {
+  row-gap: var(--e6);
+  padding-top: var(--e2);
+}
+
+.formule {
+  font-family: var(--f-chronique);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 72;
+  font-size: min(var(--t5), 5.2rem);
+  line-height: 0.92;
+  letter-spacing: -0.03em;
+  color: var(--ivoire);
+  overflow-wrap: anywhere;
+}
+
+.analyse {
+  padding-top: var(--e2);
+}
+
+.note {
+  display: grid;
+  justify-items: start;
+  row-gap: var(--e2);
+  color: var(--ivoire);
+}
+
+.reponse {
+  display: grid;
+  justify-items: start;
+  row-gap: var(--e1);
+}
+
+.reponseLien {
+  display: inline-flex;
+  min-height: var(--cible);
+  align-items: flex-start;
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  line-height: 1;
+  color: var(--ivoire);
+}
+
+/* Seul le nom valyrien est souligné ; la glose reste dessous, sans trait. */
+.reponseLien,
+.salleNom a {
+  text-decoration-line: none;
+}
+
+.reponseLien :global(.gloss__main),
+.salleNom a :global(.gloss__main) {
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--v3-rubrique);
+}
+
+.reponseLien:hover :global(.gloss__main),
+.reponseLien:focus-visible :global(.gloss__main) {
+  text-decoration-color: var(--braise);
+}
+
+.salleNom a:hover :global(.gloss__main),
+.salleNom a:focus-visible :global(.gloss__main) {
+  text-decoration-color: var(--v3-texte);
+  text-decoration-thickness: 3px;
+}
+
+.reponseLien :global(.gloss__main) {
+  text-decoration-color: var(--cendre);
+}
+
+.formuleTel:first-child {
+  margin-top: 0;
+}
+
+.reponseLien :global(.gloss__tr),
+.salleNom a :global(.gloss__tr) {
+  margin-top: var(--e2);
+}

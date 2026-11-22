@@ -1,0 +1,161 @@
+{
+  "personId": "viserys-fils-aerys-ii",
+  "titles": [
+    {
+      "fr": "Prétendant au Trône de Fer sous le nom de Viserys III",
+      "en": "Claimant to the Iron Throne as Viserys III"
+    },
+    {
+      "fr": "Prince de la maison Targaryen",
+      "en": "Prince of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Fils cadet d'Aerys II, Viserys passa sa vie en exil à réclamer le trône sous le nom de Viserys III et mourut en 298 apr. C. à Vaes Dothrak, couronné d'or fondu par le khal Drogo.",
+    "en": "The younger son of Aerys II, Viserys spent his life in exile claiming the throne as Viserys III and died in 298 AC at Vaes Dothrak, crowned with molten gold by Khal Drogo."
+  },
+  "sections": [
+    {
+      "id": "viserys-fils-aerys-ii-enfance",
+      "heading": {
+        "fr": "Un enfant gardé de près",
+        "en": "A Closely Guarded Child"
+      },
+      "body": {
+        "fr": "Viserys naît à Port-Réal en 276 apr. C., premier enfant d'Aerys II et de Rhaella à survivre depuis Rhaegar, dix-sept ans plus tôt. Le roi, qui a vu mourir trop de fils, le fait garder jour et nuit par la Garde Royale, interdit à la reine de rester seule avec lui, fait brûler les présents envoyés par les seigneurs et exige que son goûteur tète la nourrice. La même année, Tywin Lannister donne en son honneur un tournoi à Port-Lannis, où ni la mère ni l'enfant ne paraissent.\n\nAerys ne le laisse pas assister aux noces de Rhaegar en 280 apr. C. Dans les années qui suivent, on murmure, jusque parmi les gens du roi, qu'Aerys songe à déshériter son aîné au profit de son cadet. Rhaella fait ce qu'elle peut pour tenir l'enfant à l'écart de la folie de son père ; Barristan Selmy croit pourtant reconnaître chez lui, plus tard, les mêmes signes.",
+        "en": "Viserys was born in King's Landing in 276 AC, the first child of Aerys II and Rhaella to survive since Rhaegar, seventeen years earlier. The king, who had seen too many sons die, had him guarded day and night by the Kingsguard, forbade the queen to be alone with him, had the gifts sent by the lords burned, and made his food taster suckle at the wet nurse's breast. That same year Tywin Lannister held a tourney in his honour at Lannisport, at which neither mother nor child appeared.\n\nAerys did not allow him to attend Rhaegar's wedding in 280 AC. In the years that followed it was whispered, even among the king's own men, that Aerys meant to disinherit his elder son in favour of the younger. Rhaella did what she could to keep the boy away from his father's madness; Barristan Selmy nevertheless believed he later saw the same signs in him."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys IV (ch. 23)"
+        }
+      ]
+    },
+    {
+      "id": "viserys-fils-aerys-ii-exil",
+      "heading": {
+        "fr": "La maison à la porte rouge",
+        "en": "The House with the Red Door"
+      },
+      "body": {
+        "fr": "À la mort de Rhaegar au Trident, en 283 apr. C., le roi fait de Viserys son héritier, écartant le petit Aegon, et l'envoie avec la reine à Peyredragon. Quand parvient la nouvelle du sac de Port-Réal, les fidèles de l'île le proclament roi. Rhaella meurt l'année suivante en donnant naissance à Daenerys. La garnison s'apprête à livrer les enfants à Stannis Baratheon quand ser Willem Darry et quatre hommes sûrs les emmènent à Braavos.\n\nIls y vivent dans une maison à la porte rouge, sous la protection du vieux chevalier. Darry signe alors en secret, avec le prince Oberyn Martell et devant le Seigneur de la Mer de Braavos, un pacte qui promet à Viserys la main d'Arianne, fille du prince de Dorne, et l'appui de Dorne pour reconquérir le trône. Viserys, trop jeune, n'en est pas informé et ne le sera jamais. Willem Darry meurt quelques années plus tard ; les domestiques volent ce qui reste d'argent, et les enfants sont mis à la porte.",
+        "en": "When Rhaegar died on the Trident in 283 AC, the king made Viserys his heir, passing over little Aegon, and sent him with the queen to Dragonstone. When news of the sack of King's Landing arrived, the loyalists on the island proclaimed him king. Rhaella died the following year giving birth to Daenerys. The garrison was preparing to hand the children over to Stannis Baratheon when Ser Willem Darry and four trusted men carried them off to Braavos.\n\nThere they lived in a house with a red door under the old knight's protection. Darry then secretly signed, with Prince Oberyn Martell and before the Sealord of Braavos, a pact that promised Viserys the hand of Arianne, daughter of the Prince of Dorne, and Dorne's help in winning back the throne. Viserys, too young, was not told of it and never would be. Willem Darry died a few years later; the servants stole what money was left, and the children were turned out."
+      },
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Daenerys I (ch. 3)"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: The End"
+        },
+        {
+          "id": "affc",
+          "locator": "Princess In The Tower (ch. 40)"
+        }
+      ]
+    },
+    {
+      "id": "viserys-fils-aerys-ii-errance",
+      "heading": {
+        "fr": "Le Roi Gueux",
+        "en": "The Beggar King"
+      },
+      "body": {
+        "fr": "Commence une longue errance de cité libre en cité libre : Myr, Tyrosh, Qohor, Volantis, Lys. Viserys est d'abord reçu par des hommes puissants, puis toléré, puis éconduit. Persuadé que les assassins de l'Usurpateur le suivent, il ne s'attarde nulle part. Il vend un à un les derniers biens de la famille ; quand il doit céder la couronne de sa mère, il ne lui reste que la colère. On l'appelle le Roi Gueux. Il festoie un jour les capitaines de la Compagnie Dorée pour les gagner à sa cause : ils mangent, écoutent et se moquent de lui.\n\nIl apprend à sa sœur l'histoire de leur maison et de Westeros, mais il la rend responsable de la mort de leur mère, la frappe et la menace dès qu'elle lui déplaît, en l'avertissant de ne pas « réveiller le dragon ». Vers 297 apr. C., le magistrat Illyrio Mopatis les accueille à Pentos et promet de l'aider à reconquérir le trône.",
+        "en": "A long wandering began, from one Free City to the next: Myr, Tyrosh, Qohor, Volantis, Lys. Viserys was at first received by powerful men, then tolerated, then turned away. Convinced that the Usurper's assassins were following him, he stayed nowhere for long. He sold the family's last possessions one by one; when he had to part with his mother's crown, nothing was left to him but rage. He was called the Beggar King. Once he feasted the captains of the Golden Company to win them to his cause: they ate, listened and laughed at him.\n\nHe taught his sister the history of their house and of Westeros, but he blamed her for their mother's death, struck her and threatened her whenever she displeased him, warning her not to “wake the dragon”. Around 297 AC the magister Illyrio Mopatis took them in at Pentos and promised to help him win back the throne."
+      },
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Daenerys I (ch. 3)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Tyrion II (ch. 5)"
+        }
+      ]
+    },
+    {
+      "id": "viserys-fils-aerys-ii-mort",
+      "heading": {
+        "fr": "Une couronne d'or",
+        "en": "A Crown of Gold"
+      },
+      "body": {
+        "fr": "Illyrio arrange le mariage de Daenerys avec le khal Drogo, et Viserys compte en échange sur une armée dothrak pour reprendre les Sept Couronnes. Il suit le khalasar, mais le khal ne montre aucune hâte, et Viserys supporte mal de voir sa sœur gagner l'estime des Dothraki pendant qu'il perd la sienne. Le jour où il la frappe devant eux, elle le fait ramener au camp à pied, humiliation qu'il ne lui pardonne pas.\n\nÀ Vaes Dothrak, la cité sainte où nul ne doit verser le sang, Viserys, ivre, tire l'épée pendant un festin, menace Daenerys, enceinte, et exige la couronne qu'on lui a promise. Drogo la lui accorde : il fait fondre les médaillons d'or de sa ceinture et les lui verse sur la tête. Viserys meurt en 298 apr. C., à vingt-deux ans. Daenerys, témoin de sa mort, en conclut que son frère n'avait jamais eu du dragon que le nom.",
+        "en": "Illyrio arranged Daenerys's marriage to Khal Drogo, and in return Viserys counted on a Dothraki army to retake the Seven Kingdoms. He followed the khalasar, but the khal showed no haste, and Viserys could not bear to see his sister win the Dothraki's esteem while he lost his own. The day he struck her in front of them, she had him brought back to camp on foot, a humiliation he never forgave.\n\nAt Vaes Dothrak, the holy city where no blood may be shed, a drunken Viserys drew his sword at a feast, threatened the pregnant Daenerys and demanded the crown he had been promised. Drogo granted it: he had the gold medallions of his belt melted and poured over his head. Viserys died in 298 AC, aged twenty-two. Daenerys, who witnessed his death, concluded that her brother had never been a dragon in anything but name."
+      },
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Daenerys II (ch. 11)"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys III (ch. 23)"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys V (ch. 46)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p7-port-lannis",
+    "p7-sac",
+    "p7-naissance-daenerys",
+    "p7-exil",
+    "p8-noces-oeufs",
+    "p8-mort-viserys"
+  ],
+  "warIds": [
+    "rebellion-de-robert"
+  ],
+  "disputed": {
+    "fr": "Le pacte secret avec Dorne n'est connu que par ce qu'en disent, bien après sa mort, Doran Martell à sa fille et Quentyn Martell à Daenerys. L'idée qu'il avait hérité la folie de son père est une opinion de Barristan Selmy, non un fait établi. L'année de son installation à Pentos est approximative.",
+    "en": "The secret pact with Dorne is known only from what Doran Martell tells his daughter and Quentyn Martell tells Daenerys, long after his death. The idea that he had inherited his father's madness is Barristan Selmy's opinion, not an established fact. The year he settled in Pentos is approximate."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Fall of the Dragons: The End"
+    },
+    {
+      "id": "agot",
+      "locator": "Daenerys I (ch. 3)"
+    },
+    {
+      "id": "agot",
+      "locator": "Daenerys II (ch. 11)"
+    },
+    {
+      "id": "agot",
+      "locator": "Daenerys III (ch. 23)"
+    },
+    {
+      "id": "agot",
+      "locator": "Daenerys V (ch. 46)"
+    },
+    {
+      "id": "affc",
+      "locator": "Princess In The Tower (ch. 40)"
+    },
+    {
+      "id": "adwd",
+      "locator": "Daenerys IV (ch. 23)"
+    }
+  ]
+}

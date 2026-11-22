@@ -1,0 +1,200 @@
+{
+  "personId": "jaehaerys-i",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+      "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+    }
+  ],
+  "lead": {
+    "fr": "Quatrième roi Targaryen, Jaehaerys Ier gouverna cinquante-cinq ans, de 48 à 103 apr. C., et donna au royaume conquis par son grand-père des lois, des routes et une paix durable.",
+    "en": "The fourth Targaryen king, Jaehaerys I ruled for fifty-five years, from 48 to 103 AC, and gave the realm his grandfather had conquered its laws, its roads and a lasting peace."
+  },
+  "sections": [
+    {
+      "id": "jaehaerys-i-enfance",
+      "heading": {
+        "fr": "Un enfant sous Maegor",
+        "en": "A Boy Under Maegor"
+      },
+      "body": {
+        "fr": "Jaehaerys naît à Port-Réal en 34 apr. C., troisième fils d'Aenys Ier et d'Alyssa Velaryon. Sa sœur aînée Rhaena avait déposé un œuf dans son berceau ; c'est de cet œuf, rapporte la chronique, que sortit Vermithor. Il a huit ans quand son père meurt, en 42 apr. C., et que son oncle Maegor prend la couronne au détriment des fils d'Aenys.\n\nLes années suivantes sont celles d'un otage. Retenu à Peyredragon avec sa mère et sa sœur Alysanne sous la garde de la reine douairière Visenya, il s'enfuit en 44 apr. C., à la mort de celle-ci, en emmenant les deux jeunes dragons et l'épée Sœur Noire. Maegor se venge sur son frère Viserys, resté à la cour, qui meurt sous la torture. En 47 apr. C., le roi le déshérite. L'année suivante, Jaehaerys revendique le trône depuis Accalmie avec l'appui de lord Rogar Baratheon, et un royaume las de Maegor se range peu à peu derrière lui.",
+        "en": "Jaehaerys was born in King's Landing in 34 AC, the third son of Aenys I and Alyssa Velaryon. His elder sister Rhaena had laid an egg in his cradle, and from that egg, the chronicle says, came Vermithor. He was eight when his father died in 42 AC and his uncle Maegor took the crown over the claims of Aenys's sons.\n\nThe years that followed were those of a hostage. Held on Dragonstone with his mother and his sister Alysanne in the keeping of the dowager queen Visenya, he fled in 44 AC upon her death, taking the two young dragons and the sword Dark Sister with him. Maegor took his revenge on Jaehaerys's brother Viserys, who had stayed at court and died under torture. In 47 AC the king disinherited Jaehaerys. The next year Jaehaerys claimed the throne from Storm's End with the backing of Lord Rogar Baratheon, and a realm weary of Maegor gradually came over to him."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maegor I"
+        }
+      ]
+    },
+    {
+      "id": "jaehaerys-i-minorite",
+      "heading": {
+        "fr": "Une minorité disputée",
+        "en": "A Contested Minority"
+      },
+      "body": {
+        "fr": "Maegor est trouvé mort sur le Trône de Fer en 48 apr. C., et Jaehaerys entre à Port-Réal sur Vermithor, en avant de l'armée de lord Rogar. Il a quatorze ans. Sa mère gouverne comme régente, Rogar comme Main du Roi et protecteur du royaume. Le jeune roi pardonne largement aux hommes de Maegor et ne réserve la mort qu'aux bourreaux et aux geôliers de son frère. Couronné à Villevieille par le Grand Septon, il lève les primes mises par Maegor sur les ordres armés de la Foi et pardonne à ceux qui déposent l'épée ; la Foi, en retour, renonce à juger les siens et s'en remet à la justice du trône.\n\nLe mariage fut sa première épreuve. Apprenant que le conseil destinait Alysanne à un frère de Rogar, il l'épousa en secret à Peyredragon en 49 apr. C. Rogar tenta de faire annuler l'union, puis de lui substituer sur le trône la princesse Aerea ; il y perdit sa charge. Jaehaerys prit le pouvoir à sa majorité, en 50 apr. C.",
+        "en": "Maegor was found dead on the Iron Throne in 48 AC, and Jaehaerys entered King's Landing on Vermithor, ahead of Lord Rogar's army. He was fourteen. His mother governed as regent, Rogar as Hand of the King and Protector of the Realm. The young king pardoned Maegor's men freely and kept death for his brother's torturers and gaolers alone. Crowned in Oldtown by the High Septon, he lifted the bounties Maegor had set on the Faith's armed orders and pardoned all who laid down their swords; in return the Faith gave up judging its own and accepted the justice of the throne.\n\nHis marriage was his first test. Learning that the council meant to give Alysanne to one of Rogar's brothers, he married her in secret on Dragonstone in 49 AC. Rogar tried to have the union undone, and then to put Princess Aerea on the throne in his place; it cost him his office. Jaehaerys took power in his own right when he came of age in 50 AC."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Prince into King: The Ascension of Jaehaerys I"
+        },
+        {
+          "id": "fab",
+          "locator": "The Year of the Three Brides: 49 AC"
+        },
+        {
+          "id": "fab",
+          "locator": "A Surfeit of Rulers"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "jaehaerys-i-gouverner",
+      "heading": {
+        "fr": "Gouverner un royaume conquis",
+        "en": "Governing a Conquered Realm"
+      },
+      "body": {
+        "fr": "Le règne personnel commence par les comptes : le trésor était vide ; Jaehaerys confia les finances à un Pentoshi, Rego Draz, taxa les marchandises de luxe et les créneaux des châteaux neufs, et put reprendre les travaux de Fossedragon. Plutôt que d'affronter la Foi sur son mariage, il fit prêcher que le sang de Valyria plaçait sa maison hors de la règle commune. La doctrine passa sans révolte.\n\nAvec le septon Barth, son ami, bientôt Main du Roi, et avec la reine, il entreprit en 55 apr. C. de réunir les lois des Sept Couronnes en un seul code, travail de plusieurs décennies. À partir de 62 apr. C., il fit tracer des routes, dont la route Royale. En 83 apr. C., avec ses fils Aemon et Baelon, il brûla la flotte du prince Morion Martell avant qu'elle ne touche la côte : une guerre gagnée en un jour. Selon les archimestres, la population du royaume au nord de Dorne doubla sous son règne.",
+        "en": "His personal rule began with the accounts. The treasury was empty; Jaehaerys gave the finances to a Pentoshi, Rego Draz, taxed luxury goods and the crenellations of new castles, and was able to resume work on the Dragonpit. Rather than confront the Faith over his marriage, he had it preached that the blood of Valyria set his house outside the common rule. The doctrine was accepted without revolt.\n\nWith Septon Barth, his friend and later his Hand, and with the queen, he set out in 55 AC to gather the laws of the Seven Kingdoms into a single code, a labour of several decades. From 62 AC he had roads laid, the kingsroad among them. In 83 AC, with his sons Aemon and Baelon, he burned Prince Morion Martell's fleet before it could reach the shore: a war won in a single day. By the archmaesters' reckoning, the population of the realm north of Dorne doubled during his reign."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "A Time of Testing: The Realm Remade"
+        },
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        },
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "jaehaerys-i-deuils",
+      "heading": {
+        "fr": "Le roi et ses enfants",
+        "en": "The King and His Children"
+      },
+      "body": {
+        "fr": "Alysanne lui donna treize enfants. Plusieurs moururent au berceau ; Daenerys fut emportée à six ans par l'épidémie de 60 apr. C. Entre 82 et 87 apr. C., trois filles moururent encore, Daella et Alyssa des suites de leurs couches, Viserra lors d'une course nocturne à travers la ville. Saera, compromise en 84 apr. C. dans un scandale puis enfuie à Lys, fut reniée par son père. Vers son cinquantième anniversaire, en 84 apr. C., on commença à l'appeler le Vieux Roi plutôt que le Conciliateur.\n\nCes deuils séparèrent deux fois le couple royal. La première querelle, de 87 à 89 apr. C., naquit du refus de rappeler Saera. La seconde suivit la mort d'Aemon, en 92 apr. C. : Jaehaerys désigna pour héritier son fils Baelon plutôt que Rhaenys, la fille d'Aemon. La reine tenait ce choix pour fondé sur le seul sexe de leur petite-fille et se retira à Peyredragon pendant deux ans. Ils se réconcilièrent sans jamais s'accorder sur le fond.",
+        "en": "Alysanne bore him thirteen children. Several died in the cradle; Daenerys was taken at six by the sickness of 60 AC. Between 82 and 87 AC three more daughters died, Daella and Alyssa of the consequences of childbirth, Viserra during a night race through the city. Saera, compromised in a scandal in 84 AC and then fled to Lys, was disowned by her father. Around his fiftieth nameday, in 84 AC, men began to call him the Old King rather than the Conciliator.\n\nThese losses twice divided the royal couple. The first quarrel, from 87 to 89 AC, arose from his refusal to recall Saera. The second followed Aemon's death in 92 AC: Jaehaerys named his son Baelon heir in preference to Rhaenys, Aemon's daughter. The queen held that the choice rested on nothing but their granddaughter's sex and withdrew to Dragonstone for two years. They were reconciled without ever agreeing on the substance."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "jaehaerys-i-fin",
+      "heading": {
+        "fr": "Le Grand Conseil et la mort",
+        "en": "The Great Council and the End"
+      },
+      "body": {
+        "fr": "La reine meurt en 100 apr. C., Baelon l'année suivante. Pour éviter que la succession ne se règle par les armes entre Rhaenys et Viserys, le roi fait venir son dernier fils, l'archimestre Vaegon, qui lui conseille de s'en remettre aux seigneurs. Le Grand Conseil se tient à Harrenhal en 101 apr. C. ; Jaehaerys n'y va pas, mais il accepte le verdict et fait de Viserys son héritier.\n\nSes dernières années sont celles d'un vieillard alité. Otto Hightower gouverne comme Main ; sa fille Alicent veille le roi et lui fait la lecture, et il la prend parfois pour l'une de ses filles, à la fin pour Saera. Il meurt en 103 apr. C., à soixante-neuf ans, après le plus long règne de la dynastie. Ses cendres rejoignent celles d'Alysanne à Peyredragon. Le royaume qu'il laisse est en paix ; la question de succession, qu'il avait tranchée par un conseil et non par une loi, reste ouverte.",
+        "en": "The queen died in 100 AC, Baelon the following year. To keep the succession from being settled by arms between Rhaenys and Viserys, the king sent for his last son, Archmaester Vaegon, who advised him to leave the matter to the lords. The Great Council met at Harrenhal in 101 AC; Jaehaerys did not attend, but he accepted the verdict and made Viserys his heir.\n\nHis last years were those of a bedridden old man. Otto Hightower governed as Hand; his daughter Alicent tended the king and read to him, and he sometimes took her for one of his daughters, at the very end for Saera. He died in 103 AC, aged sixty-nine, after the longest reign of the dynasty. His ashes were laid with Alysanne's on Dragonstone. He left a realm at peace; the question of succession, which he had settled by a council rather than a law, remained open."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "vermithor"
+  ],
+  "eventIds": [
+    "p4-mort-maegor",
+    "p4-jaehaerys-alysanne",
+    "p4-aerea-balerion",
+    "p4-voyage-nord",
+    "p4-mort-aemon",
+    "p4-grand-conseil-101",
+    "p4-avenement-viserys"
+  ],
+  "warIds": [
+    "soulevement-foi-militante"
+  ],
+  "disputed": {
+    "fr": "La mort de Maegor, qui ouvre le règne, n'a jamais été expliquée : meurtre ou suicide. Le résultat du Grand Conseil de 101 apr. C. n'est connu que par la rumeur d'un vote à vingt contre un, les mestres n'ayant pas publié le décompte. Le bouffon Champignon insinue que la jeune Alicent Hightower était pour le vieux roi plus qu'une garde-malade ; aucun autre témoin ne le dit. Un libelle attribué à Coryanne Wylde affirme que Rogar Baratheon l'avait chargée de séduire le roi pendant sa minorité ; l'attribution même du texte est incertaine.",
+    "en": "Maegor's death, which opened the reign, has never been explained: murder or suicide. The outcome of the Great Council of 101 AC is known only through the rumour of a vote of twenty to one, since the maesters never published the count. The fool Mushroom hints that young Alicent Hightower was more to the old king than a nurse; no other witness says so. A pamphlet attributed to Coryanne Wylde claims that Rogar Baratheon had charged her with seducing the king during his minority; even its authorship is uncertain."
+  },
+  "adaptation": {
+    "fr": "Dans House of the Dragon, Jaehaerys préside en personne le Grand Conseil de Harrenhal et y annonce le choix de Viserys. Dans les livres, il reste à Port-Réal et se contente d'entériner le vote.",
+    "en": "In House of the Dragon, Jaehaerys presides over the Great Council at Harrenhal in person and announces the choice of Viserys there. In the books he stays in King's Landing and merely confirms the vote."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Prince into King: The Ascension of Jaehaerys I"
+    },
+    {
+      "id": "fab",
+      "locator": "The Year of the Three Brides: 49 AC"
+    },
+    {
+      "id": "fab",
+      "locator": "A Time of Testing: The Realm Remade"
+    },
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys I"
+    },
+    {
+      "id": "hotd",
+      "locator": "saison 1, épisode 1"
+    }
+  ]
+}

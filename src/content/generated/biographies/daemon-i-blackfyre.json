@@ -1,0 +1,164 @@
+{
+  "personId": "daemon-i-blackfyre",
+  "titles": [
+    {
+      "fr": "Prétendant au Trône de Fer sous le nom de Daemon Ier",
+      "en": "Claimant to the Iron Throne as Daemon I"
+    },
+    {
+      "fr": "Chevalier, porteur de l'épée Feunoyr",
+      "en": "Knight, bearer of the sword Blackfyre"
+    }
+  ],
+  "lead": {
+    "fr": "Fils bâtard d'Aegon IV et de la princesse Daena, légitimé en 184 apr. C., Daemon Feunoyr revendiqua en 196 apr. C. le trône de son demi-frère Daeron II et mourut au Champ d'Herberouge, laissant une lignée de prétendants.",
+    "en": "The bastard son of Aegon IV and Princess Daena, legitimised in 184 AC, Daemon Blackfyre claimed the throne of his half-brother Daeron II in 196 AC and died on the Redgrass Field, leaving a line of pretenders."
+  },
+  "sections": [
+    {
+      "id": "daemon-i-blackfyre-jeunesse",
+      "heading": {
+        "fr": "Daemon Waters",
+        "en": "Daemon Waters"
+      },
+      "body": {
+        "fr": "Daemon naît à la fin de 170 apr. C., fils de la princesse Daena, alors recluse au Donjon Rouge. Sa mère lui donne le nom de son propre grand-père, le prince Daemon de la Danse, et refuse de nommer le père ; on soupçonne déjà son cousin Aegon. L'enfant porte le nom que reçoivent les bâtards des terres de la Couronne, Waters.\n\nÉlevé au Donjon Rouge, il reçoit l'enseignement des mestres et celui de ser Quentyn Boule, le maître d'armes, aux côtés des autres bâtards du roi et des fils de Daeron. Les armes sont son élément. Vers 182 apr. C., à douze ans, il remporte un tournoi d'écuyers ; Aegon IV, devenu roi, l'arme chevalier sur-le-champ et lui remet en public Feunoyr, l'épée du Conquérant. Daemon devient le plus jeune chevalier de l'époque targaryenne et prend le nom de son épée.\n\nLe geste choque la cour. L'épée que les rois se transmettaient venait d'échoir à un bâtard ; pour beaucoup, elle désignait un héritier.",
+        "en": "Daemon was born late in 170 AC, the son of Princess Daena, then confined in the Red Keep. His mother named him after her own grandfather, Prince Daemon of the Dance, and refused to name the father; her cousin Aegon was already suspected. The child bore the name given to bastards of the crownlands, Waters.\n\nRaised in the Red Keep, he was taught by the maesters and by Ser Quentyn Ball, the master-at-arms, alongside the king's other bastards and Daeron's sons. Arms were his element. Around 182 AC, at twelve, he won a squires' tourney; Aegon IV, by then king, knighted him on the spot and publicly gave him Blackfyre, the Conqueror's sword. Daemon became the youngest knight of the Targaryen era and took the name of his sword.\n\nThe gesture shocked the court. The sword the kings had handed down had just passed to a bastard; to many, it marked out an heir."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        }
+      ]
+    },
+    {
+      "id": "daemon-i-blackfyre-prince",
+      "heading": {
+        "fr": "Le prince légitimé",
+        "en": "The Legitimised Prince"
+      },
+      "body": {
+        "fr": "En 184 apr. C., sur son lit de mort, Aegon IV légitime tous ses bâtards. Daeron II les traite avec égards. Il paie la dot promise à l'archonte de Tyrosh et marie Daemon, la même année, à sa fille Rohanne ; il lui donne une terre au bord de la Néra où élever un château. Le couple a des jumeaux, Aegon et Aemon, dès 184 apr. C., puis d'autres fils et au moins deux filles.\n\nLes sources ne s'accordent pas sur les sentiments de Daemon. Selon un récit, il aimait la princesse Daenerys, sa demi-sœur, et en était aimé ; le mariage tyroshi lui fut imposé. Selon un autre, il s'en accommodait, persuadé qu'on lui permettrait plusieurs épouses, comme au Conquérant et à Maegor. Daenerys épousa en 187 apr. C. le prince Maron de Dorne. Au tournoi des noces, Daemon fut désarçonné en finale par le fils aîné du roi, qui y gagna son surnom de Briselance.\n\nGrand, beau, à l'aise avec chacun, Daemon passait pour le premier chevalier de son temps.",
+        "en": "In 184 AC, on his deathbed, Aegon IV legitimised all his bastards. Daeron II treated them with respect. He paid the dowry promised to the Archon of Tyrosh and married Daemon to the archon's daughter Rohanne that same year; he gave him land on the Blackwater where he might raise a castle. The couple had twins, Aegon and Aemon, in 184 AC, then more sons and at least two daughters.\n\nThe sources disagree about Daemon's feelings. By one account he loved Princess Daenerys, his half-sister, and was loved in return; the Tyroshi match was forced on him. By another he accepted it, convinced he would be allowed several wives, as the Conqueror and Maegor had been. In 187 AC Daenerys married Prince Maron of Dorne. At the wedding tourney Daemon was unhorsed in the final tilt by the king's eldest son, who won there his name of Breakspear.\n\nTall, handsome, at ease with everyone, Daemon was held to be the foremost knight of his day."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        }
+      ]
+    },
+    {
+      "id": "daemon-i-blackfyre-revendication",
+      "heading": {
+        "fr": "Le dragon noir",
+        "en": "The Black Dragon"
+      },
+      "body": {
+        "fr": "Pendant des années, des seigneurs mécontents de la paix dornienne, de l'influence des Martell et des doutes sur la naissance de Daeron viennent trouver Daemon. Il hésite longtemps. Mestre Yandel pense que c'est son demi-frère Aegor Rivers qui finit par le décider ; le roi Maekar désignera aussi ser Quentyn Boule. Daemon promet à Aegor la main de sa fille aînée, Calla, et Aegor redouble d'efforts.\n\nLa décision, prise à la hâte, parvient aux oreilles du roi. La Garde Royale est envoyée arrêter le prince ; il lui échappe avec l'aide du maître d'armes, et ses partisans font de cette tentative la preuve de la tyrannie de Daeron. En 196 apr. C., Daemon se proclame roi. Il prend les armes des Targaryen aux couleurs inversées, un dragon noir sur champ rouge.\n\nLe royaume se divise, parfois au sein d'une même famille, et plusieurs maisons envoient des fils dans les deux camps. La guerre dure près d'un an ; on se bat dans le Val, dans l'Ouest, dans le Conflans et dans le Bief.",
+        "en": "For years, lords discontented with the Dornish peace, with the Martells' influence and with the doubts about Daeron's birth came to Daemon. He hesitated a long time. Maester Yandel thinks it was his half-brother Aegor Rivers who finally decided him; King Maekar would also name Ser Quentyn Ball. Daemon promised Aegor the hand of his eldest daughter, Calla, and Aegor redoubled his efforts.\n\nThe decision, taken in haste, reached the king's ears. The Kingsguard was sent to arrest the prince; he escaped them with the master-at-arms' help, and his partisans turned the attempt into proof of Daeron's tyranny. In 196 AC Daemon proclaimed himself king. He took the Targaryen arms with the colours reversed, a black dragon on a red field.\n\nThe realm divided, sometimes within a single family, and several houses sent sons to both sides. The war lasted nearly a year, with fighting in the Vale, the westerlands, the riverlands and the Reach."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        }
+      ]
+    },
+    {
+      "id": "daemon-i-blackfyre-herberouge",
+      "heading": {
+        "fr": "Le Champ d'Herberouge",
+        "en": "The Redgrass Field"
+      },
+      "body": {
+        "fr": "La rébellion se décide à la fin de 196 apr. C., sur le terrain qu'on appellera le Champ d'Herberouge. Daemon enfonce l'avant-garde de lord Donnel Arryn, puis affronte ser Gwayne Corbray, de la Garde Royale, acier valyrien contre acier valyrien, pendant près d'une heure dit-on. Vainqueur, il met pied à terre pour faire emporter le blessé.\n\nPendant ce temps, Brynden Rivers et ses archers, les Dents de Freux, gagnent la Crête-en-Pleurs, qui domine le champ. Leurs flèches tuent d'abord Aegon, l'aîné de Daemon, puis Daemon lui-même, puis Aemon, le jumeau, qui avait ramassé l'épée. Aegor Rivers relève Feunoyr et tente une dernière charge, avant que Baelor et Maekar n'écrasent les rebelles.\n\nAegor emmène au-delà de la mer Étroite la veuve, les fils survivants et l'épée. Seize ans plus tard, des fidèles venaient encore planter des fleurs à l'endroit où Daemon était tombé. Sa lignée revendiqua le trône jusqu'à la mort de Maelys, en 260 apr. C.",
+        "en": "The rebellion was decided late in 196 AC, on the ground that would be called the Redgrass Field. Daemon broke the vanguard of Lord Donnel Arryn, then fought Ser Gwayne Corbray of the Kingsguard, Valyrian steel against Valyrian steel, for close to an hour, it is said. Victorious, he dismounted to have the wounded man carried off.\n\nMeanwhile Brynden Rivers and his archers, the Raven's Teeth, gained the Weeping Ridge, which overlooked the field. Their arrows killed first Aegon, Daemon's eldest, then Daemon himself, then Aemon, the twin, who had taken up the sword. Aegor Rivers raised Blackfyre and attempted a last charge, before Baelor and Maekar crushed the rebels.\n\nAegor carried the widow, the surviving sons and the sword across the narrow sea. Sixteen years later, loyalists still came to plant flowers where Daemon had fallen. His line claimed the throne until the death of Maelys in 260 AC."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        },
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow, the trial of seven"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-baelor",
+    "p6-aegon-iv",
+    "p6-union-dorne",
+    "p6-herberouge",
+    "p6-neuf-sous"
+  ],
+  "warIds": [
+    "rebellion-feunoyr-1"
+  ],
+  "disputed": {
+    "fr": "Les motifs de Daemon sont discutés : ses partisans invoquèrent son amour pour Daenerys, donnée au prince de Dorne, mais la rébellion n'éclata que des années après ce mariage. On ignore s'il désirait le mariage tyroshi ou s'il croyait pouvoir prendre deux épouses, promesse qu'Aegon IV lui aurait faite selon certains de ses partisans. Ceux qui le poussèrent à se déclarer ne sont pas nommés de la même façon par mestre Yandel et par le roi Maekar. Son adoubement se place en 182 ou en 183 apr. C.",
+    "en": "Daemon's motives are debated: his partisans spoke of his love for Daenerys, given to the Prince of Dorne, yet the rebellion broke out years after that marriage. It is not known whether he wanted the Tyroshi match or believed he could take two wives, a promise Aegon IV had made him according to some of his supporters. Maester Yandel and King Maekar do not name the same men as having pushed him to declare. His knighting falls in 182 or 183 AC."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon IV"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Baelor I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+      "id": "tss",
+      "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+    },
+    {
+      "id": "tmk",
+      "locator": "Whitewalls"
+    },
+    {
+      "id": "thk",
+      "locator": "Ashford Meadow, the trial of seven"
+    }
+  ]
+}

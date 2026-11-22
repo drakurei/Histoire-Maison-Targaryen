@@ -85,6 +85,10 @@
     { "key": "compare.intro", "fr": "Le même fonds et les mêmes textes, mis en page de trois façons. Ouvrez chaque version et jugez sur pièces.", "en": "The same collection and the same texts, laid out in three ways. Open each version and judge for yourself." },
     { "key": "version.1.name", "fr": "Le Codex", "en": "The Codex" },
     { "key": "version.2.name", "fr": "La Table peinte", "en": "The Painted Table" },
-    { "key": "version.3.name", "fr": "L’Édition ultime", "en": "The Definitive Edition" }
+    { "key": "version.3.name", "fr": "L’Édition ultime", "en": "The Definitive Edition" },
+    { "key": "compare.version.1.what", "fr": "Un livre posé sur la pierre. Huit volumes en dos de cuir, des feuilles de vélin, des titres rubriqués, les sources dans la marge. La feuille se tourne d’un volume à l’autre.", "en": "A book laid on stone. Eight leather-bound volumes, vellum leaves, rubricated titles, sources in the margin. The leaf turns from one volume to the next." },
+    { "key": "compare.version.2.what", "fr": "Les armes de la Maison : un champ noir traversé d’une fasce rouge. Son épaisseur est le nombre de dragons vivants, année après année ; on y règle l’année, et chaque page répond pour elle. Aucun vélin, aucune lettrine.", "en": "The arms of the House: a black field crossed by a red fess. Its thickness is the number of living dragons, year by year; you set the year on it, and every page answers for that year. No vellum, no drop caps." },
+    { "key": "compare.version.3.what", "fr": "Les deux premières réunies : le champ et la fasce pour trouver, la feuille de vélin pour lire. La carte, l’année et le profil des dragons restent à côté du texte.", "en": "The first two brought together: the field and the fess to find your way, the vellum leaf to read. The map, the year and the dragon profile stay beside the text." },
+    { "key": "compare.default", "fr": "Édition par défaut : c’est elle qui s’ouvre à l’adresse du site.", "en": "Default edition: this is the one that opens at the site’s address." }
   ]
 }

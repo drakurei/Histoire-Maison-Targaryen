@@ -43,6 +43,14 @@ export default defineConfig({
               test: /node_modules[\\/](?:gsap|@gsap)[\\/]/,
               priority: 10,
             },
+            // Chaque jeu de contenu dans son propre bloc, avec son module de lecture. Sans cela,
+            // les petits modules partagés par les mêmes pages (marques, format des années)
+            // sont fondus dans le bloc des chroniques et le tirent partout où ils servent.
+            {
+              name: (id: string) => /src[\\/](?:core[\\/]content|content[\\/]generated)[\\/](\w+)\.(?:ts|json)$/.exec(id)?.[1] ?? null,
+              test: /src[\\/](?:core[\\/]content[\\/](?:timeline|people|dragons|wars|places|language|paths|sources|search)\.ts|content[\\/]generated[\\/]\w+\.json)$/,
+              priority: 5,
+            },
           ],
         },
       },

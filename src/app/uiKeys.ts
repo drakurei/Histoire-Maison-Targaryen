@@ -36,4 +36,12 @@ export const UI = {
     'version-2': 'version.2.name',
     'version-3': 'version.3.name',
   },
+  /** Ce qu'est chaque version, en deux ou trois phrases. */
+  versionWhat: {
+    'version-1': 'compare.version.1.what',
+    'version-2': 'compare.version.2.what',
+    'version-3': 'compare.version.3.what',
+  },
+  /** Mention de la version ouverte à la racine (DEFAULT_VERSION). */
+  compareDefault: 'compare.default',
 } as const satisfies Record<string, string | Record<VersionId, string>>;

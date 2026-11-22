@@ -1,0 +1,120 @@
+{
+  "personId": "elaena-fille-aegon-iii",
+  "titles": [
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    },
+    {
+      "fr": "Lady Plumm, puis lady Penrose",
+      "en": "Lady Plumm, later Lady Penrose"
+    }
+  ],
+  "lead": {
+    "fr": "Dernière des enfants d'Aegon III, Elaena survécut à ses frères et sœurs, se maria trois fois et tint sous Daeron II, sans en porter le titre, la gestion des finances du royaume.",
+    "en": "The youngest child of Aegon III, Elaena outlived her brothers and sisters, married three times and, under Daeron II, managed the realm's finances without bearing the title."
+  },
+  "sections": [
+    {
+      "id": "elaena-fille-aegon-iii-jeunesse",
+      "heading": {
+        "fr": "La cadette du Maidenvault",
+        "en": "The Youngest of the Maidenvault"
+      },
+      "body": {
+        "fr": "Elaena naît en 150 apr. C., dernière des cinq enfants d'Aegon III et de Daenaera Velaryon. Elle a onze ans quand son frère Baelor devient roi et l'enferme, avec Daena et Rhaena, dans un pavillon du Donjon Rouge, le futur Maidenvault. Les princesses protestent, la Main elle-même plaide pour elles ; le roi ne cède pas. La réclusion dure jusqu'à sa mort, en 171 apr. C.\n\nÀ la sortie, les droits d'Elaena sont écartés comme ceux de ses sœurs, et la couronne passe à leur oncle Viserys II, puis, un an plus tard, à son cousin Aegon IV. Elaena a vingt et un ans. Elle n'a ni mari, ni terres, ni appuis.\n\nLes chroniques lui reconnaissent une intelligence vive et un talent particulier pour l'argent. Ce trait, rare chez une princesse dont on n'attendait que des alliances, fera plus tard sa place à la cour.",
+        "en": "Elaena was born in 150 AC, the last of the five children of Aegon III and Daenaera Velaryon. She was eleven when her brother Baelor became king and shut her away, with Daena and Rhaena, in a building of the Red Keep, the future Maidenvault. The princesses protested, the Hand himself pleaded for them; the king would not yield. The confinement lasted until his death in 171 AC.\n\nWhen it ended, Elaena's claims were set aside like her sisters', and the crown passed to their uncle Viserys II and, a year later, to her cousin Aegon IV. Elaena was twenty-one. She had no husband, no lands and no allies.\n\nThe chronicles credit her with a quick mind and a particular gift for money. That trait, rare in a princess of whom nothing but alliances was expected, would later win her a place at court."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys II"
+        }
+      ]
+    },
+    {
+      "id": "elaena-fille-aegon-iii-amours",
+      "heading": {
+        "fr": "Alyn Velaryon et lord Plumm",
+        "en": "Alyn Velaryon and Lord Plumm"
+      },
+      "body": {
+        "fr": "Libre, Elaena vécut ce que les chroniques présentent comme la grande passion de sa vie, avec son cousin Alyn Velaryon, le marin surnommé Poing-de-Chêne. Elle lui donna des jumeaux, Jon et Jeyne Waters, et espérait l'épouser. Alyn disparut en mer. Un an plus tard, renonçant à le revoir, elle accepta un autre mari.\n\nEn 176 apr. C., sous Aegon IV, elle épouse lord Ossifer Plumm, riche et âgé, qui meurt la nuit même des noces. Elaena se trouve enceinte et met au monde un fils, Viserys Plumm. Personne n'osa dire tout haut ce que beaucoup pensaient : que l'enfant n'était pas d'Ossifer, mais du roi son cousin, dont on connaissait les appétits. La rumeur prête aussi à Aegon IV d'avoir voulu profiter de cette mort pour mettre la main sur l'héritage des Plumm.\n\nRien de cela n'a été prouvé. Le fils posthume porta le nom de Plumm ; un de ses descendants passa la mer Étroite et fut l'ancêtre du mercenaire Ben Plumm, que Daenerys rencontre devant Yunkaï.",
+        "en": "Once free, Elaena lived what the chronicles present as the great passion of her life, with her cousin Alyn Velaryon, the seaman called Oakenfist. She bore him twins, Jon and Jeyne Waters, and hoped to marry him. Alyn was lost at sea. A year later, giving up hope of seeing him again, she accepted another husband.\n\nIn 176 AC, under Aegon IV, she married Lord Ossifer Plumm, rich and old, who died on the wedding night itself. Elaena found herself with child and bore a son, Viserys Plumm. No one dared say aloud what many thought: that the child was not Ossifer's but the king's, her cousin, whose appetites were well known. Rumour also credits Aegon IV with using this death to lay hands on the Plumm inheritance.\n\nNone of this was ever proved. The posthumous son bore the name Plumm; one of his descendants crossed the narrow sea and was the ancestor of the sellsword Ben Plumm, whom Daenerys meets before Yunkai."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "asos",
+          "locator": "Daenerys V (ch. 57)"
+        }
+      ]
+    },
+    {
+      "id": "elaena-fille-aegon-iii-cour",
+      "heading": {
+        "fr": "Les comptes du royaume",
+        "en": "The Realm's Accounts"
+      },
+      "body": {
+        "fr": "Sous Daeron II, Elaena épouse lord Ronnel Penrose, que le roi fait maître des monnaies. Le titre est à lui, le travail à elle : chacun savait à la cour que Ronnel n'avait guère le sens des chiffres et que sa femme tenait les comptes. Daeron II lui confia d'autres affaires d'État, et son influence grandit. Elle donna quatre enfants à Ronnel, ce qui portait à sept le nombre des siens.\n\nVeuve, elle se remaria une troisième fois, par inclination et avec la bénédiction du roi, avec ser Michael Manwoody, un Dornien de l'entourage de la reine Myriah. Michael fut plusieurs fois envoyé à Braavos ; ses lettres à la Banque de Fer portent son nom et son sceau, mais l'écriture est celle d'Elaena. À sa mort, elle fit sculpter son gisant une harpe à la main, en souvenir de la musique qu'il jouait pour elle.\n\nElle survécut à tous ses frères et sœurs. La date de sa mort n'est pas connue.",
+        "en": "Under Daeron II, Elaena married Lord Ronnel Penrose, whom the king made master of coin. The title was his, the work hers: everyone at court knew that Ronnel had little head for figures and that his wife kept the accounts. Daeron II entrusted her with other matters of state, and her influence grew. She bore Ronnel four children, which brought the number of her own to seven.\n\nWidowed, she married a third time, for love and with the king's blessing, Ser Michael Manwoody, a Dornishman from Queen Myriah's household. Michael was sent to Braavos several times; his letters to the Iron Bank bear his name and his seal, but the hand is Elaena's. When he died, she had his effigy carved holding a harp, in memory of the music he used to play for her.\n\nShe outlived all her brothers and sisters. The date of her death is not known."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-baelor",
+    "p6-viserys-ii",
+    "p6-aegon-iv",
+    "p6-union-dorne"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "La paternité de Viserys Plumm est contestée : fils posthume de lord Ossifer selon la version officielle, il serait né d'Aegon IV selon une rumeur que personne n'osa formuler ouvertement, et qui n'a jamais été établie. L'année de la mort d'Elaena n'est pas donnée.",
+    "en": "The paternity of Viserys Plumm is disputed: the posthumous son of Lord Ossifer according to the official account, he was fathered by Aegon IV according to a rumour no one dared voice openly and which was never established. The year of Elaena's death is not given."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Baelor I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon IV"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+      "id": "asos",
+      "locator": "Daenerys V (ch. 57)"
+    }
+  ]
+}

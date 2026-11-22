@@ -1,0 +1,108 @@
+/*
+ * La fasce : fixe, collée au bas de la fenêtre, fond d'obsidienne, sans filet ni ombre.
+ * Ordinateur : la masse (ou le fil) et la rangée des périodes à gauche, le cartel à droite.
+ * Téléphone : la masse de bord à bord, puis la rangée des commandes.
+ */
+.root {
+  position: fixed;
+  inset-inline: 0;
+  bottom: 0;
+  z-index: 30;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) var(--v3-cartel);
+  grid-template-areas:
+    'zone cartel'
+    'rangee cartel';
+  column-gap: var(--gouttiere);
+  padding-bottom: var(--v3-zone-sure);
+  background: var(--obsidienne);
+  font-family: var(--f-musee);
+}
+
+.zone {
+  position: relative;
+  grid-area: zone;
+  height: calc(var(--v3-fasce-ciel) + var(--v3-fasce-masse));
+  min-width: 0;
+}
+
+.root[data-etat='eteinte'] .zone {
+  height: var(--v3-fasce-fil);
+}
+
+.root[data-etat='portail'] .zone {
+  height: 0;
+}
+
+/* Gabarit invisible : il donne à la masse sa largeur et sa hauteur en pixels, dans tous les états. */
+.mesure {
+  position: absolute;
+  inset-inline: 0;
+  bottom: 0;
+  height: var(--v3-fasce-masse);
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.masse {
+  position: absolute;
+  inset-inline: 0;
+  bottom: 0;
+}
+
+/* Au portail, la masse fixe n'arrive qu'à la sortie de la majesté : fondu de 160 ms. */
+.masse[data-fondu] {
+  animation: paraitre var(--d-geste-court) var(--c-expo) both;
+}
+
+@keyframes paraitre {
+  from {
+    opacity: 0;
+  }
+}
+
+/* Hors du temps : la masse se retire, il reste le fil de cramoisi sur toute la largeur. */
+.fil {
+  position: absolute;
+  inset: 0;
+  background: var(--cramoisi);
+}
+
+@media (width >= 1024px) {
+  .fil {
+    right: calc(-1 * (var(--v3-cartel) + var(--gouttiere)));
+  }
+}
+
+.rangee {
+  grid-area: rangee;
+  min-width: 0;
+}
+
+.cartel {
+  grid-area: cartel;
+  display: grid;
+  align-self: end;
+  min-width: 0;
+}
+
+@media (width < 1024px) {
+  .root {
+    column-gap: 0;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      'zone'
+      'rangee'
+      'cartel';
+  }
+
+  .rangee {
+    height: var(--v3-fasce-chiffres);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .masse[data-fondu] {
+    animation-duration: var(--d-fondu);
+  }
+}

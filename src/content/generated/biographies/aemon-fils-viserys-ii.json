@@ -1,0 +1,166 @@
+{
+  "personId": "aemon-fils-viserys-ii",
+  "titles": [
+    {
+      "fr": "Prince de la maison Targaryen",
+      "en": "Prince of House Targaryen"
+    },
+    {
+      "fr": "Chevalier de la Garde Royale",
+      "en": "Knight of the Kingsguard"
+    }
+  ],
+  "lead": {
+    "fr": "Fils cadet de Viserys II, Aemon le Chevalier-Dragon servit cinq rois dans la Garde Royale et mourut en protégeant son frère Aegon IV, qui le haïssait.",
+    "en": "The younger son of Viserys II, Aemon the Dragonknight served five kings in the Kingsguard and died protecting his brother Aegon IV, who hated him."
+  },
+  "sections": [
+    {
+      "id": "aemon-fils-viserys-ii-jeunesse",
+      "heading": {
+        "fr": "Le second fils",
+        "en": "The Second Son"
+      },
+      "body": {
+        "fr": "Aemon naît en 136 apr. C., second fils du prince Viserys et de Larra Rogare. Son enfance se passe auprès de sa sœur Naerys, dont il est inséparable, et loin de son frère aîné Aegon, avec qui il ne s'entendra jamais.\n\nIl devient un jouteur et un bretteur réputés, assez pour qu'on lui confie Sœur Noire, l'épée d'acier valyrien de Visenya. Le cimier de son heaume, un dragon à trois têtes en or blanc, lui vaut son surnom.\n\nEn 153 apr. C., il assiste au mariage de Naerys et d'Aegon et se querelle avec le marié pendant le festin. Peu après, à dix-sept ans, il prononce les vœux de la Garde Royale sous le règne de son oncle Aegon III. Il servira ensuite Daeron Ier, Baelor Ier, son père Viserys II et son frère Aegon IV. Les chanteurs ont vu dans son engagement le geste d'un amant éconduit ; les sources se bornent à le constater.",
+        "en": "Aemon was born in 136 AC, the second son of Prince Viserys and Larra Rogare. He spent his childhood beside his sister Naerys, from whom he was inseparable, and apart from his elder brother Aegon, with whom he would never get on.\n\nHe became a renowned jouster and swordsman, good enough to be entrusted with Dark Sister, Visenya's Valyrian steel sword. The crest of his helm, a three-headed dragon in white gold, gave him his name.\n\nIn 153 AC he attended the wedding of Naerys and Aegon and quarrelled with the groom at the feast. Soon after, at seventeen, he took the vows of the Kingsguard under his uncle Aegon III. He would go on to serve Daeron I, Baelor I, his father Viserys II and his brother Aegon IV. The singers saw in his choice the gesture of a rejected lover; the sources merely record it."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys II"
+        },
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        }
+      ]
+    },
+    {
+      "id": "aemon-fils-viserys-ii-dorne",
+      "heading": {
+        "fr": "En Dorne",
+        "en": "In Dorne"
+      },
+      "body": {
+        "fr": "Aemon suit son cousin Daeron Ier en Dorne. Pendant la pacification qui suit la soumission de Lancehélion, il se jette devant une flèche empoisonnée destinée au roi et survit au poison ; on le renvoie se soigner à Port-Réal. Rétabli, il retourne en Dorne et s'y fait un nom en battant un champion dornien.\n\nEn 161 apr. C., il fait partie des cinq chevaliers de la Garde qui accompagnent le roi aux pourparlers trahis. Trois tombent, un se rend ; Aemon tue deux assaillants avant d'être pris. Lord Wyl l'enferme nu dans une cage, puis suspend la cage au-dessus d'une fosse à vipères.\n\nC'est là que le trouve Baelor Ier, revenu de Lancehélion à pied. Le roi descend dans la fosse avec la clé de la cage et se fait mordre ; Aemon le tire à lui, escalade la cage et l'emporte sur son dos. Il le porte, inconscient, le long des Osseux jusqu'à Havrenoir, puis vers Accalmie. L'épisode fonde sa légende.",
+        "en": "Aemon followed his cousin Daeron I into Dorne. During the pacification that followed the submission at Sunspear, he threw himself in front of a poisoned arrow meant for the king and survived the poison; he was sent back to King's Landing to recover. Once recovered, he returned and won fame by defeating a Dornish champion.\n\nIn 161 AC he was one of the five knights of the Kingsguard who went with the king to the betrayed parley. Three fell and one yielded; Aemon killed two attackers before he was taken. Lord Wyl shut him naked in a cage, then hung the cage above a pit of vipers.\n\nThere Baelor I found him, on his way back from Sunspear. The king went down into the pit with the key to the cage and was bitten; Aemon pulled him in, climbed out of the cage and carried him off on his back. He bore him, unconscious, along the Boneway to Blackhaven and then toward Storm's End. The episode founded his legend."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        }
+      ]
+    },
+    {
+      "id": "aemon-fils-viserys-ii-champion",
+      "heading": {
+        "fr": "Le champion de la reine",
+        "en": "The Queen's Champion"
+      },
+      "body": {
+        "fr": "Sous le règne de son frère, Aemon demeure dans la Garde Royale et devient, par sa seule présence, un reproche vivant. Il prend avec Daeron la défense de Naerys : à la naissance de Daenerys, en 172 apr. C., tous deux obtiennent que Barba Bracken, la maîtresse du roi, et son fils nouveau-né quittent la cour.\n\nLe fait le plus célèbre de sa vie survient lorsque ser Morgil Hastwyck accuse la reine d'adultère et de trahison. Aemon soutient l'honneur de sa sœur en combat judiciaire et tue l'accusateur. Une autre fois, Aegon lui ayant interdit de jouter, Aemon entre en lice sous un déguisement de chevalier mystère, remporte le tournoi et couronne Naerys reine d'amour et de beauté à la place de la favorite du moment.\n\nLes chansons tirèrent de ces gestes l'histoire d'un amour interdit entre le frère et la sœur. Plus d'un siècle après, Sansa Stark lit encore ces récits comme le modèle de ce que doit être un chevalier.",
+        "en": "Under his brother's reign Aemon remained in the Kingsguard and became, by his mere presence, a living reproach. With Daeron he took up Naerys's defence: when Daenerys was born in 172 AC, the two of them had Barba Bracken, the king's mistress, and her newborn son sent away from court.\n\nThe most famous deed of his life came when Ser Morgil Hastwyck accused the queen of adultery and treason. Aemon upheld his sister's honour in trial by combat and killed the accuser. On another occasion, Aegon having forbidden him to joust, Aemon entered the lists disguised as a mystery knight, won the tourney and crowned Naerys queen of love and beauty in place of the favourite of the day.\n\nThe songs made of these deeds the tale of a forbidden love between brother and sister. More than a century later, Sansa Stark still reads those stories as the pattern of what a knight should be."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "agot",
+          "locator": "Sansa III (ch. 44)"
+        },
+        {
+          "id": "asos",
+          "locator": "Bran II (ch. 24)"
+        }
+      ]
+    },
+    {
+      "id": "aemon-fils-viserys-ii-mort",
+      "heading": {
+        "fr": "Mourir pour le roi",
+        "en": "Dying for the King"
+      },
+      "body": {
+        "fr": "En 178 apr. C., Aegon IV fit supplicier ser Terrence Toyne, de la Garde Royale, amant de sa maîtresse Bethany Bracken. Deux frères du chevalier tentèrent ensuite d'assassiner le roi. Aemon mourut en le défendant. L'année de sa mort n'est pas donnée avec précision ; elle se place entre 178 et 183 apr. C. Naerys mourut un an après lui.\n\nLe roi ne fit rien pour honorer ce frère qui lui avait sauvé la vie. Il se mit au contraire à suggérer que Daeron était né d'Aemon et de la reine, rumeur qui servit plus tard la cause de Daemon Feunoyr.\n\nLa manœuvre échoua sur un point : la mémoire d'Aemon. Plus d'un siècle après, on chante encore ses exploits, et Daeron II donna son nom à l'un de ses petits-fils, le futur mestre Aemon de la Garde de Nuit. Aegon, lui, entra dans l'histoire sous le surnom d'Indigne.",
+        "en": "In 178 AC Aegon IV had Ser Terrence Toyne of the Kingsguard, the lover of his mistress Bethany Bracken, put to death by torture. Two of the knight's brothers later tried to murder the king. Aemon died defending him. The year of his death is not given precisely; it falls between 178 and 183 AC. Naerys died a year after him.\n\nThe king did nothing to honour the brother who had saved his life. Instead he began to suggest that Daeron was the son of Aemon and the queen, a rumour that later served the cause of Daemon Blackfyre.\n\nThe manoeuvre failed on one point: Aemon's memory. More than a century later his deeds are still sung, and Daeron II gave his name to one of his grandsons, the future Maester Aemon of the Night's Watch. Aegon, for his part, went down in history as the Unworthy."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        },
+        {
+          "id": "affc",
+          "locator": "The Soiled Knight (ch. 13)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-daeron-dorne",
+    "p6-baelor",
+    "p6-aegon-iv"
+  ],
+  "warIds": [
+    "conquete-de-dorne"
+  ],
+  "disputed": {
+    "fr": "La rumeur qui fait d'Aemon le père de Daeron II n'a jamais été prouvée ni réfutée ; mestre Kaeth l'attribue à Aegon IV lui-même, et un chevalier de la Garde, dans A Feast for Crows, la tient pour un mensonge. L'amour que les chanteurs prêtent à Aemon et à Naerys n'est attesté que par eux. L'année de sa mort n'est pas connue avec précision.",
+    "en": "The rumour that makes Aemon the father of Daeron II was never proved or disproved; Maester Kaeth attributes it to Aegon IV himself, and a knight of the Kingsguard in A Feast for Crows holds it to be a lie. The love the singers ascribe to Aemon and Naerys is attested only by them. The year of his death is not known precisely."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Baelor I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon IV"
+    },
+    {
+      "id": "fab",
+      "locator": "The Lysene Spring and the End of Regency"
+    },
+    {
+      "id": "tmk",
+      "locator": "Whitewalls"
+    },
+    {
+      "id": "affc",
+      "locator": "The Soiled Knight (ch. 13)"
+    },
+    {
+      "id": "agot",
+      "locator": "Sansa III (ch. 44)"
+    },
+    {
+      "id": "asos",
+      "locator": "Bran II (ch. 24)"
+    }
+  ]
+}

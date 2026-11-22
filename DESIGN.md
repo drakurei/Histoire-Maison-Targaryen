@@ -130,9 +130,15 @@ Les armes de la Maison : un champ de sable traversé d'une fasce de gueules. Arb
 - **Composition** : quatre partitions héraldiques tirées des données (parti, pal, fascé, champ plein). Aucun vélin, aucune lettrine ; Grenze ne porte que les nombres, un seul grand nombre par vue, souvent l'année évidée dans le rouge.
 - **Le rouge est toujours une donnée** (dragons, sang de la lignée, feu d'un lieu), jamais un ornement. Mouvements : la masse se dépose, le temps se règle, le feu part de la fasce, l'ombre passe sur le rouge seul, la lignée se déploie. Aucun WebGL permanent.
 
-### Version 3 : édition ultime
+### Version 3 : « l'édition ultime » (le Codex armorié)
 
-Arbitrage entre 1 et 2 (phase G). S'ouvre par défaut.
+Fusion et arbitrage des deux premières, et non une troisième direction ; s'ouvre par défaut. Spécification : `documentation/design/v3-spec.md`.
+- **Le champ pour trouver, le vélin pour lire.** Le lieu et l'instrument viennent de la V2 : champ d'`--obsidienne` plat, fasce de gueules fixe en bas dont l'épaisseur est le nombre de dragons vivants, année réglée dans l'adresse, cartel `?voir=` qui montre une personne, un dragon, un lieu sans quitter la page. Chaque fois qu'un texte long se lit, la feuille de la V1 se pose sur le champ : vélin, encres d'écriture, titres rubriqués, une lettrine par folio (dorée à l'ouverture d'une période), marge savante.
+- **Composition** : les quatre partitions de la V2. Dans le parti, le côté du récit est un folio de vélin (colonnes 1 à 8) et le côté du temps et de l'espace reste sur le champ (colonne collante : carte, grand nombre posé au pied de la carte, profil soudé à la fasce). Un vélin sans texte long est refusé ; un texte long posé sur le champ aussi.
+- **Navigation** : ligne des registres en toutes lettres (ordinateur), fasce et ses crans d'année, recherche qui accepte une année, Index où les huit volumes sont des dos de cuir couchés avec leur profil rouge ; au téléphone tout se touche dans le dernier tiers de l'écran ; trois interactions au plus vers tout contenu. Les dos fixes et les signets de la V1 sont retirés.
+- **Fasce éteinte** réduite à un fil de cramoisi et sa rangée sur les vues sans temps (langue, sources, à propos, introuvable). Au portail, la masse en majesté est la fasce elle-même : jamais deux masses à l'écran.
+- **Mouvement** : seuil, la masse se dépose, le temps se règle, le feu part de la fasce (changement de période depuis le champ), la page se tourne (seulement volume précédent ou suivant depuis le pied du folio), l'ombre passe sur le rouge, la lignée se déploie. Une navigation joue au plus un feu ou une page.
+- **Exception de code** : la V3 peut importer, dans un seul sens, des modules feuilles de la V1 et de la V2 ; elle ne les modifie jamais (copie adaptée si besoin). Les composants de la V1 suivent la surface par leurs encres sémantiques, que le thème de la V3 redéfinit ; ceux de la V2 ne se posent que sur le champ.
 
 ## 8. Écriture d'interface
 

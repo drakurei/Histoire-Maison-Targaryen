@@ -1,0 +1,234 @@
+/*
+ * Pièces communes des vues du savoir (groupe D) : en-tête du folio, intertitres, texte,
+ * colonne du champ, références, commandes. Tout lit les encres sémantiques --v3-*, que la
+ * surface redéfinit : une même pièce se pose sur le vélin comme sur le champ.
+ */
+
+/* ------------------------------------------------------------ En-tête du folio */
+.tete {
+  display: grid;
+  justify-items: start;
+  row-gap: var(--e4);
+}
+
+.chapeau {
+  max-width: 34em;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.42;
+  color: var(--v3-texte);
+  text-wrap: pretty;
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+  row-gap: var(--e1);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--v3-texte-2);
+}
+
+/* ------------------------------------------------------------ Récit */
+.section {
+  scroll-margin-top: var(--e6);
+  margin-top: var(--e8);
+}
+
+.section > h2 {
+  margin-bottom: var(--e4);
+}
+
+.texte {
+  max-width: var(--mesure);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--v3-texte);
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  hyphens: auto;
+}
+
+.texte > p + p {
+  text-indent: 1.5em;
+}
+
+/* Tête de paragraphe : le mot qui ouvre, en Texturina rubriquée. */
+.amorce {
+  font-family: var(--f-chronique);
+  font-weight: 560;
+  letter-spacing: -0.01em;
+  color: var(--v3-rubrique);
+}
+
+/* ------------------------------------------------------------ Colonne du champ */
+.colonne {
+  display: grid;
+  align-content: start;
+  row-gap: var(--e5);
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding-right: var(--e2);
+  padding-bottom: var(--e5);
+  scrollbar-width: thin;
+  scrollbar-color: var(--basalte) transparent;
+}
+
+.legende {
+  max-width: 40ch;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--v3-texte-2);
+}
+
+/* ------------------------------------------------------------ Références */
+.refs {
+  display: grid;
+  row-gap: var(--e1);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--v3-texte-2);
+}
+
+.refsTitre {
+  font-weight: 500;
+}
+
+.refsListe {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e4);
+}
+
+.refsListe a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  color: var(--v3-texte);
+}
+
+.refsListe cite {
+  font-style: italic;
+}
+
+/* ------------------------------------------------------------ Commandes */
+.bouton {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  padding: 0 var(--e4);
+  border: 0;
+  border-radius: 0;
+  background: var(--v3-texte);
+  color: var(--v3-surface);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  cursor: pointer;
+}
+
+.lienTexte {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--v3-texte);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--v3-rubrique);
+  cursor: pointer;
+}
+
+.lienTexte:hover,
+.lienTexte:focus-visible {
+  text-decoration-thickness: 3px;
+}
+
+/* ------------------------------------------------------------ Sommaire (colonne ou folio) */
+.sommaire ol {
+  display: grid;
+}
+
+.sommaire a {
+  display: grid;
+  grid-template-columns: 3rem minmax(0, 1fr);
+  column-gap: var(--e3);
+  align-items: baseline;
+  min-height: var(--cible);
+  padding-block: 0.4rem;
+  text-decoration: none;
+  color: var(--v3-texte-2);
+}
+
+.sommaire a:hover .sommaireNom,
+.sommaire a:focus-visible .sommaireNom {
+  text-decoration-color: var(--v3-actif);
+}
+
+.sommaireRang {
+  font-family: var(--f-lettrine);
+  font-size: var(--t1);
+  line-height: 1;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--v3-texte-2);
+  text-align: right;
+  white-space: nowrap;
+}
+
+.sommaireNom {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.3;
+  color: var(--v3-texte);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: color-mix(in oklch, var(--v3-texte-2) 45%, transparent);
+}
+
+.sommaire a[aria-current] .sommaireRang {
+  color: var(--v3-actif);
+}
+
+.sommaire a[aria-current] .sommaireNom {
+  text-decoration-color: var(--v3-actif);
+  text-decoration-thickness: 3px;
+}
+
+/* Au téléphone, l'en-tête a sa propre feuille : la suite du folio commence sans blanc ajouté. */
+.section:first-child {
+  margin-top: 0;
+}
+
+/* Les jambages du titre (j, y, g) descendent sous la ligne serrée : la glose s'écarte d'autant (audit V2 n° 11). */
+.tete h1 :global(.gloss__tr) {
+  display: block;
+  margin-top: max(var(--e3), 0.2em);
+}
+
+/*
+ * Zone de pression de 44 px pour les liens des pièces importées trop serrés (formes de la
+ * planche du nom, références du spécimen) : un pseudo-élément l'agrandit sans rien déplacer.
+ */
+.cibles :global(a) {
+  position: relative;
+}
+
+.cibles :global(a)::after {
+  content: '';
+  position: absolute;
+  inset-inline: 0;
+  inset-block: min(0px, calc((100% - 2.75rem) / 2));
+}

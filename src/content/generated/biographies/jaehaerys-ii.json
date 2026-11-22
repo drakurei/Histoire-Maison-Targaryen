@@ -1,0 +1,124 @@
+{
+  "personId": "jaehaerys-ii",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+      "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+    },
+    {
+      "fr": "Prince de Peyredragon",
+      "en": "Prince of Dragonstone"
+    }
+  ],
+  "lead": {
+    "fr": "Deuxième fils d'Aegon V, Jaehaerys II hérita d'un trône que son frère aîné avait abandonné et régna trois ans, de 259 à 262 apr. C., le temps de mettre fin à la menace Feunoyr.",
+    "en": "The second son of Aegon V, Jaehaerys II inherited a throne his elder brother had given up and reigned for three years, from 259 to 262 AC, long enough to end the Blackfyre threat."
+  },
+  "sections": [
+    {
+      "id": "jaehaerys-ii-mariage",
+      "heading": {
+        "fr": "Un mariage secret",
+        "en": "A Secret Marriage"
+      },
+      "body": {
+        "fr": "Jaehaerys naît en 225 apr. C., deuxième fils d'Aegon et de Betha Blackwood. Son père, convaincu que les unions entre frère et sœur faisaient plus de mal que de bien, le promet en 237 apr. C. à Celia Tully, fille du seigneur de Vivesaigues, tandis que sa sœur Shaera est promise à Luthor Tyrell, héritier de Hautjardin. Mais le garçon aime Shaera depuis l'enfance, et elle le lui rend ; les efforts de leurs parents pour les séparer ne font qu'attiser leur attachement.\n\nEn 239 apr. C., la renonciation de Duncan fait de Jaehaerys l'héritier du trône. Il a vu son frère tenir tête au roi et finir par obtenir gain de cause. L'année suivante, Shaera et lui échappent à leurs gardiens et se marient en secret. L'union est consommée avant que la cour ne l'apprenne ; Aegon doit s'incliner et apaiser comme il peut la colère des Tully et des Tyrell, blessés dans leur orgueil.",
+        "en": "Jaehaerys was born in 225 AC, the second son of Aegon and Betha Blackwood. His father, convinced that unions between brother and sister did more harm than good, promised him in 237 AC to Celia Tully, daughter of the lord of Riverrun, while his sister Shaera was promised to Luthor Tyrell, heir to Highgarden. But the boy had loved Shaera since childhood, and she returned his love; their parents' efforts to keep them apart only fed their attachment.\n\nIn 239 AC Duncan's renunciation made Jaehaerys heir to the throne. He had watched his brother defy the king and end by getting his way. The next year he and Shaera escaped their guardians and married in secret. The union was consummated before the court learned of it; Aegon had to give way and soothe as best he could the anger of the Tullys and the Tyrells, both wounded in their pride."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        }
+      ]
+    },
+    {
+      "id": "jaehaerys-ii-prophetie",
+      "heading": {
+        "fr": "Le mariage imposé",
+        "en": "The Marriage He Imposed"
+      },
+      "body": {
+        "fr": "De ce mariage naissent Aerys, en 244 apr. C., puis Rhaella dans les deux années suivantes. Jaehaerys, qui avait épousé par amour, impose pourtant à ses enfants de s'épouser, alors qu'aucun des deux ne le souhaite. La raison est une prophétie : une sorcière des bois, venue à la cour avec Jenny de Vieilles-Pierres, a annoncé que le prince promis naîtrait de leur lignée. Aegon V désapprouve, mais laisse faire son fils.\n\nLe premier enfant de ce couple, Rhaegar, naît en 259 apr. C., le jour de l'incendie de Lestival qui coûte la vie au roi et au prince Duncan. On ne sait pas si Jaehaerys se trouvait sur place ; il survit et monte sur le trône à trente-quatre ans. Sa santé est fragile, et beaucoup le tiennent pour faible. Il est aussi, de l'aveu général, le moins guerrier des fils d'Aegon V, et l'on se demande comment il fera face aux exilés qui s'agitent de l'autre côté de la mer Étroite.",
+        "en": "From this marriage came Aerys, in 244 AC, and then Rhaella within the next two years. Jaehaerys, who had married for love, nonetheless ordered his children to marry each other, though neither wished it. The reason was a prophecy: a woods witch who had come to court with Jenny of Oldstones had foretold that the prince that was promised would be born of their line. Aegon V disapproved, but let his son have his way.\n\nThe couple's first child, Rhaegar, was born in 259 AC, on the day of the fire at Summerhall that killed the king and Prince Duncan. It is not known whether Jaehaerys was there; he survived and came to the throne at thirty-four. His health was frail, and many thought him weak. He was also, by common consent, the least warlike of Aegon V's sons, and people wondered how he would face the exiles stirring across the narrow sea."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys IV (ch. 23)"
+        }
+      ]
+    },
+    {
+      "id": "jaehaerys-ii-regne",
+      "heading": {
+        "fr": "Trois ans de règne",
+        "en": "Three Years on the Throne"
+      },
+      "body": {
+        "fr": "La grande affaire du règne est la guerre des Rois à Neuf Sous. Maelys Feunoyr et ses alliés de la Bande des Neuf tiennent les Degrés de Pierre, d'où ils peuvent menacer le royaume. Jaehaerys rassemble les armées du trône. Il voudrait les conduire lui-même, mais sa Main, lord Ormund Baratheon, le convainc de rester à Port-Réal avec la reine Shaera. En 260 apr. C., l'armée débarque dans l'archipel ; on s'y bat presque toute l'année, et le jeune ser Barristan Selmy finit par tuer Maelys en combat singulier.\n\nLe roi fait entrer Barristan dans la Garde Royale. Il rétablit l'ordre, réconcilie plusieurs grandes maisons mécontentes du règne précédent et laisse auprès de la Banque de Fer des dettes que la Main de son fils remboursera. En 262 apr. C., il meurt après une courte maladie, se plaignant de manquer de souffle, à trente-sept ans. Barristan rapporte qu'il voyait dans la folie et la grandeur les deux faces d'une même médaille.",
+        "en": "The great business of the reign was the War of the Ninepenny Kings. Maelys Blackfyre and his allies of the Band of Nine held the Stepstones, from which they could threaten the realm. Jaehaerys gathered the armies of the throne. He wanted to lead them himself, but his Hand, Lord Ormund Baratheon, persuaded him to stay in King's Landing with Queen Shaera. In 260 AC the army landed in the islands; the fighting lasted most of the year, and young Ser Barristan Selmy at last slew Maelys in single combat.\n\nThe king raised Barristan to the Kingsguard. He restored order, reconciled several great houses that had been unhappy under the previous reign, and left debts with the Iron Bank that his son's Hand would repay. In 262 AC he died after a short illness, aged thirty-seven, complaining in his last days of a shortness of breath. Barristan recalls that he saw madness and greatness as the two faces of a single coin."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "asos",
+          "locator": "Daenerys VI (ch. 71)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-quatrieme-feunoyr",
+    "p6-duncan-jenny",
+    "p6-lestival",
+    "p6-neuf-sous",
+    "p7-avenement-aerys"
+  ],
+  "warIds": [
+    "rebellion-feunoyr-4",
+    "guerre-des-rois-a-neuf-sous"
+  ],
+  "disputed": {
+    "fr": "On ignore si Jaehaerys assista à la tragédie de Lestival. Le jugement porté sur son règne diverge : beaucoup de ses contemporains le tenaient pour faible, tandis que le mestre Yandel et ser Barristan Selmy le décrivent comme un roi capable.",
+    "en": "It is not known whether Jaehaerys witnessed the tragedy of Summerhall. Opinions of his reign differ: many of his contemporaries thought him weak, while Maester Yandel and Ser Barristan Selmy describe him as a capable king."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon V"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys II"
+    },
+    {
+      "id": "asos",
+      "locator": "Daenerys VI (ch. 71)"
+    },
+    {
+      "id": "adwd",
+      "locator": "Daenerys IV (ch. 23)"
+    }
+  ]
+}

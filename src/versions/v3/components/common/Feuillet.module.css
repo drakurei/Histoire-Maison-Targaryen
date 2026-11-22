@@ -1,0 +1,13 @@
+/*
+ * Au téléphone et à la tablette, le vélin va de bord à bord (aucune bande sombre au bord
+ * droit, défaut de la V1 vu à 390) : il sort des marges de page de la vue.
+ */
+.feuillet {
+  min-width: 0;
+}
+
+@media (width < 1024px) {
+  .feuillet {
+    margin-inline: calc(-1 * var(--marge-page));
+  }
+}

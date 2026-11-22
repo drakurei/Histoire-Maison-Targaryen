@@ -1,0 +1,207 @@
+/*
+ * Les sources : le registre sur le vélin, le sigle dans la marge gauche de chaque notice ;
+ * l'échelle des cinq marques sur le champ ; la frise des parutions sous le parti.
+ */
+.groupe {
+  margin-top: var(--e7);
+}
+
+.groupeTete {
+  display: grid;
+  row-gap: var(--e2);
+  max-width: var(--mesure);
+  margin-bottom: var(--e5);
+}
+
+.groupeTitre {
+  font-size: var(--t2);
+  font-weight: 400;
+  color: var(--v3-rubrique);
+}
+
+.groupeDef {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.45;
+  color: var(--v3-texte-2);
+}
+
+.ouvrages {
+  display: grid;
+  row-gap: var(--e6);
+}
+
+.ouvrage {
+  display: grid;
+  grid-template-columns: 5.5rem minmax(0, 1fr);
+  column-gap: var(--e5);
+  scroll-margin-top: var(--e6);
+}
+
+.ouvrage:target .sigle,
+.ouvrage:focus .sigle {
+  color: var(--v3-rubrique);
+}
+
+.ouvrage:focus {
+  outline: none;
+}
+
+.sigle {
+  padding-top: 0.2rem;
+  font-family: var(--f-musee);
+  font-weight: 700;
+  font-size: var(--t0);
+  line-height: 1.2;
+  font-variant-numeric: lining-nums;
+  color: var(--v3-texte);
+  text-align: right;
+  overflow-wrap: anywhere;
+}
+
+.ouvrageCorps {
+  display: grid;
+  row-gap: var(--e2);
+  max-width: 42rem;
+  min-width: 0;
+}
+
+.ouvrageTitre {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.2;
+  color: var(--v3-texte);
+}
+
+.ouvrageTitre cite {
+  font-style: italic;
+}
+
+.ouvrageFr,
+.faits,
+.renvois {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--v3-texte-2);
+}
+
+.faits {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: var(--e2);
+}
+
+.continuite {
+  display: inline-flex;
+  color: var(--v3-texte);
+}
+
+.note {
+  max-width: var(--mesure);
+}
+
+.renvois {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: var(--e5);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.membres a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  min-width: var(--cible);
+  justify-content: center;
+  font-weight: 500;
+  color: var(--v3-texte);
+}
+
+@media (width < 1024px) {
+  .ouvrage {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: var(--e1);
+  }
+
+  .sigle {
+    text-align: left;
+  }
+}
+
+/* ------------------------------------------------------------ Échelle (champ) */
+.echelle {
+  row-gap: var(--e5);
+}
+
+.echelleTitre {
+  font-size: var(--t2);
+  font-weight: 300;
+  color: var(--ivoire);
+}
+
+.niveaux {
+  display: grid;
+  row-gap: var(--e5);
+}
+
+.niveau {
+  display: grid;
+  grid-template-columns: 3rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: start;
+}
+
+.niveauMarque {
+  color: var(--ivoire);
+}
+
+.niveau[data-niveau='adaptation'] .niveauMarque {
+  color: var(--cendre);
+}
+
+.niveauCorps {
+  display: grid;
+  row-gap: var(--e1);
+}
+
+.niveauNom {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  color: var(--ivoire);
+}
+
+.niveauDef {
+  font-family: var(--f-recit);
+  font-size: calc(var(--t0) * 0.92);
+  line-height: 1.45;
+  color: var(--ivoire);
+}
+
+.niveauCompte {
+  display: grid;
+  row-gap: var(--e1);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.barre {
+  display: block;
+  height: 0.375rem;
+  background: var(--cendre);
+}
+
+/* ------------------------------------------------------------ Frise (champ) */
+.frise {
+  display: grid;
+  row-gap: var(--e3);
+  padding-top: var(--e7);
+}

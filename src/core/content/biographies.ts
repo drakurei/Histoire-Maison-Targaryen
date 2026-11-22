@@ -1,28 +1,24 @@
 /**
- * Biographies rédigées. Toutes les personnes n'en ont pas : `Person.hasBiography` le dit
- * sans charger ce module.
+ * Biographies rédigées, un fichier par personne (`src/content/generated/biographies/`),
+ * chargé avec la fiche de la personne seulement. Toutes les personnes n'en ont pas :
+ * `Person.hasBiography` le dit sans rien charger.
  * Données produites par `scripts/build-content.mjs` à partir de `content/characters/biographies/`.
  */
-import data from '@/content/generated/biographies.json';
+import { use } from 'react';
+
+import { lazyRecord } from './lazyRecord';
 import type { Biography } from './types';
 
-interface BiographiesData {
-  biographies: Biography[];
-}
-
-/*
- * Seul transtypage du module : la forme est garantie par la validation de
- * `scripts/build-content.mjs`, que le compilateur ne peut pas refaire sur du JSON.
- */
-const typed = data as unknown as BiographiesData;
-
-/** Biographies, dans l'ordre des personnes de la généalogie. */
-export const biographies: readonly Biography[] = typed.biographies;
-
-const biographyByPerson: ReadonlyMap<string, Biography> = new Map(
-  biographies.map((biography) => [biography.personId, biography]),
+const record = lazyRecord<Biography>(
+  import.meta.glob('/src/content/generated/biographies/*.json', { import: 'default' }),
 );
 
-export function getBiography(personId: string): Biography | undefined {
-  return biographyByPerson.get(personId);
+/** Précharge une biographie (au survol d'un lien, par exemple). */
+export function preloadBiography(personId: string): void {
+  void record.load(personId);
+}
+
+/** Biographie de la personne, ou `undefined`. Suspend au premier appel. */
+export function useBiography(personId: string | undefined): Biography | undefined {
+  return use(record.load(personId ?? ''));
 }

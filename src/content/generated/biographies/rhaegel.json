@@ -1,0 +1,121 @@
+{
+  "personId": "rhaegel",
+  "titles": [
+    {
+      "fr": "Prince de Peyredragon, de 209 à 215 apr. C.",
+      "en": "Prince of Dragonstone, from 209 to 215 AC"
+    }
+  ],
+  "lead": {
+    "fr": "Troisième fils de Daeron II et prince de Peyredragon de 209 à 215 apr. C., Rhaegel fut un héritier que sa santé et son esprit tenaient à l'écart du pouvoir.",
+    "en": "The third son of Daeron II and Prince of Dragonstone from 209 to 215 AC, Rhaegel was an heir kept from power by his health and his mind."
+  },
+  "sections": [
+    {
+      "id": "rhaegel-jeunesse",
+      "heading": {
+        "fr": "Le troisième fils",
+        "en": "The Third Son"
+      },
+      "body": {
+        "fr": "Rhaegel naît entre 173 et 178 apr. C., troisième des quatre fils du prince Daeron et de Myriah Martell. Comme ses frères, il apprend les armes au Donjon Rouge avec ser Quentyn Boule, sans y montrer d'aptitude. On le décrit comme un être doux et affable, mais fragile de corps et d'esprit ; la rumeur racontait qu'il dansait nu dans les couloirs du Donjon Rouge, et certains le tenaient déjà pour perdu.\n\nIl épouse lady Alys Arryn, qui lui donne trois enfants : des jumeaux, Aelor et Aelora, et une fille, Daenora. Avec son frère Aerys, il quitte rarement la cour ; c'est pourquoi leur père donne Lestival au plus jeune, Maekar.\n\nSon neveu Aegon, le fils de Maekar qui fut l'écuyer de Dunk, assure que Maekar aimait beaucoup ce frère. Le témoignage est partial, mais il nuance l'image d'un prince seulement toléré par les siens.",
+        "en": "Rhaegel was born between 173 and 178 AC, the third of the four sons of Prince Daeron and Myriah Martell. Like his brothers he learned arms in the Red Keep with Ser Quentyn Ball, showing no aptitude. He is described as sweet and gentle, but frail in body and mind; rumour had it that he went dancing unclothed along the corridors of the Red Keep, and some already thought him as good as lost.\n\nHe married Lady Alys Arryn, who bore him three children: twins, Aelor and Aelora, and a daughter, Daenora. With his brother Aerys he seldom left court, which is why their father gave Summerhall to the youngest, Maekar.\n\nHis nephew Aegon, the son of Maekar who served as Dunk's squire, maintains that Maekar was very fond of this brother. The testimony is partial, but it qualifies the picture of a prince merely tolerated by his kin."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        }
+      ]
+    },
+    {
+      "id": "rhaegel-heritier",
+      "heading": {
+        "fr": "Un héritier oublié",
+        "en": "A Forgotten Heir"
+      },
+      "body": {
+        "fr": "En 209 apr. C., l'avènement de son frère Aerys, qui n'a pas d'enfant, fait de Rhaegel l'héritier du trône et le prince de Peyredragon. On ne songe pourtant pas à lui pour la charge de Main, qu'Aerys confie à Brynden Rivers et que Maekar avait espérée. Beaucoup, dans le royaume, oublient jusqu'à son existence et tiennent Maekar pour l'héritier véritable.\n\nCeux qui se défient de la Main voient en Rhaegel un prince incapable de lui tenir tête. Les plus soupçonneux, dans les récits de Dunk et l'Œuf, vont jusqu'à prétendre que Brynden ou Maekar finiront par l'écarter, lui et ses enfants, par le meurtre. Le jeune Aegon s'indigne de ces propos. Aucun fait ne les a confirmés.\n\nRhaegel ne paraît avoir exercé aucune fonction de gouvernement. Son rang tenait tout entier à l'ordre de naissance, et l'on n'attendait rien de lui.",
+        "en": "In 209 AC the accession of his brother Aerys, who had no children, made Rhaegel heir to the throne and Prince of Dragonstone. Yet no one thought of him for the office of Hand, which Aerys gave to Brynden Rivers and which Maekar had hoped for. Many in the realm forgot he existed and took Maekar for the true heir.\n\nThose who distrusted the Hand saw in Rhaegel a prince unable to stand up to him. The most suspicious, in the tales of Dunk and Egg, went so far as to claim that Brynden or Maekar would end by removing him and his children through murder. Young Aegon was indignant at such talk. No fact ever bore it out.\n\nRhaegel seems to have held no office of government. His rank rested wholly on the order of birth, and nothing was expected of him."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        }
+      ]
+    },
+    {
+      "id": "rhaegel-mort",
+      "heading": {
+        "fr": "Une branche effacée",
+        "en": "A Branch Erased"
+      },
+      "body": {
+        "fr": "Rhaegel meurt en 215 apr. C., étouffé en mangeant un pâté de lamproie. Son fils Aelor devient prince de Peyredragon, mais ne lui survit que deux ans : il meurt en 217 apr. C. dans un accident causé par sa sœur jumelle Aelora, qui était aussi sa femme. Aelora, folle de chagrin, se donne la mort peu après. Seule Daenora, la cadette, survit, et les sources ne disent presque rien d'elle.\n\nEn six ans, la branche de Rhaegel est ainsi effacée de la succession. Aerys reconnaît pour héritier son dernier frère, Maekar, qui montera sur le trône en 221 apr. C. C'est par Maekar, et non par Rhaegel, que la couronne passera jusqu'à la fin de la dynastie.\n\nLes chroniques ne disent rien de l'impression que ces morts firent à la cour. Elles achevèrent pourtant de faire du moins attendu des quatre frères le père de tous les rois qui suivirent.",
+        "en": "Rhaegel died in 215 AC, choking on a lamprey pie. His son Aelor became Prince of Dragonstone but outlived him by only two years: he died in 217 AC in an accident caused by his twin sister Aelora, who was also his wife. Aelora, mad with grief, took her own life soon after. Only Daenora, the youngest, survived, and the sources say almost nothing of her.\n\nIn six years Rhaegel's branch was thus erased from the succession. Aerys acknowledged his last brother, Maekar, as heir, and Maekar would take the throne in 221 AC. It was through Maekar, not Rhaegel, that the crown would pass until the end of the dynasty.\n\nThe chronicles say nothing of the impression these deaths made at court. Yet they completed the process that made the least expected of the four brothers the father of every king who followed."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-cendregue-209"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "La nature de son mal n'est pas précisée : les témoins parlent de faiblesse d'esprit et de folie douce. Les soupçons qui pesaient sur Brynden Rivers et sur Maekar ne reposent sur aucun fait. Sa date de naissance n'est pas donnée.",
+    "en": "The nature of his affliction is not specified: witnesses speak of feeble-mindedness and gentle madness. The suspicions that hung over Brynden Rivers and Maekar rest on no fact. His birth date is not given."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Maekar I"
+    },
+    {
+      "id": "tss",
+      "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+    },
+    {
+      "id": "tmk",
+      "locator": "Whitewalls"
+    }
+  ]
+}

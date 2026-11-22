@@ -1,0 +1,81 @@
+/*
+ * La colonne : un `aside` qui s'étire sur la hauteur du folio, et dedans une pile collante
+ * qui tient de son haut d'arrivée jusqu'à la fasce. Le profil touche la fasce : même rouge,
+ * aucun jour entre eux.
+ */
+.colonne {
+  min-width: 0;
+  align-self: stretch;
+}
+
+.pile {
+  position: sticky;
+  top: var(--v3-colonne-haut, 0px);
+  display: flex;
+  flex-direction: column;
+  height: calc(100svh - var(--v3-colonne-haut, 0px) - var(--v3-fasce-totale));
+  min-height: 18rem;
+}
+
+.figure {
+  position: relative;
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.dessin {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.dessin > :first-child {
+  flex: 1;
+  min-height: 0;
+}
+
+/*
+ * Le grand nombre sous la figure, jamais dessus : posé sur la carte, il en cachait le pied et
+ * les noms (« VIII », l'année d'un événement). Son œil touche le bas de la figure.
+ */
+.nombre {
+  flex: none;
+  position: relative;
+  margin-top: var(--e1);
+  pointer-events: none;
+}
+
+.pied {
+  flex: none;
+  padding-block: var(--e3);
+}
+
+.profil {
+  flex: none;
+  line-height: 0;
+}
+
+.profil :global(svg) {
+  display: block;
+}
+
+/* Le cartel ouvert recouvre la colonne : elle s'éteint. */
+:global(.v3[data-cartel]) .pile {
+  opacity: 0.4;
+}
+
+/* Sous 1024 px, la colonne n'est plus collante : la page compose ses pièces dans le flux. */
+@media (width < 1024px) {
+  .pile {
+    position: static;
+    height: auto;
+    min-height: 0;
+  }
+
+  .figure {
+    min-height: 40svh;
+  }
+}

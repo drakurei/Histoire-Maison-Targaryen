@@ -1,0 +1,57 @@
+/* L'échelle comparée, sur le champ : la figure, puis la légende en appareil. */
+.echelle {
+  display: grid;
+  gap: var(--e2);
+  min-width: 0;
+}
+
+.titre {
+  font-size: var(--t0);
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  color: var(--ivoire);
+}
+
+.figure {
+  --dragon-ink: var(--ivoire);
+  --dragon-paper-dark: var(--obsidienne);
+
+  min-width: 0;
+  color: var(--ivoire);
+}
+
+.figure > svg {
+  max-height: 7.5rem;
+}
+
+/* Le fantôme : son seul contour, en pointillé de cendre, sans teinte. */
+.figure :global([data-fantome]) {
+  opacity: 1;
+}
+
+.figure :global([data-fantome] path) {
+  fill: none !important;
+  stroke: var(--cendre) !important;
+  stroke-width: 1px !important;
+  opacity: 0.85;
+  stroke-dasharray: 3 4;
+  vector-effect: non-scaling-stroke;
+}
+
+
+.legende {
+  display: grid;
+  gap: var(--e1);
+  max-width: 44ch;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.45;
+  color: var(--cendre);
+}
+
+@media (width < 1024px) {
+  .figure > svg {
+    max-height: none;
+  }
+}

@@ -1,0 +1,144 @@
+/* Copie adaptée de PlacesPage.module.css (V2) : le titre, les lieux de l'année, puis tous les lieux par contrée. */
+.titre h1 {
+  font-size: var(--t4);
+}
+
+.bloc {
+  display: grid;
+  gap: var(--e4);
+}
+
+.chapeau {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.55;
+  max-width: 34ch;
+}
+
+.annee,
+.tous {
+  display: grid;
+  gap: var(--e4);
+}
+
+.sousTitre {
+  font-size: var(--t2);
+  font-weight: 300;
+}
+
+.invite {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--cendre);
+}
+
+.compte {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--braise);
+}
+
+.allumes,
+.liste,
+.faits {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.allumes {
+  gap: var(--e4);
+}
+
+.allume {
+  display: grid;
+  gap: var(--e1);
+}
+
+.nom {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.15;
+}
+
+.faits {
+  gap: 0.2rem;
+  font-family: var(--f-recit);
+  font-size: var(--t-1);
+  line-height: 1.4;
+}
+
+.groupe {
+  display: grid;
+  gap: var(--e1);
+}
+
+.region {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-weight: 400;
+  font-size: var(--t0);
+  color: var(--cendre);
+  letter-spacing: 0;
+}
+
+.lieu {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  column-gap: var(--e3);
+  min-height: 2.75rem;
+  padding-block: 0.55rem;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.15;
+}
+
+.genre {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+/* Lieu de l'année réglée : une pastille de braise devant le nom, comme sur la carte. */
+.lieu[data-allume]::before {
+  content: '';
+  align-self: center;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background: var(--braise);
+}
+
+.cache {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.action {
+  min-height: 2.75rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--ivoire);
+  font: inherit;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+  cursor: pointer;
+}
+
+.action:hover,
+.action:focus-visible {
+  text-decoration-color: var(--braise);
+}

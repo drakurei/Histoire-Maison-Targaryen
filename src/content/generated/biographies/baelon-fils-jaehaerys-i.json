@@ -1,0 +1,133 @@
+{
+  "personId": "baelon-fils-jaehaerys-i",
+  "titles": [
+    {
+      "fr": "Prince de Peyredragon",
+      "en": "Prince of Dragonstone"
+    },
+    {
+      "fr": "Main du Roi",
+      "en": "Hand of the King"
+    }
+  ],
+  "lead": {
+    "fr": "Second fils de Jaehaerys Ier, Baelon devint héritier du trône à la mort de son frère Aemon en 92 apr. C. et mourut lui-même en 101 apr. C., avant d'avoir régné.",
+    "en": "The second son of Jaehaerys I, Baelon became heir to the throne on the death of his brother Aemon in 92 AC and died himself in 101 AC, before he could reign."
+  },
+  "sections": [
+    {
+      "id": "baelon-fils-jaehaerys-i-jeunesse",
+      "heading": {
+        "fr": "Le prince du Printemps",
+        "en": "The Spring Prince"
+      },
+      "body": {
+        "fr": "Baelon naît en 57 apr. C., deux jours après que la Citadelle eut annoncé le retour du printemps ; on l'appelle d'abord le prince du Printemps. Il porte le nom d'un ancien seigneur de Peyredragon. Dès qu'il marche, il suit son frère Aemon partout, un bâton à la main quand on le juge trop jeune pour l'épée de bois. Les deux frères deviennent inséparables.\n\nSon second surnom vient d'une visite à Fossedragon : l'enfant frappe Balerion sur le museau, et un chevalier de la Garde Royale se demande à voix haute s'il est brave ou fou. On retint le premier mot, et il resta Baelon le Brave. En 72 apr. C., il perd contre Aemon la mêlée des écuyers de Sombreval. L'année suivante, son père lui confie l'entraînement de leur jeune frère Vaegon ; l'expérience, pénible pour l'un et l'autre, s'achève au bout d'un an.",
+        "en": "Baelon was born in 57 AC, two days after the Citadel had announced the return of spring; at first he was called the Spring Prince. He was named after an earlier Lord of Dragonstone. As soon as he could walk he followed his brother Aemon everywhere, a stick in his hand when he was judged too young for a wooden sword. The two brothers became inseparable.\n\nHis second byname came from a visit to the Dragonpit: the boy struck Balerion on the snout, and a knight of the Kingsguard wondered aloud whether he was brave or mad. The first word stuck, and he remained Baelon the Brave. In 72 AC he lost the squires' melee at Duskendale to Aemon. The following year his father gave him the task of training their younger brother Vaegon; the experiment, painful for both, ended after a year."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        },
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        }
+      ]
+    },
+    {
+      "id": "baelon-fils-jaehaerys-i-chevalier",
+      "heading": {
+        "fr": "Le Fou d'argent et Vhagar",
+        "en": "The Silver Fool and Vhagar"
+      },
+      "body": {
+        "fr": "En 73 apr. C., à seize ans, Baelon entre en lice sans se faire connaître au tournoi de Vieux-Chêne, sous le nom de Fou d'argent. Il désarçonne plusieurs chevaliers avant de tomber sous la lance de ser Rickard Redwyne, qui le démasque et l'adoube sur-le-champ. De retour à Port-Réal, il réclame Vhagar, l'ancienne monture de Visenya, restée sans cavalier depuis la mort de la reine en 44 apr. C.\n\nIl avait toujours été proche de sa sœur Alyssa ; il l'épouse en 75 apr. C. Le couple a deux fils, Viserys en 77 apr. C. et Daemon en 81 apr. C. En 83 apr. C., Baelon vole avec son père et son frère contre la flotte de Morion Martell. La mort d'Alyssa, des suites d'une troisième couche, le brise ; il ne se remarie pas. Quand, quelques années plus tard, sa jeune sœur Viserra se glisse dans sa chambre pour échapper au mariage qu'on lui destine, il la renvoie.",
+        "en": "In 73 AC, at sixteen, Baelon entered the lists without revealing himself at the tourney at Old Oak, under the name of the Silver Fool. He unhorsed several knights before falling to the lance of Ser Rickard Redwyne, who unmasked him and knighted him on the spot. Back in King's Landing he claimed Vhagar, once Visenya's mount, which had been without a rider since the queen's death in 44 AC.\n\nHe had always been close to his sister Alyssa; he married her in 75 AC. The couple had two sons, Viserys in 77 AC and Daemon in 81 AC. In 83 AC Baelon flew with his father and brother against Morion Martell's fleet. Alyssa's death, after a third childbirth, broke him; he never remarried. When, a few years later, his young sister Viserra slipped into his bedchamber to escape the marriage intended for her, he sent her away."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        }
+      ]
+    },
+    {
+      "id": "baelon-fils-jaehaerys-i-heritier",
+      "heading": {
+        "fr": "Prince de Peyredragon et Main du Roi",
+        "en": "Prince of Dragonstone and Hand"
+      },
+      "body": {
+        "fr": "En 92 apr. C., Aemon est tué à Torth. Baelon s'y rend sur Vhagar et combat les exilés myriens avec Sœur Noire ; Port-Réal l'acclame à son retour. Le roi le désigne prince de Peyredragon de préférence à Rhaenys, fille d'Aemon. Le choix est populaire dans le royaume, beaucoup moins auprès de la reine, des Velaryon et des Baratheon, et il pèsera sur la succession pendant des décennies.\n\nDans les dernières années du règne, après la mort du septon Barth et l'échec de ser Ryam Redwyne dans la charge, Baelon devient Main du Roi. Il est alors l'homme sur qui repose l'avenir de la dynastie : un héritier aimé, éprouvé à la guerre, père de deux fils adultes. Rien dans les chroniques ne laisse prévoir qu'il ne régnera pas. La reine elle-même, malgré leur désaccord sur Rhaenys, lui avait assuré avant de mourir qu'il serait un bon roi.",
+        "en": "In 92 AC Aemon was killed on Tarth. Baelon went there on Vhagar and fought the Myrish exiles with Dark Sister; King's Landing cheered him on his return. The king named him Prince of Dragonstone in preference to Rhaenys, Aemon's daughter. The choice was popular in the realm, much less so with the queen, the Velaryons and the Baratheons, and it would weigh on the succession for decades.\n\nIn the last years of the reign, after the death of Septon Barth and the failure of Ser Ryam Redwyne in the office, Baelon became Hand of the King. He was then the man on whom the future of the dynasty rested: a well-loved heir, proven in war, the father of two grown sons. Nothing in the chronicles suggests that he would not reign. The queen herself, despite their disagreement over Rhaenys, had assured him before she died that he would make a good king."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "baelon-fils-jaehaerys-i-mort",
+      "heading": {
+        "fr": "Une mort soudaine",
+        "en": "A Sudden Death"
+      },
+      "body": {
+        "fr": "En 101 apr. C., au cours d'une chasse, Baelon se plaint d'un point de côté. La douleur s'aggrave après son retour à Port-Réal ; il s'alite dans la tour de la Main et meurt cinq jours plus tard, le ventre rompu. Le vieux roi allume lui-même son bûcher.\n\nSa mort laisse la succession sans titulaire évident. Deux lignées peuvent prétendre au trône : celle d'Aemon, par Rhaenys et son fils Laenor Velaryon, et celle de Baelon, par son fils Viserys. Jaehaerys, qui craint une guerre, réunit le Grand Conseil de Harrenhal, et les seigneurs y choisissent Viserys. Viserys montera sur le trône en 103 apr. C., et les deux fils de Baelon, Viserys et Daemon, domineront les trente années suivantes. Le surnom de Brave lui est resté, attaché moins à ses campagnes qu'au geste d'un enfant devant Balerion.",
+        "en": "In 101 AC, during a hunt, Baelon complained of a stitch in his side. The pain grew worse after his return to King's Landing; he took to his bed in the Tower of the Hand and died five days later of a burst belly. The old king lit his pyre himself.\n\nHis death left the succession without an obvious holder. Two lines could claim the throne: Aemon's, through Rhaenys and her son Laenor Velaryon, and Baelon's, through his son Viserys. Jaehaerys, fearing a war, summoned the Great Council at Harrenhal, and the lords chose Viserys there. Viserys would ascend the throne in 103 AC, and Baelon's two sons, Viserys and Daemon, would dominate the thirty years that followed. The byname of the Brave has stayed with him, attached less to his campaigns than to a child's gesture before Balerion."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "vhagar"
+  ],
+  "eventIds": [
+    "p4-mort-aemon",
+    "p4-grand-conseil-101"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "Les récits placent sa nomination comme Main du Roi en 99 ou en 100 apr. C. ; ils s'accordent sur le fait qu'il succéda à ser Ryam Redwyne et garda la charge jusqu'à sa mort.",
+    "en": "Accounts place his appointment as Hand of the King in 99 or 100 AC; they agree that he succeeded Ser Ryam Redwyne and held the office until his death."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+    },
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys I"
+    }
+  ]
+}

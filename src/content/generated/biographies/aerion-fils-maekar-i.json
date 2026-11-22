@@ -1,0 +1,125 @@
+{
+  "personId": "aerion-fils-maekar-i",
+  "titles": [
+    {
+      "fr": "Prince de la maison Targaryen",
+      "en": "Prince of House Targaryen"
+    },
+    {
+      "fr": "Chevalier",
+      "en": "Knight"
+    }
+  ],
+  "lead": {
+    "fr": "Deuxième fils de Maekar Ier, Aerion se faisait appeler le Flamboyant et se croyait un dragon sous forme humaine ; il mourut en 232 apr. C. pour avoir bu du feu grégeois.",
+    "en": "The second son of Maekar I, Aerion styled himself Brightflame and believed he was a dragon in human form; he died in 232 AC after drinking wildfire."
+  },
+  "sections": [
+    {
+      "id": "aerion-fils-maekar-i-jeunesse",
+      "heading": {
+        "fr": "Le second fils de Maekar",
+        "en": "Maekar's Second Son"
+      },
+      "body": {
+        "fr": "Aerion naît entre 191 et 194 apr. C. du prince Maekar et de Dyanna Dayne. Il a un frère aîné, Daeron, deux cadets, Aemon et Aegon, et deux sœurs, Daella et Rhae. Comme ses frères, il reçoit dans l'enfance un œuf de dragon, le sien d'or et d'argent. Il a la beauté qu'on prête aux Targaryen et le goût des couleurs du feu, qu'il porte jusque sur son armure et sur le caparaçon de son cheval.\n\nLes témoins en laissent un portrait sombre. Devant son père, Aerion est tout sourire et courtoisie ; ailleurs, il se montre vaniteux, capricieux et cruel. Aegon, le plus jeune, qui le tient pour un menteur, garde de lui des souvenirs précis : un chat jeté dans un puits, un couteau approché la nuit de son lit. C'est en partie pour ne pas lui ressembler qu'il accepte d'avoir le crâne rasé. Le mestre Yandel, longtemps après, le range parmi les Targaryen frappés de folie et l'accuse de s'être adonné aux arts noirs.",
+        "en": "Aerion was born between 191 and 194 AC to Prince Maekar and Dyanna Dayne. He had an elder brother, Daeron, two younger ones, Aemon and Aegon, and two sisters, Daella and Rhae. Like his brothers he was given a dragon's egg as a child, his of gold and silver. He had the beauty attributed to the Targaryens and a taste for the colours of fire, which he wore down to his armour and his horse's trappings.\n\nWitnesses left a dark portrait of him. Before his father Aerion was all smiles and courtesy; elsewhere he showed himself vain, capricious and cruel. Aegon, the youngest, who thought him a liar, kept precise memories of him: a cat thrown down a well, a knife brought close to his bed at night. It was partly so as not to resemble him that Aegon let his head be shaved. Maester Yandel, long afterwards, counted him among the Targaryens touched by madness and accused him of dabbling in the black arts."
+      },
+      "sources": [
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        }
+      ]
+    },
+    {
+      "id": "aerion-fils-maekar-i-cendregue",
+      "heading": {
+        "fr": "Le jugement de Cendregué",
+        "en": "The Trial at Ashford"
+      },
+      "body": {
+        "fr": "Au tournoi de Cendregué, en 209 apr. C., Aerion abaisse sa lance sur le cheval de ser Humfrey Hardyng au lieu de viser l'écu ; la bête meurt et le chevalier est blessé à la jambe. On parle d'accident. Le soir même, un spectacle de marionnettes où un chevalier tue un dragon le met en fureur : il fait briser le théâtre et casse lui-même les doigts de la montreuse, Tanselle. Le chevalier errant Duncan intervient et le roue de coups.\n\nAccusé d'avoir porté la main sur un prince du sang, Duncan demande un jugement par combat ; Aerion exige un jugement par sept, comptant que son adversaire ne trouvera pas six champions. Dans la lice, il blesse Duncan d'un coup de lance puis le jette à bas, mais le chevalier, plus lourd, finit par le dominer et le contraint à retirer son accusation. La journée coûte la vie au prince Baelor, héritier du trône. Maekar envoie ensuite Aerion à Lys, dans l'espoir que quelques années d'éloignement le corrigent.",
+        "en": "At the tourney at Ashford Meadow in 209 AC, Aerion lowered his lance onto the horse of Ser Humfrey Hardyng instead of aiming at the shield; the animal died and the knight's leg was hurt. People spoke of an accident. That same evening a puppet show in which a knight slays a dragon threw him into a rage: he had the stage smashed and broke the fingers of the puppeteer, Tanselle, himself. The hedge knight Duncan stepped in and beat him.\n\nAccused of laying hands on a prince of the blood, Duncan asked for trial by combat; Aerion demanded a trial of seven, counting on his opponent failing to find six champions. In the lists he wounded Duncan with his lance and then knocked him down, but the heavier knight finally overpowered him and forced him to withdraw his accusation. The day cost the life of Prince Baelor, heir to the throne. Maekar then sent Aerion to Lys, in the hope that a few years away would mend him."
+      },
+      "sources": [
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow: the puppet show, the trial of seven"
+        }
+      ]
+    },
+    {
+      "id": "aerion-fils-maekar-i-mort",
+      "heading": {
+        "fr": "La coupe de feu grégeois",
+        "en": "The Cup of Wildfire"
+      },
+      "body": {
+        "fr": "Aerion reste quelques années à Lys et sert un temps dans la compagnie des Puînés, dont le registre conserve son nom. Rentré en Westeros, il combat lors de la troisième rébellion Feunoyr, en 219 apr. C. Après la capture d'Aegor Rivers, il presse avec la Main, Brynden Rivers, le roi Aerys Ier de faire exécuter le prisonnier ; le roi préfère l'envoyer au Mur. Il épouse sa cousine Daenora, qui lui donne en 232 apr. C. un fils au nom lourd de souvenirs : Maegor.\n\nLa même année, ivre, Aerion boit une coupe de feu grégeois, persuadé qu'elle le changera en dragon, et meurt en hurlant. L'année suivante, à la mort de Maekar, le Grand Conseil écarte son fils encore au berceau, notamment parce qu'on craint qu'il ne tienne de son père. La mémoire d'Aerion survit sous un autre nom : on l'appelle Aerion le Monstrueux, et la vieille Nan, à Winterfell, raconte aux enfants l'histoire du prince qui se croyait dragon.",
+        "en": "Aerion stayed in Lys for some years and served for a time with the Second Sons, whose book still records his name. Back in Westeros, he fought in the Third Blackfyre Rebellion in 219 AC. After Aegor Rivers was taken, he joined the Hand, Brynden Rivers, in urging King Aerys I to have the prisoner put to death; the king chose to send him to the Wall instead. He married his cousin Daenora, who in 232 AC bore him a son with a name heavy with memories: Maegor.\n\nThat same year Aerion, drunk, drank down a cup of wildfire, convinced it would transform him into a dragon, and died screaming. The following year, when Maekar died, the Great Council passed over his infant son, partly from fear that the boy might take after his father. Aerion's memory lived on under another name: he was called Aerion the Monstrous, and Old Nan at Winterfell told children the tale of the prince who thought he was a dragon."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "acok",
+          "locator": "Jon I (ch. 6)"
+        },
+        {
+          "id": "asos",
+          "locator": "Davos V (ch. 54)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-cendregue-209",
+    "p6-troisieme-feunoyr",
+    "p6-grand-conseil-233"
+  ],
+  "warIds": [
+    "rebellion-feunoyr-3"
+  ],
+  "disputed": {
+    "fr": "Sa naissance n'est connue qu'à quelques années près. Les livres disent que ses actes pendant la rébellion de 219 apr. C. furent remarqués, sans les décrire. Le jugement de Yandel sur sa folie et ses pratiques occultes est celui d'un mestre écrivant soixante-dix ans plus tard.",
+    "en": "His birth is known only to within a few years. The books say that his deeds in the rebellion of 219 AC were noted, without describing them. Yandel's verdict on his madness and his occult practices is that of a maester writing seventy years later."
+  },
+  "sources": [
+    {
+      "id": "thk",
+      "locator": "Ashford Meadow"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Maekar I"
+    },
+    {
+      "id": "acok",
+      "locator": "Jon I (ch. 6)"
+    },
+    {
+      "id": "asos",
+      "locator": "Davos V (ch. 54)"
+    }
+  ]
+}

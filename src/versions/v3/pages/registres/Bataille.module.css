@@ -1,0 +1,172 @@
+/*
+ * Une bataille sur le vélin : le numéro rubriqué suspendu dans la marge gauche, le corps
+ * aligné sur le récit. La bataille courante (celle que montre la carte) prend un numéro
+ * plein, les autres un numéro au trait.
+ */
+.bataille {
+  display: grid;
+  grid-template-columns: 3.25rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  scroll-margin-top: var(--e6);
+  outline: none;
+}
+
+.bataille:focus-visible .nom {
+  outline: 2px solid var(--rubrique);
+  outline-offset: 3px;
+}
+
+.numero {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t4);
+  line-height: 0.85;
+  color: var(--v3-rubrique);
+  font-variant-numeric: lining-nums;
+}
+
+.bataille:not([data-courante]) .numero {
+  color: transparent;
+  -webkit-text-stroke: 1px var(--v3-rubrique);
+}
+
+.corps {
+  display: grid;
+  gap: var(--e2);
+  max-width: 62ch;
+  min-width: 0;
+}
+
+.date {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e3);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--v3-texte-2);
+}
+
+.approche {
+  font-style: italic;
+}
+
+.nom {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 400;
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  color: var(--v3-rubrique);
+}
+
+.lieu,
+.issue,
+.pertes {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e3);
+  row-gap: var(--e1);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+  color: var(--v3-texte);
+}
+
+.precision,
+.pale {
+  color: var(--v3-texte-2);
+}
+
+.issue {
+  column-gap: 0.4em;
+}
+
+.issue > :last-child {
+  margin-left: var(--e3);
+}
+
+.dragons {
+  display: grid;
+  gap: var(--e1);
+  margin-block: var(--e2);
+}
+
+.etiquette {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-weight: 500;
+  color: var(--v3-texte);
+}
+
+.dragonsListe {
+  display: grid;
+  gap: var(--e2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.dragon {
+  display: grid;
+  grid-template-columns: minmax(8rem, 12rem) minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: baseline;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+}
+
+.dragonNom {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.4em;
+}
+
+.sort {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--v3-texte);
+  hyphens: auto;
+}
+
+.pas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--e3);
+  margin-top: var(--e3);
+}
+
+.bouton {
+  min-height: 2.75rem;
+  padding: 0 var(--e4);
+  border: 0;
+  background: var(--encre);
+  color: var(--velin);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  cursor: pointer;
+}
+
+.bouton:focus-visible {
+  outline: 2px solid var(--rubrique);
+  outline-offset: 3px;
+}
+
+@media (width < 1024px) {
+  .bataille {
+    grid-template-columns: 2.25rem minmax(0, 1fr);
+    column-gap: var(--e3);
+  }
+
+  .numero {
+    font-size: var(--t3);
+  }
+
+  .dragon {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

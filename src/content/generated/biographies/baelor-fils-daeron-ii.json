@@ -1,0 +1,154 @@
+{
+  "personId": "baelor-fils-daeron-ii",
+  "titles": [
+    {
+      "fr": "Prince de Peyredragon",
+      "en": "Prince of Dragonstone"
+    },
+    {
+      "fr": "Main du Roi, sous Daeron II",
+      "en": "Hand of the King, under Daeron II"
+    }
+  ],
+  "lead": {
+    "fr": "Fils aîné de Daeron II et Main du Roi, Baelor Briselance passait pour l'héritier qui ferait un roi capable ; il mourut en 209 apr. C., au tournoi de Cendregué, d'un coup porté par son frère Maekar.",
+    "en": "The eldest son of Daeron II and Hand of the King, Baelor Breakspear was thought the heir who would make an able king; he died in 209 AC, at the tourney of Ashford Meadow, of a blow struck by his brother Maekar."
+  },
+  "sections": [
+    {
+      "id": "baelor-fils-daeron-ii-jeunesse",
+      "heading": {
+        "fr": "Le fils de Myriah",
+        "en": "Myriah's Son"
+      },
+      "body": {
+        "fr": "Baelor naît en 170 apr. C., premier enfant du prince Daeron et de Myriah Martell, dont le mariage scellait la paix de Baelor le Bienheureux ; il reçoit le nom de ce roi. À la mort d'Aegon IV, en 184 apr. C., il devient l'héritier du trône, puis prince de Peyredragon.\n\nIl apprend les armes avec ser Quentyn Boule, comme ses frères et les bâtards légitimés de son grand-père. Il tient de sa mère des cheveux et des yeux sombres, que les ennemis des Dorniens remarquent avec malveillance : on murmure qu'il est plus Martell que Targaryen.\n\nEn 187 apr. C., au tournoi des noces de sa tante Daenerys avec le prince Maron de Dorne, il désarçonne en finale Daemon Feunoyr, que l'on tenait pour le premier chevalier de la cour. Il a dix-sept ans, et l'on date de cette victoire le surnom de Briselance. Plus tard, à Accalmie, il désarçonnera aussi le chevalier errant ser Arlan de Pennytree, après quatre lances brisées.",
+        "en": "Baelor was born in 170 AC, the first child of Prince Daeron and Myriah Martell, whose marriage had sealed the peace of Baelor the Blessed; he was named after that king. When Aegon IV died in 184 AC, he became heir to the throne, then Prince of Dragonstone.\n\nHe learned arms with Ser Quentyn Ball, like his brothers and his grandfather's legitimised bastards. From his mother he had dark hair and eyes, which the enemies of the Dornish noted with ill will: it was muttered that he was more Martell than Targaryen.\n\nIn 187 AC, at the tourney for the wedding of his aunt Daenerys to Prince Maron of Dorne, he unhorsed Daemon Blackfyre, held to be the foremost knight at court, in the final tilt. He was seventeen, and his name of Breakspear is dated from that victory. Later, at Storm's End, he would also unhorse the hedge knight Ser Arlan of Pennytree, after four broken lances."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow, the trial of seven"
+        }
+      ]
+    },
+    {
+      "id": "baelor-fils-daeron-ii-herberouge",
+      "heading": {
+        "fr": "Le marteau",
+        "en": "The Hammer"
+      },
+      "body": {
+        "fr": "Pendant la rébellion de 196 apr. C., Baelor mène une armée de seigneurs de l'Orage et de Dorniens. Au Champ d'Herberouge, alors que Daemon est déjà tombé sous les flèches de Brynden Rivers et qu'Aegor Rivers lance une charge désespérée, il surgit sur les arrières des rebelles et les écrase contre le mur de boucliers de son frère Maekar. Une chanson naît de la bataille : Baelor y est le marteau, Maekar l'enclume.\n\nLa victoire lui vaut le respect de tout le royaume. Elle ne désarme pas tout à fait la méfiance des seigneurs des Marches, pour qui ce prince au teint dornien reste le symbole d'une cour trop ouverte à leurs vieux ennemis. Certains partisans du dragon noir lui font même grief de son prénom, celui d'un roi qu'ils tiennent pour le plus faible de la dynastie.\n\nAprès la guerre, Daeron II fait de son fils sa Main. Baelor la restera jusqu'à sa mort.",
+        "en": "During the rebellion of 196 AC Baelor led an army of stormlords and Dornishmen. On the Redgrass Field, when Daemon had already fallen to Brynden Rivers's arrows and Aegor Rivers was leading a desperate charge, he fell upon the rebels' rear and crushed them against the shield wall of his brother Maekar. A song was born of the battle: in it Baelor is the hammer and Maekar the anvil.\n\nThe victory won him the respect of the whole realm. It did not quite disarm the distrust of the marcher lords, for whom this prince of Dornish complexion remained the emblem of a court too open to their old enemies. Some partisans of the black dragon even held his name against him, that of a king they thought the weakest of the dynasty.\n\nAfter the war Daeron II made his son his Hand. Baelor would remain so until his death."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        }
+      ]
+    },
+    {
+      "id": "baelor-fils-daeron-ii-main",
+      "heading": {
+        "fr": "La Main du Roi",
+        "en": "The Hand of the King"
+      },
+      "body": {
+        "fr": "Baelor tient la charge avec un sens de la justice et une générosité qu'on compare à ceux de son père, et une autorité que celui-ci n'avait pas sur les hommes d'épée. Au conseil, il plaide pour la clémence envers les ennemis honorables, afin qu'ils n'aient pas de raison de se battre jusqu'à la mort ; Brynden Rivers lui oppose que chaque grâce prépare la rébellion suivante. Le jeune Aegon, qui assiste parfois à ces séances, rapportera plus tard le débat.\n\nIl épouse Jena Dondarrion, qui lui donne deux fils, Valarr et Matarys. En 209 apr. C., la succession paraît assurée sur deux générations.\n\nLe chevalier errant ser Arlan de Pennytree le tenait pour un prince chevaleresque et sage, et cette opinion semble avoir été la plus commune. Beaucoup voyaient déjà en lui le roi qui succéderait à Daeron II et poursuivrait son œuvre avec plus de fermeté.",
+        "en": "Baelor held the office with a sense of justice and a generosity compared to his father's, and with an authority over men of the sword that his father lacked. In council he argued for clemency toward honourable foes, so that they would have no reason to fight to the death; Brynden Rivers retorted that every pardon prepared the next rebellion. Young Aegon, who sometimes attended these sessions, would later report the debate.\n\nHe married Jena Dondarrion, who gave him two sons, Valarr and Matarys. In 209 AC the succession seemed assured for two generations.\n\nThe hedge knight Ser Arlan of Pennytree thought him a chivalrous and wise prince, and that seems to have been the common opinion. Many already saw in him the king who would succeed Daeron II and carry on his work with a firmer hand."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow, the trial of seven"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        }
+      ]
+    },
+    {
+      "id": "baelor-fils-daeron-ii-cendregue",
+      "heading": {
+        "fr": "Cendregué",
+        "en": "Ashford Meadow"
+      },
+      "body": {
+        "fr": "En 209 apr. C., au tournoi de Cendregué, Baelor se porte garant de ser Duncan, l'ancien écuyer de ser Arlan, pour qu'on l'admette dans les lices. Quand Duncan frappe le prince Aerion, fils de Maekar, pour protéger une montreuse de marionnettes, Aerion réclame un duel judiciaire à sept. Il manque un champion à Duncan ; Baelor prend sa place, contre son propre neveu, parce qu'il croit le chevalier.\n\nLe parti de Duncan l'emporte. Mais pendant la mêlée, Baelor a reçu à la tête un coup de la masse de son frère Maekar. Il meurt peu après, quand on lui retire son heaume, dans les bras de Duncan. Son corps est brûlé à Cendregué, selon l'usage de sa maison.\n\nLe coup passa pour un accident. Quelques mois plus tard, le Grand Fléau de Printemps emportait Valarr et Matarys, puis le roi : la branche aînée disparut en une saison, et la couronne s'éloigna de ceux qu'on avait préparés à la porter.",
+        "en": "In 209 AC, at the tourney of Ashford Meadow, Baelor vouched for Ser Duncan, Ser Arlan's former squire, so that he might be admitted to the lists. When Duncan struck Prince Aerion, Maekar's son, to protect a puppeteer, Aerion demanded a trial of seven. Duncan was a champion short; Baelor took the place, against his own nephew, because he believed the knight.\n\nDuncan's side prevailed. But during the melee Baelor had taken a blow to the head from his brother Maekar's mace. He died soon afterwards, when his helm was removed, in Duncan's arms. His body was burned at Ashford, after the custom of his house.\n\nThe blow was held to be an accident. A few months later the Great Spring Sickness carried off Valarr and Matarys, then the king: the elder branch vanished in a single season, and the crown moved away from those who had been prepared to wear it."
+      },
+      "sources": [
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow, the trial of seven"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "acok",
+          "locator": "Jon I (ch. 6)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-union-dorne",
+    "p6-herberouge",
+    "p6-cendregue-209"
+  ],
+  "warIds": [
+    "rebellion-feunoyr-1"
+  ],
+  "disputed": {
+    "fr": "Le coup mortel de Cendregué est tenu pour accidentel. Maekar craignit pourtant toute sa vie d'être regardé comme un meurtrier des siens, et il disait que la couronne lui était venue en châtiment de ce coup.",
+    "en": "The fatal blow at Ashford is held to have been an accident. Maekar nonetheless feared all his life that he would be regarded as a kinslayer, and he used to say that the crown had come to him as punishment for that blow."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon IV"
+    },
+    {
+      "id": "thk",
+      "locator": "Ashford Meadow, the trial of seven"
+    },
+    {
+      "id": "tss",
+      "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+    },
+    {
+      "id": "acok",
+      "locator": "Jon I (ch. 6)"
+    },
+    {
+      "id": "affc",
+      "locator": "Samwell III (ch. 26)"
+    }
+  ]
+}

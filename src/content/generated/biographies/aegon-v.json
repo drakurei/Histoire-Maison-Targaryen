@@ -1,0 +1,177 @@
+{
+  "personId": "aegon-v",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+      "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+    },
+    {
+      "fr": "Écuyer de ser Duncan le Grand",
+      "en": "Squire to Ser Duncan the Tall"
+    }
+  ],
+  "lead": {
+    "fr": "Quatrième fils d'un quatrième fils, Aegon V dut à un Grand Conseil un trône que rien ne lui destinait ; il régna de 233 à 259 apr. C. et mourut dans l'incendie de Lestival.",
+    "en": "The fourth son of a fourth son, Aegon V owed to a Great Council a throne he had never been meant to hold; he reigned from 233 to 259 AC and died in the fire at Summerhall."
+  },
+  "sections": [
+    {
+      "id": "aegon-v-oeuf",
+      "heading": {
+        "fr": "L'Œuf",
+        "en": "Egg"
+      },
+      "body": {
+        "fr": "Aegon naît en 200 apr. C., cinquième enfant et quatrième fils du prince Maekar et de Dyanna Dayne. On place dans son berceau un œuf de dragon veiné de vert et de blanc, qu'il gardera à Lestival. Page à Port-Réal pendant deux ans, il rêve d'entrer un jour dans la Garde Royale. En 209 apr. C., il doit servir d'écuyer à son frère Daeron au tournoi de Cendregué, mais Daeron s'enivre dans une auberge et lui rase la tête pour qu'on ne le reconnaisse pas.\n\nSous le surnom de « l'Œuf », l'enfant s'attache à un chevalier errant, Duncan, que l'on appellera Duncan le Grand. Quand Duncan est jugé pour avoir frappé Aerion, Aegon convainc ser Lyonel Baratheon de combattre à ses côtés. Après le jugement par sept, où meurt son oncle Baelor, Maekar veut faire de son fils un chevalier ; Aegon n'y consent que s'il est formé par Duncan. Celui-ci refuse une place à Lestival et propose d'emmener l'enfant sur les routes.",
+        "en": "Aegon was born in 200 AC, the fifth child and fourth son of Prince Maekar and Dyanna Dayne. A dragon's egg streaked with green and white was laid in his cradle, and he would keep it at Summerhall. A page in King's Landing for two years, he dreamed of one day joining the Kingsguard. In 209 AC he was to squire for his brother Daeron at the tourney at Ashford Meadow, but Daeron drank himself senseless at an inn and shaved the boy's head to hide who he was.\n\nUnder the name of “Egg”, the boy attached himself to a hedge knight, Duncan, later known as Duncan the Tall. When Duncan was tried for striking Aerion, Aegon persuaded Ser Lyonel Baratheon to fight at his side. After the trial of seven, in which his uncle Baelor died, Maekar wanted his son made a knight; Aegon agreed only if Duncan trained him. Duncan declined a place at Summerhall and offered instead to take the boy with him on the roads."
+      },
+      "sources": [
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        }
+      ]
+    },
+    {
+      "id": "aegon-v-routes",
+      "heading": {
+        "fr": "Sur les routes",
+        "en": "On the Roads"
+      },
+      "body": {
+        "fr": "Pendant plusieurs années, Aegon voyage avec Duncan sans révéler qui il est, la bague de son père cachée dans sa botte. Ils traversent Dorne et gagnent Villevieille par mer, où le mestre Aemon offre une mule à son jeune frère. Moins de deux ans après Cendregué, pendant une grande sécheresse, ils servent un vieux chevalier du Bief, ser Eustace Osgrey, dans sa querelle avec lady Rohanne Webber au sujet d'un ruisseau. C'est Aegon, qui sait lire, qui déchiffre pour Duncan la charte royale au cœur du litige.\n\nEn 212 apr. C., au tournoi de noces de Murs-Blancs, le maître et l'écuyer tombent au milieu d'un complot en faveur de Daemon II Feunoyr. Démasqué, Aegon montre sa bague et fait croire aux conjurés que son père marche sur le château avec une armée. Le lendemain, Brynden Rivers paraît en effet avec des troupes royales et le complot se dissout sans combat ; Aegon obtient de lui l'or qui permet à Duncan de racheter son cheval et ses armes.",
+        "en": "For several years Aegon travelled with Duncan without revealing who he was, his father's ring hidden in his boot. They crossed Dorne and reached Oldtown by sea, where Maester Aemon gave his young brother a mule. Less than two years after Ashford, during a great drought, they served an old knight of the Reach, Ser Eustace Osgrey, in his quarrel with Lady Rohanne Webber over a stream. It was Aegon, who could read, who made out for Duncan the royal charter at the heart of the dispute.\n\nIn 212 AC, at the wedding tourney at Whitewalls, knight and squire stumbled into a plot on behalf of Daemon II Blackfyre. Found out, Aegon showed his ring and led the conspirators to believe that his father was marching on the castle with an army. The next day Brynden Rivers did appear with royal troops and the plot dissolved without a fight; Aegon obtained from him the gold that let Duncan buy back his horse and arms."
+      },
+      "sources": [
+        {
+          "id": "tss",
+          "locator": "Standfast; Coldmoat"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        }
+      ]
+    },
+    {
+      "id": "aegon-v-conseil",
+      "heading": {
+        "fr": "Le roi improbable",
+        "en": "The Unlikely King"
+      },
+      "body": {
+        "fr": "Aegon combat en 219 apr. C. lors de la troisième rébellion Feunoyr et s'y montre courageux. En 220 apr. C., il épouse par amour Betha Blackwood ; le mariage ne soulève alors aucune objection, tant il est loin du trône. Ils auront cinq enfants : Duncan, Jaehaerys, Shaera, Daeron et Rhaelle.\n\nEn 233 apr. C., la mort de Maekar ouvre une succession que personne n'avait prévue. Daeron et Aerion sont morts, laissant une fille simple d'esprit et un nourrisson. Beaucoup de seigneurs tiennent Aegon pour « à moitié paysan » ; le Grand Conseil se tourne d'abord vers Aemon, qui refuse et le désigne. Aegon est couronné à trente-trois ans. Son premier acte est d'arrêter la Main, Brynden Rivers, qui a fait exécuter Aenys Feunoyr, venu sous sauf-conduit plaider sa cause : la parole du trône doit valoir quelque chose. Il lui laisse toutefois la vie et l'envoie au Mur, où Aemon choisit de le suivre.",
+        "en": "Aegon fought in the Third Blackfyre Rebellion in 219 AC and showed courage there. In 220 AC he married Betha Blackwood for love; the match raised no objection at the time, so far was he from the throne. They would have five children: Duncan, Jaehaerys, Shaera, Daeron and Rhaelle.\n\nIn 233 AC Maekar's death opened a succession no one had foreseen. Daeron and Aerion were dead, leaving a simple-minded daughter and an infant son. Many lords thought Aegon “half a peasant”; the Great Council turned first to Aemon, who refused and named him. Aegon was crowned at thirty-three. His first act was to arrest the Hand, Brynden Rivers, who had had Aenys Blackfyre executed after granting him safe conduct to plead his cause: the word of the throne had to be worth something. He spared his life, however, and sent him to the Wall, where Aemon chose to follow."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        }
+      ]
+    },
+    {
+      "id": "aegon-v-regne",
+      "heading": {
+        "fr": "Un règne contre les seigneurs",
+        "en": "A Reign Against the Lords"
+      },
+      "body": {
+        "fr": "Aegon arrive au pouvoir pendant un hiver de six ans et fait envoyer du grain dans le Nord affamé, au point qu'on lui reproche sa générosité. En 236 apr. C., Daemon III Feunoyr débarque avec la Compagnie Dorée ; le roi marche contre lui avec ses trois fils, et ser Duncan le Grand, entré dans sa Garde Royale, tue le prétendant au pont de la Wend.\n\nL'essentiel du règne se joue ailleurs. Instruit par ses années sur les routes, Aegon accorde au petit peuple des droits et des protections que les grands seigneurs prennent pour une atteinte à leur pouvoir. Sans dragons pour imposer sa volonté, il doit souvent transiger. Ses enfants lui donnent d'autres soucis. Il voulait les marier aux grandes maisons ; Duncan épouse une roturière, Jaehaerys et Shaera se marient en secret, Daeron rompt ses fiançailles. Le roi, qui avait lui-même épousé la femme qu'il aimait, finit chaque fois par céder.",
+        "en": "Aegon came to power during a winter that lasted six years and had grain sent to the starving North, so much that he was reproached for his generosity. In 236 AC Daemon III Blackfyre landed with the Golden Company; the king marched against him with his three sons, and Ser Duncan the Tall, now of his Kingsguard, slew the pretender at the Wendwater bridge.\n\nThe heart of the reign lay elsewhere. Taught by his years on the roads, Aegon granted the common people rights and protections that the great lords took as an encroachment on their power. With no dragons to enforce his will, he often had to compromise. His children gave him other worries. He had meant to marry them into the great houses; Duncan wed a commoner, Jaehaerys and Shaera married in secret, Daeron broke his betrothal. The king, who had himself married the woman he loved, gave way each time."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        }
+      ]
+    },
+    {
+      "id": "aegon-v-lestival",
+      "heading": {
+        "fr": "Lestival",
+        "en": "Summerhall"
+      },
+      "body": {
+        "fr": "En 259 apr. C., Aegon réunit les siens à Lestival, le château d'été de sa maison, pour attendre la naissance du premier enfant d'Aerys et de Rhaella. Un incendie détruit la demeure. Le roi y meurt, avec son fils Duncan et ser Duncan le Grand, devenu lord Commandant de la Garde Royale. Rhaegar naît le même jour, au milieu du désastre.\n\nCe qui s'est passé n'a jamais été établi. Les chroniques laissent entendre qu'Aegon voulait faire éclore des œufs de dragon, convaincu qu'il lui fallait des dragons pour faire plier les seigneurs ; les rares indices parvenus jusqu'aux mestres évoquent sept œufs, des pyromants et du feu grégeois. Les livres n'en disent pas davantage. Lestival n'est plus qu'une ruine, que Rhaegar aimera visiter seul. Au Mur, des décennies plus tard, Aemon dira que les rêves de dragons avaient tué ses trois frères, et l'Œuf avec eux.",
+        "en": "In 259 AC Aegon gathered his family at Summerhall, the summer seat of his house, to await the birth of the first child of Aerys and Rhaella. A fire destroyed the castle. The king died there, with his son Duncan and Ser Duncan the Tall, by then Lord Commander of the Kingsguard. Rhaegar was born the same day, in the midst of the disaster.\n\nWhat happened has never been established. The chronicles hint that Aegon wanted to hatch dragon's eggs, convinced that he needed dragons to bend the lords; the scant evidence that reached the maesters speaks of seven eggs, pyromancers and wildfire. The books say no more. Summerhall became a ruin that Rhaegar would like to visit alone. On the Wall, decades later, Aemon would say that dreams of dragons had killed his three brothers, Egg among them."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell III (ch. 26)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-cendregue-209",
+    "p6-murs-blancs",
+    "p6-troisieme-feunoyr",
+    "p6-grand-conseil-233",
+    "p6-quatrieme-feunoyr",
+    "p6-duncan-jenny",
+    "p6-lestival"
+  ],
+  "warIds": [
+    "rebellion-feunoyr-2",
+    "rebellion-feunoyr-3",
+    "rebellion-feunoyr-4"
+  ],
+  "disputed": {
+    "fr": "La tragédie de Lestival reste inexpliquée : on ignore si Aegon tenta réellement de faire éclore des dragons, comment le feu prit et qui, parmi les présents, survécut. Les sources ne disent pas non plus si son premier fils fut nommé en l'honneur de ser Duncan le Grand, comme on le suppose.",
+    "en": "The tragedy of Summerhall remains unexplained: it is not known whether Aegon really tried to hatch dragons, how the fire started or who among those present survived. Nor do the sources say whether his first son was named in honour of Ser Duncan the Tall, as is supposed."
+  },
+  "sources": [
+    {
+      "id": "thk",
+      "locator": "Ashford Meadow"
+    },
+    {
+      "id": "tss",
+      "locator": "Standfast; Coldmoat"
+    },
+    {
+      "id": "tmk",
+      "locator": "Whitewalls"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Maekar I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon V"
+    },
+    {
+      "id": "affc",
+      "locator": "Samwell III (ch. 26)"
+    }
+  ]
+}

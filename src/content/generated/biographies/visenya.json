@@ -1,0 +1,162 @@
+{
+  "personId": "visenya",
+  "titles": [
+    {
+      "fr": "Reine, épouse d'Aegon Ier",
+      "en": "Queen, wife of Aegon I"
+    },
+    {
+      "fr": "Reine douairière",
+      "en": "Dowager Queen"
+    }
+  ],
+  "lead": {
+    "fr": "Sœur aînée et épouse d'Aegon le Conquérant, dragonnière de Vhagar, mère de Maegor Ier et fondatrice de la Garde Royale.",
+    "en": "Elder sister and wife of Aegon the Conqueror, rider of Vhagar, mother of Maegor I and founder of the Kingsguard."
+  },
+  "sections": [
+    {
+      "id": "visenya-l-ainee",
+      "heading": {
+        "fr": "L'aînée",
+        "en": "The Eldest"
+      },
+      "body": {
+        "fr": "Visenya naquit à Peyredragon en 29 av. C., premier enfant d'Aerion Targaryen et de Valaena Velaryon. Elle s'exerça aux armes dès l'enfance avec son frère Aegon et porta toute sa vie Sœur Noire, une épée d'acier valyrien. Avant son mariage, elle s'était liée à Vhagar, née sur l'île pendant le Siècle de sang.\n\nElle épousa Aegon selon la coutume, comme on l'attendait de l'aînée ; qu'il prît aussi pour femme leur cadette, Rhaenys, sortait davantage de l'usage. Les chroniques opposent volontiers les deux sœurs : la cadette gaie et curieuse, l'aînée grave, exigeante, peu portée au pardon. Certains l'accusaient de s'intéresser aux poisons et aux arts obscurs. Ces portraits ont été écrits longtemps après, par des auteurs qui connaissaient la suite de son histoire, et ils doivent sans doute autant au règne de son fils qu'à sa propre conduite.",
+        "en": "Visenya was born on Dragonstone in 29 BC, the first child of Aerion Targaryen and Valaena Velaryon. She trained at arms from childhood alongside her brother Aegon and carried Dark Sister, a sword of Valyrian steel, all her life. Before her marriage she had bonded with Vhagar, hatched on the island during the Century of Blood.\n\nShe married Aegon by custom, as was expected of the eldest; that he also took their younger sister Rhaenys to wife was further from usage. The chronicles like to set the two sisters against each other: the younger cheerful and curious, the elder grave, demanding, slow to forgive. Some accused her of dabbling in poisons and dark arts. These portraits were written long afterwards by authors who knew how her story continued, and they probably owe as much to her son's reign as to her own conduct."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon I"
+        }
+      ]
+    },
+    {
+      "id": "visenya-la-conquete-et-dorne",
+      "heading": {
+        "fr": "La Conquête et la guerre de Dorne",
+        "en": "The Conquest and the Dornish War"
+      },
+      "body": {
+        "fr": "Pendant la Conquête, Visenya mena ses propres campagnes. Elle obtint la soumission de Stokeworth, puis, après la défaite de la flotte Targaryen devant Goëville, incendia les navires du Val du haut de Vhagar. Elle combattit au Champ de Feu avec son frère et sa sœur. Enfin, alors que l'armée du Val gardait la Porte Sanglante, elle posa son dragon dans la cour des Eyrié ; la régente Sharra Arryn se soumit sans combat.\n\nAprès la mort de Rhaenys à Denfert en 10 apr. C., elle partagea avec Aegon les représailles contre Dorne. Les Dorniens répondirent par des assassins, et elle dut elle-même se défendre à Port-Réal. C'est elle qui convainquit le roi de s'entourer d'une garde : pour lui montrer la lenteur de ses gardes, elle lui entailla la joue de sa propre épée. Elle choisit les sept premiers chevaliers et leur donna des vœux inspirés de ceux de la Garde de Nuit.",
+        "en": "During the Conquest Visenya led campaigns of her own. She brought about the submission of Stokeworth, then, after the Targaryen fleet was beaten off Gulltown, burned the ships of the Vale from Vhagar's back. She fought at the Field of Fire beside her brother and sister. Last, while the host of the Vale held the Bloody Gate, she set her dragon down in the yard of the Eyrie; the regent Sharra Arryn yielded without a fight.\n\nAfter Rhaenys died at the Hellholt in 10 AC, she shared with Aegon the reprisals against Dorne. The Dornish answered with assassins, and she had to defend herself in King's Landing. It was she who persuaded the king to surround himself with a guard: to show him how slow his guards were, she cut his cheek with her own sword. She chose the first seven knights and gave them vows modelled on those of the Night's Watch."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "Reign of the Dragon: The Wars of King Aegon I"
+        },
+        {
+          "id": "fab",
+          "locator": "Three Heads Had the Dragon: Governance Under King Aegon I"
+        }
+      ]
+    },
+    {
+      "id": "visenya-la-mere-de-maegor",
+      "heading": {
+        "fr": "La mère de Maegor",
+        "en": "Maegor's Mother"
+      },
+      "body": {
+        "fr": "Pendant plus de dix ans, Visenya n'eut pas d'enfant, et l'on finit par la dire stérile. Quand la mort de Rhaenys laissa Aenys, leur seul héritier, chétif et désemparé, des seigneurs amenèrent leurs filles à la cour dans l'espoir d'un nouveau mariage royal. En 11 apr. C., Visenya annonça sa grossesse ; Maegor naquit l'année suivante à Peyredragon, où elle l'éleva loin de son demi-frère.\n\nToute la suite de sa vie s'ordonne autour de ce fils. Après la naissance de Rhaena, fille d'Aenys, en 23 apr. C., elle proposa de la fiancer à Maegor pour régler d'avance l'ordre de succession ; la Foi et les parents de l'enfant s'y opposèrent. Ses rapports avec Aegon, jamais chaleureux, se refroidirent encore. Lorsque le roi fit bâtir le Donjon Rouge, en 35 apr. C., il lui en confia le chantier ; on murmura à la cour qu'il voulait surtout la tenir éloignée de Peyredragon.",
+        "en": "For more than ten years Visenya had no child, and she came to be thought barren. When Rhaenys's death left Aenys, their only heir, sickly and lost, lords brought their daughters to court in the hope of a new royal marriage. In 11 AC Visenya announced that she was with child; Maegor was born the following year on Dragonstone, where she raised him apart from his half-brother.\n\nThe rest of her life was ordered around that son. After the birth of Rhaena, Aenys's daughter, in 23 AC, she proposed betrothing the girl to Maegor to settle the succession in advance; the Faith and the child's parents opposed it. Her relations with Aegon, never warm, cooled further. When the king had the Red Keep built in 35 AC, he put her in charge of the works; it was whispered at court that he chiefly wished to keep her away from Dragonstone."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Three Heads Had the Dragon: Governance Under King Aegon I"
+        },
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        }
+      ]
+    },
+    {
+      "id": "visenya-faire-un-roi",
+      "heading": {
+        "fr": "Faire un roi",
+        "en": "Making a King"
+      },
+      "body": {
+        "fr": "Sous Aenys, Visenya ne cacha pas son mépris pour un roi qui, en remettant Feunoyr à Maegor, avait reconnu lui-même qu'il manquait de force. En 39 apr. C., elle célébra selon le rite valyrien le second mariage de son fils ; en 41 apr. C., elle quitta le festin où Aenys donnait à son propre fils le titre de prince de Peyredragon. Quand le roi, réfugié sur l'île, tomba malade, elle le soigna ; il mourut en 42 apr. C., et elle partit aussitôt sur Vhagar chercher Maegor à Pentos.\n\nElle le fit couronner, le soutint à Port-Réal, brûla les châteaux de seigneurs qui refusaient de se soumettre et marcha avec lui sur Villevieille. Elle obtint aussi qu'il épargne plusieurs nobles rebelles après sa victoire sous l'Œildieu. En 44 apr. C., amaigrie et usée, elle mourut à Peyredragon pendant que son fils guerroyait. On l'incinéra et l'on plaça ses cendres près de celles d'Aegon.",
+        "en": "Under Aenys, Visenya made no secret of her contempt for a king who, by handing Blackfyre to Maegor, had admitted his own want of strength. In 39 AC she performed her son's second marriage by the Valyrian rite; in 41 AC she left the feast at which Aenys gave his own son the title of Prince of Dragonstone. When the king fell ill after taking refuge on the island, she nursed him; he died in 42 AC, and she flew at once on Vhagar to fetch Maegor from Pentos.\n\nShe had him crowned, stood behind him in King's Landing, burned the castles of lords who would not submit and marched with him on Oldtown. She also persuaded him to spare several highborn rebels after his victory beneath the Gods Eye. In 44 AC, wasted and worn, she died on Dragonstone while her son was campaigning. She was burned and her ashes laid beside Aegon's."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maegor I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "vhagar"
+  ],
+  "eventIds": [
+    "p2-naissance-aegon",
+    "p2-double-mariage",
+    "p3-debarquement",
+    "p3-goeville",
+    "p3-champ-de-feu",
+    "p3-eyrie",
+    "p4-denfert",
+    "p4-soulevement-foi",
+    "p4-maegor-roi"
+  ],
+  "warIds": [
+    "conquete",
+    "premiere-guerre-dornienne",
+    "soulevement-foi-militante"
+  ],
+  "disputed": {
+    "fr": "Après sa mort, on l'accusa d'avoir hâté celle d'Aenys, qu'elle soignait et dont la disparition ouvrait le trône à son fils ; aucune preuve n'en a été donnée, et la plupart des récits parlent d'une maladie. La réputation d'empoisonneuse et de sorcière qu'on lui prête relève de la rumeur.",
+    "en": "After her death she was accused of hastening that of Aenys, whom she was nursing and whose passing opened the throne to her son; no proof was ever offered, and most accounts speak of illness. The reputation for poisons and sorcery attached to her rests on rumour."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Aegon's Conquest"
+    },
+    {
+      "id": "fab",
+      "locator": "Reign of the Dragon: The Wars of King Aegon I"
+    },
+    {
+      "id": "fab",
+      "locator": "Three Heads Had the Dragon: Governance Under King Aegon I"
+    },
+    {
+      "id": "fab",
+      "locator": "The Sons of the Dragon"
+    },
+    {
+      "id": "tsotd"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Maegor I"
+    }
+  ]
+}

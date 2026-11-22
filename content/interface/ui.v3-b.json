@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-v3-groupe-b",
+  "note": "Version 3, groupe B : lignée, personnages, fiche. Le reste réutilise les clés communes, v1.* (page.lignee.*, page.person.*, page.people.*) et v2.* (v2.lineage.*, v2.people.*, v2.person.*).",
+  "items": [
+    {
+      "key": "v3.lignee.compte",
+      "fr": "{n} personnes, {generations} générations",
+      "en": "{n} people, {generations} generations"
+    },
+    {
+      "key": "v3.lignee.how",
+      "fr": "Touchez un nom pour le placer au centre. Les âges suivent l’année réglée.",
+      "en": "Touch a name to place that person at the centre. Ages follow the year that is set."
+    },
+    {
+      "key": "v3.lignee.retour_pal",
+      "fr": "Revenir au fil de la lignée",
+      "en": "Back to the line of descent"
+    },
+    {
+      "key": "v3.lignee.lien_label",
+      "fr": "Lien de parenté entre deux personnes",
+      "en": "Kinship between two people"
+    },
+    {
+      "key": "v3.lignee.people_lead",
+      "fr": "{n} vies, de la plus ancienne à la plus récente. Trait plein pour les années sûres, pointillé pour ce que les sources laissent ouvert, or pour le règne.",
+      "en": "{n} lives, from the earliest to the latest. A solid stroke for the certain years, a dotted one for what the sources leave open, gold for the reign."
+    },
+    {
+      "key": "v3.lignee.tri_naissance",
+      "fr": "par naissance",
+      "en": "by birth"
+    },
+    {
+      "key": "v3.lignee.jump_letter",
+      "fr": "Aller à une lettre",
+      "en": "Jump to a letter"
+    },
+    {
+      "key": "v3.lignee.index",
+      "fr": "Index des noms",
+      "en": "Index of names"
+    },
+    {
+      "key": "v3.lignee.marge",
+      "fr": "Règne et place dans la lignée",
+      "en": "Reign and place in the line"
+    },
+    {
+      "key": "v3.lignee.colonne",
+      "fr": "Sa lignée, ses dragons, sa vie",
+      "en": "Lineage, dragons and life"
+    },
+    {
+      "key": "v3.lignee.deplier",
+      "fr": "Montrer les {n} générations plus anciennes",
+      "en": "Show the {n} earlier generations"
+    }
+  ]
+}

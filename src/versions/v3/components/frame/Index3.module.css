@@ -1,0 +1,176 @@
+/*
+ * L'Index : feuille plein écran sur le champ. Les dos empilés sans jour à gauche (une
+ * étagère couchée), les registres à droite en grand. Aucun cadre, aucun filet.
+ */
+.root {
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: var(--obsidienne);
+  color: var(--ivoire);
+  overscroll-behavior: contain;
+  animation: venir var(--d-geste-court) var(--c-expo) both;
+}
+
+.root::backdrop {
+  background: var(--obsidienne);
+}
+
+@keyframes venir {
+  from {
+    opacity: 0;
+  }
+}
+
+.feuille {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  grid-template-areas:
+    'tete tete tete tete tete tete tete tete tete tete tete tete'
+    'vol vol vol vol vol vol vol . reg reg reg reg'
+    'pied pied pied pied pied pied pied . reg reg reg reg';
+  grid-template-rows: auto auto 1fr;
+  column-gap: var(--gouttiere);
+  row-gap: var(--e6);
+  min-height: 100%;
+  padding: var(--e5) var(--marge-page) var(--e7);
+}
+
+.tete {
+  grid-area: tete;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--e4);
+}
+
+.titre {
+  font-size: var(--t4);
+  font-weight: 300;
+}
+
+.titre :global(.gloss__tr) {
+  margin-top: max(var(--e3), 0.2em);
+  font-size: var(--t0);
+}
+
+.actions {
+  display: flex;
+  gap: var(--e4);
+}
+
+.action {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding-inline: var(--e2);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--ivoire);
+}
+
+.action :global(.gloss__main) {
+  text-decoration: underline 2px var(--cendre);
+  text-underline-offset: 3px;
+}
+
+.action:hover :global(.gloss__main),
+.action:focus-visible :global(.gloss__main) {
+  text-decoration-color: var(--braise);
+}
+
+/* ------------------------------------------------------------ Les huit dos */
+.volumes {
+  grid-area: vol;
+}
+
+.dos {
+  display: grid;
+}
+
+/* ------------------------------------------------------------ Les neuf registres */
+.registres {
+  grid-area: reg;
+}
+
+.listeRegistres {
+  display: grid;
+  gap: var(--e3);
+}
+
+.registre {
+  display: inline-flex;
+  min-height: 2.75rem;
+  text-decoration: none;
+  color: var(--ivoire);
+}
+
+.registre :global(.gloss__main) {
+  font-family: var(--f-chronique);
+  font-weight: 350;
+  font-size: var(--t2);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  text-decoration-line: underline;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 6px;
+  text-decoration-color: transparent;
+}
+
+.registre :global(.gloss__tr) {
+  margin-top: 0.35rem;
+  font-size: var(--t-1);
+}
+
+.registre:hover :global(.gloss__main),
+.registre:focus-visible :global(.gloss__main) {
+  text-decoration-color: var(--braise);
+}
+
+/* ------------------------------------------------------------ Pied */
+.pied {
+  grid-area: pied;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  align-self: start;
+  column-gap: var(--e6);
+  row-gap: var(--e3);
+}
+
+.lienPied {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  color: var(--ivoire);
+}
+
+.lienPied :global(.gloss__main) {
+  font-family: var(--f-musee);
+}
+
+@media (width < 1024px) {
+  .feuille {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      'tete'
+      'vol'
+      'reg'
+      'pied';
+    grid-template-rows: none;
+    row-gap: var(--e6);
+    padding-inline: 0;
+  }
+
+  .tete,
+  .registres,
+  .pied {
+    padding-inline: var(--marge-page);
+  }
+}

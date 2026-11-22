@@ -1,0 +1,236 @@
+{
+  "personId": "daenerys-fille-aerys-ii",
+  "titles": [
+    {
+      "fr": "Reine de Meereen",
+      "en": "Queen of Meereen"
+    },
+    {
+      "fr": "Prétendante au Trône de Fer",
+      "en": "Claimant to the Iron Throne"
+    },
+    {
+      "fr": "Khaleesi",
+      "en": "Khaleesi"
+    },
+    {
+      "fr": "Mère des dragons",
+      "en": "Mother of Dragons"
+    }
+  ],
+  "lead": {
+    "fr": "Dernière enfant d'Aerys II, née après la chute de sa maison, Daenerys fit naître les premiers dragons connus depuis plus d'un siècle et régna sur Meereen ; à la fin des livres parus, elle se trouve dans la mer Dothrak avec Drogon.",
+    "en": "The last child of Aerys II, born after the fall of her house, Daenerys brought forth the first dragons known in more than a century and ruled Meereen; at the end of the published books she is in the Dothraki sea with Drogon."
+  },
+  "sections": [
+    {
+      "id": "daenerys-fille-aerys-ii-enfance",
+      "heading": {
+        "fr": "Née du typhon",
+        "en": "Born in the Storm"
+      },
+      "body": {
+        "fr": "Daenerys naît à Peyredragon en 284 apr. C., quelques mois après la mort de son père, pendant une tempête qui détruit ce qui reste de la flotte royale ; sa mère meurt en la mettant au monde. On l'appellera Daenerys du Typhon. Ser Willem Darry l'emmène avec son frère Viserys à Braavos avant que la garnison ne les livre. Elle gardera le souvenir d'une maison à la porte rouge et d'un citronnier sous sa fenêtre, seules années paisibles de son enfance.\n\nAprès la mort du vieux chevalier, les deux enfants errent de cité en cité. Viserys lui enseigne la grandeur de leur maison et la frappe à la moindre contrariété. Elle grandit dans la crainte de son frère, persuadée qu'elle l'épousera un jour, comme le veut la vieille coutume des Targaryen. Vers 297 apr. C., le magistrat Illyrio Mopatis les recueille à Pentos.",
+        "en": "Daenerys was born on Dragonstone in 284 AC, a few months after her father's death, during a storm that wrecked what remained of the royal fleet; her mother died bringing her into the world. She would be called Daenerys Stormborn. Ser Willem Darry carried her and her brother Viserys off to Braavos before the garrison could give them up. She would remember a house with a red door and a lemon tree beneath her window, the only peaceful years of her childhood.\n\nAfter the old knight died, the two children wandered from city to city. Viserys taught her the greatness of their house and struck her at the least annoyance. She grew up in fear of her brother, convinced that she would marry him one day, as the old Targaryen custom required. Around 297 AC the magister Illyrio Mopatis took them in at Pentos."
+      },
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Daenerys I (ch. 3)"
+        }
+      ]
+    },
+    {
+      "id": "daenerys-fille-aerys-ii-drogo",
+      "heading": {
+        "fr": "Khaleesi",
+        "en": "Khaleesi"
+      },
+      "body": {
+        "fr": "Viserys vend la main de sa sœur au khal Drogo contre la promesse d'une armée. Aux noces, célébrées hors des murs de Pentos, Illyrio offre à la mariée trois œufs de dragon changés en pierre par les siècles ; ser Jorah Mormont, chevalier exilé, lui donne des livres. D'abord terrifiée, Daenerys apprend la langue et les usages des Dothraki, gagne l'amour de son époux et le respect du khalasar, tandis que son frère perd le sien. À Vaes Dothrak, elle voit Drogo couronner Viserys d'or fondu.\n\nQuand un marchand de vin tente de l'empoisonner pour gagner la récompense promise par Robert Baratheon, Drogo jure de conquérir les Sept Couronnes pour leur fils. Peu après, une blessure mal soignée l'abat. Pour le sauver, Daenerys accepte la magie de sang de Mirri Maz Duur. Le sortilège lui coûte l'enfant qu'elle porte, Rhaego, mort-né, et ne rend à Drogo que la vie sans l'esprit. Elle l'étouffe sous un coussin.",
+        "en": "Viserys sold his sister's hand to Khal Drogo for the promise of an army. At the wedding, held outside the walls of Pentos, Illyrio gave the bride three dragon's eggs turned to stone by the centuries; Ser Jorah Mormont, an exiled knight, gave her books. Terrified at first, Daenerys learned the language and customs of the Dothraki and won her husband's love and the khalasar's respect, while her brother lost his. At Vaes Dothrak she watched Drogo crown Viserys with molten gold.\n\nWhen a wine seller tried to poison her to earn the reward offered by Robert Baratheon, Drogo swore to conquer the Seven Kingdoms for their son. Soon afterwards a badly tended wound brought him down. To save him, Daenerys accepted the blood magic of Mirri Maz Duur. The spell cost her the child she carried, Rhaego, stillborn, and gave Drogo back only life without mind. She smothered him with a cushion."
+      },
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Daenerys II (ch. 11)"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys V (ch. 46)"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys VII (ch. 61)"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys IX (ch. 68)"
+        }
+      ]
+    },
+    {
+      "id": "daenerys-fille-aerys-ii-dragons",
+      "heading": {
+        "fr": "Le bûcher et les dragons",
+        "en": "The Pyre and the Dragons"
+      },
+      "body": {
+        "fr": "Daenerys fait dresser le bûcher funèbre de Drogo, y place ses trois œufs et y fait lier la sorcière. Au passage d'une comète rouge, elle entre dans les flammes. Au matin, on la retrouve vivante dans les cendres, avec trois dragons accrochés à elle. Elle les nomme Drogon, d'après son époux, Rhaegal et Viserion, d'après ses frères. Ce sont les premiers dragons connus depuis la mort du dernier, sous le règne d'Aegon III.\n\nAvec les restes du khalasar, elle traverse le désert rouge, puis gagne Qarth, où chacun convoite ses dragons. Dans la Maison des Nonmourants, elle voit une suite de visions, dont son frère Rhaegar parlant d'un prince promis et d'un dragon à trois têtes ; les Nonmourants lui annoncent qu'elle connaîtra trois trahisons. Drogon met le feu au palais des conjurateurs. Sur les quais, deux inconnus envoyés par Illyrio, un vieil écuyer nommé Arstan Barbe-Blanche et un colosse, entrent à son service.",
+        "en": "Daenerys had Drogo's funeral pyre built, placed her three eggs on it and had the witch bound to it. As a red comet passed, she walked into the flames. In the morning she was found alive in the ashes, three dragons clinging to her. She named them Drogon, after her husband, and Rhaegal and Viserion, after her brothers. They were the first dragons known since the death of the last one, in the reign of Aegon III.\n\nWith what was left of the khalasar she crossed the red waste and reached Qarth, where everyone coveted her dragons. In the House of the Undying she saw a series of visions, among them her brother Rhaegar speaking of a prince that was promised and of a dragon with three heads; the Undying told her she would know three treasons. Drogon set the warlocks' palace on fire. On the docks two strangers sent by Illyrio, an old squire called Arstan Whitebeard and a giant of a man, entered her service."
+      },
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Daenerys X (ch. 72)"
+        },
+        {
+          "id": "acok",
+          "locator": "Daenerys IV (ch. 48)"
+        },
+        {
+          "id": "acok",
+          "locator": "Daenerys V (ch. 63)"
+        }
+      ]
+    },
+    {
+      "id": "daenerys-fille-aerys-ii-baie",
+      "heading": {
+        "fr": "La baie des Serfs",
+        "en": "Slaver's Bay"
+      },
+      "body": {
+        "fr": "À Astapor, Daenerys achète l'armée entière des Immaculés en offrant Drogon en paiement. Le marché conclu, elle ordonne au dragon de brûler le marchand et aux soldats de tuer leurs maîtres, puis elle les affranchit. Yunkai se rend, Meereen tombe par ses égouts. Elle apprend alors que Jorah Mormont l'a espionnée pour Robert et le chasse, et que le vieil écuyer de sa garde n'est autre que ser Barristan Selmy. Plutôt que de partir pour Westeros en laissant derrière elle des cités livrées au désordre, elle choisit de rester et de régner à Meereen.\n\nLe règne est rude. Une société secrète, les Fils de la Harpie, assassine ses affranchis. Accusé d'avoir tué une enfant, Drogon échappe à la capture, tandis que Daenerys fait enchaîner Rhaegal et Viserion sous la Grande Pyramide. Pour obtenir la paix, elle épouse un noble meereenien, Hizdahr zo Loraq, et laisse rouvrir les arènes, tout en gardant pour amant le capitaine mercenaire Daario Naharis.",
+        "en": "At Astapor Daenerys bought the whole army of the Unsullied by offering Drogon in payment. Once the bargain was struck, she ordered the dragon to burn the slaver and the soldiers to kill their masters, then freed them. Yunkai surrendered, Meereen fell through its sewers. She then learned that Jorah Mormont had spied on her for Robert and sent him away, and that the old squire of her guard was none other than Ser Barristan Selmy. Rather than leave for Westeros with cities in disorder behind her, she chose to stay and rule in Meereen.\n\nHer rule was hard. A secret society, the Sons of the Harpy, murdered her freedmen. Accused of killing a child, Drogon escaped capture, while Daenerys had Rhaegal and Viserion chained beneath the Great Pyramid. To win peace she married a Meereenese noble, Hizdahr zo Loraq, and allowed the fighting pits to reopen, while keeping the sellsword captain Daario Naharis as her lover."
+      },
+      "sources": [
+        {
+          "id": "asos",
+          "locator": "Daenerys III (ch. 27)"
+        },
+        {
+          "id": "asos",
+          "locator": "Daenerys VI (ch. 71)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys II (ch. 11)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys VI (ch. 36)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys VII (ch. 43)"
+        }
+      ]
+    },
+    {
+      "id": "daenerys-fille-aerys-ii-daznak",
+      "heading": {
+        "fr": "L'arène de Daznak",
+        "en": "Daznak's Pit"
+      },
+      "body": {
+        "fr": "Lors des jeux de réouverture, dans l'arène de Daznak, l'odeur du sang attire Drogon, qui s'abat au milieu des combats. Daenerys descend dans l'arène, monte sur son dos et s'envole sous les yeux de la ville. En son absence, le prince Quentyn Martell, venu de Dorne lui offrir sa main, tente de s'approprier l'un des dragons enfermés et meurt brûlé ; Rhaegal et Viserion s'échappent.\n\nEmportée loin de Meereen, Daenerys vit des jours de faim et de fièvre près du repaire de Drogon, dans la mer Dothrak. Elle comprend qu'elle a trop longtemps voulu être autre chose que ce qu'elle est et se répète la devise de sa maison. C'est alors qu'un khalasar, celui du khal Jhaqo, la trouve, le dragon à ses côtés. Les livres parus s'arrêtent là. Pendant ce temps, à l'ouest, un jeune homme qui se dit fils de Rhaegar a pris pied en Westeros.",
+        "en": "At the games that marked the reopening, in Daznak's Pit, the smell of blood drew Drogon, who swooped down into the middle of the fighting. Daenerys went down into the pit, climbed onto his back and flew off before the eyes of the city. In her absence Prince Quentyn Martell, who had come from Dorne to offer her his hand, tried to claim one of the chained dragons and died of his burns; Rhaegal and Viserion broke free.\n\nCarried far from Meereen, Daenerys lived through days of hunger and fever near Drogon's lair in the Dothraki sea. She understood that she had too long tried to be something other than what she was, and repeated to herself the words of her house. It was then that a khalasar, that of Khal Jhaqo, found her with the dragon at her side. The published books end there. Meanwhile, in the west, a young man calling himself Rhaegar's son had set foot in Westeros."
+      },
+      "sources": [
+        {
+          "id": "adwd",
+          "locator": "Daenerys IX (ch. 52)"
+        },
+        {
+          "id": "adwd",
+          "locator": "The Dragontamer (ch. 68)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys X (ch. 71)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "drogon",
+    "rhaegal",
+    "viserion"
+  ],
+  "eventIds": [
+    "p7-naissance-daenerys",
+    "p7-exil",
+    "p8-noces-oeufs",
+    "p8-mort-viserys",
+    "p8-eclosion",
+    "p8-qarth",
+    "p8-astapor",
+    "p8-meereen",
+    "p8-mort-aemon",
+    "p8-dragons-enchaines",
+    "p8-arene-daznak",
+    "p8-quentyn",
+    "p8-mer-dothrak",
+    "tv-p8-viserion",
+    "tv-p8-rhaegal",
+    "tv-p8-fin"
+  ],
+  "warIds": [
+    "guerres-de-daenerys"
+  ],
+  "disputed": {
+    "fr": "Les romans ne datent pas les années d'exil et de conquête : les années données ici sont reconstituées à partir de la chronologie interne du récit. Mirri Maz Duur lui a laissé entendre qu'elle n'aurait plus d'enfant, sans que les livres disent si la prédiction est juste. Mestre Aemon voyait en elle le prince promis, ce que rien n'établit.",
+    "en": "The novels do not date the years of exile and conquest: the years given here are reconstructed from the internal chronology of the story. Mirri Maz Duur hinted that she would bear no more children, and the books do not say whether the prediction is true. Maester Aemon saw her as the prince that was promised, which nothing establishes."
+  },
+  "adaptation": {
+    "fr": "La série Game of Thrones prolonge son histoire bien au-delà des livres : retour en Westeros, mort de Viserion au-delà du Mur et de Rhaegal devant Peyredragon, incendie de Port-Réal, mort de la main de Jon Snow. Rien de cela ne figure dans les livres parus.",
+    "en": "The Game of Thrones series carries her story far beyond the books: a return to Westeros, the deaths of Viserion beyond the Wall and of Rhaegal off Dragonstone, the burning of King's Landing, and her death at the hand of Jon Snow. None of this appears in the published books."
+  },
+  "sources": [
+    {
+      "id": "agot",
+      "locator": "Daenerys I (ch. 3)"
+    },
+    {
+      "id": "agot",
+      "locator": "Daenerys II (ch. 11)"
+    },
+    {
+      "id": "agot",
+      "locator": "Daenerys IX (ch. 68)"
+    },
+    {
+      "id": "agot",
+      "locator": "Daenerys X (ch. 72)"
+    },
+    {
+      "id": "acok",
+      "locator": "Daenerys IV (ch. 48)"
+    },
+    {
+      "id": "asos",
+      "locator": "Daenerys III (ch. 27)"
+    },
+    {
+      "id": "asos",
+      "locator": "Daenerys VI (ch. 71)"
+    },
+    {
+      "id": "adwd",
+      "locator": "Daenerys II (ch. 11)"
+    },
+    {
+      "id": "adwd",
+      "locator": "Daenerys IX (ch. 52)"
+    },
+    {
+      "id": "adwd",
+      "locator": "Daenerys X (ch. 71)"
+    },
+    {
+      "id": "got",
+      "locator": "Seasons 7 and 8"
+    }
+  ]
+}

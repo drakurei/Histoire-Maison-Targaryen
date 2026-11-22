@@ -1,0 +1,144 @@
+/*
+ * Copie adaptée de LieuxScene.module.css (V2). Champ plein des lieux. La carte et la colonne partagent la même cellule de grille : la
+ * carte, collante, reste entre le haut de la fenêtre et la fasce pendant que la colonne
+ * (réserve d'obsidienne opaque) défile par-dessus elle. Le document défile, pas un conteneur.
+ */
+.scene {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  margin-top: calc(-1 * var(--e6));
+  margin-inline: calc(-1 * var(--marge-page));
+  margin-bottom: calc(-1 * var(--e7));
+}
+
+.carte,
+.colonne {
+  grid-area: 1 / 1;
+}
+
+/*
+ * La carte commence au bord de la colonne : sous elle, opaque, elle ne montrait rien, et le
+ * cadre décalé sous la colonne sortait du monde dessiné (WorldMap le borne). Même largeur que
+ * la colonne, mêmes bornes.
+ */
+.carte {
+  position: sticky;
+  top: 0;
+  align-self: start;
+  margin-inline-start: clamp(22rem, calc(var(--marge-page) + 3 * var(--v2-colonne) + 3 * var(--gouttiere)), 30rem);
+  height: calc(100svh - var(--v2-ligne) - var(--v2-fasce-totale));
+  min-height: 24rem;
+}
+
+.colonne {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  align-content: start;
+  gap: var(--e6);
+  width: calc(var(--marge-page) + 3 * var(--v2-colonne) + 3 * var(--gouttiere));
+  min-width: 22rem;
+  max-width: 30rem;
+  min-height: calc(100svh - var(--v2-ligne) - var(--v2-fasce-totale));
+  padding: var(--e6) var(--e6) var(--e7) var(--marge-page);
+  background: var(--v2-reserve);
+}
+
+.pleinEcran {
+  display: none;
+}
+
+/*
+ * Lieux de l'année réglée en braise (spec §5.12) : la carte efface les autres à demi
+ * (`data-muted`) ; ceux qui restent pleins, hors du lieu choisi, prennent la braise.
+ */
+.carte[data-annee] :global([data-kind]:not([data-muted]):not([data-selected])) {
+  --map-place: var(--braise);
+}
+
+.dialogue {
+  width: 100vw;
+  max-width: none;
+  height: 100svh;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: var(--obsidienne);
+  color: var(--ivoire);
+}
+
+.dialogue::backdrop {
+  background: var(--obsidienne);
+}
+
+.dialogueCarte {
+  position: absolute;
+  inset: 0 0 3.5rem;
+}
+
+.fermer,
+.pleinEcran {
+  min-height: 2.75rem;
+  padding: 0 var(--e4);
+  border: 0;
+  background: var(--obsidienne);
+  color: var(--ivoire);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t0);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+  cursor: pointer;
+}
+
+.fermer:hover,
+.fermer:focus-visible,
+.pleinEcran:hover,
+.pleinEcran:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+.fermer {
+  position: absolute;
+  left: var(--marge-page);
+  bottom: 0.4rem;
+}
+
+/* Téléphone et tablette : la carte fixe en tête, la colonne dessous, dans le flux. */
+@media (width < 1024px) {
+  .scene {
+    margin-top: calc(-1 * var(--e5));
+    margin-bottom: 0;
+  }
+
+  .carte,
+  .colonne {
+    grid-area: auto;
+  }
+
+  .carte {
+    position: relative;
+    margin-inline-start: 0;
+    height: 55svh;
+    min-height: 18rem;
+  }
+
+  .colonne {
+    width: auto;
+    min-width: 0;
+    max-width: none;
+    min-height: 0;
+    padding: var(--e6) var(--marge-page) var(--e6);
+  }
+
+  .pleinEcran {
+    position: absolute;
+    left: var(--e3);
+    bottom: var(--e3);
+    z-index: 1;
+    display: block;
+  }
+}

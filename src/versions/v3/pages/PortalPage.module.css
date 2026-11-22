@@ -1,0 +1,161 @@
+/*
+ * Portail. Le premier écran va de la ligne des registres à la rangée de la fasce : le titre à
+ * gauche, l'incipit à droite posé sur la ligne de pied du titre, la majesté en bas, de bord à
+ * bord. Le pied de la vue n'a pas de marge : la majesté touche la rangée.
+ */
+.vue {
+  padding-bottom: 0;
+}
+
+.ecran {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  grid-template-rows: 1fr auto;
+  column-gap: var(--gouttiere);
+  align-items: end;
+  min-height: calc(100svh - var(--v3-portail-haut, 0px) - var(--v3-fasce-totale));
+}
+
+.titre {
+  grid-column: 1 / span 7;
+  align-self: end;
+  padding-bottom: var(--e6);
+  font-size: min(var(--t5), 10svh);
+  font-weight: 300;
+  line-height: 0.92;
+  letter-spacing: -0.025em;
+  color: var(--ivoire);
+}
+
+.titre :global(.gloss__main) {
+  display: block;
+  text-wrap: balance;
+}
+
+/* En français ou en anglais, le nom tient sur trois lignes : un corps plus petit. */
+.titre[data-long] {
+  font-size: min(calc(var(--t5) * 0.72), 7.5svh);
+}
+
+.glose {
+  display: block;
+  margin-top: max(var(--e4), 0.25em);
+  font-size: var(--t1);
+  line-height: 1.2;
+}
+
+.incipit {
+  grid-column: 9 / -1;
+  align-self: end;
+  display: grid;
+  gap: var(--e4);
+  padding-bottom: var(--e6);
+}
+
+.formule {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-size: var(--t2);
+  line-height: 1.08;
+  letter-spacing: -0.015em;
+  color: var(--ivoire);
+  hyphens: manual;
+}
+
+.formule :global(.gloss__main) {
+  display: block;
+  font-style: normal;
+}
+
+.formuleGlose {
+  display: block;
+  margin-top: var(--e3);
+  font-size: var(--t0);
+  line-height: 1.45;
+  letter-spacing: 0;
+}
+
+.reprise {
+  justify-self: start;
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+}
+
+.legende {
+  max-width: 40ch;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--cendre);
+}
+
+.pied {
+  grid-column: 1 / -1;
+  grid-row: 2;
+}
+
+.table {
+  margin-top: var(--e7);
+  padding-top: var(--e7);
+  padding-bottom: var(--e7);
+}
+
+/* Écran bas : l'en-tête se resserre pour laisser la majesté entière. */
+@media (width >= 1024px) and (height < 860px) {
+  .titre,
+  .incipit {
+    padding-bottom: var(--e5);
+  }
+
+  .formule {
+    font-size: var(--t1);
+  }
+}
+
+@media (width >= 1024px) and (width < 1280px) {
+  .titre {
+    grid-column: 1 / span 6;
+  }
+
+  .incipit {
+    grid-column: 7 / -1;
+  }
+}
+
+@media (width < 1024px) {
+  .ecran {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: auto auto 1fr auto;
+  }
+
+  .titre,
+  .incipit {
+    grid-column: 1;
+    align-self: start;
+  }
+
+  .titre {
+    padding-bottom: 0;
+    font-size: min(var(--t5), 12vw);
+  }
+
+  .titre[data-long] {
+    font-size: min(calc(var(--t5) * 0.72), 9vw);
+  }
+
+  .incipit {
+    margin-top: var(--e5);
+    padding-bottom: var(--e6);
+  }
+
+  .formule {
+    font-size: var(--t1);
+  }
+
+  .pied {
+    grid-row: 4;
+  }
+}

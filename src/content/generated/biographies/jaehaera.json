@@ -1,0 +1,187 @@
+{
+  "personId": "jaehaera",
+  "titles": [
+    {
+      "fr": "Reine",
+      "en": "Queen"
+    },
+    {
+      "fr": "Princesse",
+      "en": "Princess"
+    }
+  ],
+  "lead": {
+    "fr": "Fille d'Aegon II et d'Helaena, jumelle de Jaehaerys, Jaehaera survécut à la Danse des dragons, épousa Aegon III pour sceller la paix entre les deux branches de la maison et mourut à dix ans, en 133 apr. C.",
+    "en": "Daughter of Aegon II and Helaena and twin of Jaehaerys, Jaehaera survived the Dance of the Dragons, married Aegon III to seal the peace between the two branches of the house, and died at ten in 133 AC."
+  },
+  "sections": [
+    {
+      "id": "jaehaera-enfance",
+      "heading": {
+        "fr": "Une enfant lente à grandir",
+        "en": "A Child Slow to Grow"
+      },
+      "body": {
+        "fr": "Jaehaera naît en 123 apr. C., jumelle de Jaehaerys. Elle est minuscule et lente à grandir ; on remarque qu'elle ne pleure ni ne sourit comme le font les nourrissons, et cette absence d'émotion persiste à mesure qu'elle grandit. Les chroniques la disent douce et simple d'esprit au moment de la guerre. Un œuf placé dans son berceau éclot comme celui de son frère : son dragon se nomme Morghul. Elle ne le montera jamais.\n\nLe soir de Sang et Fromage, en 129 apr. C., elle se trouve chez sa grand-mère avec sa mère et ses frères. Les tueurs menacent de s'en prendre à elle pour forcer Helaena à choisir, puis repartent avec la tête de Jaehaerys sans toucher aux autres enfants. À six ans, elle a vu tuer son frère jumeau sous ses yeux. Sa mère sombre ensuite dans le deuil et ne quitte plus sa chambre ; son père boit, et la cour s'enfonce dans la guerre.",
+        "en": "Jaehaera was born in 123 AC, twin to Jaehaerys. She was tiny and slow to grow; it was noticed that she neither cried nor smiled as infants do, and this lack of feeling persisted as she grew older. The chronicles describe her as sweet and simple at the time of the war. An egg placed in her cradle hatched like her brother's: her dragon was named Morghul. She would never ride him.\n\nOn the night of Blood and Cheese, in 129 AC, she was in her grandmother's rooms with her mother and brothers. The killers threatened to harm her to force Helaena to choose, then left with Jaehaerys's head without touching the other children. At six she had watched her twin brother killed before her eyes. Her mother then sank into grief and no longer left her chamber; her father drank, and the court sank deeper into war."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "jaehaera-fuite",
+      "heading": {
+        "fr": "La fuite vers Accalmie",
+        "en": "Flight to Storm's End"
+      },
+      "body": {
+        "fr": "Quand les dragons de Rhaenyra paraissent au-dessus de Port-Réal, en 130 apr. C., Larys Strong fait sortir Aegon II et ses deux enfants survivants par un passage secret de la citadelle de Maegor, connu de lui seul. Les enfants sont séparés : ser Willis Fell, de la Garde Royale, jure de conduire Jaehaera à Accalmie, tandis que ser Rickard Thorne emmène Maelor vers Villevieille. Rhaenyra promet de fortes récompenses pour leur capture, puis lance à leur poursuite des chevaliers chargés de punir quiconque les aide.\n\nJaehaera atteint Accalmie saine et sauve, ce qui comble Alicent de joie ; son petit frère est tué en chemin. Morghul, resté enchaîné à Fossedragon, meurt la même année pendant l'assaut de la foule, une lance plantée dans l'œil par un chevalier en flammes. À sept ans, la princesse a perdu ses deux frères, sa mère et son dragon. Son père, revenu sur le trône, meurt l'année suivante.",
+        "en": "When Rhaenyra's dragons appeared over King's Landing in 130 AC, Larys Strong got Aegon II and his two surviving children out through a secret passage of Maegor's Holdfast known only to him. The children were separated: Ser Willis Fell of the Kingsguard swore to bring Jaehaera to Storm's End, while Ser Rickard Thorne took Maelor towards Oldtown. Rhaenyra offered large rewards for their capture, then sent knights after them with orders to punish anyone who helped them.\n\nJaehaera reached Storm's End safely, to Alicent's great joy; her little brother was killed on the way. Morghul, left chained in the Dragonpit, died that same year when the mob stormed it, a lance driven into his eye by a burning knight. At seven the princess had lost both her brothers, her mother and her dragon. Her father, restored to the throne, died the following year."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        }
+      ]
+    },
+    {
+      "id": "jaehaera-reine",
+      "heading": {
+        "fr": "Une reine de huit ans",
+        "en": "A Queen of Eight"
+      },
+      "body": {
+        "fr": "La paix de 131 apr. C. repose sur un mariage. Les fiançailles de Jaehaera avec le fils de Rhaenyra avaient été débattues du vivant d'Aegon II, à l'initiative de Corlys Velaryon ; à la mort du roi, elles deviennent la condition de la paix, et Jaehaera épouse Aegon III. Elle a huit ans, et l'union n'est pas consommée. Alicent n'assiste pas à la cérémonie.\n\nLes deux époux vivent chacun de leur côté ; la petite reine sort si peu de sa chambre que les cérémonies sont presque les seuls moments où on les voit ensemble. Munkun voit en eux deux enfants que la guerre a privés de presque tous les leurs, parfois sous leurs yeux. Jaehaera ne rit pas, ne joue pas, mouille son lit et pleure quand on la reprend ; à huit ans, disent ses dames, elle se conduit comme une enfant de quatre. Le seul repas qu'on lui laisse partager avec Alicent tourne à l'effroi, quand sa grand-mère lui conseille d'égorger son mari pendant son sommeil.",
+        "en": "The peace of 131 AC rested on a marriage. A betrothal between Jaehaera and Rhaenyra's son had been debated while Aegon II still lived, at Corlys Velaryon's urging; on the king's death it became the condition of peace, and Jaehaera married Aegon III. She was eight, and the union was not consummated. Alicent did not attend the ceremony.\n\nThe two child spouses lived apart; the little queen left her chamber so seldom that ceremonies were almost the only times they were seen together. Munkun saw in them two children whom the war had stripped of nearly all their kin, some of them before their eyes. Jaehaera did not laugh or play, wet her bed and wept when corrected; at eight, her ladies said, she behaved like a child of four. The one meal she was allowed to share with Alicent ended in terror, when her grandmother advised her to cut her husband's throat while he slept."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "fab",
+          "locator": "Aftermath: The Hour of the Wolf"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Hooded Hand"
+        }
+      ]
+    },
+    {
+      "id": "jaehaera-mort",
+      "heading": {
+        "fr": "La chute",
+        "en": "The Fall"
+      },
+      "body": {
+        "fr": "En 133 apr. C., deux ans après son mariage, Jaehaera tombe d'une fenêtre de la citadelle de Maegor et s'empale sur les piques des douves sèches, comme sa mère trois ans plus tôt. Elle agonise une demi-heure. Avec elle s'éteint la descendance de Viserys Ier et d'Alicent Hightower, et le roi se retrouve sans épouse ni héritier.\n\nLa version officielle parle de suicide. Beaucoup n'y croient pas. Lord Unwin Peake, Main du roi et l'un des régents, souhaitait marier sa propre fille à Aegon III, et les soupçons se tournent vers lui. Ser Mervyn Flowers, de la Garde Royale, demi-frère bâtard de Peake, gardait ce jour-là la porte de la chambre : selon les uns, il tua la reine lui-même ; selon d'autres, il laissa passer un spadassin au service de Peake, Tessario le Tigre. Rien ne fut jamais prouvé, même lorsque Flowers se révéla, deux ans plus tard, mêlé à un autre complot.",
+        "en": "In 133 AC, two years after her marriage, Jaehaera fell from a window of Maegor's Holdfast and was impaled on the spikes of the dry moat, as her mother had been three years before. She took half an hour to die. With her ended the line of Viserys I and Alicent Hightower, and the king was left without wife or heir.\n\nThe official account spoke of suicide. Many did not believe it. Lord Unwin Peake, Hand of the King and one of the regents, wished to marry his own daughter to Aegon III, and suspicion turned towards him. Ser Mervyn Flowers of the Kingsguard, Peake's bastard half-brother, was guarding the door of her chamber that day: some said he killed the queen himself; others that he let a sellsword in Peake's service, Tessario the Tiger, pass. Nothing was ever proved, even when Flowers turned out, two years later, to be involved in another plot."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Hooded Hand"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: War and Peace and Cattle Shows"
+        },
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "morghul"
+  ],
+  "eventIds": [
+    "p5-sang-et-fromage",
+    "p5-chute-port-real",
+    "p5-fossedragon",
+    "p5-mort-aegon-ii",
+    "p5-heure-du-loup",
+    "p6-regence"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "Sa mort fut déclarée suicide, mais une partie de la cour y vit un meurtre commandé par Unwin Peake. Les deux versions du crime supposé, Mervyn Flowers frappant lui-même ou ouvrant la porte à Tessario le Tigre, n'ont jamais été établies.",
+    "en": "Her death was declared a suicide, but part of the court saw in it a murder ordered by Unwin Peake. The two versions of the supposed crime, Mervyn Flowers striking the blow himself or opening the door to Tessario the Tiger, were never established."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: A Son for a Son"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+    },
+    {
+      "id": "fab",
+      "locator": "Aftermath: The Hour of the Wolf"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: The Hooded Hand"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: War and Peace and Cattle Shows"
+    },
+    {
+      "id": "fab",
+      "locator": "The Lysene Spring and the End of Regency"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon III"
+    }
+  ]
+}

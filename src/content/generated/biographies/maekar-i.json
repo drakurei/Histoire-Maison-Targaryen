@@ -1,0 +1,213 @@
+{
+  "personId": "maekar-i",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+      "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+    },
+    {
+      "fr": "Prince de Lestival",
+      "en": "Prince of Summerhall"
+    },
+    {
+      "fr": "Prince de Peyredragon, sous Aerys Ier",
+      "en": "Prince of Dragonstone, under Aerys I"
+    }
+  ],
+  "lead": {
+    "fr": "Quatrième fils de Daeron II, Maekar Ier régna de 221 à 233 apr. C. en portant le poids du coup qui avait tué son frère Baelor ; sa mort au combat ouvrit le Grand Conseil de 233.",
+    "en": "The fourth son of Daeron II, Maekar I reigned from 221 to 233 AC bearing the weight of the blow that had killed his brother Baelor; his death in battle led to the Great Council of 233."
+  },
+  "sections": [
+    {
+      "id": "maekar-i-jeunesse",
+      "heading": {
+        "fr": "Le prince de Lestival",
+        "en": "The Prince of Summerhall"
+      },
+      "body": {
+        "fr": "Maekar naît entre 174 et 179 apr. C., dernier des quatre fils du prince Daeron et de Myriah Martell. Il apprend les armes avec ser Quentyn Boule et se révèle, avec son aîné Baelor, le seul guerrier d'une famille de lettrés. Trapu et puissant, il n'a ni la grâce de son frère ni son aisance avec les hommes ; les chroniques le disent prompt à juger et à condamner.\n\nFils cadet, il n'est pas destiné à régner. Il se marie jeune avec Dyanna Dayne, qui lui donne quatre fils et deux filles : Daeron, Aerion, Aemon, Daella, Aegon et Rhae. Son père lui donne Lestival, le palais bâti pour célébrer la paix avec Dorne, d'où son titre de prince de Lestival.\n\nVers 207 ou 208 apr. C., Daeron II, jugeant dangereux d'avoir trop d'héritiers possibles, envoie Aemon, le troisième fils de Maekar, à la Citadelle, malgré l'opposition de son père.",
+        "en": "Maekar was born between 174 and 179 AC, the last of the four sons of Prince Daeron and Myriah Martell. He learned arms with Ser Quentyn Ball and proved, with his eldest brother Baelor, the only warrior in a family of scholars. Stocky and powerful, he had neither his brother's grace nor his ease with men; the chronicles call him quick to judge and to condemn.\n\nA younger son, he was not meant to reign. He married young, to Dyanna Dayne, who gave him four sons and two daughters: Daeron, Aerion, Aemon, Daella, Aegon and Rhae. His father gave him Summerhall, the palace built to celebrate the peace with Dorne, hence his title of Prince of Summerhall.\n\nAround 207 or 208 AC Daeron II, judging it dangerous to have too many possible heirs, sent Aemon, Maekar's third son, to the Citadel over his father's objections."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow, the trial of seven"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell I (ch. 5)"
+        }
+      ]
+    },
+    {
+      "id": "maekar-i-herberouge",
+      "heading": {
+        "fr": "L'enclume",
+        "en": "The Anvil"
+      },
+      "body": {
+        "fr": "Au Champ d'Herberouge, en 196 apr. C., Maekar commande l'un des corps de l'armée royale. Quand l'avant-garde de lord Donnel Arryn est taillée en pièces, il rallie ce qui en reste et forme un mur de boucliers qui résiste à la charge d'Aegor Rivers. C'est contre ce mur que Baelor, arrivé sur les arrières de l'ennemi, écrase les rebelles. La chanson qui en naquit fit de Baelor le marteau et de Maekar l'enclume.\n\nLe prince en garda le sentiment d'avoir été mal payé. On attribua la victoire à son frère et aux fautes de Daemon plus qu'à sa ténacité. Dans d'autres domaines encore, il restait dans l'ombre de ses aînés, et son orgueil en souffrait.\n\nCette rancœur éclaire sans doute la susceptibilité avec laquelle il accueillera plus tard les choix de son frère Aerys, et d'abord celui de Brynden Rivers comme Main.",
+        "en": "On the Redgrass Field in 196 AC, Maekar commanded one of the divisions of the royal army. When Lord Donnel Arryn's vanguard was cut to pieces, he rallied what remained and formed a shield wall that held against Aegor Rivers's charge. It was against that wall that Baelor, arriving in the enemy's rear, crushed the rebels. The song born of it made Baelor the hammer and Maekar the anvil.\n\nThe prince was left feeling poorly rewarded. The victory was credited to his brother and to Daemon's mistakes more than to his own tenacity. In other matters too he stood in his elder brothers' shadow, and his pride suffered for it.\n\nThat resentment probably explains the touchiness with which he would later receive the choices of his brother Aerys, beginning with that of Brynden Rivers as Hand."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        }
+      ]
+    },
+    {
+      "id": "maekar-i-cendregue",
+      "heading": {
+        "fr": "Le coup de Cendregué",
+        "en": "The Blow at Ashford"
+      },
+      "body": {
+        "fr": "En 209 apr. C., Maekar vient au tournoi de Cendregué pour voir jouter ses fils Daeron et Aerion. Rien ne se passe comme prévu : Daeron s'enivre dans une auberge, Aegon, le plus jeune, se fait l'écuyer d'un chevalier errant, et Aerion se déshonore dans les lices. Quand ce chevalier, ser Duncan, frappe Aerion, Maekar soutient la demande de duel judiciaire à sept présentée par son fils.\n\nDans la mêlée, il affronte à la fois son frère Baelor, champion de Duncan, et lord Lyonel Baratheon. Sa masse atteint Baelor à la tête ; le prince meurt peu après. Maekar exile Aerion dans les Cités libres et laisse Aegon suivre le chevalier errant, à condition que l'enfant voyage sans révéler son nom.\n\nIl regretta ce coup toute sa vie et en marquait chaque année l'anniversaire. Son fils Aemon rapporte qu'il voyait dans la couronne, venue à lui malgré tout, le châtiment de la mort de son frère.",
+        "en": "In 209 AC Maekar came to the tourney at Ashford Meadow to watch his sons Daeron and Aerion joust. Nothing went as planned: Daeron got drunk in an inn, Aegon, the youngest, made himself squire to a hedge knight, and Aerion disgraced himself in the lists. When that knight, Ser Duncan, struck Aerion, Maekar supported his son's demand for a trial of seven.\n\nIn the melee he fought both his brother Baelor, Duncan's champion, and Lord Lyonel Baratheon. His mace struck Baelor on the head; the prince died soon after. Maekar exiled Aerion to the Free Cities and let Aegon follow the hedge knight, on condition that the boy travel without revealing his name.\n\nHe regretted that blow all his life and marked its anniversary every year. His son Aemon relates that he saw in the crown, which came to him despite everything, the punishment for his brother's death."
+      },
+      "sources": [
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow, the trial of seven"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell III (ch. 26)"
+        }
+      ]
+    },
+    {
+      "id": "maekar-i-regne",
+      "heading": {
+        "fr": "Un règne entre deux rébellions",
+        "en": "A Reign Between Two Rebellions"
+      },
+      "body": {
+        "fr": "Sous Aerys Ier, Maekar se brouille avec la Main, Brynden Rivers, dont il convoitait la charge, et se retire à Lestival. La mort de Rhaegel en 215 apr. C., puis celles d'Aelor en 217 apr. C. et de sa sœur Aelora, font de lui l'héritier ; en 219 apr. C., il commande avec autorité contre la troisième rébellion Feunoyr.\n\nRoi en 221 apr. C., il se fait faire une couronne d'un dessin plus guerrier que celles de ses prédécesseurs, celle du Conquérant ayant été perdue en Dorne avec Daeron Ier. Il garde pourtant Brynden comme Main. Son règne passe pour paisible, malgré un été de sept ans suivi d'un court automne et d'un long hiver.\n\nSes fils lui donnent plus de soucis que le royaume. Il les appelle tous à la cour, y compris Aemon, devenu mestre. Daeron, l'aîné, meurt, dit-on, d'une vérole ; Aerion, devenu héritier, meurt en 232 apr. C. pour avoir bu du feu grégeois dans l'espoir d'être changé en dragon.",
+        "en": "Under Aerys I, Maekar quarrelled with the Hand, Brynden Rivers, whose office he had coveted, and withdrew to Summerhall. The death of Rhaegel in 215 AC, then those of Aelor in 217 AC and of his sister Aelora, made him heir; in 219 AC he commanded with authority against the third Blackfyre rebellion.\n\nKing in 221 AC, he commissioned a crown of more warlike design than any worn before him, the Conqueror's having been lost in Dorne with Daeron I. Yet he kept Brynden as Hand. His reign is reckoned peaceful, despite a seven-year summer that gave way to a brief autumn and then a long winter.\n\nHis sons gave him more trouble than the realm. He called them all to court, Aemon included, now a maester. Daeron, the eldest, died, it is said, of a pox; Aerion, who became heir, died in 232 AC from drinking wildfire in the hope of being turned into a dragon."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        }
+      ]
+    },
+    {
+      "id": "maekar-i-mort",
+      "heading": {
+        "fr": "La mort au combat",
+        "en": "Death in Battle"
+      },
+      "body": {
+        "fr": "En 233 apr. C., Maekar est tué en combattant un seigneur rebelle dans les Marches de Dorne. Les livres ne détaillent pas les circonstances de sa mort ; ils disent seulement qu'il tomba au combat.\n\nSa succession n'a rien d'évident : son fils aîné a laissé une fille jugée simple d'esprit, le deuxième un fils au berceau dont on craint l'hérédité, le troisième a prononcé ses vœux de mestre. Brynden Rivers convoque un Grand Conseil. On offre discrètement la couronne à Aemon, qui la refuse ; la majorité élit le dernier fils, Aegon, l'ancien écuyer de Cendregué, que beaucoup tenaient pour à demi paysan.\n\nLe roi qui se croyait puni par la couronne laissa ainsi le trône à l'enfant qu'il avait confié à un chevalier errant. Par Aegon V, il fut l'ancêtre de tous les Targaryen qui régnèrent ensuite, jusqu'à Aerys II.",
+        "en": "In 233 AC Maekar was killed fighting a rebellious lord in the Dornish Marches. The books do not describe the circumstances of his death; they say only that he fell in battle.\n\nHis succession was anything but plain: his eldest son had left a daughter thought simple-minded, the second a son in the cradle whose blood was feared, and the third had taken a maester's vows. Brynden Rivers summoned a Great Council. The crown was quietly offered to Aemon, who refused it; the majority chose the last son, Aegon, the former squire of Ashford, whom many thought half a peasant.\n\nThe king who believed the crown a punishment thus left the throne to the boy he had entrusted to a hedge knight. Through Aegon V he was the ancestor of every Targaryen who reigned afterwards, down to Aerys II."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "acok",
+          "locator": "Jon I (ch. 6)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-herberouge",
+    "p6-cendregue-209",
+    "p6-troisieme-feunoyr",
+    "p6-grand-conseil-233"
+  ],
+  "warIds": [
+    "rebellion-feunoyr-1",
+    "rebellion-feunoyr-3"
+  ],
+  "disputed": {
+    "fr": "Les circonstances précises de sa mort ne sont pas rapportées dans les livres. Sa date de naissance n'est pas donnée ; on la situe entre 174 et 179 apr. C. La mort de son fils Daeron d'une vérole n'est rapportée que comme un on-dit. Le coup qui tua Baelor est tenu pour accidentel, mais Maekar redouta toute sa vie d'être regardé comme un meurtrier des siens.",
+    "en": "The precise circumstances of his death are not given in the books. His birth date is not recorded; it is placed between 174 and 179 AC. The death of his son Daeron from a pox is reported only as hearsay. The blow that killed Baelor is held to have been accidental, but Maekar feared all his life that he would be regarded as a kinslayer."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Maekar I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon V"
+    },
+    {
+      "id": "thk",
+      "locator": "Ashford Meadow, the trial of seven"
+    },
+    {
+      "id": "tss",
+      "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+    },
+    {
+      "id": "tmk",
+      "locator": "Whitewalls"
+    },
+    {
+      "id": "acok",
+      "locator": "Jon I (ch. 6)"
+    },
+    {
+      "id": "affc",
+      "locator": "Samwell I (ch. 5)"
+    },
+    {
+      "id": "affc",
+      "locator": "Samwell III (ch. 26)"
+    }
+  ]
+}

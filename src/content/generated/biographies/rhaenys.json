@@ -1,0 +1,158 @@
+{
+  "personId": "rhaenys",
+  "titles": [
+    {
+      "fr": "Reine, épouse d'Aegon Ier",
+      "en": "Queen, wife of Aegon I"
+    }
+  ],
+  "lead": {
+    "fr": "Sœur cadette et épouse d'Aegon le Conquérant, dragonnière de Meraxès et mère d'Aenys Ier, disparue à Dorne en 10 apr. C.",
+    "en": "Younger sister and wife of Aegon the Conqueror, rider of Meraxes and mother of Aenys I, lost in Dorne in 10 AC."
+  },
+  "sections": [
+    {
+      "id": "rhaenys-la-cadette",
+      "heading": {
+        "fr": "La cadette",
+        "en": "The Youngest"
+      },
+      "body": {
+        "fr": "Rhaenys naquit à Peyredragon en 26 ou 25 av. C., troisième enfant d'Aerion Targaryen et de Valaena Velaryon. Avant son mariage, elle se lia à Meraxès, éclose sur l'île comme Vhagar. Aegon l'épousa en plus de Visenya, ce que l'usage valyrien n'imposait pas, et la cour en conclut volontiers qu'elle était sa préférée ; on disait qu'il passait dix nuits auprès d'elle pour une auprès de son aînée.\n\nLes chroniques la décrivent enjouée, curieuse, prompte aux élans, éprise de musique, de danse et de poésie, et plus encore de vol : elle aurait passé plus de temps sur son dragon que son frère et sa sœur réunis. Elle aimait la compagnie des chanteurs et des jeunes gens, ce qui nourrit des rumeurs. Comme pour Visenya, le portrait est commode et sans doute trop net. Il a l'avantage d'expliquer d'avance ce que la rumeur dirait de son fils.",
+        "en": "Rhaenys was born on Dragonstone in 26 or 25 BC, the third child of Aerion Targaryen and Valaena Velaryon. Before her marriage she bonded with Meraxes, hatched on the island like Vhagar. Aegon married her as well as Visenya, which Valyrian custom did not require, and the court readily concluded that she was his favourite; it was said he spent ten nights with her for every one with her elder sister.\n\nThe chronicles describe her as lively, curious, impulsive, fond of music, dancing and poetry, and fonder still of flying: she was said to spend more time on her dragon than her brother and sister together. She liked the company of singers and young men, which fed rumour. As with Visenya, the portrait is convenient and probably too sharp. It has the merit of explaining in advance what rumour would say of her son."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "Three Heads Had the Dragon: Governance Under King Aegon I"
+        }
+      ]
+    },
+    {
+      "id": "rhaenys-accalmie-et-lancehelion",
+      "heading": {
+        "fr": "Accalmie et Lancehélion",
+        "en": "Storm's End and Sunspear"
+      },
+      "body": {
+        "fr": "Au début de la Conquête, Rosby se rendit à Rhaenys sans combat. Elle accompagna ensuite Orys Baratheon et le gros de l'armée vers les terres de l'Orage. Quand des seigneurs locaux tendirent une embuscade à la colonne, elle mit le feu aux bois où ils s'abritaient. C'est elle qui, du haut de Meraxès, vit Argilac quitter Accalmie et rapporta à Orys le nombre et la disposition de ses troupes. Dans la Dernière Tempête, son dragon brisa la charge qui avait percé le centre ; Argilac tomba sous l'épée d'Orys.\n\nAprès le Champ de Feu et la soumission du Nord, elle partit pour Dorne sans son frère ni sa sœur. Elle franchit les montagnes Rouges par les airs, trouva des châteaux vides, et ne rencontra à Lancehélion que la vieille princesse Meria Martell, qui refusa aussi bien de combattre que de plier. Rhaenys annonça qu'on reviendrait. Elle revint, et n'en repartit pas.",
+        "en": "Early in the Conquest, Rosby yielded to Rhaenys without a fight. She then went with Orys Baratheon and the bulk of the army into the stormlands. When local lords ambushed the column, she set fire to the woods that sheltered them. It was she who, from Meraxes's back, saw Argilac leave Storm's End and brought Orys his numbers and dispositions. In the Last Storm her dragon broke the charge that had pierced the centre; Argilac fell to Orys's sword.\n\nAfter the Field of Fire and the submission of the North, she went to Dorne without her brother or sister. She crossed the Red Mountains by air, found empty castles, and at Sunspear met only the aged Princess Meria Martell, who refused either to fight or to bend. Rhaenys warned that they would return. She did return, and did not leave again."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        }
+      ]
+    },
+    {
+      "id": "rhaenys-une-reine-a-la-cour",
+      "heading": {
+        "fr": "Une reine à la cour",
+        "en": "A Queen at Court"
+      },
+      "body": {
+        "fr": "Une fois la paix revenue, Aegon laissa une bonne part du gouvernement quotidien à ses sœurs. On attribue à Rhaenys une mesure restée sous le nom de « règle de six » : un mari ne pouvait frapper une épouse infidèle de plus de six coups. Elle l'aurait fixée à l'occasion d'une affaire où un homme avait battu sa femme à mort. Elle pressa aussi le roi d'interdire aux Fer-nés d'enlever des femmes sur les côtes du royaume, et arrangea des mariages entre maisons éloignées, dont celui d'une fille de Torrhen Stark avec Ronnel Arryn, que le père n'accepta qu'à contrecœur.\n\nEn 7 apr. C., elle donna naissance à Aenys. L'enfant était si frêle, et si peu semblable au roi, que l'on murmura qu'il pouvait être le fils d'un chanteur ou d'un comédien de l'entourage de la reine. La rumeur se tut quand il se lia au jeune dragon Vif-Argent et se mit à prendre des forces.",
+        "en": "Once peace returned, Aegon left much of the daily government to his sisters. Rhaenys is credited with a measure remembered as the “rule of six”: a husband might strike an unfaithful wife no more than six blows. She is said to have fixed it during a case in which a man had beaten his wife to death. She also pressed the king to forbid the ironborn from carrying off women along the realm's coasts, and arranged marriages between distant houses, among them that of a daughter of Torrhen Stark to Ronnel Arryn, which the father accepted only grudgingly.\n\nIn 7 AC she gave birth to Aenys. The child was so frail, and so unlike the king, that people whispered he might be the son of a singer or mummer from the queen's circle. The rumour died away when he bonded with the young dragon Quicksilver and began to gain strength."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon I"
+        },
+        {
+          "id": "fab",
+          "locator": "Three Heads Had the Dragon: Governance Under King Aegon I"
+        },
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        }
+      ]
+    },
+    {
+      "id": "rhaenys-denfert",
+      "heading": {
+        "fr": "Denfert",
+        "en": "The Hellholt"
+      },
+      "body": {
+        "fr": "La guerre de Dorne commença en 4 apr. C. Rhaenys mena le premier assaut, prit des châteaux, brûla un port de la côte et atteignit Lancehélion avec Aegon. Ils s'y proclamèrent vainqueurs devant une poignée de serviteurs restés sur place ; à peine étaient-ils rentrés que le pays se soulevait. La guerre devint une suite de raids et de vengeances.\n\nEn 10 apr. C., au-dessus du château de Denfert, un trait de scorpion frappa Meraxès à l'œil. Le dragon s'abattit avec sa cavalière sur la forteresse, dont il détruisit une partie. Ce qu'il advint de Rhaenys n'est pas établi. Selon les récits, elle tomba de sa selle, fut écrasée sous Meraxès, ou survécut à la chute pour mourir plus tard aux mains des Uller. Son corps ne fut jamais rendu. Aenys avait trois ans. Sur la colline de Port-Réal qui porte son nom, on éleva plus tard un septuaire à sa mémoire ; Maegor, le fils de sa sœur, devait l'incendier en 42 apr. C.",
+        "en": "The Dornish war began in 4 AC. Rhaenys led the first assault, took castles, burned a coastal port and reached Sunspear with Aegon. There they proclaimed victory before a handful of servants who had stayed behind; they had barely returned home when the country rose. The war became a round of raids and revenge.\n\nIn 10 AC, over the castle of the Hellholt, a scorpion bolt struck Meraxes in the eye. The dragon came down on the fortress with her rider, wrecking part of it. What became of Rhaenys is not established. Depending on the account, she fell from the saddle, was crushed beneath Meraxes, or survived the fall only to die later at the hands of the Ullers. Her body was never returned. Aenys was three years old. On the hill in King's Landing that bears her name, a sept was later raised in her memory; Maegor, her sister's son, would burn it in 42 AC."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Reign of the Dragon: The Wars of King Aegon I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Dorne: Dorne Against the Dragons"
+        },
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "meraxes"
+  ],
+  "eventIds": [
+    "p2-naissance-aegon",
+    "p2-double-mariage",
+    "p3-debarquement",
+    "p3-derniere-tempete",
+    "p3-champ-de-feu",
+    "p3-rhaenys-dorne",
+    "p4-guerre-dornienne",
+    "p4-denfert"
+  ],
+  "warIds": [
+    "conquete",
+    "premiere-guerre-dornienne"
+  ],
+  "disputed": {
+    "fr": "Son année de naissance hésite entre 26 et 25 av. C. Les circonstances de sa mort à Denfert sont rapportées en plusieurs versions inconciliables, et l'année 10 apr. C. est retenue faute de mieux. La rumeur sur la paternité d'Aenys n'a jamais été étayée. La règle de six lui est attribuée par la tradition.",
+    "en": "Her year of birth wavers between 26 and 25 BC. The circumstances of her death at the Hellholt survive in several irreconcilable versions, and the year 10 AC is kept for want of better. The rumour about Aenys's parentage was never substantiated. The rule of six is credited to her by tradition."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Aegon's Conquest"
+    },
+    {
+      "id": "fab",
+      "locator": "Reign of the Dragon: The Wars of King Aegon I"
+    },
+    {
+      "id": "fab",
+      "locator": "Three Heads Had the Dragon: Governance Under King Aegon I"
+    },
+    {
+      "id": "fab",
+      "locator": "The Sons of the Dragon"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Reign of the Dragons: The Conquest"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "Dorne: Dorne Against the Dragons"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "personId": "jaehaerys-fils-aegon-ii",
+  "titles": [
+    {
+      "fr": "Prince",
+      "en": "Prince"
+    },
+    {
+      "fr": "Héritier d'Aegon II",
+      "en": "Heir to Aegon II"
+    }
+  ],
+  "lead": {
+    "fr": "Fils aîné d'Aegon II et d'Helaena, Jaehaerys fut l'héritier des verts pendant quelques mois et mourut à six ans, en 129 apr. C., tué dans le Donjon Rouge en représailles de la mort de Lucerys.",
+    "en": "Eldest son of Aegon II and Helaena, Jaehaerys was the greens' heir for a few months and died at six in 129 AC, killed in the Red Keep in reprisal for the death of Lucerys."
+  },
+  "sections": [
+    {
+      "id": "jaehaerys-fils-aegon-ii-naissance",
+      "heading": {
+        "fr": "Un héritier au berceau",
+        "en": "An Heir in the Cradle"
+      },
+      "body": {
+        "fr": "Jaehaerys naît en 123 apr. C., un an à peine après le mariage de ses parents, en même temps que sa sœur jumelle Jaehaera. C'est Helaena qui lui donne le nom du vieux roi, son arrière-arrière-grand-père. À la cour de Viserys, les partisans de la reine saluent la naissance comme un succès : le prince Aegon a désormais des héritiers à lui. On place un œuf de dragon dans le berceau de chacun des jumeaux, et les deux œufs éclosent. Celui de Jaehaerys donne Shrykos.\n\nL'enfant grandit au Donjon Rouge au milieu des querelles des adultes. La même année que lui naissent deux bâtards que Champignon attribue à son père ; en 127 apr. C. vient son frère Maelor. Le troisième jour du troisième mois de 129 apr. C., Helaena conduit ses enfants auprès de Viserys, qui leur raconte une histoire où le premier Jaehaerys vole au-delà du Mur. Le roi meurt dans la nuit.",
+        "en": "Jaehaerys was born in 123 AC, barely a year after his parents' wedding, together with his twin sister Jaehaera. It was Helaena who gave him the name of the old king, his great-great-grandfather. At Viserys's court the queen's supporters hailed the birth as a gain: Prince Aegon now had heirs of his own. A dragon egg was placed in each twin's cradle, and both eggs hatched. From Jaehaerys's came Shrykos.\n\nThe child grew up in the Red Keep amid the quarrels of the grown-ups. In the year of his birth came two bastards whom Mushroom attributes to his father; in 127 AC his brother Maelor followed. On the third day of the third month of 129 AC, Helaena brought her children to Viserys, who told them a story in which the first Jaehaerys flew beyond the Wall. The king died that night."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "id": "jaehaerys-fils-aegon-ii-heritier",
+      "heading": {
+        "fr": "L'héritier d'une guerre",
+        "en": "Heir to a War"
+      },
+      "body": {
+        "fr": "Le couronnement de son père fait de Jaehaerys, à six ans, l'héritier du Trône de Fer aux yeux des verts. Il ne monte pas Shrykos, qui reste enchaînée à Fossedragon avec les jeunes dragons de la famille. À cet âge, il n'est qu'un nom dans les proclamations, mais la guerre ne tarde pas à faire des enfants des cibles.\n\nAu-dessus de la baie des Naufrageurs, son oncle Aemond tue Lucerys, deuxième fils de Rhaenyra. Daemon promet alors à sa femme un fils pour un fils et confie l'affaire, par l'entremise de Mysaria, à deux hommes de la ville que l'histoire ne connaît que sous les noms de Sang et de Fromage. Les tueurs savent qu'Helaena conduit chaque soir ses enfants chez Alicent, dans la tour de la Main, où la garde est plus légère que dans la citadelle de Maegor. Ils s'y cachent, ligotent la reine douairière et attendent.",
+        "en": "His father's coronation made Jaehaerys, at six, heir to the Iron Throne in the eyes of the greens. He did not ride Shrykos, who stayed chained in the Dragonpit with the family's young dragons. At that age he was only a name in proclamations, but the war soon made children into targets.\n\nOver Shipbreaker Bay his uncle Aemond killed Lucerys, Rhaenyra's second son. Daemon then promised his wife a son for a son and entrusted the task, through Mysaria, to two men of the city whom history knows only as Blood and Cheese. The killers knew that every evening Helaena brought her children to Alicent in the Tower of the Hand, where the guard was lighter than in Maegor's Holdfast. They hid there, bound the dowager queen and waited."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        }
+      ]
+    },
+    {
+      "id": "jaehaerys-fils-aegon-ii-mort",
+      "heading": {
+        "fr": "Sang et Fromage",
+        "en": "Blood and Cheese"
+      },
+      "body": {
+        "fr": "Quand Helaena entre avec ses trois enfants, les tueurs abattent le garde, barrent la porte, et Fromage saisit le petit Maelor. Ils exigent de la reine qu'elle désigne lequel de ses fils doit mourir ; elle propose sa propre vie, qu'ils refusent, puis nomme Maelor. Fromage annonce au petit que sa mère le veut mort, et Sang tranche la tête de Jaehaerys. Les deux hommes s'enfuient en l'emportant.\n\nSang est pris à la porte des Dieux, la tête cachée dans un sac de selle ; sous la torture, il avoue qu'il comptait toucher sa récompense à Harrenhal. Fromage n'est jamais retrouvé, et Aegon II fait pendre tous les chasseurs de rats de la ville. La mort de Jaehaerys brise Helaena et ôte aux deux camps toute envie de clémence. L'année suivante, en 130 apr. C., lors de l'assaut de Fossedragon, Shrykos est la première des bêtes que tue la foule.",
+        "en": "When Helaena came in with her three children, the killers cut down the guard, barred the door, and Cheese seized little Maelor. They demanded that the queen name which of her sons must die; she offered her own life, which they refused, then named Maelor. Cheese told the small boy that his mother wanted him dead, and Blood struck off Jaehaerys's head. The two men fled, taking it with them.\n\nBlood was taken at the Gate of the Gods, the head hidden in a saddlebag; under torture he confessed that he had meant to collect his reward at Harrenhal. Cheese was never found, and Aegon II had every ratcatcher in the city hanged. Jaehaerys's death broke Helaena and left neither side any wish for mercy. The following year, in 130 AC, when the Dragonpit was stormed, Shrykos was the first of the beasts the mob killed."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "shrykos"
+  ],
+  "eventIds": [
+    "p5-mort-viserys",
+    "p5-deux-couronnements",
+    "p5-accalmie",
+    "p5-sang-et-fromage",
+    "p5-fossedragon"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "adaptation": {
+    "fr": "Dans House of the Dragon, Maelor est absent : seuls les jumeaux se trouvent avec Helaena, dans ses propres appartements, et les tueurs exigent qu'elle leur désigne lequel est le garçon.",
+    "en": "In House of the Dragon Maelor is absent: only the twins are with Helaena, in her own apartments, and the killers make her point out which of them is the boy."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: A Son for a Son"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+    },
+    {
+      "id": "tpatq"
+    },
+    {
+      "id": "hotd",
+      "locator": "Season 2"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "personId": "daemon",
+  "titles": [
+    {
+      "fr": "Prince",
+      "en": "Prince"
+    },
+    {
+      "fr": "Protecteur du royaume, sous Rhaenyra",
+      "en": "Protector of the Realm, under Rhaenyra"
+    },
+    {
+      "fr": "Roi des Degrés de Pierre et du Détroit (titre qu'il se donna)",
+      "en": "King of the Stepstones and the Narrow Sea (self-proclaimed)"
+    },
+    {
+      "fr": "Commandant du Guet de Port-Réal",
+      "en": "Commander of the City Watch of King's Landing"
+    },
+    {
+      "fr": "Grand argentier, puis maître des lois",
+      "en": "Master of coin, then master of laws"
+    }
+  ],
+  "lead": {
+    "fr": "Frère cadet de Viserys Ier, chevalier, cavalier de Caraxes et second mari de Rhaenyra, Daemon fut le principal chef de guerre des noirs jusqu'à sa mort au-dessus de l'Œildieu en 130 apr. C.",
+    "en": "Younger brother of Viserys I, a knight, rider of Caraxes and Rhaenyra's second husband, Daemon was the chief war leader of the blacks until his death above the Gods Eye in 130 AC."
+  },
+  "sections": [
+    {
+      "id": "daemon-jeunesse",
+      "heading": {
+        "fr": "Le cadet de Baelon",
+        "en": "Baelon's Younger Son"
+      },
+      "body": {
+        "fr": "Daemon naît en 81 apr. C. du prince Baelon et de sa sœur et épouse Alyssa, sous le règne de son grand-père Jaehaerys Ier. Fait chevalier à seize ans, il reçoit du vieux roi l'épée valyrienne Sœur Noire et lie son sort à Caraxes, un dragon rouge au long cou. En 97 apr. C., on le marie à Rhea Royce, héritière d'une puissante maison du Val ; il n'aime ni l'épouse ni la contrée, et les délaisse l'une et l'autre.\n\nAu Grand Conseil de 101 apr. C., il soutient son frère Viserys contre Laenor Velaryon, puisque la victoire de Viserys fait de lui l'héritier suivant, et rassemble des hommes d'armes au cas où les Velaryon recourraient à la force. Quand Viserys monte sur le trône en 103 apr. C., Daemon siège brièvement au conseil comme grand argentier, puis comme maître des lois. L'administration l'ennuie, et Otto Hightower, Main du roi, obtient qu'on l'en écarte.",
+        "en": "Daemon was born in 81 AC to Prince Baelon and his sister-wife Alyssa, in the reign of his grandfather Jaehaerys I. Knighted at sixteen, he received from the old king the Valyrian sword Dark Sister and bound his fate to Caraxes, a red dragon with a long neck. In 97 AC he was married to Rhea Royce, heir to a powerful house of the Vale; he cared neither for his wife nor for her country, and neglected both.\n\nAt the Great Council of 101 AC he backed his brother Viserys against Laenor Velaryon, since a victory for Viserys made him next in line, and he gathered men-at-arms in case the Velaryons resorted to force. When Viserys came to the throne in 103 AC, Daemon sat briefly on the council as master of coin, then as master of laws. Government bored him, and Otto Hightower, the King's Hand, had him removed."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        }
+      ]
+    },
+    {
+      "id": "daemon-guet-degres",
+      "heading": {
+        "fr": "Le Guet et les Degrés de Pierre",
+        "en": "The Watch and the Stepstones"
+      },
+      "body": {
+        "fr": "Placé à la tête du Guet de Port-Réal, Daemon en fait une troupe redoutée : il équipe ses deux mille hommes, leur donne les manteaux d'or qu'ils garderont, et punit les voleurs avec une dureté dont les rues se souviennent. Il fréquente les bordels de Culpucier, où il rencontre Mysaria, et se fait appeler prince de la Cité. Il espère le titre de prince de Peyredragon ; Viserys le lui refuse.\n\nAprès la mort de la reine Aemma en 105 apr. C., ses railleries supposées sur le nouveau-né mort poussent le roi à proclamer héritière sa nièce. Daemon quitte la cour. L'année suivante, il s'allie à Corlys Velaryon contre la Triarchie, qui tient les Degrés de Pierre : la flotte est velaryonne, l'armée faite d'aventuriers et de fils cadets, et Caraxes apporte le feu. En 109 apr. C., Corlys le couronne roi des Degrés de Pierre et du Détroit, royaume pauvre dont Daemon se lasse vite.",
+        "en": "Placed at the head of the City Watch of King's Landing, Daemon made it a feared force: he equipped its two thousand men, gave them the gold cloaks they would keep, and punished thieves with a harshness the streets remembered. He frequented the brothels of Flea Bottom, where he met Mysaria, and had himself called Prince of the City. He hoped to be made Prince of Dragonstone; Viserys refused him.\n\nAfter Queen Aemma's death in 105 AC, his reported mockery of the dead newborn drove the king to proclaim his niece heir. Daemon left court. The following year he joined Corlys Velaryon against the Triarchy, which held the Stepstones: the fleet was Velaryon, the army made up of sellswords and younger sons, and Caraxes brought the fire. In 109 AC Corlys crowned him King of the Stepstones and the Narrow Sea, a poor realm Daemon soon tired of."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "daemon-mariages",
+      "heading": {
+        "fr": "Trois mariages",
+        "en": "Three Marriages"
+      },
+      "body": {
+        "fr": "Revenu à la cour en 111 apr. C., Daemon offre sa couronne à son frère, se réconcilie avec lui et passe de longues heures auprès de Rhaenyra. Six mois plus tard, il est de nouveau exilé, pour des motifs que chaque témoin explique à sa manière. En 115 apr. C., Rhea Royce meurt d'une chute de cheval. Le Val lui refuse les terres de sa femme ; Daemon se tourne vers Lamarck, tue en duel le fiancé braavien de Laena Velaryon et l'épouse sans l'aveu du roi.\n\nLe couple voyage dans les Cités libres ; leurs jumelles, Baela et Rhaena, naissent à Pentos en 116 apr. C. Laena meurt en 120 apr. C. Moins de six mois plus tard, alors que Laenor vient lui aussi de mourir, Daemon épouse en secret sa nièce Rhaenyra à Peyredragon. Viserys s'en indigne, puis finit par pardonner. En 126 apr. C., c'est Daemon qui fait décapiter Vaemond Velaryon, lequel contestait la légitimité des fils de Rhaenyra.",
+        "en": "Back at court in 111 AC, Daemon offered his crown to his brother, was reconciled with him and spent long hours at Rhaenyra's side. Six months later he was exiled again, for reasons each witness explains in his own way. In 115 AC Rhea Royce died after a fall from her horse. The Vale denied him his wife's lands; Daemon turned to Driftmark, killed Laena Velaryon's Braavosi betrothed in a duel and married her without the king's leave.\n\nThe couple travelled through the Free Cities; their twin daughters, Baela and Rhaena, were born in Pentos in 116 AC. Laena died in 120 AC. Less than six months later, with Laenor also newly dead, Daemon secretly married his niece Rhaenyra on Dragonstone. Viserys was furious, then in time forgave. In 126 AC it was Daemon who beheaded Vaemond Velaryon, who had challenged the legitimacy of Rhaenyra's sons."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        }
+      ]
+    },
+    {
+      "id": "daemon-danse",
+      "heading": {
+        "fr": "Le chef de guerre des noirs",
+        "en": "The War Leader of the Blacks"
+      },
+      "body": {
+        "fr": "À la mort de Viserys, Daemon couronne Rhaenyra et prend le titre de protecteur du royaume. Il conseille de gagner les grandes maisons encore indécises, puis passe aux actes : en 129 apr. C., Caraxes se pose sur une tour de Harrenhal, et la forteresse se rend sans combat, ce qui permet au Conflans de se déclarer pour la reine. Après la mort de Lucerys, il charge Mysaria de trouver deux tueurs, Sang et Fromage, qui assassinent au Donjon Rouge Jaehaerys, le jeune fils d'Aegon II.\n\nEn 130 apr. C., il rejoint Rhaenyra pour la prise de Port-Réal. Envoyé ensuite avec Orties chasser Aemond dans le Conflans, il garde la jeune dragonnière auprès de lui ; Champignon les dit amants, le mestre Norren décrit une affection presque paternelle. Quand la reine ordonne la mort d'Orties, Daemon, averti, l'aide à seller Sheepstealer et à s'enfuir, puis annonce qu'il repart pour Harrenhal.",
+        "en": "When Viserys died, Daemon crowned Rhaenyra and took the title of Protector of the Realm. He advised courting the great houses that had not yet declared, then acted: in 129 AC Caraxes landed on one of the towers of Harrenhal, and the fortress yielded without a fight, which allowed the Riverlands to declare for the queen. After Lucerys's death he had Mysaria find two killers, Blood and Cheese, who murdered Jaehaerys, Aegon II's young son, in the Red Keep.\n\nIn 130 AC he joined Rhaenyra for the taking of King's Landing. Sent afterwards with Nettles to hunt Aemond in the Riverlands, he kept the young dragonrider at his side; Mushroom calls them lovers, while Maester Norren describes an almost fatherly affection. When the queen ordered Nettles killed, Daemon, forewarned, helped her saddle Sheepstealer and get away, then announced that he was leaving for Harrenhal."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        }
+      ]
+    },
+    {
+      "id": "daemon-oeildieu",
+      "heading": {
+        "fr": "Au-dessus de l'Œildieu",
+        "en": "Above the Gods Eye"
+      },
+      "body": {
+        "fr": "À Harrenhal, Daemon attend seul. Chaque soir, dit-on, il entaille l'arbre-cœur du bois sacré. Au quatorzième jour, Aemond arrive sur Vhagar. Les deux dragons s'affrontent au-dessus du lac ; Caraxes, plus petit, prend Vhagar à la gorge, et Daemon passe d'une selle à l'autre pour enfoncer Sœur Noire dans l'œil que son neveu avait perdu. Les bêtes s'abîment dans l'Œildieu. Caraxes se traîne jusqu'à la rive pour y mourir ; Vhagar et Aemond sont retrouvés au fond du lac des années plus tard.\n\nLe corps de Daemon, lui, n'a jamais été retrouvé. Les historiens tiennent sa mort pour certaine, mais les chanteurs l'ont fait survivre auprès d'Orties. Il n'a jamais porté la couronne qu'il convoitait ; ses deux fils par Rhaenyra, Aegon III et Viserys II, l'ont portée l'un après l'autre. Les entailles faites dans l'arbre de Harrenhal saignent, raconte-t-on, à chaque printemps.",
+        "en": "At Harrenhal Daemon waited alone. Each evening, it is said, he cut into the heart tree of the godswood. On the fourteenth day Aemond came on Vhagar. The two dragons met above the lake; Caraxes, the smaller, took Vhagar by the throat, and Daemon threw himself from one saddle to the other to drive Dark Sister through the eye his nephew had lost. The beasts plunged into the Gods Eye. Caraxes dragged himself to the shore to die; Vhagar and Aemond were found at the bottom of the lake years later.\n\nDaemon's body was never found. Historians hold his death to be certain, but singers have him survive and live on with Nettles. He never wore the crown he coveted; his two sons by Rhaenyra, Aegon III and Viserys II, each wore it in turn. The cuts he made in the Harrenhal tree are said to bleed every spring."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "caraxes",
+    "vhagar"
+  ],
+  "eventIds": [
+    "p4-grand-conseil-101",
+    "p4-avenement-viserys",
+    "p4-degres-de-pierre",
+    "p5-rhaenyra-heritiere",
+    "p5-printemps-rouge",
+    "p5-deux-couronnements",
+    "p5-harrenhal-conflans",
+    "p5-sang-et-fromage",
+    "p5-chute-port-real",
+    "p5-oeildieu"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "La cause de son exil de 111 apr. C. varie selon les témoins : simple querelle entre frères pour le grand mestre Runciter, séduction de Rhaenyra pour le septon Eustace, leçons de séduction données à la princesse pour Champignon. Champignon l'accuse aussi d'avoir payé Qarl Correy pour tuer Laenor Velaryon, sans aucune preuve, et Eustace le range parmi les suspects de l'incendie de Harrenhal en 120 apr. C. La nature de ses liens avec Orties reste discutée, et l'absence de corps a nourri la légende de sa survie.",
+    "en": "The cause of his exile in 111 AC varies with the witness: a mere quarrel between brothers for Grand Maester Runciter, the seduction of Rhaenyra for Septon Eustace, lessons in seduction given to the princess for Mushroom. Mushroom also accuses him, without any proof, of paying Qarl Correy to kill Laenor Velaryon, and Eustace counts him among the suspects for the fire at Harrenhal in 120 AC. The nature of his bond with Nettles remains debated, and the missing body fed the legend that he survived."
+  },
+  "adaptation": {
+    "fr": "Dans House of the Dragon, Daemon tue lui-même Rhea Royce, que les livres font mourir d'une chute de cheval, et il aide Laenor à simuler sa mort au lieu d'être soupçonné de l'avoir fait assassiner.",
+    "en": "In House of the Dragon Daemon kills Rhea Royce himself, whereas the books have her die after a fall from her horse, and he helps Laenor fake his death instead of being suspected of having him murdered."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: A Son for a Son"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon II"
+    },
+    {
+      "id": "trp"
+    },
+    {
+      "id": "tpatq"
+    },
+    {
+      "id": "hotd",
+      "locator": "Season 1"
+    }
+  ]
+}

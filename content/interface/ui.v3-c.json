@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-v3-groupe-c",
+  "note": "Version 3, groupe C : dragons, planche, guerres, guerre, lieux, lieu. Le reste réutilise les clés page.dragon*, page.war*, page.place*, v2.dragon*, v2.war*, v2.places*.",
+  "items": [
+    {
+      "key": "v3.registres.planche.colonne",
+      "fr": "Échelle, cavaliers et lieux de ce dragon",
+      "en": "Scale, riders and places of this dragon"
+    },
+    {
+      "key": "v3.registres.planche.echelle",
+      "fr": "À l’échelle",
+      "en": "To scale"
+    },
+    {
+      "key": "v3.registres.planche.echelle_figure",
+      "fr": "{name} à l’échelle des autres dragons, avec un homme debout",
+      "en": "{name} at the scale of the other dragons, with a standing man"
+    },
+    {
+      "key": "v3.registres.planche.lieux",
+      "fr": "Lieux où il paraît",
+      "en": "Places where it appears"
+    },
+    {
+      "key": "v3.registres.planche.lieux_note",
+      "fr": "Numérotés dans l’ordre du temps. Ce n’est pas un vol attesté.",
+      "en": "Numbered in order of time. This is not an attested flight."
+    },
+    {
+      "key": "v3.registres.guerres.note",
+      "fr": "Sous chaque conflit, sa durée sur toute l’histoire de la Maison, ses batailles datées en encoches et le nombre de dragons vivants derrière.",
+      "en": "Under each conflict, its span across the whole history of the House, its dated battles as notches and the number of living dragons behind."
+    },
+    {
+      "key": "v3.registres.guerre.colonne",
+      "fr": "Carte des batailles et durée de la guerre",
+      "en": "Map of the battles and span of the war"
+    },
+    {
+      "key": "v3.registres.guerre.face",
+      "fr": "contre",
+      "en": "against"
+    },
+    {
+      "key": "v3.registres.lieux.colonne",
+      "fr": "Index des lieux, à côté de la carte",
+      "en": "Index of places, beside the map"
+    }
+  ]
+}

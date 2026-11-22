@@ -1,0 +1,160 @@
+{
+  "personId": "baelor-i",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+      "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+    },
+    {
+      "fr": "Septon de la Foi des Sept",
+      "en": "Septon of the Faith of the Seven"
+    }
+  ],
+  "lead": {
+    "fr": "Frère cadet de Daeron Ier, Baelor Ier régna de 161 à 171 apr. C. ; il fit la paix avec Dorne, enferma ses sœurs et mourut d'un jeûne, laissant aux uns le souvenir d'un saint, aux autres celui d'un fou.",
+    "en": "The younger brother of Daeron I, Baelor I reigned from 161 to 171 AC; he made peace with Dorne, shut away his sisters and died of a fast, remembered by some as a saint and by others as a madman."
+  },
+  "sections": [
+    {
+      "id": "baelor-i-jeunesse",
+      "heading": {
+        "fr": "Un prince tourné vers les Sept",
+        "en": "A Prince Turned Toward the Seven"
+      },
+      "body": {
+        "fr": "Baelor naît en 144 apr. C., second fils d'Aegon III et de Daenaera Velaryon. Pendant que son frère guerroie en Dorne, il reste à la cour, où gouverne leur oncle Viserys. Rien dans les sources ne le montre attiré par les armes ; tout le montre tourné vers la Foi.\n\nEn 160 apr. C., à seize ans, il épouse sa sœur Daena, qui en a quinze, selon l'usage de la maison. Le mariage n'est jamais consommé. Daena, qui s'habillait de noir à l'imitation de leur père, se met alors à ne porter que du blanc, en annonçant qu'elle n'en changera pas tant que son mari n'aura pas rempli son devoir. Le défi tombe à faux : Baelor, dit-on, la trouvait ainsi plus innocente.\n\nL'épisode dit l'essentiel du personnage. Baelor ne se dérobait pas aux obligations de son rang par faiblesse ; il les jugeait inférieures à une pureté qu'il exigeait de lui-même, et bientôt des autres.",
+        "en": "Baelor was born in 144 AC, the second son of Aegon III and Daenaera Velaryon. While his brother made war in Dorne, he stayed at court, where their uncle Viserys governed. Nothing in the sources shows him drawn to arms; everything shows him turned toward the Faith.\n\nIn 160 AC, at sixteen, he married his sister Daena, who was fifteen, after the custom of the house. The marriage was never consummated. Daena, who had dressed in black in imitation of their father, began to wear nothing but white, announcing that she would not change until her husband had done his duty. The challenge misfired: Baelor, it is said, found her more innocent that way.\n\nThe episode says much about the man. Baelor did not shirk the obligations of his rank out of weakness; he held them lower than a purity he demanded of himself, and soon of others."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        }
+      ]
+    },
+    {
+      "id": "baelor-i-dorne",
+      "heading": {
+        "fr": "La marche pieds nus",
+        "en": "The Barefoot Walk"
+      },
+      "body": {
+        "fr": "Roi à dix-sept ans, en 161 apr. C., Baelor renverse d'emblée la politique de son oncle. Viserys avait fait jeter au cachot les quatorze otages dorniens pour les exécuter ; le roi les gracie et pardonne publiquement aux meurtriers de son frère, contre l'avis de son conseil.\n\nIl décide ensuite de reconduire lui-même les otages chez eux. Vêtu de toile grossière, il descend les Osseux à pied et sans chaussures, pendant que les Dorniens vont à cheval. En chemin, il trouve son cousin Aemon, le Chevalier-Dragon, que lord Wyl tient enfermé nu dans une cage et refuse de libérer. Baelor promet de revenir et poursuit sa route.\n\nParvenu à Lancehélion après la traversée du désert, il conclut la paix avec le prince de Dorne. Le traité prévoit le mariage futur de son jeune cousin Daeron, petit-fils de Viserys, avec Myriah, fille aînée du prince. Les fidèles comptèrent l'arrivée et la paix comme les deux premiers miracles du règne. Baelor refusa la galère qu'on lui offrait pour rentrer.",
+        "en": "King at seventeen, in 161 AC, Baelor at once reversed his uncle's policy. Viserys had thrown the fourteen Dornish hostages into the dungeons to await execution; the king pardoned them and publicly forgave his brother's killers, against the advice of his council.\n\nHe then resolved to take the hostages home himself. Dressed in coarse cloth, he walked down the Boneway barefoot while the Dornish rode. On the way he found his cousin Aemon, the Dragonknight, whom Lord Wyl kept naked in a cage and refused to release. Baelor promised to return and went on.\n\nHaving reached Sunspear after crossing the desert, he made peace with the Prince of Dorne. The treaty provided for the future marriage of his young cousin Daeron, Viserys's grandson, to Myriah, the prince's eldest daughter. The faithful counted the arrival and the peace as the first two miracles of the reign. Baelor refused the galley offered to carry him home."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron I"
+        }
+      ]
+    },
+    {
+      "id": "baelor-i-fosse",
+      "heading": {
+        "fr": "La fosse aux vipères",
+        "en": "The Viper Pit"
+      },
+      "body": {
+        "fr": "Le prince de Dorne avait ordonné la libération d'Aemon. Lord Wyl n'obéit qu'à moitié : la cage pendait désormais au-dessus d'une fosse pleine de vipères, et il remit seulement la clé au roi. Aemon supplia son cousin d'aller chercher de l'aide dans les Marches. Baelor descendit dans la fosse.\n\nLes chanteurs racontent que les serpents s'inclinèrent devant lui. Les sources disent qu'il fut mordu, sans s'accorder sur le nombre des morsures : une demi-douzaine selon certains mestres, une cinquantaine selon les Dorniens. Aemon tira le roi dans la cage, s'en échappa par le haut et l'emporta sur son dos, pendant que les Wyl pariaient sur leur survie.\n\nLe prince porta le roi inconscient le long des Osseux, jusqu'à Havrenoir, où le mestre des Dondarrion le soigna, puis vers Accalmie. Il fallut plus de six mois avant que Baelor pût regagner Port-Réal ; Viserys gouverna dans l'intervalle sans toucher au traité. Plus tard, on se demanda si le venin n'avait pas atteint l'esprit du roi.",
+        "en": "The Prince of Dorne had ordered Aemon's release. Lord Wyl obeyed only by half: the cage now hung above a pit full of vipers, and he merely handed the king the key. Aemon begged his cousin to go and seek help in the Marches. Baelor stepped down into the pit.\n\nThe singers tell that the snakes bowed before him. The sources say he was bitten, without agreeing on how often: half a dozen times according to some maesters, fifty according to the Dornish. Aemon pulled the king into the cage, climbed out through the top and carried him off on his back, while the Wyls laid wagers on their survival.\n\nThe prince carried the unconscious king along the Boneway to Blackhaven, where the Dondarrions' maester treated him, then on toward Storm's End. More than six months passed before Baelor could return to King's Landing; Viserys governed meanwhile without touching the treaty. Later, men wondered whether the venom had reached the king's mind."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        }
+      ]
+    },
+    {
+      "id": "baelor-i-regne",
+      "heading": {
+        "fr": "Un règne de pénitence",
+        "en": "A Reign of Penance"
+      },
+      "body": {
+        "fr": "Revenu à Port-Réal, Baelor obtient du Grand Septon l'annulation de son mariage, contracté avant son avènement et jamais consommé. Il enferme ensuite ses trois sœurs dans un pavillon du Donjon Rouge, que l'on appellera le Maidenvault, pour que leur beauté ne trouble ni lui ni sa cour. Il prononce les vœux de septon, chasse de la ville plus d'un millier de prostituées et lance, sur la foi d'une vision, la construction du septuaire qui portera son nom.\n\nLe petit peuple l'aime : le roi vide le trésor en aumônes et fait donner un pain à chaque habitant pendant un an. Les seigneurs s'inquiètent. Il fait brûler le Témoignage de Champignon et presque tous les écrits du septon Barth ; il prie six mois sur un œuf de dragon sans le faire éclore. Il élève enfin au rang de Grand Septon un tailleur de pierre illettré, puis, à la mort de celui-ci, un enfant de huit ans à qui il prêtait des miracles.",
+        "en": "Back in King's Landing, Baelor had the High Septon annul his marriage, which had been made before his accession and never consummated. He then shut his three sisters away in a building of the Red Keep that would be called the Maidenvault, so that their beauty would trouble neither him nor his court. He took a septon's vows, drove more than a thousand prostitutes out of the city and began, on the strength of a vision, the sept that would bear his name.\n\nThe common people loved him: the king emptied the treasury in alms and had a loaf given to every inhabitant for a year. The lords grew uneasy. He had The Testimony of Mushroom burned, with nearly all the writings of Septon Barth; he prayed for half a year over a dragon's egg without hatching it. Finally he raised an unlettered stonemason to High Septon and, when that man died, a boy of eight whom he credited with miracles."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        }
+      ]
+    },
+    {
+      "id": "baelor-i-mort",
+      "heading": {
+        "fr": "Le dernier jeûne",
+        "en": "The Last Fast"
+      },
+      "body": {
+        "fr": "Vers la fin du règne, Baelor jeûne jusqu'à l'évanouissement pour dompter des désirs qui lui font honte. En 170 apr. C., sa sœur Daena met au monde un fils dont elle refuse de nommer le père. Le roi entame un jeûne de quarante jours, au pain et à l'eau ; le quarante et unième, on le trouve effondré devant l'autel de la Mère. Il meurt en 171 apr. C., à vingt-sept ans.\n\nLa version officielle s'en tient au jeûne. Lady Maia Stokeworth accuse Viserys, lassé d'attendre le trône ; d'autres lui prêtent le même geste par raison d'État, car le roi aurait voulu convertir de force le Nord et les îles de Fer. Rien ne permet de choisir.\n\nLa mémoire populaire fit de Baelor un roi saint. En 187 apr. C., Daeron II et le prince Maron de Dorne déposèrent ensemble une guirlande d'or au pied de sa statue, devant le Grand Septuaire achevé. D'autres ne virent en lui qu'un roi débile qui s'était laissé mourir de faim.",
+        "en": "Toward the end of his reign Baelor fasted until he fainted, to master desires that shamed him. In 170 AC his sister Daena gave birth to a son whose father she refused to name. The king began a forty-day fast on bread and water; on the forty-first day he was found collapsed before the altar of the Mother. He died in 171 AC, aged twenty-seven.\n\nThe official account holds to the fast. Lady Maia Stokeworth accuses Viserys, weary of waiting for the throne; others credit him with the same deed for reasons of state, since the king is said to have wished to convert the North and the Iron Islands by force. Nothing allows a choice.\n\nPopular memory made Baelor a saintly king. In 187 AC Daeron II and Prince Maron of Dorne laid a golden wreath together at the foot of his statue, before the finished Great Sept. Others saw in him only a feeble king who had let himself starve to death."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-daeron-dorne",
+    "p6-baelor",
+    "p6-viserys-ii",
+    "p6-union-dorne"
+  ],
+  "warIds": [
+    "conquete-de-dorne"
+  ],
+  "disputed": {
+    "fr": "La version officielle attribue sa mort au jeûne ; la rumeur, relayée par lady Maia Stokeworth, accuse Viserys de l'avoir empoisonné, soit pour régner, soit pour prévenir une guerre de religion. Le nombre des morsures reçues dans la fosse va d'une demi-douzaine à une cinquantaine selon les témoins. Les motifs de l'enfermement de ses sœurs sont discutés : le roi invoquait leur innocence, beaucoup le soupçonnèrent de craindre pour la sienne.",
+    "en": "The official account ascribes his death to the fast; rumour, carried by Lady Maia Stokeworth, accuses Viserys of poisoning him, either to reign or to forestall a religious war. The number of bites he took in the pit ranges from half a dozen to fifty depending on the witness. His reasons for confining his sisters are debated: the king spoke of their innocence, many suspected he feared for his own."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Baelor I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+      "id": "tss",
+      "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+    }
+  ]
+}

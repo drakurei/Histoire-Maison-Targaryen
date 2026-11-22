@@ -1,0 +1,287 @@
+/*
+ * Un parcours : sur le vélin, le rang en Grenze contre le titre, les étapes avec leur marge
+ * savante (à retenir, dans la bibliothèque), le questionnaire ; sur le champ, l'étape en
+ * cours, ses périodes, la position dans les questions.
+ */
+.tete {
+  row-gap: var(--e3);
+}
+
+.retour {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+}
+
+.titreRang {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: start;
+}
+
+.rang {
+  font-family: var(--f-lettrine);
+  font-size: var(--t4);
+  line-height: 0.82;
+  font-variant-numeric: lining-nums;
+  color: var(--v3-texte);
+}
+
+.meta {
+  margin-top: var(--e1);
+}
+
+.annees {
+  color: var(--v3-texte);
+}
+
+.intro {
+  max-width: 36em;
+  margin-top: var(--e3);
+}
+
+.sommaire {
+  margin-top: var(--e6);
+}
+
+/* ------------------------------------------------------------ Étapes */
+.etape {
+  margin-top: var(--e8);
+  scroll-margin-top: var(--e6);
+}
+
+.etapeTexte {
+  display: grid;
+  row-gap: var(--e4);
+}
+
+.etapeTitre {
+  display: grid;
+  grid-template-columns: 2.25rem minmax(0, 1fr);
+  column-gap: var(--e3);
+  align-items: baseline;
+  font-size: var(--t2);
+  font-weight: 400;
+  color: var(--v3-rubrique);
+}
+
+.etapeRang {
+  font-family: var(--f-lettrine);
+  font-size: 0.85em;
+  font-variant-numeric: lining-nums;
+  color: var(--v3-rubrique);
+  text-align: right;
+}
+
+.marge {
+  display: grid;
+  row-gap: var(--e5);
+  align-content: start;
+  padding-top: 0.6rem;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--v3-texte);
+}
+
+.margeTitre {
+  margin-bottom: var(--e1);
+  font-weight: 500;
+  color: var(--v3-texte-2);
+}
+
+.retenir {
+  display: grid;
+  row-gap: var(--e2);
+  font-family: var(--f-recit);
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.liens {
+  display: grid;
+}
+
+.liens a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  line-height: 1.2;
+}
+
+/* ------------------------------------------------------------ Questions et voisins */
+.quiz {
+  display: grid;
+  row-gap: var(--e4);
+  scroll-margin-top: var(--e6);
+}
+
+.voisins {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: var(--e5);
+  margin-top: var(--e8);
+}
+
+.voisin {
+  display: grid;
+  row-gap: var(--e1);
+  align-content: start;
+  min-height: var(--cible);
+  padding-block: var(--e2);
+  text-decoration-line: none;
+}
+
+.suivant {
+  justify-items: end;
+  text-align: right;
+}
+
+.voisinSens {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--v3-texte-2);
+}
+
+.voisinTitre {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.05;
+  color: var(--v3-rubrique);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--v3-rubrique);
+}
+
+.voisin:hover .voisinTitre,
+.voisin:focus-visible .voisinTitre {
+  text-decoration-color: var(--v3-texte);
+  text-decoration-thickness: 3px;
+}
+
+@media (width < 1024px) {
+  .rang {
+    font-size: var(--t3);
+  }
+
+  .voisins {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: var(--e4);
+  }
+
+  .suivant {
+    justify-items: start;
+    text-align: left;
+  }
+}
+
+/* ------------------------------------------------------------ Colonne (champ) */
+.colonne {
+  row-gap: var(--e5);
+}
+
+.position {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  column-gap: var(--e4);
+  row-gap: var(--e1);
+  align-items: end;
+}
+
+.positionRang {
+  grid-row: 1 / span 2;
+  font-family: var(--f-lettrine);
+  font-size: var(--t5);
+  line-height: 0.78;
+  font-variant-numeric: lining-nums;
+  color: var(--ivoire);
+}
+
+.positionSur,
+.positionTitre {
+  grid-column: 2;
+}
+
+.positionSur {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.positionTitre {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--ivoire);
+}
+
+.periodes {
+  display: grid;
+  row-gap: var(--e2);
+}
+
+.periodes li {
+  display: grid;
+}
+
+.periode {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  justify-self: start;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.05;
+  color: var(--ivoire);
+}
+
+.periodeAnnees {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.questionnaire {
+  display: grid;
+  row-gap: var(--e2);
+  justify-items: start;
+}
+
+.cases {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.cases li {
+  width: 0.875rem;
+  height: 0.875rem;
+  box-shadow: inset 0 0 0 1.5px var(--cendre);
+}
+
+.cases li[data-etat='repondu'] {
+  background: var(--ivoire);
+  box-shadow: none;
+}
+
+.allerQuiz {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--ivoire);
+}
+
+.sommaire:first-child {
+  margin-top: 0;
+}

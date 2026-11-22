@@ -1,0 +1,156 @@
+/*
+ * Événement. L'année en Texturina au-dessus du titre rubriqué, la période en cartel ; puis le
+ * récit et sa marge savante, sur la même rangée du folio.
+ */
+.tete {
+  display: grid;
+  row-gap: var(--e3);
+  margin-bottom: var(--e6);
+}
+
+.annee {
+  font-family: var(--f-chronique);
+  font-size: var(--t3);
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  font-variant-numeric: lining-nums;
+  color: var(--v3-texte);
+}
+
+.annee[data-inconnue] {
+  font-style: italic;
+  color: var(--v3-texte-2);
+}
+
+.approx {
+  font-style: italic;
+}
+
+.titre {
+  max-width: 18ch;
+}
+
+.periode {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e3);
+  margin-top: var(--e2);
+}
+
+.periodeChiffre {
+  font-family: var(--f-lettrine);
+  font-size: var(--t1);
+  line-height: 1;
+  color: var(--v3-rubrique);
+}
+
+.periodeLien {
+  display: inline-flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  column-gap: var(--e3);
+  min-height: 2.75rem;
+  padding-block: 0.5rem;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.1;
+}
+
+.periodeGlose {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  font-style: italic;
+  color: var(--v3-texte-2);
+}
+
+.corps {
+  row-gap: var(--e5);
+}
+
+.adaptation {
+  margin-bottom: var(--e4);
+  padding: var(--e3) var(--e4);
+  background: var(--velin-ombre);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.4;
+}
+
+.section {
+  display: grid;
+  row-gap: var(--e3);
+  margin-top: var(--e6);
+}
+
+.dateNote {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.6;
+}
+
+.marge {
+  display: grid;
+  align-content: start;
+  row-gap: var(--e5);
+  padding-top: 0.3em;
+}
+
+.bloc {
+  display: grid;
+  row-gap: var(--e2);
+}
+
+.blocTitre {
+  font-family: var(--f-recit);
+  font-size: var(--t-1);
+  font-style: italic;
+  font-weight: 400;
+  color: var(--v3-texte-2);
+}
+
+.noms {
+  display: grid;
+  font-family: var(--f-musee);
+  font-size: var(--t0);
+  line-height: 1.25;
+}
+
+.noms > li {
+  display: flex;
+  align-items: center;
+  min-height: 2.75rem;
+}
+
+.sansFiche {
+  color: var(--v3-texte);
+}
+
+.note {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.45;
+  color: var(--v3-texte-2);
+}
+
+.continuite {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--e2);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--v3-texte);
+}
+
+.glyphe {
+  width: 1rem;
+  height: 1rem;
+  flex: none;
+}
+
+@media (width < 1024px) {
+  .marge {
+    padding-top: var(--e5);
+  }
+}

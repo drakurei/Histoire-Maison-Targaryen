@@ -1,0 +1,154 @@
+{
+  "personId": "aerys-ii",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+      "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+    },
+    {
+      "fr": "Prince de Peyredragon",
+      "en": "Prince of Dragonstone"
+    }
+  ],
+  "lead": {
+    "fr": "Fils de Jaehaerys II, Aerys II régna de 262 à 283 apr. C. ; un règne d'abord prometteur sombra dans la méfiance et la cruauté, et le roi mourut de la main d'un chevalier de sa propre Garde.",
+    "en": "The son of Jaehaerys II, Aerys II reigned from 262 to 283 AC; a reign that began with promise sank into suspicion and cruelty, and the king died at the hand of a knight of his own Kingsguard."
+  },
+  "sections": [
+    {
+      "id": "aerys-ii-jeunesse",
+      "heading": {
+        "fr": "Un prince et ses deux amis",
+        "en": "A Prince and His Two Friends"
+      },
+      "body": {
+        "fr": "Aerys naît en 244 apr. C. du prince Jaehaerys et de sa sœur Shaera. Enfant, il se lie avec Tywin Lannister, héritier de Castral Roc, alors page à la cour, et avec son cousin Steffon Baratheon, héritier d'Accalmie ; les trois garçons deviennent inséparables. Encore adolescent, il épouse sa sœur Rhaella sur l'ordre de son père, qui croit à une prophétie liant le prince promis à leur descendance. Ser Barristan Selmy, présent aux noces, ne vit entre les époux aucune tendresse.\n\nLeur premier fils, Rhaegar, naît en 259 apr. C., le jour de la tragédie de Lestival, qui fait de Jaehaerys un roi et d'Aerys l'héritier du trône. L'année suivante, écuyer pendant la guerre des Rois à Neuf Sous, il combat aux Degrés de Pierre et y reçoit l'adoubement à seize ans ; il choisit Tywin pour l'armer chevalier. En 262 apr. C., la mort de son père le fait roi à dix-huit ans.",
+        "en": "Aerys was born in 244 AC to Prince Jaehaerys and his sister Shaera. As a boy he befriended Tywin Lannister, heir to Casterly Rock, then a page at court, and his cousin Steffon Baratheon, heir to Storm's End; the three became inseparable. While still in his teens he married his sister Rhaella at his father's command, for Jaehaerys believed in a prophecy linking the prince that was promised to their descendants. Ser Barristan Selmy, who attended the wedding, saw no tenderness between the two.\n\nTheir first son, Rhaegar, was born in 259 AC, on the day of the tragedy at Summerhall, which made Jaehaerys king and Aerys heir to the throne. The following year, a squire in the War of the Ninepenny Kings, he fought on the Stepstones and was knighted there at sixteen; he chose Tywin to dub him. In 262 AC his father's death made him king at eighteen."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys IV (ch. 23)"
+        }
+      ]
+    },
+    {
+      "id": "aerys-ii-tywin",
+      "heading": {
+        "fr": "Le roi et sa Main",
+        "en": "The King and His Hand"
+      },
+      "body": {
+        "fr": "Le jeune roi renouvelle la cour, écarte les vieux conseillers de son père et de son grand-père et nomme Main son ami Tywin. Il annonce de grands projets, une conquête des Degrés de Pierre, un nouveau Mur plus au nord, qu'il abandonne aussi vite qu'il les conçoit. Le royaume prospère pourtant, mais le mérite en revient à Tywin, qui rembourse la Banque de Fer avec l'or de Castral Roc et rallie les seigneurs en abrogeant les lois d'Aegon V en faveur du petit peuple.\n\nL'amitié s'use. On répète que Tywin gouverne et que le roi n'est qu'une façade ; Aerys fait arracher la langue du capitaine de la garde de sa Main, qui l'a redit. Il prend le contre-pied de ses conseils et le blesse à travers son épouse, Joanna, par des privautés. Les deuils de Rhaella nourrissent ses soupçons. En 276 apr. C., au tournoi de Port-Lannis, il refuse avec mépris la main de Cersei Lannister pour Rhaegar : la fille d'un serviteur, dit-il, ne peut épouser un prince.",
+        "en": "The young king renewed the court, set aside the old counsellors of his father and grandfather, and named his friend Tywin Hand. He announced grand schemes, a conquest of the Stepstones, a new Wall farther north, which he dropped as quickly as he conceived them. The realm prospered all the same, but the credit went to Tywin, who repaid the Iron Bank with the gold of Casterly Rock and won over the lords by repealing Aegon V's laws in favour of the common people.\n\nThe friendship wore thin. It was said that Tywin governed and the king was a mere figurehead; Aerys had the tongue torn from the captain of his Hand's guard for repeating it. He contradicted Tywin's counsel and wounded him through his wife, Joanna, with liberties. Rhaella's losses fed his suspicions. In 276 AC, at the tourney at Lannisport, he scornfully refused Cersei Lannister's hand for Rhaegar: a servant's daughter, he said, could not marry a prince."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        }
+      ]
+    },
+    {
+      "id": "aerys-ii-sombreval",
+      "heading": {
+        "fr": "Sombreval et la peur",
+        "en": "Duskendale and Fear"
+      },
+      "body": {
+        "fr": "En 277 apr. C., lord Denys Darklyn, qui réclame une charte pour Sombreval, invite le roi à venir l'entendre. Tywin conseille de refuser ; Aerys y va pour prouver qu'il peut se passer de lui, avec une faible escorte. Il est fait prisonnier et reste six mois aux mains des Darklyn, pendant que Tywin assiège la ville. Ser Barristan Selmy le délivre en s'introduisant seul dans la place. Le roi fait ensuite exterminer les Darklyn et leurs alliés Hollard ; seul un enfant, Dontos, est épargné à la prière de Barristan.\n\nLa captivité laisse Aerys brisé. Pendant quatre ans, il ne quitte plus le Donjon Rouge. Il ne laisse plus couper ni ses cheveux ni ses ongles, de peur des lames, voit la trahison partout et soupçonne Tywin et Rhaegar de s'être entendus pour le faire périr. Il prend pour maître des chuchoteurs un eunuque étranger, Varys, et s'entoure de pyromants : le feu grégeois remplace peu à peu la hache pour les exécutions.",
+        "en": "In 277 AC Lord Denys Darklyn, who wanted a charter for Duskendale, invited the king to come and hear him. Tywin advised refusal; Aerys went to prove he could do without him, with a small escort. He was taken prisoner and held for six months by the Darklyns while Tywin besieged the town. Ser Barristan Selmy freed him by slipping into the town alone. The king then had the Darklyns and their allies the Hollards wiped out; only one child, Dontos, was spared at Barristan's plea.\n\nCaptivity left Aerys broken. For four years he did not leave the Red Keep. He no longer let his hair or his nails be cut, for fear of blades, saw treason everywhere, and suspected Tywin and Rhaegar of having plotted his death together. He made a foreign eunuch, Varys, his master of whisperers and surrounded himself with pyromancers: wildfire gradually replaced the axe at executions."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        }
+      ]
+    },
+    {
+      "id": "aerys-ii-chute",
+      "heading": {
+        "fr": "La rébellion et la fin",
+        "en": "The Rebellion and the End"
+      },
+      "body": {
+        "fr": "En 281 apr. C., Aerys fait entrer Jaime Lannister dans sa Garde Royale, privant Tywin de son héritier ; la Main se démet. Au tournoi de Harrenhal, premier voyage du roi depuis Sombreval, les seigneurs découvrent un homme hagard, aux ongles démesurés, qui passe sans transition de la gaieté à l'abattement. L'année suivante, après la disparition de Lyanna Stark avec Rhaegar, il fait arrêter Brandon Stark, convoque son père Rickard et les fait périr tous deux. Il exige ensuite de Jon Arryn les têtes de Robert Baratheon et d'Eddard Stark, et la guerre éclate.\n\nSes Mains se succèdent. Il fait cacher du feu grégeois sous Port-Réal pour brûler la ville plutôt que de la livrer, et fait brûler lord Chelsted, qui s'y opposait. Après la mort de Rhaegar au Trident, en 283 apr. C., il ouvre les portes à l'armée de Tywin sur le conseil de Pycelle. Pendant le sac, il ordonne d'allumer le feu ; Jaime Lannister tue le pyromant Rossart, puis le roi, au pied du Trône de Fer.",
+        "en": "In 281 AC Aerys named Jaime Lannister to his Kingsguard, depriving Tywin of his heir; the Hand resigned. At the tourney at Harrenhal, the king's first journey since Duskendale, the lords saw a haggard man with monstrous nails who passed from mirth to gloom without warning. The next year, after Lyanna Stark vanished with Rhaegar, he had Brandon Stark arrested, summoned his father Rickard and had both put to death. He then demanded from Jon Arryn the heads of Robert Baratheon and Eddard Stark, and war broke out.\n\nHis Hands followed one another. He had wildfire hidden beneath King's Landing so as to burn the city rather than yield it, and had Lord Chelsted, who opposed the plan, burned. After Rhaegar's death on the Trident in 283 AC, he opened the gates to Tywin's army on Pycelle's advice. During the sack he gave the order to light the fire; Jaime Lannister killed the pyromancer Rossart, then the king, at the foot of the Iron Throne."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: The Year of the False Spring"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: Robert's Rebellion"
+        },
+        {
+          "id": "asos",
+          "locator": "Jaime V (ch. 37)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-lestival",
+    "p6-neuf-sous",
+    "p7-avenement-aerys",
+    "p7-port-lannis",
+    "p7-sombreval",
+    "p7-harrenhal-281",
+    "p7-stark-executes",
+    "p7-premieres-batailles",
+    "p7-trident",
+    "p7-sac"
+  ],
+  "warIds": [
+    "guerre-des-rois-a-neuf-sous",
+    "rebellion-de-robert"
+  ],
+  "disputed": {
+    "fr": "Les rapports d'Aerys avec Joanna Lannister ne sont connus que par des rumeurs que les sources rapportent sans les confirmer. Les dernières heures du roi et le projet d'incendier la ville reposent surtout sur ce que Jaime Lannister en raconte, des années plus tard, à Brienne de Torth. On discute encore de la part de la maladie et de celle du caractère dans la folie qu'on lui prête.",
+    "en": "Aerys's dealings with Joanna Lannister are known only through rumours that the sources pass on without confirming. The king's last hours and the plan to burn the city rest mostly on what Jaime Lannister tells Brienne of Tarth years later. How much of the madness attributed to him was illness and how much character is still debated."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Fall of the Dragons: The Year of the False Spring"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Fall of the Dragons: Robert's Rebellion"
+    },
+    {
+      "id": "asos",
+      "locator": "Jaime V (ch. 37)"
+    },
+    {
+      "id": "adwd",
+      "locator": "Daenerys IV (ch. 23)"
+    }
+  ]
+}

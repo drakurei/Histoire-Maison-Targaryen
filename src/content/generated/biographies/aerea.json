@@ -1,0 +1,143 @@
+{
+  "personId": "aerea",
+  "titles": [
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    },
+    {
+      "fr": "Héritière présomptive du Trône de Fer",
+      "en": "Heir presumptive to the Iron Throne"
+    }
+  ],
+  "lead": {
+    "fr": "Fille du prince Aegon et de Rhaena, héritière de Maegor puis de Jaehaerys Ier, Aerea s'enfuit sur Balerion en 54 apr. C. et revint mourir à Port-Réal en 56 apr. C.",
+    "en": "The daughter of Prince Aegon and Rhaena, heir to Maegor and then to Jaehaerys I, Aerea flew away on Balerion in 54 AC and came back to die in King's Landing in 56 AC."
+  },
+  "sections": [
+    {
+      "id": "aerea-naissance",
+      "heading": {
+        "fr": "Une naissance dans la guerre",
+        "en": "Born in Wartime"
+      },
+      "body": {
+        "fr": "Aerea naît en 42 apr. C. à Castral Roc, où ses parents, le prince Aegon et la princesse Rhaena, se cachent des Pauvres Compagnons. Elle a une sœur jumelle, Rhaella. L'année suivante, son père meurt sous l'Œildieu en disputant la couronne à Maegor. Rhaena déguise les deux fillettes et les confie à des alliés, sans savoir elle-même où on les emmène ; c'est Tyanna de la Tour, l'une des épouses de Maegor, qui finit par les retrouver.\n\nEn 47 apr. C., Maegor contraint Rhaena à l'épouser et se sert des jumelles pour s'assurer de sa docilité. Faute d'un fils, il déclare Aerea son héritière et déshérite Jaehaerys. L'enfant est alors timide, prompte aux larmes, effrayée par les chevaux, les chiens, les hommes barbus et les dragons. En 48 apr. C., quand lord Rogar Baratheon proclame Jaehaerys, Rhaena s'enfuit avec elle de nuit sur Dreamfyre pour rejoindre son frère.",
+        "en": "Aerea was born in 42 AC at Casterly Rock, where her parents, Prince Aegon and Princess Rhaena, were hiding from the Poor Fellows. She had a twin sister, Rhaella. The following year her father died beneath the Gods Eye, contesting the crown with Maegor. Rhaena disguised the two little girls and entrusted them to allies, without knowing herself where they were taken; it was Tyanna of the Tower, one of Maegor's wives, who eventually found them.\n\nIn 47 AC Maegor forced Rhaena to marry him and used the twins to ensure her compliance. Lacking a son, he declared Aerea his heir and disinherited Jaehaerys. The child was then timid, quick to tears, afraid of horses, dogs, bearded men and dragons. In 48 AC, when Lord Rogar Baratheon proclaimed Jaehaerys, Rhaena fled with her by night on Dreamfyre to join her brother."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        },
+        {
+          "id": "fab",
+          "locator": "Prince into King: The Ascension of Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "aerea-heritiere",
+      "heading": {
+        "fr": "L'héritière de Jaehaerys",
+        "en": "Jaehaerys's Heir"
+      },
+      "body": {
+        "fr": "Jaehaerys, roi sans enfant, garde Aerea pour héritière. Certains jugeaient même son droit meilleur que le sien, puisqu'elle était la fille du fils aîné d'Aenys ; sa propre mère reconnaissait qu'une enfant si craintive ne pouvait régner. Après le couronnement de Villevieille, à la fin de 48 apr. C., la petite princesse change brusquement : hardie, vive, toujours aux écuries. Au même moment, sa jumelle Rhaella, restée novice au Septuaire étoilé, devient timide. On murmura que les deux sœurs avaient été échangées.\n\nEn 50 apr. C., lord Rogar Baratheon propose d'écarter le roi au profit d'Aerea, et ses hommes tentent de l'enlever. Prévenus, ses gardiens l'ont déjà cachée, cheveux teints, dans une écurie près de la porte du Roi, où elle travaille jusqu'à la fin de la régence ; elle dira plus tard que ce furent ses années les plus heureuses. La naissance de Daenerys, en 53 apr. C., lui ôte son rang d'héritière.",
+        "en": "Jaehaerys, a childless king, kept Aerea as his heir. Some even held her claim to be better than his, since she was the daughter of Aenys's eldest son; her own mother admitted that so fearful a child could not rule. After the coronation in Oldtown, late in 48 AC, the little princess changed abruptly: bold, lively, forever in the stables. At the same moment her twin Rhaella, who had stayed behind as a novice at the Starry Sept, became timid. It was whispered that the two sisters had been switched.\n\nIn 50 AC Lord Rogar Baratheon proposed setting the king aside in favour of Aerea, and his men tried to carry her off. Forewarned, her guardians had already hidden her, her hair dyed, in a stable near the King's Gate, where she worked until the end of the regency; she later said those were the happiest years of her life. The birth of Daenerys in 53 AC took her place as heir from her."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Prince into King: The Ascension of Jaehaerys I"
+        },
+        {
+          "id": "fab",
+          "locator": "A Surfeit of Rulers"
+        },
+        {
+          "id": "fab",
+          "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "aerea-peyredragon",
+      "heading": {
+        "fr": "L'exil de Peyredragon",
+        "en": "Exile on Dragonstone"
+      },
+      "body": {
+        "fr": "En 51 apr. C., Rhaena obtient du roi Peyredragon pour siège et le retour de sa fille. Aerea ne connaît pas sa mère et déteste l'île : pas d'enfants de son âge, une cour qui l'ignore, l'interdiction de se mêler aux gens du port. Sa seule amie est Elissa Farman, qui parle de reprendre la mer vers l'ouest ; Aerea la supplie de l'emmener. Rhaena la mène aux dragons de l'île et l'encourage à en réclamer un.\n\nL'enfant devient intraitable. Elle manque prières et leçons, affuble la cour de sa mère de sobriquets grossiers. En 54 apr. C., Elissa part sans elle, en emportant, découvrira-t-on, trois œufs de dragon. Quand Alysanne vient consoler sa sœur après une série d'empoisonnements à Peyredragon, Aerea lui reproche que Rhaena l'ait jadis abandonnée et la supplie de la ramener à Port-Réal. Rhaena refuse, et la mère et la fille se querellent violemment.",
+        "en": "In 51 AC Rhaena obtained from the king Dragonstone as her seat and the return of her daughter. Aerea did not know her mother and hated the island: no children of her age, a court that ignored her, a ban on mixing with the people of the harbour. Her only friend was Elissa Farman, who talked of going back to sea towards the west; Aerea begged her to take her along. Rhaena brought her to the island's dragons and urged her to claim one.\n\nThe girl became unmanageable. She skipped prayers and lessons and gave her mother's household coarse nicknames. In 54 AC Elissa left without her, taking with her, as was later discovered, three dragon eggs. When Alysanne came to comfort her sister after a series of poisonings on Dragonstone, Aerea reproached her mother for having once abandoned her and begged the queen to take her back to King's Landing. Rhaena refused, and mother and daughter quarrelled bitterly."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "aerea-balerion",
+      "heading": {
+        "fr": "Balerion et la fin",
+        "en": "Balerion and the End"
+      },
+      "body": {
+        "fr": "À la fin de 54 apr. C., Aerea disparaît de Peyredragon sur Balerion, que personne ne montait depuis la mort de Maegor. On la cherche dans tout le royaume et jusque dans les Cités libres ; Rhaena survole les Sept Couronnes sur Dreamfyre. Le septon Barth fait observer qu'un dragon privé de cavalier serait revenu à son antre, et que, s'il n'est vu nulle part, c'est sans doute qu'il est parti vers l'est.\n\nLe treizième jour du quatrième mois de 56 apr. C., Balerion se pose à Port-Réal, l'enfant agrippée à son dos, décharnée, brûlante, les yeux en sang. Elle meurt le soir même. Seuls le grand mestre Benifer et Barth assistent à son agonie ; Barth décrit dans ses papiers des formes qui remuaient sous sa peau. Il pensait que Balerion l'avait ramenée à Valyria. Le roi interdit ensuite tout voyage vers la péninsule, sous peine de mort. Rhaena dispersa les cendres de sa fille au vent, du haut de Dreamfyre.",
+        "en": "Late in 54 AC Aerea vanished from Dragonstone on Balerion, whom no one had ridden since Maegor's death. She was sought throughout the realm and as far as the Free Cities; Rhaena flew over the Seven Kingdoms on Dreamfyre. Septon Barth observed that a dragon left without a rider would have returned to its lair, and that if it had been seen nowhere, it had most likely gone east.\n\nOn the thirteenth day of the fourth month of 56 AC, Balerion landed in King's Landing with the girl clinging to his back, wasted, burning, her eyes full of blood. She died that same evening. Only Grand Maester Benifer and Barth attended her last hours; in his papers Barth describes shapes that moved beneath her skin. He believed Balerion had carried her back to Valyria. The king then forbade all voyages to the peninsula on pain of death. Rhaena scattered her daughter's ashes to the wind from Dreamfyre's back."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+        },
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "balerion"
+  ],
+  "eventIds": [
+    "p4-sous-oeildieu",
+    "p4-mort-maegor",
+    "p4-aerea-balerion"
+  ],
+  "warIds": [
+    "soulevement-foi-militante"
+  ],
+  "disputed": {
+    "fr": "L'échange des jumelles à Villevieille ne fut jamais prouvé, et personne n'eut intérêt à le vérifier tant que l'héritière servait la couronne. Ce qu'Aerea vécut pendant plus d'un an d'absence est inconnu : l'hypothèse d'un retour de Balerion à Valyria est celle de Barth seul, et le récit de son agonie ne repose que sur ses papiers et sur quelques mots du chevalier qui la porta jusqu'au grand mestre.",
+    "en": "The switching of the twins in Oldtown was never proven, and no one had any interest in looking into it while the heir served the crown. What Aerea lived through in more than a year of absence is unknown: the theory that Balerion flew back to Valyria is Barth's alone, and the account of her death rests only on his papers and on a few words from the knight who carried her to the Grand Maester."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Sons of the Dragon"
+    },
+    {
+      "id": "fab",
+      "locator": "Prince into King: The Ascension of Jaehaerys I"
+    },
+    {
+      "id": "fab",
+      "locator": "A Surfeit of Rulers"
+    },
+    {
+      "id": "fab",
+      "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+    },
+    {
+      "id": "fab",
+      "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+    }
+  ]
+}

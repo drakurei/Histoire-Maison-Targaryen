@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom';
 
 import { MAIN_ID } from '@/app/a11y';
 import { NotFound } from '../components/NotFound';
+import { useEssay } from '@/core/content/essays';
 import { eventsOfPeriod, getPeriod, periods } from '@/core/content/timeline';
 import type { Period } from '@/core/content/types';
 import { formatSpan, Gloss, useLang, useT } from '@/core/i18n';
@@ -43,6 +44,7 @@ export default function PeriodPage() {
   const { reading } = useLang();
   const period = getPeriod(periodId);
   const events = eventsOfPeriod(periodId);
+  const essay = useEssay(period ? periodId : undefined);
 
   const rule = useMemo(() => {
     if (!period) return null;
@@ -60,7 +62,6 @@ export default function PeriodPage() {
   if (!period || !rule) return <NotFound />;
 
   const index = periods.indexOf(period);
-  const essay = period.essay;
 
   return (
     <main id={MAIN_ID}>

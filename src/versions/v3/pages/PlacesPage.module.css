@@ -1,0 +1,4 @@
+/* Champ plein : la scène des lieux occupe toute la vue, de bord à bord. */
+.vue {
+  min-width: 0;
+}

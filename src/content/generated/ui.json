@@ -534,6 +534,26 @@
       "en": "The Definitive Edition"
     },
     {
+      "key": "compare.version.1.what",
+      "fr": "Un livre posé sur la pierre. Huit volumes en dos de cuir, des feuilles de vélin, des titres rubriqués, les sources dans la marge. La feuille se tourne d’un volume à l’autre.",
+      "en": "A book laid on stone. Eight leather-bound volumes, vellum leaves, rubricated titles, sources in the margin. The leaf turns from one volume to the next."
+    },
+    {
+      "key": "compare.version.2.what",
+      "fr": "Les armes de la Maison : un champ noir traversé d’une fasce rouge. Son épaisseur est le nombre de dragons vivants, année après année ; on y règle l’année, et chaque page répond pour elle. Aucun vélin, aucune lettrine.",
+      "en": "The arms of the House: a black field crossed by a red fess. Its thickness is the number of living dragons, year by year; you set the year on it, and every page answers for that year. No vellum, no drop caps."
+    },
+    {
+      "key": "compare.version.3.what",
+      "fr": "Les deux premières réunies : le champ et la fasce pour trouver, la feuille de vélin pour lire. La carte, l’année et le profil des dragons restent à côté du texte.",
+      "en": "The first two brought together: the field and the fess to find your way, the vellum leaf to read. The map, the year and the dragon profile stay beside the text."
+    },
+    {
+      "key": "compare.default",
+      "fr": "Édition par défaut : c’est elle qui s’ouvre à l’adresse du site.",
+      "en": "Default edition: this is the one that opens at the site’s address."
+    },
+    {
       "key": "seuil.skip",
       "fr": "Passer l'ouverture",
       "en": "Skip the opening"
@@ -5010,6 +5030,186 @@
       "key": "v2.about.show_recto",
       "fr": "Revoir l’endroit",
       "en": "Show the front again"
+    },
+    {
+      "key": "v3.a.majeste",
+      "fr": "Les dragons vivants, année par année, de Valyria à l’an 300",
+      "en": "Living dragons, year by year, from Valyria to the year 300"
+    },
+    {
+      "key": "v3.a.colonne.periode",
+      "fr": "La période sur la carte et sur la fasce",
+      "en": "The period on the map and on the fess"
+    },
+    {
+      "key": "v3.a.colonne.evenement",
+      "fr": "L’événement sur la carte et sur la fasce",
+      "en": "The event on the map and on the fess"
+    },
+    {
+      "key": "v3.a.marge",
+      "fr": "Personnes, dragons, lieux et sources",
+      "en": "People, dragons, places and sources"
+    },
+    {
+      "key": "v3.a.volume",
+      "fr": "Volume {n}",
+      "en": "Volume {n}"
+    },
+    {
+      "key": "v3.a.chroniques.dos",
+      "fr": "Chaque dos de cuir se pose au bout de son segment de la fasce, à sa place et à la même échelle : le rouge y compte les dragons vivants. Au-dessus, les règnes en or et les guerres en rouge.",
+      "en": "Each leather spine sits at the end of its segment of the fess, in its place and on the same scale: the red counts the living dragons. Above, the reigns in gold and the wars in red."
+    },
+    {
+      "key": "v3.a.evenements",
+      "fr": "{n} événements",
+      "en": "{n} events"
+    },
+    {
+      "key": "v3.lignee.compte",
+      "fr": "{n} personnes, {generations} générations",
+      "en": "{n} people, {generations} generations"
+    },
+    {
+      "key": "v3.lignee.how",
+      "fr": "Touchez un nom pour le placer au centre. Les âges suivent l’année réglée.",
+      "en": "Touch a name to place that person at the centre. Ages follow the year that is set."
+    },
+    {
+      "key": "v3.lignee.retour_pal",
+      "fr": "Revenir au fil de la lignée",
+      "en": "Back to the line of descent"
+    },
+    {
+      "key": "v3.lignee.lien_label",
+      "fr": "Lien de parenté entre deux personnes",
+      "en": "Kinship between two people"
+    },
+    {
+      "key": "v3.lignee.people_lead",
+      "fr": "{n} vies, de la plus ancienne à la plus récente. Trait plein pour les années sûres, pointillé pour ce que les sources laissent ouvert, or pour le règne.",
+      "en": "{n} lives, from the earliest to the latest. A solid stroke for the certain years, a dotted one for what the sources leave open, gold for the reign."
+    },
+    {
+      "key": "v3.lignee.tri_naissance",
+      "fr": "par naissance",
+      "en": "by birth"
+    },
+    {
+      "key": "v3.lignee.jump_letter",
+      "fr": "Aller à une lettre",
+      "en": "Jump to a letter"
+    },
+    {
+      "key": "v3.lignee.index",
+      "fr": "Index des noms",
+      "en": "Index of names"
+    },
+    {
+      "key": "v3.lignee.marge",
+      "fr": "Règne et place dans la lignée",
+      "en": "Reign and place in the line"
+    },
+    {
+      "key": "v3.lignee.colonne",
+      "fr": "Sa lignée, ses dragons, sa vie",
+      "en": "Lineage, dragons and life"
+    },
+    {
+      "key": "v3.lignee.deplier",
+      "fr": "Montrer les {n} générations plus anciennes",
+      "en": "Show the {n} earlier generations"
+    },
+    {
+      "key": "v3.registres.planche.colonne",
+      "fr": "Échelle, cavaliers et lieux de ce dragon",
+      "en": "Scale, riders and places of this dragon"
+    },
+    {
+      "key": "v3.registres.planche.echelle",
+      "fr": "À l’échelle",
+      "en": "To scale"
+    },
+    {
+      "key": "v3.registres.planche.echelle_figure",
+      "fr": "{name} à l’échelle des autres dragons, avec un homme debout",
+      "en": "{name} at the scale of the other dragons, with a standing man"
+    },
+    {
+      "key": "v3.registres.planche.lieux",
+      "fr": "Lieux où il paraît",
+      "en": "Places where it appears"
+    },
+    {
+      "key": "v3.registres.planche.lieux_note",
+      "fr": "Numérotés dans l’ordre du temps. Ce n’est pas un vol attesté.",
+      "en": "Numbered in order of time. This is not an attested flight."
+    },
+    {
+      "key": "v3.registres.guerres.note",
+      "fr": "Sous chaque conflit, sa durée sur toute l’histoire de la Maison, ses batailles datées en encoches et le nombre de dragons vivants derrière.",
+      "en": "Under each conflict, its span across the whole history of the House, its dated battles as notches and the number of living dragons behind."
+    },
+    {
+      "key": "v3.registres.guerre.colonne",
+      "fr": "Carte des batailles et durée de la guerre",
+      "en": "Map of the battles and span of the war"
+    },
+    {
+      "key": "v3.registres.guerre.face",
+      "fr": "contre",
+      "en": "against"
+    },
+    {
+      "key": "v3.registres.lieux.colonne",
+      "fr": "Index des lieux, à côté de la carte",
+      "en": "Index of places, beside the map"
+    },
+    {
+      "key": "v3.cadre.colonne",
+      "fr": "Le temps et le lieu de cette page",
+      "en": "Time and place of this page"
+    },
+    {
+      "key": "v3.cadre.provisoire",
+      "fr": "Salle en cours d’accrochage.",
+      "en": "This room is still being hung."
+    },
+    {
+      "key": "v3.savoirs.langue.colonne",
+      "fr": "La formule analysée",
+      "en": "The formula, word by word"
+    },
+    {
+      "key": "v3.savoirs.lexique.colonne",
+      "fr": "Le mot choisi",
+      "en": "The chosen word"
+    },
+    {
+      "key": "v3.savoirs.lexique.compte",
+      "fr": "Les {n} formes du lexique, une marque par forme, de la plus sûre à la plus distante. Celles que la recherche écarte pâlissent.",
+      "en": "The {n} forms of the lexicon, one mark per form, from the surest to the most distant. Those the search leaves out grow pale."
+    },
+    {
+      "key": "v3.savoirs.lexique.statut",
+      "fr": "{label} : {n}",
+      "en": "{label}: {n}"
+    },
+    {
+      "key": "v3.savoirs.parcours.colonne",
+      "fr": "L’étape en cours",
+      "en": "The current step"
+    },
+    {
+      "key": "v3.savoirs.apprendre.legende",
+      "fr": "Sous chaque parcours, la part de l’histoire qu’il traverse. Le rouge compte les dragons vivants, le trait clair donne la durée couverte, les encoches les événements cités.",
+      "en": "Under each path, the stretch of history it crosses. The red counts the living dragons, the pale line gives the span covered, the notches the events cited."
+    },
+    {
+      "key": "v3.savoirs.apropos.colonne",
+      "fr": "L’emblème et le poinçon",
+      "en": "The emblem and the hallmark"
     }
   ]
 }

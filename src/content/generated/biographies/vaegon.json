@@ -1,0 +1,109 @@
+{
+  "personId": "vaegon",
+  "titles": [
+    {
+      "fr": "Archimestre de la Citadelle",
+      "en": "Archmaester of the Citadel"
+    },
+    {
+      "fr": "Prince de la maison Targaryen",
+      "en": "Prince of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Seul fils de Jaehaerys Ier à n'avoir jamais monté de dragon, Vaegon quitta la cour pour la Citadelle et ne reparut qu'une fois, en 101 apr. C., pour conseiller à son père de réunir un Grand Conseil.",
+    "en": "The only son of Jaehaerys I never to ride a dragon, Vaegon left the court for the Citadel and reappeared only once, in 101 AC, to advise his father to summon a Great Council."
+  },
+  "sections": [
+    {
+      "id": "vaegon-enfance",
+      "heading": {
+        "fr": "Le prince des livres",
+        "en": "The Prince of Books"
+      },
+      "body": {
+        "fr": "Vaegon naît en 63 apr. C., quatrième fils et septième enfant de Jaehaerys et d'Alysanne. Il a les cheveux et les yeux des Targaryen, mais un visage long, des épaules rondes et une bouche pincée que les témoins notent dès son enfance. Peu robuste, il n'aime ni les armes ni la compagnie ; il vit à la bibliothèque. Il n'est pas cruel, disent les chroniques, mais franc au point de blesser.\n\nSes parents le destinaient à Daella. Les deux enfants se détestent : il la tient pour sotte, elle a peur de lui. En 73 apr. C., interrogé en public sur la date de leurs noces, il répond par une insulte qui fait fuir sa sœur en larmes. Le roi confie alors à Baelon le soin d'en faire un guerrier ; après un an de leçons, Vaegon jette son épée et ne revient plus dans la cour. Il est le seul fils du roi à n'avoir jamais réclamé de dragon, ce qui lui vaut chez les historiens le surnom de Vaegon sans Dragon.",
+        "en": "Vaegon was born in 63 AC, the fourth son and seventh child of Jaehaerys and Alysanne. He had the hair and eyes of the Targaryens, but a long face, rounded shoulders and a pinched mouth that witnesses remarked on from his childhood. Never robust, he cared neither for arms nor for company; he lived in the library. He was not cruel, the chronicles say, but frank to the point of wounding.\n\nHis parents had meant him for Daella. The two children loathed each other: he thought her stupid, she was afraid of him. In 73 AC, asked in public when they would marry, he answered with an insult that sent his sister fleeing in tears. The king then gave Baelon the task of making a fighter of him; after a year of lessons, Vaegon threw down his sword and never returned to the yard. He was the only son of the king who never claimed a dragon, which earned him among historians the name of Vaegon the Dragonless."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "vaegon-citadelle",
+      "heading": {
+        "fr": "La Citadelle",
+        "en": "The Citadel"
+      },
+      "body": {
+        "fr": "En 78 apr. C., pour ses quinze ans, ses parents demandent au grand mestre Elysar s'il ferait un mestre. La réponse est non : Vaegon n'a le don ni des hommes ni des corbeaux. Mais il pourrait, ajoute Elysar, faire un archimestre. Trois jours plus tard, le roi lui annonce qu'il partira pour Villevieille dans la quinzaine ; le prince accepte en peu de mots, et Jaehaerys confiera à la reine qu'il l'a cru voir presque sourire.\n\nÀ la Citadelle, il devient archimestre avant trente-six ans et porte l'anneau, la verge et le masque d'or jaune, métal que les mestres associent à l'étude des monnaies et des comptes. Il s'occupe aussi d'alchimie, d'astronomie et de mathématiques. Ses lettres à ses parents sont régulières et sans chaleur. Il ne revient pas à la cour, et à la fin du règne le royaume a presque oublié qu'un fils du roi vit encore parmi les livres de Villevieille.",
+        "en": "In 78 AC, on his fifteenth nameday, his parents asked Grand Maester Elysar whether he might make a maester. The answer was no: Vaegon had a gift neither for people nor for ravens. But he might, Elysar added, make an archmaester. Three days later the king told him that he would sail for Oldtown within a fortnight; the prince accepted in few words, and Jaehaerys later told the queen he thought he had seen him almost smile.\n\nAt the Citadel he became an archmaester before the age of thirty-six and wore the ring, rod and mask of yellow gold, the metal the maesters associate with the study of money and accounts. He also pursued alchemy, astronomy and mathematics. His letters to his parents were regular and without warmth. He never returned to court, and by the end of the reign the realm had all but forgotten that a son of the king still lived among the books of Oldtown."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "vaegon-conseil",
+      "heading": {
+        "fr": "Le conseiller de 101",
+        "en": "The Counsellor of 101 AC"
+      },
+      "body": {
+        "fr": "À la mort de Baelon, en 101 apr. C., le roi rappelle Vaegon à Port-Réal. Les sources divergent sur ce qu'il attendait de lui : selon les uns, Jaehaerys lui offrit le trône et Vaegon le refusa ; selon d'autres, il voulait seulement son avis. C'est en tout cas l'archimestre qui proposa de réunir un Grand Conseil pour trancher la succession, plutôt que de laisser le roi désigner seul un héritier que l'une des deux branches contesterait.\n\nÀ Harrenhal, la prétention de Vaegon lui-même fut vite écartée : ses vœux lui interdisaient de régner. Après 101 apr. C., les chroniques ne le mentionnent plus. Il avait trente-huit ans ; il pouvait vivre encore pendant la Danse des dragons, mais rien ne dit ce qu'il advint de lui. Le seul acte public qu'on lui connaisse fut ainsi de proposer la procédure qui fit de Viserys un roi, et dont les deux partis de la Danse allaient tirer des leçons opposées.",
+        "en": "On Baelon's death in 101 AC, the king summoned Vaegon back to King's Landing. Sources differ on what he wanted of him: some say Jaehaerys offered him the throne and Vaegon refused it; others that he sought only his advice. It was in any case the archmaester who proposed calling a Great Council to settle the succession, rather than letting the king alone name an heir whom one of the two branches would contest.\n\nAt Harrenhal, Vaegon's own claim was quickly set aside: his vows forbade him to reign. After 101 AC the chronicles no longer mention him. He was thirty-eight; he could still have been alive during the Dance of the Dragons, but nothing tells us what became of him. The only public act known of him was thus to propose the procedure that made Viserys king, and from which the two parties of the Dance would draw opposite lessons."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p4-grand-conseil-101"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "Pourquoi le roi le rappela en 101 apr. C. reste débattu : offre de la couronne refusée, ou simple consultation. La date et les circonstances de sa mort ne sont pas connues.",
+    "en": "Why the king summoned him in 101 AC remains debated: an offer of the crown that he refused, or a mere consultation. The date and circumstances of his death are unknown."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys I"
+    }
+  ]
+}

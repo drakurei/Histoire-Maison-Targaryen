@@ -1,0 +1,89 @@
+{
+  "personId": "alyssa-fille-jaehaerys-i",
+  "titles": [
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Fille de Jaehaerys Ier, épouse de son frère Baelon et première cavalière de Meleys, Alyssa fut la mère du roi Viserys Ier et du prince Daemon.",
+    "en": "A daughter of Jaehaerys I, wife of her brother Baelon and the first rider of Meleys, Alyssa was the mother of King Viserys I and Prince Daemon."
+  },
+  "sections": [
+    {
+      "id": "alyssa-fille-jaehaerys-i-enfance",
+      "heading": {
+        "fr": "Une princesse dans la cour d'armes",
+        "en": "A Princess in the Training Yard"
+      },
+      "body": {
+        "fr": "Alyssa naît à la fin de 60 apr. C., quelques mois après la mort de sa sœur Daenerys, et reçoit le nom de sa grand-mère, Alyssa Velaryon. Elle ne ressemble guère aux siens : des cheveux d'un blond terne sans reflet d'argent, un œil violet et l'autre vert, un nez cassé à six ans par une épée de bois et resté de travers. Elle ne s'en souciait pas.\n\nEnfant, elle fuit la compagnie des filles, s'habille en garçon quand on la laisse faire, monte à cheval, grimpe et se bat dans la cour. Elle suit Baelon comme lui suivait Aemon, à son grand agacement d'abord. Quand on songe à la marier à Aemon, l'aîné, la reine refuse : elle la destine à Baelon. En 73 apr. C., après une insulte de Vaegon à leur sœur Daella, elle lui vide un pichet de vin sur la tête ; l'année suivante, vêtue de mailles, elle l'humilie dans la cour d'armes au point qu'il n'y revient plus.",
+        "en": "Alyssa was born late in 60 AC, a few months after the death of her sister Daenerys, and was named after her grandmother, Alyssa Velaryon. She looked little like her kin: dull fair hair without a trace of silver, one violet eye and one green, and a nose broken at six by a wooden sword that healed crooked. She did not care.\n\nAs a child she shunned the company of girls, dressed as a boy whenever she was allowed, rode, climbed and fought in the yard. She followed Baelon as he followed Aemon, much to his annoyance at first. When there was talk of marrying her to Aemon, the elder, the queen refused: she meant her for Baelon. In 73 AC, after Vaegon had insulted their sister Daella, Alyssa emptied a flagon of wine over his head; the following year, clad in mail, she humiliated him in the training yard so thoroughly that he never went back."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        }
+      ]
+    },
+    {
+      "id": "alyssa-fille-jaehaerys-i-meleys",
+      "heading": {
+        "fr": "Meleys et le mariage",
+        "en": "Meleys and Marriage"
+      },
+      "body": {
+        "fr": "Elle épouse Baelon en 75 apr. C., à quinze ans. La nuit de noces fit rire la cour plusieurs jours, et elle en plaisantait la première. La même année, elle décide de devenir dragonnière. Les gardiens de Fossedragon la détournent de Balerion, qu'ils jugent trop vieux et trop lent pour elle, et elle prend Meleys, que personne n'avait encore montée.\n\nLes deux époux passent ensemble chaque heure que le ciel leur laisse. Viserys naît en 77 apr. C. ; neuf jours plus tard, malgré les conseils, Alyssa l'emmène emmailloté voler sur Meleys, et assure qu'il a ri tout le long. Elle fait de même avec Daemon, né en 81 apr. C., dans les deux semaines qui suivent sa naissance. Les deux princes qui allaient dominer le règne suivant connurent ainsi le ciel avant de savoir marcher.",
+        "en": "She married Baelon in 75 AC, at fifteen. The wedding night kept the court laughing for days, and she was the first to joke about it. That same year she resolved to become a dragonrider. The keepers of the Dragonpit steered her away from Balerion, whom they thought too old and too slow for her, and she claimed Meleys, whom no one had yet ridden.\n\nThe couple spent together every hour the sky left them. Viserys was born in 77 AC; nine days later, against all advice, Alyssa took him up in his swaddling clothes for a flight on Meleys, and claimed he laughed the whole way. She did the same with Daemon, born in 81 AC, within a fortnight of his birth. The two princes who would dominate the next reign thus knew the sky before they could walk."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        }
+      ]
+    },
+    {
+      "id": "alyssa-fille-jaehaerys-i-mort",
+      "heading": {
+        "fr": "Une troisième naissance",
+        "en": "A Third Birth"
+      },
+      "body": {
+        "fr": "Alyssa est enceinte une troisième fois en 83 apr. C. ; Baelon confie à Aemon qu'il espère une fille. Elle accouche en 84 apr. C., après un travail long et difficile, d'un fils nommé Aegon. Elle parle encore d'avoir d'autres enfants, mais ne se remet pas, et meurt dans l'année, à vingt-quatre ans. L'enfant ne lui survit que six mois.\n\nSa mort est la deuxième d'une série qui frappe les filles de Jaehaerys en cinq ans, après celle de Daella et avant celle de Viserra. Baelon ne se remarie pas. Meleys reste sans cavalière jusqu'en 87 apr. C., quand Rhaenys, la fille d'Aemon, la réclame ; la dragonne d'Alyssa servira plus tard le parti de Rhaenyra et mourra à Repos-du-Freux. Ses deux fils survivants furent le roi Viserys Ier, dont le choix d'une héritière prépara la Danse des dragons, et le prince Daemon, qui y combattit aux côtés de Rhaenyra.",
+        "en": "Alyssa was with child a third time in 83 AC; Baelon told Aemon he was hoping for a daughter. In 84 AC, after a long and difficult labour, she gave birth to a son named Aegon. She still spoke of having more children, but she never recovered, and died within the year at the age of twenty-four. The child outlived her by only six months.\n\nHer death was the second in a series that struck the daughters of Jaehaerys within five years, after Daella's and before Viserra's. Baelon never remarried. Meleys remained without a rider until 87 AC, when Rhaenys, Aemon's daughter, claimed her; Alyssa's dragon would later serve Rhaenyra's party and die at Rook's Rest. Her two surviving sons were King Viserys I, whose choice of an heiress prepared the Dance of the Dragons, and Prince Daemon, who fought in it at Rhaenyra's side."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "meleys"
+  ],
+  "eventIds": [],
+  "warIds": [],
+  "disputed": {
+    "fr": "La chronique situe sa mort dans l'année qui suit la naissance d'Aegon sans en donner la date exacte ; selon les récits, l'enfant meurt avant la fin de 84 apr. C. ou au début de l'année suivante.",
+    "en": "The chronicle places her death within the year after Aegon's birth without giving the exact date; depending on the account, the child died before the end of 84 AC or early in the following year."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys I"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "sections": [
+    {
+      "id": "p2-reve-de-daenys",
+      "heading": {
+        "fr": "Le rêve de Daenys",
+        "en": "Daenys's dream"
+      },
+      "body": {
+        "fr": "L'histoire de la Maison commence par un songe. Douze ans avant le Fléau, soit en 114 av. C., Daenys, fille encore non mariée du seigneur Aenar Targaryen, rêva que Valyria périssait dans le feu. Son père la crut. Il vendit ses domaines dans les Possessions et partit avec toute sa maison pour Peyredragon, à l'autre extrémité du monde valyrien.\n\nLa décision surprend plus que le rêve. Les Targaryen étaient loin d'être la plus puissante des familles de seigneurs dragons, et quitter Valyria revenait à abandonner la scène où se jouait leur rang. Leurs rivaux virent dans ce départ une lâcheté. La chronique ne dit rien des raisons qui poussèrent Aenar à se fier à sa fille, ni de ce qu'en pensaient ses proches. On ignore même si d'autres visions de Daenys avaient déjà été tenues pour vraies.\n\nCe que l'on sait, c'est la suite. Quand le Fléau frappa, les Targaryen furent la seule famille dragonnière à y survivre avec ses bêtes. Le geste qu'on avait raillé devint après coup la preuve d'une clairvoyance, et la postérité fit de Daenys « la Rêveuse » et d'Aenar « l'Exilé ». Plusieurs Targaryen passeront plus tard pour rêver l'avenir ; Daenys est la première dont le songe se soit accompli, et le récit de son rêve fonde la manière dont la Maison se racontera elle-même.",
+        "en": "The history of the House begins with a dream. Twelve years before the Doom, in 114 BC, Daenys, the still unwed daughter of Lord Aenar Targaryen, dreamed that Valyria perished in fire. Her father believed her. He sold his holdings in the Freehold and left with his whole household for Dragonstone, at the far end of the Valyrian world.\n\nThe decision is more surprising than the dream. The Targaryens were far from the most powerful of the dragonlord families, and leaving Valyria meant abandoning the stage on which their rank was played out. Their rivals saw the departure as cowardice. The chronicle says nothing of what led Aenar to trust his daughter, nor of what his kin made of it. We do not even know whether any earlier visions of Daenys had already been held true.\n\nWhat we know is what followed. When the Doom struck, the Targaryens were the only dragonlord family to survive it with their beasts. The move that had been mocked became, in hindsight, proof of foresight, and posterity made Daenys “the Dreamer” and Aenar “the Exile”. Several Targaryens would later be thought to dream the future; Daenys is the first whose dream came true, and the story of it underlies the way the House would come to tell its own history."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Doom of Valyria"
+        }
+      ]
+    },
+    {
+      "id": "p2-exil-a-peyredragon",
+      "heading": {
+        "fr": "Une île au bout de l'empire",
+        "en": "An island at the edge of empire"
+      },
+      "body": {
+        "fr": "Peyredragon n'était pas un refuge improvisé. Depuis environ deux siècles, l'île servait à Valyria de poste avancé, le plus occidental qu'elle eût jamais tenu : une citadelle bâtie au pied d'un volcan, le Montdragon, à l'entrée de la baie de la Néra, face aux côtes de Westeros. Ses murs de pierre fondue et ses tours en forme de dragons témoignaient d'un savoir-faire que personne à Westeros ne savait reproduire.\n\nAenar y emmena tout ce qu'il possédait : ses épouses, ses enfants, d'autres parents, ses richesses, ses esclaves et cinq dragons. L'inventaire dit beaucoup. Un seigneur valyrien pouvait avoir plusieurs épouses, et sa fortune se comptait aussi en hommes asservis ; ce n'était pas l'exil d'un proscrit, mais le transfert d'une maison entière, avec ses gens et ses bêtes.\n\nPlusieurs questions restent sans réponse. On ignore qui commandait l'avant-poste avant l'arrivée des Targaryen, et à quel titre Aenar s'en rendit maître : achat, concession des Possessions ou simple installation. On ne sait pas davantage ce que devinrent les esclaves une fois sur l'île, ni quand cette servitude y prit fin. Les chroniques, écrites à la Citadelle bien après la Conquête, s'intéressent aux dragons et aux héritiers, guère au reste de la maisonnée.",
+        "en": "Dragonstone was no improvised refuge. For some two centuries the island had served Valyria as an outpost, the westernmost it ever held: a citadel built at the foot of a volcano, the Dragonmont, at the mouth of Blackwater Bay, facing the coast of Westeros. Its walls of fused stone and its towers shaped like dragons bore witness to a craft that no one in Westeros knew how to reproduce.\n\nAenar took with him everything he owned: his wives, his children, other kin, his wealth, his slaves and five dragons. The list tells us a good deal. A Valyrian lord could have several wives, and his fortune was counted in enslaved people as well as in gold; this was not the exile of an outcast but the removal of an entire house, with its people and its beasts.\n\nSeveral questions remain open. We do not know who commanded the outpost before the Targaryens arrived, nor by what right Aenar made himself its master: purchase, a grant from the Freehold, or simple settlement. Nor do we know what became of the slaves once on the island, or when that servitude came to an end there. The chronicles, written at the Citadel long after the Conquest, take an interest in dragons and heirs, and little in the rest of the household."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        },
+        {
+          "id": "acok",
+          "locator": "Prologue"
+        }
+      ]
+    },
+    {
+      "id": "p2-derniers-seigneurs-dragons",
+      "heading": {
+        "fr": "Les derniers seigneurs dragons",
+        "en": "The last dragonlords"
+      },
+      "body": {
+        "fr": "Le Fléau ne tua pas tous les seigneurs dragons sur le coup. Certains, absents de la péninsule ce jour-là, survécurent à Lys, à Tyrosh ou à Qohor. Leur sort montre ce que valait un dragon sans Valyria derrière lui. Aucun d'eux ne survécut longtemps à la catastrophe. À Qohor, un certain Aurion, seigneur dragon de passage dans la ville, se proclama empereur de Valyria, leva trente mille hommes parmi les colons et partit avec son dragon reprendre la péninsule. Ni lui, ni sa bête, ni son armée ne reparurent.\n\nLes Targaryen, eux, ne bougèrent pas. On peut lire ce choix comme de la prudence, ou comme le constat d'une faiblesse : quelques dragons et une île ne suffisaient pas à réclamer un empire que Volantis, bien plus peuplée et plus riche, revendiquait déjà. Les sources ne prêtent à aucun seigneur de Peyredragon le projet de restaurer les Possessions.\n\nAinsi se forma une situation sans précédent. Pendant des millénaires, les dragons avaient été l'instrument d'une aristocratie nombreuse, qui se les disputait mais en partageait la maîtrise. Ils devinrent le bien d'une seule famille, isolée, sans métropole, et dont la survie tenait à quelques bêtes. Ce monopole fragile éclaire une bonne part de ce que les Targaryen firent ensuite, y compris la conquête de Westeros.",
+        "en": "The Doom did not kill every dragonlord outright. Some, away from the peninsula that day, survived in Lys, in Tyrosh or in Qohor. Their fate shows what a dragon was worth without Valyria behind it. None of them outlived the catastrophe for long. In Qohor, one Aurion, a dragonlord who happened to be visiting the city, proclaimed himself Emperor of Valyria, raised thirty thousand men among the colonists and set out with his dragon to reclaim the peninsula. Neither he, nor his beast, nor his army was seen again.\n\nThe Targaryens did not move. The choice can be read as prudence, or as the recognition of weakness: a few dragons and an island were not enough to claim an empire that Volantis, far more populous and far richer, was already claiming. The sources attribute to no lord of Dragonstone any design to restore the Freehold.\n\nThus arose a situation without precedent. For thousands of years, dragons had been the instrument of a large aristocracy, which fought over them but shared their mastery. They became the property of a single family, isolated, without a mother city, whose survival hung on a handful of beasts. This fragile monopoly explains a good part of what the Targaryens did next, the conquest of Westeros included."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Doom of Valyria"
+        },
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        }
+      ]
+    },
+    {
+      "id": "p2-siecle-de-sang",
+      "heading": {
+        "fr": "Un siècle de guerres à l'est",
+        "en": "A century of wars in the east"
+      },
+      "body": {
+        "fr": "Ce que les historiens appellent le Siècle de sang fut d'abord une guerre de succession sans héritier légitime. Volantis, la première fille de Valyria, se proclama son héritière. Ses « tigres », le parti de la conquête, soumirent Lys et Myr et les tinrent pendant deux générations, puis se heurtèrent à Tyrosh. Presque toutes les autres cités se liguèrent alors contre Volantis ; Argilac, roi de l'Orage, vint même battre dans les Terres Disputées une armée volantaine qui tentait de reprendre Myr. Plus à l'est, les Dothrakis profitèrent du vide pour ravager les plaines et détruire le vieux royaume de Sarnor.\n\nLes Targaryen regardèrent ces guerres de près. Pendant tout ce siècle, ils se tournèrent davantage vers l'est que vers Westeros, dont les affaires les intéressaient peu. Leur seule intervention connue date de la jeunesse d'Aegon : sollicité par Pentos et Tyrosh, le jeune Aegon rejoignit la coalition, gagna Lys sur Balerion et y incendia une flotte volantaine qui s'apprêtait à prendre la ville. Aucune date n'est donnée pour cet épisode.\n\nCette intervention unique éclaire la période. Les Targaryen restaient des Valyriens, attentifs au sort des filles de Valyria plus qu'aux royaumes voisins. On peut supposer qu'ils ménageaient leurs dragons, trop peu nombreux pour être risqués souvent. Le Siècle de sang s'acheva, à une date que les chroniques ne fixent pas, sur l'épuisement de Volantis et la victoire de ses « éléphants », le parti des marchands ; Aegon, alors, regardait déjà vers l'ouest.",
+        "en": "What historians call the Century of Blood was first a war of succession without a lawful heir. Volantis, Valyria's first daughter, proclaimed itself her heir. Its “tigers”, the party of conquest, subdued Lys and Myr and held them for two generations, then ran up against Tyrosh. Nearly all the other cities then leagued against Volantis; Argilac, the Storm King, even crossed the sea to defeat, in the Disputed Lands, a Volantene army that was trying to retake Myr. Further east, the Dothraki took advantage of the void to lay waste to the plains and destroy the old kingdom of Sarnor.\n\nThe Targaryens watched these wars closely. Throughout the century they looked east more than towards Westeros, whose affairs held little interest for them. Their only known intervention came in Aegon's youth: called upon by Pentos and Tyrosh, the young Aegon joined the alliance, flew to Lys on Balerion and set fire to a Volantene fleet that was preparing to take the city. No date is given for the episode.\n\nThis single intervention sheds light on the period. The Targaryens remained Valyrians, more attentive to the fate of Valyria's daughters than to the kingdoms next door. We may suppose that they were sparing with their dragons, too few to be risked often. The Century of Blood ended, at a date the chronicles do not fix, with the exhaustion of Volantis and the victory of its “elephants”, the merchants' party; by then Aegon was already looking west."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Doom of Valyria"
+        },
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "adwd",
+          "locator": "Tyrion IV (ch. 14)"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Beyond the Free Cities: The Grasslands"
+        }
+      ]
+    },
+    {
+      "id": "p2-seigneurs-de-peyredragon",
+      "heading": {
+        "fr": "Neuf seigneurs sans dates",
+        "en": "Nine lords without dates"
+      },
+      "body": {
+        "fr": "Entre Aenar et Aegon, la chronique nomme les seigneurs de Peyredragon sans leur attribuer une seule date. Gaemon, fils d'Aenar, succéda à son père ; on l'appela le Glorieux et on le tint pour le plus remarquable de ces seigneurs, sans dire ce qui lui valut ce nom. Ses enfants Aegon et Elaena, frère et sœur devenus époux, gouvernèrent ensemble. Leur fils Maegon prit leur suite, puis son frère Aerys, puis trois fils d'Aerys l'un après l'autre, Aelyx, Baelon et Daemion, enfin Aerion, fils de Daemion et père du Conquérant.\n\nCette liste soulève plus de questions qu'elle n'en résout. Pourquoi le pouvoir passa-t-il de Maegon à son frère plutôt qu'à un fils ? Les trois frères qui se succèdent sont-ils morts jeunes ou sans héritier, ou la règle de succession était-elle encore souple ? Les sources se taisent. Le gouvernement conjoint d'Aegon et d'Elaena montre seulement qu'une femme pouvait alors partager l'autorité sur l'île.\n\nLa famille ne se réduisait pas à cette ligne. Gaemon et Daenys eurent au moins une autre fille, mariée à un petit seigneur ; au Grand Conseil de 101, l'un de ses descendants figurait parmi les quatorze prétendants au trône. Aerion, enfin, entretenait un mestre à Peyredragon, signe que la Maison avait déjà adopté certains usages de Westeros. Aucun de ces seigneurs, pourtant, n'a reçu de date.",
+        "en": "Between Aenar and Aegon, the chronicle names the lords of Dragonstone without assigning them a single date. Gaemon, Aenar's son, succeeded his father; he was called the Glorious and held to be the most notable of these lords, though nothing is said of what earned him the name. His children Aegon and Elaena ruled together, at once brother and sister and husband and wife. Their son Maegon followed them, then his brother Aerys, then three sons of Aerys one after another, Aelyx, Baelon and Daemion, and finally Aerion, son of Daemion and father of the Conqueror.\n\nThis list raises more questions than it answers. Why did power pass from Maegon to his brother rather than to a son? Did the three brothers who followed one another die young or without heirs, or was the rule of succession still loose? The sources are silent. The joint rule of Aegon and Elaena shows only that a woman could then share authority over the island.\n\nThe family was not confined to this line. Gaemon and Daenys had at least one other daughter, married to a petty lord; at the Great Council of 101, one of her descendants was among the fourteen claimants to the throne. Aerion, finally, kept a maester on Dragonstone, a sign that the House had already taken up some of the customs of Westeros. Even so, not one of these lords has been given a date."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "Three Heads Had the Dragon: Governance Under King Aegon I"
+        }
+      ]
+    },
+    {
+      "id": "p2-alliances-velaryon-celtigar",
+      "heading": {
+        "fr": "Sœurs, cousins et Velaryon",
+        "en": "Sisters, cousins and Velaryons"
+      },
+      "body": {
+        "fr": "Les Targaryen gardèrent à Peyredragon la coutume valyrienne d'unir frères et sœurs. Gaemon épousa Daenys, leurs enfants Aegon et Elaena s'épousèrent à leur tour, et la pratique se transmit jusqu'à Aegon le Conquérant, qui prit pour femmes ses deux sœurs, Visenya et Rhaenys. Épouser une sœur était l'usage ; en épouser deux l'était moins, et la chronique rapporte sans le garantir le mot selon lequel Aegon prit l'aînée par devoir et la cadette par désir.\n\nMais une famille isolée ne pouvait se suffire à elle-même. Autour d'elle vivaient deux autres maisons d'ascendance valyrienne, qui ne possédaient pas de dragons : les Velaryon de Lamarck et les Celtigar, établis sur une île proche. Les Velaryon, qui se disaient installés à Westeros avant les Targaryen, tiraient leur fortune des navires qui empruntaient le Gosier. Les deux familles de marins et celle des dragonniers se complétaient : aux unes les flottes, à l'autre les airs.\n\nAvec les Velaryon, le lien passa par le sang, et les mariages se répétèrent au fil des générations. Valaena, à demi Targaryen par sa mère, devint l'épouse du seigneur Aerion ; elle fut la mère de Visenya, d'Aegon et de Rhaenys. Une rumeur, enfin, faisait d'Orys Baratheon, compagnon d'Aegon, un fils bâtard d'Aerion ; elle n'a jamais été prouvée.",
+        "en": "On Dragonstone the Targaryens kept the Valyrian custom of marrying brother to sister. Gaemon married Daenys, their children Aegon and Elaena married in turn, and the practice passed down to Aegon the Conqueror, who took both his sisters, Visenya and Rhaenys, as wives. To marry a sister was the custom; to marry two was less so, and the chronicle reports, without vouching for it, the saying that Aegon took the elder out of duty and the younger out of desire.\n\nBut an isolated family could not be sufficient unto itself. Around it lived two other houses of Valyrian descent that kept no dragons: the Velaryons of Driftmark and the Celtigars of Claw Isle. The Velaryons, who said they had settled in Westeros before the Targaryens, drew their fortune from the ships that used the Gullet. The two seafaring families and the family of dragonriders complemented one another: fleets on one side, the air on the other.\n\nWith the Velaryons the bond became one of blood, and marriages recurred from generation to generation. Valaena, half Targaryen through her mother, became the wife of Lord Aerion; she was the mother of Visenya, Aegon and Rhaenys. A rumour, finally, made Orys Baratheon, Aegon's companion, a bastard son of Aerion; it was never proven."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        }
+      ]
+    },
+    {
+      "id": "p2-dragons-conserves",
+      "heading": {
+        "fr": "Cinq dragons, puis un seul",
+        "en": "Five dragons, then one"
+      },
+      "body": {
+        "fr": "Aenar arriva à Peyredragon avec cinq dragons. Un siècle plus tard, il n'en restait qu'un : Balerion, né à Valyria, qui deviendrait la Terreur noire. Les noms des quatre autres ne nous sont pas parvenus, pas plus que la manière dont ils moururent ; la chronique constate seulement qu'au temps d'Aegon, Balerion était le dernier dragon venu de Valyria.\n\nLa famille sut pourtant faire éclore des œufs sur l'île. Deux dragons y naquirent pendant cette période, Vhagar et Meraxès, qui seront avec Balerion les montures d'Aegon et de ses sœurs. On place souvent la naissance de Vhagar vers 52 av. C. ; aucun texte ne donne cette année, déduite par recoupement, et elle reste une estimation.\n\nLe compte se résume vite. En un siècle, la seule maison dragonnière du monde passa de cinq bêtes à trois, dont une seule avait connu Valyria. On ignore si les Targaryen avaient conservé tout le savoir des anciennes familles en matière d'élevage, ou s'ils durent le retrouver par tâtonnements. Ce petit nombre explique peut-être la réserve dont ils firent preuve pendant le Siècle de sang ; il rend en tout cas plus singulière la conquête menée avec trois dragons seulement. Il pose déjà la question qui accompagnera toute la dynastie : que deviendrait la Maison si ses dragons venaient à manquer.",
+        "en": "Aenar reached Dragonstone with five dragons. A century later only one remained: Balerion, born in Valyria, who would become the Black Dread. The names of the other four have not come down to us, any more than the manner of their deaths; the chronicle merely notes that by Aegon's day Balerion was the last dragon to have come from Valyria.\n\nThe family did, however, manage to hatch eggs on the island. Two dragons were born there in this period, Vhagar and Meraxes, who would be, with Balerion, the mounts of Aegon and his sisters. Vhagar's birth is often placed around 52 BC; no text gives that year, which is reached by cross-reckoning, and it remains an estimate.\n\nThe reckoning is quickly made. In a century, the only dragonlord house in the world went from five beasts to three, only one of which had known Valyria. We do not know whether the Targaryens had kept all the breeding lore of the old families, or had to recover it by trial and error. This small number may explain the restraint they showed during the Century of Blood; it certainly makes the conquest carried out with only three dragons the more remarkable. It already raises the question that would follow the dynasty to its end: what would become of the House if its dragons failed."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Doom of Valyria"
+        }
+      ]
+    },
+    {
+      "id": "p2-une-periode-muette",
+      "heading": {
+        "fr": "Une période presque muette",
+        "en": "An almost silent age"
+      },
+      "body": {
+        "fr": "Pour un siècle entier, les sources ne livrent guère que des noms, l'ordre des successions et trois ou quatre faits. La raison tient à leur nature. Les deux grandes chroniques qui en parlent ont été écrites à la Citadelle, bien après la Conquête, et l'on ignore de quels documents leurs auteurs disposaient pour cette époque. Ce qu'ils savent des ancêtres d'Aegon vient pour l'essentiel de la tradition familiale, conservée par une dynastie qui avait tout intérêt à embellir ses origines.\n\nUn document aurait pu changer la donne. Les visions de Daenys auraient été consignées dans un recueil intitulé Signes et Présages, aujourd'hui perdu. Dans les romans, un seigneur fer-né, grand amateur de livres, rapporte que l'archimestre Marwyn affirme en avoir retrouvé trois pages. Rien ne permet de juger de l'authenticité de ces fragments, ni de savoir ce qu'ils contiennent.\n\nIl faut donc lire cette période avec prudence. Le récit du départ d'Aenar a la netteté d'une légende fondatrice : un songe, un père qui y croit, des rivaux qui raillent, une catastrophe qui donne raison à la rêveuse. Il peut être exact ; il a aussi pu être poli par la mémoire d'une maison devenue royale. L'historien doit l'accepter faute d'autre témoignage, sans oublier qu'il ne l'a reçu que d'une seule voix.",
+        "en": "For an entire century, the sources yield little beyond names, the order of succession and three or four facts. The reason lies in their nature. The two great chronicles that cover the period were written at the Citadel, long after the Conquest, and we do not know what documents their authors had for this age. What they know of Aegon's forebears comes mostly from family tradition, preserved by a dynasty that had every reason to embellish its origins.\n\nOne document might have changed this. Daenys's visions are said to have been set down in a collection called Signs and Portents, now lost. In the novels, an ironborn lord with a great love of books reports that Archmaester Marwyn claims to have recovered three of its pages. Nothing allows us to judge whether these fragments are genuine, or to know what they contain.\n\nThe period must therefore be read with caution. The story of Aenar's departure has the clean lines of a founding legend: a dream, a father who believes it, rivals who scoff, a catastrophe that proves the dreamer right. It may be accurate; it may also have been polished by the memory of a house that became royal. The historian must accept it for want of other testimony, without forgetting that it has reached him through a single voice."
+      },
+      "sources": [
+        {
+          "id": "affc",
+          "locator": "The Kraken's Daughter (ch. 11)"
+        },
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        }
+      ]
+    },
+    {
+      "id": "p2-generation-d-aegon",
+      "heading": {
+        "fr": "La génération d'Aegon",
+        "en": "Aegon's generation"
+      },
+      "body": {
+        "fr": "Aerion et Valaena eurent trois enfants : Visenya, née en 29 av. C., Aegon, né en 27 av. C., et Rhaenys, la cadette, dont l'année de naissance n'est pas établie avec certitude. Tous trois devinrent dragonniers, Visenya sur Vhagar, Aegon sur Balerion, Rhaenys sur Meraxès.\n\nAvec cette génération, le regard de Peyredragon se déplaça. Aegon connaissait Westeros mieux que ses aïeux : dans sa jeunesse, il s'était rendu à Villevieille et à La Treille, et il n'est pas exclu qu'il ait aussi vu Port-Lannis. Il fit tailler une grande table qui figurait le continent avec ses fleuves, ses forêts et ses châteaux, mais sans aucune frontière entre les royaumes, comme si leur division avait déjà cessé de compter à ses yeux.\n\nLa dernière impulsion vint de Westeros même. Menacé par Harren le Noir, Argilac, roi de l'Orage, offrit à Aegon la main de sa fille et des terres ; Aegon proposa à la place son ami Orys Baratheon, et Argilac lui renvoya les mains de son émissaire. Les raisons profondes de la Conquête restent débattues par les chroniqueurs eux-mêmes. Mais le siècle passé à Peyredragon en avait réuni les conditions : trois dragons, des alliés maîtres de la mer, et une famille qui n'avait plus d'autre patrie que l'île où elle s'était réfugiée.",
+        "en": "Aerion and Valaena had three children: Visenya, born in 29 BC, Aegon, born in 27 BC, and Rhaenys, the youngest, whose year of birth is not securely established. All three became dragonriders, Visenya on Vhagar, Aegon on Balerion, Rhaenys on Meraxes.\n\nWith this generation, the gaze of Dragonstone shifted. Aegon knew Westeros better than his forebears: in his youth he had visited Oldtown and the Arbor, and he may also have seen Lannisport. He had a great table carved in the shape of the continent, with its rivers, forests and castles, but with no borders between the kingdoms, as though their division had already ceased to matter to him.\n\nThe final push came from Westeros itself. Threatened by Harren the Black, Argilac, the Storm King, offered Aegon his daughter's hand and lands; Aegon proposed his friend Orys Baratheon instead, and Argilac sent him back the hands of his envoy. The deeper reasons for the Conquest are still debated by the chroniclers themselves. But the century spent on Dragonstone had brought its conditions together: three dragons, allies who commanded the sea, and a family with no homeland left but the island where it had taken refuge."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        },
+        {
+          "id": "acok",
+          "locator": "Prologue"
+        }
+      ]
+    }
+  ]
+}

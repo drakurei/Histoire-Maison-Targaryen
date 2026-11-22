@@ -28,7 +28,7 @@ Rapport écrit par `node scripts/build-content.mjs`. Ne pas le modifier à la ma
 | Expressions | 59 |
 | Leçons de grammaire | 12 |
 | Parcours | 5 |
-| Chaînes d’interface | 966 |
+| Chaînes d’interface | 1006 |
 | &nbsp;&nbsp;dont avec forme valyrienne | 80 |
 | Sources | 20 |
 | Entrées de recherche | 769 |

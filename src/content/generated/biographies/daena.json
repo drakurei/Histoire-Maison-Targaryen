@@ -1,0 +1,143 @@
+{
+  "personId": "daena",
+  "titles": [
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Fille aînée d'Aegon III, épouse de Baelor Ier dans un mariage jamais consommé, Daena passa dix ans recluse au Donjon Rouge et fut la mère de Daemon Feunoyr.",
+    "en": "The eldest daughter of Aegon III and the wife of Baelor I in a marriage never consummated, Daena spent ten years confined in the Red Keep and was the mother of Daemon Blackfyre."
+  },
+  "sections": [
+    {
+      "id": "daena-jeunesse",
+      "heading": {
+        "fr": "La fille aînée d'Aegon III",
+        "en": "Aegon III's Eldest Daughter"
+      },
+      "body": {
+        "fr": "Daena naît en 145 apr. C., troisième enfant d'Aegon III et de Daenaera Velaryon, après Daeron et Baelor. Les chroniques gardent d'elle le portrait d'une jeune femme volontaire, aimée pour sa beauté et son audace, bonne cavalière et chasseresse. Elle vénère son père, dont elle imite les vêtements noirs, et admire son frère aîné, le roi conquérant.\n\nEn 160 apr. C., à quinze ans, elle épouse son frère Baelor, selon la coutume de la maison. Le mariage n'est jamais consommé. Daena tente de faire honte à son mari en ne portant plus que du blanc jusqu'à ce qu'il remplisse son devoir ; Baelor s'en accommode fort bien.\n\nLorsque Daeron meurt en Dorne, en 161 apr. C., Daena devient la femme du nouveau roi. Elle ne le reste pas longtemps : l'union, conclue avant l'avènement et restée blanche, est bientôt dissoute.",
+        "en": "Daena was born in 145 AC, the third child of Aegon III and Daenaera Velaryon, after Daeron and Baelor. The chronicles keep the portrait of a wilful young woman, loved for her beauty and her daring, a good rider and huntress. She worshipped her father, whose black clothes she imitated, and admired her elder brother, the conquering king.\n\nIn 160 AC, at fifteen, she married her brother Baelor, after the custom of the house. The marriage was never consummated. Daena tried to shame her husband by wearing nothing but white until he did his duty; Baelor was quite content with it.\n\nWhen Daeron died in Dorne in 161 AC, Daena became the new king's wife. She did not remain so for long: the union, made before his accession and never consummated, was soon dissolved."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron I"
+        }
+      ]
+    },
+    {
+      "id": "daena-reclusion",
+      "heading": {
+        "fr": "La recluse qui s'évadait",
+        "en": "The Prisoner Who Escaped"
+      },
+      "body": {
+        "fr": "Au début de son règne, Baelor fait dissoudre leur mariage par le Grand Septon, puis enferme Daena et ses deux sœurs cadettes dans un pavillon du Donjon Rouge, le futur Maidenvault, pour que leur beauté ne tente ni lui ni ses courtisans. La réclusion est confortable ; des familles nobles y envoient leurs filles comme demoiselles de compagnie, dans l'espoir de plaire au roi. Elle n'en est pas moins une prison.\n\nDes trois sœurs, Daena est la moins résignée. En dix ans, elle s'échappe trois fois, déguisée en servante ou en femme du peuple ; l'une de ces évasions se fait avec l'aide de son cousin Aegon, le fils de Viserys. Cette résistance lui vaut le surnom que la postérité lui a conservé : Daena la Défiante (« the Defiant »).\n\nEn 170 apr. C., elle met au monde un fils qu'elle nomme Daemon, comme son grand-père, le prince de la Danse. Elle refuse de dire qui en est le père, et nul ne peut l'y contraindre.",
+        "en": "Early in his reign Baelor had the High Septon dissolve their marriage, then shut Daena and her two younger sisters away in a building of the Red Keep, the future Maidenvault, so that their beauty would tempt neither him nor his courtiers. The confinement was comfortable; noble families sent their daughters there as companions, hoping to please the king. It was a prison all the same.\n\nOf the three sisters, Daena was the least resigned. In ten years she escaped three times, disguised as a servant or a woman of the smallfolk; one of these escapes was made with the help of her cousin Aegon, Viserys's son. This resistance earned her the name posterity has kept for her, Daena the Defiant.\n\nIn 170 AC she gave birth to a son whom she named Daemon, after her grandfather, the prince of the Dance. She refused to say who the father was, and no one could compel her."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        }
+      ]
+    },
+    {
+      "id": "daena-succession",
+      "heading": {
+        "fr": "Une aînée écartée",
+        "en": "An Elder Daughter Set Aside"
+      },
+      "body": {
+        "fr": "La naissance de l'enfant précède de peu la mort de Baelor, qui s'éteint en 171 apr. C. au terme d'un jeûne de quarante jours. Les filles d'Aegon III retrouvent leur liberté. Daena, aînée des enfants survivants du roi défunt, a pour elle une partie du petit peuple et quelques seigneurs.\n\nTout le reste joue contre elle. Dix années de réclusion l'ont privée d'alliés puissants. Le souvenir de la Danse et de Rhaenyra, dernière femme à s'être assise sur le Trône de Fer, rend beaucoup de seigneurs hostiles à une reine régnante. Et la mère d'un bâtard qui tait le nom du père passe, aux yeux de la cour, pour indocile et légère. On invoque les précédents de 101 apr. C. et de la Danse : les droits des trois sœurs sont écartés, et la couronne va à leur oncle, Viserys II.\n\nLes sources ne disent pas ce que Daena pensa de cette décision, ni si elle chercha à s'y opposer.",
+        "en": "The child's birth came shortly before the death of Baelor, who died in 171 AC at the end of a forty-day fast. The daughters of Aegon III regained their freedom. Daena, the eldest surviving child of the late king, had on her side part of the smallfolk and a few lords.\n\nEverything else told against her. Ten years of confinement had left her without powerful allies. The memory of the Dance and of Rhaenyra, the last woman to sit the Iron Throne, made many lords hostile to a ruling queen. And the mother of a bastard who kept the father's name to herself was held at court to be unruly and wanton. The precedents of 101 AC and of the Dance were invoked: the claims of the three sisters were set aside, and the crown went to their uncle, Viserys II.\n\nThe sources do not say what Daena thought of this decision, or whether she tried to resist it."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys II"
+        }
+      ]
+    },
+    {
+      "id": "daena-posterite",
+      "heading": {
+        "fr": "La mère du dragon noir",
+        "en": "Mother of the Black Dragon"
+      },
+      "body": {
+        "fr": "Le secret de la paternité tient une douzaine d'années. Vers 182 apr. C., Aegon IV, devenu roi, arme chevalier le jeune Daemon et lui remet en public l'épée Feunoyr, reconnaissant ainsi qu'il est son fils. En 184 apr. C., sur son lit de mort, il légitime tous ses bâtards. Le fils de Daena devient un prince légitimé, né de Targaryen par ses deux parents, ce que ses partisans ne manqueront pas d'opposer à Daeron II, que la rumeur disait né d'un adultère.\n\nOn ignore tout des dernières années de Daena. Les sources ne donnent ni le lieu ni la date de sa mort, dont on sait seulement qu'elle survint après 171 apr. C.\n\nEn 196 apr. C., Daemon prit les armes contre son demi-frère et mourut au Champ d'Herberouge. Ses descendants maintinrent la revendication Feunoyr jusqu'en 260 apr. C. La princesse qu'un roi pieux avait enfermée pour sa beauté devint ainsi l'aïeule d'une lignée de prétendants.",
+        "en": "The secret of the paternity held for a dozen years. Around 182 AC Aegon IV, now king, knighted young Daemon and publicly gave him the sword Blackfyre, thereby acknowledging him as his son. In 184 AC, on his deathbed, he legitimised all his bastards. Daena's son became a legitimised prince, born of Targaryens on both sides, a point his partisans would not fail to set against Daeron II, whom rumour called the child of adultery.\n\nNothing is known of Daena's last years. The sources give neither the place nor the date of her death, which is known only to have come after 171 AC.\n\nIn 196 AC Daemon took up arms against his half-brother and died on the Redgrass Field. His descendants kept the Blackfyre claim alive until 260 AC. The princess whom a pious king had locked away for her beauty thus became the ancestress of a line of pretenders."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-baelor",
+    "p6-viserys-ii",
+    "p6-aegon-iv",
+    "p6-herberouge"
+  ],
+  "warIds": [
+    "rebellion-feunoyr-1"
+  ],
+  "disputed": {
+    "fr": "Daena tut le nom du père de son fils ; la rumeur désignait déjà son cousin Aegon, ce que celui-ci confirma en reconnaissant l'enfant une douzaine d'années plus tard, en 182 ou 183 apr. C. selon les calculs. La date et les circonstances de sa mort ne sont pas connues.",
+    "en": "Daena kept the name of her son's father to herself; rumour already pointed to her cousin Aegon, who confirmed it by acknowledging the boy a dozen years later, in 182 or 183 AC depending on the reckoning. The date and circumstances of her death are unknown."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Baelor I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon IV"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+      "id": "tss",
+      "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+    }
+  ]
+}

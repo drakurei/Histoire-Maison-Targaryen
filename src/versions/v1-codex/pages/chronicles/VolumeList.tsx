@@ -61,7 +61,7 @@ export function VolumeList({ heading: Heading = 'h3', detailed = false }: Volume
                 <p className={styles.meta}>
                   {t('page.chronicles.volume.events', { n: period.eventIds.length })}
                   {', '}
-                  {period.essay.length > 0 ? t('page.chronicles.volume.essay', { n: period.essay.length }) : t('page.chronicles.volume.annals')}
+                  {period.essayCount > 0 ? t('page.chronicles.volume.essay', { n: period.essayCount }) : t('page.chronicles.volume.annals')}
                 </p>
               ) : null}
             </div>

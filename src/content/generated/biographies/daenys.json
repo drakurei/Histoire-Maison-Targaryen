@@ -1,0 +1,112 @@
+{
+  "personId": "daenys",
+  "titles": [
+    {
+      "fr": "Dame de Peyredragon, par son mariage",
+      "en": "Lady of Dragonstone, by marriage"
+    }
+  ],
+  "lead": {
+    "fr": "Fille d'Aenar Targaryen, dont le rêve de la destruction de Valyria décida sa famille à partir pour Peyredragon douze ans avant le Fléau.",
+    "en": "Daughter of Aenar Targaryen, whose dream of Valyria's destruction persuaded her family to leave for Dragonstone twelve years before the Doom."
+  },
+  "sections": [
+    {
+      "id": "daenys-le-reve",
+      "heading": {
+        "fr": "Le rêve",
+        "en": "The Dream"
+      },
+      "body": {
+        "fr": "Daenys était encore une jeune fille non mariée lorsqu'elle vit en rêve Valyria engloutie par le feu. Les chroniques ne disent pas son âge, ni la forme exacte de la vision, ni à qui elle la confia d'abord. Elles retiennent l'essentiel : son père la prit au sérieux, et le crédit accordé à une enfant changea le destin de la Maison.\n\nLe fait mérite qu'on s'y arrête. Rien n'oblige un seigneur à vendre ses terres sur la foi d'un songe. Qu'Aenar l'ait fait suppose que de tels rêves avaient du poids dans sa famille, ou que Daenys en avait déjà eu d'autres qui s'étaient vérifiés. Les sources ne permettent pas de choisir. Elles fondent en tout cas, avec elle, une idée qui accompagnera les Targaryen pendant trois siècles : certains d'entre eux verraient en dormant ce que les autres ne voient pas.",
+        "en": "Daenys was still an unmarried girl when she dreamed that Valyria was swallowed by fire. The chronicles give neither her age, nor the exact shape of the vision, nor the person she first told. They keep what mattered: her father took her seriously, and the credit he gave a child altered the fate of the house.\n\nThe point deserves attention. Nothing compels a lord to sell his lands on the strength of a dream. That Aenar did so suggests either that such dreams carried weight in his family, or that Daenys had already had others that proved true. The sources do not allow a choice. With her, in any case, they establish an idea that would follow the Targaryens for three centuries: that some of them see in sleep what others cannot."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Doom of Valyria"
+        }
+      ]
+    },
+    {
+      "id": "daenys-epouse-et-mere",
+      "heading": {
+        "fr": "Épouse et mère à Peyredragon",
+        "en": "Wife and Mother on Dragonstone"
+      },
+      "body": {
+        "fr": "Daenys épousa son frère Gaemon, qui succéda à leur père. L'union suivait l'usage valyrien, qui mariait frères et sœurs pour garder le sang des seigneurs dragons. On ne connaît pas la date de ce mariage, et l'on ne peut même pas dire s'il fut célébré avant ou après le Fléau.\n\nLe couple eut au moins trois enfants. Aegon et Elaena, frère et sœur, s'épousèrent à leur tour et gouvernèrent ensemble Peyredragon après leur père. Une fille cadette, dont le nom n'est pas transmis, épousa un petit seigneur. Cette branche secondaire n'a laissé presque aucune trace, sauf une : au Grand Conseil de 101 apr. C., l'une des quatorze prétentions examinées reposait sur une descendance remontant à cette fille. Elle ne fut pas retenue, mais elle montre que les généalogies de Peyredragon comptaient encore plus de deux siècles après le départ de Valyria.",
+        "en": "Daenys married her brother Gaemon, who succeeded their father. The match followed Valyrian custom, which wed brothers to sisters to keep the blood of the dragonlords. The date of the marriage is unknown, and it cannot even be said whether it took place before or after the Doom.\n\nThe couple had at least three children. Aegon and Elaena, brother and sister, married in their turn and ruled Dragonstone together after their father. A younger daughter, whose name has not come down, married a minor lord. That lesser branch left almost no trace, save one: at the Great Council of 101 AC, one of the fourteen claims under review rested on descent from this daughter. It was not upheld, but it shows that the pedigrees of Dragonstone still mattered more than two centuries after the departure from Valyria."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        }
+      ]
+    },
+    {
+      "id": "daenys-un-livre-perdu",
+      "heading": {
+        "fr": "Un livre perdu",
+        "en": "A Lost Book"
+      },
+      "body": {
+        "fr": "La tradition veut que Daenys ait consigné ses visions dans un recueil intitulé Signes et Présages. Aucun exemplaire n'en est connu. Ce qu'on en sait passe par une chaîne d'intermédiaires : dans les romans, un seigneur des îles de Fer, grand liseur, rapporte qu'un archimestre de la Citadelle, Marwyn, prétend en avoir retrouvé trois pages et les signale dans un catalogue des livres disparus.\n\nChaque maillon affaiblit le témoignage. Le seigneur rapporte ce qu'il a lu ; l'archimestre affirme ce que personne n'a vérifié ; le contenu des trois pages n'est pas donné. Il faut donc tenir pour établi que la tradition attribue un livre à Daenys, et pour incertain tout le reste, y compris l'existence du recueil sous ce titre.\n\nOn ignore aussi quand et où Daenys mourut. Son nom demeure attaché à un seul acte, que d'autres accomplirent pour elle : croire son rêve.",
+        "en": "Tradition holds that Daenys set down her visions in a collection called Signs and Portents. No copy is known. What is known of it passes through a chain of intermediaries: in the novels, a lord of the Iron Islands with a taste for books reports that an archmaester of the Citadel, Marwyn, claims to have found three of its pages and lists them in a catalogue of lost books.\n\nEach link weakens the testimony. The lord reports what he has read; the archmaester asserts what no one has checked; the content of the three pages is not given. It is therefore safe to say that tradition credits Daenys with a book, and uncertain to say anything more, including whether the collection ever existed under that title.\n\nWhen and where Daenys died is not known either. Her name remains tied to a single act, which others carried out on her behalf: believing her dream."
+      },
+      "sources": [
+        {
+          "id": "affc",
+          "locator": "The Kraken's Daughter (ch. 11)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p2-reve-daenys",
+    "p1-fleau",
+    "p2-gaemon-et-successeurs",
+    "p2-signes-et-presages"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "Ni sa naissance ni sa mort ne sont datées. L'existence du recueil Signes et Présages ne repose que sur un ouï-dire rapporté dans A Feast for Crows, et son contenu est inconnu. Le nom de sa fille cadette et la date de son mariage avec Gaemon ne sont pas transmis.",
+    "en": "Neither her birth nor her death is dated. The existence of Signs and Portents rests only on hearsay reported in A Feast for Crows, and its content is unknown. The name of her younger daughter and the date of her marriage to Gaemon have not come down."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Aegon's Conquest"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Reign of the Dragons: The Conquest"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "Ancient History: The Doom of Valyria"
+    },
+    {
+      "id": "affc",
+      "locator": "The Kraken's Daughter (ch. 11)"
+    }
+  ]
+}

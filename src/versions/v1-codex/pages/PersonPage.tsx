@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 import { MAIN_ID } from '@/app/a11y';
 import { NotFound } from '../components/NotFound';
 import { VLink } from '@/app/version';
-import { getBiography } from '@/core/content/biographies';
+import { useBiography } from '@/core/content/biographies';
 import { getDragon } from '@/core/content/dragons';
 import { getPerson, sovereigns } from '@/core/content/people';
 import { events } from '@/core/content/timeline';
@@ -82,9 +82,9 @@ export default function PersonPage() {
   const tx = useTxTypo();
   const title = useTitle();
   const { reading } = useLang();
+  const biography = useBiography(person?.hasBiography ? person.id : undefined);
   if (!person) return <NotFound />;
 
-  const biography = person.hasBiography ? getBiography(person.id) : undefined;
   const sovereign = sovereigns.find((entry) => entry.id === person.id);
   const crowned = CROWNED.has(person.id);
   const { books: annals, show } = splitContinuity(eventsOf(person, biography));

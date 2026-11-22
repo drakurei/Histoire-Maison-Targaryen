@@ -1,0 +1,136 @@
+{
+  "personId": "laenor-velaryon",
+  "titles": [
+    {
+      "fr": "Ser, chevalier",
+      "en": "Ser, knight"
+    },
+    {
+      "fr": "Héritier de Lamarck",
+      "en": "Heir to Driftmark"
+    },
+    {
+      "fr": "Prétendant au Grand Conseil de 101 apr. C.",
+      "en": "Claimant at the Great Council of 101 AC"
+    },
+    {
+      "fr": "Époux de la princesse de Peyredragon",
+      "en": "Husband of the Princess of Dragonstone"
+    }
+  ],
+  "lead": {
+    "fr": "Fils de Corlys Velaryon et de la princesse Rhaenys, Laenor fut écarté du trône enfant par le Grand Conseil de 101 apr. C., épousa Rhaenyra en 114 apr. C. et mourut en 120 apr. C., tué par l'un de ses compagnons.",
+    "en": "Son of Corlys Velaryon and Princess Rhaenys, Laenor was passed over for the throne as a child by the Great Council of 101 AC, married Rhaenyra in 114 AC and died in 120 AC, killed by one of his companions."
+  },
+  "sections": [
+    {
+      "id": "laenor-velaryon-grand-conseil",
+      "heading": {
+        "fr": "L'enfant du Grand Conseil",
+        "en": "The Child of the Great Council"
+      },
+      "body": {
+        "fr": "Laenor naît en 94 apr. C. de lord Corlys Velaryon et de la princesse Rhaenys, fille du prince Aemon, l'aîné de Jaehaerys Ier. Par sa mère, il appartient à la branche aînée ; c'est pourquoi les Velaryon et les Baratheon, parents de Rhaenys, soutiennent que son droit au trône vaut mieux que celui des fils de Baelon. Quand Baelon meurt en 101 apr. C., Jaehaerys convoque à Harrenhal un Grand Conseil pour fixer la succession.\n\nLaenor a sept ans. Ses parents engagent leur fortune et leurs alliances, et plusieurs seigneurs se déclarent pour lui, mais la grande majorité préfère un homme fait, descendant par les mâles : Viserys l'emporte très largement. L'issue installe pour longtemps l'idée qu'un droit transmis par une femme cède devant celui d'un homme. À cette date, l'enfant vient de se lier au jeune dragon Seasmoke, qu'il ne monte pas encore.",
+        "en": "Laenor was born in 94 AC to Lord Corlys Velaryon and Princess Rhaenys, daughter of Prince Aemon, the eldest son of Jaehaerys I. Through his mother he belonged to the senior line, which is why the Velaryons and the Baratheons, Rhaenys's kin, maintained that his claim to the throne was better than that of Baelon's sons. When Baelon died in 101 AC, Jaehaerys called a Great Council at Harrenhal to settle the succession.\n\nLaenor was seven. His parents committed their wealth and their alliances, and several lords declared for him, but the great majority preferred a grown man descended through the male line: Viserys won by a wide margin. The outcome long fixed the notion that a claim passed through a woman gives way to that of a man. By then the boy had just bonded with the young dragon Seasmoke, which he did not yet ride."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "laenor-velaryon-mariage",
+      "heading": {
+        "fr": "Un mariage d'État",
+        "en": "A Marriage of State"
+      },
+      "body": {
+        "fr": "En 114 apr. C., le conseil de Viserys choisit Laenor pour époux de Rhaenyra : l'union doit réconcilier les deux branches que le Grand Conseil avait opposées. Le seul obstacle avoué est son peu de goût pour les femmes ; le grand mestre Mellos passe outre. Laenor est fait chevalier quinze jours avant la noce. Au tournoi qui la célèbre, son favori, ser Joffrey Lonmouth, est mortellement blessé par ser Criston Cole et meurt quelques jours plus tard.\n\nLaenor regagne ensuite Lamarck, où ser Qarl Correy devient son compagnon, tandis que Rhaenyra reste à la cour. Il ne la rejoint que pour les cérémonies où on l'attend. Trois fils naissent : Jacaerys en 114 apr. C., Lucerys l'année suivante, Joffrey en 117 apr. C., ce dernier nommé selon le vœu de Laenor en souvenir de son ami mort. Aucun ne lui ressemble, et la rumeur désigne ser Harwin Strong. Laenor, lui, ne les a jamais reniés.",
+        "en": "In 114 AC Viserys's council chose Laenor as Rhaenyra's husband: the match was meant to reconcile the two branches the Great Council had set against each other. The only objection openly raised was his lack of interest in women; Grand Maester Mellos brushed it aside. Laenor was knighted a fortnight before the wedding. At the tourney held to celebrate it, his favourite, Ser Joffrey Lonmouth, was mortally wounded by Ser Criston Cole and died some days later.\n\nLaenor then went back to Driftmark, where Ser Qarl Correy became his companion, while Rhaenyra stayed at court. He joined her only for the ceremonies at which he was expected. Three sons were born: Jacaerys in 114 AC, Lucerys the following year, Joffrey in 117 AC, the last named at Laenor's wish after his dead friend. None of them resembled him, and rumour pointed to Ser Harwin Strong. Laenor himself never disowned them."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "trp"
+        }
+      ]
+    },
+    {
+      "id": "laenor-velaryon-mort",
+      "heading": {
+        "fr": "Une foire à Lamarck",
+        "en": "A Fair on Driftmark"
+      },
+      "body": {
+        "fr": "En 120 apr. C., Laenor se rend à une foire dans un bourg marchand de Lamarck. Des marchands l'entendent se quereller bruyamment avec Qarl Correy ; les lames sortent, et Laenor est tué. Correy s'enfuit et ne reparaît jamais, malgré la forte récompense que Corlys promet à qui le lui livrera. Le roi et la cour assistent aux funérailles à Lamarck, où se rassemblent tant de dragons que le septon Eustace parle d'une nouvelle Valyria. C'est pendant ce séjour qu'Aemond s'empare de Vhagar.\n\nSeasmoke reste sans cavalier près de dix ans, jusqu'à ce qu'Addam de la Carène le monte lors des Semailles. Ce même Addam et son frère Alyn sont présentés par leur mère comme des bâtards de Laenor, qui passait parfois par le chantier naval où elle travaillait ; beaucoup en doutent, mais Corlys les accueille et Rhaenyra les légitime. Moins de six mois après la mort de son mari, elle avait épousé Daemon.",
+        "en": "In 120 AC Laenor went to a fair in a market town on Driftmark. Merchants heard him quarrelling loudly with Qarl Correy; blades were drawn, and Laenor was killed. Correy fled and was never seen again, despite the large reward Corlys promised to whoever delivered him. The king and court attended the funeral on Driftmark, where so many dragons gathered that Septon Eustace spoke of a new Valyria. It was during that stay that Aemond claimed Vhagar.\n\nSeasmoke remained riderless for almost ten years, until Addam of Hull mounted him during the Sowing. That same Addam and his brother Alyn were presented by their mother as Laenor's bastards, for he had sometimes called at the shipyard where she worked; many doubted it, but Corlys took them in and Rhaenyra legitimised them. Less than six months after her husband's death she had married Daemon."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "seasmoke"
+  ],
+  "eventIds": [
+    "p4-grand-conseil-101",
+    "p5-mariage-laenor",
+    "p5-printemps-rouge",
+    "p5-semailles"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "Le motif de Qarl Correy reste inconnu : jalousie envers un nouveau favori selon le septon Eustace, meurtre commandé par Daemon selon Champignon, qui n'en donne aucune preuve. La paternité des trois fils de Rhaenyra est contestée, comme celle d'Addam et d'Alyn de la Carène, que Champignon attribue à Corlys lui-même.",
+    "en": "Qarl Correy's motive remains unknown: jealousy of a new favourite according to Septon Eustace, a killing ordered by Daemon according to Mushroom, who offers no proof. The paternity of Rhaenyra's three sons is contested, as is that of Addam and Alyn of Hull, whom Mushroom attributes to Corlys himself."
+  },
+  "adaptation": {
+    "fr": "House of the Dragon montre Laenor simulant sa mort avec l'aide de Daemon et partant pour Essos avec Qarl Correy ; dans les livres, il meurt de la main de Correy.",
+    "en": "House of the Dragon shows Laenor faking his death with Daemon's help and leaving for Essos with Qarl Correy; in the books he dies at Correy's hand."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys I"
+    },
+    {
+      "id": "trp"
+    },
+    {
+      "id": "hotd",
+      "locator": "Season 1"
+    }
+  ]
+}

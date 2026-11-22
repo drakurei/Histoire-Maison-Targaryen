@@ -1,0 +1,189 @@
+/*
+ * La guerre sur le folio : l'en-tête rubriqué, les deux camps face à face de part et d'autre
+ * d'un « contre » en italique, puis les batailles dans l'ordre.
+ */
+.tete {
+  display: grid;
+  row-gap: var(--e4);
+  margin-bottom: var(--e5);
+}
+
+.chapeau {
+  margin-bottom: var(--e2);
+}
+
+.faits {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e4);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--v3-texte-2);
+}
+
+.annees {
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.section {
+  margin-top: var(--e7);
+}
+
+.face {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  column-gap: var(--e5);
+  align-items: start;
+  margin-top: var(--e4);
+}
+
+.camp {
+  display: grid;
+  gap: var(--e2);
+  grid-row: 1;
+}
+
+.camp[data-cote='gauche'] {
+  grid-column: 1;
+}
+
+.camp[data-cote='droite'] {
+  grid-column: 3;
+}
+
+.contre {
+  grid-column: 2;
+  grid-row: 1;
+  padding-top: 0.35em;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  color: var(--v3-texte-2);
+}
+
+.campNom {
+  display: flex;
+  align-items: baseline;
+  gap: 0.45em;
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 400;
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  color: var(--v3-texte);
+}
+
+.chefs {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.6;
+  color: var(--v3-texte);
+}
+
+.etiquette {
+  color: var(--v3-texte-2);
+}
+
+.autres {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+  margin: var(--e4) 0 0;
+  padding: 0;
+  list-style: none;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--v3-texte-2);
+}
+
+.marge {
+  display: grid;
+  align-content: start;
+  gap: var(--e2);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+  color: var(--v3-texte-2);
+}
+
+.margeTitre {
+  font-weight: 500;
+  color: var(--v3-texte);
+}
+
+.phrase {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.6;
+  color: var(--v3-texte-2);
+}
+
+.batailles {
+  display: grid;
+  gap: var(--e7);
+  margin: var(--e5) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.evenements {
+  display: grid;
+  gap: var(--e2);
+  margin: var(--e3) 0 0;
+  padding: 0;
+  list-style: none;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+}
+
+.evenements li {
+  display: grid;
+  grid-template-columns: 6rem minmax(0, 1fr);
+  column-gap: var(--e3);
+}
+
+.an {
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--v3-texte-2);
+}
+
+.tel {
+  display: grid;
+  min-width: 0;
+}
+
+.carteTel {
+  position: relative;
+  height: 40svh;
+  min-height: 16rem;
+  margin-inline: calc(-1 * var(--marge-page));
+}
+
+.carteTel > * {
+  position: absolute;
+  inset: 0;
+}
+
+@media (width < 1024px) {
+  .face {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: var(--e3);
+  }
+
+  .camp[data-cote='gauche'],
+  .camp[data-cote='droite'],
+  .contre {
+    grid-column: 1;
+    grid-row: auto;
+  }
+
+  .contre {
+    padding-top: 0;
+  }
+
+  .evenements li {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

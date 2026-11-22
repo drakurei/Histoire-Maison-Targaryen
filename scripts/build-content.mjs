@@ -1933,6 +1933,36 @@ function buildReport() {
 
 ready = true;
 
+/**
+ * Découpe les jeux lourds pour le chargement : le site ne lit le récit long d'une période
+ * ou la biographie d'une personne que sur sa propre page.
+ *   timeline.json            : périodes sans leur récit long (`essayCount` en garde le nombre de sections)
+ *   essays/<période>.json    : { sections } d'une période qui a un récit long
+ *   biographies/<personne>.json : une biographie
+ * Les anciens fichiers découpés sont effacés avant l'écriture, pour qu'aucun ne survive à sa source.
+ */
+function splitForLoading(all) {
+  for (const dir of ['essays', 'biographies']) fs.rmSync(path.join(OUT, dir), { recursive: true, force: true });
+  fs.rmSync(path.join(OUT, 'biographies.json'), { force: true });
+  const out = {};
+  for (const [name, data] of Object.entries(all)) {
+    if (name === 'timeline') {
+      out.timeline = {
+        ...data,
+        periods: data.periods.map(({ essay, ...period }) => {
+          if (essay.length > 0) out[`essays/${period.id}`] = { sections: essay };
+          return { ...period, essayCount: essay.length };
+        }),
+      };
+    } else if (name === 'biographies') {
+      for (const bio of data.biographies) out[`biographies/${bio.personId}`] = bio;
+    } else {
+      out[name] = data;
+    }
+  }
+  return out;
+}
+
 function writeJson(file, data) {
   fs.mkdirSync(path.dirname(file), { recursive: true });
   fs.writeFileSync(file, `${JSON.stringify(data, null, 2)}\n`, 'utf8');
@@ -1983,7 +2013,7 @@ function finish({ abort = false } = {}) {
       missingFr,
     });
     if (!fatal) {
-      for (const [name, data] of Object.entries(generated)) writeJson(path.join(OUT, `${name}.json`), data);
+      for (const [name, data] of Object.entries(splitForLoading(generated))) writeJson(path.join(OUT, `${name}.json`), data);
     }
   }
 

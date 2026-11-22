@@ -1,0 +1,88 @@
+/*
+ * Colophon : appareil du musée en cendre, posé sur la grille de 12 colonnes. Le poinçon
+ * dans la première colonne, le texte de la deuxième à la sixième, les liens à partir de la
+ * huitième. Ni filet ni cadre : un blanc le sépare de la vue.
+ */
+.root {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: var(--gouttiere);
+  row-gap: var(--e5);
+  align-items: start;
+  padding: var(--e8) var(--marge-page) var(--e6);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--cendre);
+}
+
+.poincon {
+  grid-column: 1;
+  display: grid;
+  place-items: center start;
+  min-width: 2.75rem;
+  min-height: 2.75rem;
+  color: var(--cendre);
+  text-decoration: none;
+}
+
+.poincon:hover,
+.poincon:focus-visible {
+  color: var(--ivoire);
+}
+
+.texte {
+  grid-column: 2 / 7;
+  display: grid;
+  gap: var(--e2);
+  max-width: 36rem;
+}
+
+.liens {
+  grid-column: 8 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+}
+
+.lien {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--ivoire);
+  text-align: left;
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+}
+
+.lien:hover,
+.lien:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+.lien :global(.gloss__main) {
+  font-family: var(--f-musee);
+}
+
+@media (width < 1024px) {
+  .root {
+    grid-template-columns: 2.75rem minmax(0, 1fr);
+    column-gap: var(--e4);
+  }
+
+  .poincon {
+    grid-column: 1;
+  }
+
+  .texte {
+    grid-column: 2;
+  }
+
+  .liens {
+    grid-column: 1 / -1;
+  }
+}

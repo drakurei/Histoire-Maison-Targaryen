@@ -1,0 +1,114 @@
+{
+  "personId": "aemma-arryn",
+  "titles": [
+    {
+      "fr": "Reine des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "Queen of the Andals, the Rhoynar, and the First Men"
+    }
+  ],
+  "lead": {
+    "fr": "Petite-fille de Jaehaerys Ier par sa mère Daella, première épouse de Viserys Ier et mère de Rhaenyra, Aemma Arryn mourut en couches en 105 apr. C.",
+    "en": "A granddaughter of Jaehaerys I through her mother Daella, the first wife of Viserys I and the mother of Rhaenyra, Aemma Arryn died in childbed in 105 AC."
+  },
+  "sections": [
+    {
+      "id": "aemma-arryn-naissance",
+      "heading": {
+        "fr": "Une naissance aux Eyrié",
+        "en": "Born at the Eyrie"
+      },
+      "body": {
+        "fr": "Aemma naît en 82 apr. C., seule enfant de lord Rodrik Arryn et de sa seconde épouse, la princesse Daella, fille de Jaehaerys Ier. Le travail a commencé deux semaines trop tôt ; l'enfant est en bonne santé, mais sa mère, prise de fièvre, meurt avant le lendemain matin, sous les yeux de la reine Alysanne venue l'assister. Aemma a quatre demi-frères et sœurs, nés du premier mariage de son père, dont Elys et Amanda.\n\nEn 93 apr. C., à onze ans, elle épouse son cousin Viserys, fils du prince Baelon, alors héritier du trône. Le mariage n'est consommé que deux ans plus tard. Ces noces unissent deux lignées issues des enfants de Jaehaerys, celle de Baelon et celle de Daella, à un moment où la succession vient d'être fixée sur Baelon. Les chroniques parlent de l'alliance, non de l'enfant qu'on y engageait, et ne rapportent rien de ce qu'elle en pensait.",
+        "en": "Aemma was born in 82 AC, the only child of Lord Rodrik Arryn by his second wife, Princess Daella, daughter of Jaehaerys I. The labour had begun a fortnight early; the child was healthy, but her mother took a fever and died before the next morning, before the eyes of Queen Alysanne, who had come to attend her. Aemma had four half-siblings from her father's first marriage, among them Elys and Amanda.\n\nIn 93 AC, at eleven, she married her cousin Viserys, son of Prince Baelon, then heir to the throne. The marriage was consummated only two years later. The match joined two lines descended from the children of Jaehaerys, Baelon's and Daella's, at a time when the succession had just been settled on Baelon. The chronicles speak of the alliance, not of the child committed to it, and record nothing of what she thought of it."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        }
+      ]
+    },
+    {
+      "id": "aemma-arryn-grossesses",
+      "heading": {
+        "fr": "Les grossesses",
+        "en": "The Pregnancies"
+      },
+      "body": {
+        "fr": "Les premières années du mariage sont une suite d'épreuves. Aemma conçoit plusieurs fois, perd plusieurs enfants avant terme et met au monde un fils qui meurt au berceau. Certains mestres attribuent ces malheurs à un mariage et à une consommation trop précoces. En 97 apr. C., elle donne enfin naissance à une fille en bonne santé, Rhaenyra, que les deux parents adorent.\n\nEn 101 apr. C., le Grand Conseil fait de son mari l'héritier du trône, et en 103 apr. C. elle devient reine. La question de la succession revient aussitôt. Beaucoup redoutent que Daemon, frère du roi, ne soit l'héritier ; quand on l'interroge, Viserys répond seulement qu'il attend un fils d'Aemma. L'avenir de la dynastie repose ainsi, aux yeux du roi, sur une femme dont presque toutes les grossesses avaient mal fini. Pendant ce temps, Rhaenyra, seule enfant vivante du couple, accompagne son père à toutes les fêtes de la cour.",
+        "en": "The early years of the marriage were a succession of trials. Aemma conceived several times, lost several children before their time and gave birth to a son who died in the cradle. Some maesters blamed these misfortunes on a marriage and a consummation that came too early. In 97 AC she at last gave birth to a healthy daughter, Rhaenyra, whom both parents adored.\n\nIn 101 AC the Great Council made her husband heir to the throne, and in 103 AC she became queen. The question of the succession returned at once. Many feared that Daemon, the king's brother, would be the heir; when asked, Viserys answered only that he expected a son from Aemma. In the king's eyes, the future of the dynasty thus rested on a woman nearly all of whose pregnancies had ended badly. Meanwhile Rhaenyra, the couple's only living child, attended her father at every feast of the court."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "aemma-arryn-mort",
+      "heading": {
+        "fr": "La mort en couches",
+        "en": "Death in Childbed"
+      },
+      "body": {
+        "fr": "Au début de 105 apr. C., Aemma est de nouveau enceinte, et le roi l'annonce avec joie à la cour et au conseil. Elle accouche à la fin de l'année d'un fils, nommé Baelon d'après son grand-père, et meurt pendant l'accouchement. L'enfant ne lui survit qu'un jour.\n\nSa mort a des conséquences qui dépassent de loin le deuil d'un roi. Les railleries de Daemon sur cet « héritier d'un jour » brouillent les deux frères, et Viserys fait de Rhaenyra son héritière. Le conseil le presse de se remarier ; il épouse Alicent Hightower, qui lui donnera trois fils. De la succession de 105 apr. C. et de ce remariage sortiront les deux partis de la Danse des dragons. La lignée d'Aemma survécut pourtant à la guerre : par Rhaenyra, ses petits-fils Aegon III et Viserys II portèrent la couronne, et c'est de Viserys II que descendent les rois suivants.",
+        "en": "Early in 105 AC Aemma was with child again, and the king joyfully announced it to the court and council. Late in the year she gave birth to a son, named Baelon after his grandfather, and died in the delivery. The child outlived her by a single day.\n\nHer death had consequences far beyond a king's mourning. Daemon's jests about this “heir for a day” set the two brothers at odds, and Viserys made Rhaenyra his heir. The council pressed him to remarry; he wed Alicent Hightower, who would give him three sons. From the succession of 105 AC and that remarriage came the two parties of the Dance of the Dragons. Aemma's line nonetheless survived the war: through Rhaenyra, her grandsons Aegon III and Viserys II wore the crown, and the later kings descend from Viserys II."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p4-grand-conseil-101",
+    "p4-avenement-viserys",
+    "p5-rhaenyra-heritiere",
+    "p5-alicent"
+  ],
+  "warIds": [],
+  "adaptation": {
+    "fr": "Dans House of the Dragon, Viserys fait ouvrir le ventre de la reine pendant le travail pour tenter de sauver l'enfant, et Aemma meurt de cette opération. Les livres disent seulement qu'elle mourut en couches.",
+    "en": "In House of the Dragon, Viserys has the queen cut open during labour in an attempt to save the child, and Aemma dies of the operation. The books say only that she died in childbed."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys I"
+    },
+    {
+      "id": "trp"
+    },
+    {
+      "id": "hotd",
+      "locator": "saison 1, épisode 1"
+    }
+  ]
+}

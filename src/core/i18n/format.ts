@@ -26,7 +26,7 @@ const UNKNOWN: Record<SupportLang, string> = {
 };
 
 const UNTIL: Record<SupportLang, (end: string) => string> = {
-  fr: (end) => `jusqu'en ${end}`,
+  fr: (end) => `jusqu’en ${end}`,
   en: (end) => `until ${end}`,
 };
 

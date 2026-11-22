@@ -1,0 +1,172 @@
+{
+  "personId": "aegor-rivers",
+  "titles": [
+    {
+      "fr": "Chevalier",
+      "en": "Knight"
+    },
+    {
+      "fr": "Fondateur et capitaine-général de la Compagnie Dorée",
+      "en": "Founder and captain-general of the Golden Company"
+    }
+  ],
+  "lead": {
+    "fr": "Fils bâtard d'Aegon IV et de Barba Bracken, Aegor Rivers, dit Aigracier, soutint toute sa vie la cause Feunoyr et fonda en exil la Compagnie Dorée.",
+    "en": "The bastard son of Aegon IV and Barba Bracken, Aegor Rivers, called Bittersteel, upheld the Blackfyre cause all his life and founded the Golden Company in exile."
+  },
+  "sections": [
+    {
+      "id": "aegor-rivers-jeunesse",
+      "heading": {
+        "fr": "Le fils de Barba Bracken",
+        "en": "The Son of Barba Bracken"
+      },
+      "body": {
+        "fr": "Aegor naît en 172 apr. C. à Port-Réal, fils d'Aegon IV et de Barba Bracken, que le roi avait remarquée parmi les compagnes de ses cousines au Maidenvault. Il vient au monde quinze jours avant que la reine Naerys ne manque de mourir en couches ; le père de Barba, Main du Roi, parle aussitôt de marier le roi à sa fille. La reine se rétablit, et Aemon le Chevalier-Dragon et le prince Daeron obtiennent que la mère et l'enfant quittent la cour. Aegor est élevé chez les Bracken, dans le Conflans.\n\nC'est en lui rendant visite, en 177 apr. C., que le roi s'éprend de Bethany, la sœur cadette de Barba ; l'affaire finit par l'exécution de la jeune femme et de son père, le grand-père d'Aegor.\n\nL'enfant grandit dans la rancune. Il hait surtout son demi-frère Brynden, fils de Melissa Blackwood, qui avait remplacé sa mère dans les faveurs du roi : la vieille rivalité des Bracken et des Blackwood se rejouait dans la famille royale.",
+        "en": "Aegor was born in 172 AC in King's Landing, the son of Aegon IV and Barba Bracken, whom the king had noticed among his cousins' companions in the Maidenvault. He came into the world a fortnight before Queen Naerys nearly died in childbed; Barba's father, the Hand of the King, at once spoke of marrying the king to his daughter. The queen recovered, and Aemon the Dragonknight and Prince Daeron had mother and child sent from court. Aegor was raised by the Brackens, in the riverlands.\n\nIt was while visiting him in 177 AC that the king became infatuated with Bethany, Barba's younger sister; the affair ended with the execution of the young woman and of her father, Aegor's grandfather.\n\nThe boy grew up in bitterness. He hated above all his half-brother Brynden, the son of Melissa Blackwood, who had replaced his mother in the king's favour: the old rivalry of Bracken and Blackwood was being replayed inside the royal family."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        }
+      ]
+    },
+    {
+      "id": "aegor-rivers-herberouge",
+      "heading": {
+        "fr": "Aigracier",
+        "en": "Bittersteel"
+      },
+      "body": {
+        "fr": "Légitimé avec ses demi-frères en 184 apr. C., Aegor partage avec Daemon l'enseignement de ser Quentyn Boule au Donjon Rouge. Les chroniques le décrivent comme un homme dur, irritable, que rien n'intéressait hors de la guerre ; son surnom dit assez son humeur. Sa haine pour Brynden s'aggrave quand leur demi-sœur Shiera préfère ce dernier.\n\nIl est, selon mestre Yandel, celui qui finit par décider Daemon à revendiquer le trône. Daemon lui promet sa fille aînée, Calla ; on ignore si le mariage fut célébré, et quand. Au Champ d'Herberouge, en 196 apr. C., Aegor commande l'aile droite de l'armée rebelle. Quand Daemon et ses fils aînés tombent sous les flèches de Brynden, il ramasse Feunoyr, rallie les fuyards et charge les archers. Les deux demi-frères se battent ; Aegor crève un œil à Brynden, mais doit quitter le champ.\n\nIl emmène en exil la veuve de Daemon, ses enfants, l'épée, et des centaines de seigneurs et de chevaliers désormais sans terre.",
+        "en": "Legitimised with his half-brothers in 184 AC, Aegor shared Ser Quentyn Ball's teaching with Daemon in the Red Keep. The chronicles describe him as a hard, irritable man with no interest in anything but war; his name says enough about his temper. His hatred of Brynden deepened when their half-sister Shiera preferred Brynden.\n\nAccording to Maester Yandel, it was he who finally persuaded Daemon to claim the throne. Daemon promised him his eldest daughter, Calla; whether and when the marriage took place is unknown. On the Redgrass Field in 196 AC, Aegor commanded the right wing of the rebel army. When Daemon and his elder sons fell to Brynden's arrows, he took up Blackfyre, rallied the fleeing men and charged the archers. The two half-brothers fought; Aegor put out one of Brynden's eyes, but had to leave the field.\n\nHe took into exile Daemon's widow, his children, the sword, and hundreds of lords and knights who were now landless."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        }
+      ]
+    },
+    {
+      "id": "aegor-rivers-compagnie",
+      "heading": {
+        "fr": "La Compagnie Dorée",
+        "en": "The Golden Company"
+      },
+      "body": {
+        "fr": "Installé à Tyrosh avec la famille de Daemon, Aegor sert un an chez les Puînés. Voyant les exilés se disperser dans d'autres compagnies, et avec eux la cause, il fonde la Compagnie Dorée pour les tenir ensemble. Elle se fait vite une réputation de discipline dans les Cités libres ; elle se fait connaître en mettant Qohor à sac quand la cité refuse d'honorer son contrat, et la tradition lui prête de n'avoir jamais rompu le sien. Son cri de guerre rappelle le surnom de son fondateur.\n\nEn 212 apr. C., pourtant, Aegor refuse de soutenir le soulèvement de Daemon II, le fils de Daemon. Les mestres en débattent encore : défiance envers un plan jugé chimérique, mépris pour un prince rêveur et épris de belles choses, désapprobation de sa vie privée. Aegor garde en Essos l'épée Feunoyr, et le complot de Murs-Blancs échoue sans lui.",
+        "en": "Settled in Tyrosh with Daemon's family, Aegor served a year with the Second Sons. Seeing the exiles scatter among other companies, and the cause with them, he founded the Golden Company to hold them together. It soon won a name for discipline in the Free Cities; it made its name by sacking Qohor when the city refused to honour its contract, and tradition holds that it never broke its own. Its war cry recalls its founder's name.\n\nIn 212 AC, however, Aegor refused to support the rising of Daemon II, Daemon's son. The maesters still debate why: distrust of a plan thought fanciful, contempt for a dreamy prince fond of fine things, disapproval of his private life. Aegor kept the sword Blackfyre in Essos, and the Whitewalls plot failed without him."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        },
+        {
+          "id": "adwd",
+          "locator": "Tyrion II (ch. 5)"
+        }
+      ]
+    },
+    {
+      "id": "aegor-rivers-rebellions",
+      "heading": {
+        "fr": "Deux débarquements et un crâne doré",
+        "en": "Two Landings and a Golden Skull"
+      },
+      "body": {
+        "fr": "En 219 apr. C., Aegor débarque avec Haegon Feunoyr et la Compagnie Dorée. Il affronte Brynden une seconde fois ; Haegon est tué après s'être rendu, et Aegor, pris vivant, est mené enchaîné au Donjon Rouge. Brynden et le prince Aerion réclament sa tête ; le roi Aerys préfère l'envoyer au Mur. Des partisans interceptent le navire qui l'y conduit, et Aegor couronne à Tyrosh, avant la fin de l'année, Daemon III, le fils de Haegon.\n\nEn 236 apr. C., il débarque de nouveau, au Bec de Massey, avec Daemon III. Presque personne ne les rejoint. Au pont de la Wend, ser Duncan le Grand tue le prétendant, et Aegor s'échappe encore.\n\nIl meurt en Essos en 241 apr. C., à soixante-neuf ans. À sa demande, son crâne est nettoyé, plongé dans l'or et porté devant la compagnie. Ses successeurs l'ont imité. En 300 apr. C., ce crâne doré se dresse encore sur une pique dans la tente du capitaine-général qui mène la compagnie de l'autre côté de la mer.",
+        "en": "In 219 AC Aegor landed with Haegon Blackfyre and the Golden Company. He fought Brynden a second time; Haegon was killed after yielding, and Aegor, taken alive, was brought in chains to the Red Keep. Brynden and Prince Aerion wanted his head; King Aerys preferred to send him to the Wall. Partisans intercepted the ship carrying him there, and before the year was out Aegor crowned Daemon III, Haegon's son, in Tyrosh.\n\nIn 236 AC he landed again, on Massey's Hook, with Daemon III. Hardly anyone joined them. At Wendwater Bridge Ser Duncan the Tall killed the pretender, and Aegor escaped once more.\n\nHe died in Essos in 241 AC, aged sixty-nine. At his wish his skull was cleaned, dipped in gold and carried before the company. His successors have followed his example. In 300 AC that gilded skull still stands on a pike in the tent of the captain-general who leads the company across the sea."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "adwd",
+          "locator": "The Lost Lord (ch. 24)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-aegon-iv",
+    "p6-herberouge",
+    "p6-murs-blancs",
+    "p6-troisieme-feunoyr",
+    "p6-quatrieme-feunoyr",
+    "p8-jeune-griff"
+  ],
+  "warIds": [
+    "rebellion-feunoyr-1",
+    "rebellion-feunoyr-2",
+    "rebellion-feunoyr-3",
+    "rebellion-feunoyr-4"
+  ],
+  "disputed": {
+    "fr": "On ignore si le mariage d'Aegor avec Calla Feunoyr fut célébré. Les raisons de son refus de soutenir Daemon II en 212 apr. C. sont débattues par les mestres. L'issue de son second duel avec Brynden, en 219 apr. C., n'est pas rapportée.",
+    "en": "Whether Aegor's marriage to Calla Blackfyre ever took place is unknown. The maesters debate why he refused to support Daemon II in 212 AC. The outcome of his second duel with Brynden, in 219 AC, is not recorded."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon IV"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon V"
+    },
+    {
+      "id": "tss",
+      "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+    },
+    {
+      "id": "tmk",
+      "locator": "Whitewalls"
+    },
+    {
+      "id": "adwd",
+      "locator": "Tyrion II (ch. 5)"
+    },
+    {
+      "id": "adwd",
+      "locator": "The Lost Lord (ch. 24)"
+    },
+    {
+      "id": "adwd",
+      "locator": "The Kingbreaker (ch. 67)"
+    }
+  ]
+}

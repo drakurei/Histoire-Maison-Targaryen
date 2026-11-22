@@ -1,0 +1,257 @@
+{
+  "sections": [
+    {
+      "id": "p1-origines",
+      "heading": {
+        "fr": "Des bergers et des volcans",
+        "en": "Shepherds and volcanoes"
+      },
+      "body": {
+        "fr": "Avant d'être une puissance, Valyria fut, dit-on, un pays de bergers. La péninsule qui s'avançait dans la mer d'Été, au sud d'Essos, était dominée par une chaîne de volcans, les Quatorze Flammes. C'est dans leurs flancs que les Valyriens auraient trouvé des dragons, et c'est en apprenant à les soumettre qu'ils seraient sortis de l'obscurité. Les chroniqueurs situent ce tournant quelque cinq mille ans avant le Fléau, une estimation qui vaut ordre de grandeur et rien de plus.\n\nSur l'origine des dragons eux-mêmes, les récits se contredisent. Les Valyriens tenaient ces bêtes pour des enfants des volcans et se disaient de leur sang. À Qarth, on raconte qu'une seconde lune, trop proche du soleil, se fendit comme un œuf et répandit des dragons sur le monde. D'anciens contes d'Asshai affirment enfin que les Valyriens ne furent pas les premiers dompteurs : un peuple dont le nom s'est perdu leur aurait apporté des dragons et enseigné son art avant de disparaître. Le septon Barth, qui consacra aux dragons un traité entier, examina plusieurs de ces légendes sans pouvoir trancher.\n\nRien de cela ne peut être établi. Aucun récit valyrien de leurs commencements ne nous est parvenu, et ce que les mestres de Westeros en écrivent repose sur des traditions recueillies des millénaires plus tard, souvent par la bouche de leurs ennemis. Les Ghiscaris, eux, n'ont jamais oublié ces origines pastorales : au temps des romans, leurs injures renvoient encore les Valyriens à leurs moutons, ce qui dit le mépris d'un empire plus ancien bien plus qu'une mémoire précise.",
+        "en": "Before it was a power, Valyria was, the histories say, a land of shepherds. The peninsula that reached into the Summer Sea from southern Essos was dominated by a chain of volcanoes, the Fourteen Flames. In their slopes the Valyrians are said to have found dragons, and it was by learning to master them that they rose out of obscurity. The chroniclers place this turn some five thousand years before the Doom, a figure that should be read as an order of magnitude and nothing more.\n\nOn the origin of the dragons themselves, the stories disagree. The Valyrians held the beasts to be children of the volcanoes and claimed to share their blood. In Qarth it is told that a second moon wandered too close to the sun, cracked like an egg and poured dragons over the world. Old tales from Asshai insist that the Valyrians were not the first to tame them: a people whose name has been lost is supposed to have brought them dragons and taught them the art before vanishing. Septon Barth, who devoted a whole treatise to dragons, weighed several of these legends without being able to settle on one.\n\nNone of this can be established. No Valyrian account of their beginnings has come down to us, and what the maesters of Westeros write about them rests on traditions gathered thousands of years later, often from the mouths of their enemies. The Ghiscari, for their part, never forgot these pastoral beginnings: in the time of the novels their insults still send the Valyrians back to their sheep, which reveals the contempt of an older empire far more than any precise memory."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Rise of Valyria"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys III (ch. 23)"
+        },
+        {
+          "id": "asos",
+          "locator": "Daenerys II (ch. 23)"
+        }
+      ]
+    },
+    {
+      "id": "p1-seigneurs-dragons",
+      "heading": {
+        "fr": "Les seigneurs dragons",
+        "en": "The dragonlords"
+      },
+      "body": {
+        "fr": "Au faîte de sa puissance, Valyria comptait une quarantaine de familles de seigneurs dragons. Elles formaient le sommet d'une noblesse plus large, celle des propriétaires libres, mais ce sont elles qui faisaient la guerre et, pour l'essentiel, la politique. Les chroniqueurs les décrivent comme des rivales perpétuelles, qui s'élevaient et chutaient au gré d'intrigues de conseil et de luttes plus brutales. Les Targaryen appartenaient à ce cercle, loin du premier rang.\n\nOn sait mal comment un dragon obéissait à son maître. Les traditions parlent de sortilèges de lien et de cors ensorcelés. Les romans font apparaître l'un de ces cors, cerclé de métal et couvert de glyphes valyriens, qu'un fer-né, Euron Greyjoy, prétend avoir rapporté des ruines de Valyria ; personne ne peut confirmer ses dires. Que le lien entre le cavalier et sa monture ait tenu à la magie, au sang ou à une longue familiarité, les sources ne permettent pas de le dire.\n\nDe ces familles, il ne subsiste guère que des noms épars et quelques exploits. Le plus souvent cité est celui de Jaenara Belaerys, qui survola pendant trois ans le continent de Sothoryos sur son dragon Terrax sans en atteindre l'extrémité. Ce silence s'explique : les archives des grandes maisons ont péri avec elles, et l'histoire de chacune nous arrive par fragments, à travers la mémoire de peuples qui les avaient subies.",
+        "en": "At the height of its power, Valyria counted some forty families of dragonlords. They stood at the summit of a wider nobility, that of the freeholders, but it was they who made war and, for the most part, politics. The chroniclers describe them as perpetual rivals, rising and falling through intrigue in council and through cruder struggles. The Targaryens belonged to this circle, well short of its first rank.\n\nHow a dragon came to obey its master is poorly understood. The traditions speak of binding spells and of enchanted horns. The novels bring one such horn into view, banded with metal and covered in Valyrian glyphs, which an ironborn captain, Euron Greyjoy, claims to have brought back from the ruins of Valyria; no one can confirm his word. Whether the bond between rider and mount rested on sorcery, on blood or on long familiarity, the sources do not allow us to say.\n\nOf these families, little remains beyond scattered names and a few feats. The one most often cited is that of Jaenara Belaerys, who flew over the continent of Sothoryos for three years on her dragon Terrax without reaching its end. The silence has a cause: the archives of the great houses perished with them, and the story of each reaches us only in fragments, through the memory of peoples who had suffered under them."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Rise of Valyria"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Beyond the Free Cities: Sothoryos"
+        },
+        {
+          "id": "affc",
+          "locator": "The Drowned Man (ch. 19)"
+        }
+      ]
+    },
+    {
+      "id": "p1-possessions",
+      "heading": {
+        "fr": "Un empire sans empereur",
+        "en": "An empire without an emperor"
+      },
+      "body": {
+        "fr": "Valyria ne se donna jamais de roi. En droit, tout homme qui possédait de la terre et n'était pas né esclave avait voix dans la cité, et les familles se tenaient pour égales. En fait, la naissance, la richesse et la sorcellerie concentraient le pouvoir entre quelques mains, et il arriva qu'une seule maison fasse pencher la cité. Les propriétaires élisaient parmi eux, à titre provisoire, des archontes, souvent dragonniers, qui administraient notamment les villes soumises ; le détail de leurs pouvoirs nous échappe. Le nom de Possessions dit bien un pouvoir fondé sur la terre plutôt que sur une couronne.\n\nCette absence de monarque n'empêcha pas une expansion de plusieurs millénaires. Après Ghis, les Valyriens s'étendirent vers l'ouest et le nord, jusqu'à dominer l'ouest d'Essos, de la mer Étroite à la baie des Serfs. Leurs fondations n'avaient pas toutes la même raison d'être : Volantis et Tyrosh naquirent comme postes militaires, Myr et Pentos comme comptoirs de marchands, Lys comme lieu de plaisance des seigneurs dragons, tandis qu'au nord Lorath, Norvos et Qohor accueillirent des dissidents religieux qui fuyaient le mélange des cultes de la métropole.\n\nVers 300 av. C., Valyria établit à Peyredragon, île volcanique de la mer Étroite, son poste le plus occidental, et n'alla jamais plus loin. Ses colonies, reliées par des routes de pierre fondue, montrent l'étendue de sa puissance ; elles en montrent aussi la limite. Un État sans centre royal, tenu par des familles rivales, ne laissait pas d'héritier désigné. Quand la capitale disparut, aucune de ses filles ne put rassembler l'héritage.",
+        "en": "Valyria never gave itself a king. In law, every man who held land and had not been born a slave had a voice in the city, and the families regarded one another as equals. In practice, birth, wealth and sorcery gathered power into a few hands, and at times a single house could sway the city. The freeholders elected archons from among themselves on a provisional basis, often dragonriders, who among other duties oversaw the subject towns; the detail of their powers escapes us. The name of Freehold expresses a rule founded on land rather than on a crown.\n\nThis lack of a monarch did not prevent an expansion lasting several thousand years. After Ghis, the Valyrians spread west and north until they dominated western Essos, from the narrow sea to Slaver's Bay. Their foundations did not all serve the same purpose: Volantis and Tyrosh began as military outposts, Myr and Pentos as merchant settlements, Lys as a pleasure retreat for the dragonlords, while in the north Lorath, Norvos and Qohor took in religious dissenters fleeing the mother city's medley of faiths.\n\nAround 300 BC, Valyria planted its westernmost outpost on Dragonstone, a volcanic island in the narrow sea, and never went further. Its colonies, linked by roads of fused stone, show the reach of its power; they also show its limit. A state without a royal centre, held by rival families, left no designated heir. When the capital vanished, none of its daughters could gather up the inheritance."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Rise of Valyria"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: Valyria's Children"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Free Cities"
+        },
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        }
+      ]
+    },
+    {
+      "id": "p1-ghis",
+      "heading": {
+        "fr": "Cinq guerres contre Ghis",
+        "en": "Five wars against Ghis"
+      },
+      "body": {
+        "fr": "Le premier grand adversaire de Valyria fut aussi le plus ancien. L'empire de Ghis, établi sur les rives de ce qu'on appelle aujourd'hui la baie des Serfs, était plus ancien que Valyria de plusieurs millénaires ; ses légions marchaient en rangs serrés et il avait bâti un monde de briques et de pyramides. Il affronta Valyria cinq fois, et cinq fois il fut vaincu, faute de dragons. Le royaume de Sarnor, au nord, combattit aux côtés de Valyria dans les deuxième et troisième guerres ; dans la quatrième, ses rois se partagèrent entre les deux camps. La lutte gagna jusqu'aux colonies lointaines, dans les îles du Basilic et sur les côtes de Sothoryos.\n\nLa dernière guerre, que l'on ne peut dater qu'à quelques siècles près (vers 4700 av. C.), s'acheva par la destruction de la cité de Ghis. Les remparts furent abattus, la ville livrée au feu des dragons, les champs stérilisés au sel et au soufre. Les survivants devinrent esclaves, les autres cités ghiscaries des dépendances de Valyria, et la langue de Ghis ne survécut plus qu'en mots égarés dans le valyrien parlé autour de la baie.\n\nTout ce que l'on sait de ces guerres vient du camp victorieux. La mémoire a confondu les cinq conflits et ajouté des détails, et les mestres ne prétendent pas en reconstituer la suite exacte. Le seul point qui ne fasse aucun doute est le résultat : Valyria hérita de l'espace ghiscari, de ses esclaves et de ses marchés.",
+        "en": "Valyria's first great adversary was also the oldest. The empire of Ghis, settled on the shores of what is now called Slaver's Bay, was older than Valyria by several thousand years; its legions marched in close ranks and it had raised a world of brick and pyramids. It fought Valyria five times, and five times it was defeated, for want of dragons. The kingdom of Sarnor, to the north, fought alongside Valyria in the second and third wars; in the fourth, its kings divided between the two sides. The struggle reached distant colonies too, in the Basilisk Isles and on the coasts of Sothoryos.\n\nThe last war, which can only be dated to within a few centuries (around 4700 BC), ended with the destruction of the city of Ghis. Its walls were thrown down, the city given over to dragonfire, its fields made barren with salt and sulphur. The survivors were enslaved, the other Ghiscari cities became dependencies of Valyria, and the tongue of Ghis lived on only in stray words within the Valyrian spoken around the bay.\n\nEverything we know of these wars comes from the winning side. Memory has blurred the five conflicts together and added detail, and the maesters do not claim to reconstruct their exact sequence. The one point beyond doubt is the outcome: Valyria inherited the Ghiscari world, its slaves and its markets."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Rise of Valyria"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Beyond the Free Cities: The Grasslands"
+        },
+        {
+          "id": "asos",
+          "locator": "Daenerys II (ch. 23)"
+        },
+        {
+          "id": "asos",
+          "locator": "Daenerys III (ch. 27)"
+        }
+      ]
+    },
+    {
+      "id": "p1-rhoyne",
+      "heading": {
+        "fr": "La Rhoyne et le départ de Nymeria",
+        "en": "The Rhoyne and Nymeria's flight"
+      },
+      "body": {
+        "fr": "Les cités de la Rhoyne, le grand fleuve de l'ouest d'Essos, accueillirent d'abord sans hostilité les établissements valyriens. La cohabitation se dégrada en querelles entre citoyens de villes rivales, puis en guerres brèves et sanglantes, qui s'enchaînèrent pendant près de deux siècles et demi. Les noms qu'elles ont gardés, guerres des Tortues, guerre du Sel, guerres des Épices, disent des conflits locaux, menés surtout par les colonies, la métropole restant en retrait.\n\nTout changea quand des seigneurs dragons détruisirent Sarhoy. Le prince Garin de Chroyane réunit les cinq cités restantes et remporta plusieurs victoires, si bien que Valyria jeta toute sa force dans le conflit. Les chroniques prêtent à Garin un quart de million d'hommes, et la tradition parle de trois cents dragons dans la bataille livrée près de Volantis : ces chiffres disent l'ampleur du souvenir plus qu'un dénombrement. L'armée rhoynienne fut anéantie, Sar Mell et Chroyane mises à sac, leurs habitants réduits en esclavage.\n\nLa princesse Nymeria de Ny Sar emmena alors ceux qui purent fuir, sur tout ce qui flottait. Après des années d'errance, cette flotte, que la légende compte en dix mille navires, aborda à Dorne. Une autre légende veut que Garin, captif, ait maudit ses vainqueurs, que le fleuve en crue les ait noyés et qu'une maladie qui pétrifie la chair ait frappé les survivants ; certains y ont même vu la cause lointaine du Fléau. Dorne, peuplée en partie des descendants de ces exilés, sera le seul royaume que les dragons d'Aegon ne soumettront pas.",
+        "en": "The cities of the Rhoyne, the great river of western Essos, at first welcomed the Valyrian settlements without hostility. Coexistence decayed into quarrels between the citizens of rival towns, then into short and bloody wars that followed one another for nearly two and a half centuries. The names they have kept, the Turtle Wars, the Salt War, the Spice Wars, point to local conflicts, fought mostly by the colonies while the mother city held back.\n\nEverything changed when dragonlords destroyed Sarhoy. Prince Garin of Chroyane united the five remaining cities and won several victories, so that Valyria threw its full strength into the conflict. The chronicles credit Garin with a quarter of a million men, and tradition speaks of three hundred dragons at the battle fought near Volantis: such numbers convey the scale of the memory rather than a count. The Rhoynish host was destroyed, Sar Mell and Chroyane were sacked, and their people enslaved.\n\nPrincess Nymeria of Ny Sar then led away those who could flee, on anything that would float. After years of wandering, this fleet, which legend numbers at ten thousand ships, came ashore in Dorne. Another legend holds that the captive Garin cursed his conquerors, that the river rose and drowned them and that a sickness which turns flesh to stone struck the survivors; some have even seen in it the distant cause of the Doom. Dorne, peopled in part by the descendants of these exiles, would be the one kingdom Aegon's dragons never subdued."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: Ten Thousand Ships"
+        },
+        {
+          "id": "adwd",
+          "locator": "Tyrion V (ch. 18)"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Doom of Valyria"
+        }
+      ]
+    },
+    {
+      "id": "p1-esclavage",
+      "heading": {
+        "fr": "Les mines et les esclaves",
+        "en": "Mines and slaves"
+      },
+      "body": {
+        "fr": "La richesse de Valyria sortait de terre. Sous les Quatorze Flammes, des galeries toujours plus profondes poursuivaient l'or, l'argent et d'autres métaux, dans une chaleur à peine supportable. On y envoyait des esclaves pris chez cent peuples, et l'on y mourait vite. Les guerres de Valyria, contre Ghis comme contre la Rhoyne, furent aussi des guerres de main-d'œuvre : chaque victoire remplissait les mines.\n\nL'esclavage n'était pas une marge de cette société, il en était la condition. La qualité de propriétaire libre supposait, par définition, de ne pas être né esclave. Les cités de la baie des Serfs, anciennes villes ghiscaries soumises, en conservèrent les pratiques bien après la chute de la métropole, et c'est encore sur elles que vivent leurs marchés au temps des romans.\n\nC'est pourtant de l'esclavage que naquit la seule Cité libre qui ne doive rien à Valyria. Des esclaves embarqués sur une flotte se soulevèrent, s'emparèrent des navires et allèrent fonder, au fond d'une lagune du nord, une ville longtemps tenue secrète : Braavos. Les Braaviens racontent aussi que les premiers Sans-Visage seraient apparus parmi les mineurs, où ils offraient la mort comme une délivrance ; selon d'autres versions, le premier d'entre eux aurait été le fils d'un propriétaire libre, voire un surveillant des mines. La tradition est trop tardive pour trancher ; elle dit surtout ce que Braavos pense de ses origines.",
+        "en": "Valyria's wealth came out of the ground. Beneath the Fourteen Flames, ever deeper galleries chased gold, silver and other metals, in a heat that was barely endurable. Slaves taken from a hundred peoples were sent there, and they did not last long. Valyria's wars, against Ghis as against the Rhoyne, were also wars for labour: every victory filled the mines.\n\nSlavery was not a margin of this society; it was its condition. To be a freeholder meant, by definition, not to have been born a slave. The cities of Slaver's Bay, once Ghiscari towns brought to heel, kept up these practices long after the fall of the mother city, and their markets still live on them in the time of the novels.\n\nYet it was slavery that gave birth to the one Free City that owes nothing to Valyria. Slaves carried aboard a fleet rose up, seized the ships and went on to found, deep in a northern lagoon, a city kept secret for a long time: Braavos. The Braavosi also tell that the first Faceless Men appeared among the miners, where they offered death as a release; in other versions, the first of them was a freeholder's son, or even an overseer of the mines. The tradition is too late to decide between them; what it chiefly records is how Braavos thinks of its own beginnings."
+      },
+      "sources": [
+        {
+          "id": "affc",
+          "locator": "Arya II (ch. 22)"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Free Cities: Braavos"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Doom of Valyria"
+        }
+      ]
+    },
+    {
+      "id": "p1-croyances",
+      "heading": {
+        "fr": "Dieux, sortilèges et prophéties",
+        "en": "Gods, spells and prophecies"
+      },
+      "body": {
+        "fr": "La religion valyrienne reste mal connue. Les Valyriens adoraient de nombreux dieux, mais nous n'en connaissons guère que des noms, conservés parce que des dragons les portèrent : Balerion, la Terreur noire des Targaryen, devait le sien à une ancienne divinité des Possessions, comme Vhagar et Meraxès. Les Possessions toléraient une foule de cultes ; des croyants hostiles à ce mélange partirent fonder leurs propres cités.\n\nSa magie est mieux attestée que ses dieux, sans être mieux comprise. Un archimestre de la Citadelle affirme, dans les romans, que toute sorcellerie valyrienne avait pour racine le sang ou le feu. On lui doit la pierre fondue et modelée des routes et des forteresses, l'acier forgé par des sortilèges, les cors qui liaient les dragons, et les chandelles de verre-dragon ; on raconte à la Citadelle que quatre d'entre elles, trois noires et une verte, y furent apportées de Valyria mille ans avant le Fléau. Le même archimestre leur prête le pouvoir de voir et de parler au loin ; aucun témoignage ne le confirme.\n\nLes accusations plus sombres viennent de témoins hostiles : les Valyriens auraient fouillé les entrailles de la terre et mêlé la chair des bêtes et des hommes pour en tirer des chimères, et une chronique de la Citadelle reprend l'idée que ces fautes leur valurent la colère des dieux. Le septon Barth, citant un texte perdu, rapportait aussi qu'une prophétie avait détourné les seigneurs dragons de Westeros en les avertissant que l'or de Castral Roc causerait leur perte. Rien de cela ne peut être établi ; on retiendra que le présage comptait dans cette culture, dont les Targaryen héritèrent.",
+        "en": "Valyrian religion remains poorly known. The Valyrians worshipped many gods, but we know little more than their names, preserved because dragons bore them: Balerion, the Black Dread of the Targaryens, owed his to an ancient deity of the Freehold, as did Vhagar and Meraxes. The Freehold tolerated a host of cults; believers who resented the mixture left to found cities of their own.\n\nIts magic is better attested than its gods, without being better understood. An archmaester of the Citadel asserts, in the novels, that all Valyrian sorcery was rooted in blood or in fire. To it are owed the fused and moulded stone of roads and fortresses, the steel forged with spells, the horns that bound dragons, and the candles of dragonglass; it is said at the Citadel that four of them, three black and one green, were brought there from Valyria a thousand years before the Doom. The same archmaester credits them with the power to see and speak across great distances; no testimony confirms it.\n\nThe darker charges come from hostile witnesses: the Valyrians are said to have delved into the bowels of the earth and blended the flesh of beasts and men to make chimeras, and a Citadel chronicle takes up the idea that these sins drew down the wrath of the gods. Septon Barth, citing a lost text, also reported that a prophecy had turned the dragonlords away from Westeros by warning them that the gold of Casterly Rock would be their ruin. None of this can be established; what stands is that omens mattered in this culture, which the Targaryens inherited."
+      },
+      "sources": [
+        {
+          "id": "acok",
+          "locator": "Daenerys I (ch. 12)"
+        },
+        {
+          "id": "affc",
+          "locator": "Prologue"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell V (ch. 45)"
+        },
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Westerlands"
+        }
+      ]
+    },
+    {
+      "id": "p1-fleau",
+      "heading": {
+        "fr": "Le jour du Fléau",
+        "en": "The day of the Doom"
+      },
+      "body": {
+        "fr": "En 102 av. C., en l'espace d'un jour, la péninsule valyrienne fut anéantie. Les Quatorze Flammes et toutes les collines à cinq cents milles à la ronde entrèrent en éruption, la terre trembla, des lacs bouillirent, et le feu fut si violent que des dragons périrent en plein ciel. La péninsule se brisa en îles, et la mer qui les sépare fume encore quatre siècles plus tard. Plus à l'est, une vague géante emporta les cités de l'île des Cèdres.\n\nPersonne n'a jamais su pourquoi. L'opinion commune y voit une catastrophe naturelle, l'éruption simultanée de volcans qui grondaient depuis des millénaires. Le septon Barth et quelques mestres pensaient que des sortilèges contenaient ces feux et qu'ils cédèrent ; d'autres, que les mages chargés de les tenir avaient péri dans les querelles des familles dragonnières. Des septons parlent d'un châtiment pour avoir creusé jusqu'aux sept enfers, les fidèles de R'hllor du feu de leur dieu, d'autres encore de la malédiction de Garin. Ces explications renseignent surtout sur ceux qui les avancent.\n\nL'événement lui-même et sa date ne font pas débat. Sa portée tient à ce qu'il effaça d'un coup le centre politique, les archives, les sortilèges et presque tous les dragons du monde. Un empire sans roi n'avait pas de successeur désigné : il ne resta que des colonies sans métropole, et une famille installée douze ans plus tôt sur une île de la mer Étroite.",
+        "en": "In 102 BC, within the space of a day, the Valyrian peninsula was destroyed. The Fourteen Flames and every hill for five hundred miles around erupted, the earth shook, lakes boiled, and the fire burned so fiercely that dragons died in the open sky. The peninsula broke apart into islands, and the sea between them still smokes four centuries later. Further east, a great wave swept away the cities of the Isle of Cedars.\n\nNo one has ever known why. Common opinion sees a natural catastrophe, the simultaneous eruption of volcanoes that had rumbled for thousands of years. Septon Barth and some maesters believed that spells held these fires in check and that the spells failed; others, that the mages charged with containing them had perished in the feuds of the dragonlord families. Some septons speak of a punishment for digging down into the seven hells, the followers of R'hllor of their god's fire, others again of Garin's curse. These explanations tell us mainly about those who put them forward.\n\nThe event itself and its date are not in dispute. Its weight lies in having erased at a stroke the political centre, the archives, the spells and nearly every dragon in the world. An empire without a king had no designated successor: what remained were colonies without a mother city, and a family that had settled twelve years earlier on an island in the narrow sea."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Doom of Valyria"
+        },
+        {
+          "id": "adwd",
+          "locator": "Tyrion VIII (ch. 33)"
+        },
+        {
+          "id": "adwd",
+          "locator": "The Iron Suitor (ch. 56)"
+        },
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        }
+      ]
+    },
+    {
+      "id": "p1-heritage",
+      "heading": {
+        "fr": "Ce qui reste de Valyria",
+        "en": "What remains of Valyria"
+      },
+      "body": {
+        "fr": "De Valyria il reste d'abord des objets. L'acier valyrien, replié sur lui-même et forgé avec des sortilèges, garde son tranchant pendant des siècles ; le secret de sa fabrication s'est perdu avec le Fléau, et seuls les forgerons de Qohor prétendent savoir encore le reforger. Un inventaire de la Citadelle en dénombre un peu plus de deux cents lames à Westeros, transmises comme des reliques ; Feunoyr, l'épée d'Aegon le Conquérant, et Sœur Noire, celle de Visenya, en font partie. Il reste aussi les routes, larges rubans de pierre fondue qui relient encore les cités d'Essos sans que le temps les ait entamées.\n\nIl reste des cités. Huit des neuf Cités libres sont des filles de Valyria ; elles parlent des dialectes issus de sa langue et se sont disputé son héritage pendant un siècle. Le haut valyrien a survécu comme langue savante : à Westeros, on l'apprend comme une langue morte, pour lire et pour réciter.\n\nIl reste enfin une lignée. Les Targaryen sont la seule famille de seigneurs dragons à avoir traversé le Fléau avec ses bêtes, et c'est par eux que Westeros a su ce que Valyria avait été. Les ruines, elles, sont restées interdites : la mer Fumante passe pour maudite, on dit que nul de ceux qui partirent vers elle n'est revenu, et sous le règne de Jaehaerys Ier il sera interdit aux gens de Westeros de s'y rendre.",
+        "en": "What remains of Valyria is first of all objects. Valyrian steel, folded back on itself and forged with spells, holds its edge for centuries; the secret of its making was lost with the Doom, and only the smiths of Qohor claim they can still rework it. A Citadel inventory counts a little over two hundred such blades in Westeros, handed down like relics; Blackfyre, the sword of Aegon the Conqueror, and Dark Sister, Visenya's, are among them. The roads remain as well, broad ribbons of fused stone that still link the cities of Essos, untouched by time.\n\nCities remain. Eight of the nine Free Cities are daughters of Valyria; they speak dialects descended from its tongue and fought over its inheritance for a century. High Valyrian has survived as a learned language: in Westeros it is studied as a dead tongue, for reading and recitation.\n\nLast of all, a bloodline remains. The Targaryens are the only family of dragonlords to have come through the Doom with their beasts, and it was through them that Westeros learned what Valyria had been. The ruins have stayed forbidden: the Smoking Sea is held to be cursed, it is said that none who set out for it ever returned, and in the reign of Jaehaerys I the people of Westeros would be forbidden to travel there."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: Valyria's Children"
+        },
+        {
+          "id": "asos",
+          "locator": "Tyrion IV (ch. 32)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Tyrion II (ch. 5)"
+        },
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+.root {
+  display: grid;
+  gap: var(--e4);
+  justify-items: start;
+}
+
+.titre {
+  max-width: 18ch;
+  font-size: var(--t4);
+  font-weight: 300;
+  line-height: 0.98;
+  letter-spacing: -0.02em;
+  color: var(--ivoire);
+}
+
+.titre[data-monumental] {
+  max-width: 14ch;
+  font-size: var(--t5);
+  line-height: 0.95;
+}
+
+.titre :global(.gloss__main) {
+  display: block;
+}
+
+/* Les jambages (y, g, j) descendent sous la boîte de ligne serrée : la glose s'écarte d'autant. */
+.glose {
+  display: block;
+  margin-top: max(var(--e3), 0.2em);
+  font-size: var(--t1);
+  line-height: 1.2;
+}
+
+/* Glose identique au nom : elle n'apprend rien, elle se tait. */
+.echo {
+  display: none;
+}

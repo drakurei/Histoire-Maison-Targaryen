@@ -205,7 +205,7 @@ export function Apercu({ kind, id }: { kind: EntityKind; id: string }) {
         </p>
         {head.reign ? (
           <p className={styles.regne}>
-            <CrownGlyph size="1em" className={styles.couronne} />
+            <CrownGlyph variant="legible" size="1em" className={styles.couronne} />
             {t('v2.cartel.reign', { span: formatSpan(head.reign[0], head.reign[1], reading) })}
           </p>
         ) : null}

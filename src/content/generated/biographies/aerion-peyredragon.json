@@ -1,0 +1,115 @@
+{
+  "personId": "aerion-peyredragon",
+  "titles": [
+    {
+      "fr": "Seigneur de Peyredragon",
+      "en": "Lord of Dragonstone"
+    }
+  ],
+  "lead": {
+    "fr": "Dernier seigneur de Peyredragon avant la Conquête, père d'Aegon, de Visenya et de Rhaenys, et père présumé d'Orys Baratheon.",
+    "en": "Last lord of Dragonstone before the Conquest, father of Aegon, Visenya and Rhaenys, and reputed father of Orys Baratheon."
+  },
+  "sections": [
+    {
+      "id": "aerion-peyredragon-une-succession-sans-dates",
+      "heading": {
+        "fr": "Une succession sans dates",
+        "en": "A Succession Without Dates"
+      },
+      "body": {
+        "fr": "Aerion était le fils unique de Daemion, lui-même le dernier de trois frères qui s'étaient succédé à la tête de Peyredragon. Il hérita de l'île à une date que les chroniques ne donnent pas, et la gouverna pendant les dernières décennies du Siècle de sang. Rien n'est dit de sa mère, de sa naissance ni de son caractère.\n\nLa liste des seigneurs qui le précèdent est elle-même avare. Depuis Aenar, les noms s'y suivent sans une seule date, et l'ordre des successions pose des questions que la chronique laisse ouvertes. Aerion est le premier de cette suite dont on connaisse un peu l'entourage, et c'est surtout par ses enfants qu'on le connaît. On sait aussi qu'il entretenait un mestre à Peyredragon : détail mince, mais qui montre une maison valyrienne déjà en relation suivie avec les institutions de Westeros.",
+        "en": "Aerion was the only son of Daemion, himself the last of three brothers who had ruled Dragonstone in turn. He inherited the island at a date the chronicles do not give and held it through the final decades of the Century of Blood. Nothing is said of his mother, his birth or his character.\n\nThe list of lords before him is itself sparse. From Aenar onward the names follow one another without a single date, and the order of succession raises questions the chronicle leaves open. Aerion is the first in that line whose household is known at all, and he is known mainly through his children. It is also recorded that he kept a maester on Dragonstone: a slight detail, but one that shows a Valyrian house already in steady contact with the institutions of Westeros."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "Three Heads Had the Dragon: Governance Under King Aegon I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        }
+      ]
+    },
+    {
+      "id": "aerion-peyredragon-le-mariage-velaryon",
+      "heading": {
+        "fr": "Le mariage Velaryon",
+        "en": "The Velaryon Marriage"
+      },
+      "body": {
+        "fr": "Aerion prit femme hors de sa maison : Valaena Velaryon, de Lamarck, l'île voisine. Le choix ne s'éloignait guère du sang valyrien, car Valaena était elle-même à demi Targaryen par sa mère, une Targaryen dont le nom n'est pas transmis. Il resserrait aussi le lien avec les Velaryon, dont les navires donnaient à Peyredragon ce que ses dragons ne pouvaient lui donner.\n\nDe ce mariage naquirent trois enfants : Visenya en 29 av. C., Aegon en 27 av. C., et Rhaenys, la cadette, née en 26 ou en 25 av. C. selon le calcul qu'on retient. Tous trois devinrent dragonniers, l'aînée sur Vhagar, le fils sur Balerion, la cadette sur Meraxès. On ne sait pas si leur père vit ces liens se nouer, et aucune source ne le montre monté lui-même sur un dragon.",
+        "en": "Aerion took a wife from outside his house: Valaena Velaryon, of the neighbouring island of Driftmark. The choice did not stray far from Valyrian blood, since Valaena was herself half Targaryen through her mother, a Targaryen whose name has not come down. It also tightened the bond with the Velaryons, whose ships gave Dragonstone what its dragons could not.\n\nThe marriage produced three children: Visenya in 29 BC, Aegon in 27 BC, and Rhaenys, the youngest, born in 26 or 25 BC depending on the reckoning adopted. All three became dragonriders, the eldest on Vhagar, the son on Balerion, the youngest on Meraxes. Whether their father saw those bonds formed is not known, and no source shows him riding a dragon himself."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        }
+      ]
+    },
+    {
+      "id": "aerion-peyredragon-un-batard-presume",
+      "heading": {
+        "fr": "Un bâtard présumé et une mort inconnue",
+        "en": "A Reputed Bastard and an Unrecorded Death"
+      },
+      "body": {
+        "fr": "La rumeur attribue à Aerion un autre fils, né d'une femme inconnue : Orys, qui deviendrait l'ami intime d'Aegon, sa première Main et le fondateur de la maison Baratheon. Rien ne l'a jamais confirmé. Près d'un siècle plus tard, le roi Jaehaerys Ier tenait pourtant cette filiation pour notoire et admettait qu'Orys pût être né de l'exercice du droit de cuissage ; il ne prétendait pas en savoir davantage.\n\nOn ignore quand Aerion mourut. On sait seulement qu'Aegon gouvernait déjà Peyredragon lorsque Pentos et Tyrosh sollicitèrent son aide contre Volantis, et qu'il était seigneur de l'île quand il prépara la Conquête. Aerion ne vit donc ni le débarquement ni le Trône de Fer. Il reste, dans les chroniques, l'homme qui donna au royaume ses trois conquérants et, peut-être, celui qui leur servit d'épée sur la terre ferme.",
+        "en": "Rumour gives Aerion another son, born to an unknown woman: Orys, who would become Aegon's close friend, his first Hand and the founder of House Baratheon. Nothing ever confirmed it. Nearly a century later, however, King Jaehaerys I treated the parentage as common knowledge and allowed that Orys might have been conceived through the lord's right of the first night; the king did not claim to know more.\n\nWhen Aerion died is unknown. It is only known that Aegon already ruled Dragonstone when Pentos and Tyrosh sought his help against Volantis, and that he was lord of the island when he planned the Conquest. Aerion therefore saw neither the landing nor the Iron Throne. In the chronicles he remains the man who gave the realm its three conquerors and, perhaps, the one who served them as a sword on land."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p2-gaemon-et-successeurs",
+    "p2-naissance-aegon",
+    "p2-offre-argilac"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "Sa paternité d'Orys Baratheon n'est attestée que par la rumeur. L'année de naissance de Rhaenys, 26 ou 25 av. C., dépend du calcul retenu. Les dates de sa succession et de sa mort ne sont pas connues.",
+    "en": "His fathering of Orys Baratheon is attested only by rumour. Rhaenys's year of birth, 26 or 25 BC, depends on the reckoning adopted. The dates of his succession and of his death are unknown."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Aegon's Conquest"
+    },
+    {
+      "id": "fab",
+      "locator": "Three Heads Had the Dragon: Governance Under King Aegon I"
+    },
+    {
+      "id": "fab",
+      "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Reign of the Dragons: The Conquest"
+    }
+  ]
+}

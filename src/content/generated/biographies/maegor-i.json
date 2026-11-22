@@ -1,0 +1,176 @@
+{
+  "personId": "maegor-i",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynar et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes",
+      "en": "Lord of the Seven Kingdoms"
+    },
+    {
+      "fr": "Protecteur du royaume",
+      "en": "Protector of the Realm"
+    },
+    {
+      "fr": "Main du Roi, sous Aenys Ier",
+      "en": "Hand of the King, under Aenys I"
+    }
+  ],
+  "lead": {
+    "fr": "Fils d'Aegon le Conquérant et de Visenya, qui s'empara du trône en 42 apr. C. au détriment de son neveu et régna six ans par la force, d'où son surnom de Cruel.",
+    "en": "Son of Aegon the Conqueror and Visenya, who seized the throne in 42 AC at his nephew's expense and ruled for six years by force, hence his name of the Cruel."
+  },
+  "sections": [
+    {
+      "id": "maegor-i-le-fils-de-visenya",
+      "heading": {
+        "fr": "Le fils de Visenya",
+        "en": "Visenya's Son"
+      },
+      "body": {
+        "fr": "Maegor naquit à Peyredragon en 12 apr. C., un an après que sa mère eut annoncé une grossesse que la cour n'attendait plus. Enfant robuste, élevé sur l'île loin de son demi-frère, il reçut très tôt une épée. Les chroniques rapportent de son enfance des violences contre des bêtes et des serviteurs ; certaines sont douteuses, d'autres mieux attestées.\n\nAprès la naissance de Rhaena, fille d'Aenys, en 23 apr. C., Visenya voulut la lui faire épouser ; la Foi proposa à la place la nièce du Grand Septon, Ceryse Hightower, qu'il épousa en 25 apr. C. au Septuaire étoilé. Le mariage resta sans enfant. Les armes lui réussirent mieux. En 28 apr. C., au tournoi de Vivesaigues, il désarçonna trois chevaliers de la Garde Royale et remporta la mêlée ; son père l'adouba à seize ans. Il combattit ensuite les pirates des Degrés de Pierre. Pendant toutes ces années, il refusa les jeunes dragons qu'on lui présentait.",
+        "en": "Maegor was born on Dragonstone in 12 AC, a year after his mother announced a pregnancy the court had ceased to expect. A sturdy child raised on the island apart from his half-brother, he was given a sword very young. The chronicles report acts of violence from his boyhood against animals and servants; some are doubtful, others better attested.\n\nAfter the birth of Rhaena, Aenys's daughter, in 23 AC, Visenya wanted her for Maegor; the Faith offered instead the High Septon's niece, Ceryse Hightower, whom he married in 25 AC in the Starry Sept. The marriage stayed childless. Arms suited him better. At the tourney of Riverrun in 28 AC he unhorsed three knights of the Kingsguard and won the melee; his father knighted him at sixteen. He then fought the pirates of the Stepstones. Through all those years he refused the young dragons put before him."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        }
+      ]
+    },
+    {
+      "id": "maegor-i-la-main-et-l-exile",
+      "heading": {
+        "fr": "La Main et l'exilé",
+        "en": "Hand and Exile"
+      },
+      "body": {
+        "fr": "À la mort d'Aegon en 37 apr. C., Maegor prononça l'éloge funèbre, reçut Feunoyr des mains d'Aenys et réclama enfin un dragon : Balerion, la monture de son père. Il réprima au Val la révolte de Jonos Arryn, dont il fit pendre les derniers partisans, puis devint la Main de son frère. Les deux hommes gouvernèrent ensemble deux ans sans heurt notable.\n\nEn 39 apr. C., Maegor déclara son épouse stérile et prit une seconde femme, Alys Harroway, dans une cérémonie valyrienne célébrée par sa mère, faute de septon disposé à le faire. Le Grand Septon dénonça une fornication, et les seigneurs pieux suivirent. Sommé de choisir entre la répudiation et l'exil, Maegor choisit l'exil et partit pour Pentos avec Alys, Balerion et Feunoyr, qu'il refusa de laisser derrière lui. L'affaire ouvrit entre la dynastie et la Foi une querelle qui allait durer près de dix ans.",
+        "en": "When Aegon died in 37 AC, Maegor spoke the eulogy, received Blackfyre from Aenys and at last claimed a dragon: Balerion, his father's mount. He put down Jonos Arryn's revolt in the Vale, hanging the last of his followers, then became his brother's Hand. The two men governed together for two years without notable friction.\n\nIn 39 AC Maegor declared his wife barren and took a second, Alys Harroway, in a Valyrian ceremony performed by his mother, since no septon would perform it. The High Septon denounced it as fornication, and pious lords followed. Told to choose between setting Alys aside and exile, Maegor chose exile and left for Pentos with Alys, Balerion and Blackfyre, which he refused to leave behind. The affair opened a quarrel between the dynasty and the Faith that would last nearly ten years."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aenys I"
+        }
+      ]
+    },
+    {
+      "id": "maegor-i-le-trone-pris",
+      "heading": {
+        "fr": "Le trône pris",
+        "en": "The Throne Seized"
+      },
+      "body": {
+        "fr": "Aenys mourut en 42 apr. C. Visenya ramena aussitôt Maegor, qui se fit couronner à Peyredragon avec la couronne d'acier du Conquérant. Le Grand Mestre Gawen rappela que la couronne revenait au fils d'Aenys ; Maegor le décapita. À Port-Réal, où les Fils du Guerrier tenaient la colline de Rhaenys, Visenya défia quiconque contestait le droit de son fils. Le grand capitaine de l'ordre réclama un jugement par combat, sept contre sept. Maegor trouva six champions dans la foule et fut le seul à rester en vie à la fin ; il tomba ensuite dans un long coma.\n\nÀ son réveil, il incendia sur Balerion le septuaire du Souvenir avec ceux qui s'y abritaient. Ses troupes battirent la Foi à Pont-de-Pierre et à la fourche de la Néra. En 43 apr. C., son neveu Aegon se leva contre lui avec quinze mille hommes et le dragon de son père ; sous l'Œildieu, Balerion tua Vif-Argent et son cavalier.",
+        "en": "Aenys died in 42 AC. Visenya brought Maegor back at once, and he had himself crowned on Dragonstone with the Conqueror's steel crown. Grand Maester Gawen pointed out that the crown belonged to Aenys's son; Maegor beheaded him. In King's Landing, where the Warrior's Sons held the Hill of Rhaenys, Visenya challenged anyone who disputed her son's right. The order's Grand Captain demanded a trial by combat, seven against seven. Maegor found six champions in the crowd and was the only man left alive at the end; he then fell into a long stupor.\n\nWhen he woke, he burned the Sept of Remembrance from Balerion's back, with those sheltering inside. His forces defeated the Faith at Stonebridge and at the Great Fork of the Blackwater. In 43 AC his nephew Aegon rose against him with fifteen thousand men and his father's dragon; beneath the Gods Eye, Balerion killed Quicksilver and its rider."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maegor I"
+        }
+      ]
+    },
+    {
+      "id": "maegor-i-regner-par-la-peur",
+      "heading": {
+        "fr": "Régner par la peur",
+        "en": "Rule by Fear"
+      },
+      "body": {
+        "fr": "Maegor épousa une troisième femme, Tyanna, venue de Pentos, et fit décapiter le Grand Mestre qui s'y opposait. Il mit à prix la tête des Fils du Guerrier et des Pauvres Compagnons, et mena pendant des années une guerre ruineuse contre la Foi. En 44 apr. C., la mort de Visenya le priva de son principal appui ; Alyssa Velaryon en profita pour fuir Peyredragon avec ses deux plus jeunes enfants, et le roi fit torturer jusqu'à la mort son neveu Viserys, qu'il gardait auprès de lui.\n\nEn 45 apr. C., le Donjon Rouge fut achevé. Maegor offrit un festin aux bâtisseurs, puis les fit tous tuer pour garder le secret de ses passages. Il lança la construction de Fossedragon sur les ruines du septuaire du Souvenir. Les grossesses de ses épouses s'achevaient sur des enfants mort-nés ou difformes. En 47 apr. C., il épousa en un seul jour trois veuves, dont sa nièce Rhaena ; on les appela les Épouses noires.",
+        "en": "Maegor took a third wife, Tyanna, a woman of Pentos, and had the Grand Maester who objected beheaded. He put prices on the heads of the Warrior's Sons and the Poor Fellows and waged a ruinous war against the Faith for years. In 44 AC Visenya's death deprived him of his chief support; Alyssa Velaryon seized the moment to flee Dragonstone with her two youngest children, and the king had his nephew Viserys, whom he kept at his side, tortured to death.\n\nIn 45 AC the Red Keep was finished. Maegor feasted the builders, then had every one of them killed to keep its passages secret. He began the Dragonpit on the ruins of the Sept of Remembrance. His wives' pregnancies ended in stillborn or misshapen children. In 47 AC he married three widows in a single day, his niece Rhaena among them; they were called the Black Brides."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maegor I"
+        }
+      ]
+    },
+    {
+      "id": "maegor-i-une-mort-sur-le-trone",
+      "heading": {
+        "fr": "Une mort sur le Trône de Fer",
+        "en": "Death on the Iron Throne"
+      },
+      "body": {
+        "fr": "En 48 apr. C., Jaehaerys, dernier fils survivant d'Aenys, se proclama roi à Accalmie avec l'appui de Rogar Baratheon. Sa sœur Alysanne et lui avaient chacun un dragon ; Rhaena s'enfuit de nuit sur le sien pour les rejoindre, emportant sa fille et Feunoyr. Les défections suivirent : la flotte, de grandes maisons, deux chevaliers de la Garde Royale, le Grand Mestre. Maegor ne réunit qu'environ quatre mille hommes et refusa d'abdiquer.\n\nAu matin qui suivit son dernier conseil de guerre, la reine Elinor le trouva mort sur le Trône de Fer, les poignets ouverts, une lame passée à travers la nuque. Il avait régné six ans et mourait sans descendance. Son nom servit ensuite de repoussoir : à la veille de la Danse des Dragons, Otto Hightower prédisait que le prince Daemon serait un second Maegor s'il montait sur le trône. Ses lois contre une Foi en armes restèrent en vigueur jusqu'à ce que Cersei Lannister les abroge, dans les années que racontent les romans.",
+        "en": "In 48 AC Jaehaerys, Aenys's last surviving son, proclaimed himself king at Storm's End with the backing of Rogar Baratheon. He and his sister Alysanne each had a dragon; Rhaena fled by night on hers to join them, taking her daughter and Blackfyre. Defections followed: the fleet, great houses, two knights of the Kingsguard, the Grand Maester. Maegor raised barely four thousand men and refused to abdicate.\n\nOn the morning after his last council of war, Queen Elinor found him dead on the Iron Throne, his wrists opened, a blade driven through his neck. He had reigned six years and died without issue. His name then served as a foil: on the eve of the Dance of the Dragons, Otto Hightower predicted that Prince Daemon would be a second Maegor if he ever took the throne. His laws against an armed Faith remained in force until Cersei Lannister repealed them, in the years the novels describe."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "affc",
+          "locator": "Cersei VI (ch. 28)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "balerion"
+  ],
+  "eventIds": [
+    "p4-mort-aegon",
+    "p4-soulevement-foi",
+    "p4-maegor-roi",
+    "p4-sous-oeildieu",
+    "p4-mort-maegor"
+  ],
+  "warIds": [
+    "soulevement-foi-militante"
+  ],
+  "disputed": {
+    "fr": "La cause de sa mort n'a jamais été établie : la chronique cite la reine Elinor, un chevalier de sa garde, un bâtisseur rescapé du massacre, le trône lui-même, ou un suicide. Les cruautés de son enfance sont rapportées par des auteurs hostiles, et certaines passent pour inventées. La mort de sa première épouse, Ceryse Hightower, en 45 apr. C., fut attribuée par la rumeur à un ordre du roi ; la plupart des historiens y voient une calomnie de ses ennemis.",
+    "en": "The cause of his death was never established: the chronicle names Queen Elinor, a knight of his guard, a builder who had escaped the massacre, the throne itself, or suicide. The cruelties of his boyhood are reported by hostile authors, and some are thought invented. The death of his first wife, Ceryse Hightower, in 45 AC was laid by rumour at the king's door; most historians regard it as slander spread by his enemies."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Sons of the Dragon"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "tsotd"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Maegor I"
+    },
+    {
+      "id": "affc",
+      "locator": "Cersei VI (ch. 28)"
+    }
+  ]
+}

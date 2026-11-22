@@ -1,0 +1,170 @@
+{
+  "personId": "alysanne",
+  "titles": [
+    {
+      "fr": "Reine des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "Queen of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Sœur et épouse de Jaehaerys Ier, Alysanne fut pendant un demi-siècle la reine la plus écoutée du royaume, artisane de plusieurs de ses lois et cavalière de Silverwing.",
+    "en": "Sister and wife of Jaehaerys I, Alysanne was for half a century the most heeded queen in the realm, the author of several of its laws and the rider of Silverwing."
+  },
+  "sections": [
+    {
+      "id": "alysanne-jeunesse",
+      "heading": {
+        "fr": "Une enfance en fuite",
+        "en": "A Childhood in Flight"
+      },
+      "body": {
+        "fr": "Alysanne naît en 36 apr. C., fille d'Aenys Ier et d'Alyssa Velaryon, cadette de Jaehaerys de deux ans. Une tradition familiale veut que sa sœur Rhaena ait placé dans son berceau l'œuf d'où sortit Silverwing. Enfant, elle partage le sort de son frère : la fuite de 41 apr. C. devant la Foi Militante, la mort de leur père, la captivité à Peyredragon sous Visenya, puis l'évasion de 44 apr. C. avec leur mère et les deux jeunes dragons.\n\nEn 49 apr. C., le conseil de régence la promet à ser Orryn Baratheon et cherche ailleurs une épouse pour le roi, de peur de rallumer la colère de la Foi. Prévenue, elle en avertit Jaehaerys ; tous deux s'envolent pour Peyredragon et s'y marient en secret. Le roi refuse de consommer l'union, la jugeant trop jeune, ce qui laisse à lord Rogar un argument pour la contester. Le mariage public n'a lieu qu'en 51 apr. C., devant le Trône de Fer, et cette fois il est consommé.",
+        "en": "Alysanne was born in 36 AC, the daughter of Aenys I and Alyssa Velaryon, two years younger than Jaehaerys. A family tradition holds that her sister Rhaena laid in her cradle the egg from which Silverwing hatched. As a child she shared her brother's fortunes: the flight of 41 AC before the Faith Militant, their father's death, captivity on Dragonstone under Visenya, and the escape of 44 AC with their mother and the two young dragons.\n\nIn 49 AC the regency council promised her to Ser Orryn Baratheon and looked elsewhere for a bride for the king, fearing to rekindle the anger of the Faith. Forewarned, she told Jaehaerys; the two flew to Dragonstone and married there in secret. The king refused to consummate the union, thinking her too young, which left Lord Rogar an argument for contesting it. The public wedding took place only in 51 AC, before the Iron Throne, and this time the marriage was consummated."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Prince into King: The Ascension of Jaehaerys I"
+        },
+        {
+          "id": "fab",
+          "locator": "The Year of the Three Brides: 49 AC"
+        },
+        {
+          "id": "fab",
+          "locator": "A Surfeit of Rulers"
+        },
+        {
+          "id": "fab",
+          "locator": "A Time of Testing: The Realm Remade"
+        }
+      ]
+    },
+    {
+      "id": "alysanne-cours",
+      "heading": {
+        "fr": "Les audiences des femmes",
+        "en": "The Women's Courts"
+      },
+      "body": {
+        "fr": "Dès le premier voyage royal, en 51 apr. C., Alysanne tient à Sombreval une audience réservée aux femmes, qu'elle renouvellera dans chaque ville visitée. Le même voyage montre ce que lui coûte sa position : à Viergétang, trois femmes attachées au bassin sacré l'attaquent au couteau pendant son bain, parce qu'elle porte l'enfant d'une union qu'elles tiennent pour impie. L'enfant, Aegon, naît avant terme et meurt au bout de trois jours ; la reine se donne ensuite une femme pour garde, Jonquil Darke.\n\nAu conseil, sa parole pèse. Elle prend part au travail sur le code des lois. C'est elle qui fait accepter à Port-Réal les puits et les fontaines, en présentant au roi et à son maître des monnaies, réticents devant la dépense, une chope d'eau du fleuve qu'aucun des deux ne voulut boire. Au retour du Nord, elle obtient l'abolition du droit du seigneur sur la première nuit des épousées, réforme qui lui valut l'affection du petit peuple et la rancune durable de quelques seigneurs.",
+        "en": "On the first royal progress, in 51 AC, Alysanne held at Duskendale an audience for women alone, repeated wherever she went. The same progress showed what her position cost her: at Maidenpool, three women who served the sacred pool attacked her with knives as she bathed, for carrying the child of a union they held impious. The child, Aegon, was born before his time and died after three days; the queen then took a woman as her sworn shield, Jonquil Darke.\n\nShe took part in the work on the code of laws. It was she who won acceptance in King's Landing for the wells and fountains, by setting before the king and his master of coin, who balked at the cost, a tankard of river water neither would drink. On her return from the North she secured the abolition of a lord's right to the first night of a bride, a reform that earned her the affection of the smallfolk and the lasting resentment of some lords."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "A Time of Testing: The Realm Remade"
+        },
+        {
+          "id": "fab",
+          "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+        },
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "alysanne-nord",
+      "heading": {
+        "fr": "Le voyage au Mur",
+        "en": "The Journey to the Wall"
+      },
+      "body": {
+        "fr": "En 58 apr. C., retenu à Port-Réal par une médiation entre Pentos et Tyrosh, Jaehaerys laisse sa femme partir seule vers le Nord. Elle gagne Blancport sur Silverwing, y écoute les plaintes de deux cents femmes, puis rejoint Winterfell, où lord Alaric Stark la reçoit froidement. De là, elle vole jusqu'au Mur et visite plusieurs châteaux de la Garde de Nuit. Trois fois elle tente de mener son dragon au-delà ; trois fois Silverwing refuse, et la reine en reste troublée.\n\nElle propose de remplacer le Fort-Nox, trop coûteux à entretenir, par un château plus petit, Noirlac, et donne ses propres joyaux pour le bâtir ; en remerciement, la Garde rebaptise en son honneur un autre de ses châteaux, qui devient Porte Reine. Revenue à Winterfell, elle persuade le roi de doubler les terres de la Garde : c'est le Nouveau Don, que les seigneurs du Nord durent céder et dont les Stark, selon le mestre Yandel, gardèrent rancune. Un village sur la route du Mur changea de nom en souvenir de sa halte.",
+        "en": "In 58 AC, held in King's Landing by a mediation between Pentos and Tyrosh, Jaehaerys let his wife set out alone for the North. She reached White Harbor on Silverwing, heard the grievances of two hundred women there, then went on to Winterfell, where Lord Alaric Stark received her coldly. From there she flew to the Wall and visited several castles of the Night's Watch. Three times she tried to take her dragon beyond it; three times Silverwing refused, and the queen was left troubled.\n\nShe proposed replacing the Nightfort, too costly to maintain, with a smaller castle, Deep Lake, and gave her own jewels to build it; in gratitude the Watch renamed another of its castles in her honour, which became Queensgate. Back at Winterfell, she persuaded the king to double the Watch's lands: this was the New Gift, which the northern lords were obliged to yield and which the Starks, according to Maester Yandel, did not forgive. A village on the road to the Wall took the name Queenscrown in memory of her stay."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        },
+        {
+          "id": "asos",
+          "locator": "ch. 40, ch. 41"
+        }
+      ]
+    },
+    {
+      "id": "alysanne-fin",
+      "heading": {
+        "fr": "Querelles et déclin",
+        "en": "Quarrels and Decline"
+      },
+      "body": {
+        "fr": "Mère de treize enfants, Alysanne en enterra la plupart. La mort de Daella en couches, en 82 apr. C., ouvrit entre elle et le roi une première fêlure : elle lui reprochait d'avoir marié leur fille trop jeune. Après la mort de trois filles en cinq ans, elle supplia Jaehaerys de rappeler Saera ; devant son refus, elle se retira à Peyredragon de 87 à 89 apr. C. En 92 apr. C., quand le roi préféra Baelon à Rhaenys, elle partit de nouveau, après lui avoir dit sans ménagement ce qu'elle pensait de ce choix. Leur fille Maegelle les réconcilia les deux fois.\n\nElle vola pour la dernière fois en 93 apr. C. ; deux ans plus tard, une chute dans l'escalier lui brisa la hanche. Gael, la plus jeune, resta sa seule compagnie, jusqu'à sa mort en 99 apr. C. La reine quitta alors Port-Réal pour Peyredragon, où elle mourut d'un mal de langueur au septième mois de 100 apr. C. Ses cendres y reposent avec celles du roi.",
+        "en": "The mother of thirteen children, Alysanne buried most of them. Daella's death in childbed in 82 AC opened a first rift between her and the king: she blamed him for marrying their daughter too young. After three daughters had died in five years, she begged Jaehaerys to recall Saera; when he refused, she withdrew to Dragonstone from 87 to 89 AC. In 92 AC, when the king preferred Baelon to Rhaenys, she left again, having told him bluntly what she thought of the choice. Their daughter Maegelle reconciled them both times.\n\nShe flew for the last time in 93 AC; two years later a fall on the stairs broke her hip. Gael, the youngest, remained her only companion until her death in 99 AC. The queen then left King's Landing for Dragonstone, where she died of a wasting illness in the seventh month of 100 AC. Her ashes lie there with the king's."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "silverwing"
+  ],
+  "eventIds": [
+    "p4-jaehaerys-alysanne",
+    "p4-voyage-nord",
+    "p4-mort-aemon"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "Les récits ne s'accordent pas sur la personne qui avertit la princesse du projet de mariage avec Orryn Baratheon : un serviteur présent au conseil, ou son oncle lord Daemon Velaryon. La date de son vol jusqu'au Mur diffère aussi : Gyldayn la fait partir de Winterfell avant l'arrivée du roi, la tradition du Nord rapportée par Bran Stark après. L'œuf que Rhaena aurait placé dans son berceau relève de la légende familiale.",
+    "en": "Accounts disagree on who warned the princess of the planned marriage to Orryn Baratheon: a servant present at the council, or her uncle Lord Daemon Velaryon. The timing of her flight to the Wall also differs: Gyldayn has her leave Winterfell before the king arrived, while the northern tradition repeated by Bran Stark places it after. The egg Rhaena is said to have laid in her cradle belongs to family legend."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Year of the Three Brides: 49 AC"
+    },
+    {
+      "id": "fab",
+      "locator": "A Time of Testing: The Realm Remade"
+    },
+    {
+      "id": "fab",
+      "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+    },
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys I"
+    },
+    {
+      "id": "asos",
+      "locator": "ch. 40, ch. 41"
+    }
+  ]
+}

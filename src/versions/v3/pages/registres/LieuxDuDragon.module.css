@@ -1,0 +1,44 @@
+/* La carte prend ce qui reste de la colonne ; au téléphone, 40 svh. */
+.lieux {
+  display: flex;
+  flex-direction: column;
+  gap: var(--e2);
+  flex: 1;
+  min-height: 12rem;
+  min-width: 0;
+}
+
+.titre {
+  flex: none;
+  font-size: var(--t0);
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  color: var(--ivoire);
+}
+
+.carte {
+  position: relative;
+  flex: 1;
+  min-height: 9rem;
+}
+
+.carte > * {
+  position: absolute;
+  inset: 0;
+}
+
+.legende {
+  flex: none;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.45;
+  color: var(--cendre);
+}
+
+@media (width < 1024px) {
+  .carte {
+    flex: none;
+    height: 40svh;
+  }
+}

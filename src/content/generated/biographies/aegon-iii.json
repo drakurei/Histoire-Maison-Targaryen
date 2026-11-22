@@ -1,0 +1,232 @@
+{
+  "personId": "aegon-iii",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes, de 131 à 157 apr. C.",
+      "en": "King of the Andals, the Rhoynar and the First Men, from 131 to 157 AC"
+    },
+    {
+      "fr": "Prince, héritier de Rhaenyra après la mort de Joffrey",
+      "en": "Prince, Rhaenyra's heir after the death of Joffrey"
+    },
+    {
+      "fr": "Cavalier de Stormcloud, le temps d'un seul vol",
+      "en": "Rider of Stormcloud, for a single flight"
+    }
+  ],
+  "lead": {
+    "fr": "Fils aîné de Rhaenyra et de Daemon, Aegon III monta sur le trône à dix ans, au sortir de la Danse, et régna jusqu'en 157 apr. C. sur un royaume où les dragons s'éteignirent.",
+    "en": "Elder son of Rhaenyra and Daemon, Aegon III came to the throne at ten, as the Dance ended, and reigned until 157 AC over a realm in which the dragons died out."
+  },
+  "sections": [
+    {
+      "id": "aegon-iii-enfance",
+      "heading": {
+        "fr": "Aegon le Jeune",
+        "en": "Aegon the Younger"
+      },
+      "body": {
+        "fr": "Aegon naît à la fin de 120 apr. C., premier fils de Rhaenyra et de Daemon, avec les cheveux d'argent et les yeux violets qui manquaient à ses demi-frères. Le choix du prénom, celui du Conquérant, offense la reine Alicent, dont le fils aîné le porte déjà : l'histoire distingue depuis Aegon l'Aîné et Aegon le Jeune. Il grandit à Peyredragon, inséparable de son frère Viserys, né en 122 apr. C., avec qui il partage chambre et leçons.\n\nEn 129 apr. C., il s'est lié au dragon Stormcloud sans l'avoir encore monté. Aegon II propose de le prendre pour écuyer si Rhaenyra se soumet ; elle refuse. À la fin de l'année, Jacaerys envoie les deux garçons à Pentos. Dans le Gosier, leur navire tombe aux mains de la Triarchie. Aegon s'échappe sur Stormcloud, qu'il monte pour la première fois ; le dragon, blessé, meurt à Peyredragon dans l'heure qui suit.",
+        "en": "Aegon was born at the end of 120 AC, the first son of Rhaenyra and Daemon, with the silver hair and purple eyes his half-brothers lacked. The choice of name, that of the Conqueror, offended Queen Alicent, whose eldest son already bore it: history has since distinguished Aegon the Elder from Aegon the Younger. He grew up on Dragonstone, inseparable from his brother Viserys, born in 122 AC, with whom he shared a bedchamber and lessons.\n\nBy 129 AC he had bonded with the dragon Stormcloud but had not yet ridden him. Aegon II offered to take him as a squire if Rhaenyra submitted; she refused. At the end of the year Jacaerys sent the two boys to Pentos. In the Gullet their ship fell into the hands of the Triarchy. Aegon escaped on Stormcloud, riding him for the first time; the wounded dragon died on Dragonstone within the hour."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "trp"
+        }
+      ]
+    },
+    {
+      "id": "aegon-iii-temoin",
+      "heading": {
+        "fr": "Le témoin",
+        "en": "The Witness"
+      },
+      "body": {
+        "fr": "Aegon ne remontera jamais sur un dragon, et le remords d'avoir laissé son frère ne le quittera plus. Après la prise de Port-Réal, Rhaenyra le fait venir et le nomme son échanson pour le garder près d'elle. Il ne dit presque rien. Du toit du Donjon Rouge, il voit tomber Joffrey et mourir Syrax ; il fuit ensuite la ville avec sa mère, qui refuse de le perdre de vue.\n\nÀ Peyredragon, il est le premier à comprendre le piège et crie en vain à sa mère de fuir. Il ramasse l'épée d'un garde tué ; Alfred Broome la lui fait sauter des mains. Dans la cour, il voit Sunfyre brûler et dévorer Rhaenyra. Broome veut le tuer ; Aegon II le garde comme otage, enchaîné dans les cachots, puis accepte, sur le conseil de Larys Strong, de le fiancer à sa fille Jaehaera et de le désigner pour héritier.",
+        "en": "Aegon would never ride a dragon again, and remorse at having left his brother never left him. After the taking of King's Landing, Rhaenyra sent for him and made him her cupbearer to keep him close. He said almost nothing. From the roof of the Red Keep he watched Joffrey fall and Syrax die; he then fled the city with his mother, who would not let him out of her sight.\n\nOn Dragonstone he was the first to see the trap, and cried out in vain for his mother to flee. He picked up a slain guard's sword; Alfred Broome knocked it out of his hand. In the yard he watched Sunfyre burn and devour Rhaenyra. Broome wanted him killed; Aegon II kept him as a hostage, chained in the dungeons, then agreed, on Larys Strong's advice, to betroth him to his daughter Jaehaera and name him heir."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        }
+      ]
+    },
+    {
+      "id": "aegon-iii-regence",
+      "heading": {
+        "fr": "Un roi sous tutelle",
+        "en": "A King in Wardship"
+      },
+      "body": {
+        "fr": "Après la mort d'Aegon II, en 131 apr. C., le garçon sort de Port-Réal avec Corlys sous la bannière de paix pour remettre la ville à l'armée du Conflans. Il a dix ans. Cregan Stark se fait nommer Main, juge les meurtriers du roi défunt, puis rend sa charge ; c'est Aegon qui, contre l'avis de Cregan, gracie Corlys. Il épouse Jaehaera au septième mois et il est couronné le jour même.\n\nCinq ans de régence suivent, où les Mains se succèdent : Tyland Lannister, emporté par la fièvre d'Hiver en 133 apr. C., puis Unwin Peake, puis Thaddeus Rowan. Le roi, taciturne, signe ce qu'on lui présente. Pendant l'épidémie, il se distingue pourtant en veillant les malades. Jaehaera meurt en 133 apr. C., tombée d'une fenêtre ; Aegon choisit lui-même Daenaera Velaryon au bal organisé pour le remarier. En 134 apr. C., Alyn Velaryon lui ramène de Lys son frère Viserys.",
+        "en": "After Aegon II's death in 131 AC, the boy rode out of King's Landing with Corlys under a peace banner to yield the city to the army of the Riverlands. He was ten. Cregan Stark had himself named Hand, judged the late king's murderers and then gave up his office; it was Aegon who, against Cregan's wishes, pardoned Corlys. He married Jaehaera in the seventh month and was crowned the same day.\n\nFive years of regency followed, with one Hand after another: Tyland Lannister, carried off by the Winter Fever in 133 AC, then Unwin Peake, then Thaddeus Rowan. The silent king signed what was put before him. During the epidemic, however, he distinguished himself by sitting with the sick. Jaehaera died in 133 AC after a fall from a window; Aegon himself chose Daenaera Velaryon at the ball held to find him a new wife. In 134 AC Alyn Velaryon brought his brother Viserys back to him from Lys."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "fab",
+          "locator": "Aftermath: The Hour of the Wolf"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Hooded Hand"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: War and Peace and Cattle Shows"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        }
+      ]
+    },
+    {
+      "id": "aegon-iii-regne",
+      "heading": {
+        "fr": "Le roi brisé",
+        "en": "The Broken King"
+      },
+      "body": {
+        "fr": "En 135 apr. C., quand des conjurés emprisonnent Thaddeus Rowan et veulent arrêter Larra Rogare, l'épouse lysienne de Viserys, les deux frères s'enferment dans la citadelle de Maegor et tiennent jusqu'à ce que l'accusation s'effondre. Le jour de ses seize ans, en 136 apr. C., Aegon congédie sans ménagement ses régents et sa Main, et annule le voyage royal qu'ils lui préparaient.\n\nOn l'appellera le Roi brisé. Il veut un royaume en paix et nourri, mais ne sait ni ne veut se concilier seigneurs et petites gens ; il lui arrive de s'enfermer des jours entiers. Son mariage n'est consommé qu'une dizaine d'années plus tard. Daenaera lui donne cinq enfants, dont les futurs rois Daeron Ier et Baelor Ier. Dans les dernières années du règne, son frère Viserys est sa Main ; ensemble, ils démasquent plusieurs imposteurs qui se font passer pour le prince Daeron, frère d'Aegon II.",
+        "en": "In 135 AC, when conspirators imprisoned Thaddeus Rowan and tried to arrest Larra Rogare, Viserys's Lysene wife, the two brothers shut themselves in Maegor's Holdfast and held out until the case collapsed. On his sixteenth nameday, in 136 AC, Aegon dismissed his regents and his Hand without ceremony and cancelled the royal progress they had been preparing for him.\n\nHe would be called the Broken King. He sought to keep the realm fed and at peace, but could not bring himself to win over lords or commons; at times he shut himself away for days. His marriage was not consummated until some ten years later. Daenaera gave him five children, among them the future kings Daeron I and Baelor I. In the last years of the reign his brother Viserys was his Hand; together they unmasked several impostors passing themselves off as Prince Daeron, Aegon II's brother."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        }
+      ]
+    },
+    {
+      "id": "aegon-iii-dragons",
+      "heading": {
+        "fr": "La fin des dragons",
+        "en": "The End of the Dragons"
+      },
+      "body": {
+        "fr": "Aegon III n'aime pas les dragons, et l'on comprend pourquoi. Sous son règne, les derniers s'éteignent : le tout dernier, une femelle chétive aux ailes atrophiées, meurt à Port-Réal en 153 apr. C. après avoir pondu des œufs qui n'éclosent pas. La rumeur accuse le roi de l'avoir empoisonnée, et il en garde le surnom de Fléau des dragons. Il n'a pourtant pas renoncé à leur puissance : à l'instigation de Viserys, il fait venir d'Essos des mages pour faire éclore des œufs, sans succès.\n\nIl meurt de consomption en 157 apr. C., à trente-six ans. Ceux qui le voyaient lui donnaient bien davantage ; son enfance s'était arrêtée en 130 apr. C. Son fils Daeron, quatorze ans, lui succède ; quand Daeron puis Baelor meurent sans enfants, la couronne passe à Viserys II. La mémoire d'Aegon III reste sans chaleur : on lui doit la paix, non l'attachement de ses sujets.",
+        "en": "Aegon III had no love for dragons, and it is easy to see why. In his reign the last of them died out: the very last, a stunted female with withered wings, died in King's Landing in 153 AC after laying eggs that never hatched. Rumour accused the king of poisoning her, and the name Dragonbane stayed with him. Yet he had not given up on their power: at Viserys's urging he brought mages from Essos to hatch eggs, without success.\n\nHe died of consumption in 157 AC, at thirty-six. Those who saw him gave him many more years than he had lived; his childhood had stopped in 130 AC. His son Daeron, aged fourteen, succeeded him; when Daeron and then Baelor died childless, the crown passed to Viserys II. Aegon III is remembered without warmth: he gave the realm peace, not the affection of his subjects."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        },
+        {
+          "id": "thk"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys III"
+        },
+        {
+          "id": "asos",
+          "locator": "Chapter 54"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "stormcloud",
+    "sunfyre",
+    "dernier-dragon"
+  ],
+  "eventIds": [
+    "p5-gosier",
+    "p5-fossedragon",
+    "p5-mort-rhaenyra",
+    "p5-mort-aegon-ii",
+    "p5-heure-du-loup",
+    "p6-regence",
+    "p5-dernier-dragon"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "La mort de la reine Jaehaera, en 133 apr. C., passe pour un suicide, mais la ville parla de meurtre. Le poison qu'on prête au roi contre le dernier dragon n'est pas prouvé ; bien plus tard, l'archimestre Marwyn en rendra responsables les mestres de la Citadelle, sans plus de preuve.",
+    "en": "Queen Jaehaera's death in 133 AC is held to have been suicide, but the city spoke of murder. The poison the king is said to have used against the last dragon is unproven; much later Archmaester Marwyn would lay the blame on the maesters of the Citadel, with no more proof."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+    },
+    {
+      "id": "fab",
+      "locator": "Aftermath: The Hour of the Wolf"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: The Hooded Hand"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: War and Peace and Cattle Shows"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+    },
+    {
+      "id": "fab",
+      "locator": "The Lysene Spring and the End of Regency"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon III"
+    },
+    {
+      "id": "thk"
+    },
+    {
+      "id": "affc",
+      "locator": "Samwell V"
+    }
+  ]
+}

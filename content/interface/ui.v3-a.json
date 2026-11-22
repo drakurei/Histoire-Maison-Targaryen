@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-v3-groupe-a",
+  "note": "Version 3, groupe A : portail, chroniques, période, événement. Le reste vient des clés communes et de celles de la V1 (page.period.*, page.event.*) et de la V2 (v2.portal.*, v2.chronicles.*, v2.period.*, v2.event.*).",
+  "items": [
+    {
+      "key": "v3.a.majeste",
+      "fr": "Les dragons vivants, année par année, de Valyria à l’an 300",
+      "en": "Living dragons, year by year, from Valyria to the year 300"
+    },
+    {
+      "key": "v3.a.colonne.periode",
+      "fr": "La période sur la carte et sur la fasce",
+      "en": "The period on the map and on the fess"
+    },
+    {
+      "key": "v3.a.colonne.evenement",
+      "fr": "L’événement sur la carte et sur la fasce",
+      "en": "The event on the map and on the fess"
+    },
+    {
+      "key": "v3.a.marge",
+      "fr": "Personnes, dragons, lieux et sources",
+      "en": "People, dragons, places and sources"
+    },
+    {
+      "key": "v3.a.volume",
+      "fr": "Volume {n}",
+      "en": "Volume {n}"
+    },
+    {
+      "key": "v3.a.chroniques.dos",
+      "fr": "Chaque dos de cuir se pose au bout de son segment de la fasce, à sa place et à la même échelle : le rouge y compte les dragons vivants. Au-dessus, les règnes en or et les guerres en rouge.",
+      "en": "Each leather spine sits at the end of its segment of the fess, in its place and on the same scale: the red counts the living dragons. Above, the reigns in gold and the wars in red."
+    },
+    {
+      "key": "v3.a.evenements",
+      "fr": "{n} événements",
+      "en": "{n} events"
+    }
+  ]
+}

@@ -6,10 +6,8 @@ import { COMPARE_PATH } from './paths';
 import { VERSION_IDS, VersionProvider } from './version';
 import type { VersionId } from './version';
 
-/**
- * Version ouverte à la racine du site. À passer à 'version-3' quand l'édition ultime existera.
- */
-export const DEFAULT_VERSION: VersionId = 'version-1';
+/** Version ouverte à la racine du site : l'édition ultime, « le Codex armorié ». */
+export const DEFAULT_VERSION: VersionId = 'version-3';
 
 /**
  * Point d'entrée de chaque version, chargé à la demande : un bloc par version.
@@ -24,7 +22,7 @@ export const DEFAULT_VERSION: VersionId = 'version-1';
 const VERSION_ENTRIES = {
   'version-1': lazy(() => import('@/versions/v1-codex')),
   'version-2': lazy(() => import('@/versions/v2')),
-  'version-3': lazy(() => import('./UnderConstruction')),
+  'version-3': lazy(() => import('@/versions/v3')),
 } satisfies Record<VersionId, unknown>;
 
 const ComparePage = lazy(() => import('@/compare/ComparePage'));

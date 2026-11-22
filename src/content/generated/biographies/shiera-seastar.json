@@ -1,0 +1,117 @@
+{
+  "personId": "shiera-seastar",
+  "titles": [
+    {
+      "fr": "L'une des Grands Bâtards d'Aegon IV, légitimée en 184 apr. C.",
+      "en": "One of the Great Bastards of Aegon IV, legitimised in 184 AC"
+    }
+  ],
+  "lead": {
+    "fr": "Dernière des Grands Bâtards d'Aegon IV, Shiera Astre-des-mers fut l'amante de son demi-frère Brynden Rivers et l'enjeu d'une rivalité qui envenima la haine entre lui et Aegor Rivers.",
+    "en": "The last of the Great Bastards of Aegon IV, Shiera Seastar was the lover of her half-brother Brynden Rivers and the stake in a rivalry that deepened the hatred between him and Aegor Rivers."
+  },
+  "sections": [
+    {
+      "id": "shiera-seastar-naissance",
+      "heading": {
+        "fr": "Une fille de Lys",
+        "en": "A Daughter of Lys"
+      },
+      "body": {
+        "fr": "Shiera est la fille d'Aegon IV et de Serenei de Lys, la dernière des neuf maîtresses que le roi disait avoir aimées. Serenei avait été amenée à la cour par lord Jon Hightower, l'une des dernières Mains du règne ; on la disait sorcière. Elle mourut en mettant au monde Shiera, la dernière des bâtards que le roi reconnut. L'année n'est pas donnée ; elle se place entre 178 et 184 apr. C.\n\nPrivée de sa mère dès sa naissance, Shiera est légitimée encore enfant, en 184 apr. C., avec ses demi-frères et demi-sœurs, par le décret que le roi prend sur son lit de mort. Elle compte dès lors parmi les Grands Bâtards, aux côtés de Daemon, d'Aegor, de Brynden, de Mya et de Gwenys.\n\nLes sources ne disent presque rien de son enfance. On ignore où et par qui elle fut élevée après la mort de son père, et sous le règne de Daeron II elle n'apparaît dans aucun événement rapporté.",
+        "en": "Shiera was the daughter of Aegon IV and Serenei of Lys, the last of the nine mistresses the king claimed to have loved. Serenei had been brought to court by Lord Jon Hightower, one of the last Hands of the reign; she was said to be a sorceress. She died giving birth to Shiera, the last of the bastards the king acknowledged. The year is not given; it falls between 178 and 184 AC.\n\nMotherless from birth, Shiera was legitimised while still a child, in 184 AC, with her half-brothers and half-sisters, by the decree the king issued on his deathbed. From then on she was counted among the Great Bastards, alongside Daemon, Aegor, Brynden, Mya and Gwenys.\n\nThe sources say almost nothing of her childhood. Where and by whom she was raised after her father's death is unknown, and under Daeron II she appears in no recorded event."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        }
+      ]
+    },
+    {
+      "id": "shiera-seastar-rivalite",
+      "heading": {
+        "fr": "Deux frères pour une sœur",
+        "en": "Two Brothers for One Sister"
+      },
+      "body": {
+        "fr": "Adulte, Shiera a la réputation d'une grande beauté. Elle ne se marie jamais. Son demi-frère Brynden Rivers est le plus constant de ses soupirants : il lui propose plusieurs fois le mariage, elle refuse toujours, mais elle partage son lit.\n\nAegor Rivers la désire aussi. Elle lui préfère Brynden, ce qui ajoute une blessure personnelle à une haine née de la rivalité de leurs mères, une Bracken et une Blackwood, dans les faveurs du roi. Lorsque les deux demi-frères se retrouvent face à face au Champ d'Herberouge en 196 apr. C., puis de nouveau en 219 apr. C., c'est aussi cette querelle-là qui se joue.\n\nUn siècle plus tard, dans A Dance with Dragons, ser Barristan Selmy compte encore la rivalité d'Aegor et de Brynden pour Shiera parmi les amours targaryennes qui ont fait saigner les Sept Couronnes. Il ne dit rien d'elle, sinon qu'elle fut aimée de l'un et de l'autre.",
+        "en": "As a grown woman Shiera was reputed a great beauty. She never married. Her half-brother Brynden Rivers was the most constant of her suitors: he asked for her hand several times, she always refused, yet she shared his bed.\n\nAegor Rivers desired her as well. She preferred Brynden, which added a personal wound to a hatred born of their mothers' rivalry, a Bracken and a Blackwood, for the king's favour. When the two half-brothers met face to face on the Redgrass Field in 196 AC, and again in 219 AC, that quarrel too was being fought out.\n\nA century later, in A Dance with Dragons, Ser Barristan Selmy still counts the rivalry of Aegor and Brynden over Shiera among the Targaryen loves that made the Seven Kingdoms bleed. He says nothing of her, except that both men loved her."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        },
+        {
+          "id": "adwd",
+          "locator": "The Kingbreaker (ch. 67)"
+        }
+      ]
+    },
+    {
+      "id": "shiera-seastar-rumeurs",
+      "heading": {
+        "fr": "La compagne de la Main",
+        "en": "The Hand's Companion"
+      },
+      "body": {
+        "fr": "Sous Aerys Ier, quand Brynden gouverne comme Main et maître des chuchoteurs, la rumeur associe Shiera à son pouvoir. On dit que tous deux usent de sorcellerie pour percer les secrets du royaume ; on dit aussi que Shiera se baigne dans le sang pour garder sa beauté. Ces bruits, que les récits de Dunk et l'Œuf placent dans la bouche d'hommes hostiles à la Main, disent surtout la peur qu'inspirait le couple. Ils prolongent la réputation de sorcière de sa mère lysienne.\n\nOn ignore quand et comment Shiera mourut, et si elle vivait encore lorsque Brynden partit pour le Mur, en 233 apr. C. Dans la caverne au-delà du Mur, le vieillard qu'est devenu Brynden confie à Bran Stark qu'une femme qu'il a désirée compte parmi les fantômes qui le hantent. Il ne la nomme pas.",
+        "en": "Under Aerys I, when Brynden governed as Hand and master of whisperers, rumour linked Shiera to his power. It was said that the two of them used sorcery to uncover the realm's secrets; it was said too that Shiera bathed in blood to keep her beauty. These tales, which the stories of Dunk and Egg put in the mouths of men hostile to the Hand, chiefly show the fear the pair inspired. They carry on the reputation for sorcery of her Lysene mother.\n\nWhen and how Shiera died is unknown, as is whether she was still alive when Brynden left for the Wall in 233 AC. In the cave beyond the Wall, the old man Brynden has become tells Bran Stark that a woman he desired is among the ghosts that haunt him. He does not name her."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        },
+        {
+          "id": "adwd",
+          "locator": "Bran III (ch. 34)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-aegon-iv"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "Les années de sa naissance et de sa mort ne sont pas connues. Les pratiques de sorcellerie qu'on lui prête ne sont attestées que par la rumeur. Rien dans les livres ne dit si la femme dont parle Brynden à Bran est bien Shiera.",
+    "en": "The years of her birth and death are unknown. The sorcery attributed to her is attested only by rumour. Nothing in the books says whether the woman Brynden mentions to Bran is in fact Shiera."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon IV"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys I"
+    },
+    {
+      "id": "tss",
+      "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+    },
+    {
+      "id": "adwd",
+      "locator": "Bran III (ch. 34)"
+    },
+    {
+      "id": "adwd",
+      "locator": "The Kingbreaker (ch. 67)"
+    }
+  ]
+}

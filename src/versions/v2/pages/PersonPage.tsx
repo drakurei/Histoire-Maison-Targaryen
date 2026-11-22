@@ -1,7 +1,7 @@
 import { useMemo } from 'react';
 import { useParams } from 'react-router-dom';
 
-import { getBiography } from '@/core/content/biographies';
+import { useBiography } from '@/core/content/biographies';
 import { getPerson } from '@/core/content/people';
 import { events, getPeriod } from '@/core/content/timeline';
 import type { Person, SourceRef } from '@/core/content/types';
@@ -129,7 +129,7 @@ export default function PersonPage() {
   const { reading } = useLang();
   const year = useYear();
 
-  const biography = person?.hasBiography ? getBiography(person.id) : undefined;
+  const biography = useBiography(person?.hasBiography ? person.id : undefined);
   const annals = useMemo(
     () => (person ? events.filter((event) => event.people.some((ref) => ref.id === person.id)).sort((a, b) => a.sortYear - b.sortYear) : []),
     [person],

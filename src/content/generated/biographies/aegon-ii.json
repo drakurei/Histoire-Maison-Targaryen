@@ -1,0 +1,213 @@
+{
+  "personId": "aegon-ii",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+      "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+    },
+    {
+      "fr": "Cavalier de Sunfyre",
+      "en": "Rider of Sunfyre"
+    }
+  ],
+  "lead": {
+    "fr": "Fils aîné de Viserys Ier et d'Alicent Hightower, Aegon II fut couronné en 129 apr. C. au mépris des droits de sa demi-sœur Rhaenyra, et son règne de deux ans se confond avec la Danse des dragons.",
+    "en": "Eldest son of Viserys I and Alicent Hightower, Aegon II was crowned in 129 AC in defiance of his half-sister Rhaenyra's rights, and his two-year reign is bound up with the Dance of the Dragons."
+  },
+  "sections": [
+    {
+      "id": "aegon-ii-jeunesse",
+      "heading": {
+        "fr": "Le fils qui n'était pas l'héritier",
+        "en": "The Son Who Was Not the Heir"
+      },
+      "body": {
+        "fr": "Aegon naît en 107 apr. C., premier enfant de Viserys et d'Alicent. Sa mère lui donne le nom du Conquérant ; son père n'en maintient pas moins Rhaenyra comme héritière et ne reviendra jamais sur ce choix. Le garçon grandit dans une cour divisée, où les fils de la reine et ceux de la princesse partagent fêtes, maîtres d'armes et leçons, sans que cette proximité forcée apaise rien. Aegon tient ses neveux Velaryon pour des fils de Harwin Strong et le dit à son frère Aemond.\n\nVers treize ans, il monte Sunfyre, un dragon aux écailles d'or. En 122 apr. C., il épouse sa sœur Helaena selon l'usage de la maison ; les jumeaux Jaehaerys et Jaehaera naissent l'année suivante, Maelor en 127 apr. C. Champignon lui attribue aussi deux bâtards nés en 123 apr. C., dont une fille d'une servante de sa mère. Au festin du premier jour de 127 apr. C., selon Champignon, une danse que Jacaerys demande à Helaena manque de tourner à la rixe.",
+        "en": "Aegon was born in 107 AC, the first child of Viserys and Alicent. His mother gave him the Conqueror's name; his father nonetheless kept Rhaenyra as heir and never went back on that choice. The boy grew up in a divided court, where the queen's sons and the princess's shared feasts, masters-at-arms and lessons, and the forced closeness eased nothing. Aegon held his Velaryon nephews to be Harwin Strong's sons and said as much to his brother Aemond.\n\nAt about thirteen he was riding Sunfyre, a dragon with golden scales. In 122 AC he married his sister Helaena according to the custom of the house; the twins Jaehaerys and Jaehaera were born the following year, Maelor in 127 AC. Mushroom also credits him with two bastards born in 123 AC, one of them a girl by a servant of his mother's. At the feast on the first day of 127 AC, according to Mushroom, a dance that Jacaerys asked of Helaena nearly ended in a brawl."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "aegon-ii-couronne",
+      "heading": {
+        "fr": "Une couronne prise",
+        "en": "A Crown Taken"
+      },
+      "body": {
+        "fr": "À la mort de Viserys, en 129 apr. C., le conseil réuni par Alicent décide de couronner Aegon. On le cherche. Munkun dit seulement qu'il était à ses plaisirs ; Champignon le place, ivre, près d'une fosse aux rats de Culpucier, Eustace dans le lit d'une maîtresse, fille d'un riche marchand. Eustace assure aussi qu'Aegon refusa d'abord, tenant Rhaenyra pour l'héritière, et ne céda qu'à l'argument de Cole : couronnée, sa demi-sœur ferait périr ses frères et lui.\n\nLe dixième jour du troisième mois, la mort du roi est annoncée. À Fossedragon, Criston Cole lui pose sur la tête la couronne du Conquérant et Eustace lui donne l'onction. Aegon tient la capitale, le trésor, Villevieille et Castral Roc ; il réclame les têtes de Rhaenyra et de Daemon, puis laisse Orwyle porter des conditions de paix, qu'elle rejette. Il fête Aemond après la mort de Lucerys ; le meurtre de son fils Jaehaerys, peu après, le laisse buvant seul et furieux. Il retire bientôt la chaîne de Main à son grand-père pour la donner à Cole.",
+        "en": "When Viserys died in 129 AC, Alicent's council resolved to crown Aegon. He had to be found. Munkun says only that he was at his pleasures; Mushroom places him, drunk, at a rat pit in Flea Bottom, Eustace in the bed of a mistress, a wealthy merchant's daughter. Eustace also maintains that Aegon at first refused, holding Rhaenyra to be the heir, and gave way only to Cole's argument: once crowned, his half-sister would put him and his brothers to death.\n\nOn the tenth day of the third month the king's death was announced. In the Dragonpit, Criston Cole set the Conqueror's crown on his head and Eustace anointed him. Aegon held the capital, the treasury, Oldtown and Casterly Rock; he demanded the heads of Rhaenyra and Daemon, then let Orwyle carry terms of peace, which she rejected. He feasted Aemond after Lucerys's death; the murder of his son Jaehaerys soon afterwards left him drinking in his rage. Soon he took the Hand's chain from his grandfather and gave it to Cole."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "id": "aegon-ii-sunfyre",
+      "heading": {
+        "fr": "Sunfyre",
+        "en": "Sunfyre"
+      },
+      "body": {
+        "fr": "Sunfyre fait la force de son cavalier, puis sa ruine. Au piège tendu par Cole à Repos-du-Freux, en 129 apr. C., Aegon et Aemond fondent sur Rhaenys et Meleys. Meleys meurt, mais Sunfyre en sort mutilé, et le roi brûlé sur la moitié du corps, la hanche et des côtes brisées, l'armure fondue dans le bras gauche. Il passe le reste de l'année au lit, assommé de lait de pavot, tandis qu'Aemond gouverne à sa place.\n\nQuand Rhaenyra prend la capitale, en 130 apr. C., Larys Strong le fait sortir de la ville avec ses enfants. Déguisé en homme du peuple, Aegon gagne Peyredragon sur un bateau de pêcheur ; Sunfyre, qui ne vole presque plus, s'y était posé de lui-même. Avec l'aide d'hommes de la garnison, le roi s'empare du château. Baela, fille de Daemon, l'attaque sur Moondancer ; dans la chute des deux dragons, Aegon saute de la selle et se brise les jambes. Il refusera désormais le lait de pavot et vivra dans la douleur.",
+        "en": "Sunfyre was his rider's strength, then his undoing. In the trap Cole laid at Rook's Rest in 129 AC, Aegon and Aemond fell upon Rhaenys and Meleys. Meleys died, but Sunfyre came out of it maimed, and the king burned over half his body, his hip and several ribs broken, his armour melted into his left arm. He spent the rest of the year in bed, dulled by milk of the poppy, while Aemond ruled in his place.\n\nWhen Rhaenyra took the capital in 130 AC, Larys Strong got him out of the city with his children. Disguised as a commoner, Aegon reached Dragonstone on a fishing boat; Sunfyre, who could barely fly, had already landed there of his own accord. With the help of men from the garrison, the king seized the castle. Baela, Daemon's daughter, attacked him on Moondancer; as the two dragons fell, Aegon leapt from the saddle and shattered his legs. From then on he refused the milk of the poppy and lived in pain."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        }
+      ]
+    },
+    {
+      "id": "aegon-ii-restauration",
+      "heading": {
+        "fr": "Le trône repris",
+        "en": "The Throne Regained"
+      },
+      "body": {
+        "fr": "Lorsque Rhaenyra débarque à Peyredragon, à la fin de 130 apr. C., elle tombe dans le piège. Le vingt-deuxième jour du dixième mois, Aegon la livre à Sunfyre sous les yeux de son fils, Aegon le Jeune, qu'il garde en otage. Sunfyre meurt de ses blessures peu après, et le roi le pleure.\n\nRevenu à Port-Réal sur un navire fourni par les Velaryon, après l'accord conclu avec Corlys, Aegon ne peut plus gravir les marches du Trône de Fer et tient sa cour sur un siège de bois rembourré, une couverture sur les jambes. Il fait exécuter les rois de fortune de la capitale, sauf le plus jeune, exige rançons et otages des seigneurs ralliés à sa sœur et tente en vain de faire éclore des œufs de dragon. Au fils de Rhaenyra, il n'offre le choix qu'entre la Garde de Nuit et la condition d'eunuque. Pendant ce temps, les armées du Conflans, du Val et du Nord approchent, et ses propres seigneurs commencent à comploter.",
+        "en": "When Rhaenyra landed on Dragonstone late in 130 AC, she walked into the trap. On the twenty-second day of the tenth month Aegon gave her to Sunfyre before the eyes of her son, Aegon the Younger, whom he kept as a hostage. Sunfyre died of his wounds soon afterwards, and the king wept for him.\n\nBack in King's Landing on a ship provided by the Velaryons, after the agreement reached with Corlys, Aegon could no longer climb the steps of the Iron Throne and held court from a cushioned wooden seat, a blanket over his legs. He had the makeshift kings of the capital put to death, all but the youngest, demanded ransoms and hostages from the lords who had sided with his sister, and tried in vain to hatch dragon eggs. To Rhaenyra's son he offered no choice but the Night's Watch or life as a eunuch. Meanwhile the armies of the riverlands, the Vale and the North drew closer, and his own lords began to plot."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        }
+      ]
+    },
+    {
+      "id": "aegon-ii-mort",
+      "heading": {
+        "fr": "La litière",
+        "en": "The Litter"
+      },
+      "body": {
+        "fr": "En 131 apr. C., Borros Baratheon, dernier soutien en armes du roi, est tué sur la route Royale. Corlys Velaryon conseille alors à Aegon d'abdiquer et de prendre le noir ; Alicent lui rappelle les otages qu'il détient, et le roi répond en ordonnant qu'on coupe une oreille à son neveu pour l'envoyer à lord Tully. Peu après, il monte dans sa litière pour se faire porter au septuaire royal, avec son flacon de vin habituel. À l'arrivée, on le trouve mort, du sang aux lèvres. Il avait vingt-quatre ans.\n\nQui versa le poison n'a jamais été établi avec certitude. Cregan Stark, arrivé trop tard pour combattre, fait juger pendant l'Heure du Loup ceux qu'on tient pour complices. La couronne passe à Aegon le Jeune, marié à Jaehaera pour réunir les deux branches. La postérité a été sévère : les mestres des générations suivantes rangent Aegon II parmi les rois avides et malheureux de la dynastie, sans montrer plus d'indulgence envers sa demi-sœur.",
+        "en": "In 131 AC Borros Baratheon, the king's last support in arms, was killed on the kingsroad. Corlys Velaryon then advised Aegon to abdicate and take the black; Alicent reminded him of the hostages he held, and the king answered by ordering that one of his nephew's ears be cut off and sent to Lord Tully. Shortly afterwards he climbed into his litter to be carried to the royal sept, with his usual flagon of wine. On arrival he was found dead, blood on his lips. He was twenty-four.\n\nWho poured the poison has never been established with certainty. Cregan Stark, arriving too late to fight, had those held to be accomplices tried during the Hour of the Wolf. The crown passed to Aegon the Younger, married to Jaehaera to reunite the two branches. Posterity has been severe: maesters of later generations rank Aegon II among the grasping and unlucky kings of the dynasty, without showing his half-sister any more indulgence."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "fab",
+          "locator": "Aftermath: The Hour of the Wolf"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "sunfyre",
+    "meleys",
+    "moondancer"
+  ],
+  "eventIds": [
+    "p5-mort-viserys",
+    "p5-deux-couronnements",
+    "p5-accalmie",
+    "p5-sang-et-fromage",
+    "p5-repos-des-freux",
+    "p5-chute-port-real",
+    "p5-peyredragon-reprise",
+    "p5-mort-rhaenyra",
+    "p5-trois-rois",
+    "p5-mort-aegon-ii",
+    "p5-heure-du-loup"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "Les témoins se contredisent sur la nuit du conseil vert : Munkun reste vague, Champignon et Eustace placent Aegon en des lieux très différents, et seul Eustace, favorable aux verts, rapporte ses scrupules. Rien n'indique que Viserys soit jamais revenu sur le choix de Rhaenyra. L'empoisonnement de 131 apr. C. reste sans coupable certain : les soupçons ont visé Corlys Velaryon, Larys Strong et d'autres membres de l'entourage royal.",
+    "en": "The witnesses contradict one another about the night of the green council: Munkun stays vague, Mushroom and Eustace place Aegon in very different places, and only Eustace, who favoured the greens, reports his scruples. Nothing suggests that Viserys ever went back on his choice of Rhaenyra. The poisoning of 131 AC has no certain culprit: suspicion fell on Corlys Velaryon, Larys Strong and others around the king."
+  },
+  "adaptation": {
+    "fr": "La deuxième saison de House of the Dragon montre Aemond laissant Vhagar s'en prendre à Sunfyre à Repos-du-Freux, comme s'il voulait la mort de son frère. Les livres font des deux princes des alliés dans cette bataille.",
+    "en": "The second season of House of the Dragon shows Aemond letting Vhagar strike at Sunfyre at Rook's Rest, as if he wanted his brother dead. The books make the two princes allies in that battle."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: A Son for a Son"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+    },
+    {
+      "id": "fab",
+      "locator": "Aftermath: The Hour of the Wolf"
+    },
+    {
+      "id": "tpatq"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon II"
+    },
+    {
+      "id": "hotd",
+      "locator": "Season 2"
+    }
+  ]
+}

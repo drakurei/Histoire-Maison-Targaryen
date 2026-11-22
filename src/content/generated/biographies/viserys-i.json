@@ -1,0 +1,202 @@
+{
+  "personId": "viserys-i",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+      "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+    },
+    {
+      "fr": "Prince de Peyredragon",
+      "en": "Prince of Dragonstone"
+    }
+  ],
+  "lead": {
+    "fr": "Choisi par le Grand Conseil de 101 apr. C., Viserys Ier régna de 103 à 129 apr. C. sur un royaume en paix, mais laissa à sa mort deux héritiers qui se réclamaient chacun de lui.",
+    "en": "Chosen by the Great Council of 101 AC, Viserys I reigned from 103 to 129 AC over a realm at peace, but left at his death two heirs who each claimed his authority."
+  },
+  "sections": [
+    {
+      "id": "viserys-i-jeunesse",
+      "heading": {
+        "fr": "Le dernier cavalier de Balerion",
+        "en": "Balerion's Last Rider"
+      },
+      "body": {
+        "fr": "Viserys naît en 77 apr. C., fils aîné du prince Baelon et de la princesse Alyssa. Neuf jours après sa naissance, sa mère l'emmène voler sur Meleys. Il a sept ans quand elle meurt des suites d'une troisième couche. Le septon Barth le décrit au berceau comme un nourrisson potelé qui riait plus qu'aucun autre.\n\nEn 93 apr. C., il réclame Balerion, le dernier dragon né à Valyria. La bête, très vieille, se laisse difficilement mener ; ils font trois fois le tour de Port-Réal, alors que le prince avait songé à pousser jusqu'à Peyredragon. Balerion meurt l'année suivante, et Viserys ne monte plus jamais de dragon. La même année 93 apr. C., il épouse sa cousine Aemma Arryn, âgée de onze ans. Leur fille Rhaenyra naît en 97 apr. C. ; les autres grossesses de la reine s'achèvent par des fausses couches et par un fils mort au berceau.",
+        "en": "Viserys was born in 77 AC, the elder son of Prince Baelon and Princess Alyssa. Nine days after his birth his mother took him flying on Meleys. He was seven when she died after a third childbirth. Septon Barth describes him in the cradle as a plump babe who laughed more than any other.\n\nIn 93 AC he claimed Balerion, the last dragon born in Valyria. The ancient beast was hard to rouse; they circled King's Landing three times, though the prince had meant to fly on to Dragonstone. Balerion died the following year, and Viserys never rode a dragon again. In that same year of 93 AC he married his cousin Aemma Arryn, then eleven. Their daughter Rhaenyra was born in 97 AC; the queen's other pregnancies ended in miscarriages and in a son who died in the cradle."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "viserys-i-avenement",
+      "heading": {
+        "fr": "Le choix des seigneurs",
+        "en": "The Lords' Choice"
+      },
+      "body": {
+        "fr": "La mort de son père, en 101 apr. C., fait de Viserys l'un des deux candidats sérieux au Grand Conseil de Harrenhal, face à son cousin Laenor Velaryon, fils de Rhaenys. Les seigneurs le préfèrent, et Jaehaerys le nomme prince de Peyredragon. Il succède à son grand-père en 103 apr. C. Il hérite d'un trône sûr, d'un trésor plein et d'une maison qui compte plus de membres et de dragons qu'à aucun moment depuis le Fléau.\n\nLe nouveau roi est aimable, généreux, désireux de plaire, et sa cour devient un lieu de fêtes, de tournois et de faveurs. On le croit faible ; les chroniques le disent plutôt incapable de supporter un conflit, mais inébranlable une fois sa décision prise. Son frère Daemon se voit en héritier. Viserys l'aime sans vouloir de lui pour successeur ; il le fait entrer au conseil, puis, devant sa rivalité avec la Main, Otto Hightower, lui confie le commandement du Guet.",
+        "en": "His father's death in 101 AC made Viserys one of the two serious candidates before the Great Council at Harrenhal, against his cousin Laenor Velaryon, Rhaenys's son. The lords preferred him, and Jaehaerys named him Prince of Dragonstone. He succeeded his grandfather in 103 AC. He inherited a secure throne, a full treasury and a house with more members and more dragons than at any time since the Doom.\n\nThe new king was amiable, generous and eager to please, and his court became a place of feasts, tourneys and favours. Men thought him weak; the chronicles describe him rather as unable to bear conflict, yet unshakeable once he had made up his mind. His brother Daemon saw himself as heir. Viserys loved him without wanting him as successor; he gave him a seat on the council and then, faced with his rivalry with the Hand, Otto Hightower, put him in command of the City Watch."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        },
+        {
+          "id": "trp"
+        }
+      ]
+    },
+    {
+      "id": "viserys-i-heritiere",
+      "heading": {
+        "fr": "L'héritière de 105",
+        "en": "The Heir of 105 AC"
+      },
+      "body": {
+        "fr": "Viserys comptait sur un fils. En 105 apr. C., la reine Aemma meurt en couches ; l'enfant, nommé Baelon, ne lui survit qu'un jour. On rapporte au roi que Daemon, ivre dans une maison de la rue de la Soie, a raillé cet héritier d'un jour. Le chagrin de Viserys se change en colère. À l'issue du deuil, il fait proclamer sa fille Rhaenyra, huit ans, princesse de Peyredragon, et des centaines de seigneurs jurent de défendre son droit. Daemon quitte la cour.\n\nCe serment contredisait le précédent de 101 apr. C., qui avait porté Viserys au trône parce qu'on avait écarté une femme et son fils. Le roi ne vit pas, ou ne voulut pas voir, la contradiction. Il fit siéger Rhaenyra au conseil, l'instruisit comme une future reine régnante et s'en tint à ce choix jusqu'à sa mort, quoi qu'il advînt ensuite à sa cour.",
+        "en": "Viserys had been counting on a son. In 105 AC Queen Aemma died in childbed; the child, named Baelon, outlived her by a single day. The king was told that Daemon, drunk in a house on the Street of Silk, had mocked this heir for a day. Viserys's grief turned to anger. When the mourning was over, he had his eight-year-old daughter Rhaenyra proclaimed Princess of Dragonstone, and hundreds of lords swore to defend her right. Daemon left court.\n\nThat oath contradicted the precedent of 101 AC, which had raised Viserys to the throne by setting aside a woman and her son. The king did not see the contradiction, or would not. He gave Rhaenyra a seat on the council, schooled her as a future ruling queen and held to that choice until his death, whatever befell his court thereafter."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "viserys-i-familles",
+      "heading": {
+        "fr": "Deux familles",
+        "en": "Two Families"
+      },
+      "body": {
+        "fr": "En 106 apr. C., Viserys épouse Alicent Hightower, fille de sa Main, de préférence à Laena Velaryon. Elle lui donne Aegon, Helaena, Aemond et Daeron. Le roi ne change rien à l'ordre de succession, qu'il juge réglé. Otto Hightower insiste tant qu'il est renvoyé à Villevieille et remplacé par lord Lyonel Strong. En 111 apr. C., au tournoi du cinquième anniversaire du mariage, les couleurs de la reine et de la princesse donnent leur nom aux verts et aux noirs.\n\nViserys passe la suite de son règne à apaiser une querelle qu'il refuse de trancher. Il exile Daemon une seconde fois ; il impose à Rhaenyra, en 114 apr. C., un mariage avec Laenor Velaryon en la menaçant de revenir sur sa succession ; il fait partager une nourrice à son petit-fils Jacaerys et à son fils Daeron. Quand la rumeur donne Harwin Strong pour père aux enfants de Rhaenyra, il décrète qu'on coupera la langue à quiconque la répète. Tant qu'il vit, la paix tient.",
+        "en": "In 106 AC Viserys married Alicent Hightower, his Hand's daughter, in preference to Laena Velaryon. She bore him Aegon, Helaena, Aemond and Daeron. The king changed nothing in the order of succession, which he considered settled. Otto Hightower pressed him so hard that he was sent back to Oldtown and replaced by Lord Lyonel Strong. In 111 AC, at the tourney for the fifth anniversary of the marriage, the colours worn by the queen and the princess gave their names to the greens and the blacks.\n\nViserys spent the rest of his reign soothing a quarrel he refused to settle. He exiled Daemon a second time; in 114 AC he forced on Rhaenyra a marriage with Laenor Velaryon by threatening to revisit her succession; he had his grandson Jacaerys and his son Daeron share a wet nurse. When rumour named Harwin Strong as the father of Rhaenyra's children, he decreed that anyone who repeated it would lose his tongue. As long as he lived, the peace held."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "viserys-i-mort",
+      "heading": {
+        "fr": "Déclin et mort",
+        "en": "Decline and Death"
+      },
+      "body": {
+        "fr": "Avec l'âge, l'embonpoint du roi lui vaut la goutte, des douleurs et le souffle court. En 126 apr. C., à l'issue d'une audience où il a fait couper la langue à des Velaryon qui contestaient la légitimité des fils de Rhaenyra, il s'entaille la main jusqu'à l'os sur le Trône de Fer. La plaie s'infecte ; on ne le sauve qu'en lui ôtant deux doigts. Il ne s'assied plus jamais sur le trône. Pendant ces années, Otto Hightower, rappelé comme Main en 120 apr. C., remplit le conseil de partisans de la reine.\n\nViserys meurt dans son sommeil le troisième jour du troisième mois de 129 apr. C., après avoir raconté une histoire à ses petits-enfants et s'être plaint d'une oppression dans la poitrine. Alicent tait sa mort pendant que le conseil restreint décide de couronner Aegon, et la nouvelle n'est rendue publique qu'au bout d'une semaine. Le roi qui n'avait jamais voulu choisir laissait deux héritiers, chacun appuyé sur un acte de son règne.",
+        "en": "With age the king's girth brought him gout, aches and shortness of breath. In 126 AC, at the end of an audience in which he had ordered the tongues of some Velaryons removed for disputing the legitimacy of Rhaenyra's sons, he cut his hand to the bone on the Iron Throne. The wound festered; he was saved only by the removal of two fingers. He never sat the throne again. Throughout these years Otto Hightower, recalled as Hand in 120 AC, filled the council with the queen's partisans.\n\nViserys died in his sleep on the third day of the third month of 129 AC, after telling his grandchildren a story and complaining of a tightness in his chest. Alicent kept his death secret while the small council resolved to crown Aegon, and the news was made public only after a week. The king who had never wished to choose left two heirs, each resting on an act of his reign."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "tpatq"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "balerion"
+  ],
+  "eventIds": [
+    "p4-mort-balerion",
+    "p4-grand-conseil-101",
+    "p4-avenement-viserys",
+    "p4-degres-de-pierre",
+    "p5-rhaenyra-heritiere",
+    "p5-alicent",
+    "p5-verts-noirs",
+    "p5-mariage-laenor",
+    "p5-printemps-rouge",
+    "p5-mort-viserys"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "La cause du second exil de Daemon, en 111 apr. C., est contestée : le grand mestre Runciter parle d'une simple querelle entre frères, la rumeur d'une liaison avec Rhaenyra. La paternité des fils de Rhaenyra n'a jamais été établie. L'incendie de Harrenhal, en 120 apr. C., qui tua Lyonel et Harwin Strong, fut attribué par la rumeur à Daemon, à Corlys Velaryon, à Larys Strong, et même au roi. Pendant la guerre, Perkin la Puce présenta son écuyer Trystane comme un bâtard de Viserys, sans preuve.",
+    "en": "The cause of Daemon's second exile in 111 AC is disputed: Grand Maester Runciter speaks of a simple quarrel between brothers, rumour of an affair with Rhaenyra. The paternity of Rhaenyra's sons was never established. The fire at Harrenhal in 120 AC, which killed Lyonel and Harwin Strong, was laid by rumour at the door of Daemon, Corlys Velaryon, Larys Strong, and even the king. During the war, Perkin the Flea presented his squire Trystane as a bastard of Viserys, without proof."
+  },
+  "adaptation": {
+    "fr": "Dans House of the Dragon, Viserys tient de ses ancêtres un songe d'Aegon le Conquérant qu'il transmet à Rhaenyra, et Alicent prend ses derniers mots, qui portaient sur ce songe, pour un vœu en faveur de leur fils Aegon ; rien de cela ne figure dans les livres. La série montre aussi une lente décomposition du corps du roi, là où les livres parlent de goutte, d'embonpoint et de deux doigts perdus.",
+    "en": "In House of the Dragon, Viserys has inherited from his forebears a dream of Aegon the Conqueror, which he passes on to Rhaenyra, and Alicent takes his last words, which concerned that dream, for a wish in favour of their son Aegon; none of this appears in the books. The series also shows the king's body slowly rotting away, whereas the books speak of gout, girth and two lost fingers."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys I"
+    },
+    {
+      "id": "trp"
+    },
+    {
+      "id": "tpatq"
+    },
+    {
+      "id": "hotd",
+      "locator": "saison 1, épisodes 1 et 8"
+    }
+  ]
+}

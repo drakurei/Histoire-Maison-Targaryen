@@ -1,0 +1,195 @@
+/*
+ * La table des volumes, sur la grille de 10 colonnes du folio : le chiffre suspendu dans les
+ * colonnes 1 et 2, le titre et sa phrase de 3 à 8, les années et les dragons en marge (9 et
+ * 10). Le blanc sépare les volumes ; aucun filet. Toute la ligne mène au volume.
+ */
+.feuillet {
+  padding-bottom: var(--e6);
+}
+
+.volumes {
+  display: grid;
+  row-gap: var(--e5);
+  margin-top: var(--e6);
+}
+
+.volume {
+  position: relative;
+  display: grid;
+  grid-template-columns: 3rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: baseline;
+}
+
+.chiffre {
+  grid-row: 1 / span 2;
+  font-family: var(--f-lettrine);
+  font-weight: 600;
+  font-size: 2.4rem;
+  line-height: 0.9;
+  letter-spacing: -0.04em;
+  color: var(--v3-rubrique);
+  text-align: end;
+}
+
+.corps {
+  min-width: 0;
+}
+
+.titre {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--v3-texte);
+}
+
+.lien {
+  color: inherit;
+  text-decoration: none;
+}
+
+.lien::after {
+  content: '';
+  position: absolute;
+  inset: -0.5rem -0.75rem;
+}
+
+.lien:focus-visible {
+  outline: none;
+}
+
+.lien:focus-visible::after {
+  outline: 2px solid var(--v3-rubrique);
+}
+
+.hv {
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.14em;
+  text-decoration-color: transparent;
+  transition: text-decoration-color var(--d-geste-court) var(--c-expo);
+}
+
+.volume:hover .hv {
+  text-decoration-color: var(--v3-rubrique);
+}
+
+.glose {
+  display: block;
+  margin-top: 0.3em;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: var(--v3-texte-2);
+}
+
+.phrase {
+  max-width: 36em;
+  margin-top: var(--e3);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.55;
+  color: var(--v3-texte);
+  hyphens: auto;
+  font-variant-numeric: oldstyle-nums;
+}
+
+.marge {
+  grid-column: 2;
+  display: grid;
+  gap: var(--e1);
+  margin-top: var(--e3);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.35;
+  color: var(--v3-texte-2);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.annees {
+  font-weight: 700;
+  color: var(--v3-texte);
+}
+
+.dragons[data-vide] {
+  font-style: italic;
+}
+
+.registres {
+  margin-top: var(--e7);
+}
+
+.liste {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 13rem), 1fr));
+  gap: var(--e3) var(--gouttiere);
+  margin-top: var(--e5);
+}
+
+.registre {
+  display: inline-flex;
+  flex-direction: column;
+  min-height: 2.75rem;
+  padding-block: var(--e2);
+  color: var(--v3-texte);
+  text-decoration: none;
+}
+
+.registreNom {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.14em;
+  text-decoration-color: var(--v3-rubrique);
+}
+
+.registre:hover .registreNom {
+  text-decoration-thickness: 3px;
+  text-decoration-color: var(--v3-texte);
+}
+
+.registreGlose {
+  display: block;
+  margin-top: 0.35em;
+  font-family: var(--f-recit);
+  font-size: var(--t-1);
+  font-style: italic;
+  color: var(--v3-texte-2);
+}
+
+@media (width >= 1024px) {
+  .volumes {
+    grid-template-columns: subgrid;
+    row-gap: var(--e6);
+  }
+
+  .volume {
+    grid-column: 1 / -1;
+    grid-template-columns: subgrid;
+    column-gap: var(--gouttiere);
+  }
+
+  .chiffre {
+    grid-column: 1 / 3;
+    grid-row: 1;
+    font-size: clamp(3rem, 4.2vw, 4.4rem);
+  }
+
+  .corps {
+    grid-column: 3 / 9;
+  }
+
+  .marge {
+    grid-column: 9 / 11;
+    grid-row: 1;
+    margin-top: 0.4em;
+  }
+}

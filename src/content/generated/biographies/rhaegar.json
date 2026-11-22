@@ -1,0 +1,213 @@
+{
+  "personId": "rhaegar",
+  "titles": [
+    {
+      "fr": "Prince de Peyredragon",
+      "en": "Prince of Dragonstone"
+    },
+    {
+      "fr": "Chevalier",
+      "en": "Knight"
+    }
+  ],
+  "lead": {
+    "fr": "Fils aîné d'Aerys II et héritier du trône, Rhaegar naquit dans l'incendie de Lestival en 259 apr. C. et mourut au Trident en 283 apr. C. ; sa disparition avec Lyanna Stark avait ouvert la guerre qui emporta sa maison.",
+    "en": "The eldest son of Aerys II and heir to the throne, Rhaegar was born in the fire at Summerhall in 259 AC and died on the Trident in 283 AC; his disappearance with Lyanna Stark had opened the war that swept his house away."
+  },
+  "sections": [
+    {
+      "id": "rhaegar-jeunesse",
+      "heading": {
+        "fr": "Né à Lestival",
+        "en": "Born at Summerhall"
+      },
+      "body": {
+        "fr": "Rhaegar naît à Lestival en 259 apr. C., le jour même où l'incendie emporte son arrière-grand-père Aegon V. Enfant, il lit tant qu'on s'en moque à la cour, et personne ne le croit fait pour les armes. Puis quelque chose qu'il a lu le décide : il se présente au maître d'armes, ser Willem Darry, et lui annonce qu'il lui faut devenir guerrier. Armé chevalier à dix-sept ans, il se révèle redoutable, bien qu'il entre rarement en lice et sans plaisir apparent.\n\nIl aime aller seul dans les ruines de Lestival avec sa harpe, et il en revient avec des chansons qui font pleurer. Ses proches sont Arthur Dayne, l'Épée du Matin, son plus ancien ami, Jon Connington, et ses anciens écuyers Myles Mooton et Richard Lonmouth. Le peuple l'acclame plus fort que le roi et que sa Main. Mestre Aemon, avec qui il correspond, voit en lui le prince promis, idée que Rhaegar partage d'abord.",
+        "en": "Rhaegar was born at Summerhall in 259 AC, on the very day the fire carried off his great-grandfather Aegon V. As a child he read so much that the court made fun of him, and no one thought him made for arms. Then something he read decided him: he went to the master-at-arms, Ser Willem Darry, and told him that he would have to become a warrior. Knighted at seventeen, he proved formidable, though he seldom entered the lists and seemed to take no pleasure in it.\n\nHe liked to go alone to the ruins of Summerhall with his harp, and came back with songs that moved listeners to tears. His closest companions were Arthur Dayne, the Sword of the Morning, his oldest friend, Jon Connington, and his former squires Myles Mooton and Richard Lonmouth. The people cheered him louder than the king and his Hand. Maester Aemon, with whom he corresponded, saw in him the prince that was promised, an idea Rhaegar at first shared."
+      },
+      "sources": [
+        {
+          "id": "asos",
+          "locator": "Daenerys I (ch. 8)"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell IV (ch. 35)"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        }
+      ]
+    },
+    {
+      "id": "rhaegar-mariage",
+      "heading": {
+        "fr": "Un mariage dornien",
+        "en": "A Dornish Marriage"
+      },
+      "body": {
+        "fr": "Aucune sœur ni parente de sang valyrien n'est en âge de l'épouser. En 276 apr. C., au tournoi de Port-Lannis, Aerys refuse la main de Cersei Lannister que Tywin lui propose ; Steffon Baratheon part ensuite chercher en Essos une épouse de vieille souche valyrienne, revient bredouille et périt en mer au retour. Rhaegar est finalement promis, au début de 279 apr. C., à Elia Martell, sœur du prince de Dorne, et l'épouse l'année suivante au Grand Septuaire de Baelor. Le roi, qui craint un attentat, n'assiste pas aux noces.\n\nLe couple s'installe à Peyredragon. Rhaenys naît en 280 apr. C., Aegon à la fin de 281 ou au début de 282. Elia manque mourir à la seconde naissance, et les mestres annoncent qu'elle n'aura plus d'enfant. Rhaegar voit désormais dans son fils, conçu sous une comète, le prince promis. À la cour, un parti du prince se forme face à celui du roi, et le Grand Mestre Pycelle craint une guerre comparable à la Danse des Dragons.",
+        "en": "No sister or kinswoman of Valyrian blood was of an age to marry him. In 276 AC, at the tourney at Lannisport, Aerys refused the hand of Cersei Lannister that Tywin offered; Steffon Baratheon then went to Essos to seek a bride of old Valyrian stock, returned empty-handed and drowned on the way home. Rhaegar was at last betrothed, early in 279 AC, to Elia Martell, sister of the Prince of Dorne, and married her the following year in the Great Sept of Baelor. The king, fearing assassination, stayed away.\n\nThe couple settled on Dragonstone. Rhaenys was born in 280 AC, Aegon at the end of 281 or the start of 282. Elia nearly died at the second birth, and the maesters said she would bear no more children. Rhaegar now saw in his son, conceived beneath a comet, the prince that was promised. At court a prince's party formed against the king's, and Grand Maester Pycelle feared a war like the Dance of the Dragons."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: The Year of the False Spring"
+        }
+      ]
+    },
+    {
+      "id": "rhaegar-harrenhal",
+      "heading": {
+        "fr": "Harrenhal",
+        "en": "Harrenhal"
+      },
+      "body": {
+        "fr": "Le grand tournoi de Harrenhal, en 281 apr. C., aurait été financé en secret par Rhaegar, désireux d'y réunir les seigneurs pour envisager d'écarter son père ; Varys en avertit le roi, qui décide d'y venir. Le premier soir, le prince chante, et Lyanna Stark pleure. Dans les joutes, il renverse tour à tour Brandon Stark, quatre chevaliers de la Garde Royale, dont Arthur Dayne, puis ser Barristan Selmy dans la dernière joute. Vainqueur, il passe devant sa femme et dépose la couronne de roses d'hiver de la reine d'amour et de beauté sur les genoux de Lyanna, promise à Robert Baratheon.\n\nAu début de l'année suivante, peu après la naissance d'Aegon, Rhaegar quitte Peyredragon avec quelques compagnons et disparaît avec Lyanna, non loin de Harrenhal. Les Stark et Robert parlent d'enlèvement ; ce qu'il en fut réellement, les livres ne le disent pas. Brandon Stark court à Port-Réal défier le prince absent, et la mort que lui inflige Aerys jette le royaume dans la guerre.",
+        "en": "The great tourney at Harrenhal in 281 AC is said to have been secretly paid for by Rhaegar, who wanted to gather the lords there to consider setting his father aside; Varys warned the king, who decided to attend. On the first night the prince sang, and Lyanna Stark wept. In the jousts he unhorsed in turn Brandon Stark, four knights of the Kingsguard, Arthur Dayne among them, and then Ser Barristan Selmy in the final tilt. Victorious, he rode past his wife and laid the crown of winter roses of the queen of love and beauty in the lap of Lyanna, who was promised to Robert Baratheon.\n\nEarly the next year, shortly after Aegon's birth, Rhaegar left Dragonstone with a few companions and vanished with Lyanna not far from Harrenhal. The Starks and Robert spoke of abduction; what truly happened, the books do not say. Brandon Stark rode to King's Landing to challenge the absent prince, and the death Aerys dealt him threw the realm into war."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: The Year of the False Spring"
+        },
+        {
+          "id": "asos",
+          "locator": "Bran II (ch. 24)"
+        }
+      ]
+    },
+    {
+      "id": "rhaegar-trident",
+      "heading": {
+        "fr": "Le Trident",
+        "en": "The Trident"
+      },
+      "body": {
+        "fr": "Pendant les premiers mois de la guerre, Rhaegar reste introuvable ; certains pensent qu'il se trouvait avec Lyanna dans une tour des montagnes de Dorne, que gardaient trois chevaliers de la Garde Royale. Ser Gerold Hightower est envoyé le chercher. Après la défaite de Jon Connington aux Cloches, il revient prendre le commandement de l'armée royale et laisse Jaime Lannister veiller sur le roi et sur sa famille. Il confie alors à Jaime qu'une fois la bataille gagnée, il entend réunir un conseil et changer bien des choses.\n\nEn 283 apr. C., les deux armées se rencontrent à un gué du Trident. Rhaegar et Robert s'y affrontent dans le courant ; le prince blesse son adversaire, mais un coup de masse lui enfonce la poitrine et disperse dans l'eau les rubis de son armure. Pendant que les soldats des deux camps les cherchent à tâtons dans l'eau, le lieu reçoit le nom qu'il porte encore, le gué des rubis. Peu après, sa femme et ses enfants sont tués au sac de Port-Réal.",
+        "en": "In the first months of the war Rhaegar could not be found; some believe he was with Lyanna in a tower in the mountains of Dorne, guarded by three knights of the Kingsguard. Ser Gerold Hightower was sent to fetch him. After Jon Connington's defeat at the Bells, he returned to take command of the royal army and left Jaime Lannister to watch over the king and his family. He told Jaime then that once the battle was won he meant to call a council and change a great many things.\n\nIn 283 AC the two armies met at a ford of the Trident. Rhaegar and Robert fought in the stream; the prince wounded his opponent, but a blow from a warhammer stove in his chest and scattered the rubies of his armour into the water. While soldiers of both sides groped for them in the water, the place got its name: the ruby ford. Soon afterwards his wife and children were killed in the sack of King's Landing."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: Robert's Rebellion"
+        },
+        {
+          "id": "affc",
+          "locator": "Jaime I (ch. 8)"
+        },
+        {
+          "id": "agot",
+          "locator": "Eddard XV (ch. 58)"
+        }
+      ]
+    },
+    {
+      "id": "rhaegar-memoire",
+      "heading": {
+        "fr": "Une mémoire disputée",
+        "en": "A Disputed Memory"
+      },
+      "body": {
+        "fr": "La mémoire de Rhaegar divise. Pour Robert Baratheon, il reste l'homme qui a enlevé et violé Lyanna, et il le tue encore en rêve des années après. Barristan Selmy, qui a combattu à ses côtés au Trident, en parle avec respect. Viserys, en exil, reprochait à sa sœur d'être née trop tard : Rhaegar aurait pu l'épouser et n'aurait jamais regardé Lyanna. Kevan Lannister pense, lui, que rien ne serait arrivé si Aerys avait accepté Cersei pour belle-fille.\n\nDans la Maison des Nonmourants, à Qarth, Daenerys voit un prince qui lui ressemble, près d'une femme qui allaite un enfant nommé Aegon. Il parle du prince promis et d'une chanson de glace et de feu, puis ajoute qu'il en faut un de plus, car le dragon a trois têtes. La vision ne dit ni qui est la femme, ni ce que signifie cette troisième tête, et la question reste ouverte à la fin des livres parus.",
+        "en": "Rhaegar's memory divides people. For Robert Baratheon he remained the man who had abducted and raped Lyanna, and Robert was still killing him in his dreams years later. Barristan Selmy, who had fought beside him on the Trident, speaks of him with respect. Viserys, in exile, blamed his sister for being born too late: Rhaegar could have married her and would never have looked at Lyanna. Kevan Lannister, for his part, thinks none of it would have happened if Aerys had accepted Cersei as a daughter-in-law.\n\nIn the House of the Undying at Qarth, Daenerys sees a prince who resembles her, beside a woman nursing a child named Aegon. He speaks of the prince that was promised and of a song of ice and fire, then adds that there must be one more, for the dragon has three heads. The vision does not say who the woman is or what the third head means, and the question remains open at the end of the published books."
+      },
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Eddard I (ch. 4)"
+        },
+        {
+          "id": "asos",
+          "locator": "Daenerys IV (ch. 42)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Epilogue"
+        },
+        {
+          "id": "acok",
+          "locator": "Daenerys IV (ch. 48)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-lestival",
+    "p7-port-lannis",
+    "p7-rhaegar-elia",
+    "p7-harrenhal-281",
+    "p7-lyanna",
+    "p7-tour-de-la-joie",
+    "p7-trident",
+    "p8-qarth",
+    "tv-p8-jon"
+  ],
+  "warIds": [
+    "rebellion-de-robert"
+  ],
+  "disputed": {
+    "fr": "Les motifs de Rhaegar restent inconnus : enlèvement selon les Stark et Robert, amour partagé selon d'autres témoins, sans que les livres parus tranchent. On ignore s'il voulait vraiment faire de Harrenhal un conseil contre son père. Aucun livre paru n'établit de mariage avec Lyanna ni d'enfant né d'elle.",
+    "en": "Rhaegar's motives remain unknown: abduction according to the Starks and Robert, shared love according to other witnesses, and the published books do not decide. Whether he truly meant Harrenhal to become a council against his father is unknown. No published book establishes a marriage to Lyanna or a child born of her."
+  },
+  "adaptation": {
+    "fr": "Dans Game of Thrones, Rhaegar fait annuler son mariage avec Elia et épouse Lyanna en secret ; leur fils, élevé sous le nom de Jon Snow, s'appellerait en réalité Aegon Targaryen. Rien de cela ne figure dans les livres parus.",
+    "en": "In Game of Thrones Rhaegar has his marriage to Elia annulled and marries Lyanna in secret; their son, raised as Jon Snow, is said to be really named Aegon Targaryen. None of this appears in the published books."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Fall of the Dragons: The Year of the False Spring"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Fall of the Dragons: Robert's Rebellion"
+    },
+    {
+      "id": "agot",
+      "locator": "Eddard XV (ch. 58)"
+    },
+    {
+      "id": "acok",
+      "locator": "Daenerys IV (ch. 48)"
+    },
+    {
+      "id": "asos",
+      "locator": "Daenerys I (ch. 8)"
+    },
+    {
+      "id": "affc",
+      "locator": "Jaime I (ch. 8)"
+    },
+    {
+      "id": "affc",
+      "locator": "Samwell IV (ch. 35)"
+    },
+    {
+      "id": "agot",
+      "locator": "Eddard I (ch. 4)"
+    },
+    {
+      "id": "asos",
+      "locator": "Daenerys IV (ch. 42)"
+    },
+    {
+      "id": "adwd",
+      "locator": "Epilogue"
+    },
+    {
+      "id": "got",
+      "locator": "Seasons 6 and 7"
+    }
+  ]
+}

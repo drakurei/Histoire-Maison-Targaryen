@@ -53,7 +53,7 @@ describe('formatSpan', () => {
   });
 
   it('dit ce qu’il sait quand une borne manque', () => {
-    expect(formatSpan(null, -102, 'fr')).toBe(`jusqu'en 102${NBSP}av.${NBSP}C.`);
+    expect(formatSpan(null, -102, 'fr')).toBe(`jusqu’en 102${NBSP}av.${NBSP}C.`);
     expect(formatSpan(null, -102, 'en')).toBe(`until 102${NBSP}BC`);
     expect(formatSpan(42, null, 'fr')).toBe(`à partir de 42${NBSP}apr.${NBSP}C.`);
     expect(formatSpan(42, undefined, 'en')).toBe(`from 42${NBSP}AC`);

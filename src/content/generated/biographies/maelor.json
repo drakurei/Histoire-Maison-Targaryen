@@ -1,0 +1,140 @@
+{
+  "personId": "maelor",
+  "titles": [
+    {
+      "fr": "Prince",
+      "en": "Prince"
+    },
+    {
+      "fr": "Héritier d'Aegon II",
+      "en": "Heir to Aegon II"
+    }
+  ],
+  "lead": {
+    "fr": "Plus jeune fils d'Aegon II et d'Helaena, Maelor survécut à Sang et Fromage, devint l'héritier de son père et fut tué à trois ans à Pont-l'Amer, en 130 apr. C., pendant sa fuite vers Villevieille.",
+    "en": "Youngest son of Aegon II and Helaena, Maelor survived Blood and Cheese, became his father's heir, and was killed at the age of three at Bitterbridge in 130 AC while fleeing towards Oldtown."
+  },
+  "sections": [
+    {
+      "id": "maelor-enfance",
+      "heading": {
+        "fr": "Le plus jeune",
+        "en": "The Youngest"
+      },
+      "body": {
+        "fr": "Maelor naît en 127 apr. C., troisième enfant d'Aegon et d'Helaena. Il a deux ans lorsque sa mère le conduit, avec les jumeaux, auprès de Viserys, le troisième jour du troisième mois de 129 apr. C. ; pendant que le roi raconte une histoire aux aînés, on donne au petit, pour l'occuper, une bague de perle tirée du doigt du souverain. Viserys meurt dans la nuit. Le couronnement de son père fait de Maelor le deuxième dans l'ordre de succession des verts, derrière son frère Jaehaerys.\n\nContrairement à ses aînés, il n'a pas de dragon. Il possède un œuf, qui le suivra dans sa fuite et dont aucune source ne dit qu'il ait éclos. Rien d'autre n'est rapporté de sa petite enfance. Son histoire, telle que les chroniques la transmettent, tient presque entière dans l'année qui suit la mort de son grand-père : celle d'un enfant que deux camps se disputent.",
+        "en": "Maelor was born in 127 AC, the third child of Aegon and Helaena. He was two when his mother took him, with the twins, to see Viserys on the third day of the third month of 129 AC; while the king told the older children a story, the little one was given a pearl ring from the king's finger to keep him busy. Viserys died that night. His father's coronation made Maelor second in the greens' line of succession, behind his brother Jaehaerys.\n\nUnlike his elders he had no dragon. He owned an egg, which would follow him in his flight and which no source says ever hatched. Nothing else is recorded of his early childhood. His story, as the chronicles hand it down, lies almost entirely within the year that followed his grandfather's death: the story of a child fought over by two sides."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "id": "maelor-sang-et-fromage",
+      "heading": {
+        "fr": "Le nom prononcé",
+        "en": "The Name Spoken"
+      },
+      "body": {
+        "fr": "Le soir où Sang et Fromage attendent la famille dans les appartements d'Alicent, c'est Maelor que Fromage saisit le premier. Sommée de désigner le fils qui doit mourir, Helaena finit par le nommer, le jugeant trop jeune pour comprendre. Les tueurs choisissent pourtant Jaehaerys, après avoir dit au petit que sa mère le voulait mort.\n\nMaelor devient l'héritier de son père, mais sa mère ne supporte plus sa présence, puisqu'elle l'avait désigné. Aegon II le retire à Helaena et le confie à Alicent, qui l'élève comme son propre fils. La mort de Jaehaerys fait de lui le seul fils légitime vivant du roi, ce qui le rend plus précieux, et plus exposé. Il reste auprès de sa grand-mère jusqu'à la chute de la ville, en 130 apr. C., tandis que son père, gravement brûlé à Repos-du-Freux, ne quitte plus son lit et que son oncle Aemond gouverne.",
+        "en": "On the evening Blood and Cheese waited for the family in Alicent's apartments, it was Maelor whom Cheese seized first. Ordered to name the son who must die, Helaena at last named him, judging him too young to understand. The killers chose Jaehaerys all the same, after telling the little boy that his mother wanted him dead.\n\nMaelor became his father's heir, but his mother could no longer bear to have him near, since she had named him. Aegon II took him from Helaena and gave him to Alicent, who raised him as her own son. Jaehaerys's death made him the king's only living trueborn son, which made him more precious, and more exposed. He stayed with his grandmother until the fall of the city in 130 AC, while his father, badly burned at Rook's Rest, kept to his bed and his uncle Aemond ruled."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "id": "maelor-pont-l-amer",
+      "heading": {
+        "fr": "Pont-l'Amer",
+        "en": "Bitterbridge"
+      },
+      "body": {
+        "fr": "En 130 apr. C., quand Rhaenyra s'empare de Port-Réal, Larys Strong fait sortir Maelor avec son père et sa sœur. Ser Rickard Thorne, de la Garde Royale, doit le mener à Villevieille. À Pont-l'Amer, tenu par les noirs, le chevalier se fait passer pour le père de l'enfant et n'obtient qu'une place à l'écurie d'une auberge mal famée. Pendant qu'on le fait boire, un garçon d'écurie fouille ses affaires et trouve, enveloppé dans le manteau blanc, l'œuf de dragon du prince.\n\nThorne s'enfuit avec Maelor et tue l'aubergiste au passage, mais tombe sous les carreaux d'arbalète sur le pont de pierre de la ville, l'enfant serré contre lui. Une lavandière l'arrache à ses bras. La foule se dispute alors son sort : le porter à Port-Réal pour la récompense de Rhaenyra, ou au camp vert tout proche, qui paierait peut-être davantage. Quand lady Caswell arrive avec ses chevaliers, l'enfant est mort.",
+        "en": "In 130 AC, when Rhaenyra seized King's Landing, Larys Strong got Maelor out with his father and sister. Ser Rickard Thorne of the Kingsguard was to take him to Oldtown. At Bitterbridge, held by the blacks, the knight passed himself off as the child's father and could get only a place in the stables of a disreputable inn. While he was plied with drink, a stableboy went through his belongings and found the prince's dragon egg, wrapped in the white cloak.\n\nThorne fled with Maelor, killing the innkeeper on his way out, but fell to crossbow bolts on the town's stone bridge, the child clutched to him. A washerwoman tore the boy from his arms. The crowd then argued over his fate: carry him to King's Landing for Rhaenyra's reward, or to the nearby green camp, which might pay more. By the time Lady Caswell arrived with her knights, the child was dead."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        }
+      ]
+    },
+    {
+      "id": "maelor-posterite",
+      "heading": {
+        "fr": "La tête et l'œuf",
+        "en": "The Head and the Egg"
+      },
+      "body": {
+        "fr": "Lady Caswell fait pendre les coupables et envoie à Rhaenyra le corps de Thorne et la tête du prince, à lord Ormund Hightower l'œuf de dragon, dans l'espoir d'apaiser sa colère. Champignon dit que la reine pleura devant la tête, Eustace qu'elle sourit ; elle la fit en tout cas brûler selon l'usage de la maison. La ville raconta bientôt qu'elle l'avait fait porter à Helaena dans un pot de chambre, rumeur que certains attribuent à Larys Strong.\n\nL'armée verte arrive peu après. Lady Caswell offre de se rendre contre un sauf-conduit ; le prince Daeron, furieux de la mort de son neveu, refuse toute merci. Pont-l'Amer est pillée et brûlée, ses habitants tués ou noyés dans la Mander, et lady Caswell se pend à la porte de son château après avoir demandé la vie de ses enfants. Eustace pense que le récit de la mort de Maelor, fait à Helaena par Mysaria, poussa la reine à se tuer.",
+        "en": "Lady Caswell hanged the guilty and sent Thorne's body and the prince's head to Rhaenyra, and the dragon egg to Lord Ormund Hightower in the hope of appeasing his anger. Mushroom says the queen wept before the head, Eustace that she smiled; in any case she had it burned according to the custom of the house. The city soon claimed that she had sent it to Helaena in a chamber pot, a rumour some attribute to Larys Strong.\n\nThe green army arrived soon afterwards. Lady Caswell offered to yield in return for safe conduct; Prince Daeron, furious at his nephew's death, refused all mercy. Bitterbridge was sacked and burned, its people killed or drowned in the Mander, and Lady Caswell hanged herself from her castle gate after pleading for her children's lives. Eustace believes that the account of Maelor's death, given to Helaena by Mysaria, drove the queen to take her own life."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p5-mort-viserys",
+    "p5-sang-et-fromage",
+    "p5-repos-des-freux",
+    "p5-chute-port-real"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "La manière dont il mourut n'est pas établie. Selon Champignon, la lavandière l'étouffa sans le vouloir en le serrant contre elle ; selon Eustace, un boucher le coupa en six morceaux pour que chacun ait sa part ; selon Munkun, la foule le mit en pièces. La réaction de Rhaenyra devant sa tête est rapportée de deux façons contraires.",
+    "en": "How he died is not established. According to Mushroom, the washerwoman crushed him without meaning to as she held him; according to Eustace, a butcher cut him into six pieces so that everyone might have a share; according to Munkun, the mob tore him apart. Rhaenyra's reaction before his head is reported in two opposite ways."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: A Son for a Son"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+    },
+    {
+      "id": "tpatq"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon II"
+    }
+  ]
+}

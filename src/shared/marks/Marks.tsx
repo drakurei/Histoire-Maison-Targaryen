@@ -73,7 +73,17 @@ export function ReliabilityGlyph({ level, ...rest }: GlyphProps & { level: Relia
  * La couronne d'Aegon le Conquérant telle que les livres la décrivent :
  * un simple bandeau d'acier valyrien serti de rubis carrés. Pas de fleurons.
  */
-export function CrownGlyph(props: GlyphProps) {
+export function CrownGlyph({ variant = 'band', ...props }: GlyphProps & { variant?: 'band' | 'legible' }) {
+  if (variant === 'legible') {
+    // Variante lisible (audit V2 n° 16) : en dessous de 20 px, le bandeau serti se lit comme
+    // un rectangle. Bandeau plein à trois pointes et socle : reconnaissable dès 12 px.
+    return (
+      <Svg {...props}>
+        <path d="M1.75 12.5V4.25L5 8l3-5.25L11 8l3.25-3.75v8.25z" fill="currentColor" stroke="none" />
+        <path d="M1.75 14h12.5" />
+      </Svg>
+    );
+  }
   return (
     <Svg {...props}>
       <path d="M1.75 5.25h12.5v5.5H1.75z" />

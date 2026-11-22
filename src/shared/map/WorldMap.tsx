@@ -61,10 +61,26 @@ export interface WorldMapProps {
   showSeas?: boolean;
   /** Lignes de crête tracées comme un mur. */
   wallIds?: readonly string[];
+  /**
+   * Diamètre de la zone de toucher d'un signe, en pixels d'écran (22 par défaut). 44 pour
+   * une carte qu'on touche du doigt (audit V2 n° 17) : la zone déborde le signe, pas le dessin.
+   */
+  hit?: number;
   className?: string;
 }
 
 const DEFAULT_WALLS = ['le-mur'];
+
+/** Clé de comparaison de deux noms : sans casse, sans accents, sans article initial. */
+function sameName(text: string): string {
+  return text
+    .normalize('NFD')
+    .replace(/\p{M}/gu, '')
+    .toLowerCase()
+    .replace(/^(?:la |le |les |l'|l’|the )/, '')
+    .trim();
+}
+
 const ZOOM_STEP = 1.6;
 const PAN_STEP = 0.14;
 const DRAG_THRESHOLD = 4;
@@ -112,6 +128,7 @@ export function WorldMap({
   showRegions = true,
   showSeas = true,
   wallIds = DEFAULT_WALLS,
+  hit = 22,
   className,
 }: WorldMapProps) {
   const tx = useTx();
@@ -340,8 +357,12 @@ export function WorldMap({
       const [x, y] = toScreen(at);
       return { id, x, y: y - fontSize * 0.36, width: estimateTextWidth(text, fontSize), height: fontSize * 1.2, priority, anchor: 'center' };
     };
-    if (showRegions) for (const region of map.regions) candidates.push(fixed(`region:${region.id}`, region.at, tx(region.name), REGION_SIZE, REGION_PRIORITY));
-    if (showSeas) for (const sea of map.seas) candidates.push(fixed(`sea:${sea.id}`, sea.at, tx(sea.name), SEA_SIZE, SEA_PRIORITY));
+    // Une mer ou une contrée qui porte le nom d'un lieu posé (la baie de la Néra, lieu d'une
+    // bataille) n'est écrite qu'une fois : par le lieu.
+    const named = new Set(places.map((place) => sameName(place.name)));
+    const free = (text: string) => !named.has(sameName(text));
+    if (showRegions) for (const region of map.regions) if (free(tx(region.name))) candidates.push(fixed(`region:${region.id}`, region.at, tx(region.name), REGION_SIZE, REGION_PRIORITY));
+    if (showSeas) for (const sea of map.seas) if (free(tx(sea.name))) candidates.push(fixed(`sea:${sea.id}`, sea.at, tx(sea.name), SEA_SIZE, SEA_PRIORITY));
     return placeLabels(candidates, size, obstacles);
   }, [view, size, aspect, ppu, places, highlightIds, selectedId, map.regions, map.seas, showRegions, showSeas, tx]);
 
@@ -405,7 +426,7 @@ export function WorldMap({
               const accessible = place.detail ? `${place.name}, ${place.detail}` : place.name;
               const body = (
                 <>
-                  <circle className={styles.hit} r={place.mark ? markRadius(place.mark) + 4 : 11} />
+                  <circle className={styles.hit} r={Math.max(hit / 2, place.mark ? markRadius(place.mark) + 4 : 11)} />
                   <PlaceGlyph kind={place.kind} mark={place.mark} />
                   <circle className={styles.focusRing} r={place.mark ? markRadius(place.mark) + 3.5 : 10} />
                   {label ? (

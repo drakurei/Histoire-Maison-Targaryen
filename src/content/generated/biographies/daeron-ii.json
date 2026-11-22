@@ -1,0 +1,189 @@
+{
+  "personId": "daeron-ii",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar, and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+      "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+    },
+    {
+      "fr": "Prince de Peyredragon",
+      "en": "Prince of Dragonstone"
+    }
+  ],
+  "lead": {
+    "fr": "Fils de la reine Naerys et, selon la filiation officielle, d'Aegon IV, Daeron II régna de 184 à 209 apr. C. ; il fit entrer Dorne dans le royaume par un mariage et vainquit la première rébellion Feunoyr.",
+    "en": "The son of Queen Naerys and, by the official line, of Aegon IV, Daeron II reigned from 184 to 209 AC; he brought Dorne into the realm by a marriage and defeated the first Blackfyre rebellion."
+  },
+  "sections": [
+    {
+      "id": "daeron-ii-jeunesse",
+      "heading": {
+        "fr": "Un héritier contesté",
+        "en": "A Questioned Heir"
+      },
+      "body": {
+        "fr": "Daeron naît le dernier jour de 153 apr. C., fils du prince Aegon et de sa sœur Naerys. Sa naissance manque de coûter la vie à sa mère. Enfant, il est avec son oncle Aemon l'un des rares à savoir la faire rire.\n\nLa paix conclue par Baelor Ier avec Dorne prévoit son mariage avec Myriah Martell, fille aînée du prince de Dorne ; Baelor célèbre lui-même l'union quand les deux jeunes gens sont en âge. Leur premier fils, né en 170 apr. C., reçoit le nom de Baelor. Trois autres suivront : Aerys, Rhaegel et Maekar.\n\nPrince de Peyredragon à l'avènement de son père, en 172 apr. C., Daeron devient le principal obstacle à ses projets. Il s'oppose en vain à l'expédition de 174 apr. C. contre Dorne. C'est alors que commencent les accusations contre sa mère, puis, après la mort de celle-ci, les allusions de son père à sa naissance. Il passe les dernières années du règne à Peyredragon, avec sa femme et ses enfants.",
+        "en": "Daeron was born on the last day of 153 AC, the son of Prince Aegon and his sister Naerys. His birth nearly cost his mother her life. As a child he was, with his uncle Aemon, one of the few who knew how to make her laugh.\n\nThe peace Baelor I made with Dorne provided for his marriage to Myriah Martell, the eldest daughter of the Prince of Dorne; Baelor himself performed the wedding when the two were of age. Their first son, born in 170 AC, was named Baelor. Three more followed: Aerys, Rhaegel and Maekar.\n\nPrince of Dragonstone when his father came to the throne in 172 AC, Daeron became the chief obstacle to his plans. He opposed the expedition of 174 AC against Dorne in vain. It was then that the charges against his mother began, and, after her death, his father's hints about his birth. He spent the last years of the reign on Dragonstone with his wife and children."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        }
+      ]
+    },
+    {
+      "id": "daeron-ii-regne",
+      "heading": {
+        "fr": "Réparer le règne précédent",
+        "en": "Repairing the Previous Reign"
+      },
+      "body": {
+        "fr": "À la mort d'Aegon IV, en 184 apr. C., Daeron gagne Port-Réal et se couronne de la couronne de son père, répondant ainsi par un geste aux doutes sur sa naissance. Il renouvelle le conseil restreint en choisissant des hommes capables et passe une année entière à assainir le Guet, aussi corrompu que l'avait été le roi.\n\nIl ne peut revenir sur la légitimation des bâtards de son père et choisit de les traiter avec égards. Il leur conserve leurs revenus, paie à Tyrosh la dot promise pour le mariage de Daemon Feunoyr avec la fille de l'archonte et donne à Daemon, le jour des noces, une terre au bord de la Néra où élever un château. Elaena Targaryen, femme de son maître des monnaies, tient en fait pour lui les finances du royaume.\n\nLettré plus que guerrier, entouré de mestres, de septons et de chanteurs, le roi reçoit du plus grand nombre le surnom de Bon. Les hommes d'épée l'aiment moins.",
+        "en": "When Aegon IV died in 184 AC, Daeron went to King's Landing and crowned himself with his father's crown, answering the doubts about his birth with a gesture. He renewed the small council with capable men and spent a whole year cleansing the City Watch, which was as corrupt as the late king had been.\n\nHe could not undo the legitimisation of his father's bastards, and chose to treat them with respect. He kept up their incomes, paid Tyrosh the dowry promised for Daemon Blackfyre's marriage to the archon's daughter, and gave Daemon, on his wedding day, land on the Blackwater where he might raise a castle. Elaena Targaryen, the wife of his master of coin, in practice ran the realm's finances for him.\n\nMore scholar than warrior, surrounded by maesters, septons and singers, the king was called the Good by most of his subjects. Men of the sword liked him less."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        }
+      ]
+    },
+    {
+      "id": "daeron-ii-dorne",
+      "heading": {
+        "fr": "La paix dornienne",
+        "en": "The Dornish Peace"
+      },
+      "body": {
+        "fr": "L'épouse de Daeron attire à la cour nombre de seigneurs et de dames de Dorne, qui donnent au Donjon Rouge un air étranger. Le roi en tire parti. Pendant deux ans, il négocie avec son beau-frère Maron Martell, prince de Dorne. En 187 apr. C., Maron épouse la princesse Daenerys, sœur du roi, et prête hommage au Trône de Fer. Les deux princes vont ensemble déposer une guirlande d'or au pied de la statue de Baelor le Bienheureux, l'artisan de la première paix.\n\nPour célébrer l'union, Daeron fait bâtir Lestival, un palais à peine fortifié dans les Marches de Dorne. L'accord a ses conditions : Maron garde le titre de prince et lève l'impôt royal sous un contrôle lointain.\n\nCes privilèges, l'influence dornienne à la cour, les traits dorniens de l'héritier Baelor mécontentent les seigneurs des Marches et du Bief, ennemis séculaires des Dorniens. Une partie d'entre eux se tournera vers Daemon Feunoyr, à qui l'on prêtait de l'amour pour Daenerys.",
+        "en": "Daeron's wife drew many Dornish lords and ladies to court, giving the Red Keep a foreign air. The king turned this to account. For two years he negotiated with his good-brother Maron Martell, Prince of Dorne. In 187 AC Maron married Princess Daenerys, the king's sister, and did homage to the Iron Throne. The two princes went together to lay a golden wreath at the foot of the statue of Baelor the Blessed, the maker of the first peace.\n\nTo celebrate the union, Daeron had Summerhall built, a lightly fortified palace in the Dornish Marches. The agreement had its terms: Maron kept the title of prince and collected the royal taxes under distant oversight.\n\nThese privileges, the Dornish influence at court and the Dornish looks of the heir, Baelor, angered the lords of the Marches and the Reach, age-old enemies of the Dornish. Some of them would turn to Daemon Blackfyre, who was said to love Daenerys."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Seven Kingdoms: Dorne, Dorne Against the Dragons"
+        }
+      ]
+    },
+    {
+      "id": "daeron-ii-rebellion",
+      "heading": {
+        "fr": "Le dragon rouge et le dragon noir",
+        "en": "The Red Dragon and the Black"
+      },
+      "body": {
+        "fr": "En 196 apr. C., Daemon Feunoyr revendique la couronne. Averti qu'il compte se déclarer, peut-être par Brynden Rivers, Daeron envoie la Garde Royale l'arrêter ; Daemon s'échappe, et ses partisans présentent la tentative d'arrestation comme une agression. La guerre partage le royaume pendant près d'un an. Les rebelles invoquent la paix dornienne, l'épée Feunoyr remise par Aegon IV et la rumeur selon laquelle Daeron serait né d'un adultère.\n\nLe roi ne combat pas lui-même. Ses fils Baelor et Maekar, son demi-frère Brynden Rivers et les grandes maisons restées fidèles gagnent pour lui la bataille du Champ d'Herberouge, où Daemon et ses deux fils aînés sont tués. Aegor Rivers emmène en exil le reste de la famille et l'épée.\n\nDaeron punit les vaincus en leur prenant terres, châteaux et otages, mais il en laisse vivre beaucoup que d'autres auraient fait exécuter. La suite du règne est paisible. Baelor, devenu Main, gouverne à ses côtés.",
+        "en": "In 196 AC Daemon Blackfyre claimed the crown. Warned that he meant to declare himself, perhaps by Brynden Rivers, Daeron sent the Kingsguard to arrest him; Daemon escaped, and his partisans presented the attempted arrest as an act of aggression. The war divided the realm for nearly a year. The rebels pointed to the Dornish peace, the sword Blackfyre given by Aegon IV, and the rumour that Daeron was born of adultery.\n\nThe king did not fight himself. His sons Baelor and Maekar, his half-brother Brynden Rivers and the great houses that stayed loyal won for him the battle of the Redgrass Field, where Daemon and his two eldest sons were killed. Aegor Rivers took the rest of the family and the sword into exile.\n\nDaeron punished the defeated by taking lands, castles and hostages, but he let many live whom others would have executed. The rest of the reign was peaceful. Baelor, now Hand, governed at his side."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        }
+      ]
+    },
+    {
+      "id": "daeron-ii-mort",
+      "heading": {
+        "fr": "L'année 209",
+        "en": "The Year 209"
+      },
+      "body": {
+        "fr": "En 209 apr. C., la succession semble assurée : Daeron a quatre fils, et l'aîné, Baelor, Main du Roi, passe pour devoir faire un bon roi. Au tournoi de Cendregué, Baelor meurt d'un coup de masse porté par son frère Maekar au cours d'un duel judiciaire à sept.\n\nQuelques mois plus tard éclate le Grand Fléau de Printemps. L'épidémie tue des dizaines de milliers de personnes, surtout à Port-Réal. Le roi en meurt, ainsi que ses petits-fils Valarr et Matarys, les fils de Baelor. Daeron II avait cinquante-cinq ans et régnait depuis vingt-cinq ans.\n\nLa couronne passe à son deuxième fils, Aerys, que rien n'avait préparé à régner. Le jugement de la postérité reste partagé. Pour les uns, Daeron est le roi qui acheva l'unité du royaume sans guerre ; pour d'autres, et d'abord pour les vétérans du dragon noir, il fut un roi trop pacifique, trop lié aux Dorniens et, disaient-ils, faux-né.",
+        "en": "In 209 AC the succession seemed secure: Daeron had four sons, and the eldest, Baelor, the Hand of the King, was expected to make a good king. At the tourney of Ashford Meadow, Baelor died of a mace blow struck by his brother Maekar during a trial of seven.\n\nA few months later the Great Spring Sickness broke out. The epidemic killed tens of thousands, above all in King's Landing. The king died of it, as did his grandsons Valarr and Matarys, Baelor's sons. Daeron II was fifty-five and had reigned for twenty-five years.\n\nThe crown passed to his second son, Aerys, whom nothing had prepared to rule. Posterity's judgement remains divided. For some, Daeron was the king who completed the unity of the realm without war; for others, the veterans of the black dragon first among them, he was too peaceable a king, too close to the Dornish and, as they put it, falseborn."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow, the trial of seven"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-aegon-iv",
+    "p6-union-dorne",
+    "p6-herberouge",
+    "p6-cendregue-209"
+  ],
+  "warIds": [
+    "conquete-de-dorne",
+    "rebellion-feunoyr-1"
+  ],
+  "disputed": {
+    "fr": "Sa paternité n'a jamais été établie au-delà de la filiation officielle : après la mort de la reine et d'Aemon, Aegon IV laissa entendre que Daeron était le fils de ce dernier, et les partisans de Daemon Feunoyr le dirent faux-né. Mestre Kaeth tient l'accusation pour une manœuvre du roi. Le rôle de Brynden Rivers dans l'avertissement de 196 apr. C. n'est qu'une hypothèse d'un historien de la Citadelle.",
+    "en": "His paternity was never established beyond the official line: after the deaths of the queen and Aemon, Aegon IV hinted that Daeron was Aemon's son, and Daemon Blackfyre's partisans called him falseborn. Maester Kaeth regards the charge as the king's own manoeuvre. Brynden Rivers's part in the warning of 196 AC is only the hypothesis of a historian of the Citadel."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Baelor I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon IV"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Seven Kingdoms: Dorne, Dorne Against the Dragons"
+    },
+    {
+      "id": "thk",
+      "locator": "Ashford Meadow, the trial of seven"
+    },
+    {
+      "id": "tss",
+      "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+    },
+    {
+      "id": "tmk",
+      "locator": "Whitewalls"
+    }
+  ]
+}

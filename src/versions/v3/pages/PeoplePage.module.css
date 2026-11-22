@@ -1,0 +1,209 @@
+/* Personnages de la V3 (v3-spec §6.6) : fascé sur le champ. */
+.vue {
+  row-gap: 0;
+}
+
+.tete {
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-column: 1 / -1;
+  align-items: start;
+  margin-bottom: var(--e4);
+}
+
+.titre {
+  grid-column: 1 / 8;
+}
+
+.chapeau {
+  margin: 0;
+  max-width: 56ch;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.4;
+  color: var(--ivoire);
+  font-variant-numeric: oldstyle-nums;
+}
+
+.nombre {
+  grid-column: 9 / -1;
+  display: grid;
+  justify-items: start;
+  gap: var(--e3);
+}
+
+.legende {
+  margin: 0;
+  max-width: 22ch;
+  font-family: var(--f-recit);
+  font-style: italic;
+  line-height: 1.35;
+  color: var(--cendre);
+}
+
+.commandes {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: var(--e6);
+  row-gap: var(--e1);
+  margin-bottom: var(--e3);
+}
+
+.tri {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e4);
+}
+
+.triEtiquette {
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--cendre);
+}
+
+.bascule {
+  min-height: 2.75rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--ivoire);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: transparent;
+  cursor: pointer;
+}
+
+.bascule:hover,
+.bascule:focus-visible {
+  text-decoration-color: var(--cendre);
+}
+
+.bascule[aria-pressed='true'] {
+  text-decoration-color: var(--braise);
+  text-decoration-thickness: 3px;
+}
+
+.rail {
+  margin-bottom: var(--e5);
+}
+
+.railListe {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+  row-gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.railLien {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--ivoire);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: oklch(0.62 0.012 55 / 0.55);
+}
+
+.railLien:hover,
+.railLien:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+.railLettre {
+  min-width: 2.75rem;
+  justify-content: center;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+}
+
+.railChiffre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t0);
+  color: var(--cendre);
+}
+
+.sansDate {
+  margin-top: var(--e7);
+  scroll-margin-top: var(--e5);
+}
+
+.sansDateTitre {
+  margin: 0 0 var(--e2);
+  font-size: var(--t2);
+  font-weight: 400;
+}
+
+.sansDateNote {
+  margin: 0 0 var(--e4);
+  max-width: 50ch;
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--cendre);
+}
+
+.sansDateListe {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+  row-gap: var(--e1);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sansDateNom {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-family: var(--f-chronique);
+}
+
+@media (width < 1024px) {
+  .tete {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: var(--e5);
+  }
+
+  .titre,
+  .nombre {
+    grid-column: 1;
+  }
+}
+
+.railTitre {
+  display: flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--ivoire);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+  cursor: pointer;
+}
+
+.railPli[open] > .railTitre {
+  text-decoration-color: var(--braise);
+}
+
+/* Titres de groupe des lignes de vie : la glose s'écarte du nom valyrien (jambages, cf. audit V2 n° 11). */
+.vies h2 :global(.gloss__tr) {
+  display: block;
+  margin-top: 0.3em;
+  line-height: 1.2;
+}

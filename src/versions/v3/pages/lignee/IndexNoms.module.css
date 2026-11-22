@@ -1,0 +1,62 @@
+.index {
+  columns: 3 18rem;
+  column-gap: var(--e7);
+}
+
+.lettre {
+  break-inside: avoid-column;
+  margin-bottom: var(--e5);
+  scroll-margin-top: var(--e5);
+}
+
+/* L'initiale du groupe : Texturina, pas Grenze (ce n'est pas un nombre ni une lettrine). */
+.initiale {
+  margin: 0 0 var(--e2);
+  font-size: var(--t2);
+  font-weight: 400;
+  line-height: 1;
+  color: var(--cendre);
+}
+
+.liste {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.entree {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.5em;
+  min-height: 2.75rem;
+  padding-block: 0.35rem;
+  break-inside: avoid;
+}
+
+.nom {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.15;
+}
+
+.precision,
+.epithete {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.annees {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: tabular-nums;
+  color: var(--cendre);
+}
+
+@media (width < 640px) {
+  .index {
+    columns: 1;
+  }
+}

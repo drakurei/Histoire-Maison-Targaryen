@@ -1,0 +1,66 @@
+/* La grammaire : planche et leçons sur le vélin ; sommaire et leçon en cours sur le champ. */
+.sommaireTel {
+  width: 100%;
+  margin-top: var(--e3);
+}
+
+.lecons {
+  display: grid;
+  row-gap: var(--e8);
+}
+
+.lecon {
+  display: grid;
+  row-gap: var(--e4);
+  scroll-margin-top: var(--e6);
+}
+
+.refsLecon {
+  max-width: var(--mesure);
+}
+
+.vide {
+  display: grid;
+  justify-items: start;
+  row-gap: var(--e3);
+}
+
+/* ------------------------------------------------------------ Colonne */
+.colonne {
+  row-gap: 0;
+}
+
+.pied {
+  display: grid;
+  row-gap: var(--e4);
+  padding-top: var(--e4);
+}
+
+.enCours {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: end;
+}
+
+.enCoursRang {
+  grid-row: 1 / span 2;
+  font-family: var(--f-lettrine);
+  font-size: var(--t4);
+  line-height: 0.8;
+  color: var(--ivoire);
+}
+
+.enCoursSur {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.enCoursTitre {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  color: var(--ivoire);
+}

@@ -1,0 +1,164 @@
+{
+  "personId": "alyssa-velaryon",
+  "titles": [
+    {
+      "fr": "Reine, épouse d'Aenys Ier",
+      "en": "Queen, wife of Aenys I"
+    },
+    {
+      "fr": "Reine régente pour Jaehaerys Ier",
+      "en": "Queen Regent for Jaehaerys I"
+    },
+    {
+      "fr": "Dame d'Accalmie, par son second mariage",
+      "en": "Lady of Storm's End, by her second marriage"
+    }
+  ],
+  "lead": {
+    "fr": "Fille de la maison Velaryon, épouse d'Aenys Ier et mère de six enfants, dont Jaehaerys Ier, qu'elle déroba à Maegor avant de gouverner en son nom.",
+    "en": "Daughter of House Velaryon, wife of Aenys I and mother of six children, among them Jaehaerys I, whom she kept from Maegor before governing in his name."
+  },
+  "sections": [
+    {
+      "id": "alyssa-velaryon-une-reine-des-voyages",
+      "heading": {
+        "fr": "Une reine des voyages",
+        "en": "A Queen on the Road"
+      },
+      "body": {
+        "fr": "Alyssa naquit en 7 apr. C., fille d'Aethan Velaryon, maître des navires d'Aegon Ier. En 22 apr. C., elle épousa son cousin Aenys, l'héritier du trône, dans un mariage d'alliance qui devint un mariage heureux. Elle lui donna six enfants : Rhaena en 23 apr. C., Aegon en 26, Viserys en 29, Jaehaerys en 34, Alysanne en 36, et Vaella, morte au berceau, en 39.\n\nElle s'opposa au projet de Visenya de fiancer Maegor à sa fille aînée et ne cacha guère son peu de goût pour le prince : quand il refusa les jeunes dragons qu'on lui présentait, elle lui demanda s'il en avait peur. À partir de 33 apr. C., avec Aenys, elle reprit les voyages royaux que le vieux roi ne faisait plus, à raison de la moitié de chaque année. Devenue reine en 37 apr. C., elle vécut avec la cour dans une demeure de la colline de Visenya, le Donjon Rouge n'étant pas achevé.",
+        "en": "Alyssa was born in 7 AC, daughter of Aethan Velaryon, Aegon I's master of ships. In 22 AC she married her cousin Aenys, heir to the throne, in a political match that turned into a happy marriage. She bore him six children: Rhaena in 23 AC, Aegon in 26, Viserys in 29, Jaehaerys in 34, Alysanne in 36, and Vaella, who died in the cradle, in 39.\n\nShe opposed Visenya's plan to betroth Maegor to her eldest daughter and made little secret of her dislike for the prince: when he refused the young dragons put before him, she asked whether he was afraid of them. From 33 AC she and Aenys took over the royal progresses the old king no longer made, half of every year. Queen from 37 AC, she lived with the court in a manse on Visenya's Hill, the Red Keep being unfinished."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aenys I"
+        }
+      ]
+    },
+    {
+      "id": "alyssa-velaryon-sous-maegor",
+      "heading": {
+        "fr": "Sous Maegor",
+        "en": "Under Maegor"
+      },
+      "body": {
+        "fr": "Aenys mourut à Peyredragon en 42 apr. C. ; Alyssa chanta pour lui à ses funérailles, puis quitta l'île dans les heures qui suivirent avec ses trois plus jeunes enfants pour se réfugier à Lamarck, chez son père. Elle y proclama roi son fils aîné Aegon. Visenya vint pourtant la convaincre de revenir à la cour, et Alyssa assista au mariage de Maegor avec Tyanna, ce que l'on interpréta comme un abandon de la cause de son fils. Elle continuait en secret d'écrire aux grandes maisons pour lui gagner des appuis.\n\nAprès la mort d'Aegon sous l'Œildieu, elle devint, avec Jaehaerys et Alysanne, la pupille de Visenya à Peyredragon, une prisonnière en tout sauf le nom, tandis que Viserys servait d'écuyer au roi. À la mort de la reine douairière, en 44 apr. C., elle profita du désordre pour s'enfuir avec ses deux plus jeunes enfants, en emportant Sœur Noire.",
+        "en": "Aenys died on Dragonstone in 42 AC; Alyssa sang at his funeral, then left the island within hours with her three youngest children to take refuge with her father on Driftmark. There she proclaimed her eldest son Aegon king. Visenya nevertheless came to persuade her to return to court, and Alyssa attended Maegor's wedding to Tyanna, which was taken as an abandonment of her son's cause. In secret she went on writing to the great houses to win him support.\n\nAfter Aegon's death beneath the Gods Eye, she and Jaehaerys and Alysanne became Visenya's wards on Dragonstone, prisoners in all but name, while Viserys served the king as squire. When the dowager queen died in 44 AC, Alyssa used the confusion to escape with her two youngest children, taking Dark Sister with her."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maegor I"
+        }
+      ]
+    },
+    {
+      "id": "alyssa-velaryon-la-regente",
+      "heading": {
+        "fr": "La régente",
+        "en": "The Regent"
+      },
+      "body": {
+        "fr": "La fuite eut un prix : Maegor fit torturer Viserys jusqu'à la mort et exposa son corps dans la cour du Donjon Rouge pour forcer sa mère à revenir. Elle ne revint pas. On la crut passée de l'autre côté du détroit ; en 48 apr. C., elle reparut à Accalmie aux côtés de Jaehaerys, que Rogar Baratheon proclama roi. Après la mort de Maegor, elle exerça la régence pour son fils de quatorze ans.\n\nElle aurait voulu faire exécuter les partisans de Maegor ; Jaehaerys pardonna, et elle ne le contredit pas en public, obtenant seulement le châtiment des bourreaux de Viserys. En 49 apr. C., elle épousa Rogar Baratheon, la Main, lors des noces d'or. Elle chercha à marier Jaehaerys à une autre que sa sœur, pour éviter une nouvelle révolte de la Foi ; il épousa Alysanne en secret. Quand Rogar proposa de remplacer le roi par sa nièce Aerea, elle lui retira la charge de Main, puis quitta elle-même les affaires jusqu'à la majorité du roi.",
+        "en": "The escape had a price: Maegor had Viserys tortured to death and left his body in the yard of the Red Keep to force his mother back. She did not come. She was thought to have crossed the narrow sea; in 48 AC she reappeared at Storm's End beside Jaehaerys, whom Rogar Baratheon proclaimed king. After Maegor's death she governed as regent for her fourteen-year-old son.\n\nShe would have liked to execute Maegor's supporters; Jaehaerys pardoned them, and she did not contradict him in public, obtaining only the punishment of Viserys's torturers. In 49 AC she married Rogar Baratheon, the Hand, at what was called the Golden Wedding. She tried to marry Jaehaerys to anyone but his sister, to avoid another revolt of the Faith; he wed Alysanne in secret. When Rogar proposed replacing the king with the king's niece Aerea, she stripped him of the Handship, then withdrew from affairs herself until her son came of age."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "fab",
+          "locator": "Prince into King: The Ascension of Jaehaerys I"
+        },
+        {
+          "id": "fab",
+          "locator": "The Year of the Three Brides: 49 AC"
+        },
+        {
+          "id": "fab",
+          "locator": "A Surfeit of Rulers"
+        }
+      ]
+    },
+    {
+      "id": "alyssa-velaryon-accalmie",
+      "heading": {
+        "fr": "Accalmie",
+        "en": "Storm's End"
+      },
+      "body": {
+        "fr": "Réconciliée avec son fils en 50 apr. C., Alyssa suivit Rogar à Accalmie. Ses dernières années furent assombries par une brouille avec sa fille aînée, Rhaena, qui s'était remariée sans la prévenir. Contre toute attente, elle donna encore un fils à Rogar, Boremund, né au début de 52 apr. C. ; elle ne se remit jamais tout à fait de cet accouchement.\n\nEnceinte de nouveau en 54 apr. C., elle entra en travail un mois avant terme et ne put être sauvée. Le mestre proposa d'ouvrir son ventre pour sauver l'enfant ; Rogar, sommé de choisir par Jaehaerys, ordonna de sauver l'enfant. Alysanne tenait la main de sa mère. Les récits divergent sur un point : selon les uns, Alyssa reprit conscience et consentit à l'opération ; selon les autres, elle ne se réveilla pas. Sa fille Jocelyn vint au monde au moment où elle mourait. Rhaena, arrivée trop tard, rendit Rogar responsable de cette mort.",
+        "en": "Reconciled with her son in 50 AC, Alyssa followed Rogar to Storm's End. Her last years were darkened by a breach with her eldest daughter, Rhaena, who had remarried without telling her. Against all expectation she bore Rogar a son, Boremund, early in 52 AC; she never fully recovered from the birth.\n\nWith child again in 54 AC, she went into labour a month early and could not be saved. The maester proposed opening her womb to save the child; Rogar, made to choose by Jaehaerys, told him to save the child. Alysanne held her mother's hand. The accounts differ on one point: according to some, Alyssa woke and consented to the operation; according to others, she never woke. Her daughter Jocelyn came into the world as she died. Rhaena, arriving too late, held Rogar responsible for her death."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "A Surfeit of Rulers"
+        },
+        {
+          "id": "fab",
+          "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Stormlands: House Baratheon"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p4-mort-aegon",
+    "p4-soulevement-foi",
+    "p4-maegor-roi",
+    "p4-mort-maegor",
+    "p4-jaehaerys-alysanne"
+  ],
+  "warIds": [
+    "soulevement-foi-militante"
+  ],
+  "disputed": {
+    "fr": "Les récits ne s'accordent pas sur son consentement à l'opération qui la tua. La chronique rapporte qu'on la soupçonna, comme Rhaena, d'avoir fait échanger à Villevieille, en 48 apr. C., les jumelles d'Aegon le Sans-Couronne ; rien ne le prouve. Sa présence au mariage de Maegor et de Tyanna a été lue tantôt comme une soumission, tantôt comme une ruse.",
+    "en": "The accounts disagree on whether she consented to the operation that killed her. The chronicle reports that she, like Rhaena, was suspected of having the twin daughters of Aegon the Uncrowned exchanged at Oldtown in 48 AC; nothing proves it. Her presence at Maegor's wedding to Tyanna has been read now as submission, now as a ruse."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Sons of the Dragon"
+    },
+    {
+      "id": "fab",
+      "locator": "Prince into King: The Ascension of Jaehaerys I"
+    },
+    {
+      "id": "fab",
+      "locator": "The Year of the Three Brides: 49 AC"
+    },
+    {
+      "id": "fab",
+      "locator": "A Surfeit of Rulers"
+    },
+    {
+      "id": "fab",
+      "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aenys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Stormlands: House Baratheon"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "personId": "alicent-hightower",
+  "titles": [
+    {
+      "fr": "Reine",
+      "en": "Queen"
+    },
+    {
+      "fr": "Reine douairière",
+      "en": "Dowager Queen"
+    }
+  ],
+  "lead": {
+    "fr": "Fille d'Otto Hightower et seconde épouse de Viserys Ier, Alicent donna au roi quatre enfants et fit de leur droit au trône la cause du parti qu'on appela les verts.",
+    "en": "Daughter of Otto Hightower and second wife of Viserys I, Alicent bore the king four children and made their claim to the throne the cause of the party known as the greens."
+  },
+  "sections": [
+    {
+      "id": "alicent-hightower-jeunesse",
+      "heading": {
+        "fr": "Une jeune fille à la cour",
+        "en": "A Girl at Court"
+      },
+      "body": {
+        "fr": "Alicent naît en 88 apr. C., fille de ser Otto Hightower, frère cadet de lord Hightower, seigneur de Villevieille. Elle a treize ans lorsque son père devient Main du roi Jaehaerys, en 101 apr. C., et le suit à Port-Réal avec sa mère et ses frères, dont Gwayne. Dans la dernière année du vieux roi, elle devient sa compagne de chaque jour : elle lui apporte ses repas, l'aide à se vêtir, lui fait la lecture. Le souverain affaibli la prend parfois pour l'une de ses filles. Il meurt en 103 apr. C., pendant qu'elle lit à son chevet.\n\nElle reste à la cour, puisque Otto conserve sa charge sous Viserys Ier. Sa proximité avec le vieux roi a nourri des insinuations : Champignon laisse entendre qu'elle lui fut plus qu'une lectrice, et d'autres l'accusèrent d'avoir partagé le lit de Viserys du vivant de la reine Aemma. Aucune de ces rumeurs ne repose sur un témoignage direct.",
+        "en": "Alicent was born in 88 AC, the daughter of Ser Otto Hightower, younger brother of Lord Hightower of Oldtown. She was thirteen when her father became Hand to King Jaehaerys in 101 AC, and she followed him to King's Landing with her mother and her brothers, Gwayne among them. In the old king's last year she became his daily companion: she brought him his meals, helped him dress and read aloud to him. Failing as he was, he sometimes took her for one of his own daughters. He died in 103 AC while she was reading at his bedside.\n\nShe remained at court, since Otto kept his office under Viserys I. Her closeness to the old king fed insinuations: Mushroom hints that she was more to him than a reader, and others accused her of sharing Viserys's bed while Queen Aemma still lived. None of these rumours rests on direct testimony."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "trp"
+        }
+      ]
+    },
+    {
+      "id": "alicent-hightower-reine",
+      "heading": {
+        "fr": "La reine et l'héritière",
+        "en": "The Queen and the Heir"
+      },
+      "body": {
+        "fr": "Viserys l'épouse en 106 apr. C., renonçant aux alliances que son conseil aurait préférées. L'union avait sa logique : la maison de son père tenait Villevieille, où siégeait alors le Grand Septon, et pesait d'un grand poids dans le royaume. Alicent donne au roi Aegon en 107, Helaena en 109, Aemond en 110 et Daeron en 114 apr. C.\n\nSes rapports avec Rhaenyra, d'abord cordiaux, se gâtent à mesure que naissent ses fils et que la princesse reste héritière. Elle propose de marier Rhaenyra à son fils aîné ; Viserys refuse, sachant ce que la reine en attend. Au tournoi de 111 apr. C., elle paraît en vert, la princesse aux couleurs de sa maison, et les deux partis en prennent le nom. Après le mariage de Rhaenyra, en 114 apr. C., ser Criston Cole devient son bouclier juré. Alicent tient les fils Velaryon pour des bâtards de Harwin Strong ; à Lamarck, en 120 apr. C., elle exige un œil de Lucerys pour celui d'Aemond.",
+        "en": "Viserys married her in 106 AC, setting aside the alliances his council would have preferred. The match had its logic: her father's house held Oldtown, where the High Septon then sat, and carried great weight in the realm. Alicent gave the king Aegon in 107, Helaena in 109, Aemond in 110 and Daeron in 114 AC.\n\nHer relations with Rhaenyra, cordial at first, soured as her sons were born and the princess remained heir. She proposed marrying Rhaenyra to her eldest son; Viserys refused, knowing what the queen hoped to gain. At the tourney of 111 AC she appeared in green, the princess in the colours of her house, and the two parties took their names from it. After Rhaenyra's wedding in 114 AC, Ser Criston Cole became the queen's sworn shield. Alicent held the Velaryon boys to be Harwin Strong's bastards; on Driftmark in 120 AC she demanded one of Lucerys's eyes for Aemond's."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "alicent-hightower-guerre",
+      "heading": {
+        "fr": "Une reine douairière en guerre",
+        "en": "A Dowager Queen at War"
+      },
+      "body": {
+        "fr": "Viserys meurt au troisième mois de 129 apr. C. ; prévenue la première, Alicent fait appeler Criston Cole et réunit le conseil qui couronne son fils. Au couronnement, elle pose sa propre couronne sur la tête d'Helaena. Elle appuie ensuite, avec sa fille et le grand mestre Orwyle, l'offre de paix envoyée à Peyredragon.\n\nLa guerre l'atteint chez elle. Sang et Fromage s'introduisent dans ses appartements de la tour de la Main, la ligotent et attendent sa fille et ses petits-enfants ; le prince Jaehaerys y est décapité. Elle prend alors en charge le petit Maelor. Après Repos-du-Freux, elle fait fermer les portes d'une ville qui fuit, et veille avec Cole sur le roi blessé. Quand Rhaenyra prend Port-Réal, en 130 apr. C., Alicent livre le Donjon Rouge. Son père est décapité ; elle-même est mise aux fers, des fers d'or, et épargnée, dit la reine, au nom de l'amour que leur père lui avait porté. Elle supplie Rhaenyra de partager le royaume et n'obtient qu'un refus assorti d'une menace.",
+        "en": "Viserys died in the third month of 129 AC; told before anyone else, Alicent sent for Criston Cole and gathered the council that crowned her son. At the coronation she set her own crown on Helaena's head. She then backed, with her daughter and Grand Maester Orwyle, the offer of peace sent to Dragonstone.\n\nThe war reached her own rooms. Blood and Cheese stole into her apartments in the Tower of the Hand, bound her and waited for her daughter and grandchildren; Prince Jaehaerys was beheaded there. She then took charge of little Maelor. After Rook's Rest she had the gates shut on a city in flight, and watched with Cole over the wounded king. When Rhaenyra took King's Landing in 130 AC, Alicent yielded the Red Keep. Her father was beheaded; she herself was put in fetters, golden ones, and spared, the queen said, for the love their father had once borne her. She begged Rhaenyra to divide the realm and received only a refusal and a threat."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "id": "alicent-hightower-fin",
+      "heading": {
+        "fr": "La dernière année",
+        "en": "The Last Year"
+      },
+      "body": {
+        "fr": "Après la fuite de Rhaenyra, Alicent retrouve un rôle. Elle négocie les fiançailles d'Aegon II avec Cassandra Baratheon, pardonne publiquement à Corlys Velaryon au nom de son fils et consent, à contrecœur, à promettre sa petite-fille Jaehaera au fils de Rhaenyra. Elle pousse le roi à se venger de ceux qui l'avaient trahi et, quand Corlys lui conseille d'abdiquer, lui rappelle les otages qu'il détient. À la mort d'Aegon II, en 131 apr. C., des hommes des Velaryon l'arrêtent.\n\nLes régents d'Aegon III ne veulent ni la juger ni la laisser paraître à la cour. Elle refuse toute réconciliation, et lors d'un repas partagé avec Jaehaera, elle épouvante l'enfant en lui conseillant d'égorger son mari. Tyland Lannister la fait enfermer dans ses appartements de la citadelle de Maegor. Elle y pleure plus qu'elle ne lit et finit par ne plus supporter la couleur verte. La fièvre d'Hiver l'emporte en 133 apr. C. ; dans ses dernières heures, elle parle de ses enfants et du vieux roi Jaehaerys, jamais de Viserys.",
+        "en": "After Rhaenyra's flight, Alicent found a role again. She negotiated Aegon II's betrothal to Cassandra Baratheon, publicly pardoned Corlys Velaryon in her son's name and agreed, reluctantly, to promise her granddaughter Jaehaera to Rhaenyra's son. She urged the king to take revenge on those who had betrayed him and, when Corlys advised him to abdicate, reminded him of the hostages he held. When Aegon II died in 131 AC, Velaryon men arrested her.\n\nThe regents of Aegon III wished neither to try her nor to let her appear at court. She refused any reconciliation, and at a meal shared with Jaehaera she terrified the child by advising her to cut her husband's throat. Tyland Lannister had her confined to her apartments in Maegor's Holdfast. There she wept more than she read, and came to loathe the colour green. The Winter Fever took her in 133 AC; in her final hours she spoke of her children and of old King Jaehaerys, never of Viserys."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "fab",
+          "locator": "Aftermath: The Hour of the Wolf"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Hooded Hand"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p4-avenement-viserys",
+    "p5-alicent",
+    "p5-verts-noirs",
+    "p5-mariage-laenor",
+    "p5-printemps-rouge",
+    "p5-mort-viserys",
+    "p5-deux-couronnements",
+    "p5-sang-et-fromage",
+    "p5-repos-des-freux",
+    "p5-chute-port-real",
+    "p5-mort-aegon-ii",
+    "p6-regence"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "Champignon, qui se trouvait alors à Peyredragon, accuse Alicent d'avoir empoisonné l'hypocras de Viserys ; aucun autre témoin ne le dit. Les rumeurs sur ses rapports avec Jaehaerys Ier, puis avec Viserys avant la mort d'Aemma, viennent des mêmes milieux hostiles. Champignon rapporte aussi que Mysaria aurait proposé de livrer Alicent et Helaena à un bordel de la ville ; Gyldayn rejette ce récit des « reines du bordel ».",
+    "en": "Mushroom, who was on Dragonstone at the time, accuses Alicent of poisoning Viserys's hippocras; no other witness says so. The rumours about her relations with Jaehaerys I, and with Viserys before Aemma's death, come from the same hostile quarters. Mushroom also reports that Mysaria proposed to put Alicent and Helaena in a city brothel; Gyldayn rejects this tale of the “brothel queens”."
+  },
+  "adaptation": {
+    "fr": "House of the Dragon fait d'Alicent et de Rhaenyra deux amies d'enfance presque du même âge ; dans les livres, Alicent a neuf ans de plus que la princesse. La série lui fait aussi prendre les dernières paroles de Viserys pour une désignation d'Aegon et lui prête une liaison avec Criston Cole : rien de cela ne figure dans les livres.",
+    "en": "House of the Dragon makes Alicent and Rhaenyra childhood friends of nearly the same age; in the books Alicent is nine years older than the princess. The series also has her take Viserys's last words for a designation of Aegon and gives her an affair with Criston Cole: none of this appears in the books."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: A Son for a Son"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+    },
+    {
+      "id": "fab",
+      "locator": "Aftermath: The Hour of the Wolf"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: The Hooded Hand"
+    },
+    {
+      "id": "trp"
+    },
+    {
+      "id": "tpatq"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys I"
+    },
+    {
+      "id": "hotd",
+      "locator": "Seasons 1 and 2"
+    }
+  ]
+}

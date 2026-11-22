@@ -1,0 +1,178 @@
+{
+  "personId": "rhaena-fille-aenys-i",
+  "titles": [
+    {
+      "fr": "Princesse",
+      "en": "Princess"
+    },
+    {
+      "fr": "Reine, l'une des Épouses noires de Maegor Ier",
+      "en": "Queen, one of the Black Brides of Maegor I"
+    }
+  ],
+  "lead": {
+    "fr": "Fille aînée d'Aenys Ier et dragonnière de Songefeu, veuve d'un frère tué par Maegor, puis contrainte d'épouser son meurtrier.",
+    "en": "Eldest daughter of Aenys I and rider of Dreamfyre, widow of a brother killed by Maegor, then forced to marry his killer."
+  },
+  "sections": [
+    {
+      "id": "rhaena-fille-aenys-i-une-princesse-et-son-dragon",
+      "heading": {
+        "fr": "Une princesse et son dragon",
+        "en": "A Princess and Her Dragon"
+      },
+      "body": {
+        "fr": "Rhaena naquit à Peyredragon en 23 apr. C., premier enfant d'Aenys et d'Alyssa Velaryon et première petite-fille du Conquérant. Sa naissance posa aussitôt une question de succession : la fille de l'héritier passait-elle avant son oncle Maegor ? Visenya proposa de les fiancer, et la Foi s'y opposa.\n\nEnfant timide, Rhaena préférait les bêtes aux gens. À neuf ans, on lui donna un dragon nouveau-né qu'elle nomma Songefeu ; à douze, elle le montait. On dit qu'elle déposa des œufs dans les berceaux de Jaehaerys et d'Alysanne, d'où sortirent les dragons de son frère et de sa sœur. Elle s'attachait à des compagnes successives, que la chronique appelle ses favorites, et découragea tous les prétendants. Devenue majeure, elle vola où bon lui semblait, et la rumeur lui prêta des aventures que rien n'atteste.",
+        "en": "Rhaena was born on Dragonstone in 23 AC, the first child of Aenys and Alyssa Velaryon and the Conqueror's first grandchild. Her birth at once raised a question of succession: did the heir's daughter come before her uncle Maegor? Visenya proposed betrothing them, and the Faith objected.\n\nA shy child, Rhaena preferred animals to people. At nine she was given a newly hatched dragon, which she named Dreamfyre; at twelve she was riding it. She is said to have placed eggs in the cradles of Jaehaerys and Alysanne, from which her brother's and sister's dragons hatched. She attached herself to a series of companions whom the chronicle calls her favourites, and discouraged every suitor. Once of age, she flew wherever she pleased, and rumour credited her with adventures that nothing confirms."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        }
+      ]
+    },
+    {
+      "id": "rhaena-fille-aenys-i-le-mariage-de-41",
+      "heading": {
+        "fr": "Le mariage de 41 et la guerre",
+        "en": "The Marriage of 41 and the War"
+      },
+      "body": {
+        "fr": "En 41 apr. C., Aenys la maria à son frère Aegon, de trois ans son cadet. Ni l'un ni l'autre ne s'y opposa ; la Foi, elle, y vit une abomination, et le mariage déclencha la révolte. Envoyés à travers le royaume sans le dragon de Rhaena, que le roi avait refusé pour ne pas humilier son fils, les jeunes époux furent hués et durent se réfugier à Crakehall, puis à Castral Roc. Rhaena y mit au monde des jumelles, Aerea et Rhaella, à la fin de 42 apr. C.\n\nMaegor avait pris le trône. En 43 apr. C., profitant de son absence, Rhaena et Aegon entrèrent en secret dans Port-Réal et en repartirent sur deux dragons, Songefeu et Vif-Argent. Aegon marcha contre son oncle ; Rhaena resta en arrière avec leurs filles, sans que l'on sache qui en décida. Il mourut sous l'Œildieu. Elle reçut la nouvelle sans larmes et dit n'avoir pas le temps d'en verser.",
+        "en": "In 41 AC Aenys married her to her brother Aegon, three years her junior. Neither objected; the Faith saw an abomination, and the marriage set off the revolt. Sent through the realm without Rhaena's dragon, which the king had refused so as not to shame his son, the young couple were jeered and had to take refuge at Crakehall, then at Casterly Rock. There Rhaena gave birth to twin daughters, Aerea and Rhaella, late in 42 AC.\n\nMaegor had taken the throne. In 43 AC, taking advantage of his absence, Rhaena and Aegon slipped into King's Landing and left it on two dragons, Dreamfyre and Quicksilver. Aegon marched against his uncle; Rhaena stayed behind with their daughters, and no one knows whose decision that was. He died beneath the Gods Eye. She received the news dry-eyed and said she had no time for weeping."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        }
+      ]
+    },
+    {
+      "id": "rhaena-fille-aenys-i-une-epouse-noire",
+      "heading": {
+        "fr": "Une Épouse noire",
+        "en": "A Black Bride"
+      },
+      "body": {
+        "fr": "Rhaena se réfugia chez les Farman, sur leur île de la mer du Couchant. Pour protéger ses filles, que leur naissance faisait prétendantes, elle les confia déguisées à des familles qui ignoraient leur identité, de sorte qu'elle-même ne pût révéler leur cachette. En 47 apr. C., Maegor la convoqua ; elle obéit plutôt que d'attirer sa colère sur ses hôtes, et devint l'une des trois Épouses noires. Le roi fit d'Aerea son héritière, envoya Rhaella à Villevieille pour en faire une septa, et écarta Jaehaerys de la succession.\n\nEn 48 apr. C., apprenant que Jaehaerys réclamait la couronne, elle s'enfuit de nuit sur Songefeu avec Aerea et Feunoyr, dérobée au roi pendant son sommeil. Après la mort de Maegor, certains jugèrent son droit, ou celui de ses filles, meilleur que celui de son frère ; elle soutint elle-même Jaehaerys, mais finit par lui en vouloir d'avoir été préféré.",
+        "en": "Rhaena found refuge with the Farmans on their island in the Sunset Sea. To protect her daughters, whose birth made them claimants, she sent them away in disguise to families who did not know who they were, so that she herself could not betray their hiding place. In 47 AC Maegor summoned her; she obeyed rather than bring his anger down on her hosts, and became one of the three Black Brides. The king made Aerea his heir, sent Rhaella to Oldtown to be made a septa, and put Jaehaerys out of the succession.\n\nIn 48 AC, learning that Jaehaerys had claimed the crown, she fled by night on Dreamfyre with Aerea and Blackfyre, taken from the king while he slept. After Maegor's death some held that her claim, or her daughters', was better than her brother's; she herself supported Jaehaerys, but came in time to resent that he had been preferred."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "fab",
+          "locator": "Prince into King: The Ascension of Jaehaerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maegor I"
+        }
+      ]
+    },
+    {
+      "id": "rhaena-fille-aenys-i-de-l-ouest-a-l-est",
+      "heading": {
+        "fr": "De l'ouest à Peyredragon",
+        "en": "From the West to Dragonstone"
+      },
+      "body": {
+        "fr": "En 49 apr. C., Rhaena épousa à la hâte Androw Farman, fils cadet de son hôte, sans en avertir sa mère. On s'étonna du choix d'un homme sans talent particulier ; un mestre supposa qu'elle aimait moins Androw que sa sœur Elissa. Chassée de l'île par le nouveau seigneur Farman, elle erra entre les châteaux de l'ouest et du Conflans, partout sollicitée pour son dragon, puis obtint en 51 apr. C. Peyredragon et la garde d'Aerea.\n\nLes années suivantes furent une suite de pertes. En 54 apr. C., Elissa partit en emportant trois œufs de dragon. Alyssa mourut en couches à Accalmie. Puis les proches de Rhaena moururent un à un sur l'île, empoisonnés ; Androw avoua et se jeta d'une fenêtre. À la fin de l'année, Aerea s'enfuit sur Balerion. Elle revint en 56 apr. C., mourante, d'un voyage qu'on crut mené jusqu'à Valyria.",
+        "en": "In 49 AC Rhaena hastily married Androw Farman, her host's younger son, without telling her mother. People wondered at the choice of so unremarkable a man; one maester suggested that she loved his sister Elissa more than Androw. Turned off the island by the new Lord Farman, she wandered among the castles of the west and the riverlands, courted everywhere for her dragon, then in 51 AC obtained Dragonstone and the keeping of Aerea.\n\nThe following years were a string of losses. In 54 AC Elissa left, taking three dragon eggs. Alyssa died in childbirth at Storm's End. Then Rhaena's companions died one after another on the island, poisoned; Androw confessed and threw himself from a window. At the year's end Aerea fled on Balerion. She came back in 56 AC, dying, from a journey believed to have reached Valyria."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Year of the Three Brides: 49 AC"
+        },
+        {
+          "id": "fab",
+          "locator": "A Time of Testing: The Realm Remade"
+        },
+        {
+          "id": "fab",
+          "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "rhaena-fille-aenys-i-harrenhal",
+      "heading": {
+        "fr": "Harrenhal",
+        "en": "Harrenhal"
+      },
+      "body": {
+        "fr": "Rhaena dispersa elle-même au vent, du haut de Songefeu, les cendres de sa fille, qui avait détesté Peyredragon. Elle refusa la place que Jaehaerys lui offrait à la cour et repoussa l'idée d'un nouveau mariage. Elle choisit de vivre à Harrenhal, chez le dernier des Towers, un jeune seigneur malade et ruiné dont elle prit la maisonnée en charge à sa mort.\n\nElle n'en sortit guère. Une fois l'an, elle allait voir à Villevieille sa fille Rhaella, devenue septa. Ses cheveux blanchirent ; les paysans du Conflans la tenaient pour une sorcière, et elle accueillait pourtant tout voyageur qui se présentait à sa porte. Elle monta Songefeu jusqu'à sa mort, en 73 apr. C. Jaehaerys fit déposer ses cendres à Harrenhal, non loin du lieu où était tombé son premier mari. Devant son bûcher, le roi dit qu'au fond elle était morte le même jour qu'Aegon.",
+        "en": "Rhaena scattered her daughter's ashes on the wind herself, from Dreamfyre's back, because Aerea had hated Dragonstone. She declined the place Jaehaerys offered her at court and rejected the idea of another marriage. She chose to live at Harrenhal, with the last of the Towers, a sickly, impoverished young lord whose household she took into her care when he died.\n\nShe seldom left. Once a year she went to Oldtown to see her daughter Rhaella, now a septa. Her hair turned white; the smallfolk of the riverlands took her for a witch, yet she gave shelter to any traveller who came to her door. She rode Dreamfyre until her death in 73 AC. Jaehaerys had her ashes laid at Harrenhal, not far from where her first husband had fallen. At her pyre the king said that in truth she had died on the same day as Aegon."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+        },
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "dreamfyre"
+  ],
+  "eventIds": [
+    "p4-soulevement-foi",
+    "p4-sous-oeildieu",
+    "p4-mort-maegor",
+    "p4-jaehaerys-alysanne",
+    "p4-aerea-balerion"
+  ],
+  "warIds": [
+    "soulevement-foi-militante"
+  ],
+  "disputed": {
+    "fr": "On crut à l'époque que les jumelles avaient été échangées à Villevieille en 48 apr. C., Aerea prenant la place de Rhaella ; la chronique soupçonne Rhaena ou sa mère, sans preuve. Les liaisons que la rumeur lui prête dans sa jeunesse et la nature de ses liens avec Elissa Farman restent des conjectures. Le récit de la mort d'Aerea et de son voyage repose sur le seul témoignage du septon Barth.",
+    "en": "It was believed at the time that the twins had been exchanged at Oldtown in 48 AC, Aerea taking Rhaella's place; the chronicle suspects Rhaena or her mother, without proof. The affairs rumour gives her in her youth and the nature of her bond with Elissa Farman remain conjecture. The account of Aerea's death and journey rests on the testimony of Septon Barth alone."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Sons of the Dragon"
+    },
+    {
+      "id": "fab",
+      "locator": "Prince into King: The Ascension of Jaehaerys I"
+    },
+    {
+      "id": "fab",
+      "locator": "The Year of the Three Brides: 49 AC"
+    },
+    {
+      "id": "fab",
+      "locator": "A Surfeit of Rulers"
+    },
+    {
+      "id": "fab",
+      "locator": "A Time of Testing: The Realm Remade"
+    },
+    {
+      "id": "fab",
+      "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+    },
+    {
+      "id": "fab",
+      "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Maegor I"
+    }
+  ]
+}

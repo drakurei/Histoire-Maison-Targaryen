@@ -1,0 +1,120 @@
+{
+  "personId": "harwin-strong",
+  "titles": [
+    {
+      "fr": "Ser, chevalier",
+      "en": "Ser, knight"
+    },
+    {
+      "fr": "Héritier de Harrenhal",
+      "en": "Heir to Harrenhal"
+    },
+    {
+      "fr": "Capitaine du Guet de Port-Réal",
+      "en": "Captain in the City Watch of King's Landing"
+    },
+    {
+      "fr": "Bouclier lige de la princesse Rhaenyra",
+      "en": "Sworn shield of Princess Rhaenyra"
+    }
+  ],
+  "lead": {
+    "fr": "Fils aîné de Lyonel Strong, seigneur de Harrenhal et Main du roi, Harwin fut le champion de Rhaenyra et l'homme que la rumeur désigna comme le véritable père de ses trois premiers fils.",
+    "en": "Eldest son of Lyonel Strong, Lord of Harrenhal and Hand of the King, Harwin was Rhaenyra's champion and the man rumour named as the true father of her first three sons."
+  },
+  "sections": [
+    {
+      "id": "harwin-strong-cour",
+      "heading": {
+        "fr": "Le champion de la princesse",
+        "en": "The Princess's Champion"
+      },
+      "body": {
+        "fr": "Harwin est le fils aîné et l'héritier de lord Lyonel Strong, seigneur de Harrenhal. Son père l'amène à la cour en 105 apr. C. avec son frère cadet Larys et ses deux sœurs, et il obtient un grade de capitaine dans le Guet de Port-Réal. On lui prête une force peu commune, d'où son surnom de Breakbones, le briseur d'os. En 112 apr. C., il compte parmi les nombreux prétendants de Rhaenyra.\n\nAu tournoi des noces de la princesse avec Laenor Velaryon, en 114 apr. C., Rhaenyra lui accorde sa faveur. Il y affronte ser Criston Cole, qui lui brise la clavicule et le coude ; le bouffon Champignon le raille alors en retournant son surnom. Dès lors, Harwin ne quitte plus guère la princesse. Il devient l'un des premiers des noirs, et la suit à Peyredragon comme bouclier lige lorsqu'elle s'éloigne de la cour.",
+        "en": "Harwin was the eldest son and heir of Lord Lyonel Strong, Lord of Harrenhal. His father brought him to court in 105 AC with his younger brother Larys and his two sisters, and he was given a captaincy in the City Watch of King's Landing. He was credited with uncommon strength, hence the name Breakbones. In 112 AC he was among Rhaenyra's many suitors.\n\nAt the tourney for the princess's wedding to Laenor Velaryon in 114 AC, Rhaenyra gave him her favour. There he faced Ser Criston Cole, who broke his collarbone and his elbow; the fool Mushroom then mocked him by turning his name around. From that time Harwin was seldom far from the princess. He became one of the foremost of the blacks, and followed her to Dragonstone as her sworn shield when she withdrew from court."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "harwin-strong-rumeur",
+      "heading": {
+        "fr": "Les trois garçons",
+        "en": "The Three Boys"
+      },
+      "body": {
+        "fr": "Les trois fils de Rhaenyra, nés entre 114 et 117 apr. C., ont les cheveux et les yeux bruns et le nez court, quand Rhaenyra et Laenor portent les traits de Valyria. La cour fait le rapprochement avec Harwin, toujours présent. Selon le septon Eustace, il assiste avec Laenor à la naissance de Lucerys ; selon Champignon, il partage la couche de la princesse dès 113 apr. C. Ni l'un ni l'autre n'apporte de preuve.\n\nLa rumeur devient une arme. En 120 apr. C., aux funérailles de Laenor, Aemond traite ses neveux de « Strong », et la rixe lui coûte un œil. Viserys menace de la langue quiconque répétera l'injure, mais retire Harwin à sa fille : le chevalier rentre à Harrenhal et ser Erryk Cargyll le remplace auprès de Rhaenyra. Plus tard, les verts, puis des cousins velaryon, reprendront l'accusation pour contester les droits des trois garçons.",
+        "en": "Rhaenyra's three sons, born between 114 and 117 AC, had brown hair, brown eyes and snub noses, while Rhaenyra and Laenor had the looks of Valyria. The court drew the connection with Harwin, who was always nearby. According to Septon Eustace, he was present with Laenor at Lucerys's birth; according to Mushroom, he had shared the princess's bed since 113 AC. Neither offers proof.\n\nThe rumour became a weapon. In 120 AC, at Laenor's funeral, Aemond called his nephews “Strongs”, and the brawl cost him an eye. Viserys threatened the tongue of anyone who repeated the insult, but took Harwin away from his daughter: the knight went home to Harrenhal and Ser Erryk Cargyll replaced him at Rhaenyra's side. Later the greens, and then Velaryon cousins, would take up the charge to contest the three boys' rights."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "trp"
+        }
+      ]
+    },
+    {
+      "id": "harwin-strong-incendie",
+      "heading": {
+        "fr": "L'incendie de Harrenhal",
+        "en": "The Fire at Harrenhal"
+      },
+      "body": {
+        "fr": "La même année, un incendie ravage Harrenhal et tue Harwin avec son père, lord Lyonel, Main du roi. On l'attribue d'abord à la malédiction qui pèse sur la forteresse depuis qu'Aegon l'a brûlée. D'autres noms circulent : Daemon, qui se serait débarrassé d'un rival ; Corlys Velaryon, qui aurait vengé l'honneur de son fils ; Larys Strong, à qui la mort de son père et de son frère livre l'héritage ; le roi lui-même, enfin. Rien n'a jamais été prouvé contre aucun d'eux.\n\nHarwin ne laisse aucun enfant reconnu. Son nom survit pourtant dans l'insulte lancée aux fils de Rhaenyra, que leurs ennemis appellent des Strong jusqu'à leur mort. Larys, devenu seigneur de Harrenhal, siège ensuite au conseil des verts, et certains ont lu dans cette ascension la preuve de ce que les chroniques ne peuvent établir.",
+        "en": "That same year a fire swept through Harrenhal and killed Harwin together with his father, Lord Lyonel, the King's Hand. It was blamed at first on the curse that had hung over the fortress since Aegon burned it. Other names went round: Daemon, ridding himself of a rival; Corlys Velaryon, avenging his son's honour; Larys Strong, to whom the death of his father and brother delivered the inheritance; and lastly the king himself. Nothing was ever proven against any of them.\n\nHarwin left no acknowledged child. His name nonetheless lived on in the insult thrown at Rhaenyra's sons, whom their enemies called Strongs until they died. Larys, now Lord of Harrenhal, later sat on the greens' council, and some have read in that rise the proof of what the chronicles cannot establish."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p5-mariage-laenor",
+    "p5-printemps-rouge"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "Sa paternité des trois fils de Rhaenyra n'a jamais été établie : la version officielle les tient pour fils de Laenor Velaryon. L'origine de l'incendie qui le tua reste inconnue, et chacun des suspects ne l'est que par la rumeur. Son année de naissance n'est pas donnée.",
+    "en": "His paternity of Rhaenyra's three sons was never established: the official version holds them to be Laenor Velaryon's sons. The cause of the fire that killed him remains unknown, and each suspect is one only by rumour. His year of birth is not recorded."
+  },
+  "adaptation": {
+    "fr": "House of the Dragon tient sa paternité pour à peu près acquise et montre Larys Strong organisant l'incendie de Harrenhal, que les livres laissent sans coupable.",
+    "en": "House of the Dragon treats his paternity as all but certain and shows Larys Strong arranging the fire at Harrenhal, which the books leave without a culprit."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys I"
+    },
+    {
+      "id": "trp"
+    },
+    {
+      "id": "hotd",
+      "locator": "Season 1"
+    }
+  ]
+}

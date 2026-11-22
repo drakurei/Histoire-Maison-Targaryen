@@ -1,0 +1,91 @@
+{
+  "personId": "daella-fille-jaehaerys-i",
+  "titles": [
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    },
+    {
+      "fr": "Dame des Eyrié",
+      "en": "Lady of the Eyrie"
+    }
+  ],
+  "lead": {
+    "fr": "Fille de Jaehaerys Ier, mariée à lord Rodrik Arryn, Daella mourut en couches à dix-huit ans en mettant au monde Aemma Arryn, future épouse du roi Viserys Ier.",
+    "en": "A daughter of Jaehaerys I married to Lord Rodrik Arryn, Daella died in childbed at eighteen, giving birth to Aemma Arryn, the future wife of King Viserys I."
+  },
+  "sections": [
+    {
+      "id": "daella-fille-jaehaerys-i-enfance",
+      "heading": {
+        "fr": "La petite fleur",
+        "en": "The Little Flower"
+      },
+      "body": {
+        "fr": "Daella naît en 64 apr. C. Petite et frêle, elle paraît toujours plus jeune que son âge ; sa mère l'appelle « ma petite fleur ». Elle est douce et bonne, mais d'une timidité qui la laisse sans voix, prompte aux larmes, effrayée par les chats, les abeilles, les chevaux et plus encore par les dragons. Elle ne lit qu'avec peine et ne retient pas les prières, si bien qu'elle ne pourra pas, comme sa sœur, entrer dans la Foi.\n\nSes parents la destinaient à Vaegon, d'un an son aîné. Elle a peur de lui ; il la tient pour sotte. En 73 apr. C., devant les dames de la reine, il la blesse d'une réplique sur les enfants qu'elle pourrait porter, et elle s'enfuit en pleurant. Saera, de son côté, fait d'elle la cible favorite de ses farces. Le roi et la reine renoncent au mariage prévu et cherchent ailleurs.",
+        "en": "Daella was born in 64 AC. Small and frail, she always seemed younger than her years; her mother called her “my little flower”. She was sweet and kind, but so shy as to be struck dumb, quick to cry, frightened of cats, bees, horses and dragons most of all. She read only haltingly and could not remember her prayers, so that she could not, like her sister, enter the Faith.\n\nHer parents had meant her for Vaegon, a year older than she. She was afraid of him; he thought her stupid. In 73 AC, before the queen's ladies, he wounded her with a remark about the children she might bear, and she fled in tears. Saera, for her part, made her the favourite target of her pranks. The king and queen gave up the planned marriage and looked elsewhere."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        }
+      ]
+    },
+    {
+      "id": "daella-fille-jaehaerys-i-mariage",
+      "heading": {
+        "fr": "Trouver un mari",
+        "en": "Finding a Husband"
+      },
+      "body": {
+        "fr": "Les prétendants se succèdent sans succès. À treize ans, elle traverse la baie pour rencontrer Corlys Velaryon, souffre du mal de mer, et revient persuadée qu'il s'intéresse davantage à ses navires qu'à elle. À quatorze, une compagnie d'écuyers la dégoûte de leur société. À quinze, elle s'éprend de Royce Blackwood, qui lui chante ses propres ballades, jusqu'à apprendre que sa maison prie les anciens dieux et qu'elle devrait se marier devant un barral.\n\nAu premier jour de 80 apr. C., le roi exige qu'elle soit mariée avant la fin de l'année. Alysanne lui laisse choisir entre trois hommes : lord Boremund Baratheon, ser Tymond Lannister et lord Rodrik Arryn, sire des Eyrié, veuf et père de quatre enfants, qui avait longtemps servi le roi comme maître des lois. Elle choisit Rodrik, qui lui paraît bon et sage comme son père. Le mariage a lieu à Peyredragon, devant quelques témoins, sans cérémonie du coucher, qu'elle n'aurait pas supportée.",
+        "en": "Suitors came and went without success. At thirteen she crossed the bay to meet Corlys Velaryon, was seasick, and came back convinced that he cared more for his ships than for her. At fourteen a company of squires gave her a distaste for their society. At fifteen she fell for Royce Blackwood, who sang her ballads of his own making, until she learned that his house prayed to the old gods and that she would have to marry before a weirwood.\n\nOn the first day of 80 AC, the king demanded that she be married before the year was out. Alysanne let her choose among three men: Lord Boremund Baratheon, Ser Tymond Lannister and Lord Rodrik Arryn, Lord of the Eyrie, a widower with four children who had long served the king as master of laws. She chose Rodrik, who seemed to her good and wise like her father. The wedding took place on Dragonstone, before a few witnesses, without a bedding ceremony, which she could not have borne."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        }
+      ]
+    },
+    {
+      "id": "daella-fille-jaehaerys-i-mort",
+      "heading": {
+        "fr": "Les Eyrié",
+        "en": "The Eyrie"
+      },
+      "body": {
+        "fr": "Aux Eyrié, Daella se heurte à l'aînée de son mari, Elys, plus âgée qu'elle de trois ans, mais s'attache aux trois cadets, qui le lui rendent. Rodrik tient sa promesse : il la protège et la gâte, et les lettres qu'elle fait écrire à sa mère disent son bonheur. En 82 apr. C., elle écrit elle-même, pour annoncer une grossesse et avouer sa peur. Alysanne vole jusqu'à elle sur Silverwing et reste trois mois à son chevet.\n\nLe travail commence deux semaines trop tôt et dure longtemps. L'enfant, Aemma, naît en bonne santé ; la mère est prise de fièvre et meurt au matin, à dix-huit ans. Sur l'ordre de la reine, Daella est brûlée et ses cendres sont déposées à Peyredragon, près de celles de sa sœur Daenerys. Selon Gyldayn, cette mort marque la première fêlure entre Alysanne et le roi, qu'elle accusait d'avoir pressé ce mariage.",
+        "en": "At the Eyrie Daella clashed with her husband's eldest, Elys, three years older than herself, but grew fond of the three younger children, who returned her affection. Rodrik kept his word: he protected and pampered her, and the letters she had written to her mother spoke of her happiness. In 82 AC she wrote in her own hand to announce that she was with child and to confess her fear. Alysanne flew to her on Silverwing and stayed at her side for three months.\n\nHer labour began a fortnight early and was long. The child, Aemma, was born healthy; the mother took a fever and died by morning, at eighteen. At the queen's command Daella was burned and her ashes laid on Dragonstone beside those of her sister Daenerys. According to Gyldayn, her death marked the first rift between Alysanne and the king, whom she blamed for hurrying the marriage."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [],
+  "warIds": [],
+  "disputed": {
+    "fr": "La date du mariage varie selon les récits, à la fin de 80 apr. C. ou au début de 81 apr. C. ; la consigne du roi fixait l'échéance à la fin de 80 apr. C.",
+    "en": "The date of the wedding varies between accounts, late in 80 AC or early in 81 AC; the king's command had set the end of 80 AC as the deadline."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys I"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+/*
+ * Introuvable : le texte à gauche (colonnes 1 à 7), la masse éteinte sur toute la largeur
+ * de la vue, puis les dos couchés en colonnes 1 à 8, alignés sur le titre.
+ */
+.vue {
+  row-gap: var(--e7);
+}
+
+.texte {
+  grid-column: 1 / 8;
+  display: grid;
+  row-gap: var(--e5);
+  justify-items: start;
+}
+
+.corps {
+  max-width: 44ch;
+}
+
+.actions {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  column-gap: var(--e6);
+}
+
+.lien {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--ivoire);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+}
+
+.lien:hover,
+.lien:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+.lien :global(.gloss__main) {
+  font-family: var(--f-musee);
+}
+
+.figure {
+  grid-column: 1 / -1;
+  margin-inline: calc(-1 * var(--marge-page));
+  line-height: 0;
+}
+
+.volumes {
+  grid-column: 1 / 9;
+}
+
+@media (width < 1024px) {
+  .texte,
+  .volumes {
+    grid-column: 1;
+  }
+
+  .volumes {
+    margin-inline: calc(-1 * var(--marge-page));
+  }
+}
+
+/* Un nom glosé : seul le nom est souligné, la glose reste dessous sans trait (groupe D). */
+.lien:has(:global(.gloss__tr)) {
+  text-decoration-line: none;
+}
+
+.lien:has(:global(.gloss__tr)) :global(.gloss__main) {
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+}
+
+.lien:has(:global(.gloss__tr)):hover :global(.gloss__main),
+.lien:has(:global(.gloss__tr)):focus-visible :global(.gloss__main) {
+  text-decoration-color: var(--braise);
+}

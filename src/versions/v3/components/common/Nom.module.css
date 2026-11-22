@@ -1,0 +1,26 @@
+/* Nom d'entité : le soulignement vient du thème (sang sur le champ, rubrique sur le vélin). */
+.nom {
+  position: relative;
+}
+
+/* Cible de 44 px sans toucher à la composition : la zone déborde du texte, centrée sur lui. */
+.nom::after {
+  position: absolute;
+  inset-inline: 0;
+  top: 50%;
+  height: max(100%, 2.75rem);
+  translate: 0 -50%;
+  content: '';
+}
+
+.couronne {
+  display: inline-block;
+  margin-inline-end: 0.25em;
+  vertical-align: -0.08em;
+  color: var(--or);
+}
+
+/* Sur le vélin, l'or vif tombe à 1,7:1 : la couronne prend l'or d'encre (5,15:1). */
+:global([data-surface='velin']) .couronne {
+  color: var(--v3-or-encre);
+}

@@ -1,0 +1,193 @@
+{
+  "personId": "rhaena-fille-daemon",
+  "titles": [
+    {
+      "fr": "Princesse",
+      "en": "Princess"
+    },
+    {
+      "fr": "Dame, épouse de Corwyn Corbray puis de Garmund Hightower",
+      "en": "Lady, wife of Corwyn Corbray and later of Garmund Hightower"
+    },
+    {
+      "fr": "Cavalière de Morning",
+      "en": "Rider of Morning"
+    }
+  ],
+  "lead": {
+    "fr": "Cadette des jumelles de Daemon et de Laena Velaryon, Rhaena passa la Danse dans le Val, où éclot Morning, l'un des quatre dragons encore en vie à la fin de la guerre.",
+    "en": "The younger of Daemon and Laena Velaryon's twins, Rhaena spent the Dance in the Vale, where Morning hatched, one of the four dragons still alive at the end of the war."
+  },
+  "sections": [
+    {
+      "id": "rhaena-fille-daemon-oeufs",
+      "heading": {
+        "fr": "Les œufs qui ne voulaient pas éclore",
+        "en": "Eggs That Would Not Hatch"
+      },
+      "body": {
+        "fr": "Rhaena naît à Pentos en 116 apr. C., seconde des jumelles de Daemon et de Laena ; elle porte le nom de sa grand-mère maternelle, la princesse Rhaenys. Ramenée à Lamarck à six mois, elle est présentée à la cour l'année suivante et promise en 118 apr. C. à son cousin Lucerys. Son œuf de berceau éclot, mais le petit dragon, malingre, meurt en quelques heures.\n\nOn lui confie ensuite un œuf d'une autre couvée, pondu par Syrax. On dit qu'elle le garda nuit après nuit dans son lit, dans l'espoir d'en voir sortir un dragon digne de celui de sa sœur. L'œuf demeure inerte. Rhaena grandit ainsi à Peyredragon sans monture, parmi des frères et sœurs qui avaient presque tous la leur. La guerre la trouve démunie, quand sa sœur Baela a déjà Moondancer.",
+        "en": "Rhaena was born in Pentos in 116 AC, the younger of Daemon and Laena's twins; she was named after her maternal grandmother, Princess Rhaenys. Brought home to Driftmark at six months, she was presented at court the following year and betrothed in 118 AC to her cousin Lucerys. Her cradle egg hatched, but the little dragon was sickly and died within hours.\n\nShe was then given an egg from another clutch, laid by Syrax. It is said that she kept it in her bed night after night, hoping it would give her a dragon as fine as her sister's. The egg stayed lifeless. So Rhaena grew up on Dragonstone without a mount, among siblings who nearly all had one. War found her empty-handed, while her sister Baela already had Moondancer."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "rhaena-fille-daemon-val",
+      "heading": {
+        "fr": "Le Val et Morning",
+        "en": "The Vale and Morning"
+      },
+      "body": {
+        "fr": "En 129 apr. C., Lucerys, son promis, est tué près d'Accalmie. Jacaerys l'envoie ensuite avec Joffrey à Goëville, officiellement pour défendre le Val, en réalité pour mettre les deux enfants à l'abri. Rhaena emporte trois œufs de dragon et prie chaque nuit pour qu'ils éclosent. Joffrey repart pour Port-Réal après la prise de la ville ; elle reste dans le Val, pupille de Jeyne Arryn, dame des Eyrié, et y mène une vie aisée où les chanteurs célèbrent sa beauté.\n\nL'un des œufs finit par éclore. Elle nomme la petite dragonne Morning. La nouvelle parvient aux verts vers le début de 131 apr. C. et les inquiète : ils ont perdu leurs dragons, et Alicent craint que le peuple ne lise dans cette naissance un signe en faveur des noirs. Morning est encore bien trop jeune pour être montée quand la guerre prend fin, quelques mois plus tard.",
+        "en": "In 129 AC Lucerys, her betrothed, was killed near Storm's End. Jacaerys then sent her with Joffrey to Gulltown, officially to defend the Vale, in fact to put the two children out of harm's way. Rhaena took three dragon eggs with her and prayed every night that they would hatch. Joffrey went back to King's Landing after the city fell; she stayed in the Vale as the ward of Jeyne Arryn, Lady of the Eyrie, living in comfort among singers who praised her beauty.\n\nOne of the eggs hatched at last. She named the little she-dragon Morning. The news reached the greens around the start of 131 AC and troubled them: they had lost their dragons, and Alicent feared the smallfolk would read the birth as a sign in favour of the blacks. Morning was still far too young to be ridden when the war ended a few months later."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Hooded Hand"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        }
+      ]
+    },
+    {
+      "id": "rhaena-fille-daemon-regence",
+      "heading": {
+        "fr": "Une héritière possible",
+        "en": "A Possible Heir"
+      },
+      "body": {
+        "fr": "À la fin de la guerre, Rhaena gagne Port-Réal avec Jeyne Arryn. Le peuple l'acclame, et Morning, seul dragon de la capitale, souvent enroulée sur ses épaules comme une étole, fascine la ville ; Aegon III, qui a vu Sunfyre dévorer sa mère, ordonne qu'on éloigne la bête de sa vue. Avec Baela, Rhaena obtient du roi la grâce de Corlys Velaryon.\n\nEn 132 apr. C., les régents jugent Rhaena plus docile que sa sœur et plus apte à assurer la suite d'un roi sans enfant. Après l'escapade de Baela, ils pressent son mariage. Rhaena accepte, mais choisit elle-même : ser Corwyn Corbray, rencontré dans le Val, cadet et veuf, qui porte l'épée valyrienne de sa maison. Une grossesse annoncée en 133 apr. C. s'achève par une fausse couche. Au bal où le roi choisit sa nouvelle épouse, les jumelles lui présentent Daenaera Velaryon.",
+        "en": "At the war's end Rhaena came to King's Landing with Jeyne Arryn. The people cheered her, and Morning, the only dragon in the capital, often coiled about her shoulders like a stole, fascinated the city; Aegon III, who had watched Sunfyre devour his mother, ordered the creature taken out of his sight. With Baela, Rhaena won from the king a pardon for Corlys Velaryon.\n\nIn 132 AC the regents judged Rhaena more biddable than her sister and better suited to secure the line of a childless king. After Baela's elopement they pressed for her marriage. Rhaena agreed but chose for herself: Ser Corwyn Corbray, whom she had met in the Vale, a widowed younger son who bore his house's Valyrian sword. A pregnancy announced in 133 AC ended in a miscarriage. At the ball where the king chose his new bride, the twins presented Daenaera Velaryon to him."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aftermath: The Hour of the Wolf"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Hooded Hand"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: War and Peace and Cattle Shows"
+        }
+      ]
+    },
+    {
+      "id": "rhaena-fille-daemon-peyredragon",
+      "heading": {
+        "fr": "Peyredragon et la suite",
+        "en": "Dragonstone and After"
+      },
+      "body": {
+        "fr": "En 134 apr. C., le retour du prince Viserys, qu'on croyait mort, éloigne les jumelles de la succession. Au troisième mois de 135 apr. C., Rhaena monte Morning pour la première fois ; elle s'enhardit chaque jour, mais ne se pose qu'une fois au Donjon Rouge, où le roi redoute toujours les dragons, et part s'établir à Peyredragon, où dragons et cavaliers sont mieux reçus. Peu après, Corwyn Corbray est tué dans le Val en voulant régler une querelle de succession ; Baela vient veiller à ce que sa sœur ne s'envole pas pour le venger.\n\nRhaena épouse plus tard Garmund Hightower, frère cadet de lord Lyonel Hightower, dont elle a six filles. La date de sa mort n'est pas donnée, et l'on ignore quand et comment mourut Morning.",
+        "en": "In 134 AC the return of Prince Viserys, thought dead, moved the twins further from the succession. In the third month of 135 AC Rhaena flew Morning for the first time; she grew bolder each day, but landed only once in the Red Keep, where the king still dreaded dragons, and went to live on Dragonstone, where dragons and their riders were better received. Soon afterwards Corwyn Corbray was killed in the Vale while trying to settle a succession dispute; Baela came to make sure her sister would not fly off to avenge him.\n\nRhaena later married Garmund Hightower, younger brother of Lord Lyonel Hightower, by whom she had six daughters. The date of her death is not recorded, and nothing is known of when or how Morning died."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+        },
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        },
+        {
+          "id": "fab",
+          "locator": "Aftermath: The Hour of the Wolf"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Appendix: Targaryen Lineage"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "morning"
+  ],
+  "eventIds": [
+    "p5-accalmie",
+    "p5-bilan-dragons",
+    "p5-heure-du-loup",
+    "p6-regence"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "La date exacte de l'éclosion de Morning n'est pas connue : la nouvelle n'atteint la cour qu'au tournant de 130 et 131 apr. C. Champignon attribue à Alysanne Blackwood, plutôt qu'aux jumelles, la grâce de Corlys Velaryon.",
+    "en": "The exact date of Morning's hatching is not known: the news reached the court only at the turn of 130 and 131 AC. Mushroom credits Alysanne Blackwood, rather than the twins, with Corlys Velaryon's pardon."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+    },
+    {
+      "id": "fab",
+      "locator": "Aftermath: The Hour of the Wolf"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: The Hooded Hand"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: War and Peace and Cattle Shows"
+    },
+    {
+      "id": "fab",
+      "locator": "The Lysene Spring and the End of Regency"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "Appendix: Targaryen Lineage"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "personId": "elia-martell",
+  "titles": [
+    {
+      "fr": "Princesse de Dorne",
+      "en": "Princess of Dorne"
+    },
+    {
+      "fr": "Épouse du prince de Peyredragon",
+      "en": "Wife of the Prince of Dragonstone"
+    }
+  ],
+  "lead": {
+    "fr": "Sœur du prince Doran de Dorne et épouse de Rhaegar, Elia Martell fut tuée avec ses deux enfants lors du sac de Port-Réal, en 283 apr. C.",
+    "en": "Sister of Prince Doran of Dorne and wife of Rhaegar, Elia Martell was killed with her two children in the sack of King's Landing in 283 AC."
+  },
+  "sections": [
+    {
+      "id": "elia-martell-dorne",
+      "heading": {
+        "fr": "Une princesse de Dorne",
+        "en": "A Princess of Dorne"
+      },
+      "body": {
+        "fr": "Elia naît vers 256 apr. C., fille de la future princesse de Dorne. Venue au monde un mois avant terme, elle survit contre l'attente de son frère aîné Doran, mais garde toute sa vie une santé fragile. Elle est très proche d'Oberyn, son cadet d'un an.\n\nEn âge d'être mariés, Elia et Oberyn accompagnent leur mère dans un long voyage à travers le royaume, à la recherche de partis. À Villevieille, Elia s'éprend à demi de Baelor Hightower, avant qu'un incident ridicule, qu'Oberyn ne laisse jamais oublier, ne la fasse rire de lui. À Castral Roc, où l'on vient d'apprendre la mort de Joanna Lannister, sa mère propose à Tywin d'unir leurs enfants : Cersei à Oberyn, Jaime à Elia. Tywin répond que sa fille est promise à un prince et offre pour Elia son fils nouveau-né, Tyrion. Les Martell prennent l'offre pour une insulte.",
+        "en": "Elia was born around 256 AC, the daughter of the future Princess of Dorne. Born a month early, she survived against the expectations of her elder brother Doran, but her health remained fragile all her life. She was very close to Oberyn, a year her junior.\n\nWhen they came of age to marry, Elia and Oberyn went with their mother on a long journey through the realm in search of matches. In Oldtown Elia half fell for Baelor Hightower, until a ridiculous incident, which Oberyn never let anyone forget, made her laugh at him instead. At Casterly Rock, where the death of Joanna Lannister had just been learned, her mother proposed to Tywin that their children be joined: Cersei to Oberyn, Jaime to Elia. Tywin replied that his daughter was meant for a prince and offered his newborn son, Tyrion, for Elia. The Martells took the offer as an insult."
+      },
+      "sources": [
+        {
+          "id": "asos",
+          "locator": "Tyrion V (ch. 38)"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        }
+      ]
+    },
+    {
+      "id": "elia-martell-mariage",
+      "heading": {
+        "fr": "L'épouse de Rhaegar",
+        "en": "Rhaegar's Wife"
+      },
+      "body": {
+        "fr": "Faute d'une épouse de sang valyrien, le choix se porte sur Elia. Les fiançailles sont conclues au début de 279 apr. C. et le mariage célébré l'année suivante au Grand Septuaire de Baelor. Le couple s'installe à Peyredragon. Rhaenys naît en 280 apr. C. ; présentée à la cour, l'enfant est accueillie avec chaleur par la reine, tandis qu'Aerys refuse de la toucher et se plaint qu'elle sent le Dornien. Après cette naissance, Elia reste six mois alitée. Aegon, né vers le nouvel an 282 apr. C., manque la tuer, et les mestres déclarent qu'elle ne portera plus d'enfant.\n\nAu tournoi de Harrenhal, en 281 apr. C., elle voit son mari victorieux passer devant elle pour couronner Lyanna Stark. Au début de 282 apr. C., Rhaegar la laisse à Peyredragon avec leur fils et disparaît avec Lyanna. Son frère Doran, furieux de l'affront fait à sa sœur, tarde ensuite à secourir les Targaryen. Les livres ne disent presque rien de ce qu'Elia en pensa elle-même.",
+        "en": "For want of a bride of Valyrian blood, the choice fell on Elia. The betrothal was concluded early in 279 AC and the wedding held the following year in the Great Sept of Baelor. The couple settled on Dragonstone. Rhaenys was born in 280 AC; when the child was presented at court the queen welcomed her warmly, while Aerys refused to touch her and complained that she smelled Dornish. After that birth Elia was bedridden for six months. Aegon, born around the new year of 282 AC, nearly killed her, and the maesters declared that she would bear no more children.\n\nAt the tourney at Harrenhal in 281 AC, she watched her victorious husband ride past her to crown Lyanna Stark. Early in 282 AC Rhaegar left her on Dragonstone with their son and vanished with Lyanna. Her brother Doran, furious at the slight to his sister, was slow afterwards to come to the Targaryens' aid. The books say almost nothing of what Elia herself thought of it."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: The Year of the False Spring"
+        }
+      ]
+    },
+    {
+      "id": "elia-martell-sac",
+      "heading": {
+        "fr": "Le sac de Port-Réal",
+        "en": "The Sack of King's Landing"
+      },
+      "body": {
+        "fr": "Pendant la guerre, Aerys fait venir Elia et ses enfants au Donjon Rouge. Il rappelle sans ménagement au prince Lewyn Martell, oncle d'Elia et chevalier de sa Garde, qu'il les tient en son pouvoir ; Lewyn conduit dix mille Dorniens au Trident et y meurt. Persuadé d'une trahison dornienne, le roi garde Elia et ses enfants en otages quand il envoie la reine à Peyredragon.\n\nEn 283 apr. C., l'armée de Tywin Lannister entre dans Port-Réal. Ser Gregor Clegane et ser Amory Lorch forcent les appartements royaux : Lorch tue Rhaenys, Clegane tue Aegon sous les yeux de sa mère, puis viole Elia et la tue. Tywin dira avoir voulu la mort des enfants pour prouver sa loyauté au nouveau roi, mais non celle d'Elia. Oberyn, qui voit là une vengeance de Tywin, attend dix-sept ans ; à Port-Réal, en 300 apr. C., Gregor avoue le crime devant lui pendant le duel judiciaire qui coûte la vie au prince.",
+        "en": "During the war Aerys had Elia and her children brought to the Red Keep. He reminded Prince Lewyn Martell, Elia's uncle and a knight of his Kingsguard, in blunt terms that he held them in his power; Lewyn led ten thousand Dornishmen to the Trident and died there. Convinced of Dornish treachery, the king kept Elia and her children as hostages when he sent the queen to Dragonstone.\n\nIn 283 AC Tywin Lannister's army entered King's Landing. Ser Gregor Clegane and Ser Amory Lorch broke into the royal apartments: Lorch killed Rhaenys, Clegane killed Aegon before his mother's eyes, then raped Elia and killed her. Tywin would say that he had wanted the children dead to prove his loyalty to the new king, but not Elia. Oberyn, who saw in it Tywin's revenge, waited seventeen years; in King's Landing in 300 AC, Gregor confessed the crime to his face during the trial by combat that cost the prince his life."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: Robert's Rebellion"
+        },
+        {
+          "id": "asos",
+          "locator": "Tyrion VI (ch. 53)"
+        },
+        {
+          "id": "asos",
+          "locator": "Tyrion X (ch. 70)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p7-rhaegar-elia",
+    "p7-harrenhal-281",
+    "p7-lyanna",
+    "p7-trident",
+    "p7-sac"
+  ],
+  "warIds": [
+    "rebellion-de-robert"
+  ],
+  "disputed": {
+    "fr": "Les histoires officielles, écrites sous les vainqueurs, ne nomment pas les meurtriers ; certaines rumeurs accusent Aerys, d'autres Elia elle-même, qui aurait voulu épargner pire à ses enfants. La part des ordres de Tywin dans la mort d'Elia n'est connue que par ses propres dires. Sa naissance se place vers 256 ou 257 apr. C.",
+    "en": "The official histories, written under the victors, do not name the killers; some rumours blame Aerys, others Elia herself, who supposedly wished to spare her children worse. How far Tywin's orders reached in Elia's death is known only from his own word. Her birth falls around 256 or 257 AC."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Fall of the Dragons: The Year of the False Spring"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Fall of the Dragons: Robert's Rebellion"
+    },
+    {
+      "id": "asos",
+      "locator": "Tyrion V (ch. 38)"
+    },
+    {
+      "id": "asos",
+      "locator": "Tyrion VI (ch. 53)"
+    },
+    {
+      "id": "asos",
+      "locator": "Tyrion X (ch. 70)"
+    }
+  ]
+}

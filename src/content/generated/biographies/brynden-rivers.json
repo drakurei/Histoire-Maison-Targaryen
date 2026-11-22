@@ -1,0 +1,228 @@
+{
+  "personId": "brynden-rivers",
+  "titles": [
+    {
+      "fr": "Main du Roi, sous Aerys Ier et Maekar Ier",
+      "en": "Hand of the King, under Aerys I and Maekar I"
+    },
+    {
+      "fr": "Maître des chuchoteurs, sous Aerys Ier",
+      "en": "Master of whisperers, under Aerys I"
+    },
+    {
+      "fr": "Lord Commandant de la Garde de Nuit",
+      "en": "Lord Commander of the Night's Watch"
+    }
+  ],
+  "lead": {
+    "fr": "Fils bâtard d'Aegon IV et de Melissa Blackwood, Brynden Rivers, dit Freuxsanglant, défendit les Targaryen contre les Feunoyr, fut la Main de deux rois, puis lord Commandant de la Garde de Nuit, avant de disparaître au-delà du Mur.",
+    "en": "The bastard son of Aegon IV and Melissa Blackwood, Brynden Rivers, called Bloodraven, defended the Targaryens against the Blackfyres, served two kings as Hand and then the Night's Watch as Lord Commander, before vanishing beyond the Wall."
+  },
+  "sections": [
+    {
+      "id": "brynden-rivers-jeunesse",
+      "heading": {
+        "fr": "Le fils de Melissa Blackwood",
+        "en": "The Son of Melissa Blackwood"
+      },
+      "body": {
+        "fr": "Brynden naît vers 175 apr. C. à Port-Réal, fils d'Aegon IV et de Melissa Blackwood, après ses sœurs Mya et Gwenys. Sa mère, que l'on dit bonne, se lie d'amitié avec la reine Naerys, le prince Daeron et Aemon le Chevalier-Dragon ; elle reste cinq ans la maîtresse du roi avant d'être écartée au profit de Bethany Bracken. Cette amitié vaut à son fils une place durable à la cour.\n\nBrynden est albinos : peau blanche, cheveux blancs, yeux rouges, et sur le visage une tache de vin dont la forme évoque, dit-on, un corbeau, d'où son surnom. Il apprend les armes avec ser Quentyn Boule, aux côtés des autres bâtards du roi et des fils de Daeron.\n\nLégitimé en 184 apr. C., il devient l'amant de sa demi-sœur Shiera, qui refuse obstinément de l'épouser. Aegor Rivers, qui la désirait aussi et haïssait déjà les Blackwood, en conçoit pour lui une haine redoublée.",
+        "en": "Brynden was born around 175 AC in King's Landing, the son of Aegon IV and Melissa Blackwood, after his sisters Mya and Gwenys. His mother, said to be kind, befriended Queen Naerys, Prince Daeron and Aemon the Dragonknight; she remained the king's mistress for five years before being set aside for Bethany Bracken. Those friendships secured her son a lasting place at court.\n\nBrynden was an albino: white skin, white hair, red eyes, and on his face a wine stain whose shape was said to recall a raven, hence his name. He learned arms with Ser Quentyn Ball, alongside the king's other bastards and Daeron's sons.\n\nLegitimised in 184 AC, he became the lover of his half-sister Shiera, who stubbornly refused to marry him. Aegor Rivers, who desired her too and already hated the Blackwoods, hated him all the more for it."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        }
+      ]
+    },
+    {
+      "id": "brynden-rivers-herberouge",
+      "heading": {
+        "fr": "Herberouge",
+        "en": "The Redgrass Field"
+      },
+      "body": {
+        "fr": "En 196 apr. C., Brynden reste fidèle à Daeron II. Un historien de la Citadelle le soupçonne d'avoir averti le roi que Daemon allait se déclarer. Pendant la guerre, il commande sa garde personnelle, une troupe d'archers qu'on appelle les Dents de Freux.\n\nAu Champ d'Herberouge, ses archers s'emparent de la Crête-en-Pleurs et tirent sur l'état-major rebelle à trois cents pas. Ils abattent Aegon, le fils aîné de Daemon, puis Daemon lui-même, puis le jumeau Aemon. La rumeur dira ces flèches guidées par la sorcellerie. Quand Aegor Rivers rallie les rebelles et charge la crête, les deux demi-frères s'affrontent ; Brynden y perd un œil, et Aegor doit fuir.\n\nLa victoire lui vaut la faveur du roi et une réputation qui ne le quittera plus, celle d'un meurtrier des siens. Il siège au conseil de Daeron II sans charge connue, et il y plaide contre la clémence envers les rebelles, que défend le prince Baelor.",
+        "en": "In 196 AC Brynden stayed loyal to Daeron II. A historian of the Citadel suspects him of having warned the king that Daemon was about to declare. During the war he commanded his personal guard, a company of archers called the Raven's Teeth.\n\nOn the Redgrass Field his archers took the Weeping Ridge and shot into the rebel command from three hundred yards. They brought down Aegon, Daemon's eldest son, then Daemon himself, then the twin, Aemon. Rumour would say sorcery guided those arrows. When Aegor Rivers rallied the rebels and charged the ridge, the two half-brothers met; Brynden lost an eye, and Aegor had to flee.\n\nThe victory won him the king's favour and a reputation that never left him, that of a kinslayer. He sat on Daeron II's council without any known office, and argued there against the clemency toward rebels that Prince Baelor defended."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        },
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow, the trial of seven"
+        }
+      ]
+    },
+    {
+      "id": "brynden-rivers-main",
+      "heading": {
+        "fr": "La Main d'Aerys Ier",
+        "en": "Hand to Aerys I"
+      },
+      "body": {
+        "fr": "En 209 apr. C., à la surprise de beaucoup, Aerys Ier fait de Brynden sa Main et son maître des chuchoteurs ; leur goût commun pour les savoirs occultes explique peut-être ce choix. La première épreuve est le Grand Fléau de Printemps : devant les cadavres qui s'entassent, la Main les fait brûler au feu grégeois dans Fossedragon. Viennent ensuite une sécheresse de plus d'un an, des paysans jetés sur les routes, les raids de Dagon Greyjoy sur les côtes de l'Ouest. Le peuple maudit le meurtrier des siens ; on murmure que Shiera et lui percent les secrets par sorcellerie.\n\nContre les Feunoyr, Brynden est efficace. En 212 apr. C., renseigné par ses espions, il marche sur Murs-Blancs avec une armée et arrête Daemon II sans combat ; il le garde en otage, pour qu'Aegor ne puisse couronner Haegon. En 219 apr. C., il réclame en vain la tête d'Aegor, capturé. Maekar Ier, qui s'était tant querellé avec lui, le garde pour Main à son avènement, en 221 apr. C.",
+        "en": "In 209 AC, to the surprise of many, Aerys I made Brynden his Hand and his master of whisperers; their shared taste for occult learning may explain the choice. The first trial was the Great Spring Sickness: faced with the bodies piling up, the Hand had them burned with wildfire in the Dragonpit. Then came a drought of more than a year, smallfolk driven onto the roads, and Dagon Greyjoy's raids on the western coasts. The people cursed the kinslayer; it was whispered that he and Shiera uncovered secrets by sorcery.\n\nAgainst the Blackfyres, Brynden was effective. In 212 AC, informed by his spies, he marched on Whitewalls with an army and arrested Daemon II without a fight; he kept him as a hostage, so that Aegor could not crown Haegon. In 219 AC he called in vain for the head of the captured Aegor. Maekar I, who had quarrelled with him so often, kept him as Hand on his accession in 221 AC."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        }
+      ]
+    },
+    {
+      "id": "brynden-rivers-mur",
+      "heading": {
+        "fr": "Le sauf-conduit et le Mur",
+        "en": "The Safe Conduct and the Wall"
+      },
+      "body": {
+        "fr": "À la mort de Maekar, en 233 apr. C., Brynden convoque un Grand Conseil pour régler la succession. Aenys Feunoyr, fils du premier prétendant, demande à y faire valoir ses droits ; la Main lui promet un sauf-conduit, puis le fait arrêter et décapiter dès son arrivée.\n\nLe conseil élit Aegon V, dont le premier acte est de faire arrêter sa Main pour ce meurtre. Brynden fait valoir qu'il a sacrifié son honneur au bien du royaume. Le roi ne le libère pas, mais lui laisse le choix entre la mort et la Garde de Nuit. Brynden prend le noir et part pour le Mur avec mestre Aemon, sous l'escorte de ser Duncan le Grand ; nombre de ses archers font route avec eux.\n\nIl est élu lord Commandant de la Garde de Nuit en 239 apr. C. En 252 apr. C., il disparaît au cours d'une patrouille au-delà du Mur. Pendant près d'un demi-siècle, on le tient pour mort.",
+        "en": "When Maekar died in 233 AC, Brynden summoned a Great Council to settle the succession. Aenys Blackfyre, the son of the first pretender, asked to put his claim before it; the Hand promised him safe conduct, then had him seized and beheaded as soon as he arrived.\n\nThe council chose Aegon V, whose first act was to have his Hand arrested for that murder. Brynden argued that he had sacrificed his honour for the good of the realm. The king would not free him, but gave him the choice between death and the Night's Watch. Brynden took the black and set out for the Wall with Maester Aemon, escorted by Ser Duncan the Tall; many of his archers made the journey with them.\n\nHe was chosen Lord Commander of the Night's Watch in 239 AC. In 252 AC he vanished while ranging beyond the Wall. For nearly half a century he was believed dead."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell II (ch. 15)"
+        },
+        {
+          "id": "acok",
+          "locator": "Jon I (ch. 6)"
+        }
+      ]
+    },
+    {
+      "id": "brynden-rivers-corneille",
+      "heading": {
+        "fr": "La corneille à trois yeux",
+        "en": "The Three-Eyed Crow"
+      },
+      "body": {
+        "fr": "A Dance with Dragons révèle qu'il ne l'est pas. Bran Stark, parvenu dans une caverne au-delà du Mur où vivent les enfants de la forêt, y trouve un vieillard décharné, assis sur un trône de racines de barral qui lui traversent le corps et jusqu'à l'orbite vide. C'est la corneille à trois yeux de ses rêves, et Bran l'appelle lord Brynden. Le vieil homme lui annonce que ses jambes ne le porteront plus, mais qu'il apprendra à voler, et devient son maître dans l'art de voir par les arbres et par les yeux des bêtes.\n\nIl avoue à Bran que des morts le hantent encore : deux de ses frères, auxquels l'attachaient l'affection pour l'un et la haine pour l'autre, et une femme qu'il a convoitée. Le texte ne donne pas leurs noms.\n\nBrynden Rivers est donc vivant à la fin de 300 apr. C. ; il aurait alors environ cent vingt-cinq ans. Les livres publiés ne disent pas comment il a survécu si longtemps, ni ce qu'il attend au juste de Bran.",
+        "en": "A Dance with Dragons reveals that he was not. Bran Stark, having reached a cave beyond the Wall where the children of the forest live, finds there a wasted old man seated on a throne of weirwood roots that grow through his body and into his empty eye socket. He is the three-eyed crow of Bran's dreams, and Bran calls him Lord Brynden. The old man tells him that his legs will never carry him again but that he will learn to fly, and becomes his master in the art of seeing through the trees and through the eyes of beasts.\n\nHe admits to Bran that he is still haunted by the dead: two of his brothers, one bound to him by affection and the other by hatred, and a woman he once wanted. The text does not give their names.\n\nBrynden Rivers is thus alive at the end of 300 AC; he would then be about a hundred and twenty-five years old. The published books do not say how he has survived so long, nor exactly what he wants of Bran."
+      },
+      "sources": [
+        {
+          "id": "adwd",
+          "locator": "Bran II (ch. 13)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Bran III (ch. 34)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-aegon-iv",
+    "p6-herberouge",
+    "p6-cendregue-209",
+    "p6-murs-blancs",
+    "p6-troisieme-feunoyr",
+    "p6-grand-conseil-233"
+  ],
+  "warIds": [
+    "rebellion-feunoyr-1",
+    "rebellion-feunoyr-2",
+    "rebellion-feunoyr-3"
+  ],
+  "disputed": {
+    "fr": "L'avertissement donné à Daeron II en 196 apr. C. ne lui est attribué que par hypothèse. La rumeur lui prêta des pouvoirs de sorcier dès son vivant, à Herberouge comme pendant ses années de Main. Son identification à la corneille à trois yeux repose sur A Dance with Dragons, où Bran le nomme lord Brynden ; la manière dont il a survécu n'est pas expliquée. Sa naissance se place en 175 apr. C. ou peu avant.",
+    "en": "The warning given to Daeron II in 196 AC is attributed to him only by hypothesis. Rumour credited him with a sorcerer's powers in his own lifetime, at the Redgrass Field as during his years as Hand. His identification with the three-eyed crow rests on A Dance with Dragons, where Bran names him Lord Brynden; how he has survived is not explained. His birth falls in 175 AC or shortly before."
+  },
+  "adaptation": {
+    "fr": "Dans Game of Thrones, le personnage n'apparaît que sous le nom de « Three-Eyed Raven » ; son passé de bâtard royal et de Main n'est pas évoqué à l'écran. La série le fait mourir dans la caverne lors de l'attaque des morts, alors que les livres le laissent en vie à la fin d'A Dance with Dragons.",
+    "en": "In Game of Thrones the character appears only as the “Three-Eyed Raven”; his past as a royal bastard and as Hand is not mentioned on screen. The series has him die in the cave when the dead attack, whereas the books leave him alive at the end of A Dance with Dragons."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon IV"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Maekar I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon V"
+    },
+    {
+      "id": "thk",
+      "locator": "Ashford Meadow, the trial of seven"
+    },
+    {
+      "id": "tss",
+      "locator": "Standfast; Ser Eustace Osgrey on the Redgrass Field"
+    },
+    {
+      "id": "tmk",
+      "locator": "Whitewalls"
+    },
+    {
+      "id": "affc",
+      "locator": "Samwell II (ch. 15)"
+    },
+    {
+      "id": "acok",
+      "locator": "Jon I (ch. 6)"
+    },
+    {
+      "id": "adwd",
+      "locator": "Bran II (ch. 13)"
+    },
+    {
+      "id": "adwd",
+      "locator": "Bran III (ch. 34)"
+    },
+    {
+      "id": "got",
+      "locator": "Season 4, Episode 10; Season 6, Episode 5"
+    }
+  ]
+}

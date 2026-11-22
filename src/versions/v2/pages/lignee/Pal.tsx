@@ -81,7 +81,7 @@ function NomPal({ person, ctx, taille, children }: { person: Person; ctx: Contex
       data-chemin={ctx.chemin.has(person.id) ? '' : undefined}
     >
       <Lien to={ctx.recentre(person.id)} className={styles.lien} onClick={ctx.avant}>
-        {sovereign ? <CrownGlyph className={styles.couronne} size="0.8em" title={t('label.reign')} /> : null}
+        {sovereign ? <CrownGlyph variant="legible" className={styles.couronne} size="0.8em" title={t('label.reign')} /> : null}
         <span lang={name.isHv ? VALYRIAN_TAG : undefined}>{court.nom}</span>
       </Lien>
       {court.precision && taille !== 'petit' ? <span className={styles.precision}>{court.precision}</span> : null}

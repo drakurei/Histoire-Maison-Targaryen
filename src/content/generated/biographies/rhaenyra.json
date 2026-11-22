@@ -1,0 +1,210 @@
+{
+  "personId": "rhaenyra",
+  "titles": [
+    {
+      "fr": "Reine, couronnée à Peyredragon en 129 apr. C. (prétendante)",
+      "en": "Queen, crowned on Dragonstone in 129 AC (claimant)"
+    },
+    {
+      "fr": "Princesse de Peyredragon",
+      "en": "Princess of Dragonstone"
+    },
+    {
+      "fr": "Héritière désignée de Viserys Ier",
+      "en": "Designated heir of Viserys I"
+    },
+    {
+      "fr": "Princesse",
+      "en": "Princess"
+    }
+  ],
+  "lead": {
+    "fr": "Fille aînée de Viserys Ier, désignée héritière en 105 apr. C., Rhaenyra disputa le trône à son demi-frère Aegon II pendant la Danse des Dragons et le tint quelques mois avant d'être livrée à Sunfyre.",
+    "en": "Eldest child of Viserys I, named heir in 105 AC, Rhaenyra contested the throne with her half-brother Aegon II in the Dance of the Dragons and held it for a few months before she was given to Sunfyre."
+  },
+  "sections": [
+    {
+      "id": "rhaenyra-heritiere",
+      "heading": {
+        "fr": "Une héritière contre l'usage",
+        "en": "An Heir Against Custom"
+      },
+      "body": {
+        "fr": "Rhaenyra naît en 97 apr. C. du prince Viserys et d'Aemma Arryn, seule enfant du couple à survivre au berceau. Elle monte Syrax vers sept ans et, l'année suivante, devient l'échanson de son père, qu'elle sert à table, aux tournois et à la cour. Les chroniques la décrivent vive et hardie ; le peuple l'appelle alors « le Délice du royaume ».\n\nEn 105 apr. C., Aemma meurt en couches et l'enfant, Baelon, ne lui survit qu'un jour. Viserys, blessé par les plaisanteries que Daemon aurait faites sur cet « héritier d'un jour », fait de sa fille la princesse de Peyredragon et réunit les seigneurs pour qu'ils lui jurent fidélité. Le geste contredit le Grand Conseil de 101 apr. C., qui avait écarté les droits transmis par les femmes. Le remariage du roi avec Alicent Hightower, l'année suivante, puis la naissance de deux fils rouvrent aussitôt la question que le serment devait clore.",
+        "en": "Rhaenyra was born in 97 AC to Prince Viserys and Aemma Arryn, the only child of the marriage to survive infancy. She flew Syrax at about seven and, a year later, became her father's cupbearer, serving him at table, at tourneys and at court. The chronicles describe a quick and bold girl; the smallfolk of the time called her “the Realm's Delight”.\n\nIn 105 AC Aemma died in childbirth, and the boy, Baelon, outlived her by a single day. Viserys, stung by the jokes Daemon was said to have made about an “heir for a day”, named his daughter Princess of Dragonstone and summoned the lords to swear fealty to her. The act ran against the Great Council of 101 AC, which had set aside claims passed through women. The king's remarriage to Alicent Hightower the following year, and then the birth of two sons, reopened at once the question the oath was meant to settle."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "rhaenyra-mariages",
+      "heading": {
+        "fr": "Deux mariages et une rumeur",
+        "en": "Two Marriages and a Rumour"
+      },
+      "body": {
+        "fr": "Le tournoi de 111 apr. C. donne leur nom aux deux partis : la reine y porte du vert, la princesse le rouge et le noir de sa maison. Viennent ensuite les prétendants, puis un mariage politique. En 114 apr. C., Rhaenyra épouse Laenor Velaryon, héritier de Lamarck, dont chacun savait qu'il préférait la compagnie des hommes ; Gyldayn rapporte qu'elle n'accepta l'union que sous la menace d'être remplacée par Aegon. Les époux vivent le plus souvent séparés.\n\nTrois fils naissent, Jacaerys, Lucerys et Joffrey, aux cheveux et aux yeux bruns, alors que leurs deux parents ont les traits de Valyria. La cour murmure le nom de ser Harwin Strong, toujours proche de la princesse. Viserys protège ses petits-fils et menace de la langue quiconque répète l'accusation. En 120 apr. C., après la mort de Laenor, Rhaenyra épouse en secret son oncle Daemon ; Aegon naît à la fin de l'année, Viserys en 122 apr. C.",
+        "en": "The tourney of 111 AC gave the two parties their names: the queen wore green, the princess the red and black of her house. Suitors followed, then a political marriage. In 114 AC Rhaenyra wed Laenor Velaryon, heir to Driftmark, whose preference for the company of men was common knowledge; Gyldayn reports that she accepted the match only under the threat of being replaced by Aegon. The couple lived apart most of the time.\n\nThree sons were born, Jacaerys, Lucerys and Joffrey, with brown hair and brown eyes, although both their parents had the looks of Valyria. The court whispered the name of Ser Harwin Strong, who was never far from the princess. Viserys shielded his grandsons and threatened the tongue of anyone who repeated the charge. In 120 AC, after Laenor's death, Rhaenyra secretly married her uncle Daemon; Aegon was born at the end of that year, Viserys in 122 AC."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "trp"
+        }
+      ]
+    },
+    {
+      "id": "rhaenyra-couronne",
+      "heading": {
+        "fr": "La couronne de Peyredragon",
+        "en": "The Crown of Dragonstone"
+      },
+      "body": {
+        "fr": "Viserys meurt en 129 apr. C. pendant que sa fille, enceinte, attend à Peyredragon. Les verts retiennent la nouvelle assez longtemps pour couronner Aegon II. Quand elle l'apprend, Rhaenyra entre en travail avant terme et met au monde une fille morte, Visenya, dont elle impute la perte à ses ennemis. Elle se fait couronner à son tour : ser Steffon Darklyn a rapporté de Port-Réal la couronne de Jaehaerys et de Viserys, et Daemon la lui pose sur la tête.\n\nElle rejette les conditions de son demi-frère, qui lui laissait Peyredragon contre sa renonciation. La guerre qu'elle conduit est d'abord une guerre d'alliances : ses fils partent en messagers, et Lucerys est tué au-dessus de la baie des Naufrageurs. Les pertes s'enchaînent, Repos-du-Freux puis le Gosier, jusqu'à ce qu'en 130 apr. C. les dragons des noirs la portent jusqu'à Port-Réal, que les verts n'ont plus les moyens de tenir.",
+        "en": "Viserys died in 129 AC while his daughter, heavily pregnant, waited on Dragonstone. The greens held back the news long enough to crown Aegon II. When it reached her, Rhaenyra went into early labour and gave birth to a dead daughter, Visenya, whose loss she laid at her enemies' door. She had herself crowned in turn: Ser Steffon Darklyn had brought from King's Landing the crown of Jaehaerys and Viserys, and Daemon set it on her head.\n\nShe rejected her half-brother's terms, which would have left her Dragonstone in exchange for giving up her claim. The war she led was at first a war of alliances: her sons went out as envoys, and Lucerys was killed over Shipbreaker Bay. Losses followed one another, Rook's Rest and then the Gullet, until in 130 AC the dragons of the blacks carried her into King's Landing, which the greens no longer had the means to hold."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "id": "rhaenyra-port-real",
+      "heading": {
+        "fr": "Six mois au Donjon Rouge",
+        "en": "Half a Year in the Red Keep"
+      },
+      "body": {
+        "fr": "Rhaenyra prend place sur le Trône de Fer et y reçoit, toute une nuit, la soumission des vaincus. Elle règne environ six mois. Les verts ont vidé le trésor avant de fuir ; son grand argentier lève impôt sur impôt, et la ville qui l'avait accueillie se met à l'affubler d'un sobriquet injurieux qui l'assimile à Maegor. Les têtes se multiplient au-dessus des portes.\n\nLa méfiance gagne la reine. Après la trahison de deux dragonniers à Tumbleton, elle déclare traîtres Addam Velaryon et Orties ; Corlys, qui a prévenu Addam, est emprisonné, et la flotte velaryonne se retire. La mort de la reine Helaena, que la rumeur lui impute, déclenche l'émeute. La foule du Berger prend d'assaut Fossedragon, Joffrey meurt en tentant de monter Syrax, et Syrax elle-même périt. Le lendemain, Rhaenyra quitte la ville avec son fils Aegon et une poignée de fidèles.",
+        "en": "Rhaenyra took her seat on the Iron Throne and spent a whole night there receiving the submission of the defeated. She ruled for about six months. The greens had emptied the treasury before they fled; her master of coin raised one tax after another, and the city that had welcomed her began to call her by an insulting name that likened her to Maegor. Heads multiplied above the gates.\n\nDistrust took hold of the queen. After two dragonriders changed sides at Tumbleton, she declared Addam Velaryon and Nettles traitors; Corlys, who had warned Addam, was imprisoned, and the Velaryon fleet withdrew. The death of Queen Helaena, which rumour laid at her door, set off a riot. The Shepherd's mob stormed the Dragonpit, Joffrey died trying to mount Syrax, and Syrax herself perished. The next day Rhaenyra left the city with her son Aegon and a handful of loyal followers."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        }
+      ]
+    },
+    {
+      "id": "rhaenyra-fin",
+      "heading": {
+        "fr": "La fin à Peyredragon",
+        "en": "The End on Dragonstone"
+      },
+      "body": {
+        "fr": "La fuite est une longue déchéance. Sans argent, Rhaenyra vend sa couronne pour payer son passage sur un navire braavien et gagne Peyredragon, qu'elle croit encore sûr. L'île est tombée par trahison aux mains d'Aegon II. Ser Alfred Broome la livre ; ses derniers gardes sont tués. Dans la cour du château, Aegon II la fait brûler et dévorer par Sunfyre, blessé et incapable de voler, sous les yeux de son jeune fils Aegon.\n\nSa mémoire reste partagée. Pour les partisans d'Aegon II, elle fut une usurpatrice, et les listes officielles des rois ne la comptent pas ; pour d'autres, elle était l'héritière légitime de son père, trahie par le propre conseil de celui-ci. Ses deux fils cadets, nés de Daemon, ont pourtant régné l'un après l'autre, Aegon III puis Viserys II, si bien que tous les rois Targaryen venus ensuite descendent d'elle.",
+        "en": "Her flight was a long decline. Without money, Rhaenyra sold her crown to pay for passage on a Braavosi ship and made for Dragonstone, which she believed still safe. The island had fallen to Aegon II through treachery. Ser Alfred Broome handed her over; her last guards were cut down. In the castle yard Aegon II had her burned and devoured by Sunfyre, wounded and unable to fly, before the eyes of her young son Aegon.\n\nHer memory remains divided. To Aegon II's partisans she was a usurper, and the official lists of kings do not count her; to others she was her father's lawful heir, betrayed by his own council. Yet her two younger sons by Daemon both reigned in turn, Aegon III and then Viserys II, so that every Targaryen king who came after descends from her."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        },
+        {
+          "id": "asos",
+          "locator": "Chapter 36"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "syrax",
+    "sunfyre"
+  ],
+  "eventIds": [
+    "p5-rhaenyra-heritiere",
+    "p5-alicent",
+    "p5-verts-noirs",
+    "p5-mariage-laenor",
+    "p5-printemps-rouge",
+    "p5-mort-viserys",
+    "p5-deux-couronnements",
+    "p5-accalmie",
+    "p5-chute-port-real",
+    "p5-fossedragon",
+    "p5-mort-rhaenyra"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "La paternité de Jacaerys, Lucerys et Joffrey n'a jamais été établie : la version officielle les tient pour fils de Laenor Velaryon, la rumeur pour fils de Harwin Strong. Ses liens avec Daemon et avec ser Criston Cole avant son premier mariage ne sont connus que par le septon Eustace et le bouffon Champignon, qui se contredisent. Eustace, favorable aux verts, affirme aussi que le Trône de Fer la blessait chaque fois qu'elle s'y asseyait, détail qui sert sa thèse d'un règne rejeté.",
+    "en": "The paternity of Jacaerys, Lucerys and Joffrey was never established: the official version holds them to be Laenor Velaryon's sons, rumour Harwin Strong's. Her relations with Daemon and with Ser Criston Cole before her first marriage are known only through Septon Eustace and the fool Mushroom, who contradict each other. Eustace, who favoured the greens, also claims that the Iron Throne cut her each time she sat on it, a detail that suits his view of a reign the throne itself rejected."
+  },
+  "adaptation": {
+    "fr": "House of the Dragon laisse peu de doute sur la paternité de Harwin Strong et ajoute une prophétie transmise d'héritier en héritier, absente des livres, dont la série fait dépendre en partie le coup de force des verts à travers une méprise d'Alicent au chevet du roi mourant.",
+    "en": "House of the Dragon leaves little doubt about Harwin Strong's paternity and adds a prophecy handed down from heir to heir, absent from the books, on which the series partly rests the greens' seizure of power through Alicent's misreading of the dying king's words."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon II"
+    },
+    {
+      "id": "tpatq"
+    },
+    {
+      "id": "trp"
+    },
+    {
+      "id": "hotd",
+      "locator": "Season 1"
+    }
+  ]
+}

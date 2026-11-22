@@ -1,0 +1,179 @@
+{
+  "personId": "baela",
+  "titles": [
+    {
+      "fr": "Dame de Lamarck, par son mariage avec Alyn Velaryon",
+      "en": "Lady of Driftmark, by her marriage to Alyn Velaryon"
+    },
+    {
+      "fr": "Princesse",
+      "en": "Princess"
+    },
+    {
+      "fr": "Cavalière de Moondancer",
+      "en": "Rider of Moondancer"
+    }
+  ],
+  "lead": {
+    "fr": "Fille de Daemon et de Laena Velaryon, aînée de deux jumelles, Baela affronta Aegon II sur Moondancer en 130 apr. C. et devint ensuite, par son mariage avec Alyn Velaryon, dame de Lamarck.",
+    "en": "Daughter of Daemon and Laena Velaryon and the elder of twins, Baela fought Aegon II on Moondancer in 130 AC and afterwards, by her marriage to Alyn Velaryon, became Lady of Driftmark."
+  },
+  "sections": [
+    {
+      "id": "baela-enfance",
+      "heading": {
+        "fr": "Une jumelle de Pentos",
+        "en": "A Twin from Pentos"
+      },
+      "body": {
+        "fr": "Baela naît à Pentos en 116 apr. C., l'aînée de deux jumelles, petites et fragiles à la naissance ; elle porte le nom de son grand-père paternel, le prince Baelon. Six mois plus tard, sa mère la ramène à Lamarck, et Daemon la présente à la cour l'année suivante. En 118 apr. C., avec la bénédiction du roi, elle est promise à son cousin Jacaerys, l'aîné de Rhaenyra.\n\nSa mère meurt en 120 apr. C. et son père épouse Rhaenyra la même année : Baela grandit à Peyredragon, parmi les enfants des deux mariages. Elle se lie à un jeune dragon, Moondancer, encore trop petit pour la porter quand la guerre éclate. Les chroniques la montrent rétive et batailleuse, prompte à lutter avec les écuyers dans la cour du château, ce qu'on lui reproche sans grand effet.",
+        "en": "Baela was born in Pentos in 116 AC, the elder of twin girls who were small and frail at birth; she was named after her paternal grandfather, Prince Baelon. Six months later her mother brought her home to Driftmark, and Daemon presented her at court the following year. In 118 AC, with the king's blessing, she was betrothed to her cousin Jacaerys, Rhaenyra's eldest.\n\nHer mother died in 120 AC and her father married Rhaenyra that same year: Baela grew up on Dragonstone, among the children of both marriages. She bonded with a young dragon, Moondancer, still too small to carry her when war broke out. The chronicles show her restless and combative, quick to wrestle with squires in the castle yard, for which she was scolded to little effect."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "id": "baela-moondancer",
+      "heading": {
+        "fr": "Moondancer contre Sunfyre",
+        "en": "Moondancer Against Sunfyre"
+      },
+      "body": {
+        "fr": "En 129 apr. C., Baela veut combattre aux côtés de Jacaerys et l'épouser sans attendre ; il préfère attendre la paix, et meurt au Gosier. Elle vole pour la première fois sur Moondancer en 130 apr. C. et partage ses jours entre Peyredragon et Lamarck. Quand Grey Ghost est retrouvé mort au pied du Mont-Dragon, elle veut aller voir elle-même ce qui l'a tué ; le castellan, ser Robert Quince, la fait enfermer.\n\nPendant la chute de Peyredragon, dans la seconde moitié de 130 apr. C., elle quitte sa chambre par la fenêtre et rejoint Moondancer. Quand Aegon II descend sur Sunfyre, elle s'élève à sa rencontre. Les deux dragons s'empoignent et s'écrasent dans la cour. Moondancer meurt, Sunfyre ne volera plus. Brûlée et meurtrie, Baela parvient à se dégager ; ser Marston Waters arrête l'épée d'Alfred Broome, qui allait l'achever.",
+        "en": "In 129 AC Baela wanted to fight beside Jacaerys and to marry him without delay; he preferred to wait for peace, and died in the Gullet. She first flew Moondancer in 130 AC and divided her days between Dragonstone and Driftmark. When Grey Ghost was found dead at the foot of the Dragonmont, she wanted to go and see for herself what had killed him; the castellan, Ser Robert Quince, had her confined.\n\nDuring the fall of Dragonstone, in the second half of 130 AC, she left her chamber by the window and reached Moondancer. When Aegon II came down on Sunfyre, she rose to meet him. The two dragons grappled and crashed into the yard. Moondancer died; Sunfyre would never fly again. Burned and battered, Baela managed to free herself; Ser Marston Waters stopped the sword of Alfred Broome, who was about to finish her."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        }
+      ]
+    },
+    {
+      "id": "baela-captive",
+      "heading": {
+        "fr": "Captive d'Aegon II",
+        "en": "Aegon II's Captive"
+      },
+      "body": {
+        "fr": "Baela passe les mois suivants dans les cachots de Peyredragon. À la mort de Sunfyre, Aegon II, en larmes, la fait conduire au billot, puis se ravise quand on lui rappelle qu'elle est la petite-fille de Corlys Velaryon : il préfère s'en servir pour contraindre Alyn Velaryon à se soumettre. Corlys fait de sa libération une condition de son ralliement ; Baela suit pourtant la cour à Port-Réal enchaînée, tant on craint qu'elle ne s'en prenne au roi.\n\nLe jour où Aegon II meurt empoisonné, en 131 apr. C., des hommes de Larys Strong l'emmènent hors de sa prison. Pendant l'Heure du Loup, quand Cregan Stark condamne ceux qui l'ont délivrée, elle brandit une épée pour les défendre, et Cregan, amusé, leur laisse la vie. Avec sa sœur, elle obtient d'Aegon III la grâce de leur grand-père.",
+        "en": "Baela spent the following months in the dungeons of Dragonstone. When Sunfyre died, a weeping Aegon II had her brought to the block, then thought better of it when reminded that she was Corlys Velaryon's granddaughter: he preferred to use her to force Alyn Velaryon's submission. Corlys made her release a condition of rallying to the king; Baela nonetheless followed the court to King's Landing in chains, so great was the fear that she would attack the king.\n\nOn the day Aegon II died of poison, in 131 AC, men of Larys Strong took her from her prison. During the Hour of the Wolf, when Cregan Stark condemned those who had freed her, she brandished a sword in their defence, and Cregan, amused, spared their lives. With her sister, she won from Aegon III a pardon for their grandfather."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "fab",
+          "locator": "Aftermath: The Hour of the Wolf"
+        }
+      ]
+    },
+    {
+      "id": "baela-lamarck",
+      "heading": {
+        "fr": "Dame de Lamarck",
+        "en": "Lady of Driftmark"
+      },
+      "body": {
+        "fr": "Sous la régence, Baela et Rhaena sont presque les seules Targaryen que l'on voie, et le peuple de Port-Réal les adopte. Baela fausse compagnie à ses dames pour courir la ville, parier, traverser la Néra à la nage en pleine nuit. En 132 apr. C., les régents, qui voient dans les jumelles les seules héritières acceptables d'un roi sans enfant, veulent la marier à lord Thaddeus Rowan. Elle s'enfuit à Lamarck et épouse quinze jours plus tard Alyn Velaryon, nouveau seigneur des Marées.\n\nCe coup d'éclat l'écarte de la succession aux yeux des régents. En 133 apr. C., au bal donné pour choisir une épouse au roi, elle et Rhaena présentent à Aegon III la jeune Daenaera Velaryon, sa pupille, qu'il épouse à la fin de l'année. Une fille, Laena, naît en 134 apr. C. pendant le grand voyage d'Alyn. Le mariage est orageux, et la date de la mort de Baela n'est pas connue.",
+        "en": "Under the regency, Baela and Rhaena were almost the only Targaryens to be seen, and the people of King's Landing took them to heart. Baela gave her ladies the slip to roam the city, to gamble, to swim the Blackwater in the dead of night. In 132 AC the regents, who saw the twins as the only acceptable heirs to a childless king, sought to marry her to Lord Thaddeus Rowan. She fled to Driftmark and a fortnight later married Alyn Velaryon, the new Lord of the Tides.\n\nThat stroke put her out of the succession in the regents' eyes. In 133 AC, at the Maiden's Day ball held to find the king a bride, she and Rhaena presented to Aegon III the young Daenaera Velaryon, her ward, whom he married at the end of the year. A daughter, Laena, was born in 134 AC during Alyn's great voyage. The marriage was stormy, and the date of Baela's death is not known."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Hooded Hand"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: War and Peace and Cattle Shows"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+        },
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "moondancer",
+    "sunfyre"
+  ],
+  "eventIds": [
+    "p5-gosier",
+    "p5-peyredragon-reprise",
+    "p5-mort-aegon-ii",
+    "p5-heure-du-loup",
+    "p6-regence"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "Champignon attribue à Alysanne Blackwood, et non aux jumelles, la grâce accordée à Corlys Velaryon. Le lien de parenté de Baela avec son mari dépend d'une autre incertitude : Alyn est son cousin s'il est fils de Laenor, son oncle s'il est fils de Corlys, comme l'affirme Champignon. La date de sa mort n'est pas donnée.",
+    "en": "Mushroom credits Alysanne Blackwood, not the twins, with the pardon granted to Corlys Velaryon. Baela's kinship with her husband hangs on another uncertainty: Alyn is her cousin if he was Laenor's son, her uncle if he was Corlys's, as Mushroom asserts. The date of her death is not recorded."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+    },
+    {
+      "id": "fab",
+      "locator": "Aftermath: The Hour of the Wolf"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: The Hooded Hand"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: War and Peace and Cattle Shows"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys I"
+    }
+  ]
+}

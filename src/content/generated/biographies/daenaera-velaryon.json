@@ -1,0 +1,155 @@
+{
+  "personId": "daenaera-velaryon",
+  "titles": [
+    {
+      "fr": "Reine",
+      "en": "Queen"
+    }
+  ],
+  "lead": {
+    "fr": "Choisie à six ans par Aegon III au bal du jour de la Jouvencelle, Daenaera Velaryon fut reine pendant la régence et le règne de son mari, et mère des rois Daeron Ier et Baelor Ier.",
+    "en": "Chosen at the age of six by Aegon III at the Maiden's Day ball, Daenaera Velaryon was queen through her husband's regency and reign, and mother of Kings Daeron I and Baelor I."
+  },
+  "sections": [
+    {
+      "id": "daenaera-velaryon-origines",
+      "heading": {
+        "fr": "Une enfant de l'après-guerre",
+        "en": "A Child of the Aftermath"
+      },
+      "body": {
+        "fr": "Daenaera naît vers 127 apr. C., fille de Daeron Velaryon et de Hazel Harte. Elle appartient à une maison que la Danse avait durement éprouvée : les Velaryon y avaient perdu une part de leur flotte, leur château de Lamarck et plusieurs des leurs. Les années qui suivent n'épargnent pas sa famille. Sa mère meurt de la fièvre d'Hiver ; son père se noie aux Degrés de Pierre en 133 apr. C., lors de l'attaque menée par lord Alyn Velaryon pendant la guerre des Filles. À six ans, Daenaera est orpheline.\n\nLes chroniques la décrivent comme une enfant d'une beauté singulière, aux longs cheveux d'argent mêlés d'or et aux yeux bleus, au sourire hardi et espiègle, d'un naturel heureux. On ne sait presque rien d'autre de ses premières années : les récits ne parlent d'elle qu'au moment où sa vie croise celle du roi.",
+        "en": "Daenaera was born around 127 AC, the daughter of Daeron Velaryon and Hazel Harte. She belonged to a house the Dance had sorely tried: the Velaryons had lost part of their fleet, their castle on Driftmark and several of their own. The years that followed did not spare her family. Her mother died of the Winter Fever; her father drowned in the Stepstones in 133 AC, during the attack led by Lord Alyn Velaryon in the Daughters' War. At six Daenaera was an orphan.\n\nThe chronicles describe her as a child of rare beauty, with long silver hair streaked with gold and blue eyes, a bold and mischievous smile and a sunny nature. Almost nothing else is known of her early years: the accounts speak of her only when her life crosses the king's."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Under the Regents: War and Peace and Cattle Shows"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        }
+      ]
+    },
+    {
+      "id": "daenaera-velaryon-bal",
+      "heading": {
+        "fr": "Le bal de la Jouvencelle",
+        "en": "The Maiden's Day Ball"
+      },
+      "body": {
+        "fr": "La mort de Jaehaera, en 133 apr. C., laisse Aegon III veuf. La Main, lord Unwin Peake, veut lui faire épouser sa propre fille ; les autres régents s'y opposent. Peake organise alors, le jour de la Jouvencelle, un bal dans la salle du trône où près d'un millier de jeunes filles sont présentées au roi, la sienne parmi elles.\n\nPresque à la fin, Rhaena et Baela, demi-sœurs du roi, lui amènent Daenaera en annonçant qu'elles ont trouvé sa reine. Elle a six ans. La cour voit dans cette enfant rieuse un remède à la mélancolie d'Aegon, et quand le roi lui rend son sourire en lui disant qu'elle est jolie, chacun comprend qu'il a choisi. Le mariage est célébré le dernier jour de 133 apr. C. Peake, qui espérait un héritier rapide et voit sa fille écartée, prend l'affaire comme un affront ; son échec à faire annuler l'union compte parmi les causes de sa démission, en 134 apr. C.",
+        "en": "Jaehaera's death in 133 AC left Aegon III a widower. The Hand, Lord Unwin Peake, wanted him to marry his own daughter; the other regents opposed it. Peake then arranged a ball in the throne room on Maiden's Day, at which nearly a thousand maidens were presented to the king, his daughter among them.\n\nAlmost at the end, Rhaena and Baela, the king's half-sisters, brought Daenaera before him, announcing that they had found his queen. She was six. The court saw in this laughing child a remedy for Aegon's gloom, and when the king returned her smile and told her she looked pretty, everyone understood that he had chosen. The wedding took place on the last day of 133 AC. Peake, who had hoped for a swift heir and saw his daughter passed over, took the matter as an affront; his failure to have the marriage set aside was among the causes of his resignation in 134 AC."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Under the Regents: War and Peace and Cattle Shows"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        }
+      ]
+    },
+    {
+      "id": "daenaera-velaryon-regence",
+      "heading": {
+        "fr": "Une reine sous la régence",
+        "en": "A Queen Under the Regency"
+      },
+      "body": {
+        "fr": "Daenaera égaie un temps son mari : à trois reprises, il l'emmène hors du Donjon Rouge pour lui montrer la ville. Le retour de son frère Viserys, en 134 apr. C., la relègue au second plan, jusqu'à ce qu'une querelle entre les deux frères rapproche de nouveau le roi de sa femme. C'est lors d'un dîner paisible, en 135 apr. C., que le goûteur et ami du roi, Gaemon Palehair, s'effondre : les tartes aux pommes avaient été empoisonnées aux larmes de Lys. Daenaera, qui en a mangé, survit grâce à la purge que lui administre le grand mestre Munkun ; Gaemon meurt dans l'heure.\n\nPendant le siège secret de la citadelle de Maegor, où les deux frères s'enferment dix-huit jours, les vivres manquent au point que la petite reine s'endort chaque soir en pleurant. Au procès de 136 apr. C., trois de ses dames comparaissent parmi les accusés ; l'une avoue avoir souhaité sa mort, s'estimant privée de la couronne.",
+        "en": "For a time Daenaera brightened her husband's days: on three occasions he took her out of the Red Keep to show her the city. The return of his brother Viserys in 134 AC pushed her aside, until a quarrel between the brothers drew the king back to his wife. It was at a quiet supper in 135 AC that the king's taster and friend, Gaemon Palehair, collapsed: the apple tarts had been poisoned with the tears of Lys. Daenaera, who had eaten some, survived thanks to the purgative Grand Maester Munkun gave her; Gaemon died within the hour.\n\nDuring the secret siege of Maegor's Holdfast, where the two brothers shut themselves in for eighteen days, food ran so short that the little queen cried herself to sleep each night. At the trials of 136 AC three of her ladies stood among the accused; one admitted she had wished her dead, believing herself robbed of the crown."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+        },
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        }
+      ]
+    },
+    {
+      "id": "daenaera-velaryon-posterite",
+      "heading": {
+        "fr": "Mère de rois",
+        "en": "Mother of Kings"
+      },
+      "body": {
+        "fr": "Torrhen Manderly, Main en 136 apr. C., avait prévu pour les seize ans du roi un long voyage à travers le royaume, où la reine, pensait-il, gagnerait les cœurs que le roi ne savait pas gagner ; Aegon III l'annula en congédiant ses régents. Daenaera, qui avait souhaité un dragon à elle en voyant voler Morning, n'en eut jamais.\n\nLe mariage n'est consommé que bien des années plus tard. Elle donne ensuite au roi cinq enfants : Daeron en 143, Baelor en 144, Daena en 145, Rhaena en 147 et Elaena en 150 apr. C. Ses deux fils règnent après leur père, Daeron Ier, qui soumet Dorne pour un temps, puis Baelor Ier. Par Daena, mère du bâtard Daemon Feunoyr, elle est l'aïeule d'une lignée qui disputera le trône aux Targaryen pendant des générations. On ignore si elle survécut à son mari, mort en 157 apr. C.",
+        "en": "Torrhen Manderly, Hand in 136 AC, had planned a long progress through the realm for the king's sixteenth name day, in which the queen, he thought, would win the hearts the king could not; Aegon III cancelled it when he dismissed his regents. Daenaera, who had wished for a dragon of her own on seeing Morning fly, never had one.\n\nThe marriage was consummated only many years later. She then gave the king five children: Daeron in 143, Baelor in 144, Daena in 145, Rhaena in 147 and Elaena in 150 AC. Her two sons reigned after their father, Daeron I, who subdued Dorne for a time, then Baelor I. Through Daena, mother of the bastard Daemon Blackfyre, she was the ancestress of a line that would contest the throne with the Targaryens for generations. Whether she outlived her husband, who died in 157 AC, is unknown."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-regence",
+    "p6-daeron-dorne"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "Son année de naissance se déduit de son âge au bal de 133 apr. C. ; aucune source ne donne celle de sa mort, et l'on ignore si elle survécut à Aegon III.",
+    "en": "Her year of birth is inferred from her age at the ball of 133 AC; no source gives the year of her death, and it is not known whether she outlived Aegon III."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Under the Regents: War and Peace and Cattle Shows"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+    },
+    {
+      "id": "fab",
+      "locator": "The Lysene Spring and the End of Regency"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon III"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Daeron I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Baelor I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon IV"
+    }
+  ]
+}

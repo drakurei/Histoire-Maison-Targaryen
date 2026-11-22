@@ -1,0 +1,180 @@
+/*
+ * Lignée de la V3 (v3-spec §6.5). Pal sur le champ, colonnes 1 à 8 ; lien de parenté en
+ * colonnes 9 à 12. Le titre tient sur une ligne en --t4 pour que le centre monte au premier
+ * écran à 1440.
+ */
+.vue {
+  row-gap: 0;
+}
+
+.titre {
+  grid-column: 1 / 9;
+  grid-row: 1;
+  gap: var(--e2);
+  margin-bottom: var(--e3);
+}
+
+.titre h1 {
+  max-width: none;
+}
+
+.compte {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e5);
+  margin: var(--e2) 0 0;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.3;
+  color: var(--ivoire);
+  font-variant-numeric: oldstyle-nums;
+}
+
+.mode {
+  margin: 0;
+  max-width: 62ch;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  color: var(--cendre);
+}
+
+.arbreLien {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-style: normal;
+  font-size: var(--t0);
+  font-weight: 500;
+  color: var(--ivoire);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+}
+
+.arbreLien:hover,
+.arbreLien:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+.fil {
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-column: 1 / 9;
+  grid-row: 2;
+}
+
+.annee {
+  grid-column: 3 / -1;
+  padding-left: calc(12px + 2.75rem);
+  padding-top: var(--e5);
+}
+
+.lien {
+  grid-column: 9 / -1;
+  grid-row: 1 / span 2;
+  align-self: start;
+  position: sticky;
+  top: var(--e5);
+  padding-top: var(--e2);
+}
+
+/* L'arbre entier, sur le rouleau de vélin. */
+.arbreTete {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e5);
+  row-gap: var(--e2);
+}
+
+.arbreCompte {
+  margin: 0;
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--encre-pale);
+}
+
+.arbreRetour {
+  margin: 0;
+}
+
+.lienVelin {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--encre);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--rubrique);
+}
+
+.lienVelin:hover,
+.lienVelin:focus-visible {
+  text-decoration-thickness: 3px;
+}
+
+@media (width < 1024px) {
+  .titre,
+  .fil,
+  .annee,
+  .lien {
+    grid-column: 1;
+    grid-row: auto;
+  }
+
+  .fil {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .annee {
+    padding-left: calc(1.75rem - var(--marge-page) + 12px + 1.5rem);
+  }
+
+  .lien {
+    position: static;
+    margin-top: var(--e7);
+  }
+}
+
+/* Les générations repliées du fil : une commande en tête du pal, alignée sur les noms. */
+.repli {
+  grid-column: 3 / -1;
+  margin: 0;
+  padding-left: calc(12px + 2.75rem);
+}
+
+.deplier {
+  min-height: 2.75rem;
+  font-size: 0.95rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--ivoire);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+  cursor: pointer;
+}
+
+.deplier:hover,
+.deplier:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+@media (width < 1024px) {
+  .repli {
+    grid-column: 1;
+    padding-left: calc(1.75rem - var(--marge-page) + 12px + 1.5rem);
+  }
+}

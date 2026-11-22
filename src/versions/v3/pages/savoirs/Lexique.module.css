@@ -1,0 +1,423 @@
+/*
+ * Le lexique sur le vélin : outils sur une rangée, lettres, puis la table. Pas de filet
+ * vertical, pas de cadre : un trait d'encre sous les en-têtes, un blanc à chaque lettre.
+ */
+.chapeau {
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+}
+
+.salle {
+  display: grid;
+  row-gap: var(--e3);
+  margin-top: var(--e5);
+}
+
+/* ------------------------------------------------------------ Outils
+   Ordinateur : mot, thème, compte sur une rangée ; les statuts dessous. Téléphone : le mot
+   seul, thème et statut repliés sous « Filtrer ». */
+.outils {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr) auto;
+  gap: var(--e3) var(--e5);
+  align-items: end;
+}
+
+.filtres {
+  display: contents;
+}
+
+.champ {
+  display: grid;
+  row-gap: var(--e1);
+}
+
+.champNom {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-weight: 500;
+  color: var(--v3-texte-2);
+}
+
+.saisie {
+  min-height: var(--cible);
+  width: 100%;
+  min-width: 0;
+  padding: 0 var(--e3);
+  border: 0;
+  border-bottom: 2px solid var(--v3-texte);
+  border-radius: 0;
+  background: color-mix(in oklch, var(--velin-ombre) 55%, var(--velin));
+  color: var(--v3-texte);
+  font-family: var(--f-musee);
+  font-size: 1rem;
+}
+
+.saisie::placeholder {
+  color: var(--v3-texte-2);
+  opacity: 1;
+}
+
+.saisie:focus-visible {
+  outline: 2px solid var(--focus-couleur);
+  outline-offset: 3px;
+}
+
+.statuts {
+  grid-column: 1 / -1;
+  grid-row: 2;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: var(--e3);
+  min-width: 0;
+}
+
+.statutsListe {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 var(--e1);
+}
+
+.statut {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  padding: 0 var(--e3);
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--v3-texte);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  cursor: pointer;
+}
+
+.statut:hover {
+  background: color-mix(in oklch, var(--velin-ombre) 70%, var(--velin));
+}
+
+/* Retenu : l'aplat d'encre, le libellé en vélin. Pas la couleur seule. */
+.statut[aria-pressed='true'] {
+  background: var(--v3-texte);
+  color: var(--velin);
+}
+
+.statut[aria-pressed='true'] :global(*) {
+  color: inherit;
+}
+
+.compte {
+  grid-column: 3;
+  grid-row: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  min-height: var(--cible);
+  white-space: nowrap;
+}
+
+.resume {
+  display: inline-flex;
+  align-items: center;
+  column-gap: var(--e2);
+  min-height: var(--cible);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--v3-texte);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--v3-rubrique);
+  cursor: pointer;
+}
+
+.actifs {
+  display: inline-grid;
+  place-items: center;
+  min-width: 1.5rem;
+  height: 1.5rem;
+  background: var(--v3-texte);
+  color: var(--velin);
+  font-variant-numeric: tabular-nums;
+}
+
+.filtresCorps {
+  display: grid;
+  row-gap: var(--e3);
+  padding-block: var(--e3) var(--e2);
+}
+
+@media (width < 1024px) {
+  .outils {
+    grid-template-columns: minmax(0, 1fr) auto;
+    row-gap: 0;
+  }
+
+  .outils > .champ {
+    grid-column: 1 / -1;
+  }
+
+  .filtres {
+    display: block;
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  .compte {
+    grid-column: 2;
+    grid-row: 2;
+    align-self: start;
+  }
+
+  .statuts {
+    display: grid;
+    row-gap: var(--e1);
+  }
+}
+
+/* ------------------------------------------------------------ Lettres */
+.rail ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.rail a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.95rem;
+  min-height: var(--cible);
+  font-family: var(--f-chronique);
+  font-size: 1.15rem;
+  line-height: 1;
+  color: var(--v3-rubrique);
+  text-decoration-color: transparent;
+}
+
+.rail a:hover,
+.rail a:focus-visible {
+  text-decoration-color: var(--v3-texte);
+}
+
+/* Au téléphone, une seule rangée qui défile d'elle-même, jamais la page. */
+@media (width < 1024px) {
+  .rail {
+    overflow-x: auto;
+    margin-inline: calc(-1 * var(--e2));
+    scrollbar-width: none;
+  }
+
+  .rail ul {
+    flex-wrap: nowrap;
+  }
+
+  .rail a {
+    min-width: 2.75rem;
+  }
+}
+
+/* ------------------------------------------------------------ Table */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--f-recit);
+  color: var(--v3-texte);
+}
+
+.table thead th {
+  padding: 0 var(--e3) var(--e2) 0;
+  border-bottom: 1px solid var(--v3-trait);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-weight: 500;
+  text-align: left;
+  color: var(--v3-texte-2);
+}
+
+.table thead th:first-child {
+  padding-left: 2.75rem;
+}
+
+.rangee > * {
+  padding: 0 var(--e3) 0 0;
+  vertical-align: baseline;
+  text-align: left;
+}
+
+.rangee[data-lettre] > * {
+  padding-top: var(--e5);
+}
+
+.forme {
+  position: relative;
+  padding-left: 2.75rem;
+  width: 34%;
+}
+
+.initiale {
+  position: absolute;
+  left: 0;
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 300;
+  line-height: 1;
+  color: var(--v3-rubrique);
+}
+
+.mot {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--v3-texte);
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 400;
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  text-align: left;
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: transparent;
+  cursor: pointer;
+  overflow-wrap: anywhere;
+}
+
+.mot:hover,
+.mot:focus-visible {
+  text-decoration-color: var(--v3-rubrique);
+}
+
+.rangee[data-choisi] .mot {
+  color: var(--v3-rubrique);
+  text-decoration-color: var(--v3-rubrique);
+  text-decoration-thickness: 3px;
+}
+
+.sens {
+  font-size: var(--t0);
+  line-height: 1.35;
+}
+
+.sens > span:first-child {
+  display: block;
+  padding-top: 0.55rem;
+}
+
+.nature {
+  display: block;
+  padding-bottom: var(--e2);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--v3-texte-2);
+}
+
+.marque {
+  width: 2.5rem;
+  font-size: 1.1rem;
+}
+
+.theme,
+.colTheme {
+  width: 18%;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--v3-texte-2);
+}
+
+@media (width < 720px) {
+  .theme,
+  .colTheme {
+    display: none;
+  }
+
+  .forme {
+    width: 44%;
+  }
+
+  .table thead th:first-child,
+  .forme {
+    padding-left: 2rem;
+  }
+
+  .initiale {
+    font-size: var(--t1);
+  }
+}
+
+/* ------------------------------------------------------------ Notice dépliée (téléphone) */
+.deplie td {
+  padding: var(--e3) 0 var(--e5) 2rem;
+}
+
+.notice {
+  display: grid;
+  row-gap: var(--e3);
+  max-width: 40em;
+}
+
+.noticeForme {
+  font-family: var(--f-chronique);
+  font-size: var(--t3);
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--v3-rubrique);
+  overflow-wrap: anywhere;
+}
+
+.noticeLigne {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.55;
+}
+
+.noticeTerme {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-weight: 500;
+  color: var(--v3-texte-2);
+}
+
+.noticeAverti {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-style: italic;
+  color: var(--v3-texte-2);
+}
+
+.vide {
+  display: grid;
+  justify-items: start;
+  row-gap: var(--e4);
+  padding-block: var(--e5);
+}
+
+/* ------------------------------------------------------------ Décompte (champ) */
+.decompte {
+  display: grid;
+  row-gap: var(--e3);
+  margin-top: var(--e4);
+}
+
+.decompteListe {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e4);
+  row-gap: var(--e1);
+  margin-top: var(--e2);
+  color: var(--ivoire);
+}
+
+.decompteListe > span {
+  display: inline-flex;
+  align-items: center;
+  column-gap: var(--e1);
+}

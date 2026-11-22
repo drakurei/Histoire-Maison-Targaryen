@@ -3,6 +3,7 @@ import type { MouseEvent } from 'react';
 import { useParams } from 'react-router-dom';
 
 import { getDragon } from '@/core/content/dragons';
+import { useEssay } from '@/core/content/essays';
 import { eventsOfPeriod, getPeriod, openQuestionsOfPeriod, periods } from '@/core/content/timeline';
 import type { Period, Reliability } from '@/core/content/types';
 import { formatSpan, useLang, useT, useTitle, useTxTypo, VALYRIAN_TAG, yearParts } from '@/core/i18n';
@@ -65,6 +66,7 @@ function PeriodView({ period }: { period: Period }) {
   useFasce({ span: bounds });
 
   const events = eventsOfPeriod(period.id);
+  const essay = useEssay(period.id);
   const placeIds = useMemo(() => placeIdsOf(events), [events]);
   const highlight = useMemo(() => placesOfYear(events, year), [events, year]);
   const levels = useMemo(() => {
@@ -86,7 +88,7 @@ function PeriodView({ period }: { period: Period }) {
   const mapTitle = t('v2.period.map', { title: name.gloss ?? name.primary });
 
   const entries = [
-    ...period.essay.map((section) => ({ id: section.id, label: typo(section.heading) })),
+    ...essay.map((section) => ({ id: section.id, label: typo(section.heading) })),
     { id: ANNALS_ID, label: t('page.period.annals.title') },
     ...(questions.length > 0 || period.openQuestions.length > 0 ? [{ id: QUESTIONS_ID, label: t('page.period.questions.title') }] : []),
   ];
@@ -159,8 +161,8 @@ function PeriodView({ period }: { period: Period }) {
       <Prose text={period.summary} variant="chapeau" className={styles.chapeau} />
       <Sommaire entries={entries} label={t('v2.period.contents')} className={styles.sommaire} />
 
-      {period.essay.length === 0 ? <Vide>{t('v2.period.no_essay')}</Vide> : null}
-      {period.essay.map((section, position) => (
+      {essay.length === 0 ? <Vide>{t('v2.period.no_essay')}</Vide> : null}
+      {essay.map((section, position) => (
         <section key={section.id} id={section.id} data-reprise="" className={styles.section} aria-labelledby={`${section.id}-t`}>
           <h2 id={`${section.id}-t`} className={styles.intertitre}>
             <span className={styles.rang} aria-hidden="true">
@@ -176,7 +178,7 @@ function PeriodView({ period }: { period: Period }) {
       <section id={ANNALS_ID} data-reprise="" className={styles.annalesSection} aria-labelledby={`${ANNALS_ID}-t`}>
         <h2 id={`${ANNALS_ID}-t`} className={styles.intertitre}>
           <span className={styles.rang} aria-hidden="true">
-            {period.essay.length + 1}
+            {essay.length + 1}
           </span>
           <span>{t('page.period.annals.title')}</span>
         </h2>
@@ -191,7 +193,7 @@ function PeriodView({ period }: { period: Period }) {
         <section id={QUESTIONS_ID} data-reprise="" className={styles.section} aria-labelledby={`${QUESTIONS_ID}-t`}>
           <h2 id={`${QUESTIONS_ID}-t`} className={styles.intertitre}>
             <span className={styles.rang} aria-hidden="true">
-              {period.essay.length + 2}
+              {essay.length + 2}
             </span>
             <span>{t('page.period.questions.title')}</span>
           </h2>

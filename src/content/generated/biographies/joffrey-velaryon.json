@@ -1,0 +1,147 @@
+{
+  "personId": "joffrey-velaryon",
+  "titles": [
+    {
+      "fr": "Prince de Peyredragon, après la mort de Jacaerys",
+      "en": "Prince of Dragonstone, after the death of Jacaerys"
+    },
+    {
+      "fr": "Prince",
+      "en": "Prince"
+    },
+    {
+      "fr": "Cavalier de Tyraxes",
+      "en": "Rider of Tyraxes"
+    }
+  ],
+  "lead": {
+    "fr": "Troisième fils de Rhaenyra et de Laenor Velaryon, Joffrey devint l'héritier des noirs après la mort de Jacaerys et périt en 130 apr. C., pendant l'assaut de Fossedragon, en tentant de monter Syrax.",
+    "en": "Third son of Rhaenyra and Laenor Velaryon, Joffrey became the heir of the blacks after the death of Jacaerys and perished in 130 AC, during the storming of the Dragonpit, trying to mount Syrax."
+  },
+  "sections": [
+    {
+      "id": "joffrey-velaryon-enfance",
+      "heading": {
+        "fr": "Le nom d'un ami",
+        "en": "A Friend's Name"
+      },
+      "body": {
+        "fr": "Joffrey naît en 117 apr. C. Laenor obtient enfin de lui donner le prénom de ser Joffrey Lonmouth, son favori tué au tournoi de 114 apr. C. L'enfant a, comme ses aînés, les cheveux bruns et le visage « commun » que la cour remarque, et sa naissance relance la rumeur qui attribue les trois garçons à ser Harwin Strong. Il reçoit lui aussi un œuf au berceau, d'où sort Tyraxes.\n\nÀ trois ans, aux funérailles de Laenor, c'est lui qui surprend Aemond auprès de Vhagar. Son oncle le gifle, le menace et le pousse dans les déjections du dragon pour le faire taire ; l'enfant court réveiller ses frères, et la rixe qui suit coûte un œil à Aemond. Il grandit ensuite à Peyredragon, loin de la cour, dans la maison de sa mère et de Daemon, avec ses frères et les filles de Laena.",
+        "en": "Joffrey was born in 117 AC. Laenor was at last allowed to give him the name of Ser Joffrey Lonmouth, his favourite, killed at the tourney of 114 AC. Like his elders, the child had the brown hair and “common” features the court remarked on, and his birth revived the rumour that gave all three boys to Ser Harwin Strong. He too was given an egg in the cradle, from which Tyraxes hatched.\n\nAged three, at Laenor's funeral, it was he who caught Aemond beside Vhagar. His uncle slapped him, threatened him and pushed him into the dragon's droppings to silence him; the boy ran to wake his brothers, and the brawl that followed cost Aemond an eye. He then grew up on Dragonstone, far from court, in the household of his mother and Daemon, with his brothers and Laena's daughters."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "trp"
+        }
+      ]
+    },
+    {
+      "id": "joffrey-velaryon-guerre",
+      "heading": {
+        "fr": "Un héritier tenu à l'écart",
+        "en": "An Heir Kept Away"
+      },
+      "body": {
+        "fr": "En 129 apr. C., Joffrey a onze ans et demande à porter lui aussi des messages sur Tyraxes ; on le juge trop jeune. Jacaerys le promet à la plus jeune fille de lord Desmond Manderly en échange de l'appui de Blancport. Quand arrive la nouvelle de la mort de Lucerys, Joffrey jure de se venger d'Aemond et de Borros Baratheon, et ses grands-parents Corlys et Rhaenys doivent l'empêcher de s'envoler sur-le-champ.\n\nJacaerys l'envoie ensuite à Goëville avec sa cousine Rhaena, officiellement pour défendre le Val contre les dragons des verts, en réalité, selon Munkun, pour le tenir loin des combats. La mort de Jacaerys au Gosier fait de lui l'héritier de sa mère. Après la prise de Port-Réal, Rhaenyra le fait venir avec Tyraxes et prépare une fête pour l'installer officiellement comme prince de Peyredragon et héritier du trône.",
+        "en": "In 129 AC Joffrey was eleven and asked to carry messages on Tyraxes as well; he was judged too young. Jacaerys promised him to Lord Desmond Manderly's youngest daughter in exchange for White Harbor's support. When word came of Lucerys's death, Joffrey swore vengeance on Aemond and Borros Baratheon, and his grandparents Corlys and Rhaenys had to stop him from flying off at once.\n\nJacaerys then sent him to Gulltown with his cousin Rhaena, officially to defend the Vale against the greens' dragons, in truth, according to Munkun, to keep him far from the fighting. Jacaerys's death in the Gullet made him his mother's heir. After the taking of King's Landing, Rhaenyra sent for him and Tyraxes and prepared a celebration to install him formally as Prince of Dragonstone and heir to the throne."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "id": "joffrey-velaryon-fossedragon",
+      "heading": {
+        "fr": "La nuit de Fossedragon",
+        "en": "The Night of the Dragonpit"
+      },
+      "body": {
+        "fr": "Pendant l'émeute de 130 apr. C., la foule du Berger marche sur Fossedragon, où Tyraxes est enchaîné. Joffrey supplie sa mère de le laisser sortir défendre son dragon ; Rhaenyra, qui a déjà perdu deux fils, le lui interdit. Il s'échappe et enfourche Syrax, qu'il n'a jamais montée, sans selle ni fouet. La dragonne se débat sous ce cavalier inconnu, les pierres et les lances montent de la foule, et le prince tombe de très haut sur les toits de Culpucier.\n\nIl meurt de ses blessures dans la rue. La tradition veut qu'une fille de chandelier l'ait réconforté et qu'il ait demandé pardon à une mère, la sienne ou la Mère d'en haut. La foule mutile son corps avant que des chevaliers envoyés par la reine ne parviennent à le reprendre. Tyraxes meurt dans son antre, et Aegon le Jeune devient l'héritier de Rhaenyra.",
+        "en": "During the riot of 130 AC, the Shepherd's mob marched on the Dragonpit, where Tyraxes was chained. Joffrey begged his mother to let him go out and defend his dragon; Rhaenyra, who had already lost two sons, forbade it. He slipped away and mounted Syrax, whom he had never ridden, without saddle or whip. The she-dragon fought this unfamiliar rider, stones and spears flew up from the crowd, and the prince fell from a great height onto the roofs of Flea Bottom.\n\nHe died of his injuries in the street. Tradition has it that a chandler's daughter comforted him and that he asked forgiveness of a mother, his own or the Mother Above. The mob mutilated his body before knights sent by the queen managed to recover it. Tyraxes died in his lair, and Aegon the Younger became Rhaenyra's heir."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "tyraxes",
+    "syrax"
+  ],
+  "eventIds": [
+    "p5-mariage-laenor",
+    "p5-printemps-rouge",
+    "p5-accalmie",
+    "p5-gosier",
+    "p5-chute-port-real",
+    "p5-fossedragon"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "Sa filiation est contestée comme celle de ses frères. Les récits de sa chute et de ses derniers instants se contredisent dans le détail, et l'on ignore à quelle mère s'adressait la demande de pardon que la tradition lui prête.",
+    "en": "His parentage is contested, like his brothers'. Accounts of his fall and his last moments contradict one another in detail, and it is not known which mother the plea for forgiveness that tradition gives him was addressed to."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon II"
+    },
+    {
+      "id": "trp"
+    },
+    {
+      "id": "tpatq"
+    }
+  ]
+}

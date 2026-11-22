@@ -1,0 +1,109 @@
+{
+  "personId": "aenar",
+  "titles": [
+    {
+      "fr": "Seigneur de Peyredragon",
+      "en": "Lord of Dragonstone"
+    },
+    {
+      "fr": "Seigneur dragon des Possessions valyriennes",
+      "en": "Dragonlord of the Valyrian Freehold"
+    }
+  ],
+  "lead": {
+    "fr": "Seigneur dragon de Valyria qui, sur la foi d'un rêve de sa fille, s'établit à Peyredragon douze ans avant le Fléau et y fixa la branche de la Maison qui survécut.",
+    "en": "A Valyrian dragonlord who, trusting his daughter's dream, settled on Dragonstone twelve years before the Doom and planted there the branch of the house that survived."
+  },
+  "sections": [
+    {
+      "id": "aenar-un-seigneur-parmi-d-autres",
+      "heading": {
+        "fr": "Un seigneur parmi d'autres",
+        "en": "One Lord Among Many"
+      },
+      "body": {
+        "fr": "On ne sait presque rien d'Aenar avant 114 av. C. Les chroniques ne donnent ni l'année de sa naissance, ni le nom de ses épouses, ni celui de ses parents. Elles le situent seulement parmi les seigneurs dragons des Possessions valyriennes, et pas au premier rang : d'autres familles comptaient davantage de bêtes, de terres et de poids dans les affaires de la cité.\n\nCe rang modeste explique peut-être la suite. Une famille de second plan avait moins à perdre en quittant Valyria qu'une maison qui y tenait les premières places. Les sources ne le disent pas ainsi, et il faut se garder de prêter à Aenar un calcul que rien n'atteste. Elles indiquent en revanche qu'il possédait des domaines dans la péninsule et sur les Terres du Long Été, et qu'il put les vendre : il n'était donc ni pauvre ni isolé lorsqu'il fit son choix.",
+        "en": "Almost nothing is known of Aenar before 114 BC. The chronicles give neither his year of birth nor the names of his wives or of his parents. They place him among the dragonlords of the Valyrian Freehold, and not in its first rank: other families held more dragons, more land and more weight in the city's affairs.\n\nThat modest standing may explain what followed. A family of the second rank had less to lose by leaving Valyria than a house that held its leading seats. The sources do not put it that way, and one should not credit Aenar with a calculation nobody records. They do say that he owned estates in the peninsula and in the Lands of the Long Summer, and that he was able to sell them: he was neither poor nor friendless when he made his choice."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        }
+      ]
+    },
+    {
+      "id": "aenar-le-depart",
+      "heading": {
+        "fr": "Le départ pour Peyredragon",
+        "en": "The Move to Dragonstone"
+      },
+      "body": {
+        "fr": "En 114 av. C., sa fille Daenys, encore à marier, rêva que Valyria périssait dans le feu. Aenar la crut. Il vendit ce qu'il possédait et gagna Peyredragon avec ses épouses, ses enfants, ses richesses, ses esclaves et cinq dragons. L'île était alors l'avant-poste le plus occidental des Possessions, une citadelle sous un volcan, à l'entrée de la baie de la Néra.\n\nÀ Valyria, on jugea sévèrement ce départ. Les rivaux d'Aenar y virent une fuite, l'aveu d'une maison trop faible pour tenir son rang et qui préférait se retirer. Le surnom d'Exilé garde quelque chose de ce jugement. Les chroniques ne rapportent pas ce qu'Aenar répondit, ni s'il chercha à se justifier. Elles ne disent pas davantage s'il hésita, ni combien de temps s'écoula entre le rêve et l'embarquement : la date de 114 av. C. découle de la seule mention « douze ans avant le Fléau ».",
+        "en": "In 114 BC his daughter Daenys, still unmarried, dreamed that Valyria perished in fire. Aenar believed her. He sold what he owned and removed to Dragonstone with his wives, his children, his wealth, his slaves and five dragons. The island was then the westernmost outpost of the Freehold, a citadel beneath a volcano at the mouth of Blackwater Bay.\n\nIn Valyria the departure was judged harshly. Aenar's rivals saw it as flight, the admission of a house too weak to hold its place and willing to withdraw instead. The name of Exile keeps something of that verdict. The chronicles do not report how Aenar answered, or whether he tried to justify himself. Nor do they say whether he hesitated, or how much time passed between the dream and the sailing: the date of 114 BC rests only on the phrase “twelve years before the Doom”."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        }
+      ]
+    },
+    {
+      "id": "aenar-survivre-au-fleau",
+      "heading": {
+        "fr": "Survivre au Fléau",
+        "en": "Surviving the Doom"
+      },
+      "body": {
+        "fr": "En 102 av. C., le Fléau anéantit Valyria et la plupart des familles qui avaient raillé Aenar. Le rêve de Daenys passa dès lors pour une prophétie accomplie, et le départ pour une sagesse. Les Targaryen se trouvèrent la seule maison de seigneurs dragons à conserver durablement ses bêtes, à l'écart du siècle de guerres qui s'ouvrait à l'est.\n\nAenar gouverna Peyredragon jusqu'à sa mort, dont ni l'année ni les circonstances ne sont connues ; son fils Gaemon lui succéda. Des cinq dragons qu'il avait amenés, un seul vécut assez pour servir à la Conquête : Balerion, né à Valyria. Les noms des quatre autres ont disparu. Ce qu'on retient d'Aenar tient donc en un geste, et ce geste n'est connu que par une tradition familiale mise par écrit bien plus tard, à la Citadelle, par des mestres qui servaient la dynastie qu'il avait sauvée.",
+        "en": "In 102 BC the Doom destroyed Valyria and most of the families that had mocked Aenar. Daenys's dream was thereafter taken for a fulfilled prophecy, and the departure for wisdom. The Targaryens found themselves the only house of dragonlords to keep its beasts for long, at a distance from the century of wars that was opening in the east.\n\nAenar ruled Dragonstone until his death, of which neither the year nor the manner is known; his son Gaemon succeeded him. Of the five dragons he had brought, only one lived long enough to serve in the Conquest: Balerion, hatched in Valyria. The names of the other four are lost. What is remembered of Aenar therefore comes down to a single act, and that act is known only through a family tradition set down much later, at the Citadel, by maesters who served the dynasty he had saved."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "Ancient History: The Doom of Valyria"
+        },
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "balerion"
+  ],
+  "eventIds": [
+    "p2-reve-daenys",
+    "p1-fleau",
+    "p2-dragons-de-peyredragon"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "Les années de naissance et de mort d'Aenar ne sont pas connues, pas plus que le nom de ses épouses. Rien n'établit que Balerion ait été sa propre monture : les chroniques le comptent parmi les cinq dragons venus avec la famille, sans nommer leurs cavaliers. Le jugement porté sur son départ, lâcheté ou prudence, appartient à ses contemporains et à leurs successeurs.",
+    "en": "Aenar's years of birth and death are unknown, as are the names of his wives. Nothing establishes that Balerion was his own mount: the chronicles count it among the five dragons that came with the family without naming their riders. The verdict on his departure, cowardice or foresight, belongs to his contemporaries and their successors."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Aegon's Conquest"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Reign of the Dragons: The Conquest"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "Ancient History: The Doom of Valyria"
+    }
+  ]
+}

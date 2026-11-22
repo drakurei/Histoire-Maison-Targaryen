@@ -1,0 +1,214 @@
+{
+  "personId": "aegon-i",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynar et des Premiers Hommes",
+      "en": "King of the Andals, the Rhoynar and the First Men"
+    },
+    {
+      "fr": "Seigneur des Sept Couronnes",
+      "en": "Lord of the Seven Kingdoms"
+    },
+    {
+      "fr": "Protecteur du royaume",
+      "en": "Protector of the Realm"
+    },
+    {
+      "fr": "Seigneur de Peyredragon",
+      "en": "Lord of Dragonstone"
+    }
+  ],
+  "lead": {
+    "fr": "Seigneur de Peyredragon qui soumit six des sept royaumes de Westeros avec ses deux sœurs et leurs dragons, et dont le sacre à Villevieille ouvre le calendrier du royaume.",
+    "en": "Lord of Dragonstone who subdued six of the seven kingdoms of Westeros with his two sisters and their dragons, and whose anointing at Oldtown begins the realm's calendar."
+  },
+  "sections": [
+    {
+      "id": "aegon-i-un-seigneur-tourne-vers-l-ouest",
+      "heading": {
+        "fr": "Un seigneur de Peyredragon tourné vers l'ouest",
+        "en": "A Lord of Dragonstone Looking West"
+      },
+      "body": {
+        "fr": "Aegon naquit à Peyredragon en 27 av. C., deuxième enfant d'Aerion Targaryen et de Valaena Velaryon. Il apprit les armes aux côtés de sa sœur aînée Visenya et se lia, avant même son mariage, à Balerion, le dernier dragon venu de Valyria. Il épousa ses deux sœurs : l'aînée selon la coutume, la cadette, Rhaenys, par un choix plus rare. Le mot selon lequel il aurait épousé l'une par devoir et l'autre par désir circule dans les chroniques, qui ne le garantissent pas.\n\nDevenu seigneur de l'île, il n'intervint qu'une fois dans les guerres de l'est : appelé par Pentos et Tyrosh, il brûla devant Lys une flotte de Volantis, puis rentra. Son regard se portait ailleurs. Il avait visité Villevieille et La Treille dans sa jeunesse, peut-être Port-Lannis. Il fit tailler une table figurant tout Westeros, sans une seule frontière entre les royaumes.",
+        "en": "Aegon was born on Dragonstone in 27 BC, the second child of Aerion Targaryen and Valaena Velaryon. He trained at arms alongside his elder sister Visenya and bonded, even before his marriage, with Balerion, the last dragon to have come from Valyria. He married both his sisters: the elder by custom, the younger, Rhaenys, by a rarer choice. The saying that he wed one from duty and the other from desire runs through the chronicles, which do not vouch for it.\n\nOnce lord of the island, he intervened only once in the eastern wars: called on by Pentos and Tyrosh, he burned a Volantene fleet off Lys, then went home. His attention lay elsewhere. In his youth he had visited Oldtown and the Arbor, perhaps Lannisport. He had a table carved in the shape of all Westeros, without a single border between the kingdoms."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        }
+      ]
+    },
+    {
+      "id": "aegon-i-la-conquete",
+      "heading": {
+        "fr": "La Conquête",
+        "en": "The Conquest"
+      },
+      "body": {
+        "fr": "Le prétexte vint d'Argilac, roi de l'Orage, qui lui offrait sa fille et des terres contre son appui face à Harren le Noir. Aegon proposa en retour d'unir la princesse à Orys Baratheon ; Argilac fit trancher les mains de l'émissaire. Aegon réunit alors ses vassaux et ses sœurs, puis fit savoir aux sept rois qu'il n'y aurait plus qu'un roi en Westeros.\n\nIl débarqua en 2 av. C. à l'embouchure de la Néra et se fit couronner une première fois dans un fort de bois. La campagne qui suivit fut brève : Harrenhal brûlée avec Harren et ses fils, Argilac tué par Orys, les armées du Bief et du Roc défaites au Champ de Feu, Torrhen Stark agenouillé au Trident, le Val soumis par Visenya. Seule Dorne refusa. À Villevieille, le Grand Septon oignit Aegon ; c'est de ce sacre, et non du débarquement, que les mestres datent l'an 1.",
+        "en": "The pretext came from Argilac, the Storm King, who offered his daughter and lands in exchange for help against Harren the Black. Aegon proposed instead to match the princess with Orys Baratheon; Argilac had the envoy's hands cut off. Aegon then gathered his vassals and his sisters, and let the seven kings know that there would henceforth be one king in Westeros.\n\nHe landed in 2 BC at the mouth of the Blackwater and was crowned a first time in a wooden fort. The campaign that followed was short: Harrenhal burned with Harren and his sons inside, Argilac killed by Orys, the hosts of the Reach and the Rock broken at the Field of Fire, Torrhen Stark kneeling at the Trident, the Vale brought in by Visenya. Only Dorne refused. At Oldtown the High Septon anointed Aegon; the maesters count year 1 from that anointing, not from the landing."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        }
+      ]
+    },
+    {
+      "id": "aegon-i-gouverner-un-royaume-conquis",
+      "heading": {
+        "fr": "Gouverner un royaume conquis",
+        "en": "Governing a Conquered Realm"
+      },
+      "body": {
+        "fr": "Aegon fit forger le Trône de Fer avec les épées des vaincus et choisit de régner depuis le lieu de son débarquement, où grandit Port-Réal. Il confirma dans leurs terres les seigneurs qui avaient plié, laissa à chaque région ses lois et ses coutumes, et fit d'Orys Baratheon sa première Main. Les Fer-nés reçurent le droit de choisir leur suzerain ; ils désignèrent Vickon Greyjoy.\n\nLe roi gouvernait peu au jour le jour. Ses sœurs et ses conseillers tenaient les affaires, tandis qu'il passait la moitié de chaque année à parcourir le royaume avec sa cour et ses dragons, pour se montrer aux seigneurs et au peuple. Il ménagea la Foi et fit élever un grand septuaire sur la colline de Visenya. En 19 apr. C., la nouvelle d'un raid de pirates contre une ville des îles d'Été le décida à entourer sa capitale de murs, qui furent achevés en 26 apr. C.",
+        "en": "Aegon had the Iron Throne forged from the swords of the defeated and chose to rule from the site of his landing, where King's Landing grew. He confirmed the lords who had knelt in their lands, left each region its laws and customs, and made Orys Baratheon his first Hand. The ironborn were allowed to choose their own overlord; they named Vickon Greyjoy.\n\nThe king did little of the daily governing. His sisters and councillors handled affairs, while he spent half of each year travelling the realm with his court and dragons, showing himself to lords and commons. He treated the Faith with care and raised a great sept on Visenya's Hill. In 19 AC, news of a pirate raid on a town in the Summer Isles persuaded him to surround his capital with walls, which were finished in 26 AC."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "Three Heads Had the Dragon: Governance Under King Aegon I"
+        },
+        {
+          "id": "fab",
+          "locator": "Reign of the Dragon: The Wars of King Aegon I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon I"
+        }
+      ]
+    },
+    {
+      "id": "aegon-i-dorne-et-la-mort-de-rhaenys",
+      "heading": {
+        "fr": "Dorne et la mort de Rhaenys",
+        "en": "Dorne and the Death of Rhaenys"
+      },
+      "body": {
+        "fr": "En 4 apr. C., Aegon voulut achever son œuvre par Dorne. La guerre dura neuf ans et ne lui apporta rien. Les Dorniens abandonnaient leurs châteaux, harcelaient les colonnes et reprenaient le pays dès que les dragons s'éloignaient. Orys Baratheon y fut capturé et mutilé. En 10 apr. C., Meraxès fut abattue au-dessus de Denfert, et Rhaenys disparut avec elle.\n\nLa perte transforma la guerre. Pendant deux ans, Aegon et Visenya brûlèrent chaque château de Dorne à l'exception de Lancehélion, et les deux camps mirent à prix la tête de l'autre. Le roi échappa à plusieurs attentats ; Visenya en tira la Garde Royale, dont elle choisit elle-même les sept premiers chevaliers. En 13 apr. C., la princesse Deria Martell apporta à Port-Réal le crâne de Meraxès et une lettre de son père. Aegon la lut, partit pour Peyredragon sur Balerion, revint le lendemain et accepta la paix. Le contenu de la lettre n'a jamais été connu.",
+        "en": "In 4 AC Aegon sought to complete his work with Dorne. The war lasted nine years and gained him nothing. The Dornish abandoned their castles, harried his columns and retook the country whenever the dragons moved off. Orys Baratheon was captured there and maimed. In 10 AC Meraxes was brought down over the Hellholt, and Rhaenys was lost with her.\n\nThe loss changed the war. For two years Aegon and Visenya burned every castle in Dorne save Sunspear, and each side put a price on the other's heads. The king survived several attempts on his life; Visenya drew from them the Kingsguard, whose first seven knights she chose herself. In 13 AC Princess Deria Martell brought the skull of Meraxes to King's Landing with a letter from her father. Aegon read it, flew to Dragonstone on Balerion, returned the next day and agreed to peace. What the letter said has never been known."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Reign of the Dragon: The Wars of King Aegon I"
+        },
+        {
+          "id": "fab",
+          "locator": "Three Heads Had the Dragon: Governance Under King Aegon I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Dorne: Dorne Against the Dragons"
+        }
+      ]
+    },
+    {
+      "id": "aegon-i-une-mort-a-peyredragon",
+      "heading": {
+        "fr": "Une longue paix et une mort à Peyredragon",
+        "en": "A Long Peace and a Death on Dragonstone"
+      },
+      "body": {
+        "fr": "Les vingt-quatre dernières années du règne furent assez paisibles pour que les mestres parlent plus tard de la Paix du Dragon. Aegon eut deux fils : Aenys, né de Rhaenys en 7 apr. C., et Maegor, né de Visenya en 12 apr. C. Il garda l'aîné près de lui et le maria en 22 apr. C. à sa cousine Alyssa Velaryon. À partir de 33 apr. C., il laissa ses voyages à Aenys et à sa bru. En 35 apr. C., il fit raser le vieux fort de bois, lança la construction du Donjon Rouge et se retira à Peyredragon.\n\nC'est là qu'il mourut en 37 apr. C., d'une attaque, alors qu'il racontait la Conquête à deux de ses petits-fils devant la Table peinte. Il avait passé soixante ans. Vhagar alluma son bûcher. Le royaume qu'il laissait reposait sur sa personne plus que sur ses institutions, et ses fils allaient l'apprendre dans l'année.",
+        "en": "The last twenty-four years of the reign were peaceful enough that the maesters later spoke of the Dragon's Peace. Aegon had two sons: Aenys, born to Rhaenys in 7 AC, and Maegor, born to Visenya in 12 AC. He kept the elder close and in 22 AC married him to his cousin Alyssa Velaryon. From 33 AC he left his progresses to Aenys and his daughter-in-law. In 35 AC he had the old wooden fort pulled down, began the Red Keep and withdrew to Dragonstone.\n\nHe died there in 37 AC of a stroke, while telling two of his grandsons about the Conquest before the Painted Table. He was past sixty. Vhagar lit his pyre. The realm he left rested on his person more than on its institutions, and his sons would learn as much within the year."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Three Heads Had the Dragon: Governance Under King Aegon I"
+        },
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "balerion"
+  ],
+  "eventIds": [
+    "p2-naissance-aegon",
+    "p2-double-mariage",
+    "p2-aegon-contre-volantis",
+    "p2-table-peinte",
+    "p2-offre-argilac",
+    "p3-proclamation",
+    "p3-debarquement",
+    "p3-harrenhal",
+    "p3-champ-de-feu",
+    "p3-torrhen-stark",
+    "p3-sacre-villevieille",
+    "p3-trone-de-fer",
+    "p3-iles-de-fer",
+    "p4-guerre-dornienne",
+    "p4-denfert",
+    "p4-mort-aegon"
+  ],
+  "warIds": [
+    "conquete",
+    "premiere-guerre-dornienne"
+  ],
+  "disputed": {
+    "fr": "L'année de naissance, 27 av. C., s'accorde mal avec l'âge que les mêmes chroniques lui prêtent à soixante ans puis à sa mort ; l'écart d'un an n'est pas résolu. Le contenu de la lettre qui mit fin à la guerre de Dorne est inconnu, et la chronique énumère plusieurs hypothèses sans en retenir aucune. Le mot sur ses deux mariages relève de la tradition de cour, et l'on ignore s'il visita Port-Lannis dans sa jeunesse.",
+    "en": "The year of birth, 27 BC, sits awkwardly with the age the same chronicles give him at sixty and at his death; the one-year gap is unresolved. The content of the letter that ended the Dornish war is unknown, and the chronicle lists several conjectures without settling on any. The saying about his two marriages belongs to court tradition, and it is uncertain whether he visited Lannisport in his youth."
+  },
+  "adaptation": {
+    "fr": "Dans la série House of the Dragon, Aegon aurait entrepris la Conquête après avoir rêvé d'une menace venue du nord qui devait un jour submerger le monde des hommes, et ce secret se transmettrait d'héritier en héritier. Les livres parus ne contiennent pas ce rêve.",
+    "en": "In the series House of the Dragon, Aegon is said to have undertaken the Conquest after dreaming of a threat from the north that would one day overwhelm the world of men, a secret passed from heir to heir. The published books contain no such dream."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Aegon's Conquest"
+    },
+    {
+      "id": "fab",
+      "locator": "Reign of the Dragon: The Wars of King Aegon I"
+    },
+    {
+      "id": "fab",
+      "locator": "Three Heads Had the Dragon: Governance Under King Aegon I"
+    },
+    {
+      "id": "fab",
+      "locator": "The Sons of the Dragon"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Reign of the Dragons: The Conquest"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "Dorne: Dorne Against the Dragons"
+    },
+    {
+      "id": "hotd"
+    }
+  ]
+}

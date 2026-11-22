@@ -1,0 +1,97 @@
+{
+  "personId": "saera",
+  "titles": [
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Fille de Jaehaerys Ier reniée par son père après un scandale de cour en 84 apr. C., Saera s'enfuit outre-mer et finit sa vie connue à Volantis.",
+    "en": "A daughter of Jaehaerys I disowned by her father after a court scandal in 84 AC, Saera fled across the sea and spent the rest of her known life in Volantis."
+  },
+  "sections": [
+    {
+      "id": "saera-enfance",
+      "heading": {
+        "fr": "Une enfant difficile",
+        "en": "A Difficult Child"
+      },
+      "body": {
+        "fr": "Saera naît en 67 apr. C., neuvième enfant du couple royal. Elle refuse d'être sevrée avant quatre ans, et le premier mot qu'on lui connaît est un refus. Vive et intelligente, elle exaspère sa mère, qui la compare à sa cousine Aerea. Ses tours visent d'abord Daella, qui a peur des chats : elle en glisse dans sa chambre, et remplit un jour son pot de chambre d'abeilles ; à dix ans, elle teint en rose les manteaux blancs de la Garde Royale. À douze ans, elle se présente souvent ivre au septuaire.\n\nVers quinze ans, elle s'entoure de trois jeunes seigneurs, Jonah Mooton, Roy Connington et ser Braxton Beesbury, et de deux amies de son âge, Perianne Moore et Alys Turnberry. Pendant plus d'un an, la petite troupe ne se quitte pas. Le roi voit en chacun des trois jeunes gens un parti possible. La reine se méfie, surtout de Beesbury ; Jaehaerys répond que sa fille n'est jamais seule, puisque des serviteurs l'accompagnent toujours.",
+        "en": "Saera was born in 67 AC, the ninth child of the royal couple. She refused to be weaned until past the age of four, and the first word anyone recorded from her was a refusal. Quick and clever, she exasperated her mother, who compared her to her cousin Aerea. Her pranks were aimed first at Daella, who was afraid of cats: she slipped them into her bedchamber, and once filled her chamber pot with bees; at ten she dyed the white cloaks of the Kingsguard pink. At twelve she often came to the sept drunk.\n\nAt about fifteen she gathered around her three young lords, Jonah Mooton, Roy Connington and Ser Braxton Beesbury, and two friends of her own age, Perianne Moore and Alys Turnberry. For more than a year the little band was inseparable. The king saw in each of the three young men a possible match. The queen was wary, of Beesbury above all; Jaehaerys answered that his daughter was never alone, since servants always attended her."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        }
+      ]
+    },
+    {
+      "id": "saera-scandale",
+      "heading": {
+        "fr": "Le scandale de 84",
+        "en": "The Scandal of 84 AC"
+      },
+      "body": {
+        "fr": "En 84 apr. C., une farce cruelle jouée au bouffon de la cour dans une maison close de la ville amène les trois jeunes gens devant le roi. Ils se taisent sur la princesse ; ses deux amies, menacées de prison, parlent. La reine apprend que les serviteurs restaient à la porte et qu'Alys Turnberry est enceinte. Confrontée à ses parents, Saera nie, minimise, se justifie, puis défie : chacun des trois garçons se croit le premier, et elle les épouserait volontiers tous les trois, comme Aegon ou Maegor avaient eu plusieurs épouses.\n\nLa comparaison avec Maegor met le roi hors de lui. Alysanne plaide pourtant pour qu'on laisse à leur fille une chance de se racheter. La nuit suivante, Saera s'échappe et tente de s'emparer d'un dragon à Fossedragon ; les gardiens l'arrêtent. Enfermée dans une tour, elle doit regarder de sa fenêtre son père tuer ser Braxton Beesbury, qui avait réclamé le jugement par combat. La tentative sur Fossedragon avait ruiné le plaidoyer de la reine.",
+        "en": "In 84 AC a cruel jest played on the court fool in a brothel in the city brought the three young men before the king. They kept silent about the princess; her two friends, threatened with prison, talked. The queen learned that the servants had been kept outside the door and that Alys Turnberry was with child. Faced with her parents, Saera denied, made light, justified herself and then defied them: each of the three boys believed himself the first, and she would gladly marry all three, as Aegon and Maegor had taken several wives.\n\nThe comparison with Maegor sent the king into a fury. Alysanne pleaded for their daughter to be given a chance to redeem herself. The following night Saera escaped and tried to seize a dragon at the Dragonpit; the keepers caught her. Confined in a tower, she was made to watch as her father killed Ser Braxton Beesbury, who had demanded trial by combat. The attempt on the Dragonpit had wrecked the queen's plea."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        }
+      ]
+    },
+    {
+      "id": "saera-exil",
+      "heading": {
+        "fr": "Lys et Volantis",
+        "en": "Lys and Volantis"
+      },
+      "body": {
+        "fr": "Saera est envoyée à Villevieille comme novice chez les sœurs du Silence, sous la garde de sa sœur Maegelle, devenue septa. Le septon Barth pensait que le roi voulait lui donner une leçon de quelques années, non l'enfermer pour toujours. Saera ne lui laissa pas le temps de le montrer : en 85 apr. C., elle s'enfuit de nuit, s'embarque pour Lys et entre dans un jardin de plaisir. Jaehaerys interdit à la reine tout contact avec elle ; Alysanne lui écrivit quand même, sans jamais recevoir de réponse.\n\nRiche et décriée, Saera passe ensuite à Volantis, où elle tient une maison de plaisir réputée. Au Grand Conseil de 101 apr. C., trois de ses fils bâtards, nés de trois pères différents dont un triarque, présentent leurs prétentions ; elle-même ne réclame rien pour son compte. Sur son lit de mort, en 103 apr. C., Jaehaerys prenait la jeune Alicent Hightower, qui le soignait, pour Saera revenue d'outre-mer.",
+        "en": "Saera was sent to Oldtown as a novice among the silent sisters, in the care of her sister Maegelle, who had become a septa. Septon Barth believed the king meant to teach her a lesson lasting a few years, not to shut her away for good. Saera gave him no time to show it: in 85 AC she fled by night, took ship for Lys and entered a pleasure garden. Jaehaerys forbade the queen any contact with her; Alysanne wrote to her all the same and never received an answer.\n\nWealthy and notorious, Saera later moved to Volantis, where she kept a well-known pleasure house. At the Great Council of 101 AC, three of her bastard sons, born of three different fathers, one of them a triarch, put forward their claims; she herself asked nothing on her own account. On his deathbed in 103 AC, Jaehaerys took young Alicent Hightower, who nursed him, for Saera come home from across the sea."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p4-grand-conseil-101"
+  ],
+  "warIds": [],
+  "disputed": {
+    "fr": "On ignore si la réclusion chez les sœurs du Silence devait être définitive : le septon Barth y voyait une punition temporaire. La date et le lieu de la mort de Saera ne sont pas connus ; elle vivait encore à Volantis en 101 apr. C. L'un de ses fils passait, dit-on, pour le portrait du jeune Jaehaerys ; rien ne permet d'en juger.",
+    "en": "It is not known whether her confinement among the silent sisters was meant to be permanent: Septon Barth saw it as a temporary punishment. The date and place of Saera's death are unknown; she was still living in Volantis in 101 AC. One of her sons was said to be the image of the young Jaehaerys; there is no way to judge."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys I"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+/*
+ * Apprendre, le fascé : une rangée par parcours, le rang en Grenze dans la marge gauche, le
+ * titre et sa première phrase sur six colonnes, les données à droite ; dessous, de bord à
+ * bord, la bande du temps qu'il couvre, à l'échelle de la fasce.
+ */
+.vue {
+  row-gap: 0;
+}
+
+.entete {
+  display: grid;
+  grid-column: 1 / 9;
+  row-gap: var(--e5);
+  padding-bottom: var(--e7);
+}
+
+.chapeau {
+  max-width: 40ch;
+  color: var(--ivoire);
+}
+
+.figure {
+  display: grid;
+  row-gap: var(--e5);
+}
+
+.parcours {
+  display: grid;
+  row-gap: var(--e7);
+}
+
+.rangee {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: var(--gouttiere);
+  row-gap: var(--e4);
+  align-items: start;
+}
+
+.numero {
+  grid-column: 1;
+  font-family: var(--f-lettrine);
+  font-size: var(--t4);
+  line-height: 0.8;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+  text-align: right;
+  transition: color var(--d-geste-court) var(--c-expo);
+}
+
+.rangee[data-actif] .numero {
+  color: var(--ivoire);
+}
+
+.corps {
+  grid-column: 2 / 8;
+  display: grid;
+  row-gap: var(--e2);
+}
+
+.titre {
+  font-size: var(--t3);
+  font-weight: 300;
+  line-height: 0.98;
+}
+
+.titre a {
+  text-underline-offset: 0.12em;
+}
+
+.glose {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.intro {
+  max-width: 56ch;
+  margin-top: var(--e2);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.6;
+  color: var(--ivoire);
+}
+
+.donnees {
+  grid-column: 9 / -1;
+  display: grid;
+  row-gap: var(--e1);
+  padding-top: var(--e2);
+}
+
+.annees {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  color: var(--ivoire);
+}
+
+.progression {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.bande {
+  grid-column: 1 / -1;
+}
+
+.legende {
+  max-width: 60ch;
+}
+
+.vide {
+  display: grid;
+  justify-items: start;
+  row-gap: var(--e3);
+}
+
+@media (width < 1024px) {
+  .entete,
+  .corps,
+  .donnees {
+    grid-column: 1 / -1;
+  }
+
+  .rangee {
+    grid-template-columns: 2.5rem minmax(0, 1fr);
+    column-gap: var(--e3);
+    row-gap: var(--e3);
+  }
+
+  .numero {
+    grid-column: 1;
+    grid-row: 1;
+    font-size: var(--t2);
+    text-align: left;
+  }
+
+  .corps {
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  .donnees {
+    grid-column: 2;
+    padding-top: 0;
+  }
+
+  .titre {
+    font-size: var(--t2);
+  }
+}

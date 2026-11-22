@@ -1,0 +1,186 @@
+{
+  "personId": "viserys-ii",
+  "titles": [
+    {
+      "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes, de 171 à 172 apr. C.",
+      "en": "King of the Andals, the Rhoynar and the First Men, from 171 to 172 AC"
+    },
+    {
+      "fr": "Main du roi sous Aegon III, Daeron Ier et Baelor Ier",
+      "en": "Hand of the King under Aegon III, Daeron I and Baelor I"
+    },
+    {
+      "fr": "Prince",
+      "en": "Prince"
+    }
+  ],
+  "lead": {
+    "fr": "Fils cadet de Rhaenyra et de Daemon, Viserys passa sa jeunesse captif à Lys, gouverna le royaume comme Main sous trois rois et ne régna lui-même qu'un an, de 171 à 172 apr. C.",
+    "en": "Younger son of Rhaenyra and Daemon, Viserys spent his youth as a captive in Lys, governed the realm as Hand under three kings and reigned himself for only a year, from 171 to 172 AC."
+  },
+  "sections": [
+    {
+      "id": "viserys-ii-gosier",
+      "heading": {
+        "fr": "L'enfant du Gosier",
+        "en": "The Boy from the Gullet"
+      },
+      "body": {
+        "fr": "Viserys naît en 122 apr. C., second fils de Rhaenyra et de Daemon, et reçoit le prénom de son grand-père. Selon l'usage, on place un œuf de dragon dans son berceau. Il grandit à Peyredragon aux côtés de son frère Aegon, son compagnon de jeux et d'études. À la fin de 129 apr. C., les deux garçons embarquent pour Pentos, où un prince de la cité doit les accueillir le temps de la guerre.\n\nDans le Gosier, la flotte de la Triarchie s'empare de leur navire. Aegon s'enfuit sur Stormcloud ; Viserys n'a que son œuf. Il le cache et se fait passer pour un mousse, jusqu'à ce qu'un homme d'équipage le dénonce. Remis à l'amiral de la Triarchie, il disparaît des récits : sa famille le croit mort, et Aegon se reproche pendant des années de l'avoir abandonné.",
+        "en": "Viserys was born in 122 AC, the second son of Rhaenyra and Daemon, and was named after his grandfather. As custom required, a dragon egg was placed in his cradle. He grew up on Dragonstone beside his brother Aegon, his companion at play and at lessons. At the end of 129 AC the two boys sailed for Pentos, where a prince of that city was to shelter them for the duration of the war.\n\nIn the Gullet the Triarchy's fleet seized their ship. Aegon escaped on Stormcloud; Viserys had only his egg. He hid it and passed himself off as a ship's boy, until one of the crew gave him away. Handed over to the Triarchy's admiral, he vanished from the record: his family believed him dead, and Aegon reproached himself for years for having abandoned him."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+        }
+      ]
+    },
+    {
+      "id": "viserys-ii-lys",
+      "heading": {
+        "fr": "Lys et les Rogare",
+        "en": "Lys and the Rogares"
+      },
+      "body": {
+        "fr": "Viserys se retrouve à Lys, dans la demeure d'un magistrat, puis, quand celui-ci meurt criblé de dettes, entre les mains de Lysandro Rogare, dont la banque rivalise alors avec celle de Braavos. Mesurant la valeur de son captif, Rogare le traite en hôte et lui donne pour épouse sa fille Larra, de sept ans son aînée. En 134 apr. C., Alyn Velaryon le rachète moyennant une forte rançon et le ramène à Port-Réal, avec Larra et plusieurs de ses frères.\n\nSon retour rend au roi une joie qu'il n'avait plus connue depuis la guerre ; jusqu'à la fin de sa vie, Aegon ne se fiera pleinement qu'à lui. Mais les Rogare, banquiers lysiens devenus alliés du frère du roi, se heurtent à la cour à la méfiance et à la rancune. En 135 apr. C., quand des conjurés veulent arrêter Larra, les deux frères la protègent dans la citadelle de Maegor jusqu'à ce que l'accusation tombe d'elle-même.",
+        "en": "Viserys ended up in Lys, in the house of a magister, then, when that man died deep in debt, in the hands of Lysandro Rogare, whose bank at the time rivalled that of Braavos. Weighing the worth of his captive, Rogare treated him as a guest and gave him his daughter Larra, seven years his senior, as a wife. In 134 AC Alyn Velaryon ransomed him at great cost and brought him back to King's Landing, together with Larra and several of her brothers.\n\nHis return gave the king a joy he had not known since the war; to the end of his life Aegon trusted no one else fully. But the Rogares, Lysene bankers now allied to the king's brother, met with distrust and resentment at court. In 135 AC, when conspirators tried to arrest Larra, the two brothers protected her in Maegor's Holdfast until the case fell apart of its own accord."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+        },
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        }
+      ]
+    },
+    {
+      "id": "viserys-ii-main",
+      "heading": {
+        "fr": "La Main de trois rois",
+        "en": "Hand to Three Kings"
+      },
+      "body": {
+        "fr": "Viserys et Larra ont trois enfants : Aegon, né en 135 apr. C., puis Aemon et Naerys. Larra ne se fait jamais à la cour et finit par retourner à Lys en laissant ses enfants ; on dit que Viserys en devint plus sévère. Il mariera plus tard Aegon à Naerys, avec l'accord du roi, tandis qu'Aemon entre dans la Garde Royale.\n\nMain d'Aegon III dans les dernières années du règne, il le reste sous Daeron Ier, sans réclamer de régence pour ce neveu de quatorze ans, puis sous Baelor Ier. Il gouverne pendant que Daeron conquiert Dorne et pendant que Baelor marche pieds nus jusqu'à Lancehélion. Il désapprouve l'enfermement des sœurs du roi au Donjon Rouge ; la rumeur lui prête même l'empoisonnement du tailleur de pierre dont Baelor avait fait un Grand Septon.",
+        "en": "Viserys and Larra had three children: Aegon, born in 135 AC, then Aemon and Naerys. Larra never grew used to the court and in the end went back to Lys, leaving her children behind; it is said that Viserys grew sterner for it. He would later marry Aegon to Naerys, with the king's consent, while Aemon joined the Kingsguard.\n\nHand to Aegon III in the last years of the reign, he remained so under Daeron I, without demanding a regency for that fourteen-year-old nephew, and then under Baelor I. He governed while Daeron conquered Dorne and while Baelor walked barefoot to Sunspear. He objected when the king shut his sisters away in the Red Keep; rumour even credits him with poisoning the stonemason whom Baelor had made High Septon."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "affc",
+          "locator": "Chapter 28"
+        }
+      ]
+    },
+    {
+      "id": "viserys-ii-regne",
+      "heading": {
+        "fr": "Un an de règne",
+        "en": "A Single Year"
+      },
+      "body": {
+        "fr": "Baelor meurt en 171 apr. C. après un long jeûne. Sa sœur aînée Daena a des partisans, mais on invoque les précédents de 101 apr. C. et de la Danse, et la couronne revient à Viserys, alors âgé de quarante-neuf ans. Certains l'accusent d'avoir hâté la mort de son neveu ; rien ne l'établit.\n\nSon règne dure à peine plus d'un an. On lui attribue une réforme de la maison royale, un nouvel atelier monétaire, des efforts pour le commerce de l'autre côté du détroit et des retouches au code de lois de Jaehaerys Ier. Plusieurs historiens ont vu en lui l'étoffe d'un second Jaehaerys. Une maladie soudaine l'emporte en 172 apr. C. ; son fils Aegon IV lui succède, et certains soupçonnent celui-ci d'avoir empoisonné son père. La mémoire commune lui est peu favorable et oublie souvent ses longues années de Main.",
+        "en": "Baelor died in 171 AC after a long fast. His elder sister Daena had supporters, but the precedents of 101 AC and of the Dance were invoked, and the crown went to Viserys, then forty-nine years old. Some accused him of hastening his nephew's death; nothing proves it.\n\nHis reign lasted little more than a year. He is credited with a reform of the royal household, a new mint, efforts to encourage trade across the narrow sea and revisions to the code of laws of Jaehaerys I. Several historians have seen in him the makings of a second Jaehaerys. A sudden illness carried him off in 172 AC; his son Aegon IV succeeded him, and some suspect the son of having poisoned his father. Common memory has not been kind to him, and often forgets his long years as Hand."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys II"
+        },
+        {
+          "id": "asos",
+          "locator": "Chapter 59"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p5-gosier",
+    "p6-regence",
+    "p6-daeron-dorne",
+    "p6-baelor",
+    "p6-viserys-ii",
+    "p6-aegon-iv"
+  ],
+  "warIds": [
+    "danse-des-dragons",
+    "conquete-de-dorne"
+  ],
+  "disputed": {
+    "fr": "Deux soupçons pèsent sur lui sans preuve : avoir empoisonné Baelor, pour régner ou pour épargner au royaume une guerre de religion, et avoir fait périr le Grand Septon nommé par Baelor. Sa propre mort a fait accuser Aegon IV. La date de son mariage n'est pas sûre : The World of Ice & Fire donne à Larra un âge qui le placerait vers 134 apr. C., alors que Fire & Blood laisse entendre une union rapide après son arrivée chez les Rogare.",
+    "en": "Two suspicions hang over him without proof: that he poisoned Baelor, to reign or to spare the realm a war of religion, and that he had Baelor's High Septon done away with. His own death brought suspicion on Aegon IV. The date of his marriage is uncertain: The World of Ice & Fire gives Larra an age that would place it around 134 AC, whereas Fire & Blood implies a swift union after he came into the Rogares' hands."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    },
+    {
+      "id": "fab",
+      "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+    },
+    {
+      "id": "fab",
+      "locator": "The Lysene Spring and the End of Regency"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon III"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Viserys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Baelor I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Free Cities: The Quarrelsome Daughters: Myr, Lys, and Tyrosh"
+    },
+    {
+      "id": "asos",
+      "locator": "Chapter 59"
+    }
+  ]
+}

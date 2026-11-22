@@ -1,0 +1,11 @@
+.vue {
+  min-height: 50svh;
+  row-gap: var(--e5);
+}
+
+.note {
+  max-width: 36ch;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}

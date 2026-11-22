@@ -1,0 +1,189 @@
+{
+  "personId": "rhaenys-fille-aemon",
+  "titles": [
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    },
+    {
+      "fr": "Dame de Lamarck",
+      "en": "Lady of Driftmark"
+    }
+  ],
+  "lead": {
+    "fr": "Fille unique du prince Aemon, deux fois écartée du trône, en 92 et en 101 apr. C., Rhaenys fut l'épouse de Corlys Velaryon et la cavalière de Meleys, avec qui elle mourut à Repos-du-Freux en 129 apr. C.",
+    "en": "The only child of Prince Aemon, twice passed over for the throne, in 92 and 101 AC, Rhaenys was the wife of Corlys Velaryon and the rider of Meleys, with whom she died at Rook's Rest in 129 AC."
+  },
+  "sections": [
+    {
+      "id": "rhaenys-fille-aemon-jeunesse",
+      "heading": {
+        "fr": "La petite-fille du roi",
+        "en": "The King's Granddaughter"
+      },
+      "body": {
+        "fr": "Rhaenys naît le septième jour du septième mois de 74 apr. C., unique enfant du prince Aemon et de Jocelyn Baratheon. Fille du prince de Peyredragon, elle passe pour la suivante dans l'ordre de succession ; sa grand-mère Alysanne, en la voyant, la salue comme une future reine. Elle a les cheveux noirs de sa mère et les yeux lilas des Targaryen, et tous les témoins lui prêtent de l'orgueil, de la vivacité et du courage.\n\nEn 87 apr. C., elle réclame Meleys, la dragonne de sa tante Alyssa, morte trois ans plus tôt. En 89 apr. C., elle rejoint son grand-père en voyage, vole avec lui jusqu'aux îles Boucliers et lui annonce son intention d'épouser lord Corlys Velaryon ; elle obtient sa bénédiction. Le mariage a lieu en 90 apr. C. : elle a seize ans, son époux trente-sept. Elle tient à arriver à la cérémonie sur le dos de Meleys.",
+        "en": "Rhaenys was born on the seventh day of the seventh month of 74 AC, the only child of Prince Aemon and Jocelyn Baratheon. As the daughter of the Prince of Dragonstone, she was held to be next in the line of succession; her grandmother Alysanne, on seeing her, greeted her as a queen to be. She had her mother's black hair and the lilac eyes of the Targaryens, and every witness credits her with pride, spirit and courage.\n\nIn 87 AC she claimed Meleys, the dragon of her aunt Alyssa, who had died three years before. In 89 AC she joined her grandfather on his progress, flew with him to the Shield Islands and told him of her intention to marry Lord Corlys Velaryon; she received his blessing. The wedding took place in 90 AC: she was sixteen, her husband thirty-seven. She insisted on arriving at the ceremony on Meleys's back."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        }
+      ]
+    },
+    {
+      "id": "rhaenys-fille-aemon-ecartee",
+      "heading": {
+        "fr": "Deux fois écartée",
+        "en": "Twice Passed Over"
+      },
+      "body": {
+        "fr": "En 92 apr. C., Rhaenys est enceinte quand son père meurt à Torth. Jaehaerys choisit Baelon pour héritier, de préférence à elle et à l'enfant qu'elle porte. Elle proteste la première ; Corlys quitte le conseil restreint et l'amirauté, et le couple se retire à Lamarck. La reine, les Baratheon et les Velaryon partagent leur colère. Laena naît à la fin de l'année, Laenor en 94 apr. C. ; les deux maisons soutiennent que le garçon a un meilleur droit que Baelon.\n\nÀ la mort de Baelon, en 101 apr. C., le Grand Conseil de Harrenhal examine quatorze prétentions. Celles de Rhaenys et de Laena sont écartées parce qu'elles sont femmes, et le débat se réduit à Laenor et à Viserys. Le couple engage sa fortune et son crédit pour Laenor, soutenu par lord Boremund Baratheon, lord Ellard Stark et plusieurs seigneurs du Nord et des côtes. Les seigneurs choisissent Viserys. Champignon la nommera plus tard la Reine qui ne fut jamais.",
+        "en": "In 92 AC Rhaenys was with child when her father died on Tarth. Jaehaerys chose Baelon as his heir in preference to her and the child she carried. She was the first to protest; Corlys left the small council and the admiralty, and the couple withdrew to Driftmark. The queen, the Baratheons and the Velaryons shared their anger. Laena was born late that year, Laenor in 94 AC; both houses maintained that the boy had a better claim than Baelon.\n\nWhen Baelon died in 101 AC, the Great Council at Harrenhal considered fourteen claims. Those of Rhaenys and Laena were set aside because they were women, and the debate narrowed to Laenor and Viserys. The couple spent their fortune and their influence on Laenor, backed by Lord Boremund Baratheon, Lord Ellard Stark and a number of northern and coastal lords. The lords chose Viserys. Mushroom would later call her the Queen Who Never Was."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "id": "rhaenys-fille-aemon-viserys",
+      "heading": {
+        "fr": "Sous Viserys Ier",
+        "en": "Under Viserys I"
+      },
+      "body": {
+        "fr": "Le règne de Viserys Ier lui offrit d'autres occasions d'être tenue à l'écart. En 105 apr. C., après la mort de la reine Aemma, le grand mestre Runciter propose au roi d'épouser Laena, alors âgée de douze ans ; Viserys lui préfère Alicent Hightower. Rhaenys et les siens ne paraissent pas au mariage de 106 apr. C., et Corlys se tourne vers le prince Daemon et la guerre des Degrés de Pierre.\n\nEn 114 apr. C., le roi marie enfin sa fille Rhaenyra à Laenor, ce qui rapproche les deux branches : les enfants de ce mariage sont, en droit, les petits-fils de Rhaenys et les héritiers du trône. Mais l'année 120 apr. C. lui prend ses deux enfants. Laena meurt après un accouchement malheureux ; Laenor est tué peu après, à une foire de Lamarck, par ser Qarl Correy, l'un de ses compagnons. À quarante-six ans, Rhaenys n'a plus d'enfant vivant ; ses descendants sont les fils de Rhaenyra, dont la naissance est contestée, et les jumelles de Laena.",
+        "en": "The reign of Viserys I gave her further occasions to be kept aside. In 105 AC, after Queen Aemma's death, Grand Maester Runciter suggested that the king marry Laena, then twelve years old; Viserys preferred Alicent Hightower. Rhaenys and her family did not attend the wedding in 106 AC, and Corlys turned to Prince Daemon and the war for the Stepstones.\n\nIn 114 AC the king at last married his daughter Rhaenyra to Laenor, which drew the two branches together: the children of that marriage were, in law, Rhaenys's grandsons and heirs to the throne. But the year 120 AC took both her children from her. Laena died after an ill-fated childbirth; Laenor was killed soon afterwards at a fair on Driftmark by Ser Qarl Correy, one of his companions. At forty-six Rhaenys had no living child; her descendants were Rhaenyra's sons, whose birth was disputed, and Laena's twin daughters."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "trp"
+        }
+      ]
+    },
+    {
+      "id": "rhaenys-fille-aemon-danse",
+      "heading": {
+        "fr": "Au conseil des noirs",
+        "en": "On the Black Council"
+      },
+      "body": {
+        "fr": "Quand Viserys meurt en 129 apr. C., Rhaenys siège au conseil de Rhaenyra à Peyredragon. Le plan des noirs lui confie un rôle précis : tandis que la flotte de Corlys ferme le Gosier, elle doit tenir le ciel au-dessus des navires sur Meleys pour décourager les dragons verts. Quand arrive la nouvelle de la mort de Lucerys, c'est elle et Corlys qui empêchent le jeune Joffrey de s'envoler pour venger son frère.\n\nSelon Champignon, la reine, accablée de chagrin, laisse alors à Rhaenys et à Corlys la conduite du conseil de guerre. Le bouffon est seul à l'affirmer, mais le récit des premiers mois montre le poids que le couple avait dans le camp noir : plus de la moitié de l'armée de Rhaenyra était faite d'hommes liés à la maison Velaryon, et Rhaenys était la dragonnière la plus expérimentée de son parti. Elle avait alors cinquante-cinq ans et plus de quarante années de vol derrière elle.",
+        "en": "When Viserys died in 129 AC, Rhaenys sat on Rhaenyra's council on Dragonstone. The blacks' plan gave her a precise task: while Corlys's fleet closed the Gullet, she was to hold the sky above the ships on Meleys to discourage the green dragons. When news came of Lucerys's death, it was she and Corlys who stopped young Joffrey from flying off to avenge his brother.\n\nAccording to Mushroom, the queen, overcome with grief, then left the conduct of the war council to Rhaenys and Corlys. The fool is alone in saying so, but the account of the first months shows how much weight the couple carried in the black camp: more than half of Rhaenyra's army was made up of men bound to House Velaryon, and Rhaenys was the most experienced dragonrider of her party. She was fifty-five by then, with more than forty years of flying behind her."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "id": "rhaenys-fille-aemon-mort",
+      "heading": {
+        "fr": "Repos-du-Freux",
+        "en": "Rook's Rest"
+      },
+      "body": {
+        "fr": "En 129 apr. C., ser Criston Cole assiège Repos-du-Freux, le château de lord Staunton, qui appelle Peyredragon à l'aide. Neuf jours après l'appel, Rhaenys paraît au-dessus des assiégeants sur Meleys et les attaque. C'était un piège : Aegon II sur Sunfyre et Aemond sur Vhagar fondent sur elle. Rhaenys fait face au lieu de fuir, alors que Meleys ne pouvait l'emporter contre deux dragons. Les trois bêtes s'empoignent en l'air et tombent ensemble. Meleys meurt ; on trouve près d'elle un corps si calciné qu'on ne put l'identifier avec certitude.\n\nSa mort prive les noirs de leur dragonnière la plus aguerrie, mais elle coûte cher aux verts : Sunfyre est mutilé et le roi reste des mois entre la vie et la mort. Corlys reprocha à Rhaenyra d'avoir envoyé sa femme au lieu d'y aller elle-même, et d'avoir interdit à ses fils de l'accompagner. La femme qu'on avait deux fois écartée du trône mourut ainsi au service d'une autre héritière écartée.",
+        "en": "In 129 AC Ser Criston Cole laid siege to Rook's Rest, Lord Staunton's castle, and Staunton appealed to Dragonstone for help. Nine days after the appeal, Rhaenys appeared above the besiegers on Meleys and fell upon them. It was a trap: Aegon II on Sunfyre and Aemond on Vhagar descended on her. Rhaenys turned to fight rather than flee, though Meleys could not prevail against two dragons. The three beasts locked together in the air and fell as one. Meleys died; beside her lay a body so badly burned that it could not be identified with certainty.\n\nHer death deprived the blacks of their most seasoned dragonrider, but it cost the greens dearly: Sunfyre was maimed and the king hung between life and death for months. Corlys blamed Rhaenyra for sending his wife instead of going herself, and for forbidding her sons to go with her. The woman twice passed over for the throne thus died in the service of another heir who had been passed over."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "tpatq"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [
+    "meleys"
+  ],
+  "eventIds": [
+    "p4-mort-aemon",
+    "p4-grand-conseil-101",
+    "p5-alicent",
+    "p5-mariage-laenor",
+    "p5-printemps-rouge",
+    "p5-repos-des-freux",
+    "tv-p5-rhaenys-fossedragon",
+    "tv-p5-laenor"
+  ],
+  "warIds": [
+    "danse-des-dragons"
+  ],
+  "disputed": {
+    "fr": "Le rôle de Rhaenys à la tête du conseil de guerre noir n'est attesté que par Champignon. Le corps trouvé près de Meleys à Repos-du-Freux ne put être identifié avec certitude.",
+    "en": "Rhaenys's role at the head of the black war council rests on Mushroom's word alone. The body found beside Meleys at Rook's Rest could not be identified with certainty."
+  },
+  "adaptation": {
+    "fr": "Dans House of the Dragon, Rhaenys interrompt le couronnement d'Aegon II en faisant surgir Meleys du sol de Fossedragon, puis repart sans frapper ; les livres ne contiennent rien de tel, et Rhaenys n'y paraît qu'ensuite, au conseil de Rhaenyra à Peyredragon. La série fait aussi survivre son fils Laenor, qui feint sa mort et s'enfuit en Essos, alors que les livres le font tuer en 120 apr. C. Sa mort à Repos-du-Freux est conservée.",
+    "en": "In House of the Dragon, Rhaenys interrupts Aegon II's coronation by bursting up through the floor of the Dragonpit on Meleys, then leaves without striking; nothing of the kind is in the books, where Rhaenys appears only afterwards, on Rhaenyra's council at Dragonstone. The series also lets her son Laenor survive by faking his death and fleeing to Essos, whereas in the books he is killed in 120 AC. Her death at Rook's Rest is kept."
+  },
+  "sources": [
+    {
+      "id": "fab",
+      "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+    },
+    {
+      "id": "fab",
+      "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Blacks and the Greens"
+    },
+    {
+      "id": "fab",
+      "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Jaehaerys I"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aegon II"
+    },
+    {
+      "id": "trp"
+    },
+    {
+      "id": "tpatq"
+    },
+    {
+      "id": "hotd",
+      "locator": "saison 1, épisodes 7 et 9 ; saison 2, épisode 4"
+    }
+  ]
+}

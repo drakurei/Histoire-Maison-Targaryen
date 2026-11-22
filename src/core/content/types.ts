@@ -80,8 +80,11 @@ export interface Period {
   from: Year;
   to: number;
   summary: Localized;
-  /** Récit long de la période, en sections. */
-  essay: EssaySection[];
+  /**
+   * Nombre de sections du récit long. Le récit lui-même se charge avec la page de la
+   * période : `useEssay(periodId)` dans `@/core/content/essays`.
+   */
+  essayCount: number;
   note?: Localized;
   openQuestions: Localized[];
   eventIds: string[];

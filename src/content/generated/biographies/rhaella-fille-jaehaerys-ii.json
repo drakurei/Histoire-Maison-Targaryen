@@ -1,0 +1,152 @@
+{
+  "personId": "rhaella-fille-jaehaerys-ii",
+  "titles": [
+    {
+      "fr": "Reine",
+      "en": "Queen"
+    },
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Fille de Jaehaerys II, Rhaella fut mariée sans amour à son frère Aerys II, dont elle subit la folie ; elle mourut à Peyredragon en 284 apr. C. en donnant naissance à Daenerys.",
+    "en": "The daughter of Jaehaerys II, Rhaella was married without love to her brother Aerys II and endured his madness; she died on Dragonstone in 284 AC giving birth to Daenerys."
+  },
+  "sections": [
+    {
+      "id": "rhaella-fille-jaehaerys-ii-jeunesse",
+      "heading": {
+        "fr": "Une princesse à la cour d'Aegon V",
+        "en": "A Princess at the Court of Aegon V"
+      },
+      "body": {
+        "fr": "Rhaella naît entre 245 et 247 apr. C. du prince Jaehaerys et de la princesse Shaera, et grandit à la cour de son grand-père Aegon V. Ser Barristan Selmy se souviendra qu'elle s'était éprise, jeune fille, d'un chevalier des terres de l'Orage, ser Bonifer Hasty, qui l'avait un jour proclamée reine d'amour et de beauté. L'idylle fut brève : le chevalier était de trop petite naissance pour qu'on songe à lui comme prétendant.\n\nSon père en a décidé autrement. Convaincu par une sorcière des bois, venue à la cour avec Jenny de Vieilles-Pierres, que le prince promis naîtra de la lignée d'Aerys et de Rhaella, il marie ses deux enfants malgré le peu d'inclination qu'ils ont l'un pour l'autre. Aegon V désapprouve et laisse faire. Le jour des noces, Barristan ne voit entre les époux aucune affection. Parmi les dames de compagnie de la jeune princesse figurent la mère du futur prince Doran de Dorne et, plus tard, Joanna Lannister.",
+        "en": "Rhaella was born between 245 and 247 AC to Prince Jaehaerys and Princess Shaera, and grew up at the court of her grandfather Aegon V. Ser Barristan Selmy would remember that as a girl she had fallen for a knight of the stormlands, Ser Bonifer Hasty, who had once named her queen of love and beauty. The romance was short: the knight was of too low birth to be thought of as a suitor.\n\nHer father had other plans. Convinced by a woods witch, who had come to court with Jenny of Oldstones, that the prince that was promised would be born of the line of Aerys and Rhaella, he married his two children despite their slight liking for each other. Aegon V disapproved and let it happen. On the wedding day Barristan saw no affection between them. Among the young princess's ladies were the mother of the future Prince Doran of Dorne and, later, Joanna Lannister."
+      },
+      "sources": [
+        {
+          "id": "adwd",
+          "locator": "Daenerys IV (ch. 23)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys VII (ch. 43)"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        }
+      ]
+    },
+    {
+      "id": "rhaella-fille-jaehaerys-ii-deuils",
+      "heading": {
+        "fr": "Les deuils",
+        "en": "The Losses"
+      },
+      "body": {
+        "fr": "Rhaella met au monde son premier fils, Rhaegar, à Lestival en 259 apr. C., au milieu de l'incendie qui tue le roi Aegon V. Elle devient reine en 262 apr. C., quand son frère et époux monte sur le trône. Suivent dix-sept années de grossesses malheureuses : des fausses couches en 263, 264 et 271 apr. C., une fille mort-née, Shaena, en 267 apr. C., un fils, Daeron, qui ne vit que six mois, un enfant mort-né en 270 apr. C., puis deux fils emportés au berceau, Aegon et Jaehaerys.\n\nAerys la console d'abord, puis l'accuse d'infidélité et tient les enfants morts pour des bâtards. Il la fait garder dans ses appartements, deux septas dormant chaque nuit dans son lit. Lui-même a de nombreuses maîtresses et renvoie plusieurs dames de la reine, dont Joanna Lannister. Le prince Viserys naît enfin en 276 apr. C., petit mais vigoureux ; le roi interdit pourtant à sa mère de rester seule avec lui.",
+        "en": "Rhaella gave birth to her first son, Rhaegar, at Summerhall in 259 AC, in the midst of the fire that killed King Aegon V. She became queen in 262 AC, when her brother and husband came to the throne. Seventeen years of unhappy pregnancies followed: miscarriages in 263, 264 and 271 AC, a stillborn daughter, Shaena, in 267 AC, a son, Daeron, who lived only six months, a stillbirth in 270 AC, and then two sons carried off in the cradle, Aegon and Jaehaerys.\n\nAerys comforted her at first, then accused her of infidelity and called the dead children bastards. He had her confined to her apartments, with two septas sleeping in her bed every night. He himself kept many mistresses and dismissed several of the queen's ladies, Joanna Lannister among them. Prince Viserys was born at last in 276 AC, small but sturdy; even so, the king forbade his mother to be alone with him."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        }
+      ]
+    },
+    {
+      "id": "rhaella-fille-jaehaerys-ii-folie",
+      "heading": {
+        "fr": "La reine du roi fou",
+        "en": "The Mad King's Queen"
+      },
+      "body": {
+        "fr": "À mesure que la raison du roi se défait, les époux s'évitent : ils font chambre à part et se fuient le jour. Rhaella s'efforce de tenir Viserys à l'écart des excès de son père. Mais chaque fois qu'Aerys fait brûler un homme, il vient la retrouver la nuit et la brutalise. Jaime Lannister, de garde à sa porte après le supplice de lord Chelsted, l'entend pleurer ; quand il rappelle que la Garde a juré de protéger aussi la reine, un frère juré lui répond que ce serment ne vaut pas contre le roi.\n\nElle reste à Port-Réal pendant les grands tournois du règne, à Port-Lannis comme à Harrenhal. Après la mort de Rhaegar au Trident, Aerys l'envoie à Peyredragon avec Viserys et ser Willem Darry, sans savoir qu'elle est enceinte. Elle part encapuchonnée pour cacher les marques laissées par son époux. Elia et ses enfants, que le roi garde en otages, restent derrière.",
+        "en": "As the king's reason came apart, husband and wife avoided each other: they slept in separate rooms and shunned each other by day. Rhaella did her best to keep Viserys away from his father's excesses. But each time Aerys had a man burned, he came to her at night and used her brutally. Jaime Lannister, on guard at her door after Lord Chelsted's death, heard her weep; when he pointed out that the Kingsguard had sworn to protect the queen as well, a sworn brother answered that the oath did not hold against the king.\n\nShe stayed in King's Landing during the great tourneys of the reign, at Lannisport as at Harrenhal. After Rhaegar's death on the Trident, Aerys sent her to Dragonstone with Viserys and Ser Willem Darry, unaware that she was with child. She left hooded to hide the marks her husband had left on her. Elia and her children, whom the king kept as hostages, stayed behind."
+      },
+      "sources": [
+        {
+          "id": "affc",
+          "locator": "Jaime II (ch. 16)"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: Robert's Rebellion"
+        }
+      ]
+    },
+    {
+      "id": "rhaella-fille-jaehaerys-ii-peyredragon",
+      "heading": {
+        "fr": "Peyredragon",
+        "en": "Dragonstone"
+      },
+      "body": {
+        "fr": "À Peyredragon, Rhaella apprend la chute de la capitale, la mort de son époux et celle des enfants de Rhaegar. Les derniers fidèles tiennent désormais Viserys pour leur roi, tandis que les grandes maisons ont reconnu Robert Baratheon. L'île est la dernière place où flotte la bannière au dragon, et Stannis Baratheon arme une flotte pour la prendre.\n\nNeuf mois après son départ de Port-Réal, Rhaella accouche d'une fille pendant une tempête d'été qui détruit au mouillage ce qui reste de la flotte royale. Elle la nomme Daenerys, du nom de la princesse qui avait épousé jadis un prince de Dorne, et meurt peu après des suites de l'accouchement, en 284 apr. C. Avant que la garnison ne livre ses enfants, Willem Darry les emmène en exil à Braavos. Des années plus tard, réduit à la misère, Viserys vendra la couronne de sa mère.",
+        "en": "On Dragonstone Rhaella learned of the fall of the capital, the death of her husband and that of Rhaegar's children. The last loyalists now held Viserys to be their king, while the great houses had recognised Robert Baratheon. The island was the last place where the dragon banner still flew, and Stannis Baratheon was fitting out a fleet to take it.\n\nNine months after leaving King's Landing, Rhaella gave birth to a daughter during a summer storm that wrecked what was left of the royal fleet at anchor. She named her Daenerys, after the princess who had once married a prince of Dorne, and died soon after from the birth, in 284 AC. Before the garrison could hand her children over, Willem Darry carried them into exile in Braavos. Years later, reduced to poverty, Viserys would sell his mother's crown."
+      },
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Daenerys I (ch. 3)"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: The End"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p6-lestival",
+    "p7-avenement-aerys",
+    "p7-port-lannis",
+    "p7-sac",
+    "p7-naissance-daenerys"
+  ],
+  "warIds": [
+    "rebellion-de-robert"
+  ],
+  "disputed": {
+    "fr": "Son année de naissance flotte entre 245 et 247 apr. C. Celle de sa mort, 284 apr. C., se déduit des neuf mois écoulés depuis sa fuite, les romans ne la donnant pas en clair. Ce qu'elle endura de son époux n'est connu que par les souvenirs de Jaime Lannister et de Barristan Selmy.",
+    "en": "Her year of birth falls somewhere between 245 and 247 AC. That of her death, 284 AC, is inferred from the nine months that passed after her flight, since the novels do not state it outright. What she suffered at her husband's hands is known only from the memories of Jaime Lannister and Barristan Selmy."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Fall of the Dragons: Robert's Rebellion"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Fall of the Dragons: The End"
+    },
+    {
+      "id": "agot",
+      "locator": "Daenerys I (ch. 3)"
+    },
+    {
+      "id": "affc",
+      "locator": "Jaime II (ch. 16)"
+    },
+    {
+      "id": "adwd",
+      "locator": "Daenerys IV (ch. 23)"
+    },
+    {
+      "id": "adwd",
+      "locator": "Daenerys VII (ch. 43)"
+    }
+  ]
+}

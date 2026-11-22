@@ -1,0 +1,27 @@
+.cavaliers {
+  display: grid;
+  gap: var(--e2);
+  min-width: 0;
+}
+
+.titre {
+  font-size: var(--t0);
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  color: var(--ivoire);
+}
+
+.glose {
+  display: block;
+  margin-top: var(--e1);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.phrase {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.45;
+  color: var(--cendre);
+}

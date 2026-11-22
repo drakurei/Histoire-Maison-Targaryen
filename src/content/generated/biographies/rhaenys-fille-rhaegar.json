@@ -1,0 +1,125 @@
+{
+  "personId": "rhaenys-fille-rhaegar",
+  "titles": [
+    {
+      "fr": "Princesse de la maison Targaryen",
+      "en": "Princess of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Fille aînée de Rhaegar et d'Elia Martell, Rhaenys naquit à Peyredragon en 280 apr. C. et fut tuée à trois ans lors du sac de Port-Réal.",
+    "en": "The elder child of Rhaegar and Elia Martell, Rhaenys was born on Dragonstone in 280 AC and was killed at the age of three in the sack of King's Landing."
+  },
+  "sections": [
+    {
+      "id": "rhaenys-fille-rhaegar-naissance",
+      "heading": {
+        "fr": "Une enfant de Peyredragon",
+        "en": "A Child of Dragonstone"
+      },
+      "body": {
+        "fr": "Rhaenys naît à Peyredragon en 280 apr. C., premier enfant du prince Rhaegar et de la princesse Elia, mariés la même année. Son prénom est celui de l'une des deux reines d'Aegon le Conquérant. Sa naissance laisse sa mère alitée pendant six mois. Quand son père la présente à la cour, la reine Rhaella la prend dans ses bras avec tendresse ; le roi Aerys refuse de la toucher et déclare qu'elle sent le Dornien. Le mot dit assez la méfiance du roi envers son fils et envers l'alliance dornienne qu'il a pourtant lui-même conclue.\n\nOn sait peu de chose de sa brève enfance. Elle avait un petit chat noir qu'elle appelait Balerion, du nom du dragon du Conquérant, et elle aimait faire comme s'il était le vrai Balerion, la Terreur noire d'autrefois. Varys, qui raconte ce détail à Eddard Stark quinze ans plus tard, ajoute qu'il s'est souvent demandé ce qu'était devenu l'animal.",
+        "en": "Rhaenys was born on Dragonstone in 280 AC, the first child of Prince Rhaegar and Princess Elia, who had married that same year. Her name was that of one of the two queens of Aegon the Conqueror. Her birth left her mother bedridden for six months. When her father presented her at court, Queen Rhaella took her tenderly in her arms; King Aerys refused to touch her and declared that she smelled Dornish. The remark says enough about the king's distrust of his son and of the Dornish alliance he had nonetheless made himself.\n\nLittle is known of her brief childhood. She had a small black kitten that she called Balerion, after the Conqueror's dragon, and she liked to pretend it was the real Balerion, the Black Dread of old. Varys, who tells Eddard Stark of this fifteen years later, adds that he has often wondered what became of the animal."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "agot",
+          "locator": "Eddard XV (ch. 58)"
+        }
+      ]
+    },
+    {
+      "id": "rhaenys-fille-rhaegar-otage",
+      "heading": {
+        "fr": "Otage du roi",
+        "en": "The King's Hostage"
+      },
+      "body": {
+        "fr": "Au début de 282 apr. C., son père quitte Peyredragon et disparaît avec Lyanna Stark ; la guerre éclate peu après. Aerys fait venir Elia et ses deux enfants au Donjon Rouge et se sert d'eux pour s'assurer la fidélité de Dorne. Il le rappelle sans détour au prince Lewyn Martell, grand-oncle de Rhaenys et chevalier de sa Garde, qui part pour le Trident à la tête des Dorniens. Lewyn et Rhaegar y meurent tous deux en 283 apr. C.\n\nPersuadé que les Dorniens l'ont trahi, le roi refuse de laisser partir Elia et les enfants quand il envoie la reine et le prince Viserys à Peyredragon. Rhaegar avait confié la sécurité des siens à Jaime Lannister, le seul chevalier de la Garde resté en ville. Jaime ne croit pas que son père, dont l'armée approche, puisse s'en prendre à une femme et à deux enfants en bas âge.",
+        "en": "Early in 282 AC her father left Dragonstone and vanished with Lyanna Stark; war broke out soon after. Aerys had Elia and her two children brought to the Red Keep and used them to make sure of Dorne's loyalty. He said as much, bluntly, to Prince Lewyn Martell, Rhaenys's great-uncle and a knight of his Kingsguard, who left for the Trident at the head of the Dornishmen. Lewyn and Rhaegar both died there in 283 AC.\n\nConvinced that the Dornish had betrayed him, the king refused to let Elia and the children go when he sent the queen and Prince Viserys to Dragonstone. Rhaegar had entrusted the safety of his family to Jaime Lannister, the only knight of the Kingsguard left in the city. Jaime did not believe that his father, whose army was approaching, could harm a woman and two small children."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: Robert's Rebellion"
+        },
+        {
+          "id": "asos",
+          "locator": "Jaime II (ch. 11)"
+        }
+      ]
+    },
+    {
+      "id": "rhaenys-fille-rhaegar-mort",
+      "heading": {
+        "fr": "Le sac",
+        "en": "The Sack"
+      },
+      "body": {
+        "fr": "Pendant le sac de Port-Réal, tandis que Jaime tue le roi dans la salle du trône, ser Gregor Clegane et ser Amory Lorch escaladent les murs des appartements royaux. Rhaenys s'est cachée sous le lit de son père, un étage au-dessus de la chambre où se trouvent sa mère et son frère. Lorch la découvre et la tue de plusieurs dizaines de coups. Il apporte le corps à Tywin Lannister, qui lui reprochera plus tard sa brutalité : quelques paroles douces et un oreiller auraient suffi, dira-t-il à son fils Tyrion.\n\nTywin dépose les corps des enfants au pied du Trône de Fer, enveloppés dans les manteaux écarlates de sa garde pour dissimuler le sang. Robert y voit des rejetons de dragon et ne cache pas son soulagement ; Eddard Stark parle de meurtre et quitte la ville après une querelle avec lui. Thoros de Myr, qui a vu les corps, dira que la maison Clegane s'est bâtie sur des enfants morts.",
+        "en": "During the sack of King's Landing, while Jaime was killing the king in the throne room, Ser Gregor Clegane and Ser Amory Lorch climbed the walls of the royal apartments. Rhaenys had hidden under her father's bed, a floor above the room where her mother and brother were. Lorch found her and killed her with dozens of blows. He brought the body to Tywin Lannister, who would later reproach him for his brutality: a few soft words and a pillow would have been enough, he told his son Tyrion.\n\nTywin laid the children's bodies at the foot of the Iron Throne, wrapped in the crimson cloaks of his guards to hide the blood. Robert saw dragonspawn and did not hide his relief; Eddard Stark spoke of murder and left the city after quarrelling with him. Thoros of Myr, who saw the bodies, would say that House Clegane had been built on dead children."
+      },
+      "sources": [
+        {
+          "id": "asos",
+          "locator": "Tyrion VI (ch. 53)"
+        },
+        {
+          "id": "agot",
+          "locator": "Eddard II (ch. 12)"
+        },
+        {
+          "id": "asos",
+          "locator": "Arya VI (ch. 34)"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p7-rhaegar-elia",
+    "p7-lyanna",
+    "p7-sac"
+  ],
+  "warIds": [
+    "rebellion-de-robert"
+  ],
+  "disputed": {
+    "fr": "Les histoires officielles écrites sous Robert ne nomment pas ses meurtriers et rapportent des rumeurs accusant Aerys, ou même Elia. Les témoignages de Tywin, de Tyrion et d'Eddard Stark désignent Amory Lorch ; Tywin reconnaît avoir voulu la mort des enfants, sans en avoir réglé la manière.",
+    "en": "The official histories written under Robert do not name her killers and repeat rumours that blame Aerys, or even Elia. The accounts of Tywin, Tyrion and Eddard Stark point to Amory Lorch; Tywin admits to having wanted the children dead, without having settled how."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Targaryen Kings: Aerys II"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Fall of the Dragons: Robert's Rebellion"
+    },
+    {
+      "id": "agot",
+      "locator": "Eddard II (ch. 12)"
+    },
+    {
+      "id": "agot",
+      "locator": "Eddard XV (ch. 58)"
+    },
+    {
+      "id": "asos",
+      "locator": "Jaime II (ch. 11)"
+    },
+    {
+      "id": "asos",
+      "locator": "Arya VI (ch. 34)"
+    },
+    {
+      "id": "asos",
+      "locator": "Tyrion VI (ch. 53)"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "personId": "aegon-fils-rhaegar",
+  "titles": [
+    {
+      "fr": "Prince de la maison Targaryen",
+      "en": "Prince of House Targaryen"
+    }
+  ],
+  "lead": {
+    "fr": "Fils de Rhaegar et d'Elia Martell, Aegon fut tué au berceau lors du sac de Port-Réal selon la version reçue ; en 300 apr. C., un jeune homme qui affirme être lui débarque en Westeros.",
+    "en": "The son of Rhaegar and Elia Martell, Aegon was killed in his cradle during the sack of King's Landing according to the accepted account; in 300 AC a young man claiming to be him lands in Westeros."
+  },
+  "sections": [
+    {
+      "id": "aegon-fils-rhaegar-naissance",
+      "heading": {
+        "fr": "Le prince d'une comète",
+        "en": "The Prince of a Comet"
+      },
+      "body": {
+        "fr": "Aegon naît à Peyredragon à la fin de 281 ou au début de 282 apr. C., second enfant de Rhaegar et d'Elia. L'accouchement manque coûter la vie à sa mère, et les mestres annoncent qu'elle n'en aura pas d'autre. Une comète a été vue au-dessus de Port-Réal la nuit où l'enfant fut conçu ; Rhaegar y lit l'étoile sanglante d'une prophétie et se convainc que son fils est le prince promis. Mestre Aemon, à qui il écrit, connaît cette conviction, sans qu'on sache s'il la partagea.\n\nQuelques mois après la naissance, Rhaegar laisse sa femme et son fils à Peyredragon et part avec six compagnons ; il disparaît bientôt avec Lyanna Stark. La guerre qui s'ensuit fait de l'enfant un otage. Aerys le fait venir au Donjon Rouge avec sa mère et sa sœur, pour garantir la fidélité des Dorniens envoyés combattre aux côtés de Rhaegar.",
+        "en": "Aegon was born on Dragonstone at the end of 281 or the beginning of 282 AC, the second child of Rhaegar and Elia. The birth nearly cost his mother her life, and the maesters said she would have no other. A comet had been seen over King's Landing on the night the child was conceived; Rhaegar read in it the bleeding star of a prophecy and became convinced that his son was the prince that was promised. Maester Aemon, to whom he wrote, knew of this conviction, though whether he shared it is unknown.\n\nA few months after the birth, Rhaegar left his wife and son on Dragonstone and rode off with six companions; soon he vanished with Lyanna Stark. The war that followed made the child a hostage. Aerys had him brought to the Red Keep with his mother and sister, to guarantee the loyalty of the Dornishmen sent to fight beside Rhaegar."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: The Year of the False Spring"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell IV (ch. 35)"
+        }
+      ]
+    },
+    {
+      "id": "aegon-fils-rhaegar-sac",
+      "heading": {
+        "fr": "Le sac de Port-Réal",
+        "en": "The Sack of King's Landing"
+      },
+      "body": {
+        "fr": "Après la mort de Rhaegar au Trident, en 283 apr. C., Aerys désigne Viserys pour héritier à la place de son petit-fils et refuse de laisser partir Elia et ses enfants pour Peyredragon. Quand l'armée de Tywin Lannister entre dans la ville, ser Gregor Clegane pénètre dans la chambre où se trouvent la princesse et son fils. Il arrache l'enfant à sa mère, lui fracasse la tête contre le mur, puis s'en prend à Elia.\n\nTywin fait déposer les corps au pied du Trône de Fer, enveloppés dans les manteaux rouges de sa garde. Celui d'Aegon est méconnaissable : Eddard Stark garde le souvenir d'un crâne détruit, Kevan Lannister celui de quelques mèches claires au milieu d'un amas de chair et d'os. Robert, soulagé, refuse de pleurer des rejetons de dragon ; Eddard parle de meurtre. La mort du petit prince nourrit pendant dix-sept ans la haine des Martell envers les Lannister.",
+        "en": "After Rhaegar's death on the Trident in 283 AC, Aerys named Viserys his heir in place of his grandson and refused to let Elia and her children leave for Dragonstone. When Tywin Lannister's army entered the city, Ser Gregor Clegane forced his way into the room where the princess and her son were. He tore the child from his mother, dashed his head against the wall, and then turned on Elia.\n\nTywin had the bodies laid at the foot of the Iron Throne, wrapped in the red cloaks of his guards. Aegon's was unrecognisable: Eddard Stark remembered a shattered skull, Kevan Lannister a few pale strands of hair amid a mass of flesh and bone. Robert, relieved, refused to mourn dragonspawn; Eddard spoke of murder. The little prince's death fed the Martells' hatred of the Lannisters for seventeen years."
+      },
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Eddard II (ch. 12)"
+        },
+        {
+          "id": "asos",
+          "locator": "Tyrion VI (ch. 53)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Epilogue"
+        }
+      ]
+    },
+    {
+      "id": "aegon-fils-rhaegar-griff",
+      "heading": {
+        "fr": "Griff le Jeune",
+        "en": "Young Griff"
+      },
+      "body": {
+        "fr": "En 300 apr. C., un jeune homme élevé sous le nom de Griff le Jeune par Jon Connington, l'ancienne Main exilée, se présente comme Aegon, fils de Rhaegar. Selon ses protecteurs, Varys aurait substitué au prince, avant le sac, l'enfant d'un tanneur de Port-Réal, puis fait élever le vrai prince en secret dans les cités libres, avec l'appui du magistrat Illyrio Mopatis. Renonçant à rejoindre Daenerys, le jeune homme débarque dans les terres de l'Orage avec la Compagnie Dorée et s'empare du château ancestral des Connington.\n\nVarys répète cette version à Kevan Lannister avant de le tuer. Elle repose pourtant sur la parole de trois hommes, Varys, Illyrio et Connington, qui ont tous intérêt à ce qu'on la croie. Les livres parus ne disent pas si le prétendant est bien le fils de Rhaegar, ni qui était l'enfant tué en 283 apr. C.",
+        "en": "In 300 AC a young man raised under the name of Young Griff by Jon Connington, the exiled former Hand, came forward as Aegon, son of Rhaegar. According to his protectors, Varys had put a tanner's child from King's Landing in the prince's place before the sack, then had the real prince raised in secret in the Free Cities with the help of the magister Illyrio Mopatis. Giving up the plan to join Daenerys, the young man landed in the stormlands with the Golden Company and took the ancestral seat of the Conningtons.\n\nVarys repeats this account to Kevan Lannister before killing him. Yet it rests on the word of three men, Varys, Illyrio and Connington, all of whom have reason to want it believed. The published books do not say whether the claimant is truly Rhaegar's son, nor who the child killed in 283 AC was."
+      },
+      "sources": [
+        {
+          "id": "adwd",
+          "locator": "The Lost Lord (ch. 24)"
+        },
+        {
+          "id": "adwd",
+          "locator": "The Griffin Reborn (ch. 61)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Epilogue"
+        }
+      ]
+    }
+  ],
+  "dragonIds": [],
+  "eventIds": [
+    "p7-rhaegar-elia",
+    "p7-lyanna",
+    "p7-sac",
+    "p8-jeune-griff"
+  ],
+  "warIds": [
+    "rebellion-de-robert"
+  ],
+  "disputed": {
+    "fr": "Deux versions s'opposent. Selon la version reçue, Aegon fut tué en 283 apr. C. ; selon Varys, Illyrio et Jon Connington, l'enfant tué était un substitut et le prince a survécu sous le nom de Griff le Jeune. Les livres parus ne tranchent pas. Sa naissance se place à la fin de 281 ou au début de 282 apr. C.",
+    "en": "Two accounts conflict. According to the accepted version, Aegon was killed in 283 AC; according to Varys, Illyrio and Jon Connington, the murdered child was a substitute and the prince survived as Young Griff. The published books do not decide. His birth falls at the end of 281 or the beginning of 282 AC."
+  },
+  "adaptation": {
+    "fr": "La série Game of Thrones ne montre pas Griff le Jeune ; elle donne en revanche le nom d'Aegon Targaryen au fils qu'elle prête à Rhaegar et à Lyanna Stark.",
+    "en": "The Game of Thrones series does not show Young Griff; instead it gives the name Aegon Targaryen to the son it attributes to Rhaegar and Lyanna Stark."
+  },
+  "sources": [
+    {
+      "id": "twoiaf",
+      "locator": "The Fall of the Dragons: The Year of the False Spring"
+    },
+    {
+      "id": "twoiaf",
+      "locator": "The Fall of the Dragons: Robert's Rebellion"
+    },
+    {
+      "id": "agot",
+      "locator": "Eddard II (ch. 12)"
+    },
+    {
+      "id": "asos",
+      "locator": "Tyrion VI (ch. 53)"
+    },
+    {
+      "id": "affc",
+      "locator": "Samwell IV (ch. 35)"
+    },
+    {
+      "id": "adwd",
+      "locator": "The Lost Lord (ch. 24)"
+    },
+    {
+      "id": "adwd",
+      "locator": "The Griffin Reborn (ch. 61)"
+    },
+    {
+      "id": "adwd",
+      "locator": "Epilogue"
+    },
+    {
+      "id": "got",
+      "locator": "Seasons 7 and 8"
+    }
+  ]
+}

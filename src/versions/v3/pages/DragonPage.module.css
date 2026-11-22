@@ -1,0 +1,269 @@
+/*
+ * La planche sur le folio : le nom rubriqué et ses faits sur une ligne, la gravure entière
+ * dessous (bornée pour tenir au premier écran), puis le texte en récit et marge savante.
+ */
+.tete {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e6);
+  row-gap: var(--e2);
+  margin-bottom: var(--e4);
+}
+
+/* Glose identique au nom : elle se tait. */
+.sansGlose :global(.gloss__tr) {
+  display: none;
+}
+
+.meta {
+  display: grid;
+  gap: var(--e1);
+}
+
+.alias {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.15;
+  color: var(--v3-texte);
+}
+
+.faits {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e4);
+  row-gap: var(--e1);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.45;
+  color: var(--v3-texte-2);
+}
+
+.annees {
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+/*
+ * La planche entière au premier écran : la gravure à gauche, bornée en hauteur, la légende
+ * des teintes à droite sur ordinateur.
+ */
+.planche {
+  margin-bottom: var(--e6);
+}
+
+.planche > div:first-child > div {
+  grid-template-columns: minmax(0, 1fr) minmax(12rem, 15rem);
+  align-items: start;
+}
+
+.planche svg {
+  max-height: min(52svh, 30rem);
+}
+
+.section {
+  margin-top: var(--e7);
+}
+
+.phrase {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.6;
+  color: var(--v3-texte-2);
+}
+
+.appareil {
+  display: grid;
+  gap: var(--e1);
+  margin-top: var(--e4);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+  color: var(--v3-texte-2);
+}
+
+.horsLivres {
+  margin-top: var(--e5);
+}
+
+.marge {
+  display: grid;
+  align-content: start;
+  gap: var(--e2);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+  color: var(--v3-texte-2);
+}
+
+.margeTitre {
+  margin-top: var(--e3);
+  font-weight: 500;
+  color: var(--v3-texte);
+}
+
+.note {
+  font-family: var(--f-recit);
+  font-style: italic;
+}
+
+.batailles {
+  display: grid;
+  gap: var(--e5);
+  margin: var(--e4) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.bataille {
+  display: grid;
+  grid-template-columns: 5.5rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: baseline;
+}
+
+.batailleAn {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--v3-texte-2);
+}
+
+.batailleCorps {
+  display: grid;
+  gap: var(--e1);
+}
+
+.batailleNom {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+.batailleGuerre {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.4;
+}
+
+.sort {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.55;
+  hyphens: auto;
+}
+
+/* Ce que l'adaptation change : un pli de vélin plus sombre, à part du récit des livres. */
+.adaptation {
+  display: grid;
+  gap: var(--e3);
+  margin-top: var(--e7);
+  padding: var(--e5);
+  background: var(--velin-ombre);
+}
+
+.continuite {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+}
+
+.pager {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: end;
+  column-gap: var(--e5);
+  margin-top: var(--e7);
+}
+
+.pagerLien,
+.pagerRetour {
+  display: grid;
+  gap: var(--e1);
+  min-height: 2.75rem;
+  align-content: center;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--v3-texte);
+  text-decoration: none;
+}
+
+.pagerSuivant {
+  justify-items: end;
+  text-align: end;
+}
+
+.pagerSens {
+  color: var(--v3-texte-2);
+}
+
+.pagerNom {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.1;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--v3-rubrique);
+}
+
+.pagerRetour {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--v3-rubrique);
+}
+
+.pagerLien:hover .pagerNom,
+.pagerLien:focus-visible .pagerNom,
+.pagerRetour:hover,
+.pagerRetour:focus-visible {
+  text-decoration-thickness: 3px;
+  text-decoration-color: var(--v3-texte);
+}
+
+/* La colonne : l'échelle, les cavaliers, puis la carte qui prend le reste. */
+.pileColonne {
+  display: flex;
+  flex-direction: column;
+  gap: var(--e4);
+  min-height: 0;
+  overflow: hidden;
+}
+
+.tel {
+  display: grid;
+  min-width: 0;
+}
+
+.champTel {
+  display: grid;
+  gap: var(--e6);
+  padding-block: var(--e6);
+  min-width: 0;
+}
+
+@media (width < 1024px) {
+  .planche > div:first-child > div {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .planche svg {
+    max-height: 46svh;
+  }
+
+  .bataille {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .pager {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    row-gap: var(--e4);
+  }
+
+  .pagerRetour {
+    grid-column: 1 / -1;
+    grid-row: 2;
+  }
+}

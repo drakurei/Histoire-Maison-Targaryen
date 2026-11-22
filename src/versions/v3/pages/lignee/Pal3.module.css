@@ -1,0 +1,38 @@
+/* Ce que la V3 change au pal de la V2 (Pal.module.css de la V2 reste la feuille de base). */
+
+/* Couronne lisible : jamais sous 16 px, posée sur la ligne de base du nom. */
+.couronne {
+  width: max(1rem, 0.85em);
+  height: max(1rem, 0.85em);
+  margin-right: 0.28em;
+  vertical-align: -0.12em;
+  color: var(--or);
+}
+
+/* Au centre, le nom est en grand corps : la couronne reste une marque, à 0.5em. */
+.centreNom svg.couronneCentre {
+  width: max(1.25rem, 0.5em);
+  height: max(1.25rem, 0.5em);
+  margin-right: 0.2em;
+  vertical-align: 0.08em;
+  color: var(--or);
+}
+
+.centreNom {
+  color: var(--ivoire);
+}
+
+/* Le nom du centre est un h2 : un cran sous le h1 de la vue (la V2 les mettait au même corps). */
+.centreNom.centreNom {
+  font-size: var(--t3);
+  line-height: 1;
+}
+
+/* Le bloc du centre se resserre pour tenir dans le premier écran à 1440. */
+.rangee.rangee[data-bloc] {
+  padding-block: var(--e3);
+}
+
+.rangee.rangee[data-bloc]:has([data-kind='centre']) {
+  padding-block: var(--e4);
+}

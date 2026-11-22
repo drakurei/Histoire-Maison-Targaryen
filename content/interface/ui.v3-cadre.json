@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-v3-bati",
+  "note": "Bâti de la version 3 (le Codex armorié) : colonne du parti, pages provisoires. Le reste du bâti réutilise les clés communes et celles de la V2 (v2.fasce.*, v2.index.*).",
+  "items": [
+    {
+      "key": "v3.cadre.colonne",
+      "fr": "Le temps et le lieu de cette page",
+      "en": "Time and place of this page"
+    },
+    {
+      "key": "v3.cadre.provisoire",
+      "fr": "Salle en cours d’accrochage.",
+      "en": "This room is still being hung."
+    }
+  ]
+}

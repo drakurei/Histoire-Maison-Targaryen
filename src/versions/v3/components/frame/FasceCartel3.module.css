@@ -1,0 +1,181 @@
+/*
+ * Le cartel de la fasce. En pile : deux rangées de 44 px soudées à la masse et à la rangée
+ * des périodes (ordinateur, fasce datée). En ligne : une rangée, l'année puis les deux
+ * commandes (téléphone, fasce éteinte, portail).
+ */
+.root {
+  display: grid;
+  grid-template-rows: 2.75rem 2.75rem;
+  align-self: end;
+  min-width: 0;
+  font-family: var(--f-musee);
+  color: var(--ivoire);
+}
+
+.root[data-en-ligne] {
+  grid-template-rows: none;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  height: var(--v3-fasce-rangee);
+}
+
+.annee {
+  display: grid;
+  grid-template-columns: 2.75rem minmax(0, 1fr) 2.75rem;
+  align-items: stretch;
+  min-width: 0;
+}
+
+.cran {
+  display: grid;
+  place-items: center;
+  width: 2.75rem;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: 1.6rem;
+  line-height: 1;
+  color: var(--ivoire);
+}
+
+.cran:hover:not(:disabled) span {
+  color: var(--braise);
+}
+
+.cran:disabled {
+  color: var(--basalte);
+}
+
+.nombre {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  min-width: 0;
+  min-height: 2.75rem;
+  padding: 0;
+  text-align: left;
+  color: var(--ivoire);
+}
+
+.chiffres {
+  font-size: var(--t2);
+  translate: 0 0.04em;
+}
+
+.root[data-en-ligne] .chiffres {
+  font-size: 1.65rem;
+}
+
+.pile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.1rem;
+  min-width: 0;
+  line-height: 1.15;
+  overflow: hidden;
+}
+
+.ere {
+  font-size: var(--t-1);
+  font-weight: 500;
+  font-variant-numeric: lining-nums;
+}
+
+.sous {
+  overflow: hidden;
+  font-size: var(--t-1);
+  color: var(--cendre);
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.toutTemps {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.1;
+  white-space: nowrap;
+}
+
+.nombre:hover .chiffres,
+.nombre:hover .toutTemps,
+.nombre:focus-visible .chiffres {
+  text-decoration: underline 2px var(--braise);
+  text-underline-offset: 4px;
+}
+
+/* Année survolée (non réglée) ou fasce éteinte : en cendre. */
+.root[data-survol] .chiffres,
+.root[data-survol] .ere,
+.root[data-eteinte] .chiffres,
+.root[data-eteinte] .ere,
+.root[data-eteinte] .toutTemps {
+  color: var(--cendre);
+}
+
+.commandes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: stretch;
+}
+
+.root[data-en-ligne] .commandes {
+  grid-template-columns: auto auto;
+  gap: 0.25rem;
+}
+
+.commande {
+  display: flex;
+  align-items: flex-start;
+  min-height: 2.75rem;
+  padding-top: 0.55rem;
+  padding-inline: 0.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  line-height: 1.1;
+  text-align: left;
+  color: var(--ivoire);
+}
+
+.root[data-en-ligne] .commande {
+  align-items: center;
+  padding-top: 0;
+  padding-inline: 0.5rem;
+}
+
+.commande :global(.gloss__main) {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+.commande :global(.gloss__hv) {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+}
+
+.commande:hover :global(.gloss__main),
+.commande:focus-visible :global(.gloss__main) {
+  text-decoration: underline 2px var(--braise);
+  text-underline-offset: 3px;
+}
+
+.cran:focus-visible,
+.nombre:focus-visible,
+.commande:focus-visible {
+  outline-offset: -2px;
+}
+
+@media (width < 1024px) {
+  .root {
+    padding-inline: var(--v3-bord);
+  }
+}
+
+@media (width < 360px) {
+  .sous {
+    display: none;
+  }
+}

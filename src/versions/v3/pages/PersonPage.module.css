@@ -1,0 +1,272 @@
+/*
+ * Fiche de la V3 (v3-spec §6.7). Le folio reprend la mise en page de la fiche de la V1 (sans
+ * l'initiale gothique : la lettrine de la première section suffit, une par folio) ; les encres
+ * suivent la surface (`--v3-*`).
+ */
+
+/* ------------------------------------------------------------ en-tête */
+
+.tete {
+  display: grid;
+  gap: var(--e2);
+  margin-block-end: var(--e5);
+}
+
+.titre {
+  font-size: var(--t4);
+}
+
+.epithete {
+  margin: 0;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.2;
+  color: var(--encre);
+}
+
+.titres {
+  display: grid;
+  gap: 0.1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  max-inline-size: 60ch;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.35;
+  color: var(--encre);
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--e1) var(--e5);
+  margin: var(--e2) 0 0;
+  font-family: var(--f-musee);
+  font-size: 0.95rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+}
+
+.meta > span:first-child {
+  color: var(--encre);
+  font-weight: 500;
+}
+
+.dehors {
+  margin: 0;
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--encre-pale);
+}
+
+/* ------------------------------------------------------------ ouverture */
+
+.ouverture {
+  margin-block-end: var(--e6);
+  row-gap: var(--e5);
+}
+
+.marge {
+  display: grid;
+  gap: var(--e4);
+  align-content: start;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.45;
+  color: var(--encre-pale);
+}
+
+.note {
+  display: grid;
+  gap: var(--e2);
+  margin: 0;
+}
+
+.note p {
+  margin: 0;
+}
+
+/* L'or de texte sur le vélin : or d'encre (5,15:1), jamais l'or vif. */
+.regne {
+  color: var(--v3-or-encre);
+  font-weight: 500;
+  font-size: 0.92rem;
+}
+
+.lienVelin {
+  display: inline-flex;
+  align-items: center;
+  min-block-size: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: 0.95rem;
+  color: var(--encre);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--rubrique);
+}
+
+.lienVelin:hover,
+.lienVelin:focus-visible {
+  text-decoration-thickness: 3px;
+}
+
+/* ------------------------------------------------------------ sections */
+
+.section {
+  margin-block-end: var(--e7);
+}
+
+.annales {
+  display: grid;
+  margin: var(--e3) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.annale {
+  display: grid;
+  grid-template-columns: 7rem minmax(0, 1fr) auto;
+  column-gap: var(--e4);
+  align-items: baseline;
+  padding-block: var(--e2);
+}
+
+.annaleAnnee {
+  font-family: var(--f-musee);
+  font-size: 0.86rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--rubrique);
+  text-align: end;
+}
+
+.annaleTitre {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.4;
+}
+
+.annaleMarque {
+  color: var(--encre-pale);
+}
+
+.calme {
+  max-inline-size: 58ch;
+  margin: var(--e3) 0 0;
+  font-family: var(--f-recit);
+  font-style: italic;
+  line-height: 1.6;
+  color: var(--encre-pale);
+}
+
+.doute {
+  display: grid;
+  gap: var(--e2);
+  margin-block-start: var(--e4);
+}
+
+/* L'adaptation, tenue à part : un feuillet d'une autre teinte, ouvert par sa marque. */
+.adaptation {
+  margin-block-end: var(--e7);
+  margin-inline: calc(-1 * var(--v3-folio-pad));
+  padding: var(--e5) var(--v3-folio-pad);
+  background: var(--velin-ombre);
+}
+
+.adaptationTexte {
+  max-inline-size: 66ch;
+}
+
+.adaptationMarque {
+  margin: 0 0 var(--e2);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--encre-pale);
+}
+
+.adaptationListe {
+  display: grid;
+  gap: var(--e2);
+  margin: var(--e3) 0 0;
+  padding: 0;
+  list-style: none;
+  font-family: var(--f-recit);
+}
+
+/* ------------------------------------------------------------ colonne */
+
+.figure {
+  display: grid;
+  align-content: start;
+  gap: var(--e5);
+  min-height: 0;
+  overflow: hidden;
+}
+
+@media (max-width: 599.98px) {
+  .annale {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  .annaleAnnee {
+    grid-column: 1 / -1;
+    text-align: start;
+  }
+}
+
+@media (width < 1024px) {
+  .figure {
+    overflow: visible;
+  }
+}
+
+/* Dragons montés, sur le folio : la gravure à l'échelle de l'envergure, le nom dessous (fiche de la V1). */
+.montures {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--e5) var(--e6);
+  margin: var(--e4) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.monture {
+  --dragon-ink: var(--encre);
+  --dragon-paper: var(--velin);
+
+  display: grid;
+  justify-items: start;
+  inline-size: 11rem;
+}
+
+.montureFigure {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  inline-size: 100%;
+  block-size: 8rem;
+  color: var(--encre);
+}
+
+.montureFigure > div {
+  max-block-size: 100%;
+}
+
+.montureNom {
+  margin: 0;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.1;
+}
+
+.montureAnnees {
+  margin: 0;
+  font-family: var(--f-musee);
+  font-size: 0.8rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+}
