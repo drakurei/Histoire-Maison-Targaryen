@@ -11,6 +11,9 @@ const PORT = 4173;
 const srcDir = normalizePath(fileURLToPath(new URL('./src', import.meta.url)));
 
 export default defineConfig({
+  // Chemin de publication : « / » en local, « /Histoire-Maison-Targaryen/ » pour GitHub Pages.
+  base: process.env.BASE_PATH ?? '/',
+
   plugins: [react()],
 
   resolve: {

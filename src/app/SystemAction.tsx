@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { Gloss } from '@/core/i18n';
 
 import styles from './SystemAction.module.css';
+import { withBase } from '@/app/paths';
 
 /** Une commande d'un écran de l'enveloppe ; `labelKey` est une clé d'interface. */
 export type SystemActionSpec =
@@ -29,7 +30,7 @@ export function SystemAction({ action }: SystemActionProps) {
   }
   if ('href' in action) {
     return (
-      <a className={styles.link} href={action.href}>
+      <a className={styles.link} href={withBase(action.href)}>
         {label}
       </a>
     );

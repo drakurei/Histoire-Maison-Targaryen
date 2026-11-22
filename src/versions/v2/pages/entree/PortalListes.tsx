@@ -13,6 +13,7 @@ import { useLienHref } from '../../state/links';
 import { boundsOf, periods } from '../../state/scene';
 
 import styles from './PortalListes.module.css';
+import { withBase } from '@/app/paths';
 
 const PROFILE_W = 88;
 const PROFILE_H = 24;
@@ -53,7 +54,7 @@ export function PortalListes() {
             const target = href(`/chroniques/${period.id}`);
             return (
               <li key={period.id}>
-                <a href={target} className={styles.periode} onClick={(event) => open(event, target, from)}>
+                <a href={withBase(target)} className={styles.periode} onClick={(event) => open(event, target, from)}>
                   <span className={styles.chiffre} aria-hidden="true">
                     {toRoman(period.order)}
                   </span>

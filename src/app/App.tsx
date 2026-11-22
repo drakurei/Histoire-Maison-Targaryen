@@ -1,6 +1,7 @@
 import { Suspense } from 'react';
 import { BrowserRouter } from 'react-router-dom';
 
+import { BASE_PATH } from '@/app/paths';
 import { I18nProvider } from '@/core/i18n';
 import { SeuilGate } from '@/shared/seuil/SeuilGate';
 
@@ -18,7 +19,7 @@ import { SkipLink } from './SkipLink';
 export function App() {
   return (
     <I18nProvider>
-      <BrowserRouter>
+      <BrowserRouter basename={BASE_PATH || undefined}>
         <SeuilGate>
         <SkipLink />
         <ScrollManager />

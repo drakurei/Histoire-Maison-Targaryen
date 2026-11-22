@@ -13,6 +13,7 @@ import { graph, lifeBounds, threadIds } from './donnees';
 import { nomCourt } from './nomCourt';
 import { useTelephone } from './useEcran';
 import { useEtatAnnee } from './useEtatAnnee';
+import { withBase } from '@/app/paths';
 
 /**
  * L'arbre entier : `layoutTree` coûte 300 à 480 ms sur le navigateur. Il est calculé une fois
@@ -242,7 +243,7 @@ export function ArbreEntier({ centre, year, recentre, onClose }: ArbreEntierProp
                 return (
                   <a
                     key={node.id}
-                    href={href(recentre(node.id))}
+                    href={withBase(href(recentre(node.id)))}
                     className={styles.noeud}
                     data-etat={etat}
                     data-centre={node.id === centre ? '' : undefined}

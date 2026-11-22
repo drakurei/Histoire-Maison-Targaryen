@@ -33,6 +33,7 @@ import { DESKTOP_QUERY, useMedia } from './entree/hooks';
 import { leadingDragon, placeIdsOf, placesOfYear } from './entree/model';
 import { ProfilTel, TempsVue } from './entree/TempsVue';
 import styles from './PeriodPage.module.css';
+import { withBase } from '@/app/paths';
 
 const RELIABILITY_ORDER: readonly Reliability[] = ['etabli', 'recit-unique', 'contradictoire', 'legende', 'adaptation'];
 const ANNALS_ID = 'annales';
@@ -232,7 +233,7 @@ function PeriodView({ period }: { period: Period }) {
 
       <nav className={styles.voisins} aria-label={t('v2.period.neighbours')}>
         {previous ? (
-          <a href={href(`/chroniques/${previous.id}`)} className={styles.voisin} onClick={(event) => go(event, previous)}>
+          <a href={withBase(href(`/chroniques/${previous.id}`))} className={styles.voisin} onClick={(event) => go(event, previous)}>
             <span className={styles.voisinSens}>{t('v2.period.previous')}</span>
             <span className={styles.voisinNom}>
               <span className={styles.voisinChiffre} aria-hidden="true">
@@ -246,7 +247,7 @@ function PeriodView({ period }: { period: Period }) {
           <span />
         )}
         {next ? (
-          <a href={href(`/chroniques/${next.id}`)} className={`${styles.voisin} ${styles.suivant}`} onClick={(event) => go(event, next)}>
+          <a href={withBase(href(`/chroniques/${next.id}`))} className={`${styles.voisin} ${styles.suivant}`} onClick={(event) => go(event, next)}>
             <span className={styles.voisinSens}>{t('v2.period.next')}</span>
             <span className={styles.voisinNom}>
               <span className={styles.voisinChiffre} aria-hidden="true">

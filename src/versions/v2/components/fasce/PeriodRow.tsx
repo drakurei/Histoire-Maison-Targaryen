@@ -12,6 +12,7 @@ import { useFeu } from '../Feu';
 import { isModifiedClick, toRoman } from '../numerals';
 
 import styles from './PeriodRow.module.css';
+import { withBase } from '@/app/paths';
 
 interface PeriodRowProps {
   scale: TimeScale;
@@ -110,7 +111,7 @@ export function PeriodRow({ scale, width, onHover, compact }: PeriodRowProps) {
                   if (node) targets.current.set(period.id, node);
                   else targets.current.delete(period.id);
                 }}
-                href={to2}
+                href={withBase(to2)}
                 className={styles.target}
                 aria-current={current === period.id ? 'page' : undefined}
                 style={compact ? undefined : { transform: `translateX(${left ?? 0}px)`, visibility: left === undefined ? 'hidden' : undefined }}

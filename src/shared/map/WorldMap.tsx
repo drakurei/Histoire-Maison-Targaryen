@@ -12,6 +12,7 @@ import { MapBase } from './MapBase';
 import { boundsOfViewBox, clampView, viewBoxOf, viewContains, viewOfFrame, zoomAt } from './view';
 import type { MapFrame, MapView } from './view';
 import styles from './WorldMap.module.css';
+import { withBase } from '@/app/paths';
 
 /** Un lieu posé sur la carte. Les textes arrivent traduits : la carte ne connaît pas les clés d'interface. */
 export interface WorldMapPlace {
@@ -440,7 +441,7 @@ export function WorldMap({
                 <a
                   key={place.id}
                   {...common}
-                  href={place.href}
+                  href={withBase(place.href)}
                   aria-label={accessible}
                   aria-current={place.id === selectedId ? 'location' : undefined}
                   onClick={(event) => onActivate?.(place.id, event)}

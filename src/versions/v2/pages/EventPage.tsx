@@ -29,6 +29,7 @@ import { DESKTOP_QUERY, useMedia } from './entree/hooks';
 import { chronology, neighboursOf, placeIdsOf } from './entree/model';
 import { TempsVue } from './entree/TempsVue';
 import styles from './EventPage.module.css';
+import { withBase } from '@/app/paths';
 
 /**
  * Le fil du temps de toute la chronique, calculé une fois. Les événements des livres se
@@ -97,7 +98,7 @@ function Voisin({ event, sens, current }: VoisinProps) {
     feu.passer(target, { year: event.year ?? event.sortYear });
   };
   return (
-    <a href={target} className={`${styles.voisin} ${sens === 'next' ? styles.suivant : ''}`} onClick={onClick}>
+    <a href={withBase(target)} className={`${styles.voisin} ${sens === 'next' ? styles.suivant : ''}`} onClick={onClick}>
       <span className={styles.voisinSens}>{t(sens === 'next' ? 'v2.event.next' : 'v2.event.previous')}</span>
       <span className={styles.voisinAnnee}>{event.year === null ? t('label.unknownDate') : formatYear(event.year, reading)}</span>
       <span className={styles.voisinTitre}>{tx(event.title)}</span>

@@ -17,6 +17,7 @@ import { setHoverYear, useYear } from '../../state/year';
 import { DESKTOP_QUERY, useBox, useMedia } from './hooks';
 import { hasDragons } from './TempsVue';
 import styles from './FigureChroniques.module.css';
+import { withBase } from '@/app/paths';
 
 /** Mesures de la figure, en pixels. Ordinateur, puis téléphone. */
 const SIZES = {
@@ -178,7 +179,7 @@ export function FigureChroniques() {
                 return (
                   <li key={period.id} className={styles.rangee} style={{ height: size.row }}>
                     <a
-                      href={target}
+                      href={withBase(target)}
                       className={styles.lien}
                       onClick={(event) => open(event, target, clampToDomain(centre === 0 ? 1 : centre))}
                       onFocus={() => setHoverYear(null)}

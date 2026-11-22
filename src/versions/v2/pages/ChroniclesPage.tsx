@@ -13,6 +13,7 @@ import { boundsOf, periods, presence, VALYRIA } from '../state/scene';
 import { FigureChroniques } from './entree/FigureChroniques';
 import { firstSentence, peakIn } from './entree/model';
 import styles from './ChroniclesPage.module.css';
+import { withBase } from '@/app/paths';
 
 /**
  * Chroniques `/chroniques` (fascé, spec §5.4) : les huit périodes alignées sur l'échelle de
@@ -75,7 +76,7 @@ export default function ChroniclesPage() {
                 </span>
                 <div className={styles.tete}>
                   <h3 className={styles.nom}>
-                    <a href={target} onClick={(event) => open(event, target, from)}>
+                    <a href={withBase(target)} onClick={(event) => open(event, target, from)}>
                       <span lang={name.isHv ? VALYRIAN_TAG : undefined}>{name.primary}</span>
                     </a>
                   </h3>

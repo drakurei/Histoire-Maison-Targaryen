@@ -13,7 +13,8 @@
     "build": "npm run content && tsc -b --noEmit && vite build",
     "preview": "vite preview --host 127.0.0.1 --port 4173",
     "shots": "node tests/visual/shots.mjs",
-    "audit:links": "node tests/functional/links.mjs"
+    "audit:links": "node tests/functional/links.mjs",
+    "build:pages": "npm run content && tsc -b --noEmit && vite build && node scripts/pages.mjs"
   },
   "dependencies": {
     "@fontsource-variable/alegreya": "^5.3.0",

@@ -9,6 +9,7 @@ import { reignRibbons } from '@/core/timeline';
 import { toRoman } from '../../components/numerals';
 import { shortName } from '../lineage/model';
 import styles from './ReignRibbon.module.css';
+import { withBase } from '@/app/paths';
 
 const FROM = 1;
 const TO = 300;
@@ -85,7 +86,7 @@ export function ReignRibbon() {
           return (
             <a
               key={ribbon.id}
-              href={path(to)}
+              href={withBase(path(to))}
               className={styles.reign}
               data-tone={index % 2 === 0 ? 'a' : 'b'}
               data-lane={ribbon.lane}
