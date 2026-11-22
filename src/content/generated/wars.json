@@ -2010,14 +2010,14 @@
           "id": "tumbleton-1",
           "warId": "danse-des-dragons",
           "name": {
-            "fr": "La première bataille de Chutebourg",
+            "fr": "La première bataille de Tumbleton",
             "en": "The First Battle of Tumbleton"
           },
           "year": 130,
           "dateCertainty": "exacte",
           "placeId": "tumbleton",
           "placeName": {
-            "fr": "Chutebourg (Tumbleton), sur la Mander",
+            "fr": "Tumbleton (Tumbleton), sur la Mander",
             "en": "Tumbleton, on the Mander"
           },
           "sides": [
@@ -2052,7 +2052,7 @@
             }
           ],
           "summary": {
-            "fr": "Chutebourg (Tumbleton dans le texte original), bourg de marché sur la Mander, est la dernière place tenue pour Rhaenyra entre l’armée des Hightower et Port-Réal. La reine y envoie deux dragons des Semailles, Vermithor et Silverwing, avec leurs cavaliers Hugh Marteau et Ulf le Blanc. Les défenseurs sont six mille à douze mille selon les récits ; Munkun en retient près de neuf mille. Lord Ormund Hightower en amène bien davantage, et Tessarion. Ser Garibald Gris sort attaquer avec le gros des défenseurs, et les archers de lord Ormund éclaircissent ses rangs. Lord Roderick Dustin mène alors ses derniers cavaliers du Nord par une poterne, à un contre dix, jusqu’à lord Ormund : il le tue, ainsi que son cousin ser Bryndon, et meurt de ses blessures. La ville croit la journée gagnée. C’est le moment où Hugh et Ulf tournent leurs dragons contre elle, et où des traîtres ouvrent les portes.",
+            "fr": "Tumbleton (Tumbleton dans le texte original), bourg de marché sur la Mander, est la dernière place tenue pour Rhaenyra entre l’armée des Hightower et Port-Réal. La reine y envoie deux dragons des Semailles, Vermithor et Silverwing, avec leurs cavaliers Hugh Marteau et Ulf le Blanc. Les défenseurs sont six mille à douze mille selon les récits ; Munkun en retient près de neuf mille. Lord Ormund Hightower en amène bien davantage, et Tessarion. Ser Garibald Gris sort attaquer avec le gros des défenseurs, et les archers de lord Ormund éclaircissent ses rangs. Lord Roderick Dustin mène alors ses derniers cavaliers du Nord par une poterne, à un contre dix, jusqu’à lord Ormund : il le tue, ainsi que son cousin ser Bryndon, et meurt de ses blessures. La ville croit la journée gagnée. C’est le moment où Hugh et Ulf tournent leurs dragons contre elle, et où des traîtres ouvrent les portes.",
             "en": "Tumbleton, a market town on the Mander, was the last place held for Rhaenyra between the Hightower host and King’s Landing. The queen sent it two of the dragons claimed in the Sowing, Vermithor and Silverwing, with their riders Hugh Hammer and Ulf White. The defenders numbered anywhere from six to twelve thousand, depending on the account; Munkun settles on nearly nine. Lord Ormund Hightower brought far more, and Tessarion. Ser Garibald Grey went out to attack with the greater part of the defenders, and Lord Ormund’s archers thinned his ranks. Lord Roderick Dustin then led the last of his northern riders out through a postern, one against ten, and cut his way to Lord Ormund: he killed him, and his cousin Ser Bryndon, and died of his wounds. The town thought the day won. It was then that Hugh and Ulf turned their dragons on it, and that traitors opened the gates."
           },
           "outcome": {
@@ -2204,7 +2204,7 @@
             }
           ],
           "summary": {
-            "fr": "Depuis Chutebourg, Port-Réal attend les dragons des verts. Un prédicateur manchot, le Berger, prêche que la ville ne sera sauvée que purgée de tous les dragons. La reine Helaena meurt, tombée d’une fenêtre de la citadelle de Maegor ; la rue la croit assassinée et se soulève. La seconde nuit, la foule monte à Fossedragon, tue les Gardiens des dragons, moins de cinquante, force les petites portes et se jette sur quatre bêtes enchaînées, qui ne peuvent s’envoler. Toutes meurent, et la coupole s’effondre sur leurs tueurs. Au Donjon Rouge, le prince Joffrey, craignant pour Tyraxes, a pris Syrax, le dragon de sa mère : elle le désarçonne au-dessus de Culpucier, puis descend sur la foule et y meurt. Munkun attribue sa mort au bûcheron Hobb, ce que Gyldayn écarte ; d’autres nomment un lancier, un chevalier, un arbalétrier qui s’en vanta ; le récit le plus répandu dans la ville fait paraître le Guerrier en personne, à l’appel du Berger.",
+            "fr": "Depuis Tumbleton, Port-Réal attend les dragons des verts. Un prédicateur manchot, le Berger, prêche que la ville ne sera sauvée que purgée de tous les dragons. La reine Helaena meurt, tombée d’une fenêtre de la citadelle de Maegor ; la rue la croit assassinée et se soulève. La seconde nuit, la foule monte à Fossedragon, tue les Gardiens des dragons, moins de cinquante, force les petites portes et se jette sur quatre bêtes enchaînées, qui ne peuvent s’envoler. Toutes meurent, et la coupole s’effondre sur leurs tueurs. Au Donjon Rouge, le prince Joffrey, craignant pour Tyraxes, a pris Syrax, le dragon de sa mère : elle le désarçonne au-dessus de Culpucier, puis descend sur la foule et y meurt. Munkun attribue sa mort au bûcheron Hobb, ce que Gyldayn écarte ; d’autres nomment un lancier, un chevalier, un arbalétrier qui s’en vanta ; le récit le plus répandu dans la ville fait paraître le Guerrier en personne, à l’appel du Berger.",
             "en": "Since Tumbleton, King’s Landing had been waiting for the greens’ dragons. A one-handed preacher, the Shepherd, told the crowds the city could be saved only by ridding it of dragons. Queen Helaena died in a fall from a window of Maegor’s Holdfast; the streets believed her murdered and rose. On the second night the mob climbed to the Dragonpit, killed the Dragonkeepers, fewer than fifty, broke in through the lesser doors and fell on four chained dragons. All four died, and the dome came down on their killers. Prince Joffrey, afraid for his own Tyraxes, had taken his mother’s dragon Syrax; she threw him over Flea Bottom, then came down among the mob and died there. Munkun gives the kill to Hobb the Hewer, which Gyldayn rejects; others name a spearman, a knight, a crossbowman who boasted of it; the tale most often told in the city has the Warrior himself appear at the Shepherd’s call."
           },
           "outcome": {
@@ -2234,14 +2234,14 @@
           "id": "tumbleton-2",
           "warId": "danse-des-dragons",
           "name": {
-            "fr": "La seconde bataille de Chutebourg",
+            "fr": "La seconde bataille de Tumbleton",
             "en": "The Second Battle of Tumbleton"
           },
           "year": 130,
           "dateCertainty": "exacte",
           "placeId": "tumbleton",
           "placeName": {
-            "fr": "Chutebourg (Tumbleton) et les camps autour de la ville",
+            "fr": "Tumbleton (Tumbleton) et les camps autour de la ville",
             "en": "Tumbleton and the camps around the town"
           },
           "sides": [
@@ -2284,7 +2284,7 @@
             }
           ],
           "summary": {
-            "fr": "Après la trahison de Chutebourg, Rhaenyra a ordonné l’arrestation d’Addam Velaryon. Il s’enfuit sur Seasmoke et, pour prouver sa loyauté, lève dans le Conflans près de quatre mille hommes, dont les Tully, enfin entrés en guerre. Dans la ville, l’armée verte se défait : Hugh Marteau veut une couronne, et treize seigneurs et chevaliers complotent sa mort et celle d’Ulf. La nuit prévue pour le complot, Addam attaque. Seasmoke met le feu aux camps. Hugh, qui court vers Vermithor, est tué par Jon Roxton, l’un des conjurés ; Ulf dort. Le prince Daeron meurt dans le camp, et l’on en donne trois versions : abattu par un mercenaire de Myr alors qu’il sortait en flammes de sa tente, tué par un soldat qui ne le reconnut pas, ou, selon Munkun, écrasé sous son pavillon embrasé. Les dragons se battent ensuite entre eux, deux des trois sans cavalier.",
+            "fr": "Après la trahison de Tumbleton, Rhaenyra a ordonné l’arrestation d’Addam Velaryon. Il s’enfuit sur Seasmoke et, pour prouver sa loyauté, lève dans le Conflans près de quatre mille hommes, dont les Tully, enfin entrés en guerre. Dans la ville, l’armée verte se défait : Hugh Marteau veut une couronne, et treize seigneurs et chevaliers complotent sa mort et celle d’Ulf. La nuit prévue pour le complot, Addam attaque. Seasmoke met le feu aux camps. Hugh, qui court vers Vermithor, est tué par Jon Roxton, l’un des conjurés ; Ulf dort. Le prince Daeron meurt dans le camp, et l’on en donne trois versions : abattu par un mercenaire de Myr alors qu’il sortait en flammes de sa tente, tué par un soldat qui ne le reconnut pas, ou, selon Munkun, écrasé sous son pavillon embrasé. Les dragons se battent ensuite entre eux, deux des trois sans cavalier.",
             "en": "After the treasons at Tumbleton Rhaenyra ordered Addam Velaryon arrested. He escaped on Seasmoke and, to prove his loyalty, raised nearly four thousand men in the riverlands, the Tullys among them at last. Inside the town the green host was coming apart: Hugh Hammer wanted a crown, and thirteen lords and knights were plotting his death and Ulf’s. On the night chosen for the plot, Addam struck. Seasmoke set the camps alight. Hugh, running for Vermithor, was cut down by Jon Roxton, one of the plotters; Ulf slept through it. Prince Daeron died in the camp, and there are three versions: struck down by a Myrish sellsword as he came out of his tent on fire, killed by a soldier who did not know him, or, as Munkun has it, crushed when his burning pavilion fell in. Then the dragons fought one another, two of the three without riders."
           },
           "outcome": {

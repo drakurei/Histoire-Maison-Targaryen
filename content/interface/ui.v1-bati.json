@@ -8,8 +8,8 @@
     { "key": "page.bati.ribbons.label", "fr": "Registres", "en": "Registers" },
 
     { "key": "page.bati.shelf.label", "fr": "Étagère", "en": "Shelf" },
-    { "key": "page.bati.shelf.volumes", "fr": "Volumes", "en": "Volumes" },
-    { "key": "page.bati.shelf.registers", "fr": "Registres", "en": "Registers" },
+    { "key": "page.bati.shelf.volumes", "fr": "Volumes", "en": "Volumes", "hv": "Tembyri", "status": "derive", "note": "Nominatif pluriel de tembyr, « livre, tome » (2e/6e déclinaison lunaire ; pluriel tembyri donné par la fiche du mot). Même forme que le titre « Sources » de la navigation : la glose distingue les deux emplois." },
+    { "key": "page.bati.shelf.registers", "fr": "Registres", "en": "Registers", "hv": "Sōlutti", "status": "derive", "note": "Nominatif pluriel de sōlutty, « rouleau ; carte, registre, comptes » (2e déclinaison lunaire ; pluriel sōlutti donné par la fiche du mot)." },
     { "key": "page.bati.shelf.drawerVolumes", "fr": "Les huit volumes de la chronique", "en": "The eight volumes of the chronicle" },
     { "key": "page.bati.shelf.drawerRegisters", "fr": "Les registres de la bibliothèque", "en": "The registers of the library" },
     { "key": "page.bati.shelf.drawerLanguage", "fr": "Langues de lecture", "en": "Reading languages" },
@@ -61,8 +61,8 @@
     { "key": "page.bati.lang.short.en", "fr": "EN", "en": "EN" },
     { "key": "page.bati.support.label", "fr": "Gloses", "en": "Glosses" },
 
-    { "key": "page.bati.title.lexicon", "fr": "Lexique", "en": "Lexicon" },
+    { "key": "page.bati.title.lexicon", "fr": "Lexique", "en": "Lexicon", "hv": "Udra", "status": "derive", "note": "Nominatif pluriel de udir, « mot » (5e déclinaison aquatique ; pluriel udra donné par la fiche du mot) : le lexique est nommé par ses mots." },
     { "key": "page.bati.title.grammar", "fr": "Grammaire", "en": "Grammar" },
-    { "key": "page.bati.title.phrases", "fr": "Expressions", "en": "Phrases" }
+    { "key": "page.bati.title.phrases", "fr": "Expressions", "en": "Phrases", "hv": "Udrini", "status": "derive", "note": "Nominatif pluriel de udrin, « phrase, dicton, aphorisme », ancien paucal de udir devenu mot autonome (pluriel udrini donné par la fiche du mot)." }
   ]
 }

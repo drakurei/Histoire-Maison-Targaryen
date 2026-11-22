@@ -1,0 +1,252 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-09",
+  "note": "Bâti de la version 2 (Sable et gueules) : fasce, cartel de la fasce, Index, recherche, cartel des entités, état du royaume, années. Le valyrien sera ajouté par le linguiste.",
+  "items": [
+    {
+      "key": "v2.fasce.label",
+      "fr": "La fasce : dragons vivants, année par année",
+      "en": "The fess: living dragons, year by year"
+    },
+    {
+      "key": "v2.fasce.slider",
+      "fr": "Année réglée sur la fasce",
+      "en": "Year set on the fess"
+    },
+    {
+      "key": "v2.fasce.valuetext",
+      "fr": "{year}, règne de {reign}, {period}, {count}",
+      "en": "{year}, reign of {reign}, {period}, {count}"
+    },
+    {
+      "key": "v2.fasce.valuetext_noreign",
+      "fr": "{year}, {period}, {count}",
+      "en": "{year}, {period}, {count}"
+    },
+    {
+      "key": "v2.fasce.all_time",
+      "fr": "tout le temps",
+      "en": "all of time"
+    },
+    {
+      "key": "v2.fasce.step_previous",
+      "fr": "Année datée précédente",
+      "en": "Previous dated year"
+    },
+    {
+      "key": "v2.fasce.step_next",
+      "fr": "Année datée suivante",
+      "en": "Next dated year"
+    },
+    {
+      "key": "v2.fasce.periods",
+      "fr": "Les huit périodes",
+      "en": "The eight periods"
+    },
+    {
+      "key": "v2.fasce.open_state",
+      "fr": "État du royaume en {year}",
+      "en": "State of the realm in {year}"
+    },
+    {
+      "key": "v2.fasce.open_state_none",
+      "fr": "État du royaume : réglez d’abord une année",
+      "en": "State of the realm: set a year first"
+    },
+    {
+      "key": "v2.fasce.alive.none",
+      "fr": "aucun dragon vivant",
+      "en": "no living dragon"
+    },
+    {
+      "key": "v2.fasce.alive.one",
+      "fr": "un dragon vivant",
+      "en": "one living dragon"
+    },
+    {
+      "key": "v2.fasce.alive.many",
+      "fr": "{n} dragons vivants",
+      "en": "{n} living dragons"
+    },
+    {
+      "key": "v2.year.live",
+      "fr": "{year} : {count}",
+      "en": "{year}: {count}"
+    },
+    {
+      "key": "v2.year.age.zero",
+      "fr": "En {year} : dans sa première année",
+      "en": "In {year}: in the first year of life"
+    },
+    {
+      "key": "v2.year.age.one",
+      "fr": "En {year} : un an",
+      "en": "In {year}: one year old"
+    },
+    {
+      "key": "v2.year.age.many",
+      "fr": "En {year} : {n} ans",
+      "en": "In {year}: {n} years old"
+    },
+    {
+      "key": "v2.year.age_approx",
+      "fr": "En {year} : vers {n} ans",
+      "en": "In {year}: about {n} years old"
+    },
+    {
+      "key": "v2.year.dead_since.one",
+      "fr": "En {year} : n’est plus depuis un an",
+      "en": "In {year}: dead for a year"
+    },
+    {
+      "key": "v2.year.dead_since.many",
+      "fr": "En {year} : n’est plus depuis {n} ans",
+      "en": "In {year}: dead for {n} years"
+    },
+    {
+      "key": "v2.year.unborn",
+      "fr": "En {year} : pas encore de ce monde",
+      "en": "In {year}: not yet born"
+    },
+    {
+      "key": "v2.year.outside.unborn",
+      "fr": "En {year}, {name} n’est pas encore de ce monde.",
+      "en": "In {year}, {name} is not yet born."
+    },
+    {
+      "key": "v2.year.outside.dead",
+      "fr": "En {year}, {name} n’est plus depuis {n} ans.",
+      "en": "In {year}, {name} has been dead for {n} years."
+    },
+    {
+      "key": "v2.index.title",
+      "fr": "Registres",
+      "en": "Registers"
+    },
+    {
+      "key": "v2.index.periods",
+      "fr": "Les huit périodes",
+      "en": "The eight periods"
+    },
+    {
+      "key": "v2.index.registers",
+      "fr": "Les neuf registres",
+      "en": "The nine registers"
+    },
+    {
+      "key": "v2.resume.label",
+      "fr": "Reprendre : {title}",
+      "en": "Resume: {title}"
+    },
+    {
+      "key": "v2.search.placeholder",
+      "fr": "Un nom, un dragon, un lieu, une année",
+      "en": "A name, a dragon, a place, a year"
+    },
+    {
+      "key": "v2.search.set_year",
+      "fr": "Régler la fasce sur {year}",
+      "en": "Set the fess to {year}"
+    },
+    {
+      "key": "v2.search.kind.period",
+      "fr": "Périodes",
+      "en": "Periods"
+    },
+    {
+      "key": "v2.cartel.label",
+      "fr": "Aperçu",
+      "en": "Preview"
+    },
+    {
+      "key": "v2.cartel.none",
+      "fr": "aucun",
+      "en": "none"
+    },
+    {
+      "key": "v2.cartel.unknown",
+      "fr": "Rien n’est enregistré sous ce nom.",
+      "en": "Nothing is recorded under this name."
+    },
+    {
+      "key": "v2.cartel.circa",
+      "fr": "vers {span}",
+      "en": "c. {span}"
+    },
+    {
+      "key": "v2.cartel.reign",
+      "fr": "règne de {span}",
+      "en": "reigned {span}"
+    },
+    {
+      "key": "v2.cartel.open_page",
+      "fr": "Ouvrir la fiche",
+      "en": "Open the full entry"
+    },
+    {
+      "key": "v2.state.label",
+      "fr": "État du royaume",
+      "en": "State of the realm"
+    },
+    {
+      "key": "v2.state.title",
+      "fr": "État du royaume en {year}",
+      "en": "State of the realm in {year}"
+    },
+    {
+      "key": "v2.state.title_none",
+      "fr": "État du royaume",
+      "en": "State of the realm"
+    },
+    {
+      "key": "v2.state.empty",
+      "fr": "Réglez une année sur la fasce pour voir qui règne, qui vole et où l’on se bat.",
+      "en": "Set a year on the fess to see who reigns, who flies and where the fighting is."
+    },
+    {
+      "key": "v2.state.since",
+      "fr": "depuis {year}",
+      "en": "since {year}"
+    },
+    {
+      "key": "v2.state.contested",
+      "fr": "règne contesté",
+      "en": "contested reign"
+    },
+    {
+      "key": "v2.state.no_reign",
+      "fr": "Aucun Targaryen ne règne cette année-là.",
+      "en": "No Targaryen reigns that year."
+    },
+    {
+      "key": "v2.state.dragons",
+      "fr": "Dragons vivants : {n}",
+      "en": "Living dragons: {n}"
+    },
+    {
+      "key": "v2.state.unknown_fate",
+      "fr": "Au sort inconnu :",
+      "en": "Fate unknown:"
+    },
+    {
+      "key": "v2.state.wars",
+      "fr": "Guerres en cours",
+      "en": "Wars under way"
+    },
+    {
+      "key": "v2.state.this_year",
+      "fr": "Cette année",
+      "en": "This year"
+    },
+    {
+      "key": "v2.state.nothing_dated",
+      "fr": "Aucun événement n’est daté de cette année.",
+      "en": "No event is dated to this year."
+    },
+    {
+      "key": "v2.map.fullscreen",
+      "fr": "Plein écran",
+      "en": "Full screen"
+    }
+  ]
+}

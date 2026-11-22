@@ -1,0 +1,2249 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-02",
+  "items": [
+    {
+      "personId": "daeron-fils-maekar-i",
+      "titles": [
+        {
+          "fr": "Prince de Peyredragon",
+          "en": "Prince of Dragonstone"
+        }
+      ],
+      "lead": {
+        "fr": "Fils aîné de Maekar Ier, Daeron fut l'héritier du trône à partir de 221 apr. C., mais il mourut avant son père et ne laissa qu'une fille que l'on jugea incapable de régner.",
+        "en": "The eldest son of Maekar I, Daeron was heir to the throne from 221 AC, but he died before his father and left only a daughter judged unfit to rule."
+      },
+      "sections": [
+        {
+          "id": "daeron-fils-maekar-i-cendregue",
+          "heading": {
+            "fr": "L'auberge et le tournoi",
+            "en": "The Inn and the Tourney"
+          },
+          "body": {
+            "fr": "En 209 apr. C., Maekar, alors prince de Lestival, envoie ses fils Daeron et Aegon au tournoi de Cendregué, dans l'espoir qu'ils y fassent meilleure figure que les fils de son frère Baelor. Daeron n'a aucun goût pour les joutes. Il fausse compagnie à son escorte et emmène le cadet, qui lui sert d'écuyer. Ses propres cheveux n'ont pas l'éclat argenté des Targaryen et lui permettent de passer inaperçu ; il rase en revanche la tête d'Aegon. On le retrouve ivre dans une auberge des environs.\n\nPour expliquer la disparition de l'enfant, il raconte à son père qu'un chevalier brigand d'une taille démesurée l'a enlevé sur la route et qu'il l'a poursuivi en vain. Le mensonge tombe au plus mal. Duncan, le chevalier errant chez qui Aegon s'est placé comme écuyer, vient d'être arrêté pour avoir frappé le prince Aerion, et la fable de Daeron semble l'accabler un peu plus.",
+            "en": "In 209 AC Maekar, then Prince of Summerhall, sent his sons Daeron and Aegon to the tourney at Ashford Meadow, hoping they would cut a better figure than the sons of his brother Baelor. Daeron had no taste for jousting. He slipped away from his escort and took the younger boy, who served as his squire, along with him. His own hair lacked the silver sheen of the Targaryens and let him pass unnoticed; Aegon's he shaved off. He was found drunk at an inn nearby.\n\nTo account for the boy's disappearance, he told his father that a robber knight of enormous size had carried him off on the road and that he had chased them in vain. The lie came at the worst possible moment. Duncan, the hedge knight with whom Aegon had taken service as a squire, had just been arrested for striking Prince Aerion, and Daeron's tale seemed to weigh further against him."
+          },
+          "sources": [
+            {
+              "id": "thk",
+              "locator": "Ashford Meadow: the inn, the arrest of Duncan"
+            }
+          ]
+        },
+        {
+          "id": "daeron-fils-maekar-i-reve",
+          "heading": {
+            "fr": "Un rêve de dragon mort",
+            "en": "A Dream of a Dead Dragon"
+          },
+          "body": {
+            "fr": "Daeron vient ensuite trouver Duncan pour s'excuser : il n'avait pas remarqué, dit-il, que son frère n'était plus avec lui. Il lui confie aussi qu'il l'avait vu en rêve avant de le croiser à l'auberge, et que ses rêves se réalisent. Dans celui-ci, un grand dragon mort tombait sur le chevalier, qui se relevait vivant. Daeron ne sait pas ce que cela signifie et avoue que Duncan lui fait peur. Il promet enfin de ne pas se battre pour de bon.\n\nLe jour du jugement par sept, il combat donc dans le camp de son frère Aerion, aux côtés de leur père et de trois chevaliers de la Garde Royale. Désarçonné dès la première charge par ser Robyn Rhysling, il reste à terre comme il l'avait annoncé, et son propre cheval lui marche sur le pied. Le rêve trouve son sens à la fin de la journée : le prince Baelor, frappé par Maekar, meurt de sa blessure dans les bras de Duncan.",
+            "en": "Daeron later came to Duncan to apologise: he had not noticed, he said, that his brother was no longer with him. He also told him that he had seen him in a dream before meeting him at the inn, and that his dreams came true. In this one a great dragon fell dead upon the knight, who rose from beneath it alive. Daeron did not know what it meant and admitted that Duncan frightened him. Finally he promised not to fight in earnest.\n\nOn the day of the trial of seven he therefore fought on the side of his brother Aerion, alongside their father and three knights of the Kingsguard. Unhorsed in the very first charge by Ser Robyn Rhysling, he stayed on the ground as he had said he would, and his own horse trod on his foot. The dream found its meaning at the end of the day: Prince Baelor, struck by Maekar, died of his wound in Duncan's arms."
+          },
+          "sources": [
+            {
+              "id": "thk",
+              "locator": "Ashford Meadow: the trial of seven"
+            }
+          ]
+        },
+        {
+          "id": "daeron-fils-maekar-i-heritier",
+          "heading": {
+            "fr": "L'héritier qui ne régna pas",
+            "en": "The Heir Who Never Reigned"
+          },
+          "body": {
+            "fr": "En 221 apr. C., la mort d'Aerys Ier, qui n'a pas d'enfant, porte Maekar sur le trône, et Daeron devient prince de Peyredragon. Il trouve le château lugubre et préfère, dit-on, se faire appeler prince de Lestival. Son frère Aemon, devenu mestre, le sert à Peyredragon plutôt que de siéger au conseil. Daeron épouse Kiera de Tyrosh, veuve de son cousin Valarr, mort lors du Grand Fléau de Printemps ; leur fille Vaella naît en 222 apr. C. Elle grandit douce, mais simple d'esprit.\n\nDaeron meurt avant son père, à une date que les sources ne donnent pas. On attribue sa mort à une vérole contractée auprès d'une fille de joie. Sa disparition prépare la crise de 233 apr. C. : à la mort de Maekar, l'héritière directe est une enfant que personne ne croit capable de régner. Bien plus tard, Aemon dira que ses trois frères avaient rêvé de dragons et que ces rêves les avaient tous tués.",
+            "en": "In 221 AC the death of the childless Aerys I brought Maekar to the throne, and Daeron became Prince of Dragonstone. He found the castle gloomy and preferred, it is said, to be styled Prince of Summerhall. His brother Aemon, now a maester, served him on Dragonstone rather than sit on the council. Daeron married Kiera of Tyrosh, widow of his cousin Valarr, who had died in the Great Spring Sickness; their daughter Vaella was born in 222 AC. She grew up gentle but simple-minded.\n\nDaeron died before his father, on a date the sources do not give. His death is put down to a pox caught from a whore. It prepared the crisis of 233 AC: when Maekar died, the direct heir was a girl whom no one believed fit to rule. Much later Aemon would say that all three of his brothers had dreamed of dragons, and that those dreams had killed every one of them."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Maekar I"
+            },
+            {
+              "id": "acok",
+              "locator": "Jon I (ch. 6)"
+            },
+            {
+              "id": "affc",
+              "locator": "Samwell III (ch. 26)"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p6-cendregue-209",
+        "p6-grand-conseil-233"
+      ],
+      "warIds": [],
+      "disputed": {
+        "fr": "La date de sa mort n'est pas connue, sinon qu'elle précède celle de Maekar en 233 apr. C. La vérole n'est qu'une réputation rapportée par les chroniques. Mestre Aemon, de son côté, attribue la mort de ses trois frères à leurs rêves de dragons, sans préciser ce qu'il entend par là.",
+        "en": "The date of his death is unknown, except that it came before Maekar's in 233 AC. The pox is only a reputation passed on by the chronicles. Maester Aemon, for his part, blamed the deaths of his three brothers on their dreams of dragons, without saying what he meant by it."
+      },
+      "sources": [
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "acok",
+          "locator": "Jon I (ch. 6)"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell III (ch. 26)"
+        }
+      ]
+    },
+    {
+      "personId": "aerion-fils-maekar-i",
+      "titles": [
+        {
+          "fr": "Prince de la maison Targaryen",
+          "en": "Prince of House Targaryen"
+        },
+        {
+          "fr": "Chevalier",
+          "en": "Knight"
+        }
+      ],
+      "lead": {
+        "fr": "Deuxième fils de Maekar Ier, Aerion se faisait appeler le Flamboyant et se croyait un dragon sous forme humaine ; il mourut en 232 apr. C. pour avoir bu du feu grégeois.",
+        "en": "The second son of Maekar I, Aerion styled himself Brightflame and believed he was a dragon in human form; he died in 232 AC after drinking wildfire."
+      },
+      "sections": [
+        {
+          "id": "aerion-fils-maekar-i-jeunesse",
+          "heading": {
+            "fr": "Le second fils de Maekar",
+            "en": "Maekar's Second Son"
+          },
+          "body": {
+            "fr": "Aerion naît entre 191 et 194 apr. C. du prince Maekar et de Dyanna Dayne. Il a un frère aîné, Daeron, deux cadets, Aemon et Aegon, et deux sœurs, Daella et Rhae. Comme ses frères, il reçoit dans l'enfance un œuf de dragon, le sien d'or et d'argent. Il a la beauté qu'on prête aux Targaryen et le goût des couleurs du feu, qu'il porte jusque sur son armure et sur le caparaçon de son cheval.\n\nLes témoins en laissent un portrait sombre. Devant son père, Aerion est tout sourire et courtoisie ; ailleurs, il se montre vaniteux, capricieux et cruel. Aegon, le plus jeune, qui le tient pour un menteur, garde de lui des souvenirs précis : un chat jeté dans un puits, un couteau approché la nuit de son lit. C'est en partie pour ne pas lui ressembler qu'il accepte d'avoir le crâne rasé. Le mestre Yandel, longtemps après, le range parmi les Targaryen frappés de folie et l'accuse de s'être adonné aux arts noirs.",
+            "en": "Aerion was born between 191 and 194 AC to Prince Maekar and Dyanna Dayne. He had an elder brother, Daeron, two younger ones, Aemon and Aegon, and two sisters, Daella and Rhae. Like his brothers he was given a dragon's egg as a child, his of gold and silver. He had the beauty attributed to the Targaryens and a taste for the colours of fire, which he wore down to his armour and his horse's trappings.\n\nWitnesses left a dark portrait of him. Before his father Aerion was all smiles and courtesy; elsewhere he showed himself vain, capricious and cruel. Aegon, the youngest, who thought him a liar, kept precise memories of him: a cat thrown down a well, a knife brought close to his bed at night. It was partly so as not to resemble him that Aegon let his head be shaved. Maester Yandel, long afterwards, counted him among the Targaryens touched by madness and accused him of dabbling in the black arts."
+          },
+          "sources": [
+            {
+              "id": "thk",
+              "locator": "Ashford Meadow"
+            },
+            {
+              "id": "tmk",
+              "locator": "Whitewalls"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Maekar I"
+            }
+          ]
+        },
+        {
+          "id": "aerion-fils-maekar-i-cendregue",
+          "heading": {
+            "fr": "Le jugement de Cendregué",
+            "en": "The Trial at Ashford"
+          },
+          "body": {
+            "fr": "Au tournoi de Cendregué, en 209 apr. C., Aerion abaisse sa lance sur le cheval de ser Humfrey Hardyng au lieu de viser l'écu ; la bête meurt et le chevalier est blessé à la jambe. On parle d'accident. Le soir même, un spectacle de marionnettes où un chevalier tue un dragon le met en fureur : il fait briser le théâtre et casse lui-même les doigts de la montreuse, Tanselle. Le chevalier errant Duncan intervient et le roue de coups.\n\nAccusé d'avoir porté la main sur un prince du sang, Duncan demande un jugement par combat ; Aerion exige un jugement par sept, comptant que son adversaire ne trouvera pas six champions. Dans la lice, il blesse Duncan d'un coup de lance puis le jette à bas, mais le chevalier, plus lourd, finit par le dominer et le contraint à retirer son accusation. La journée coûte la vie au prince Baelor, héritier du trône. Maekar envoie ensuite Aerion à Lys, dans l'espoir que quelques années d'éloignement le corrigent.",
+            "en": "At the tourney at Ashford Meadow in 209 AC, Aerion lowered his lance onto the horse of Ser Humfrey Hardyng instead of aiming at the shield; the animal died and the knight's leg was hurt. People spoke of an accident. That same evening a puppet show in which a knight slays a dragon threw him into a rage: he had the stage smashed and broke the fingers of the puppeteer, Tanselle, himself. The hedge knight Duncan stepped in and beat him.\n\nAccused of laying hands on a prince of the blood, Duncan asked for trial by combat; Aerion demanded a trial of seven, counting on his opponent failing to find six champions. In the lists he wounded Duncan with his lance and then knocked him down, but the heavier knight finally overpowered him and forced him to withdraw his accusation. The day cost the life of Prince Baelor, heir to the throne. Maekar then sent Aerion to Lys, in the hope that a few years away would mend him."
+          },
+          "sources": [
+            {
+              "id": "thk",
+              "locator": "Ashford Meadow: the puppet show, the trial of seven"
+            }
+          ]
+        },
+        {
+          "id": "aerion-fils-maekar-i-mort",
+          "heading": {
+            "fr": "La coupe de feu grégeois",
+            "en": "The Cup of Wildfire"
+          },
+          "body": {
+            "fr": "Aerion reste quelques années à Lys et sert un temps dans la compagnie des Puînés, dont le registre conserve son nom. Rentré en Westeros, il combat lors de la troisième rébellion Feunoyr, en 219 apr. C. Après la capture d'Aegor Rivers, il presse avec la Main, Brynden Rivers, le roi Aerys Ier de faire exécuter le prisonnier ; le roi préfère l'envoyer au Mur. Il épouse sa cousine Daenora, qui lui donne en 232 apr. C. un fils au nom lourd de souvenirs : Maegor.\n\nLa même année, ivre, Aerion boit une coupe de feu grégeois, persuadé qu'elle le changera en dragon, et meurt en hurlant. L'année suivante, à la mort de Maekar, le Grand Conseil écarte son fils encore au berceau, notamment parce qu'on craint qu'il ne tienne de son père. La mémoire d'Aerion survit sous un autre nom : on l'appelle Aerion le Monstrueux, et la vieille Nan, à Winterfell, raconte aux enfants l'histoire du prince qui se croyait dragon.",
+            "en": "Aerion stayed in Lys for some years and served for a time with the Second Sons, whose book still records his name. Back in Westeros, he fought in the Third Blackfyre Rebellion in 219 AC. After Aegor Rivers was taken, he joined the Hand, Brynden Rivers, in urging King Aerys I to have the prisoner put to death; the king chose to send him to the Wall instead. He married his cousin Daenora, who in 232 AC bore him a son with a name heavy with memories: Maegor.\n\nThat same year Aerion, drunk, drank down a cup of wildfire, convinced it would transform him into a dragon, and died screaming. The following year, when Maekar died, the Great Council passed over his infant son, partly from fear that the boy might take after his father. Aerion's memory lived on under another name: he was called Aerion the Monstrous, and Old Nan at Winterfell told children the tale of the prince who thought he was a dragon."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys I"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Maekar I"
+            },
+            {
+              "id": "acok",
+              "locator": "Jon I (ch. 6)"
+            },
+            {
+              "id": "asos",
+              "locator": "Davos V (ch. 54)"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p6-cendregue-209",
+        "p6-troisieme-feunoyr",
+        "p6-grand-conseil-233"
+      ],
+      "warIds": [
+        "rebellion-feunoyr-3"
+      ],
+      "disputed": {
+        "fr": "Sa naissance n'est connue qu'à quelques années près. Les livres disent que ses actes pendant la rébellion de 219 apr. C. furent remarqués, sans les décrire. Le jugement de Yandel sur sa folie et ses pratiques occultes est celui d'un mestre écrivant soixante-dix ans plus tard.",
+        "en": "His birth is known only to within a few years. The books say that his deeds in the rebellion of 219 AC were noted, without describing them. Yandel's verdict on his madness and his occult practices is that of a maester writing seventy years later."
+      },
+      "sources": [
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "acok",
+          "locator": "Jon I (ch. 6)"
+        },
+        {
+          "id": "asos",
+          "locator": "Davos V (ch. 54)"
+        }
+      ]
+    },
+    {
+      "personId": "aemon-fils-maekar-i",
+      "titles": [
+        {
+          "fr": "Mestre de la Garde de Nuit à Châteaunoir",
+          "en": "Maester of the Night's Watch at Castle Black"
+        },
+        {
+          "fr": "Prince de la maison Targaryen",
+          "en": "Prince of House Targaryen"
+        }
+      ],
+      "lead": {
+        "fr": "Troisième fils de Maekar Ier, Aemon préféra la chaîne de mestre à la couronne et servit plus de soixante ans la Garde de Nuit ; il mourut en 300 apr. C., à cent deux ans, sur la route de Villevieille.",
+        "en": "The third son of Maekar I, Aemon chose a maester's chain over the crown and served the Night's Watch for more than sixty years; he died in 300 AC, aged one hundred and two, on the way to Oldtown."
+      },
+      "sections": [
+        {
+          "id": "aemon-fils-maekar-i-citadelle",
+          "heading": {
+            "fr": "Un prince à la Citadelle",
+            "en": "A Prince at the Citadel"
+          },
+          "body": {
+            "fr": "Aemon naît en 198 apr. C., troisième fils du prince Maekar et de Dyanna Dayne. Son grand-père Daeron II lui donne le nom d'Aemon le Chevalier-Dragon. Enfant studieux, il partage avec son cadet Aegon, qu'il surnomme « l'Œuf », l'espoir de voir éclore les œufs de dragon reçus au berceau ; les deux frères rejouent aussi la bataille d'Herberouge avec des soldats peints sur la table de leur mestre.\n\nDaeron II, qui compte déjà beaucoup de descendants mâles, juge dangereux d'avoir trop de prétendants possibles. Vers neuf ou dix ans, Aemon est envoyé à la Citadelle de Villevieille, malgré l'opposition de son père. Il y forge sa chaîne et achève ses études à dix-neuf ans. Quand Maekar monte sur le trône, en 221 apr. C., il refuse de siéger au conseil restreint, où il aurait évincé le Grand Mestre, et sert plutôt son frère aîné Daeron à Peyredragon jusqu'à la mort de celui-ci.",
+            "en": "Aemon was born in 198 AC, the third son of Prince Maekar and Dyanna Dayne. His grandfather Daeron II named him after Aemon the Dragonknight. A studious child, he shared with his younger brother Aegon, whom he nicknamed “Egg”, the hope of seeing the dragon's eggs they had been given in the cradle hatch; the two brothers also refought the battle of the Redgrass Field with painted soldiers on their maester's table.\n\nDaeron II, who already had many male descendants, thought it dangerous to have too many possible claimants. At nine or ten Aemon was sent to the Citadel at Oldtown, over his father's objections. There he forged his chain and finished his studies at nineteen. When Maekar came to the throne in 221 AC, he declined a seat on the small council, where he would have displaced the Grand Maester, and served his eldest brother Daeron on Dragonstone instead, until Daeron died."
+          },
+          "sources": [
+            {
+              "id": "affc",
+              "locator": "Samwell I (ch. 5)"
+            },
+            {
+              "id": "acok",
+              "locator": "Jon I (ch. 6)"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Maekar I"
+            }
+          ]
+        },
+        {
+          "id": "aemon-fils-maekar-i-couronne",
+          "heading": {
+            "fr": "La couronne refusée",
+            "en": "The Crown Refused"
+          },
+          "body": {
+            "fr": "En 233 apr. C., Maekar meurt en assiégeant un seigneur rebelle. Ses deux premiers fils l'ont précédé dans la tombe, et leurs héritiers sont une fillette simple d'esprit et un nourrisson. Le Grand Conseil réuni pour désigner le roi se tourne vers Aemon : plusieurs seigneurs se méfient d'Aegon, qu'ils jugent trop proche du petit peuple, et l'on propose de délier le mestre de ses vœux. Aemon refuse sans éclat et désigne son jeune frère, qui devient Aegon V.\n\nIl ne s'en tient pas là. Craignant que des mécontents ne se servent un jour de son nom contre le roi, il choisit de prendre le noir. Il part pour le Mur avec Brynden Rivers, condamné pour le meurtre d'Aenys Feunoyr, et avec une escorte d'honneur formée de prisonniers tirés des cachots pour prononcer avec lui les vœux de la Garde. Ser Duncan le Grand, l'ami d'Aegon, accompagne le convoi par mer jusqu'au Mur.",
+            "en": "In 233 AC Maekar died besieging a rebel lord. His first two sons had gone to the grave before him, and their heirs were a simple-minded girl and an infant. The Great Council called to choose the king turned to Aemon: several lords distrusted Aegon, whom they thought too close to the common people, and it was proposed that the maester be released from his vows. Aemon quietly refused and named his younger brother, who became Aegon V.\n\nHe did not stop there. Fearing that malcontents might one day use his name against the king, he chose to take the black. He left for the Wall with Brynden Rivers, condemned for the murder of Aenys Blackfyre, and with an honour guard of prisoners taken from the dungeons to swear the vows of the Watch with him. Ser Duncan the Tall, Aegon's friend, went with the company by sea as far as the Wall."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Maekar I"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon V"
+            },
+            {
+              "id": "acok",
+              "locator": "Jon I (ch. 6)"
+            }
+          ]
+        },
+        {
+          "id": "aemon-fils-maekar-i-mur",
+          "heading": {
+            "fr": "Soixante ans au Mur",
+            "en": "Sixty Years on the Wall"
+          },
+          "body": {
+            "fr": "À Châteaunoir, Aemon devient le mestre de la Garde de Nuit et le reste plus de soixante ans, sous une longue suite de lords Commandants. Il correspond avec le prince Rhaegar, son arrière-petit-neveu. Il voit d'abord en lui le prince promis de la prophétie, à cause des circonstances de sa naissance ; Rhaegar partage cette idée, puis le persuade qu'elle s'applique plutôt à son fils Aegon. La chute de sa maison, en 283 apr. C., est pour Aemon la plus dure épreuve de ses vœux : il apprend la mort des siens sans quitter le Mur.\n\nDevenu aveugle, il voit arriver Jon Snow parmi les recrues. Quand Jon songe à déserter pour rejoindre son demi-frère parti en guerre, Aemon lui révèle son nom et lui dit ce que coûte le choix entre l'amour et le devoir. Pendant l'attaque des sauvageons contre Châteaunoir, il conseille les défenseurs, puis prend la défense de Jon contre ceux qui veulent le faire pendre ; à l'élection du nouveau lord Commandant, le choix se porte sur Jon.",
+            "en": "At Castle Black Aemon became maester of the Night's Watch and remained so for more than sixty years, under a long line of Lord Commanders. He corresponded with Prince Rhaegar, his great-great-nephew. At first he saw in him the prince that was promised of the prophecy, because of the circumstances of his birth; Rhaegar shared the idea, then persuaded him that it applied rather to his son Aegon. The fall of his house in 283 AC was for Aemon the hardest test of his vows: he learned of the deaths of his kin without leaving the Wall.\n\nBlind by then, he welcomed Jon Snow among the recruits. When Jon thought of deserting to join his half-brother at war, Aemon told him his own name and what the choice between love and duty had cost him. During the wildling attack on Castle Black he advised the defenders, then defended Jon against those who wanted him hanged; at the election of a new Lord Commander, the choice fell on Jon."
+          },
+          "sources": [
+            {
+              "id": "agot",
+              "locator": "Jon VIII (ch. 60)"
+            },
+            {
+              "id": "affc",
+              "locator": "Samwell IV (ch. 35)"
+            },
+            {
+              "id": "asos",
+              "locator": "Jon VII (ch. 55)"
+            },
+            {
+              "id": "asos",
+              "locator": "Jon IX (ch. 69)"
+            },
+            {
+              "id": "asos",
+              "locator": "Jon XII (ch. 79)"
+            }
+          ]
+        },
+        {
+          "id": "aemon-fils-maekar-i-mort",
+          "heading": {
+            "fr": "La dernière traversée",
+            "en": "The Last Voyage"
+          },
+          "body": {
+            "fr": "En 300 apr. C., Jon Snow, devenu lord Commandant, craint que la prêtresse rouge Mélisandre ne convoite le sang royal du vieillard. Il l'envoie à Villevieille avec Samwell Tarly, Vère et un nourrisson. La traversée l'épuise. À Braavos, fiévreux, il se croit revenu au temps de sa jeunesse et parle à l'Œuf, puis se souvient que ses trois frères avaient rêvé de dragons.\n\nLa nouvelle que Daenerys a fait naître trois dragons le ranime un temps. Il en conclut qu'elle est la promise de la prophétie : le mot valyrien qu'on traduit par « prince » n'a pas de genre, et l'on aurait mal lu le texte en le réservant à un homme. Il presse Samwell de convaincre la Citadelle qu'il faut envoyer un mestre auprès de la reine. Il meurt dans son sommeil à bord d'un navire des îles d'Été, au large de Dorne, à cent deux ans. Le capitaine refusant un bûcher à son bord, on garde son corps dans un tonneau de rhum jusqu'à Villevieille.",
+            "en": "In 300 AC Jon Snow, now Lord Commander, feared that the red priestess Melisandre coveted the old man's royal blood. He sent him to Oldtown with Samwell Tarly, Gilly and an infant. The voyage wore him out. In Braavos, feverish, he believed himself young again and spoke to Egg, then recalled that all three of his brothers had dreamed of dragons.\n\nNews that Daenerys had brought three dragons into the world revived him for a time. He concluded that she was the one the prophecy promised: the Valyrian word rendered as “prince” has no gender, and the text had been misread by keeping it for a man. He urged Samwell to convince the Citadel to send a maester to the queen. He died in his sleep aboard a Summer Islands ship off the coast of Dorne, aged one hundred and two. Since the captain would allow no pyre on board, his body was kept in a cask of rum until they reached Oldtown."
+          },
+          "sources": [
+            {
+              "id": "affc",
+              "locator": "Samwell I (ch. 5)"
+            },
+            {
+              "id": "affc",
+              "locator": "Samwell II (ch. 15)"
+            },
+            {
+              "id": "affc",
+              "locator": "Samwell III (ch. 26)"
+            },
+            {
+              "id": "affc",
+              "locator": "Samwell IV (ch. 35)"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p6-grand-conseil-233",
+        "p8-mort-aemon"
+      ],
+      "warIds": [],
+      "disputed": {
+        "fr": "Aemon situe lui-même son départ pour la Citadelle vers neuf ou dix ans, sans plus de précision. Sa lecture de la prophétie du prince promis, appliquée tour à tour à Rhaegar, au fils de celui-ci puis à Daenerys, reste la sienne : les livres parus ne disent pas si elle est juste.",
+        "en": "Aemon himself placed his departure for the Citadel at nine or ten, without being more precise. His reading of the prophecy of the prince that was promised, applied in turn to Rhaegar, to Rhaegar's son and then to Daenerys, remains his own: the published books do not say whether it is right."
+      },
+      "adaptation": {
+        "fr": "Dans la série Game of Thrones, Aemon ne quitte jamais Châteaunoir : il y meurt de vieillesse, entouré de ses frères de la Garde, au lieu de mourir en mer sur la route de Villevieille.",
+        "en": "In the Game of Thrones series Aemon never leaves Castle Black: he dies of old age there among his brothers of the Watch, instead of dying at sea on the way to Oldtown."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "agot",
+          "locator": "Jon VIII (ch. 60)"
+        },
+        {
+          "id": "acok",
+          "locator": "Jon I (ch. 6)"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell I (ch. 5)"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell III (ch. 26)"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell IV (ch. 35)"
+        },
+        {
+          "id": "got",
+          "locator": "Season 5"
+        }
+      ]
+    },
+    {
+      "personId": "aegon-v",
+      "titles": [
+        {
+          "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+          "en": "King of the Andals, the Rhoynar, and the First Men"
+        },
+        {
+          "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+          "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+        },
+        {
+          "fr": "Écuyer de ser Duncan le Grand",
+          "en": "Squire to Ser Duncan the Tall"
+        }
+      ],
+      "lead": {
+        "fr": "Quatrième fils d'un quatrième fils, Aegon V dut à un Grand Conseil un trône que rien ne lui destinait ; il régna de 233 à 259 apr. C. et mourut dans l'incendie de Lestival.",
+        "en": "The fourth son of a fourth son, Aegon V owed to a Great Council a throne he had never been meant to hold; he reigned from 233 to 259 AC and died in the fire at Summerhall."
+      },
+      "sections": [
+        {
+          "id": "aegon-v-oeuf",
+          "heading": {
+            "fr": "L'Œuf",
+            "en": "Egg"
+          },
+          "body": {
+            "fr": "Aegon naît en 200 apr. C., cinquième enfant et quatrième fils du prince Maekar et de Dyanna Dayne. On place dans son berceau un œuf de dragon veiné de vert et de blanc, qu'il gardera à Lestival. Page à Port-Réal pendant deux ans, il rêve d'entrer un jour dans la Garde Royale. En 209 apr. C., il doit servir d'écuyer à son frère Daeron au tournoi de Cendregué, mais Daeron s'enivre dans une auberge et lui rase la tête pour qu'on ne le reconnaisse pas.\n\nSous le surnom de « l'Œuf », l'enfant s'attache à un chevalier errant, Duncan, que l'on appellera Duncan le Grand. Quand Duncan est jugé pour avoir frappé Aerion, Aegon convainc ser Lyonel Baratheon de combattre à ses côtés. Après le jugement par sept, où meurt son oncle Baelor, Maekar veut faire de son fils un chevalier ; Aegon n'y consent que s'il est formé par Duncan. Celui-ci refuse une place à Lestival et propose d'emmener l'enfant sur les routes.",
+            "en": "Aegon was born in 200 AC, the fifth child and fourth son of Prince Maekar and Dyanna Dayne. A dragon's egg streaked with green and white was laid in his cradle, and he would keep it at Summerhall. A page in King's Landing for two years, he dreamed of one day joining the Kingsguard. In 209 AC he was to squire for his brother Daeron at the tourney at Ashford Meadow, but Daeron drank himself senseless at an inn and shaved the boy's head to hide who he was.\n\nUnder the name of “Egg”, the boy attached himself to a hedge knight, Duncan, later known as Duncan the Tall. When Duncan was tried for striking Aerion, Aegon persuaded Ser Lyonel Baratheon to fight at his side. After the trial of seven, in which his uncle Baelor died, Maekar wanted his son made a knight; Aegon agreed only if Duncan trained him. Duncan declined a place at Summerhall and offered instead to take the boy with him on the roads."
+          },
+          "sources": [
+            {
+              "id": "thk",
+              "locator": "Ashford Meadow"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon V"
+            }
+          ]
+        },
+        {
+          "id": "aegon-v-routes",
+          "heading": {
+            "fr": "Sur les routes",
+            "en": "On the Roads"
+          },
+          "body": {
+            "fr": "Pendant plusieurs années, Aegon voyage avec Duncan sans révéler qui il est, la bague de son père cachée dans sa botte. Ils traversent Dorne et gagnent Villevieille par mer, où le mestre Aemon offre une mule à son jeune frère. Moins de deux ans après Cendregué, pendant une grande sécheresse, ils servent un vieux chevalier du Bief, ser Eustace Osgrey, dans sa querelle avec lady Rohanne Webber au sujet d'un ruisseau. C'est Aegon, qui sait lire, qui déchiffre pour Duncan la charte royale au cœur du litige.\n\nEn 212 apr. C., au tournoi de noces de Murs-Blancs, le maître et l'écuyer tombent au milieu d'un complot en faveur de Daemon II Feunoyr. Démasqué, Aegon montre sa bague et fait croire aux conjurés que son père marche sur le château avec une armée. Le lendemain, Brynden Rivers paraît en effet avec des troupes royales et le complot se dissout sans combat ; Aegon obtient de lui l'or qui permet à Duncan de racheter son cheval et ses armes.",
+            "en": "For several years Aegon travelled with Duncan without revealing who he was, his father's ring hidden in his boot. They crossed Dorne and reached Oldtown by sea, where Maester Aemon gave his young brother a mule. Less than two years after Ashford, during a great drought, they served an old knight of the Reach, Ser Eustace Osgrey, in his quarrel with Lady Rohanne Webber over a stream. It was Aegon, who could read, who made out for Duncan the royal charter at the heart of the dispute.\n\nIn 212 AC, at the wedding tourney at Whitewalls, knight and squire stumbled into a plot on behalf of Daemon II Blackfyre. Found out, Aegon showed his ring and led the conspirators to believe that his father was marching on the castle with an army. The next day Brynden Rivers did appear with royal troops and the plot dissolved without a fight; Aegon obtained from him the gold that let Duncan buy back his horse and arms."
+          },
+          "sources": [
+            {
+              "id": "tss",
+              "locator": "Standfast; Coldmoat"
+            },
+            {
+              "id": "tmk",
+              "locator": "Whitewalls"
+            }
+          ]
+        },
+        {
+          "id": "aegon-v-conseil",
+          "heading": {
+            "fr": "Le roi improbable",
+            "en": "The Unlikely King"
+          },
+          "body": {
+            "fr": "Aegon combat en 219 apr. C. lors de la troisième rébellion Feunoyr et s'y montre courageux. En 220 apr. C., il épouse par amour Betha Blackwood ; le mariage ne soulève alors aucune objection, tant il est loin du trône. Ils auront cinq enfants : Duncan, Jaehaerys, Shaera, Daeron et Rhaelle.\n\nEn 233 apr. C., la mort de Maekar ouvre une succession que personne n'avait prévue. Daeron et Aerion sont morts, laissant une fille simple d'esprit et un nourrisson. Beaucoup de seigneurs tiennent Aegon pour « à moitié paysan » ; le Grand Conseil se tourne d'abord vers Aemon, qui refuse et le désigne. Aegon est couronné à trente-trois ans. Son premier acte est d'arrêter la Main, Brynden Rivers, qui a fait exécuter Aenys Feunoyr, venu sous sauf-conduit plaider sa cause : la parole du trône doit valoir quelque chose. Il lui laisse toutefois la vie et l'envoie au Mur, où Aemon choisit de le suivre.",
+            "en": "Aegon fought in the Third Blackfyre Rebellion in 219 AC and showed courage there. In 220 AC he married Betha Blackwood for love; the match raised no objection at the time, so far was he from the throne. They would have five children: Duncan, Jaehaerys, Shaera, Daeron and Rhaelle.\n\nIn 233 AC Maekar's death opened a succession no one had foreseen. Daeron and Aerion were dead, leaving a simple-minded daughter and an infant son. Many lords thought Aegon “half a peasant”; the Great Council turned first to Aemon, who refused and named him. Aegon was crowned at thirty-three. His first act was to arrest the Hand, Brynden Rivers, who had had Aenys Blackfyre executed after granting him safe conduct to plead his cause: the word of the throne had to be worth something. He spared his life, however, and sent him to the Wall, where Aemon chose to follow."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys I"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Maekar I"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon V"
+            }
+          ]
+        },
+        {
+          "id": "aegon-v-regne",
+          "heading": {
+            "fr": "Un règne contre les seigneurs",
+            "en": "A Reign Against the Lords"
+          },
+          "body": {
+            "fr": "Aegon arrive au pouvoir pendant un hiver de six ans et fait envoyer du grain dans le Nord affamé, au point qu'on lui reproche sa générosité. En 236 apr. C., Daemon III Feunoyr débarque avec la Compagnie Dorée ; le roi marche contre lui avec ses trois fils, et ser Duncan le Grand, entré dans sa Garde Royale, tue le prétendant au pont de la Wend.\n\nL'essentiel du règne se joue ailleurs. Instruit par ses années sur les routes, Aegon accorde au petit peuple des droits et des protections que les grands seigneurs prennent pour une atteinte à leur pouvoir. Sans dragons pour imposer sa volonté, il doit souvent transiger. Ses enfants lui donnent d'autres soucis. Il voulait les marier aux grandes maisons ; Duncan épouse une roturière, Jaehaerys et Shaera se marient en secret, Daeron rompt ses fiançailles. Le roi, qui avait lui-même épousé la femme qu'il aimait, finit chaque fois par céder.",
+            "en": "Aegon came to power during a winter that lasted six years and had grain sent to the starving North, so much that he was reproached for his generosity. In 236 AC Daemon III Blackfyre landed with the Golden Company; the king marched against him with his three sons, and Ser Duncan the Tall, now of his Kingsguard, slew the pretender at the Wendwater bridge.\n\nThe heart of the reign lay elsewhere. Taught by his years on the roads, Aegon granted the common people rights and protections that the great lords took as an encroachment on their power. With no dragons to enforce his will, he often had to compromise. His children gave him other worries. He had meant to marry them into the great houses; Duncan wed a commoner, Jaehaerys and Shaera married in secret, Daeron broke his betrothal. The king, who had himself married the woman he loved, gave way each time."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon V"
+            }
+          ]
+        },
+        {
+          "id": "aegon-v-lestival",
+          "heading": {
+            "fr": "Lestival",
+            "en": "Summerhall"
+          },
+          "body": {
+            "fr": "En 259 apr. C., Aegon réunit les siens à Lestival, le château d'été de sa maison, pour attendre la naissance du premier enfant d'Aerys et de Rhaella. Un incendie détruit la demeure. Le roi y meurt, avec son fils Duncan et ser Duncan le Grand, devenu lord Commandant de la Garde Royale. Rhaegar naît le même jour, au milieu du désastre.\n\nCe qui s'est passé n'a jamais été établi. Les chroniques laissent entendre qu'Aegon voulait faire éclore des œufs de dragon, convaincu qu'il lui fallait des dragons pour faire plier les seigneurs ; les rares indices parvenus jusqu'aux mestres évoquent sept œufs, des pyromants et du feu grégeois. Les livres n'en disent pas davantage. Lestival n'est plus qu'une ruine, que Rhaegar aimera visiter seul. Au Mur, des décennies plus tard, Aemon dira que les rêves de dragons avaient tué ses trois frères, et l'Œuf avec eux.",
+            "en": "In 259 AC Aegon gathered his family at Summerhall, the summer seat of his house, to await the birth of the first child of Aerys and Rhaella. A fire destroyed the castle. The king died there, with his son Duncan and Ser Duncan the Tall, by then Lord Commander of the Kingsguard. Rhaegar was born the same day, in the midst of the disaster.\n\nWhat happened has never been established. The chronicles hint that Aegon wanted to hatch dragon's eggs, convinced that he needed dragons to bend the lords; the scant evidence that reached the maesters speaks of seven eggs, pyromancers and wildfire. The books say no more. Summerhall became a ruin that Rhaegar would like to visit alone. On the Wall, decades later, Aemon would say that dreams of dragons had killed his three brothers, Egg among them."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon V"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys II"
+            },
+            {
+              "id": "affc",
+              "locator": "Samwell III (ch. 26)"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p6-cendregue-209",
+        "p6-murs-blancs",
+        "p6-troisieme-feunoyr",
+        "p6-grand-conseil-233",
+        "p6-quatrieme-feunoyr",
+        "p6-duncan-jenny",
+        "p6-lestival"
+      ],
+      "warIds": [
+        "rebellion-feunoyr-2",
+        "rebellion-feunoyr-3",
+        "rebellion-feunoyr-4"
+      ],
+      "disputed": {
+        "fr": "La tragédie de Lestival reste inexpliquée : on ignore si Aegon tenta réellement de faire éclore des dragons, comment le feu prit et qui, parmi les présents, survécut. Les sources ne disent pas non plus si son premier fils fut nommé en l'honneur de ser Duncan le Grand, comme on le suppose.",
+        "en": "The tragedy of Summerhall remains unexplained: it is not known whether Aegon really tried to hatch dragons, how the fire started or who among those present survived. Nor do the sources say whether his first son was named in honour of Ser Duncan the Tall, as is supposed."
+      },
+      "sources": [
+        {
+          "id": "thk",
+          "locator": "Ashford Meadow"
+        },
+        {
+          "id": "tss",
+          "locator": "Standfast; Coldmoat"
+        },
+        {
+          "id": "tmk",
+          "locator": "Whitewalls"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell III (ch. 26)"
+        }
+      ]
+    },
+    {
+      "personId": "duncan",
+      "titles": [
+        {
+          "fr": "Prince de Peyredragon",
+          "en": "Prince of Dragonstone"
+        }
+      ],
+      "lead": {
+        "fr": "Fils aîné d'Aegon V, Duncan renonça à la couronne pour épouser Jenny de Vieilles-Pierres et mourut avec son père dans l'incendie de Lestival, en 259 apr. C.",
+        "en": "The eldest son of Aegon V, Duncan gave up the crown to marry Jenny of Oldstones and died with his father in the fire at Summerhall in 259 AC."
+      },
+      "sections": [
+        {
+          "id": "duncan-heritier",
+          "heading": {
+            "fr": "L'héritier d'Aegon V",
+            "en": "Heir to Aegon V"
+          },
+          "body": {
+            "fr": "Duncan est le premier enfant d'Aegon et de Betha Blackwood ; il naît au début des années 220 apr. C., quand rien ne destine encore son père au trône. On l'appelle Duncan le Petit, et l'on suppose qu'il doit son nom au meilleur ami de son père, ser Duncan le Grand, sans que l'auteur l'ait jamais confirmé. Le Grand Conseil de 233 apr. C. fait de son père un roi, et de lui le prince de Peyredragon.\n\nEn 236 apr. C., il chevauche avec le roi et ses frères contre Daemon III Feunoyr et se trouve au pont de la Wend quand l'armée des exilés est détruite. L'année suivante, sa mère arrange pour ses enfants une série d'alliances avec de grandes maisons : Duncan est promis à une fille de lord Lyonel Baratheon, d'Accalmie. Le roi entend ainsi rompre avec les mariages entre frère et sœur et gagner l'appui des seigneurs à son règne.",
+            "en": "Duncan was the first child of Aegon and Betha Blackwood, born in the early 220s AC, when nothing yet marked his father for the throne. He was called Duncan the Small, and he is supposed to have been named for his father's closest friend, Ser Duncan the Tall, though the author has never confirmed it. The Great Council of 233 AC made his father king, and him Prince of Dragonstone.\n\nIn 236 AC he rode with the king and his brothers against Daemon III Blackfyre and was at the Wendwater bridge when the exiles' army was destroyed. The following year his mother arranged a series of alliances with great houses for her children: Duncan was promised to a daughter of Lord Lyonel Baratheon of Storm's End. In this way the king meant to break with marriages between brother and sister and win the lords' support for his reign."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon V"
+            }
+          ]
+        },
+        {
+          "id": "duncan-jenny",
+          "heading": {
+            "fr": "Le prince des Libellules",
+            "en": "The Prince of Dragonflies"
+          },
+          "body": {
+            "fr": "En 239 apr. C., voyageant dans le Conflans, Duncan rencontre une jeune femme sans naissance, étrange et belle, que l'on connaît sous le nom de Jenny de Vieilles-Pierres. Il l'épouse. Aegon V, qui avait pourtant épousé la femme qu'il aimait, ne peut admettre que l'héritier du trône prenne une roturière et cherche à faire défaire l'union. Le Grand Septon, le Grand Mestre et le conseil se joignent à lui pour sommer le prince de choisir. Duncan garde Jenny et renonce à ses droits au profit de son frère Jaehaerys. On l'appelle désormais le prince des Libellules.\n\nLa renonciation ne suffit pas à réparer l'offense. Lord Lyonel, dont la fille avait pris l'affront à cœur, rejette sa fidélité et se proclame roi de l'Orage. La révolte, brève et sanglante, ne prend fin qu'après un combat singulier où ser Duncan le Grand l'emporte sur lui ; la princesse Rhaelle, sœur de Duncan, est promise à l'héritier d'Accalmie pour sceller la paix.",
+            "en": "In 239 AC, travelling in the riverlands, Duncan met a young woman of no birth, strange and lovely, known as Jenny of Oldstones. He married her. Aegon V, though he had married the woman he loved, could not accept that the heir to the throne should take a commoner, and sought to have the union undone. The High Septon, the Grand Maester and the council joined him in demanding that the prince choose. Duncan kept Jenny and gave up his rights in favour of his brother Jaehaerys. From then on he was called the Prince of Dragonflies.\n\nThe renunciation did not repair the offence. Lord Lyonel, whose daughter had taken the slight to heart, cast off his fealty and proclaimed himself Storm King. The revolt, short and bloody, ended only after a single combat in which Ser Duncan the Tall overcame him; Princess Rhaelle, Duncan's sister, was promised to the heir of Storm's End to seal the peace."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon V"
+            },
+            {
+              "id": "adwd",
+              "locator": "The Discarded Knight (ch. 59)"
+            }
+          ]
+        },
+        {
+          "id": "duncan-lestival",
+          "heading": {
+            "fr": "Lestival et la chanson",
+            "en": "Summerhall and the Song"
+          },
+          "body": {
+            "fr": "Duncan reste à la cour, où l'on finit par recevoir Jenny et par l'appeler poliment « lady Jenny ». Il garde le goût des joutes. En 247 apr. C., à un tournoi tenu chez les Dondarrion, il accepte d'affronter un écuyer de dix ans entré en lice en chevalier mystère, et le salue d'un mot qui lui restera : l'enfant est Barristan Selmy, dit depuis le Hardi. Quand neuf aventuriers d'Essos se jurent de se tailler chacun un royaume, c'est à Duncan qu'on prête la boutade sur ces couronnes qui se vendent neuf pour un sou, d'où le nom de la guerre suivante.\n\nIl meurt à Lestival en 259 apr. C., avec son père et ser Duncan le Grand. Les sources ne disent pas si Jenny périt avec lui. Leur amour devient un sujet favori des chanteurs. À la fin du siècle, on chante encore la chanson de Jenny, et Catelyn Tully se souvient d'avoir joué enfant, avec Petyr Baelish, à être Jenny et son prince dans les ruines de Vieilles-Pierres.",
+            "en": "Duncan remained at court, where Jenny was in time received and politely called “Lady Jenny”. He kept his taste for jousting. In 247 AC, at a tourney held by the Dondarrions, he agreed to face a ten-year-old squire who had entered the lists as a mystery knight, and greeted him with a word that stuck: the boy was Barristan Selmy, called the Bold ever after. When nine adventurers in Essos swore to carve out a kingdom each, it was Duncan who was credited with the jest about crowns going nine for a penny, which gave the next war its name.\n\nHe died at Summerhall in 259 AC, with his father and Ser Duncan the Tall. The sources do not say whether Jenny perished with him. Their love became a favourite subject of singers. At the end of the century Jenny's song was still sung, and Catelyn Tully remembered playing at Jenny and her prince with Petyr Baelish as a child, among the ruins of Oldstones."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon V"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys II"
+            },
+            {
+              "id": "asos",
+              "locator": "Jaime VIII (ch. 67)"
+            },
+            {
+              "id": "asos",
+              "locator": "Catelyn V (ch. 45)"
+            },
+            {
+              "id": "adwd",
+              "locator": "The Discarded Knight (ch. 59)"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p6-grand-conseil-233",
+        "p6-quatrieme-feunoyr",
+        "p6-duncan-jenny",
+        "p6-lestival"
+      ],
+      "warIds": [
+        "rebellion-feunoyr-4"
+      ],
+      "disputed": {
+        "fr": "L'ordre des faits est flottant : The World of Ice & Fire place d'abord la renonciation de Duncan avant la révolte de lord Lyonel, puis écrit que la paix ne revint qu'une fois qu'il eut renoncé. Le sort de Jenny à Lestival n'est pas connu, et l'origine du prénom de Duncan n'a jamais été confirmée.",
+        "en": "The order of events is uncertain: The World of Ice & Fire first places Duncan's renunciation before Lord Lyonel's revolt, then writes that peace returned only once he had renounced. Jenny's fate at Summerhall is unknown, and the origin of Duncan's name has never been confirmed."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        },
+        {
+          "id": "asos",
+          "locator": "Catelyn V (ch. 45)"
+        },
+        {
+          "id": "asos",
+          "locator": "Jaime VIII (ch. 67)"
+        },
+        {
+          "id": "adwd",
+          "locator": "The Discarded Knight (ch. 59)"
+        }
+      ]
+    },
+    {
+      "personId": "jaehaerys-ii",
+      "titles": [
+        {
+          "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+          "en": "King of the Andals, the Rhoynar, and the First Men"
+        },
+        {
+          "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+          "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+        },
+        {
+          "fr": "Prince de Peyredragon",
+          "en": "Prince of Dragonstone"
+        }
+      ],
+      "lead": {
+        "fr": "Deuxième fils d'Aegon V, Jaehaerys II hérita d'un trône que son frère aîné avait abandonné et régna trois ans, de 259 à 262 apr. C., le temps de mettre fin à la menace Feunoyr.",
+        "en": "The second son of Aegon V, Jaehaerys II inherited a throne his elder brother had given up and reigned for three years, from 259 to 262 AC, long enough to end the Blackfyre threat."
+      },
+      "sections": [
+        {
+          "id": "jaehaerys-ii-mariage",
+          "heading": {
+            "fr": "Un mariage secret",
+            "en": "A Secret Marriage"
+          },
+          "body": {
+            "fr": "Jaehaerys naît en 225 apr. C., deuxième fils d'Aegon et de Betha Blackwood. Son père, convaincu que les unions entre frère et sœur faisaient plus de mal que de bien, le promet en 237 apr. C. à Celia Tully, fille du seigneur de Vivesaigues, tandis que sa sœur Shaera est promise à Luthor Tyrell, héritier de Hautjardin. Mais le garçon aime Shaera depuis l'enfance, et elle le lui rend ; les efforts de leurs parents pour les séparer ne font qu'attiser leur attachement.\n\nEn 239 apr. C., la renonciation de Duncan fait de Jaehaerys l'héritier du trône. Il a vu son frère tenir tête au roi et finir par obtenir gain de cause. L'année suivante, Shaera et lui échappent à leurs gardiens et se marient en secret. L'union est consommée avant que la cour ne l'apprenne ; Aegon doit s'incliner et apaiser comme il peut la colère des Tully et des Tyrell, blessés dans leur orgueil.",
+            "en": "Jaehaerys was born in 225 AC, the second son of Aegon and Betha Blackwood. His father, convinced that unions between brother and sister did more harm than good, promised him in 237 AC to Celia Tully, daughter of the lord of Riverrun, while his sister Shaera was promised to Luthor Tyrell, heir to Highgarden. But the boy had loved Shaera since childhood, and she returned his love; their parents' efforts to keep them apart only fed their attachment.\n\nIn 239 AC Duncan's renunciation made Jaehaerys heir to the throne. He had watched his brother defy the king and end by getting his way. The next year he and Shaera escaped their guardians and married in secret. The union was consummated before the court learned of it; Aegon had to give way and soothe as best he could the anger of the Tullys and the Tyrells, both wounded in their pride."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon V"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys II"
+            }
+          ]
+        },
+        {
+          "id": "jaehaerys-ii-prophetie",
+          "heading": {
+            "fr": "Le mariage imposé",
+            "en": "The Marriage He Imposed"
+          },
+          "body": {
+            "fr": "De ce mariage naissent Aerys, en 244 apr. C., puis Rhaella dans les deux années suivantes. Jaehaerys, qui avait épousé par amour, impose pourtant à ses enfants de s'épouser, alors qu'aucun des deux ne le souhaite. La raison est une prophétie : une sorcière des bois, venue à la cour avec Jenny de Vieilles-Pierres, a annoncé que le prince promis naîtrait de leur lignée. Aegon V désapprouve, mais laisse faire son fils.\n\nLe premier enfant de ce couple, Rhaegar, naît en 259 apr. C., le jour de l'incendie de Lestival qui coûte la vie au roi et au prince Duncan. On ne sait pas si Jaehaerys se trouvait sur place ; il survit et monte sur le trône à trente-quatre ans. Sa santé est fragile, et beaucoup le tiennent pour faible. Il est aussi, de l'aveu général, le moins guerrier des fils d'Aegon V, et l'on se demande comment il fera face aux exilés qui s'agitent de l'autre côté de la mer Étroite.",
+            "en": "From this marriage came Aerys, in 244 AC, and then Rhaella within the next two years. Jaehaerys, who had married for love, nonetheless ordered his children to marry each other, though neither wished it. The reason was a prophecy: a woods witch who had come to court with Jenny of Oldstones had foretold that the prince that was promised would be born of their line. Aegon V disapproved, but let his son have his way.\n\nThe couple's first child, Rhaegar, was born in 259 AC, on the day of the fire at Summerhall that killed the king and Prince Duncan. It is not known whether Jaehaerys was there; he survived and came to the throne at thirty-four. His health was frail, and many thought him weak. He was also, by common consent, the least warlike of Aegon V's sons, and people wondered how he would face the exiles stirring across the narrow sea."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys II"
+            },
+            {
+              "id": "adwd",
+              "locator": "Daenerys IV (ch. 23)"
+            }
+          ]
+        },
+        {
+          "id": "jaehaerys-ii-regne",
+          "heading": {
+            "fr": "Trois ans de règne",
+            "en": "Three Years on the Throne"
+          },
+          "body": {
+            "fr": "La grande affaire du règne est la guerre des Rois à Neuf Sous. Maelys Feunoyr et ses alliés de la Bande des Neuf tiennent les Degrés de Pierre, d'où ils peuvent menacer le royaume. Jaehaerys rassemble les armées du trône. Il voudrait les conduire lui-même, mais sa Main, lord Ormund Baratheon, le convainc de rester à Port-Réal avec la reine Shaera. En 260 apr. C., l'armée débarque dans l'archipel ; on s'y bat presque toute l'année, et le jeune ser Barristan Selmy finit par tuer Maelys en combat singulier.\n\nLe roi fait entrer Barristan dans la Garde Royale. Il rétablit l'ordre, réconcilie plusieurs grandes maisons mécontentes du règne précédent et laisse auprès de la Banque de Fer des dettes que la Main de son fils remboursera. En 262 apr. C., il meurt après une courte maladie, se plaignant de manquer de souffle, à trente-sept ans. Barristan rapporte qu'il voyait dans la folie et la grandeur les deux faces d'une même médaille.",
+            "en": "The great business of the reign was the War of the Ninepenny Kings. Maelys Blackfyre and his allies of the Band of Nine held the Stepstones, from which they could threaten the realm. Jaehaerys gathered the armies of the throne. He wanted to lead them himself, but his Hand, Lord Ormund Baratheon, persuaded him to stay in King's Landing with Queen Shaera. In 260 AC the army landed in the islands; the fighting lasted most of the year, and young Ser Barristan Selmy at last slew Maelys in single combat.\n\nThe king raised Barristan to the Kingsguard. He restored order, reconciled several great houses that had been unhappy under the previous reign, and left debts with the Iron Bank that his son's Hand would repay. In 262 AC he died after a short illness, aged thirty-seven, complaining in his last days of a shortness of breath. Barristan recalls that he saw madness and greatness as the two faces of a single coin."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys II"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            },
+            {
+              "id": "asos",
+              "locator": "Daenerys VI (ch. 71)"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p6-quatrieme-feunoyr",
+        "p6-duncan-jenny",
+        "p6-lestival",
+        "p6-neuf-sous",
+        "p7-avenement-aerys"
+      ],
+      "warIds": [
+        "rebellion-feunoyr-4",
+        "guerre-des-rois-a-neuf-sous"
+      ],
+      "disputed": {
+        "fr": "On ignore si Jaehaerys assista à la tragédie de Lestival. Le jugement porté sur son règne diverge : beaucoup de ses contemporains le tenaient pour faible, tandis que le mestre Yandel et ser Barristan Selmy le décrivent comme un roi capable.",
+        "en": "It is not known whether Jaehaerys witnessed the tragedy of Summerhall. Opinions of his reign differ: many of his contemporaries thought him weak, while Maester Yandel and Ser Barristan Selmy describe him as a capable king."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        },
+        {
+          "id": "asos",
+          "locator": "Daenerys VI (ch. 71)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys IV (ch. 23)"
+        }
+      ]
+    },
+    {
+      "personId": "shaera",
+      "titles": [
+        {
+          "fr": "Reine",
+          "en": "Queen"
+        },
+        {
+          "fr": "Princesse de la maison Targaryen",
+          "en": "Princess of House Targaryen"
+        }
+      ],
+      "lead": {
+        "fr": "Fille d'Aegon V, Shaera épousa en secret son frère Jaehaerys contre la volonté de son père et fut reine pendant les trois années de son règne.",
+        "en": "The daughter of Aegon V, Shaera married her brother Jaehaerys in secret against her father's will and was queen for the three years of his reign."
+      },
+      "sections": [
+        {
+          "id": "shaera-promesse",
+          "heading": {
+            "fr": "Une fiancée pour Hautjardin",
+            "en": "A Bride for Highgarden"
+          },
+          "body": {
+            "fr": "Shaera naît en 226 apr. C., fille aînée d'Aegon et de Betha Blackwood, après ses frères Duncan et Jaehaerys ; viendront ensuite Daeron et Rhaelle. Elle a sept ans quand le Grand Conseil de 233 apr. C. fait de son père un roi. Aegon V a pris en aversion la vieille coutume qui mariait le frère à la sœur pour garder pur le sang du dragon. Il entend au contraire unir ses enfants aux grandes maisons et se faire par là des alliés.\n\nEn 237 apr. C., à onze ans, Shaera est donc promise par sa mère à Luthor Tyrell, l'héritier de Hautjardin. Le projet se heurte à un sentiment que ses parents n'ont pas su prévenir : Shaera et son frère Jaehaerys s'aiment. Le roi et la reine font tout pour les éloigner l'un de l'autre, sans autre résultat que d'aviver ce qu'ils voulaient éteindre.",
+            "en": "Shaera was born in 226 AC, the elder daughter of Aegon and Betha Blackwood, after her brothers Duncan and Jaehaerys; Daeron and Rhaelle came later. She was seven when the Great Council of 233 AC made her father king. Aegon V had come to dislike the old custom of marrying brother to sister to keep the dragon's blood pure. He meant instead to unite his children with the great houses and so gain allies.\n\nIn 237 AC, at eleven, Shaera was therefore promised by her mother to Luthor Tyrell, heir to Highgarden. The plan ran up against a feeling her parents had failed to forestall: Shaera and her brother Jaehaerys loved each other. The king and queen did all they could to keep them apart, with no result but to inflame what they had hoped to smother."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon V"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys II"
+            }
+          ]
+        },
+        {
+          "id": "shaera-mariage",
+          "heading": {
+            "fr": "Le mariage secret de 240",
+            "en": "The Secret Marriage of 240"
+          },
+          "body": {
+            "fr": "En 239 apr. C., le prince Duncan rompt ses fiançailles pour épouser Jenny de Vieilles-Pierres ; malgré la révolte d'Accalmie, le roi finit par céder à son fils. Shaera et Jaehaerys en tirent la leçon. En 240 apr. C., à quatorze et quinze ans, ils trompent la surveillance de leurs gardiens et se marient en secret. Quand la nouvelle parvient à leurs parents, l'union est consommée, et Aegon V n'a d'autre choix que de l'accepter, en essuyant la colère des Tyrell et des Tully.\n\nShaera met au monde un fils, Aerys, en 244 apr. C., à dix-huit ans, puis une fille, Rhaella, dans les deux ans qui suivent. Le couple s'était choisi ; Jaehaerys décide pourtant de marier ses deux enfants l'un à l'autre, sur la foi d'une sorcière des bois qui prédit que le prince promis naîtra de cette lignée. Aerys et Rhaella s'y plient sans affection. Ce que Shaera pensa de ce mariage, les sources ne le disent pas.",
+            "en": "In 239 AC Prince Duncan broke his betrothal to marry Jenny of Oldstones; despite the revolt at Storm's End, the king ended by yielding to his son. Shaera and Jaehaerys learned the lesson. In 240 AC, aged fourteen and fifteen, they slipped their guardians and married in secret. By the time the news reached their parents the union had been consummated, and Aegon V had no choice but to accept it, while bearing the anger of the Tyrells and the Tullys.\n\nShaera bore a son, Aerys, in 244 AC, at eighteen, and then a daughter, Rhaella, within the next two years. The couple had chosen each other; Jaehaerys nonetheless decided to marry their two children to one another, trusting a woods witch who foretold that the prince that was promised would be born of that line. Aerys and Rhaella submitted without affection. What Shaera thought of this marriage, the sources do not say."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys II"
+            },
+            {
+              "id": "adwd",
+              "locator": "Daenerys IV (ch. 23)"
+            }
+          ]
+        },
+        {
+          "id": "shaera-reine",
+          "heading": {
+            "fr": "Reine",
+            "en": "Queen"
+          },
+          "body": {
+            "fr": "En 259 apr. C., Aegon V réunit les siens à Lestival pour attendre la naissance du premier enfant d'Aerys et de Rhaella, qui serait le premier petit-enfant de Shaera. L'incendie tue le roi et le prince Duncan. On ignore si Shaera et Jaehaerys étaient présents ; on sait seulement qu'ils survécurent, comme le jeune couple et le nouveau-né, Rhaegar. Jaehaerys monte sur le trône et Shaera devient reine.\n\nL'année suivante, quand l'armée part pour les Degrés de Pierre combattre Maelys Feunoyr, la Main conseille au roi de ne pas la conduire et de demeurer à Port-Réal auprès de la reine. C'est la dernière fois que les sources la mentionnent avec certitude. Jaehaerys meurt en 262 apr. C., et son fils règne désormais sous le nom d'Aerys II. La date de la mort de Shaera n'est pas connue, pas plus que la part qu'elle prit, veuve, à la cour de son fils.",
+            "en": "In 259 AC Aegon V gathered his family at Summerhall to await the birth of the first child of Aerys and Rhaella, who would be Shaera's first grandchild. The fire killed the king and Prince Duncan. It is not known whether Shaera and Jaehaerys were present; we know only that they survived, as did the young couple and the newborn Rhaegar. Jaehaerys came to the throne and Shaera became queen.\n\nThe following year, when the army left for the Stepstones to fight Maelys Blackfyre, the Hand advised the king not to lead it and to remain in King's Landing with the queen. This is the last time the sources mention her with certainty. Jaehaerys died in 262 AC, and his son now reigned as Aerys II. The date of Shaera's death is unknown, as is whatever part she played, as a widow, at her son's court."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys II"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p6-grand-conseil-233",
+        "p6-duncan-jenny",
+        "p6-lestival",
+        "p6-neuf-sous"
+      ],
+      "warIds": [],
+      "disputed": {
+        "fr": "On ignore si Shaera assista à la tragédie de Lestival et quand elle mourut. Les sources attribuent à Jaehaerys seul la décision de marier Aerys et Rhaella ; le rôle de Shaera dans ce choix n'est pas connu.",
+        "en": "It is not known whether Shaera witnessed the tragedy of Summerhall or when she died. The sources credit Jaehaerys alone with the decision to marry Aerys to Rhaella; Shaera's part in that choice is unknown."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys IV (ch. 23)"
+        }
+      ]
+    },
+    {
+      "personId": "aerys-ii",
+      "titles": [
+        {
+          "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+          "en": "King of the Andals, the Rhoynar, and the First Men"
+        },
+        {
+          "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+          "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+        },
+        {
+          "fr": "Prince de Peyredragon",
+          "en": "Prince of Dragonstone"
+        }
+      ],
+      "lead": {
+        "fr": "Fils de Jaehaerys II, Aerys II régna de 262 à 283 apr. C. ; un règne d'abord prometteur sombra dans la méfiance et la cruauté, et le roi mourut de la main d'un chevalier de sa propre Garde.",
+        "en": "The son of Jaehaerys II, Aerys II reigned from 262 to 283 AC; a reign that began with promise sank into suspicion and cruelty, and the king died at the hand of a knight of his own Kingsguard."
+      },
+      "sections": [
+        {
+          "id": "aerys-ii-jeunesse",
+          "heading": {
+            "fr": "Un prince et ses deux amis",
+            "en": "A Prince and His Two Friends"
+          },
+          "body": {
+            "fr": "Aerys naît en 244 apr. C. du prince Jaehaerys et de sa sœur Shaera. Enfant, il se lie avec Tywin Lannister, héritier de Castral Roc, alors page à la cour, et avec son cousin Steffon Baratheon, héritier d'Accalmie ; les trois garçons deviennent inséparables. Encore adolescent, il épouse sa sœur Rhaella sur l'ordre de son père, qui croit à une prophétie liant le prince promis à leur descendance. Ser Barristan Selmy, présent aux noces, ne vit entre les époux aucune tendresse.\n\nLeur premier fils, Rhaegar, naît en 259 apr. C., le jour de la tragédie de Lestival, qui fait de Jaehaerys un roi et d'Aerys l'héritier du trône. L'année suivante, écuyer pendant la guerre des Rois à Neuf Sous, il combat aux Degrés de Pierre et y reçoit l'adoubement à seize ans ; il choisit Tywin pour l'armer chevalier. En 262 apr. C., la mort de son père le fait roi à dix-huit ans.",
+            "en": "Aerys was born in 244 AC to Prince Jaehaerys and his sister Shaera. As a boy he befriended Tywin Lannister, heir to Casterly Rock, then a page at court, and his cousin Steffon Baratheon, heir to Storm's End; the three became inseparable. While still in his teens he married his sister Rhaella at his father's command, for Jaehaerys believed in a prophecy linking the prince that was promised to their descendants. Ser Barristan Selmy, who attended the wedding, saw no tenderness between the two.\n\nTheir first son, Rhaegar, was born in 259 AC, on the day of the tragedy at Summerhall, which made Jaehaerys king and Aerys heir to the throne. The following year, a squire in the War of the Ninepenny Kings, he fought on the Stepstones and was knighted there at sixteen; he chose Tywin to dub him. In 262 AC his father's death made him king at eighteen."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys II"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            },
+            {
+              "id": "adwd",
+              "locator": "Daenerys IV (ch. 23)"
+            }
+          ]
+        },
+        {
+          "id": "aerys-ii-tywin",
+          "heading": {
+            "fr": "Le roi et sa Main",
+            "en": "The King and His Hand"
+          },
+          "body": {
+            "fr": "Le jeune roi renouvelle la cour, écarte les vieux conseillers de son père et de son grand-père et nomme Main son ami Tywin. Il annonce de grands projets, une conquête des Degrés de Pierre, un nouveau Mur plus au nord, qu'il abandonne aussi vite qu'il les conçoit. Le royaume prospère pourtant, mais le mérite en revient à Tywin, qui rembourse la Banque de Fer avec l'or de Castral Roc et rallie les seigneurs en abrogeant les lois d'Aegon V en faveur du petit peuple.\n\nL'amitié s'use. On répète que Tywin gouverne et que le roi n'est qu'une façade ; Aerys fait arracher la langue du capitaine de la garde de sa Main, qui l'a redit. Il prend le contre-pied de ses conseils et le blesse à travers son épouse, Joanna, par des privautés. Les deuils de Rhaella nourrissent ses soupçons. En 276 apr. C., au tournoi de Port-Lannis, il refuse avec mépris la main de Cersei Lannister pour Rhaegar : la fille d'un serviteur, dit-il, ne peut épouser un prince.",
+            "en": "The young king renewed the court, set aside the old counsellors of his father and grandfather, and named his friend Tywin Hand. He announced grand schemes, a conquest of the Stepstones, a new Wall farther north, which he dropped as quickly as he conceived them. The realm prospered all the same, but the credit went to Tywin, who repaid the Iron Bank with the gold of Casterly Rock and won over the lords by repealing Aegon V's laws in favour of the common people.\n\nThe friendship wore thin. It was said that Tywin governed and the king was a mere figurehead; Aerys had the tongue torn from the captain of his Hand's guard for repeating it. He contradicted Tywin's counsel and wounded him through his wife, Joanna, with liberties. Rhaella's losses fed his suspicions. In 276 AC, at the tourney at Lannisport, he scornfully refused Cersei Lannister's hand for Rhaegar: a servant's daughter, he said, could not marry a prince."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            }
+          ]
+        },
+        {
+          "id": "aerys-ii-sombreval",
+          "heading": {
+            "fr": "Sombreval et la peur",
+            "en": "Duskendale and Fear"
+          },
+          "body": {
+            "fr": "En 277 apr. C., lord Denys Darklyn, qui réclame une charte pour Sombreval, invite le roi à venir l'entendre. Tywin conseille de refuser ; Aerys y va pour prouver qu'il peut se passer de lui, avec une faible escorte. Il est fait prisonnier et reste six mois aux mains des Darklyn, pendant que Tywin assiège la ville. Ser Barristan Selmy le délivre en s'introduisant seul dans la place. Le roi fait ensuite exterminer les Darklyn et leurs alliés Hollard ; seul un enfant, Dontos, est épargné à la prière de Barristan.\n\nLa captivité laisse Aerys brisé. Pendant quatre ans, il ne quitte plus le Donjon Rouge. Il ne laisse plus couper ni ses cheveux ni ses ongles, de peur des lames, voit la trahison partout et soupçonne Tywin et Rhaegar de s'être entendus pour le faire périr. Il prend pour maître des chuchoteurs un eunuque étranger, Varys, et s'entoure de pyromants : le feu grégeois remplace peu à peu la hache pour les exécutions.",
+            "en": "In 277 AC Lord Denys Darklyn, who wanted a charter for Duskendale, invited the king to come and hear him. Tywin advised refusal; Aerys went to prove he could do without him, with a small escort. He was taken prisoner and held for six months by the Darklyns while Tywin besieged the town. Ser Barristan Selmy freed him by slipping into the town alone. The king then had the Darklyns and their allies the Hollards wiped out; only one child, Dontos, was spared at Barristan's plea.\n\nCaptivity left Aerys broken. For four years he did not leave the Red Keep. He no longer let his hair or his nails be cut, for fear of blades, saw treason everywhere, and suspected Tywin and Rhaegar of having plotted his death together. He made a foreign eunuch, Varys, his master of whisperers and surrounded himself with pyromancers: wildfire gradually replaced the axe at executions."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            }
+          ]
+        },
+        {
+          "id": "aerys-ii-chute",
+          "heading": {
+            "fr": "La rébellion et la fin",
+            "en": "The Rebellion and the End"
+          },
+          "body": {
+            "fr": "En 281 apr. C., Aerys fait entrer Jaime Lannister dans sa Garde Royale, privant Tywin de son héritier ; la Main se démet. Au tournoi de Harrenhal, premier voyage du roi depuis Sombreval, les seigneurs découvrent un homme hagard, aux ongles démesurés, qui passe sans transition de la gaieté à l'abattement. L'année suivante, après la disparition de Lyanna Stark avec Rhaegar, il fait arrêter Brandon Stark, convoque son père Rickard et les fait périr tous deux. Il exige ensuite de Jon Arryn les têtes de Robert Baratheon et d'Eddard Stark, et la guerre éclate.\n\nSes Mains se succèdent. Il fait cacher du feu grégeois sous Port-Réal pour brûler la ville plutôt que de la livrer, et fait brûler lord Chelsted, qui s'y opposait. Après la mort de Rhaegar au Trident, en 283 apr. C., il ouvre les portes à l'armée de Tywin sur le conseil de Pycelle. Pendant le sac, il ordonne d'allumer le feu ; Jaime Lannister tue le pyromant Rossart, puis le roi, au pied du Trône de Fer.",
+            "en": "In 281 AC Aerys named Jaime Lannister to his Kingsguard, depriving Tywin of his heir; the Hand resigned. At the tourney at Harrenhal, the king's first journey since Duskendale, the lords saw a haggard man with monstrous nails who passed from mirth to gloom without warning. The next year, after Lyanna Stark vanished with Rhaegar, he had Brandon Stark arrested, summoned his father Rickard and had both put to death. He then demanded from Jon Arryn the heads of Robert Baratheon and Eddard Stark, and war broke out.\n\nHis Hands followed one another. He had wildfire hidden beneath King's Landing so as to burn the city rather than yield it, and had Lord Chelsted, who opposed the plan, burned. After Rhaegar's death on the Trident in 283 AC, he opened the gates to Tywin's army on Pycelle's advice. During the sack he gave the order to light the fire; Jaime Lannister killed the pyromancer Rossart, then the king, at the foot of the Iron Throne."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: The Year of the False Spring"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: Robert's Rebellion"
+            },
+            {
+              "id": "asos",
+              "locator": "Jaime V (ch. 37)"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p6-lestival",
+        "p6-neuf-sous",
+        "p7-avenement-aerys",
+        "p7-port-lannis",
+        "p7-sombreval",
+        "p7-harrenhal-281",
+        "p7-stark-executes",
+        "p7-premieres-batailles",
+        "p7-trident",
+        "p7-sac"
+      ],
+      "warIds": [
+        "guerre-des-rois-a-neuf-sous",
+        "rebellion-de-robert"
+      ],
+      "disputed": {
+        "fr": "Les rapports d'Aerys avec Joanna Lannister ne sont connus que par des rumeurs que les sources rapportent sans les confirmer. Les dernières heures du roi et le projet d'incendier la ville reposent surtout sur ce que Jaime Lannister en raconte, des années plus tard, à Brienne de Torth. On discute encore de la part de la maladie et de celle du caractère dans la folie qu'on lui prête.",
+        "en": "Aerys's dealings with Joanna Lannister are known only through rumours that the sources pass on without confirming. The king's last hours and the plan to burn the city rest mostly on what Jaime Lannister tells Brienne of Tarth years later. How much of the madness attributed to him was illness and how much character is still debated."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: The Year of the False Spring"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: Robert's Rebellion"
+        },
+        {
+          "id": "asos",
+          "locator": "Jaime V (ch. 37)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys IV (ch. 23)"
+        }
+      ]
+    },
+    {
+      "personId": "rhaella-fille-jaehaerys-ii",
+      "titles": [
+        {
+          "fr": "Reine",
+          "en": "Queen"
+        },
+        {
+          "fr": "Princesse de la maison Targaryen",
+          "en": "Princess of House Targaryen"
+        }
+      ],
+      "lead": {
+        "fr": "Fille de Jaehaerys II, Rhaella fut mariée sans amour à son frère Aerys II, dont elle subit la folie ; elle mourut à Peyredragon en 284 apr. C. en donnant naissance à Daenerys.",
+        "en": "The daughter of Jaehaerys II, Rhaella was married without love to her brother Aerys II and endured his madness; she died on Dragonstone in 284 AC giving birth to Daenerys."
+      },
+      "sections": [
+        {
+          "id": "rhaella-fille-jaehaerys-ii-jeunesse",
+          "heading": {
+            "fr": "Une princesse à la cour d'Aegon V",
+            "en": "A Princess at the Court of Aegon V"
+          },
+          "body": {
+            "fr": "Rhaella naît entre 245 et 247 apr. C. du prince Jaehaerys et de la princesse Shaera, et grandit à la cour de son grand-père Aegon V. Ser Barristan Selmy se souviendra qu'elle s'était éprise, jeune fille, d'un chevalier des terres de l'Orage, ser Bonifer Hasty, qui l'avait un jour proclamée reine d'amour et de beauté. L'idylle fut brève : le chevalier était de trop petite naissance pour qu'on songe à lui comme prétendant.\n\nSon père en a décidé autrement. Convaincu par une sorcière des bois, venue à la cour avec Jenny de Vieilles-Pierres, que le prince promis naîtra de la lignée d'Aerys et de Rhaella, il marie ses deux enfants malgré le peu d'inclination qu'ils ont l'un pour l'autre. Aegon V désapprouve et laisse faire. Le jour des noces, Barristan ne voit entre les époux aucune affection. Parmi les dames de compagnie de la jeune princesse figurent la mère du futur prince Doran de Dorne et, plus tard, Joanna Lannister.",
+            "en": "Rhaella was born between 245 and 247 AC to Prince Jaehaerys and Princess Shaera, and grew up at the court of her grandfather Aegon V. Ser Barristan Selmy would remember that as a girl she had fallen for a knight of the stormlands, Ser Bonifer Hasty, who had once named her queen of love and beauty. The romance was short: the knight was of too low birth to be thought of as a suitor.\n\nHer father had other plans. Convinced by a woods witch, who had come to court with Jenny of Oldstones, that the prince that was promised would be born of the line of Aerys and Rhaella, he married his two children despite their slight liking for each other. Aegon V disapproved and let it happen. On the wedding day Barristan saw no affection between them. Among the young princess's ladies were the mother of the future Prince Doran of Dorne and, later, Joanna Lannister."
+          },
+          "sources": [
+            {
+              "id": "adwd",
+              "locator": "Daenerys IV (ch. 23)"
+            },
+            {
+              "id": "adwd",
+              "locator": "Daenerys VII (ch. 43)"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            }
+          ]
+        },
+        {
+          "id": "rhaella-fille-jaehaerys-ii-deuils",
+          "heading": {
+            "fr": "Les deuils",
+            "en": "The Losses"
+          },
+          "body": {
+            "fr": "Rhaella met au monde son premier fils, Rhaegar, à Lestival en 259 apr. C., au milieu de l'incendie qui tue le roi Aegon V. Elle devient reine en 262 apr. C., quand son frère et époux monte sur le trône. Suivent dix-sept années de grossesses malheureuses : des fausses couches en 263, 264 et 271 apr. C., une fille mort-née, Shaena, en 267 apr. C., un fils, Daeron, qui ne vit que six mois, un enfant mort-né en 270 apr. C., puis deux fils emportés au berceau, Aegon et Jaehaerys.\n\nAerys la console d'abord, puis l'accuse d'infidélité et tient les enfants morts pour des bâtards. Il la fait garder dans ses appartements, deux septas dormant chaque nuit dans son lit. Lui-même a de nombreuses maîtresses et renvoie plusieurs dames de la reine, dont Joanna Lannister. Le prince Viserys naît enfin en 276 apr. C., petit mais vigoureux ; le roi interdit pourtant à sa mère de rester seule avec lui.",
+            "en": "Rhaella gave birth to her first son, Rhaegar, at Summerhall in 259 AC, in the midst of the fire that killed King Aegon V. She became queen in 262 AC, when her brother and husband came to the throne. Seventeen years of unhappy pregnancies followed: miscarriages in 263, 264 and 271 AC, a stillborn daughter, Shaena, in 267 AC, a son, Daeron, who lived only six months, a stillbirth in 270 AC, and then two sons carried off in the cradle, Aegon and Jaehaerys.\n\nAerys comforted her at first, then accused her of infidelity and called the dead children bastards. He had her confined to her apartments, with two septas sleeping in her bed every night. He himself kept many mistresses and dismissed several of the queen's ladies, Joanna Lannister among them. Prince Viserys was born at last in 276 AC, small but sturdy; even so, the king forbade his mother to be alone with him."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            }
+          ]
+        },
+        {
+          "id": "rhaella-fille-jaehaerys-ii-folie",
+          "heading": {
+            "fr": "La reine du roi fou",
+            "en": "The Mad King's Queen"
+          },
+          "body": {
+            "fr": "À mesure que la raison du roi se défait, les époux s'évitent : ils font chambre à part et se fuient le jour. Rhaella s'efforce de tenir Viserys à l'écart des excès de son père. Mais chaque fois qu'Aerys fait brûler un homme, il vient la retrouver la nuit et la brutalise. Jaime Lannister, de garde à sa porte après le supplice de lord Chelsted, l'entend pleurer ; quand il rappelle que la Garde a juré de protéger aussi la reine, un frère juré lui répond que ce serment ne vaut pas contre le roi.\n\nElle reste à Port-Réal pendant les grands tournois du règne, à Port-Lannis comme à Harrenhal. Après la mort de Rhaegar au Trident, Aerys l'envoie à Peyredragon avec Viserys et ser Willem Darry, sans savoir qu'elle est enceinte. Elle part encapuchonnée pour cacher les marques laissées par son époux. Elia et ses enfants, que le roi garde en otages, restent derrière.",
+            "en": "As the king's reason came apart, husband and wife avoided each other: they slept in separate rooms and shunned each other by day. Rhaella did her best to keep Viserys away from his father's excesses. But each time Aerys had a man burned, he came to her at night and used her brutally. Jaime Lannister, on guard at her door after Lord Chelsted's death, heard her weep; when he pointed out that the Kingsguard had sworn to protect the queen as well, a sworn brother answered that the oath did not hold against the king.\n\nShe stayed in King's Landing during the great tourneys of the reign, at Lannisport as at Harrenhal. After Rhaegar's death on the Trident, Aerys sent her to Dragonstone with Viserys and Ser Willem Darry, unaware that she was with child. She left hooded to hide the marks her husband had left on her. Elia and her children, whom the king kept as hostages, stayed behind."
+          },
+          "sources": [
+            {
+              "id": "affc",
+              "locator": "Jaime II (ch. 16)"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: Robert's Rebellion"
+            }
+          ]
+        },
+        {
+          "id": "rhaella-fille-jaehaerys-ii-peyredragon",
+          "heading": {
+            "fr": "Peyredragon",
+            "en": "Dragonstone"
+          },
+          "body": {
+            "fr": "À Peyredragon, Rhaella apprend la chute de la capitale, la mort de son époux et celle des enfants de Rhaegar. Les derniers fidèles tiennent désormais Viserys pour leur roi, tandis que les grandes maisons ont reconnu Robert Baratheon. L'île est la dernière place où flotte la bannière au dragon, et Stannis Baratheon arme une flotte pour la prendre.\n\nNeuf mois après son départ de Port-Réal, Rhaella accouche d'une fille pendant une tempête d'été qui détruit au mouillage ce qui reste de la flotte royale. Elle la nomme Daenerys, du nom de la princesse qui avait épousé jadis un prince de Dorne, et meurt peu après des suites de l'accouchement, en 284 apr. C. Avant que la garnison ne livre ses enfants, Willem Darry les emmène en exil à Braavos. Des années plus tard, réduit à la misère, Viserys vendra la couronne de sa mère.",
+            "en": "On Dragonstone Rhaella learned of the fall of the capital, the death of her husband and that of Rhaegar's children. The last loyalists now held Viserys to be their king, while the great houses had recognised Robert Baratheon. The island was the last place where the dragon banner still flew, and Stannis Baratheon was fitting out a fleet to take it.\n\nNine months after leaving King's Landing, Rhaella gave birth to a daughter during a summer storm that wrecked what was left of the royal fleet at anchor. She named her Daenerys, after the princess who had once married a prince of Dorne, and died soon after from the birth, in 284 AC. Before the garrison could hand her children over, Willem Darry carried them into exile in Braavos. Years later, reduced to poverty, Viserys would sell his mother's crown."
+          },
+          "sources": [
+            {
+              "id": "agot",
+              "locator": "Daenerys I (ch. 3)"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: The End"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p6-lestival",
+        "p7-avenement-aerys",
+        "p7-port-lannis",
+        "p7-sac",
+        "p7-naissance-daenerys"
+      ],
+      "warIds": [
+        "rebellion-de-robert"
+      ],
+      "disputed": {
+        "fr": "Son année de naissance flotte entre 245 et 247 apr. C. Celle de sa mort, 284 apr. C., se déduit des neuf mois écoulés depuis sa fuite, les romans ne la donnant pas en clair. Ce qu'elle endura de son époux n'est connu que par les souvenirs de Jaime Lannister et de Barristan Selmy.",
+        "en": "Her year of birth falls somewhere between 245 and 247 AC. That of her death, 284 AC, is inferred from the nine months that passed after her flight, since the novels do not state it outright. What she suffered at her husband's hands is known only from the memories of Jaime Lannister and Barristan Selmy."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: Robert's Rebellion"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: The End"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys I (ch. 3)"
+        },
+        {
+          "id": "affc",
+          "locator": "Jaime II (ch. 16)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys IV (ch. 23)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys VII (ch. 43)"
+        }
+      ]
+    },
+    {
+      "personId": "rhaegar",
+      "titles": [
+        {
+          "fr": "Prince de Peyredragon",
+          "en": "Prince of Dragonstone"
+        },
+        {
+          "fr": "Chevalier",
+          "en": "Knight"
+        }
+      ],
+      "lead": {
+        "fr": "Fils aîné d'Aerys II et héritier du trône, Rhaegar naquit dans l'incendie de Lestival en 259 apr. C. et mourut au Trident en 283 apr. C. ; sa disparition avec Lyanna Stark avait ouvert la guerre qui emporta sa maison.",
+        "en": "The eldest son of Aerys II and heir to the throne, Rhaegar was born in the fire at Summerhall in 259 AC and died on the Trident in 283 AC; his disappearance with Lyanna Stark had opened the war that swept his house away."
+      },
+      "sections": [
+        {
+          "id": "rhaegar-jeunesse",
+          "heading": {
+            "fr": "Né à Lestival",
+            "en": "Born at Summerhall"
+          },
+          "body": {
+            "fr": "Rhaegar naît à Lestival en 259 apr. C., le jour même où l'incendie emporte son arrière-grand-père Aegon V. Enfant, il lit tant qu'on s'en moque à la cour, et personne ne le croit fait pour les armes. Puis quelque chose qu'il a lu le décide : il se présente au maître d'armes, ser Willem Darry, et lui annonce qu'il lui faut devenir guerrier. Armé chevalier à dix-sept ans, il se révèle redoutable, bien qu'il entre rarement en lice et sans plaisir apparent.\n\nIl aime aller seul dans les ruines de Lestival avec sa harpe, et il en revient avec des chansons qui font pleurer. Ses proches sont Arthur Dayne, l'Épée du Matin, son plus ancien ami, Jon Connington, et ses anciens écuyers Myles Mooton et Richard Lonmouth. Le peuple l'acclame plus fort que le roi et que sa Main. Mestre Aemon, avec qui il correspond, voit en lui le prince promis, idée que Rhaegar partage d'abord.",
+            "en": "Rhaegar was born at Summerhall in 259 AC, on the very day the fire carried off his great-grandfather Aegon V. As a child he read so much that the court made fun of him, and no one thought him made for arms. Then something he read decided him: he went to the master-at-arms, Ser Willem Darry, and told him that he would have to become a warrior. Knighted at seventeen, he proved formidable, though he seldom entered the lists and seemed to take no pleasure in it.\n\nHe liked to go alone to the ruins of Summerhall with his harp, and came back with songs that moved listeners to tears. His closest companions were Arthur Dayne, the Sword of the Morning, his oldest friend, Jon Connington, and his former squires Myles Mooton and Richard Lonmouth. The people cheered him louder than the king and his Hand. Maester Aemon, with whom he corresponded, saw in him the prince that was promised, an idea Rhaegar at first shared."
+          },
+          "sources": [
+            {
+              "id": "asos",
+              "locator": "Daenerys I (ch. 8)"
+            },
+            {
+              "id": "affc",
+              "locator": "Samwell IV (ch. 35)"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            }
+          ]
+        },
+        {
+          "id": "rhaegar-mariage",
+          "heading": {
+            "fr": "Un mariage dornien",
+            "en": "A Dornish Marriage"
+          },
+          "body": {
+            "fr": "Aucune sœur ni parente de sang valyrien n'est en âge de l'épouser. En 276 apr. C., au tournoi de Port-Lannis, Aerys refuse la main de Cersei Lannister que Tywin lui propose ; Steffon Baratheon part ensuite chercher en Essos une épouse de vieille souche valyrienne, revient bredouille et périt en mer au retour. Rhaegar est finalement promis, au début de 279 apr. C., à Elia Martell, sœur du prince de Dorne, et l'épouse l'année suivante au Grand Septuaire de Baelor. Le roi, qui craint un attentat, n'assiste pas aux noces.\n\nLe couple s'installe à Peyredragon. Rhaenys naît en 280 apr. C., Aegon à la fin de 281 ou au début de 282. Elia manque mourir à la seconde naissance, et les mestres annoncent qu'elle n'aura plus d'enfant. Rhaegar voit désormais dans son fils, conçu sous une comète, le prince promis. À la cour, un parti du prince se forme face à celui du roi, et le Grand Mestre Pycelle craint une guerre comparable à la Danse des Dragons.",
+            "en": "No sister or kinswoman of Valyrian blood was of an age to marry him. In 276 AC, at the tourney at Lannisport, Aerys refused the hand of Cersei Lannister that Tywin offered; Steffon Baratheon then went to Essos to seek a bride of old Valyrian stock, returned empty-handed and drowned on the way home. Rhaegar was at last betrothed, early in 279 AC, to Elia Martell, sister of the Prince of Dorne, and married her the following year in the Great Sept of Baelor. The king, fearing assassination, stayed away.\n\nThe couple settled on Dragonstone. Rhaenys was born in 280 AC, Aegon at the end of 281 or the start of 282. Elia nearly died at the second birth, and the maesters said she would bear no more children. Rhaegar now saw in his son, conceived beneath a comet, the prince that was promised. At court a prince's party formed against the king's, and Grand Maester Pycelle feared a war like the Dance of the Dragons."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: The Year of the False Spring"
+            }
+          ]
+        },
+        {
+          "id": "rhaegar-harrenhal",
+          "heading": {
+            "fr": "Harrenhal",
+            "en": "Harrenhal"
+          },
+          "body": {
+            "fr": "Le grand tournoi de Harrenhal, en 281 apr. C., aurait été financé en secret par Rhaegar, désireux d'y réunir les seigneurs pour envisager d'écarter son père ; Varys en avertit le roi, qui décide d'y venir. Le premier soir, le prince chante, et Lyanna Stark pleure. Dans les joutes, il renverse tour à tour Brandon Stark, quatre chevaliers de la Garde Royale, dont Arthur Dayne, puis ser Barristan Selmy dans la dernière joute. Vainqueur, il passe devant sa femme et dépose la couronne de roses d'hiver de la reine d'amour et de beauté sur les genoux de Lyanna, promise à Robert Baratheon.\n\nAu début de l'année suivante, peu après la naissance d'Aegon, Rhaegar quitte Peyredragon avec quelques compagnons et disparaît avec Lyanna, non loin de Harrenhal. Les Stark et Robert parlent d'enlèvement ; ce qu'il en fut réellement, les livres ne le disent pas. Brandon Stark court à Port-Réal défier le prince absent, et la mort que lui inflige Aerys jette le royaume dans la guerre.",
+            "en": "The great tourney at Harrenhal in 281 AC is said to have been secretly paid for by Rhaegar, who wanted to gather the lords there to consider setting his father aside; Varys warned the king, who decided to attend. On the first night the prince sang, and Lyanna Stark wept. In the jousts he unhorsed in turn Brandon Stark, four knights of the Kingsguard, Arthur Dayne among them, and then Ser Barristan Selmy in the final tilt. Victorious, he rode past his wife and laid the crown of winter roses of the queen of love and beauty in the lap of Lyanna, who was promised to Robert Baratheon.\n\nEarly the next year, shortly after Aegon's birth, Rhaegar left Dragonstone with a few companions and vanished with Lyanna not far from Harrenhal. The Starks and Robert spoke of abduction; what truly happened, the books do not say. Brandon Stark rode to King's Landing to challenge the absent prince, and the death Aerys dealt him threw the realm into war."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: The Year of the False Spring"
+            },
+            {
+              "id": "asos",
+              "locator": "Bran II (ch. 24)"
+            }
+          ]
+        },
+        {
+          "id": "rhaegar-trident",
+          "heading": {
+            "fr": "Le Trident",
+            "en": "The Trident"
+          },
+          "body": {
+            "fr": "Pendant les premiers mois de la guerre, Rhaegar reste introuvable ; certains pensent qu'il se trouvait avec Lyanna dans une tour des montagnes de Dorne, que gardaient trois chevaliers de la Garde Royale. Ser Gerold Hightower est envoyé le chercher. Après la défaite de Jon Connington aux Cloches, il revient prendre le commandement de l'armée royale et laisse Jaime Lannister veiller sur le roi et sur sa famille. Il confie alors à Jaime qu'une fois la bataille gagnée, il entend réunir un conseil et changer bien des choses.\n\nEn 283 apr. C., les deux armées se rencontrent à un gué du Trident. Rhaegar et Robert s'y affrontent dans le courant ; le prince blesse son adversaire, mais un coup de masse lui enfonce la poitrine et disperse dans l'eau les rubis de son armure. Pendant que les soldats des deux camps les cherchent à tâtons dans l'eau, le lieu reçoit le nom qu'il porte encore, le gué des rubis. Peu après, sa femme et ses enfants sont tués au sac de Port-Réal.",
+            "en": "In the first months of the war Rhaegar could not be found; some believe he was with Lyanna in a tower in the mountains of Dorne, guarded by three knights of the Kingsguard. Ser Gerold Hightower was sent to fetch him. After Jon Connington's defeat at the Bells, he returned to take command of the royal army and left Jaime Lannister to watch over the king and his family. He told Jaime then that once the battle was won he meant to call a council and change a great many things.\n\nIn 283 AC the two armies met at a ford of the Trident. Rhaegar and Robert fought in the stream; the prince wounded his opponent, but a blow from a warhammer stove in his chest and scattered the rubies of his armour into the water. While soldiers of both sides groped for them in the water, the place got its name: the ruby ford. Soon afterwards his wife and children were killed in the sack of King's Landing."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: Robert's Rebellion"
+            },
+            {
+              "id": "affc",
+              "locator": "Jaime I (ch. 8)"
+            },
+            {
+              "id": "agot",
+              "locator": "Eddard XV (ch. 58)"
+            }
+          ]
+        },
+        {
+          "id": "rhaegar-memoire",
+          "heading": {
+            "fr": "Une mémoire disputée",
+            "en": "A Disputed Memory"
+          },
+          "body": {
+            "fr": "La mémoire de Rhaegar divise. Pour Robert Baratheon, il reste l'homme qui a enlevé et violé Lyanna, et il le tue encore en rêve des années après. Barristan Selmy, qui a combattu à ses côtés au Trident, en parle avec respect. Viserys, en exil, reprochait à sa sœur d'être née trop tard : Rhaegar aurait pu l'épouser et n'aurait jamais regardé Lyanna. Kevan Lannister pense, lui, que rien ne serait arrivé si Aerys avait accepté Cersei pour belle-fille.\n\nDans la Maison des Nonmourants, à Qarth, Daenerys voit un prince qui lui ressemble, près d'une femme qui allaite un enfant nommé Aegon. Il parle du prince promis et d'une chanson de glace et de feu, puis ajoute qu'il en faut un de plus, car le dragon a trois têtes. La vision ne dit ni qui est la femme, ni ce que signifie cette troisième tête, et la question reste ouverte à la fin des livres parus.",
+            "en": "Rhaegar's memory divides people. For Robert Baratheon he remained the man who had abducted and raped Lyanna, and Robert was still killing him in his dreams years later. Barristan Selmy, who had fought beside him on the Trident, speaks of him with respect. Viserys, in exile, blamed his sister for being born too late: Rhaegar could have married her and would never have looked at Lyanna. Kevan Lannister, for his part, thinks none of it would have happened if Aerys had accepted Cersei as a daughter-in-law.\n\nIn the House of the Undying at Qarth, Daenerys sees a prince who resembles her, beside a woman nursing a child named Aegon. He speaks of the prince that was promised and of a song of ice and fire, then adds that there must be one more, for the dragon has three heads. The vision does not say who the woman is or what the third head means, and the question remains open at the end of the published books."
+          },
+          "sources": [
+            {
+              "id": "agot",
+              "locator": "Eddard I (ch. 4)"
+            },
+            {
+              "id": "asos",
+              "locator": "Daenerys IV (ch. 42)"
+            },
+            {
+              "id": "adwd",
+              "locator": "Epilogue"
+            },
+            {
+              "id": "acok",
+              "locator": "Daenerys IV (ch. 48)"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p6-lestival",
+        "p7-port-lannis",
+        "p7-rhaegar-elia",
+        "p7-harrenhal-281",
+        "p7-lyanna",
+        "p7-tour-de-la-joie",
+        "p7-trident",
+        "p8-qarth",
+        "tv-p8-jon"
+      ],
+      "warIds": [
+        "rebellion-de-robert"
+      ],
+      "disputed": {
+        "fr": "Les motifs de Rhaegar restent inconnus : enlèvement selon les Stark et Robert, amour partagé selon d'autres témoins, sans que les livres parus tranchent. On ignore s'il voulait vraiment faire de Harrenhal un conseil contre son père. Aucun livre paru n'établit de mariage avec Lyanna ni d'enfant né d'elle.",
+        "en": "Rhaegar's motives remain unknown: abduction according to the Starks and Robert, shared love according to other witnesses, and the published books do not decide. Whether he truly meant Harrenhal to become a council against his father is unknown. No published book establishes a marriage to Lyanna or a child born of her."
+      },
+      "adaptation": {
+        "fr": "Dans Game of Thrones, Rhaegar fait annuler son mariage avec Elia et épouse Lyanna en secret ; leur fils, élevé sous le nom de Jon Snow, s'appellerait en réalité Aegon Targaryen. Rien de cela ne figure dans les livres parus.",
+        "en": "In Game of Thrones Rhaegar has his marriage to Elia annulled and marries Lyanna in secret; their son, raised as Jon Snow, is said to be really named Aegon Targaryen. None of this appears in the published books."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: The Year of the False Spring"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: Robert's Rebellion"
+        },
+        {
+          "id": "agot",
+          "locator": "Eddard XV (ch. 58)"
+        },
+        {
+          "id": "acok",
+          "locator": "Daenerys IV (ch. 48)"
+        },
+        {
+          "id": "asos",
+          "locator": "Daenerys I (ch. 8)"
+        },
+        {
+          "id": "affc",
+          "locator": "Jaime I (ch. 8)"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell IV (ch. 35)"
+        },
+        {
+          "id": "agot",
+          "locator": "Eddard I (ch. 4)"
+        },
+        {
+          "id": "asos",
+          "locator": "Daenerys IV (ch. 42)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Epilogue"
+        },
+        {
+          "id": "got",
+          "locator": "Seasons 6 and 7"
+        }
+      ]
+    },
+    {
+      "personId": "elia-martell",
+      "titles": [
+        {
+          "fr": "Princesse de Dorne",
+          "en": "Princess of Dorne"
+        },
+        {
+          "fr": "Épouse du prince de Peyredragon",
+          "en": "Wife of the Prince of Dragonstone"
+        }
+      ],
+      "lead": {
+        "fr": "Sœur du prince Doran de Dorne et épouse de Rhaegar, Elia Martell fut tuée avec ses deux enfants lors du sac de Port-Réal, en 283 apr. C.",
+        "en": "Sister of Prince Doran of Dorne and wife of Rhaegar, Elia Martell was killed with her two children in the sack of King's Landing in 283 AC."
+      },
+      "sections": [
+        {
+          "id": "elia-martell-dorne",
+          "heading": {
+            "fr": "Une princesse de Dorne",
+            "en": "A Princess of Dorne"
+          },
+          "body": {
+            "fr": "Elia naît vers 256 apr. C., fille de la future princesse de Dorne. Venue au monde un mois avant terme, elle survit contre l'attente de son frère aîné Doran, mais garde toute sa vie une santé fragile. Elle est très proche d'Oberyn, son cadet d'un an.\n\nEn âge d'être mariés, Elia et Oberyn accompagnent leur mère dans un long voyage à travers le royaume, à la recherche de partis. À Villevieille, Elia s'éprend à demi de Baelor Hightower, avant qu'un incident ridicule, qu'Oberyn ne laisse jamais oublier, ne la fasse rire de lui. À Castral Roc, où l'on vient d'apprendre la mort de Joanna Lannister, sa mère propose à Tywin d'unir leurs enfants : Cersei à Oberyn, Jaime à Elia. Tywin répond que sa fille est promise à un prince et offre pour Elia son fils nouveau-né, Tyrion. Les Martell prennent l'offre pour une insulte.",
+            "en": "Elia was born around 256 AC, the daughter of the future Princess of Dorne. Born a month early, she survived against the expectations of her elder brother Doran, but her health remained fragile all her life. She was very close to Oberyn, a year her junior.\n\nWhen they came of age to marry, Elia and Oberyn went with their mother on a long journey through the realm in search of matches. In Oldtown Elia half fell for Baelor Hightower, until a ridiculous incident, which Oberyn never let anyone forget, made her laugh at him instead. At Casterly Rock, where the death of Joanna Lannister had just been learned, her mother proposed to Tywin that their children be joined: Cersei to Oberyn, Jaime to Elia. Tywin replied that his daughter was meant for a prince and offered his newborn son, Tyrion, for Elia. The Martells took the offer as an insult."
+          },
+          "sources": [
+            {
+              "id": "asos",
+              "locator": "Tyrion V (ch. 38)"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            }
+          ]
+        },
+        {
+          "id": "elia-martell-mariage",
+          "heading": {
+            "fr": "L'épouse de Rhaegar",
+            "en": "Rhaegar's Wife"
+          },
+          "body": {
+            "fr": "Faute d'une épouse de sang valyrien, le choix se porte sur Elia. Les fiançailles sont conclues au début de 279 apr. C. et le mariage célébré l'année suivante au Grand Septuaire de Baelor. Le couple s'installe à Peyredragon. Rhaenys naît en 280 apr. C. ; présentée à la cour, l'enfant est accueillie avec chaleur par la reine, tandis qu'Aerys refuse de la toucher et se plaint qu'elle sent le Dornien. Après cette naissance, Elia reste six mois alitée. Aegon, né vers le nouvel an 282 apr. C., manque la tuer, et les mestres déclarent qu'elle ne portera plus d'enfant.\n\nAu tournoi de Harrenhal, en 281 apr. C., elle voit son mari victorieux passer devant elle pour couronner Lyanna Stark. Au début de 282 apr. C., Rhaegar la laisse à Peyredragon avec leur fils et disparaît avec Lyanna. Son frère Doran, furieux de l'affront fait à sa sœur, tarde ensuite à secourir les Targaryen. Les livres ne disent presque rien de ce qu'Elia en pensa elle-même.",
+            "en": "For want of a bride of Valyrian blood, the choice fell on Elia. The betrothal was concluded early in 279 AC and the wedding held the following year in the Great Sept of Baelor. The couple settled on Dragonstone. Rhaenys was born in 280 AC; when the child was presented at court the queen welcomed her warmly, while Aerys refused to touch her and complained that she smelled Dornish. After that birth Elia was bedridden for six months. Aegon, born around the new year of 282 AC, nearly killed her, and the maesters declared that she would bear no more children.\n\nAt the tourney at Harrenhal in 281 AC, she watched her victorious husband ride past her to crown Lyanna Stark. Early in 282 AC Rhaegar left her on Dragonstone with their son and vanished with Lyanna. Her brother Doran, furious at the slight to his sister, was slow afterwards to come to the Targaryens' aid. The books say almost nothing of what Elia herself thought of it."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: The Year of the False Spring"
+            }
+          ]
+        },
+        {
+          "id": "elia-martell-sac",
+          "heading": {
+            "fr": "Le sac de Port-Réal",
+            "en": "The Sack of King's Landing"
+          },
+          "body": {
+            "fr": "Pendant la guerre, Aerys fait venir Elia et ses enfants au Donjon Rouge. Il rappelle sans ménagement au prince Lewyn Martell, oncle d'Elia et chevalier de sa Garde, qu'il les tient en son pouvoir ; Lewyn conduit dix mille Dorniens au Trident et y meurt. Persuadé d'une trahison dornienne, le roi garde Elia et ses enfants en otages quand il envoie la reine à Peyredragon.\n\nEn 283 apr. C., l'armée de Tywin Lannister entre dans Port-Réal. Ser Gregor Clegane et ser Amory Lorch forcent les appartements royaux : Lorch tue Rhaenys, Clegane tue Aegon sous les yeux de sa mère, puis viole Elia et la tue. Tywin dira avoir voulu la mort des enfants pour prouver sa loyauté au nouveau roi, mais non celle d'Elia. Oberyn, qui voit là une vengeance de Tywin, attend dix-sept ans ; à Port-Réal, en 300 apr. C., Gregor avoue le crime devant lui pendant le duel judiciaire qui coûte la vie au prince.",
+            "en": "During the war Aerys had Elia and her children brought to the Red Keep. He reminded Prince Lewyn Martell, Elia's uncle and a knight of his Kingsguard, in blunt terms that he held them in his power; Lewyn led ten thousand Dornishmen to the Trident and died there. Convinced of Dornish treachery, the king kept Elia and her children as hostages when he sent the queen to Dragonstone.\n\nIn 283 AC Tywin Lannister's army entered King's Landing. Ser Gregor Clegane and Ser Amory Lorch broke into the royal apartments: Lorch killed Rhaenys, Clegane killed Aegon before his mother's eyes, then raped Elia and killed her. Tywin would say that he had wanted the children dead to prove his loyalty to the new king, but not Elia. Oberyn, who saw in it Tywin's revenge, waited seventeen years; in King's Landing in 300 AC, Gregor confessed the crime to his face during the trial by combat that cost the prince his life."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: Robert's Rebellion"
+            },
+            {
+              "id": "asos",
+              "locator": "Tyrion VI (ch. 53)"
+            },
+            {
+              "id": "asos",
+              "locator": "Tyrion X (ch. 70)"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p7-rhaegar-elia",
+        "p7-harrenhal-281",
+        "p7-lyanna",
+        "p7-trident",
+        "p7-sac"
+      ],
+      "warIds": [
+        "rebellion-de-robert"
+      ],
+      "disputed": {
+        "fr": "Les histoires officielles, écrites sous les vainqueurs, ne nomment pas les meurtriers ; certaines rumeurs accusent Aerys, d'autres Elia elle-même, qui aurait voulu épargner pire à ses enfants. La part des ordres de Tywin dans la mort d'Elia n'est connue que par ses propres dires. Sa naissance se place vers 256 ou 257 apr. C.",
+        "en": "The official histories, written under the victors, do not name the killers; some rumours blame Aerys, others Elia herself, who supposedly wished to spare her children worse. How far Tywin's orders reached in Elia's death is known only from his own word. Her birth falls around 256 or 257 AC."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: The Year of the False Spring"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: Robert's Rebellion"
+        },
+        {
+          "id": "asos",
+          "locator": "Tyrion V (ch. 38)"
+        },
+        {
+          "id": "asos",
+          "locator": "Tyrion VI (ch. 53)"
+        },
+        {
+          "id": "asos",
+          "locator": "Tyrion X (ch. 70)"
+        }
+      ]
+    },
+    {
+      "personId": "rhaenys-fille-rhaegar",
+      "titles": [
+        {
+          "fr": "Princesse de la maison Targaryen",
+          "en": "Princess of House Targaryen"
+        }
+      ],
+      "lead": {
+        "fr": "Fille aînée de Rhaegar et d'Elia Martell, Rhaenys naquit à Peyredragon en 280 apr. C. et fut tuée à trois ans lors du sac de Port-Réal.",
+        "en": "The elder child of Rhaegar and Elia Martell, Rhaenys was born on Dragonstone in 280 AC and was killed at the age of three in the sack of King's Landing."
+      },
+      "sections": [
+        {
+          "id": "rhaenys-fille-rhaegar-naissance",
+          "heading": {
+            "fr": "Une enfant de Peyredragon",
+            "en": "A Child of Dragonstone"
+          },
+          "body": {
+            "fr": "Rhaenys naît à Peyredragon en 280 apr. C., premier enfant du prince Rhaegar et de la princesse Elia, mariés la même année. Son prénom est celui de l'une des deux reines d'Aegon le Conquérant. Sa naissance laisse sa mère alitée pendant six mois. Quand son père la présente à la cour, la reine Rhaella la prend dans ses bras avec tendresse ; le roi Aerys refuse de la toucher et déclare qu'elle sent le Dornien. Le mot dit assez la méfiance du roi envers son fils et envers l'alliance dornienne qu'il a pourtant lui-même conclue.\n\nOn sait peu de chose de sa brève enfance. Elle avait un petit chat noir qu'elle appelait Balerion, du nom du dragon du Conquérant, et elle aimait faire comme s'il était le vrai Balerion, la Terreur noire d'autrefois. Varys, qui raconte ce détail à Eddard Stark quinze ans plus tard, ajoute qu'il s'est souvent demandé ce qu'était devenu l'animal.",
+            "en": "Rhaenys was born on Dragonstone in 280 AC, the first child of Prince Rhaegar and Princess Elia, who had married that same year. Her name was that of one of the two queens of Aegon the Conqueror. Her birth left her mother bedridden for six months. When her father presented her at court, Queen Rhaella took her tenderly in her arms; King Aerys refused to touch her and declared that she smelled Dornish. The remark says enough about the king's distrust of his son and of the Dornish alliance he had nonetheless made himself.\n\nLittle is known of her brief childhood. She had a small black kitten that she called Balerion, after the Conqueror's dragon, and she liked to pretend it was the real Balerion, the Black Dread of old. Varys, who tells Eddard Stark of this fifteen years later, adds that he has often wondered what became of the animal."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            },
+            {
+              "id": "agot",
+              "locator": "Eddard XV (ch. 58)"
+            }
+          ]
+        },
+        {
+          "id": "rhaenys-fille-rhaegar-otage",
+          "heading": {
+            "fr": "Otage du roi",
+            "en": "The King's Hostage"
+          },
+          "body": {
+            "fr": "Au début de 282 apr. C., son père quitte Peyredragon et disparaît avec Lyanna Stark ; la guerre éclate peu après. Aerys fait venir Elia et ses deux enfants au Donjon Rouge et se sert d'eux pour s'assurer la fidélité de Dorne. Il le rappelle sans détour au prince Lewyn Martell, grand-oncle de Rhaenys et chevalier de sa Garde, qui part pour le Trident à la tête des Dorniens. Lewyn et Rhaegar y meurent tous deux en 283 apr. C.\n\nPersuadé que les Dorniens l'ont trahi, le roi refuse de laisser partir Elia et les enfants quand il envoie la reine et le prince Viserys à Peyredragon. Rhaegar avait confié la sécurité des siens à Jaime Lannister, le seul chevalier de la Garde resté en ville. Jaime ne croit pas que son père, dont l'armée approche, puisse s'en prendre à une femme et à deux enfants en bas âge.",
+            "en": "Early in 282 AC her father left Dragonstone and vanished with Lyanna Stark; war broke out soon after. Aerys had Elia and her two children brought to the Red Keep and used them to make sure of Dorne's loyalty. He said as much, bluntly, to Prince Lewyn Martell, Rhaenys's great-uncle and a knight of his Kingsguard, who left for the Trident at the head of the Dornishmen. Lewyn and Rhaegar both died there in 283 AC.\n\nConvinced that the Dornish had betrayed him, the king refused to let Elia and the children go when he sent the queen and Prince Viserys to Dragonstone. Rhaegar had entrusted the safety of his family to Jaime Lannister, the only knight of the Kingsguard left in the city. Jaime did not believe that his father, whose army was approaching, could harm a woman and two small children."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: Robert's Rebellion"
+            },
+            {
+              "id": "asos",
+              "locator": "Jaime II (ch. 11)"
+            }
+          ]
+        },
+        {
+          "id": "rhaenys-fille-rhaegar-mort",
+          "heading": {
+            "fr": "Le sac",
+            "en": "The Sack"
+          },
+          "body": {
+            "fr": "Pendant le sac de Port-Réal, tandis que Jaime tue le roi dans la salle du trône, ser Gregor Clegane et ser Amory Lorch escaladent les murs des appartements royaux. Rhaenys s'est cachée sous le lit de son père, un étage au-dessus de la chambre où se trouvent sa mère et son frère. Lorch la découvre et la tue de plusieurs dizaines de coups. Il apporte le corps à Tywin Lannister, qui lui reprochera plus tard sa brutalité : quelques paroles douces et un oreiller auraient suffi, dira-t-il à son fils Tyrion.\n\nTywin dépose les corps des enfants au pied du Trône de Fer, enveloppés dans les manteaux écarlates de sa garde pour dissimuler le sang. Robert y voit des rejetons de dragon et ne cache pas son soulagement ; Eddard Stark parle de meurtre et quitte la ville après une querelle avec lui. Thoros de Myr, qui a vu les corps, dira que la maison Clegane s'est bâtie sur des enfants morts.",
+            "en": "During the sack of King's Landing, while Jaime was killing the king in the throne room, Ser Gregor Clegane and Ser Amory Lorch climbed the walls of the royal apartments. Rhaenys had hidden under her father's bed, a floor above the room where her mother and brother were. Lorch found her and killed her with dozens of blows. He brought the body to Tywin Lannister, who would later reproach him for his brutality: a few soft words and a pillow would have been enough, he told his son Tyrion.\n\nTywin laid the children's bodies at the foot of the Iron Throne, wrapped in the crimson cloaks of his guards to hide the blood. Robert saw dragonspawn and did not hide his relief; Eddard Stark spoke of murder and left the city after quarrelling with him. Thoros of Myr, who saw the bodies, would say that House Clegane had been built on dead children."
+          },
+          "sources": [
+            {
+              "id": "asos",
+              "locator": "Tyrion VI (ch. 53)"
+            },
+            {
+              "id": "agot",
+              "locator": "Eddard II (ch. 12)"
+            },
+            {
+              "id": "asos",
+              "locator": "Arya VI (ch. 34)"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p7-rhaegar-elia",
+        "p7-lyanna",
+        "p7-sac"
+      ],
+      "warIds": [
+        "rebellion-de-robert"
+      ],
+      "disputed": {
+        "fr": "Les histoires officielles écrites sous Robert ne nomment pas ses meurtriers et rapportent des rumeurs accusant Aerys, ou même Elia. Les témoignages de Tywin, de Tyrion et d'Eddard Stark désignent Amory Lorch ; Tywin reconnaît avoir voulu la mort des enfants, sans en avoir réglé la manière.",
+        "en": "The official histories written under Robert do not name her killers and repeat rumours that blame Aerys, or even Elia. The accounts of Tywin, Tyrion and Eddard Stark point to Amory Lorch; Tywin admits to having wanted the children dead, without having settled how."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: Robert's Rebellion"
+        },
+        {
+          "id": "agot",
+          "locator": "Eddard II (ch. 12)"
+        },
+        {
+          "id": "agot",
+          "locator": "Eddard XV (ch. 58)"
+        },
+        {
+          "id": "asos",
+          "locator": "Jaime II (ch. 11)"
+        },
+        {
+          "id": "asos",
+          "locator": "Arya VI (ch. 34)"
+        },
+        {
+          "id": "asos",
+          "locator": "Tyrion VI (ch. 53)"
+        }
+      ]
+    },
+    {
+      "personId": "aegon-fils-rhaegar",
+      "titles": [
+        {
+          "fr": "Prince de la maison Targaryen",
+          "en": "Prince of House Targaryen"
+        }
+      ],
+      "lead": {
+        "fr": "Fils de Rhaegar et d'Elia Martell, Aegon fut tué au berceau lors du sac de Port-Réal selon la version reçue ; en 300 apr. C., un jeune homme qui affirme être lui débarque en Westeros.",
+        "en": "The son of Rhaegar and Elia Martell, Aegon was killed in his cradle during the sack of King's Landing according to the accepted account; in 300 AC a young man claiming to be him lands in Westeros."
+      },
+      "sections": [
+        {
+          "id": "aegon-fils-rhaegar-naissance",
+          "heading": {
+            "fr": "Le prince d'une comète",
+            "en": "The Prince of a Comet"
+          },
+          "body": {
+            "fr": "Aegon naît à Peyredragon à la fin de 281 ou au début de 282 apr. C., second enfant de Rhaegar et d'Elia. L'accouchement manque coûter la vie à sa mère, et les mestres annoncent qu'elle n'en aura pas d'autre. Une comète a été vue au-dessus de Port-Réal la nuit où l'enfant fut conçu ; Rhaegar y lit l'étoile sanglante d'une prophétie et se convainc que son fils est le prince promis. Mestre Aemon, à qui il écrit, connaît cette conviction, sans qu'on sache s'il la partagea.\n\nQuelques mois après la naissance, Rhaegar laisse sa femme et son fils à Peyredragon et part avec six compagnons ; il disparaît bientôt avec Lyanna Stark. La guerre qui s'ensuit fait de l'enfant un otage. Aerys le fait venir au Donjon Rouge avec sa mère et sa sœur, pour garantir la fidélité des Dorniens envoyés combattre aux côtés de Rhaegar.",
+            "en": "Aegon was born on Dragonstone at the end of 281 or the beginning of 282 AC, the second child of Rhaegar and Elia. The birth nearly cost his mother her life, and the maesters said she would have no other. A comet had been seen over King's Landing on the night the child was conceived; Rhaegar read in it the bleeding star of a prophecy and became convinced that his son was the prince that was promised. Maester Aemon, to whom he wrote, knew of this conviction, though whether he shared it is unknown.\n\nA few months after the birth, Rhaegar left his wife and son on Dragonstone and rode off with six companions; soon he vanished with Lyanna Stark. The war that followed made the child a hostage. Aerys had him brought to the Red Keep with his mother and sister, to guarantee the loyalty of the Dornishmen sent to fight beside Rhaegar."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: The Year of the False Spring"
+            },
+            {
+              "id": "affc",
+              "locator": "Samwell IV (ch. 35)"
+            }
+          ]
+        },
+        {
+          "id": "aegon-fils-rhaegar-sac",
+          "heading": {
+            "fr": "Le sac de Port-Réal",
+            "en": "The Sack of King's Landing"
+          },
+          "body": {
+            "fr": "Après la mort de Rhaegar au Trident, en 283 apr. C., Aerys désigne Viserys pour héritier à la place de son petit-fils et refuse de laisser partir Elia et ses enfants pour Peyredragon. Quand l'armée de Tywin Lannister entre dans la ville, ser Gregor Clegane pénètre dans la chambre où se trouvent la princesse et son fils. Il arrache l'enfant à sa mère, lui fracasse la tête contre le mur, puis s'en prend à Elia.\n\nTywin fait déposer les corps au pied du Trône de Fer, enveloppés dans les manteaux rouges de sa garde. Celui d'Aegon est méconnaissable : Eddard Stark garde le souvenir d'un crâne détruit, Kevan Lannister celui de quelques mèches claires au milieu d'un amas de chair et d'os. Robert, soulagé, refuse de pleurer des rejetons de dragon ; Eddard parle de meurtre. La mort du petit prince nourrit pendant dix-sept ans la haine des Martell envers les Lannister.",
+            "en": "After Rhaegar's death on the Trident in 283 AC, Aerys named Viserys his heir in place of his grandson and refused to let Elia and her children leave for Dragonstone. When Tywin Lannister's army entered the city, Ser Gregor Clegane forced his way into the room where the princess and her son were. He tore the child from his mother, dashed his head against the wall, and then turned on Elia.\n\nTywin had the bodies laid at the foot of the Iron Throne, wrapped in the red cloaks of his guards. Aegon's was unrecognisable: Eddard Stark remembered a shattered skull, Kevan Lannister a few pale strands of hair amid a mass of flesh and bone. Robert, relieved, refused to mourn dragonspawn; Eddard spoke of murder. The little prince's death fed the Martells' hatred of the Lannisters for seventeen years."
+          },
+          "sources": [
+            {
+              "id": "agot",
+              "locator": "Eddard II (ch. 12)"
+            },
+            {
+              "id": "asos",
+              "locator": "Tyrion VI (ch. 53)"
+            },
+            {
+              "id": "adwd",
+              "locator": "Epilogue"
+            }
+          ]
+        },
+        {
+          "id": "aegon-fils-rhaegar-griff",
+          "heading": {
+            "fr": "Griff le Jeune",
+            "en": "Young Griff"
+          },
+          "body": {
+            "fr": "En 300 apr. C., un jeune homme élevé sous le nom de Griff le Jeune par Jon Connington, l'ancienne Main exilée, se présente comme Aegon, fils de Rhaegar. Selon ses protecteurs, Varys aurait substitué au prince, avant le sac, l'enfant d'un tanneur de Port-Réal, puis fait élever le vrai prince en secret dans les cités libres, avec l'appui du magistrat Illyrio Mopatis. Renonçant à rejoindre Daenerys, le jeune homme débarque dans les terres de l'Orage avec la Compagnie Dorée et s'empare du château ancestral des Connington.\n\nVarys répète cette version à Kevan Lannister avant de le tuer. Elle repose pourtant sur la parole de trois hommes, Varys, Illyrio et Connington, qui ont tous intérêt à ce qu'on la croie. Les livres parus ne disent pas si le prétendant est bien le fils de Rhaegar, ni qui était l'enfant tué en 283 apr. C.",
+            "en": "In 300 AC a young man raised under the name of Young Griff by Jon Connington, the exiled former Hand, came forward as Aegon, son of Rhaegar. According to his protectors, Varys had put a tanner's child from King's Landing in the prince's place before the sack, then had the real prince raised in secret in the Free Cities with the help of the magister Illyrio Mopatis. Giving up the plan to join Daenerys, the young man landed in the stormlands with the Golden Company and took the ancestral seat of the Conningtons.\n\nVarys repeats this account to Kevan Lannister before killing him. Yet it rests on the word of three men, Varys, Illyrio and Connington, all of whom have reason to want it believed. The published books do not say whether the claimant is truly Rhaegar's son, nor who the child killed in 283 AC was."
+          },
+          "sources": [
+            {
+              "id": "adwd",
+              "locator": "The Lost Lord (ch. 24)"
+            },
+            {
+              "id": "adwd",
+              "locator": "The Griffin Reborn (ch. 61)"
+            },
+            {
+              "id": "adwd",
+              "locator": "Epilogue"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p7-rhaegar-elia",
+        "p7-lyanna",
+        "p7-sac",
+        "p8-jeune-griff"
+      ],
+      "warIds": [
+        "rebellion-de-robert"
+      ],
+      "disputed": {
+        "fr": "Deux versions s'opposent. Selon la version reçue, Aegon fut tué en 283 apr. C. ; selon Varys, Illyrio et Jon Connington, l'enfant tué était un substitut et le prince a survécu sous le nom de Griff le Jeune. Les livres parus ne tranchent pas. Sa naissance se place à la fin de 281 ou au début de 282 apr. C.",
+        "en": "Two accounts conflict. According to the accepted version, Aegon was killed in 283 AC; according to Varys, Illyrio and Jon Connington, the murdered child was a substitute and the prince survived as Young Griff. The published books do not decide. His birth falls at the end of 281 or the beginning of 282 AC."
+      },
+      "adaptation": {
+        "fr": "La série Game of Thrones ne montre pas Griff le Jeune ; elle donne en revanche le nom d'Aegon Targaryen au fils qu'elle prête à Rhaegar et à Lyanna Stark.",
+        "en": "The Game of Thrones series does not show Young Griff; instead it gives the name Aegon Targaryen to the son it attributes to Rhaegar and Lyanna Stark."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: The Year of the False Spring"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: Robert's Rebellion"
+        },
+        {
+          "id": "agot",
+          "locator": "Eddard II (ch. 12)"
+        },
+        {
+          "id": "asos",
+          "locator": "Tyrion VI (ch. 53)"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell IV (ch. 35)"
+        },
+        {
+          "id": "adwd",
+          "locator": "The Lost Lord (ch. 24)"
+        },
+        {
+          "id": "adwd",
+          "locator": "The Griffin Reborn (ch. 61)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Epilogue"
+        },
+        {
+          "id": "got",
+          "locator": "Seasons 7 and 8"
+        }
+      ]
+    },
+    {
+      "personId": "viserys-fils-aerys-ii",
+      "titles": [
+        {
+          "fr": "Prétendant au Trône de Fer sous le nom de Viserys III",
+          "en": "Claimant to the Iron Throne as Viserys III"
+        },
+        {
+          "fr": "Prince de la maison Targaryen",
+          "en": "Prince of House Targaryen"
+        }
+      ],
+      "lead": {
+        "fr": "Fils cadet d'Aerys II, Viserys passa sa vie en exil à réclamer le trône sous le nom de Viserys III et mourut en 298 apr. C. à Vaes Dothrak, couronné d'or fondu par le khal Drogo.",
+        "en": "The younger son of Aerys II, Viserys spent his life in exile claiming the throne as Viserys III and died in 298 AC at Vaes Dothrak, crowned with molten gold by Khal Drogo."
+      },
+      "sections": [
+        {
+          "id": "viserys-fils-aerys-ii-enfance",
+          "heading": {
+            "fr": "Un enfant gardé de près",
+            "en": "A Closely Guarded Child"
+          },
+          "body": {
+            "fr": "Viserys naît à Port-Réal en 276 apr. C., premier enfant d'Aerys II et de Rhaella à survivre depuis Rhaegar, dix-sept ans plus tôt. Le roi, qui a vu mourir trop de fils, le fait garder jour et nuit par la Garde Royale, interdit à la reine de rester seule avec lui, fait brûler les présents envoyés par les seigneurs et exige que son goûteur tète la nourrice. La même année, Tywin Lannister donne en son honneur un tournoi à Port-Lannis, où ni la mère ni l'enfant ne paraissent.\n\nAerys ne le laisse pas assister aux noces de Rhaegar en 280 apr. C. Dans les années qui suivent, on murmure, jusque parmi les gens du roi, qu'Aerys songe à déshériter son aîné au profit de son cadet. Rhaella fait ce qu'elle peut pour tenir l'enfant à l'écart de la folie de son père ; Barristan Selmy croit pourtant reconnaître chez lui, plus tard, les mêmes signes.",
+            "en": "Viserys was born in King's Landing in 276 AC, the first child of Aerys II and Rhaella to survive since Rhaegar, seventeen years earlier. The king, who had seen too many sons die, had him guarded day and night by the Kingsguard, forbade the queen to be alone with him, had the gifts sent by the lords burned, and made his food taster suckle at the wet nurse's breast. That same year Tywin Lannister held a tourney in his honour at Lannisport, at which neither mother nor child appeared.\n\nAerys did not allow him to attend Rhaegar's wedding in 280 AC. In the years that followed it was whispered, even among the king's own men, that Aerys meant to disinherit his elder son in favour of the younger. Rhaella did what she could to keep the boy away from his father's madness; Barristan Selmy nevertheless believed he later saw the same signs in him."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            },
+            {
+              "id": "adwd",
+              "locator": "Daenerys IV (ch. 23)"
+            }
+          ]
+        },
+        {
+          "id": "viserys-fils-aerys-ii-exil",
+          "heading": {
+            "fr": "La maison à la porte rouge",
+            "en": "The House with the Red Door"
+          },
+          "body": {
+            "fr": "À la mort de Rhaegar au Trident, en 283 apr. C., le roi fait de Viserys son héritier, écartant le petit Aegon, et l'envoie avec la reine à Peyredragon. Quand parvient la nouvelle du sac de Port-Réal, les fidèles de l'île le proclament roi. Rhaella meurt l'année suivante en donnant naissance à Daenerys. La garnison s'apprête à livrer les enfants à Stannis Baratheon quand ser Willem Darry et quatre hommes sûrs les emmènent à Braavos.\n\nIls y vivent dans une maison à la porte rouge, sous la protection du vieux chevalier. Darry signe alors en secret, avec le prince Oberyn Martell et devant le Seigneur de la Mer de Braavos, un pacte qui promet à Viserys la main d'Arianne, fille du prince de Dorne, et l'appui de Dorne pour reconquérir le trône. Viserys, trop jeune, n'en est pas informé et ne le sera jamais. Willem Darry meurt quelques années plus tard ; les domestiques volent ce qui reste d'argent, et les enfants sont mis à la porte.",
+            "en": "When Rhaegar died on the Trident in 283 AC, the king made Viserys his heir, passing over little Aegon, and sent him with the queen to Dragonstone. When news of the sack of King's Landing arrived, the loyalists on the island proclaimed him king. Rhaella died the following year giving birth to Daenerys. The garrison was preparing to hand the children over to Stannis Baratheon when Ser Willem Darry and four trusted men carried them off to Braavos.\n\nThere they lived in a house with a red door under the old knight's protection. Darry then secretly signed, with Prince Oberyn Martell and before the Sealord of Braavos, a pact that promised Viserys the hand of Arianne, daughter of the Prince of Dorne, and Dorne's help in winning back the throne. Viserys, too young, was not told of it and never would be. Willem Darry died a few years later; the servants stole what money was left, and the children were turned out."
+          },
+          "sources": [
+            {
+              "id": "agot",
+              "locator": "Daenerys I (ch. 3)"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: The End"
+            },
+            {
+              "id": "affc",
+              "locator": "Princess In The Tower (ch. 40)"
+            }
+          ]
+        },
+        {
+          "id": "viserys-fils-aerys-ii-errance",
+          "heading": {
+            "fr": "Le Roi Gueux",
+            "en": "The Beggar King"
+          },
+          "body": {
+            "fr": "Commence une longue errance de cité libre en cité libre : Myr, Tyrosh, Qohor, Volantis, Lys. Viserys est d'abord reçu par des hommes puissants, puis toléré, puis éconduit. Persuadé que les assassins de l'Usurpateur le suivent, il ne s'attarde nulle part. Il vend un à un les derniers biens de la famille ; quand il doit céder la couronne de sa mère, il ne lui reste que la colère. On l'appelle le Roi Gueux. Il festoie un jour les capitaines de la Compagnie Dorée pour les gagner à sa cause : ils mangent, écoutent et se moquent de lui.\n\nIl apprend à sa sœur l'histoire de leur maison et de Westeros, mais il la rend responsable de la mort de leur mère, la frappe et la menace dès qu'elle lui déplaît, en l'avertissant de ne pas « réveiller le dragon ». Vers 297 apr. C., le magistrat Illyrio Mopatis les accueille à Pentos et promet de l'aider à reconquérir le trône.",
+            "en": "A long wandering began, from one Free City to the next: Myr, Tyrosh, Qohor, Volantis, Lys. Viserys was at first received by powerful men, then tolerated, then turned away. Convinced that the Usurper's assassins were following him, he stayed nowhere for long. He sold the family's last possessions one by one; when he had to part with his mother's crown, nothing was left to him but rage. He was called the Beggar King. Once he feasted the captains of the Golden Company to win them to his cause: they ate, listened and laughed at him.\n\nHe taught his sister the history of their house and of Westeros, but he blamed her for their mother's death, struck her and threatened her whenever she displeased him, warning her not to “wake the dragon”. Around 297 AC the magister Illyrio Mopatis took them in at Pentos and promised to help him win back the throne."
+          },
+          "sources": [
+            {
+              "id": "agot",
+              "locator": "Daenerys I (ch. 3)"
+            },
+            {
+              "id": "adwd",
+              "locator": "Tyrion II (ch. 5)"
+            }
+          ]
+        },
+        {
+          "id": "viserys-fils-aerys-ii-mort",
+          "heading": {
+            "fr": "Une couronne d'or",
+            "en": "A Crown of Gold"
+          },
+          "body": {
+            "fr": "Illyrio arrange le mariage de Daenerys avec le khal Drogo, et Viserys compte en échange sur une armée dothrak pour reprendre les Sept Couronnes. Il suit le khalasar, mais le khal ne montre aucune hâte, et Viserys supporte mal de voir sa sœur gagner l'estime des Dothraki pendant qu'il perd la sienne. Le jour où il la frappe devant eux, elle le fait ramener au camp à pied, humiliation qu'il ne lui pardonne pas.\n\nÀ Vaes Dothrak, la cité sainte où nul ne doit verser le sang, Viserys, ivre, tire l'épée pendant un festin, menace Daenerys, enceinte, et exige la couronne qu'on lui a promise. Drogo la lui accorde : il fait fondre les médaillons d'or de sa ceinture et les lui verse sur la tête. Viserys meurt en 298 apr. C., à vingt-deux ans. Daenerys, témoin de sa mort, en conclut que son frère n'avait jamais eu du dragon que le nom.",
+            "en": "Illyrio arranged Daenerys's marriage to Khal Drogo, and in return Viserys counted on a Dothraki army to retake the Seven Kingdoms. He followed the khalasar, but the khal showed no haste, and Viserys could not bear to see his sister win the Dothraki's esteem while he lost his own. The day he struck her in front of them, she had him brought back to camp on foot, a humiliation he never forgave.\n\nAt Vaes Dothrak, the holy city where no blood may be shed, a drunken Viserys drew his sword at a feast, threatened the pregnant Daenerys and demanded the crown he had been promised. Drogo granted it: he had the gold medallions of his belt melted and poured over his head. Viserys died in 298 AC, aged twenty-two. Daenerys, who witnessed his death, concluded that her brother had never been a dragon in anything but name."
+          },
+          "sources": [
+            {
+              "id": "agot",
+              "locator": "Daenerys II (ch. 11)"
+            },
+            {
+              "id": "agot",
+              "locator": "Daenerys III (ch. 23)"
+            },
+            {
+              "id": "agot",
+              "locator": "Daenerys V (ch. 46)"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p7-port-lannis",
+        "p7-sac",
+        "p7-naissance-daenerys",
+        "p7-exil",
+        "p8-noces-oeufs",
+        "p8-mort-viserys"
+      ],
+      "warIds": [
+        "rebellion-de-robert"
+      ],
+      "disputed": {
+        "fr": "Le pacte secret avec Dorne n'est connu que par ce qu'en disent, bien après sa mort, Doran Martell à sa fille et Quentyn Martell à Daenerys. L'idée qu'il avait hérité la folie de son père est une opinion de Barristan Selmy, non un fait établi. L'année de son installation à Pentos est approximative.",
+        "en": "The secret pact with Dorne is known only from what Doran Martell tells his daughter and Quentyn Martell tells Daenerys, long after his death. The idea that he had inherited his father's madness is Barristan Selmy's opinion, not an established fact. The year he settled in Pentos is approximate."
+      },
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Fall of the Dragons: The End"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys I (ch. 3)"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys II (ch. 11)"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys III (ch. 23)"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys V (ch. 46)"
+        },
+        {
+          "id": "affc",
+          "locator": "Princess In The Tower (ch. 40)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys IV (ch. 23)"
+        }
+      ]
+    },
+    {
+      "personId": "daenerys-fille-aerys-ii",
+      "titles": [
+        {
+          "fr": "Reine de Meereen",
+          "en": "Queen of Meereen"
+        },
+        {
+          "fr": "Prétendante au Trône de Fer",
+          "en": "Claimant to the Iron Throne"
+        },
+        {
+          "fr": "Khaleesi",
+          "en": "Khaleesi"
+        },
+        {
+          "fr": "Mère des dragons",
+          "en": "Mother of Dragons"
+        }
+      ],
+      "lead": {
+        "fr": "Dernière enfant d'Aerys II, née après la chute de sa maison, Daenerys fit naître les premiers dragons connus depuis plus d'un siècle et régna sur Meereen ; à la fin des livres parus, elle se trouve dans la mer Dothrak avec Drogon.",
+        "en": "The last child of Aerys II, born after the fall of her house, Daenerys brought forth the first dragons known in more than a century and ruled Meereen; at the end of the published books she is in the Dothraki sea with Drogon."
+      },
+      "sections": [
+        {
+          "id": "daenerys-fille-aerys-ii-enfance",
+          "heading": {
+            "fr": "Née du typhon",
+            "en": "Born in the Storm"
+          },
+          "body": {
+            "fr": "Daenerys naît à Peyredragon en 284 apr. C., quelques mois après la mort de son père, pendant une tempête qui détruit ce qui reste de la flotte royale ; sa mère meurt en la mettant au monde. On l'appellera Daenerys du Typhon. Ser Willem Darry l'emmène avec son frère Viserys à Braavos avant que la garnison ne les livre. Elle gardera le souvenir d'une maison à la porte rouge et d'un citronnier sous sa fenêtre, seules années paisibles de son enfance.\n\nAprès la mort du vieux chevalier, les deux enfants errent de cité en cité. Viserys lui enseigne la grandeur de leur maison et la frappe à la moindre contrariété. Elle grandit dans la crainte de son frère, persuadée qu'elle l'épousera un jour, comme le veut la vieille coutume des Targaryen. Vers 297 apr. C., le magistrat Illyrio Mopatis les recueille à Pentos.",
+            "en": "Daenerys was born on Dragonstone in 284 AC, a few months after her father's death, during a storm that wrecked what remained of the royal fleet; her mother died bringing her into the world. She would be called Daenerys Stormborn. Ser Willem Darry carried her and her brother Viserys off to Braavos before the garrison could give them up. She would remember a house with a red door and a lemon tree beneath her window, the only peaceful years of her childhood.\n\nAfter the old knight died, the two children wandered from city to city. Viserys taught her the greatness of their house and struck her at the least annoyance. She grew up in fear of her brother, convinced that she would marry him one day, as the old Targaryen custom required. Around 297 AC the magister Illyrio Mopatis took them in at Pentos."
+          },
+          "sources": [
+            {
+              "id": "agot",
+              "locator": "Daenerys I (ch. 3)"
+            }
+          ]
+        },
+        {
+          "id": "daenerys-fille-aerys-ii-drogo",
+          "heading": {
+            "fr": "Khaleesi",
+            "en": "Khaleesi"
+          },
+          "body": {
+            "fr": "Viserys vend la main de sa sœur au khal Drogo contre la promesse d'une armée. Aux noces, célébrées hors des murs de Pentos, Illyrio offre à la mariée trois œufs de dragon changés en pierre par les siècles ; ser Jorah Mormont, chevalier exilé, lui donne des livres. D'abord terrifiée, Daenerys apprend la langue et les usages des Dothraki, gagne l'amour de son époux et le respect du khalasar, tandis que son frère perd le sien. À Vaes Dothrak, elle voit Drogo couronner Viserys d'or fondu.\n\nQuand un marchand de vin tente de l'empoisonner pour gagner la récompense promise par Robert Baratheon, Drogo jure de conquérir les Sept Couronnes pour leur fils. Peu après, une blessure mal soignée l'abat. Pour le sauver, Daenerys accepte la magie de sang de Mirri Maz Duur. Le sortilège lui coûte l'enfant qu'elle porte, Rhaego, mort-né, et ne rend à Drogo que la vie sans l'esprit. Elle l'étouffe sous un coussin.",
+            "en": "Viserys sold his sister's hand to Khal Drogo for the promise of an army. At the wedding, held outside the walls of Pentos, Illyrio gave the bride three dragon's eggs turned to stone by the centuries; Ser Jorah Mormont, an exiled knight, gave her books. Terrified at first, Daenerys learned the language and customs of the Dothraki and won her husband's love and the khalasar's respect, while her brother lost his. At Vaes Dothrak she watched Drogo crown Viserys with molten gold.\n\nWhen a wine seller tried to poison her to earn the reward offered by Robert Baratheon, Drogo swore to conquer the Seven Kingdoms for their son. Soon afterwards a badly tended wound brought him down. To save him, Daenerys accepted the blood magic of Mirri Maz Duur. The spell cost her the child she carried, Rhaego, stillborn, and gave Drogo back only life without mind. She smothered him with a cushion."
+          },
+          "sources": [
+            {
+              "id": "agot",
+              "locator": "Daenerys II (ch. 11)"
+            },
+            {
+              "id": "agot",
+              "locator": "Daenerys V (ch. 46)"
+            },
+            {
+              "id": "agot",
+              "locator": "Daenerys VII (ch. 61)"
+            },
+            {
+              "id": "agot",
+              "locator": "Daenerys IX (ch. 68)"
+            }
+          ]
+        },
+        {
+          "id": "daenerys-fille-aerys-ii-dragons",
+          "heading": {
+            "fr": "Le bûcher et les dragons",
+            "en": "The Pyre and the Dragons"
+          },
+          "body": {
+            "fr": "Daenerys fait dresser le bûcher funèbre de Drogo, y place ses trois œufs et y fait lier la sorcière. Au passage d'une comète rouge, elle entre dans les flammes. Au matin, on la retrouve vivante dans les cendres, avec trois dragons accrochés à elle. Elle les nomme Drogon, d'après son époux, Rhaegal et Viserion, d'après ses frères. Ce sont les premiers dragons connus depuis la mort du dernier, sous le règne d'Aegon III.\n\nAvec les restes du khalasar, elle traverse le désert rouge, puis gagne Qarth, où chacun convoite ses dragons. Dans la Maison des Nonmourants, elle voit une suite de visions, dont son frère Rhaegar parlant d'un prince promis et d'un dragon à trois têtes ; les Nonmourants lui annoncent qu'elle connaîtra trois trahisons. Drogon met le feu au palais des conjurateurs. Sur les quais, deux inconnus envoyés par Illyrio, un vieil écuyer nommé Arstan Barbe-Blanche et un colosse, entrent à son service.",
+            "en": "Daenerys had Drogo's funeral pyre built, placed her three eggs on it and had the witch bound to it. As a red comet passed, she walked into the flames. In the morning she was found alive in the ashes, three dragons clinging to her. She named them Drogon, after her husband, and Rhaegal and Viserion, after her brothers. They were the first dragons known since the death of the last one, in the reign of Aegon III.\n\nWith what was left of the khalasar she crossed the red waste and reached Qarth, where everyone coveted her dragons. In the House of the Undying she saw a series of visions, among them her brother Rhaegar speaking of a prince that was promised and of a dragon with three heads; the Undying told her she would know three treasons. Drogon set the warlocks' palace on fire. On the docks two strangers sent by Illyrio, an old squire called Arstan Whitebeard and a giant of a man, entered her service."
+          },
+          "sources": [
+            {
+              "id": "agot",
+              "locator": "Daenerys X (ch. 72)"
+            },
+            {
+              "id": "acok",
+              "locator": "Daenerys IV (ch. 48)"
+            },
+            {
+              "id": "acok",
+              "locator": "Daenerys V (ch. 63)"
+            }
+          ]
+        },
+        {
+          "id": "daenerys-fille-aerys-ii-baie",
+          "heading": {
+            "fr": "La baie des Serfs",
+            "en": "Slaver's Bay"
+          },
+          "body": {
+            "fr": "À Astapor, Daenerys achète l'armée entière des Immaculés en offrant Drogon en paiement. Le marché conclu, elle ordonne au dragon de brûler le marchand et aux soldats de tuer leurs maîtres, puis elle les affranchit. Yunkai se rend, Meereen tombe par ses égouts. Elle apprend alors que Jorah Mormont l'a espionnée pour Robert et le chasse, et que le vieil écuyer de sa garde n'est autre que ser Barristan Selmy. Plutôt que de partir pour Westeros en laissant derrière elle des cités livrées au désordre, elle choisit de rester et de régner à Meereen.\n\nLe règne est rude. Une société secrète, les Fils de la Harpie, assassine ses affranchis. Accusé d'avoir tué une enfant, Drogon échappe à la capture, tandis que Daenerys fait enchaîner Rhaegal et Viserion sous la Grande Pyramide. Pour obtenir la paix, elle épouse un noble meereenien, Hizdahr zo Loraq, et laisse rouvrir les arènes, tout en gardant pour amant le capitaine mercenaire Daario Naharis.",
+            "en": "At Astapor Daenerys bought the whole army of the Unsullied by offering Drogon in payment. Once the bargain was struck, she ordered the dragon to burn the slaver and the soldiers to kill their masters, then freed them. Yunkai surrendered, Meereen fell through its sewers. She then learned that Jorah Mormont had spied on her for Robert and sent him away, and that the old squire of her guard was none other than Ser Barristan Selmy. Rather than leave for Westeros with cities in disorder behind her, she chose to stay and rule in Meereen.\n\nHer rule was hard. A secret society, the Sons of the Harpy, murdered her freedmen. Accused of killing a child, Drogon escaped capture, while Daenerys had Rhaegal and Viserion chained beneath the Great Pyramid. To win peace she married a Meereenese noble, Hizdahr zo Loraq, and allowed the fighting pits to reopen, while keeping the sellsword captain Daario Naharis as her lover."
+          },
+          "sources": [
+            {
+              "id": "asos",
+              "locator": "Daenerys III (ch. 27)"
+            },
+            {
+              "id": "asos",
+              "locator": "Daenerys VI (ch. 71)"
+            },
+            {
+              "id": "adwd",
+              "locator": "Daenerys II (ch. 11)"
+            },
+            {
+              "id": "adwd",
+              "locator": "Daenerys VI (ch. 36)"
+            },
+            {
+              "id": "adwd",
+              "locator": "Daenerys VII (ch. 43)"
+            }
+          ]
+        },
+        {
+          "id": "daenerys-fille-aerys-ii-daznak",
+          "heading": {
+            "fr": "L'arène de Daznak",
+            "en": "Daznak's Pit"
+          },
+          "body": {
+            "fr": "Lors des jeux de réouverture, dans l'arène de Daznak, l'odeur du sang attire Drogon, qui s'abat au milieu des combats. Daenerys descend dans l'arène, monte sur son dos et s'envole sous les yeux de la ville. En son absence, le prince Quentyn Martell, venu de Dorne lui offrir sa main, tente de s'approprier l'un des dragons enfermés et meurt brûlé ; Rhaegal et Viserion s'échappent.\n\nEmportée loin de Meereen, Daenerys vit des jours de faim et de fièvre près du repaire de Drogon, dans la mer Dothrak. Elle comprend qu'elle a trop longtemps voulu être autre chose que ce qu'elle est et se répète la devise de sa maison. C'est alors qu'un khalasar, celui du khal Jhaqo, la trouve, le dragon à ses côtés. Les livres parus s'arrêtent là. Pendant ce temps, à l'ouest, un jeune homme qui se dit fils de Rhaegar a pris pied en Westeros.",
+            "en": "At the games that marked the reopening, in Daznak's Pit, the smell of blood drew Drogon, who swooped down into the middle of the fighting. Daenerys went down into the pit, climbed onto his back and flew off before the eyes of the city. In her absence Prince Quentyn Martell, who had come from Dorne to offer her his hand, tried to claim one of the chained dragons and died of his burns; Rhaegal and Viserion broke free.\n\nCarried far from Meereen, Daenerys lived through days of hunger and fever near Drogon's lair in the Dothraki sea. She understood that she had too long tried to be something other than what she was, and repeated to herself the words of her house. It was then that a khalasar, that of Khal Jhaqo, found her with the dragon at her side. The published books end there. Meanwhile, in the west, a young man calling himself Rhaegar's son had set foot in Westeros."
+          },
+          "sources": [
+            {
+              "id": "adwd",
+              "locator": "Daenerys IX (ch. 52)"
+            },
+            {
+              "id": "adwd",
+              "locator": "The Dragontamer (ch. 68)"
+            },
+            {
+              "id": "adwd",
+              "locator": "Daenerys X (ch. 71)"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "drogon",
+        "rhaegal",
+        "viserion"
+      ],
+      "eventIds": [
+        "p7-naissance-daenerys",
+        "p7-exil",
+        "p8-noces-oeufs",
+        "p8-mort-viserys",
+        "p8-eclosion",
+        "p8-qarth",
+        "p8-astapor",
+        "p8-meereen",
+        "p8-mort-aemon",
+        "p8-dragons-enchaines",
+        "p8-arene-daznak",
+        "p8-quentyn",
+        "p8-mer-dothrak",
+        "tv-p8-viserion",
+        "tv-p8-rhaegal",
+        "tv-p8-fin"
+      ],
+      "warIds": [
+        "guerres-de-daenerys"
+      ],
+      "disputed": {
+        "fr": "Les romans ne datent pas les années d'exil et de conquête : les années données ici sont reconstituées à partir de la chronologie interne du récit. Mirri Maz Duur lui a laissé entendre qu'elle n'aurait plus d'enfant, sans que les livres disent si la prédiction est juste. Mestre Aemon voyait en elle le prince promis, ce que rien n'établit.",
+        "en": "The novels do not date the years of exile and conquest: the years given here are reconstructed from the internal chronology of the story. Mirri Maz Duur hinted that she would bear no more children, and the books do not say whether the prediction is true. Maester Aemon saw her as the prince that was promised, which nothing establishes."
+      },
+      "adaptation": {
+        "fr": "La série Game of Thrones prolonge son histoire bien au-delà des livres : retour en Westeros, mort de Viserion au-delà du Mur et de Rhaegal devant Peyredragon, incendie de Port-Réal, mort de la main de Jon Snow. Rien de cela ne figure dans les livres parus.",
+        "en": "The Game of Thrones series carries her story far beyond the books: a return to Westeros, the deaths of Viserion beyond the Wall and of Rhaegal off Dragonstone, the burning of King's Landing, and her death at the hand of Jon Snow. None of this appears in the published books."
+      },
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Daenerys I (ch. 3)"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys II (ch. 11)"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys IX (ch. 68)"
+        },
+        {
+          "id": "agot",
+          "locator": "Daenerys X (ch. 72)"
+        },
+        {
+          "id": "acok",
+          "locator": "Daenerys IV (ch. 48)"
+        },
+        {
+          "id": "asos",
+          "locator": "Daenerys III (ch. 27)"
+        },
+        {
+          "id": "asos",
+          "locator": "Daenerys VI (ch. 71)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys II (ch. 11)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys IX (ch. 52)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys X (ch. 71)"
+        },
+        {
+          "id": "got",
+          "locator": "Seasons 7 and 8"
+        }
+      ]
+    }
+  ]
+}

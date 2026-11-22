@@ -566,12 +566,18 @@
     {
       "key": "page.bati.shelf.volumes",
       "fr": "Volumes",
-      "en": "Volumes"
+      "en": "Volumes",
+      "hv": "Tembyri",
+      "status": "derive",
+      "note": "Nominatif pluriel de tembyr, « livre, tome » (2e/6e déclinaison lunaire ; pluriel tembyri donné par la fiche du mot). Même forme que le titre « Sources » de la navigation : la glose distingue les deux emplois."
     },
     {
       "key": "page.bati.shelf.registers",
       "fr": "Registres",
-      "en": "Registers"
+      "en": "Registers",
+      "hv": "Sōlutti",
+      "status": "derive",
+      "note": "Nominatif pluriel de sōlutty, « rouleau ; carte, registre, comptes » (2e déclinaison lunaire ; pluriel sōlutti donné par la fiche du mot)."
     },
     {
       "key": "page.bati.shelf.drawerVolumes",
@@ -786,7 +792,10 @@
     {
       "key": "page.bati.title.lexicon",
       "fr": "Lexique",
-      "en": "Lexicon"
+      "en": "Lexicon",
+      "hv": "Udra",
+      "status": "derive",
+      "note": "Nominatif pluriel de udir, « mot » (5e déclinaison aquatique ; pluriel udra donné par la fiche du mot) : le lexique est nommé par ses mots."
     },
     {
       "key": "page.bati.title.grammar",
@@ -796,7 +805,10 @@
     {
       "key": "page.bati.title.phrases",
       "fr": "Expressions",
-      "en": "Phrases"
+      "en": "Phrases",
+      "hv": "Udrini",
+      "status": "derive",
+      "note": "Nominatif pluriel de udrin, « phrase, dicton, aphorisme », ancien paucal de udir devenu mot autonome (pluriel udrini donné par la fiche du mot)."
     },
     {
       "key": "page.portal.open_first",
@@ -906,12 +918,18 @@
     {
       "key": "page.portal.volumes.title",
       "fr": "Les huit volumes",
-      "en": "The eight volumes"
+      "en": "The eight volumes",
+      "hv": "Jēnqi Tembyri",
+      "status": "derive",
+      "note": "jēnqa, « huit », numéral de classe I, prend devant le nom la forme prépositive du nominatif pluriel lunaire, jēnqi (tableau de la fiche du mot) ; tembyri est le nominatif pluriel de tembyr, « livre, tome », nom lunaire. Le numéral précède un nom au pluriel, comme dans Izulyz Ampā Perzyssy, « les Quatorze Flammes »."
     },
     {
       "key": "page.portal.registers.title",
       "fr": "Les registres",
-      "en": "The registers"
+      "en": "The registers",
+      "hv": "Sōlutti",
+      "status": "derive",
+      "note": "Nominatif pluriel de sōlutty, « rouleau ; carte, registre, comptes » (2e déclinaison lunaire ; pluriel sōlutti donné par la fiche du mot). Le haut valyrien n’a pas d’article."
     },
     {
       "key": "page.portal.reg.lignee",
@@ -1921,7 +1939,10 @@
     {
       "key": "page.person.life.heading",
       "fr": "Ligne de vie",
-      "en": "Lifeline"
+      "en": "Lifeline",
+      "hv": "Glaeson",
+      "status": "atteste",
+      "note": "glaeson, « vie » (3e déclinaison terrestre), employé dans Game of Thrones (saison 6, épisode 2) et House of the Dragon (saison 1, épisode 4). La rubrique nomme la vie ; la ligne est la figure qui la suit."
     },
     {
       "key": "page.person.life.label",
@@ -1991,12 +2012,18 @@
     {
       "key": "page.person.dragons.one",
       "fr": "Dragon monté",
-      "en": "Dragon ridden"
+      "en": "Dragon ridden",
+      "hv": "Kiptys Zaldrīzes",
+      "status": "derive",
+      "note": "kipta, participe parfait de kipagon, « chevaucher » (fiche du verbe), se décline comme un adjectif de classe I ; placé devant zaldrīzes, nom solaire, il prend la forme prépositive du nominatif singulier solaire, -ys, comme bōsys dans bōsys bantis, « la longue nuit ». Littéralement « dragon chevauché »."
     },
     {
       "key": "page.person.dragons.many",
       "fr": "Dragons montés",
-      "en": "Dragons ridden"
+      "en": "Dragons ridden",
+      "hv": "Kiptyz Zaldrīzesse",
+      "status": "derive",
+      "note": "Pluriel de Kiptys Zaldrīzes : zaldrīzesse, nominatif pluriel de zaldrīzes ; le participe kipta prend la forme prépositive du nominatif pluriel solaire, -yz (variante -ys), d’après le tableau des adjectifs de classe I (fiche bōsa : bōsyz/bōsys). Littéralement « dragons chevauchés »."
     },
     {
       "key": "page.person.doubt.heading",
@@ -2186,7 +2213,10 @@
     {
       "key": "page.dragon.riders.heading",
       "fr": "Cavaliers",
-      "en": "Riders"
+      "en": "Riders",
+      "hv": "Kipia",
+      "status": "derive",
+      "note": "Nominatif pluriel de kipio, « cavalier » (3e déclinaison lunaire ; pluriel kipia donné par la fiche du mot), le mot qui nomme ailleurs le dragonnier."
     },
     {
       "key": "page.dragon.riders.rule",
@@ -2206,12 +2236,18 @@
     {
       "key": "page.dragon.origin.heading",
       "fr": "Origine",
-      "en": "Origin"
+      "en": "Origin",
+      "hv": "Asiñon",
+      "status": "atteste",
+      "note": "asiñon, « origine » (3e déclinaison terrestre), mot du dictionnaire de Peterson."
     },
     {
       "key": "page.dragon.appearance.heading",
       "fr": "Robe",
-      "en": "Colouring"
+      "en": "Colouring",
+      "hv": "Sȳndrilla",
+      "status": "atteste",
+      "note": "sȳndrilla, « couleur, teinte » (1re déclinaison aquatique) : la robe d’un dragon est sa couleur."
     },
     {
       "key": "page.dragon.appearance.none",
@@ -2226,12 +2262,18 @@
     {
       "key": "page.dragon.battles.heading",
       "fr": "Batailles",
-      "en": "Battles"
+      "en": "Battles",
+      "hv": "Vīlībāzmi",
+      "status": "derive",
+      "note": "Nominatif pluriel de vīlībāzma, « guerre ; bataille, combat » (pluriel donné par la fiche du mot). Même forme que le titre « Guerres » de la navigation : le mot couvre la guerre et la bataille."
     },
     {
       "key": "page.dragon.fate.heading",
       "fr": "Sort",
-      "en": "Fate"
+      "en": "Fate",
+      "hv": "Vējes",
+      "status": "atteste",
+      "note": "vējes, « destin, sort » (4e déclinaison solaire), employé dans Game of Thrones (saison 3, épisode 7). Le même mot, comme nom propre, désigne le Fléau de Valyria."
     },
     {
       "key": "page.dragon.adaptation.heading",
@@ -2491,7 +2533,10 @@
     {
       "key": "page.war.causes.heading",
       "fr": "Les causes",
-      "en": "The causes"
+      "en": "The causes",
+      "hv": "Indiraria",
+      "status": "derive",
+      "note": "Nominatif pluriel de indirarion, « raison, motif, cause » (3e déclinaison terrestre ; pluriel indiraria donné par la fiche du mot). Le singulier est employé dans House of the Dragon (saison 1, épisode 2)."
     },
     {
       "key": "page.war.map.title",
@@ -2506,7 +2551,10 @@
     {
       "key": "page.war.battles.heading",
       "fr": "Les batailles",
-      "en": "The battles"
+      "en": "The battles",
+      "hv": "Vīlībāzmi",
+      "status": "derive",
+      "note": "Nominatif pluriel de vīlībāzma, « guerre ; bataille, combat » (pluriel donné par la fiche du mot). Même forme que le titre « Guerres » de la navigation : le mot couvre la guerre et la bataille."
     },
     {
       "key": "page.war.consequences.heading",
@@ -3116,7 +3164,10 @@
     {
       "key": "page.grammar.lessons.title",
       "fr": "Les leçons",
-      "en": "The lessons"
+      "en": "The lessons",
+      "hv": "Gūrēnilagja",
+      "status": "derive",
+      "note": "Nominatif pluriel de gūrēnilaksir, « leçon » (5e déclinaison aquatique, radical alterné gūrēnilaks- / gūrēnilagj- ; pluriel donné par la fiche du mot, où figure Gūrēnilaksir Ēlior, « Première leçon »)."
     },
     {
       "key": "page.grammar.lesson.number",
@@ -3216,7 +3267,10 @@
     {
       "key": "page.sources.register.title",
       "fr": "Le registre",
-      "en": "The register"
+      "en": "The register",
+      "hv": "Sōlutty",
+      "status": "atteste",
+      "note": "sōlutty, « rouleau ; carte, registre, comptes » (2e déclinaison lunaire), mot du dictionnaire de Peterson."
     },
     {
       "key": "page.sources.register.intro",
@@ -3376,7 +3430,10 @@
     {
       "key": "page.path.quiz.title",
       "fr": "Questions",
-      "en": "Questions"
+      "en": "Questions",
+      "hv": "Epvossa",
+      "status": "derive",
+      "note": "Nominatif pluriel de epvos, « question, demande » (3e déclinaison solaire ; pluriel epvossa donné par la fiche du mot)."
     },
     {
       "key": "page.path.quiz.intro",
@@ -3491,7 +3548,10 @@
     {
       "key": "page.about.why.title",
       "fr": "Pourquoi",
-      "en": "Why"
+      "en": "Why",
+      "hv": "Skorȳso",
+      "status": "atteste",
+      "note": "skorȳso, adverbe interrogatif « pourquoi » (fiche du mot), employé seul comme titre de rubrique."
     },
     {
       "key": "page.about.why.body",
@@ -3591,7 +3651,10 @@
     {
       "key": "page.about.mark.title",
       "fr": "Le poinçon",
-      "en": "The hallmark"
+      "en": "The hallmark",
+      "hv": "Kīvo",
+      "status": "atteste",
+      "note": "kīvo, « empreinte, marque, sceau » (3e déclinaison lunaire) : la marque frappée par le relieur. Ne pas confondre avec kīvio, « serment »."
     },
     {
       "key": "page.about.mark.body",
@@ -3602,6 +3665,251 @@
       "key": "page.about.justification",
       "fr": "Cette édition compte huit volumes, {events} événements, {people} personnes, {dragons} dragons, {wars} guerres, {places} lieux, {words} mots valyriens et {sources} sources.",
       "en": "This edition holds eight volumes, {events} events, {people} people, {dragons} dragons, {wars} wars, {places} places, {words} Valyrian words and {sources} sources."
+    },
+    {
+      "key": "v2.fasce.label",
+      "fr": "La fasce : dragons vivants, année par année",
+      "en": "The fess: living dragons, year by year"
+    },
+    {
+      "key": "v2.fasce.slider",
+      "fr": "Année réglée sur la fasce",
+      "en": "Year set on the fess"
+    },
+    {
+      "key": "v2.fasce.valuetext",
+      "fr": "{year}, règne de {reign}, {period}, {count}",
+      "en": "{year}, reign of {reign}, {period}, {count}"
+    },
+    {
+      "key": "v2.fasce.valuetext_noreign",
+      "fr": "{year}, {period}, {count}",
+      "en": "{year}, {period}, {count}"
+    },
+    {
+      "key": "v2.fasce.all_time",
+      "fr": "tout le temps",
+      "en": "all of time"
+    },
+    {
+      "key": "v2.fasce.step_previous",
+      "fr": "Année datée précédente",
+      "en": "Previous dated year"
+    },
+    {
+      "key": "v2.fasce.step_next",
+      "fr": "Année datée suivante",
+      "en": "Next dated year"
+    },
+    {
+      "key": "v2.fasce.periods",
+      "fr": "Les huit périodes",
+      "en": "The eight periods"
+    },
+    {
+      "key": "v2.fasce.open_state",
+      "fr": "État du royaume en {year}",
+      "en": "State of the realm in {year}"
+    },
+    {
+      "key": "v2.fasce.open_state_none",
+      "fr": "État du royaume : réglez d’abord une année",
+      "en": "State of the realm: set a year first"
+    },
+    {
+      "key": "v2.fasce.alive.none",
+      "fr": "aucun dragon vivant",
+      "en": "no living dragon"
+    },
+    {
+      "key": "v2.fasce.alive.one",
+      "fr": "un dragon vivant",
+      "en": "one living dragon"
+    },
+    {
+      "key": "v2.fasce.alive.many",
+      "fr": "{n} dragons vivants",
+      "en": "{n} living dragons"
+    },
+    {
+      "key": "v2.year.live",
+      "fr": "{year} : {count}",
+      "en": "{year}: {count}"
+    },
+    {
+      "key": "v2.year.age.zero",
+      "fr": "En {year} : dans sa première année",
+      "en": "In {year}: in the first year of life"
+    },
+    {
+      "key": "v2.year.age.one",
+      "fr": "En {year} : un an",
+      "en": "In {year}: one year old"
+    },
+    {
+      "key": "v2.year.age.many",
+      "fr": "En {year} : {n} ans",
+      "en": "In {year}: {n} years old"
+    },
+    {
+      "key": "v2.year.age_approx",
+      "fr": "En {year} : vers {n} ans",
+      "en": "In {year}: about {n} years old"
+    },
+    {
+      "key": "v2.year.dead_since.one",
+      "fr": "En {year} : n’est plus depuis un an",
+      "en": "In {year}: dead for a year"
+    },
+    {
+      "key": "v2.year.dead_since.many",
+      "fr": "En {year} : n’est plus depuis {n} ans",
+      "en": "In {year}: dead for {n} years"
+    },
+    {
+      "key": "v2.year.unborn",
+      "fr": "En {year} : pas encore de ce monde",
+      "en": "In {year}: not yet born"
+    },
+    {
+      "key": "v2.year.outside.unborn",
+      "fr": "En {year}, {name} n’est pas encore de ce monde.",
+      "en": "In {year}, {name} is not yet born."
+    },
+    {
+      "key": "v2.year.outside.dead",
+      "fr": "En {year}, {name} n’est plus depuis {n} ans.",
+      "en": "In {year}, {name} has been dead for {n} years."
+    },
+    {
+      "key": "v2.index.title",
+      "fr": "Registres",
+      "en": "Registers"
+    },
+    {
+      "key": "v2.index.periods",
+      "fr": "Les huit périodes",
+      "en": "The eight periods"
+    },
+    {
+      "key": "v2.index.registers",
+      "fr": "Les neuf registres",
+      "en": "The nine registers"
+    },
+    {
+      "key": "v2.resume.label",
+      "fr": "Reprendre : {title}",
+      "en": "Resume: {title}"
+    },
+    {
+      "key": "v2.search.placeholder",
+      "fr": "Un nom, un dragon, un lieu, une année",
+      "en": "A name, a dragon, a place, a year"
+    },
+    {
+      "key": "v2.search.set_year",
+      "fr": "Régler la fasce sur {year}",
+      "en": "Set the fess to {year}"
+    },
+    {
+      "key": "v2.search.kind.period",
+      "fr": "Périodes",
+      "en": "Periods"
+    },
+    {
+      "key": "v2.cartel.label",
+      "fr": "Aperçu",
+      "en": "Preview"
+    },
+    {
+      "key": "v2.cartel.none",
+      "fr": "aucun",
+      "en": "none"
+    },
+    {
+      "key": "v2.cartel.unknown",
+      "fr": "Rien n’est enregistré sous ce nom.",
+      "en": "Nothing is recorded under this name."
+    },
+    {
+      "key": "v2.cartel.circa",
+      "fr": "vers {span}",
+      "en": "c. {span}"
+    },
+    {
+      "key": "v2.cartel.reign",
+      "fr": "règne de {span}",
+      "en": "reigned {span}"
+    },
+    {
+      "key": "v2.cartel.open_page",
+      "fr": "Ouvrir la fiche",
+      "en": "Open the full entry"
+    },
+    {
+      "key": "v2.state.label",
+      "fr": "État du royaume",
+      "en": "State of the realm"
+    },
+    {
+      "key": "v2.state.title",
+      "fr": "État du royaume en {year}",
+      "en": "State of the realm in {year}"
+    },
+    {
+      "key": "v2.state.title_none",
+      "fr": "État du royaume",
+      "en": "State of the realm"
+    },
+    {
+      "key": "v2.state.empty",
+      "fr": "Réglez une année sur la fasce pour voir qui règne, qui vole et où l’on se bat.",
+      "en": "Set a year on the fess to see who reigns, who flies and where the fighting is."
+    },
+    {
+      "key": "v2.state.since",
+      "fr": "depuis {year}",
+      "en": "since {year}"
+    },
+    {
+      "key": "v2.state.contested",
+      "fr": "règne contesté",
+      "en": "contested reign"
+    },
+    {
+      "key": "v2.state.no_reign",
+      "fr": "Aucun Targaryen ne règne cette année-là.",
+      "en": "No Targaryen reigns that year."
+    },
+    {
+      "key": "v2.state.dragons",
+      "fr": "Dragons vivants : {n}",
+      "en": "Living dragons: {n}"
+    },
+    {
+      "key": "v2.state.unknown_fate",
+      "fr": "Au sort inconnu :",
+      "en": "Fate unknown:"
+    },
+    {
+      "key": "v2.state.wars",
+      "fr": "Guerres en cours",
+      "en": "Wars under way"
+    },
+    {
+      "key": "v2.state.this_year",
+      "fr": "Cette année",
+      "en": "This year"
+    },
+    {
+      "key": "v2.state.nothing_dated",
+      "fr": "Aucun événement n’est daté de cette année.",
+      "en": "No event is dated to this year."
+    },
+    {
+      "key": "v2.map.fullscreen",
+      "fr": "Plein écran",
+      "en": "Full screen"
     }
   ]
 }

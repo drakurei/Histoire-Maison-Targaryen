@@ -750,7 +750,10 @@
     {
       "key": "page.person.life.heading",
       "fr": "Ligne de vie",
-      "en": "Lifeline"
+      "en": "Lifeline",
+      "hv": "Glaeson",
+      "status": "atteste",
+      "note": "glaeson, « vie » (3e déclinaison terrestre), employé dans Game of Thrones (saison 6, épisode 2) et House of the Dragon (saison 1, épisode 4). La rubrique nomme la vie ; la ligne est la figure qui la suit."
     },
     {
       "key": "page.person.life.label",
@@ -820,12 +823,18 @@
     {
       "key": "page.person.dragons.one",
       "fr": "Dragon monté",
-      "en": "Dragon ridden"
+      "en": "Dragon ridden",
+      "hv": "Kiptys Zaldrīzes",
+      "status": "derive",
+      "note": "kipta, participe parfait de kipagon, « chevaucher » (fiche du verbe), se décline comme un adjectif de classe I ; placé devant zaldrīzes, nom solaire, il prend la forme prépositive du nominatif singulier solaire, -ys, comme bōsys dans bōsys bantis, « la longue nuit ». Littéralement « dragon chevauché »."
     },
     {
       "key": "page.person.dragons.many",
       "fr": "Dragons montés",
-      "en": "Dragons ridden"
+      "en": "Dragons ridden",
+      "hv": "Kiptyz Zaldrīzesse",
+      "status": "derive",
+      "note": "Pluriel de Kiptys Zaldrīzes : zaldrīzesse, nominatif pluriel de zaldrīzes ; le participe kipta prend la forme prépositive du nominatif pluriel solaire, -yz (variante -ys), d’après le tableau des adjectifs de classe I (fiche bōsa : bōsyz/bōsys). Littéralement « dragons chevauchés »."
     },
     {
       "key": "page.person.doubt.heading",

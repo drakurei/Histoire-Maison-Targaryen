@@ -26,8 +26,8 @@
     { "key": "page.portal.curve.annot.return", "fr": "trois dragons naissent", "en": "three dragons are born" },
     { "key": "page.portal.curve.valyria", "fr": "Valyria : dragons jamais dénombrés", "en": "Valyria: dragons never counted" },
 
-    { "key": "page.portal.volumes.title", "fr": "Les huit volumes", "en": "The eight volumes" },
-    { "key": "page.portal.registers.title", "fr": "Les registres", "en": "The registers" },
+    { "key": "page.portal.volumes.title", "fr": "Les huit volumes", "en": "The eight volumes", "hv": "Jēnqi Tembyri", "status": "derive", "note": "jēnqa, « huit », numéral de classe I, prend devant le nom la forme prépositive du nominatif pluriel lunaire, jēnqi (tableau de la fiche du mot) ; tembyri est le nominatif pluriel de tembyr, « livre, tome », nom lunaire. Le numéral précède un nom au pluriel, comme dans Izulyz Ampā Perzyssy, « les Quatorze Flammes »." },
+    { "key": "page.portal.registers.title", "fr": "Les registres", "en": "The registers", "hv": "Sōlutti", "status": "derive", "note": "Nominatif pluriel de sōlutty, « rouleau ; carte, registre, comptes » (2e déclinaison lunaire ; pluriel sōlutti donné par la fiche du mot). Le haut valyrien n’a pas d’article." },
     { "key": "page.portal.reg.lignee", "fr": "L’arbre du sang, d’Aenar à Daenerys : filiations, unions, et ces mariages entre frère et sœur qui referment les branches sur elles-mêmes.", "en": "The tree of blood, from Aenar to Daenerys: descent, unions, and the marriages of brother and sister that fold the branches back on themselves." },
     { "key": "page.portal.reg.personnages", "fr": "Une notice par personne : rois et reines, prétendants, cavaliers de dragon, bâtards légitimés ou non.", "en": "One entry per person: kings and queens, claimants, dragonriders, bastards legitimised or not." },
     { "key": "page.portal.reg.dragons", "fr": "{n} dragons, dessinés d’après ce que les livres en disent, et marqués là où ils se taisent.", "en": "{n} dragons, drawn from what the books say of them, and marked where they fall silent." },

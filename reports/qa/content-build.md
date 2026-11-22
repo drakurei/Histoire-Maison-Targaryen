@@ -18,7 +18,7 @@ Rapport écrit par `node scripts/build-content.mjs`. Ne pas le modifier à la ma
 | Filiations | 132 |
 | Souverains | 18 |
 | Successions | 20 |
-| Biographies | 48 |
+| Biographies | 80 |
 | Dragons | 28 |
 | Guerres | 12 |
 | Batailles | 51 |
@@ -28,8 +28,8 @@ Rapport écrit par `node scripts/build-content.mjs`. Ne pas le modifier à la ma
 | Expressions | 59 |
 | Leçons de grammaire | 12 |
 | Parcours | 5 |
-| Chaînes d’interface | 697 |
-| &nbsp;&nbsp;dont avec forme valyrienne | 59 |
+| Chaînes d’interface | 746 |
+| &nbsp;&nbsp;dont avec forme valyrienne | 80 |
 | Sources | 20 |
 | Entrées de recherche | 769 |
 

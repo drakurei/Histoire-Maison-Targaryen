@@ -612,8 +612,8 @@
       "eventIds": ["p2-offre-argilac", "p3-debarquement", "p3-derniere-tempete", "p4-guerre-dornienne"],
       "warIds": ["conquete", "premiere-guerre-dornienne"],
       "disputed": {
-        "fr": "Sa filiation n'est connue que par la rumeur, même si Jaehaerys Ier la jugeait notoire et évoquait le droit de cuissage comme origine possible. Son année de naissance n'est pas connue, et la durée exacte de sa captivité à Dorne varie selon les passages.",
-        "en": "His parentage is known only through rumour, even though Jaehaerys I thought it common knowledge and suggested the right of the first night as a possible origin. His year of birth is unknown, and the exact length of his captivity in Dorne varies between passages."
+        "fr": "Sa filiation n'est connue que par la rumeur, même si Jaehaerys Ier la jugeait notoire et évoquait le droit de cuissage comme origine possible. Son année de naissance n'est pas connue.",
+        "en": "His parentage is known only through rumour, even though Jaehaerys I thought it common knowledge and suggested the right of the first night as a possible origin. His year of birth is unknown."
       },
       "sources": [
         { "id": "fab", "locator": "Aegon's Conquest" },

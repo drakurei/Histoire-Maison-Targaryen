@@ -6293,18 +6293,18 @@
       "id": "tumbleton-1",
       "to": "/guerres/danse-des-dragons#tumbleton-1",
       "label": {
-        "fr": "La première bataille de Chutebourg",
+        "fr": "La première bataille de Tumbleton",
         "en": "The First Battle of Tumbleton"
       },
       "hint": {
-        "fr": "130 apr. C., Chutebourg (Tumbleton), sur la Mander",
+        "fr": "130 apr. C., Tumbleton (Tumbleton), sur la Mander",
         "en": "130 AC, Tumbleton, on the Mander"
       },
       "keys": [
-        "la premiere bataille de chutebourg",
+        "la premiere bataille de tumbleton",
         "the first battle of tumbleton",
-        "chutebourg (tumbleton), sur la mander",
-        "chutebourg tumbleton sur la mander",
+        "tumbleton (tumbleton), sur la mander",
+        "tumbleton tumbleton sur la mander",
         "tumbleton, on the mander",
         "tumbleton on the mander"
       ]
@@ -6358,18 +6358,18 @@
       "id": "tumbleton-2",
       "to": "/guerres/danse-des-dragons#tumbleton-2",
       "label": {
-        "fr": "La seconde bataille de Chutebourg",
+        "fr": "La seconde bataille de Tumbleton",
         "en": "The Second Battle of Tumbleton"
       },
       "hint": {
-        "fr": "130 apr. C., Chutebourg (Tumbleton) et les camps autour de la ville",
+        "fr": "130 apr. C., Tumbleton (Tumbleton) et les camps autour de la ville",
         "en": "130 AC, Tumbleton and the camps around the town"
       },
       "keys": [
-        "la seconde bataille de chutebourg",
+        "la seconde bataille de tumbleton",
         "the second battle of tumbleton",
-        "chutebourg (tumbleton) et les camps autour de la ville",
-        "chutebourg tumbleton et les camps autour de la ville",
+        "tumbleton (tumbleton) et les camps autour de la ville",
+        "tumbleton tumbleton et les camps autour de la ville",
         "tumbleton and the camps around the town"
       ]
     },
@@ -7136,7 +7136,7 @@
       "id": "tumbleton",
       "to": "/lieux/tumbleton",
       "label": {
-        "fr": "Chutebourg",
+        "fr": "Tumbleton",
         "en": "Tumbleton"
       },
       "hint": {
@@ -7144,7 +7144,6 @@
         "en": "the Reach"
       },
       "keys": [
-        "chutebourg",
         "tumbleton"
       ]
     },

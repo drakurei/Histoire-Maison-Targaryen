@@ -170,7 +170,10 @@
     {
       "key": "page.dragon.riders.heading",
       "fr": "Cavaliers",
-      "en": "Riders"
+      "en": "Riders",
+      "hv": "Kipia",
+      "status": "derive",
+      "note": "Nominatif pluriel de kipio, « cavalier » (3e déclinaison lunaire ; pluriel kipia donné par la fiche du mot), le mot qui nomme ailleurs le dragonnier."
     },
     {
       "key": "page.dragon.riders.rule",
@@ -190,12 +193,18 @@
     {
       "key": "page.dragon.origin.heading",
       "fr": "Origine",
-      "en": "Origin"
+      "en": "Origin",
+      "hv": "Asiñon",
+      "status": "atteste",
+      "note": "asiñon, « origine » (3e déclinaison terrestre), mot du dictionnaire de Peterson."
     },
     {
       "key": "page.dragon.appearance.heading",
       "fr": "Robe",
-      "en": "Colouring"
+      "en": "Colouring",
+      "hv": "Sȳndrilla",
+      "status": "atteste",
+      "note": "sȳndrilla, « couleur, teinte » (1re déclinaison aquatique) : la robe d’un dragon est sa couleur."
     },
     {
       "key": "page.dragon.appearance.none",
@@ -210,12 +219,18 @@
     {
       "key": "page.dragon.battles.heading",
       "fr": "Batailles",
-      "en": "Battles"
+      "en": "Battles",
+      "hv": "Vīlībāzmi",
+      "status": "derive",
+      "note": "Nominatif pluriel de vīlībāzma, « guerre ; bataille, combat » (pluriel donné par la fiche du mot). Même forme que le titre « Guerres » de la navigation : le mot couvre la guerre et la bataille."
     },
     {
       "key": "page.dragon.fate.heading",
       "fr": "Sort",
-      "en": "Fate"
+      "en": "Fate",
+      "hv": "Vējes",
+      "status": "atteste",
+      "note": "vējes, « destin, sort » (4e déclinaison solaire), employé dans Game of Thrones (saison 3, épisode 7). Le même mot, comme nom propre, désigne le Fléau de Valyria."
     },
     {
       "key": "page.dragon.adaptation.heading",
@@ -475,7 +490,10 @@
     {
       "key": "page.war.causes.heading",
       "fr": "Les causes",
-      "en": "The causes"
+      "en": "The causes",
+      "hv": "Indiraria",
+      "status": "derive",
+      "note": "Nominatif pluriel de indirarion, « raison, motif, cause » (3e déclinaison terrestre ; pluriel indiraria donné par la fiche du mot). Le singulier est employé dans House of the Dragon (saison 1, épisode 2)."
     },
     {
       "key": "page.war.map.title",
@@ -490,7 +508,10 @@
     {
       "key": "page.war.battles.heading",
       "fr": "Les batailles",
-      "en": "The battles"
+      "en": "The battles",
+      "hv": "Vīlībāzmi",
+      "status": "derive",
+      "note": "Nominatif pluriel de vīlībāzma, « guerre ; bataille, combat » (pluriel donné par la fiche du mot). Même forme que le titre « Guerres » de la navigation : le mot couvre la guerre et la bataille."
     },
     {
       "key": "page.war.consequences.heading",

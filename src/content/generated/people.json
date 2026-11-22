@@ -2170,7 +2170,7 @@
         "twoiaf",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "baelor-i",
@@ -2198,7 +2198,7 @@
         "twoiaf",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "daena",
@@ -2226,7 +2226,7 @@
       "sources": [
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "rhaena-fille-aegon-iii",
@@ -2250,7 +2250,7 @@
       "sources": [
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "elaena-fille-aegon-iii",
@@ -2274,7 +2274,7 @@
       "sources": [
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "larra-rogare",
@@ -2323,7 +2323,7 @@
         "twoiaf",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "aemon-fils-viserys-ii",
@@ -2356,7 +2356,7 @@
         "twoiaf",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "naerys",
@@ -2385,7 +2385,7 @@
         "twoiaf",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "ossifer-plumm",
@@ -2620,7 +2620,7 @@
         "dunk-egg",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "daenerys-fille-aegon-iv",
@@ -2698,7 +2698,7 @@
         "twoiaf",
         "dunk-egg"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "barba-bracken",
@@ -2784,7 +2784,7 @@
         "asoiaf",
         "dunk-egg"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "mya-rivers",
@@ -2859,7 +2859,7 @@
         "asoiaf",
         "dunk-egg"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "shiera-seastar",
@@ -2888,7 +2888,7 @@
         "twoiaf",
         "dunk-egg"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "rohanne-de-tyrosh",
@@ -3153,7 +3153,7 @@
         "twoiaf",
         "dunk-egg"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "aerys-i",
@@ -3182,7 +3182,7 @@
         "dunk-egg",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "rhaegel",
@@ -3207,7 +3207,7 @@
         "twoiaf",
         "dunk-egg"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "maekar-i",
@@ -3236,7 +3236,7 @@
         "dunk-egg",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "jena-dondarrion",
@@ -3509,7 +3509,7 @@
         "twoiaf",
         "dunk-egg"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "aerion-fils-maekar-i",
@@ -3539,7 +3539,7 @@
         "asoiaf",
         "dunk-egg"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "aemon-fils-maekar-i",
@@ -3565,7 +3565,7 @@
         "twoiaf",
         "dunk-egg"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "daella-fille-maekar-i",
@@ -3615,7 +3615,7 @@
         "dunk-egg",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "rhae",
@@ -3741,7 +3741,7 @@
         "twoiaf",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "jaehaerys-ii",
@@ -3765,7 +3765,7 @@
         "twoiaf",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "shaera",
@@ -3790,7 +3790,7 @@
         "twoiaf",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "daeron-fils-aegon-v",
@@ -3974,7 +3974,7 @@
         "asoiaf",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "rhaella-fille-jaehaerys-ii",
@@ -3999,7 +3999,7 @@
         "asoiaf",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "rhaegar",
@@ -4024,7 +4024,7 @@
         "asoiaf",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "shaena",
@@ -4153,7 +4153,7 @@
         "asoiaf",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "daenerys-fille-aerys-ii",
@@ -4191,7 +4191,7 @@
         "asoiaf",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "elia-martell",
@@ -4216,7 +4216,7 @@
         "asoiaf",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "rhaenys-fille-rhaegar",
@@ -4237,7 +4237,7 @@
         "asoiaf",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "aegon-fils-rhaegar",
@@ -4266,7 +4266,7 @@
         "asoiaf",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "lyanna-stark",

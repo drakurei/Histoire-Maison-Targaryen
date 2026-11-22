@@ -551,7 +551,10 @@
     {
       "key": "page.grammar.lessons.title",
       "fr": "Les leçons",
-      "en": "The lessons"
+      "en": "The lessons",
+      "hv": "Gūrēnilagja",
+      "status": "derive",
+      "note": "Nominatif pluriel de gūrēnilaksir, « leçon » (5e déclinaison aquatique, radical alterné gūrēnilaks- / gūrēnilagj- ; pluriel donné par la fiche du mot, où figure Gūrēnilaksir Ēlior, « Première leçon »)."
     },
     {
       "key": "page.grammar.lesson.number",
@@ -651,7 +654,10 @@
     {
       "key": "page.sources.register.title",
       "fr": "Le registre",
-      "en": "The register"
+      "en": "The register",
+      "hv": "Sōlutty",
+      "status": "atteste",
+      "note": "sōlutty, « rouleau ; carte, registre, comptes » (2e déclinaison lunaire), mot du dictionnaire de Peterson."
     },
     {
       "key": "page.sources.register.intro",
@@ -811,7 +817,10 @@
     {
       "key": "page.path.quiz.title",
       "fr": "Questions",
-      "en": "Questions"
+      "en": "Questions",
+      "hv": "Epvossa",
+      "status": "derive",
+      "note": "Nominatif pluriel de epvos, « question, demande » (3e déclinaison solaire ; pluriel epvossa donné par la fiche du mot)."
     },
     {
       "key": "page.path.quiz.intro",
@@ -926,7 +935,10 @@
     {
       "key": "page.about.why.title",
       "fr": "Pourquoi",
-      "en": "Why"
+      "en": "Why",
+      "hv": "Skorȳso",
+      "status": "atteste",
+      "note": "skorȳso, adverbe interrogatif « pourquoi » (fiche du mot), employé seul comme titre de rubrique."
     },
     {
       "key": "page.about.why.body",
@@ -1026,7 +1038,10 @@
     {
       "key": "page.about.mark.title",
       "fr": "Le poinçon",
-      "en": "The hallmark"
+      "en": "The hallmark",
+      "hv": "Kīvo",
+      "status": "atteste",
+      "note": "kīvo, « empreinte, marque, sceau » (3e déclinaison lunaire) : la marque frappée par le relieur. Ne pas confondre avec kīvio, « serment »."
     },
     {
       "key": "page.about.mark.body",
