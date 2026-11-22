@@ -1,0 +1,9 @@
+.layer {
+  animation: arriver var(--d-geste-court) var(--c-expo) both;
+}
+
+@keyframes arriver {
+  from {
+    opacity: 0;
+  }
+}

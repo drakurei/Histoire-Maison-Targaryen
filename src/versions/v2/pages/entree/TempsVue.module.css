@@ -1,0 +1,95 @@
+/*
+ * La colonne du parti : la carte colle en haut, le profil colle au-dessus de la fasce, au
+ * pied de la colonne. Même rouge, même hachure, aucun espace entre le profil et la fasce.
+ */
+.pile {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.carte {
+  position: sticky;
+  top: var(--v2-tete, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: calc(100svh - var(--v2-fasce-totale) - var(--v2-profil, 0px) - var(--v2-tete, 0px));
+  padding-top: var(--e5);
+}
+
+.carte > :first-child {
+  flex: 1;
+  min-height: 0;
+}
+
+.socle {
+  position: sticky;
+  bottom: var(--v2-fasce-totale);
+  margin-top: auto;
+  flex: none;
+  pointer-events: none;
+}
+
+.socleProfil {
+  position: absolute;
+  inset: 0;
+  line-height: 0;
+}
+
+.socleNombre {
+  position: absolute;
+  inset: 0;
+}
+
+/* Le cartel ouvert recouvre la colonne : elle s'éteint à 40 %. */
+:global(.v2[data-cartel]) .pile {
+  opacity: 0.4;
+}
+
+/* Sans profil (la Chute) : le chiffre en ivoire, collé au-dessus de la fasce, et ce qu'il veut dire. */
+.pile[data-sans-profil] {
+  --v2-profil: calc(var(--t6) * 0.8 + var(--e7));
+}
+
+.socleSeul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  column-gap: var(--e4);
+  row-gap: var(--e2);
+  padding-bottom: var(--e4);
+  background: var(--obsidienne);
+}
+
+.sansDragon {
+  max-width: 22ch;
+  padding-bottom: 0.4em;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--cendre);
+}
+
+/* ------------------------------------------------------------ Téléphone */
+.tel {
+  position: relative;
+  margin-inline: calc(-1 * var(--marge-page));
+}
+
+.telProfil {
+  position: absolute;
+  inset: 0;
+  line-height: 0;
+}
+
+.telNombre {
+  position: absolute;
+  inset: 0;
+}
+
+.seulTel {
+  display: grid;
+  gap: var(--e3);
+  margin-block: var(--e4) 0;
+}

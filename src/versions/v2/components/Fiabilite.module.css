@@ -1,0 +1,19 @@
+.root {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+  white-space: nowrap;
+}
+
+.marque {
+  flex: none;
+  color: var(--ivoire);
+}
+
+.root[data-niveau='legende'] .marque,
+.root[data-niveau='adaptation'] .marque {
+  color: var(--cendre);
+}

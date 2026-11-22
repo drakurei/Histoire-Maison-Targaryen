@@ -1,0 +1,28 @@
+.marque {
+  display: inline-block;
+  flex: none;
+  vertical-align: -0.05em;
+  overflow: visible;
+}
+
+.marque[data-ton='noir'] {
+  fill: var(--ivoire);
+}
+
+.marque[data-ton='vert'] {
+  fill: var(--v2-vert);
+}
+
+.marque[data-ton='rouge'] {
+  fill: var(--sang);
+}
+
+.marque[data-ton='or'] {
+  fill: var(--or);
+}
+
+.vide {
+  fill: none;
+  stroke: var(--cendre);
+  stroke-width: 1.5;
+}

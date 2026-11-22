@@ -1,0 +1,90 @@
+/*
+ * Les repères du portail : des cartels posés sur la masse. Le calque de l'ordinateur est
+ * fixe, au-dessus de la fasce (sous le cartel) ; il ne prend aucun geste, ses liens si.
+ */
+.calque {
+  position: fixed;
+  inset: 0;
+  z-index: 31;
+  min-height: 0;
+  background: transparent;
+  pointer-events: none;
+}
+
+.rideau {
+  position: absolute;
+  background: var(--obsidienne);
+  transform-origin: 100% 50%;
+}
+
+.repere {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: var(--f-musee);
+  pointer-events: none;
+}
+
+.repere[data-mode='relief'] {
+  transform: translateY(-100%);
+}
+
+.repere[data-cote='gauche'] {
+  align-items: flex-end;
+  text-align: right;
+}
+
+.calque[data-ouverture='attente'] .repere,
+.calque[data-ouverture='jeu'] .repere {
+  visibility: hidden;
+}
+
+.texte {
+  display: grid;
+  gap: 0.1rem;
+  padding-bottom: 0.4rem;
+}
+
+.repere[data-cote='gauche'] .texte {
+  justify-items: end;
+}
+
+.annee {
+  font-weight: 700;
+  font-size: var(--t-1);
+  line-height: 1.2;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+}
+
+.lien {
+  display: inline-block;
+  padding-block: 0.15rem;
+  font-size: var(--t0);
+  line-height: 1.2;
+  color: var(--ivoire);
+  pointer-events: auto;
+}
+
+/* La tige : du texte au relief, ivoire, comme les encoches d'entité de la fasce. */
+.tige {
+  display: block;
+  width: 2px;
+  background: var(--ivoire);
+}
+
+.repere[data-cote='gauche'] .tige {
+  align-self: flex-end;
+}
+
+/* ------------------------------------------------------------ téléphone */
+.tel {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.tel .lien {
+  font-size: var(--t-1);
+}

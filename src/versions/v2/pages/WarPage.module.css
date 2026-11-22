@@ -1,0 +1,328 @@
+/* Conflit : le parti. Les batailles portent leur numéro dans une colonne suspendue. */
+.titreLong h1 {
+  max-width: 16ch;
+  font-size: var(--t4);
+}
+
+.entete {
+  display: grid;
+  gap: var(--e5);
+  padding-bottom: var(--e6);
+}
+
+.annees {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e5);
+  font-family: var(--f-musee);
+  font-size: var(--t1);
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+.sommaire {
+  max-width: 28rem;
+}
+
+.recit {
+  display: grid;
+  gap: var(--e7);
+  max-width: 40rem;
+}
+
+.section {
+  display: grid;
+  gap: var(--e5);
+}
+
+.titre {
+  font-size: var(--t3);
+  font-weight: 300;
+}
+
+.cendre {
+  color: var(--cendre);
+}
+
+.etiquette {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+/* Les camps face à face, sur deux colonnes. */
+.camps {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--e5) var(--gouttiere);
+}
+
+.camp {
+  display: grid;
+  gap: var(--e2);
+  align-content: start;
+}
+
+.campNom {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5em;
+  font-size: var(--t1);
+  font-weight: 350;
+  line-height: 1.1;
+}
+
+.chefs {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.55;
+}
+
+.batailles {
+  display: grid;
+  gap: var(--e7);
+  counter-reset: none;
+}
+
+.bataille {
+  position: relative;
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  scroll-margin-top: var(--e5);
+}
+
+.numero {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t3);
+  line-height: 0.85;
+  color: var(--cendre);
+  font-variant-numeric: lining-nums;
+  transition: color var(--d-geste) var(--c-expo);
+}
+
+.bataille[data-courante] .numero {
+  color: var(--braise);
+}
+
+.corps {
+  display: grid;
+  gap: var(--e3);
+  min-width: 0;
+}
+
+.date {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: tabular-nums lining-nums;
+  color: var(--cendre);
+}
+
+.batailleNom {
+  font-size: var(--t2);
+  font-weight: 350;
+}
+
+.cache {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.lieu {
+  display: grid;
+  gap: 0.15rem;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.2;
+}
+
+.precision {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.issue {
+  font-family: var(--f-musee);
+  font-size: var(--t0);
+  font-weight: 500;
+}
+
+.dragons {
+  display: grid;
+  gap: var(--e2);
+}
+
+.dragonsListe {
+  display: grid;
+  gap: var(--e3);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.dragon {
+  display: grid;
+  grid-template-columns: 11rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: baseline;
+}
+
+.dragonNom {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.45em;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.15;
+}
+
+.sort {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.55;
+}
+
+.pertes {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.6;
+}
+
+.fiabilite {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+}
+
+.evenements {
+  display: grid;
+  gap: var(--e2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.2;
+}
+
+.evenements li {
+  display: grid;
+  grid-template-columns: 7rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: baseline;
+  min-height: 2.75rem;
+}
+
+.anneeListe {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: tabular-nums lining-nums;
+  color: var(--cendre);
+}
+
+/* Rejouer : deux commandes en texte, l'état de la lecture dessous. */
+.rejouer {
+  display: grid;
+  gap: var(--e2);
+}
+
+.boutons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  column-gap: var(--e5);
+}
+
+.bouton {
+  min-height: 2.75rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--ivoire);
+  font-family: var(--f-musee);
+  font-size: var(--t0);
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+  cursor: pointer;
+}
+
+.bouton:hover:not(:disabled),
+.bouton:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+.bouton:disabled {
+  color: var(--cendre);
+  text-decoration-color: transparent;
+  cursor: default;
+}
+
+.etat {
+  min-height: 1.4em;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.4;
+}
+
+.compteur {
+  color: var(--cendre);
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+.garde {
+  display: block;
+  color: var(--cendre);
+}
+
+.pasTel {
+  display: none;
+}
+
+@media (width < 1024px) {
+  .camps {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .bataille {
+    grid-template-columns: 2.75rem minmax(0, 1fr);
+    column-gap: var(--e3);
+  }
+
+  .numero {
+    font-size: var(--t2);
+  }
+
+  .dragon {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: var(--e1);
+  }
+
+  .pasTel {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    column-gap: var(--e5);
+    margin-top: var(--e3);
+  }
+
+  .evenements li {
+    grid-template-columns: minmax(0, 1fr);
+    min-height: 0;
+    padding-block: var(--e2);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .numero {
+    transition: none;
+  }
+}

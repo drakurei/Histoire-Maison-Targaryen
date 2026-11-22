@@ -1,0 +1,38 @@
+/*
+ * Colonne collante du parti : elle descend jusqu'à la fasce. Le profil touche le bord bas de
+ * la colonne, donc le haut de la fasce : même rouge, même hachure, aucun espace entre eux.
+ */
+.colonne {
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  height: calc(100svh - var(--v2-fasce-totale));
+  padding-top: var(--e5);
+}
+
+.carte {
+  flex: 1;
+  min-height: 0;
+}
+
+.profil {
+  flex: none;
+  line-height: 0;
+}
+
+/* Le cartel ouvert recouvre la colonne : elle s'éteint à 40 %. */
+:global(.v2[data-cartel]) .colonne {
+  opacity: 0.4;
+}
+
+@media (width < 1024px) {
+  .colonne {
+    position: static;
+    height: auto;
+  }
+
+  .carte {
+    height: 40svh;
+  }
+}

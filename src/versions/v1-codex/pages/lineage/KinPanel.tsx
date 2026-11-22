@@ -4,14 +4,13 @@ import { VLink } from '@/app/version';
 import { getPerson, sovereigns } from '@/core/content/people';
 import type { Person } from '@/core/content/types';
 import { focusOn } from '@/core/genealogy';
-import { formatSpan, formatYear, useLang, useT } from '@/core/i18n';
+import { formatSpan, formatYear, useLang, useT, useTxTypo } from '@/core/i18n';
 import { CrownGlyph } from '@/shared/marks/Marks';
 
 import { ReliabilityMark } from '../../components/ReliabilityMark';
 import styles from './KinPanel.module.css';
 import { CROWNED, graph, lifeYears, shortName } from './model';
 import { useKinWords } from './useKinWords';
-import { useTxTypo } from '../../components/typo';
 
 interface KinPanelProps {
   id: string;

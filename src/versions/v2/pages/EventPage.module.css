@@ -1,0 +1,283 @@
+/*
+ * Événement (parti). Le grand nombre de la vue est l'année de l'événement, en tête, à
+ * gauche ; le titre s'y adosse. Puis le texte, les entités, la certitude, la continuité.
+ */
+.page {
+  padding-bottom: var(--e8);
+}
+
+.entete {
+  display: grid;
+  gap: var(--e4);
+  padding-bottom: var(--e6);
+}
+
+.annee {
+  display: grid;
+  gap: var(--e2);
+  justify-items: start;
+}
+
+.date {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e3);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t0);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+}
+
+.approx {
+  font-weight: 400;
+  color: var(--cendre);
+}
+
+.inconnue {
+  font-family: var(--f-chronique);
+  font-weight: 300;
+  font-size: var(--t3);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--cendre);
+}
+
+.periode {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.5em;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.2;
+}
+
+.periodeChiffre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  color: var(--cendre);
+}
+
+.periodeGlose {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  color: var(--cendre);
+}
+
+/* ------------------------------------------------------------ le corps */
+.corps {
+  display: grid;
+  gap: var(--e6);
+  min-width: 0;
+}
+
+.resume {
+  max-width: 40ch;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  color: var(--ivoire);
+}
+
+.bloc {
+  display: grid;
+  gap: var(--e2);
+  max-width: 60ch;
+}
+
+.blocTitre {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  line-height: 1.3;
+  letter-spacing: 0;
+  color: var(--cendre);
+}
+
+.consequence {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.4;
+  color: var(--ivoire);
+}
+
+.note {
+  max-width: 60ch;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit-sombre);
+  color: var(--ivoire);
+}
+
+.rangees {
+  display: grid;
+  gap: var(--e3);
+  max-width: 44rem;
+  font-family: var(--f-musee);
+}
+
+.rangee {
+  display: grid;
+  grid-template-columns: 8rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: baseline;
+}
+
+.rangeeLabel {
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.rangeeNoms {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e4);
+  margin: 0;
+  font-size: var(--t0);
+  color: var(--ivoire);
+}
+
+.nom a {
+  display: inline-block;
+  padding-block: 0.35rem;
+}
+
+.sansFiche {
+  display: inline-block;
+  padding-block: 0.35rem;
+}
+
+.aucun {
+  padding-block: 0.35rem;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.certitude {
+  display: grid;
+  gap: var(--e2);
+  justify-items: start;
+  max-width: 60ch;
+}
+
+.marque {
+  font-size: var(--t0);
+  color: var(--ivoire);
+}
+
+.continuite {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-family: var(--f-musee);
+  font-size: var(--t0);
+  color: var(--ivoire);
+}
+
+.continuiteMarque {
+  flex: none;
+}
+
+/* Un événement propre à l'adaptation : tenu à part, sur la suie. */
+.adaptation {
+  padding: var(--e4) var(--e5);
+  background: var(--suie);
+}
+
+/* ------------------------------------------------------------ dans le fil du temps */
+.voisins {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: var(--gouttiere);
+  padding-top: var(--e6);
+}
+
+.voisin {
+  display: grid;
+  align-content: start;
+  gap: var(--e1);
+  min-height: 2.75rem;
+  text-decoration: none;
+}
+
+.suivant {
+  justify-items: end;
+  text-align: right;
+}
+
+.voisinSens {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.voisinAnnee {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t0);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+}
+
+.voisinTitre {
+  max-width: 26ch;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.1;
+  color: var(--ivoire);
+  text-decoration: underline 2px var(--cendre);
+  text-underline-offset: 4px;
+}
+
+.voisin:hover .voisinTitre,
+.voisin:focus-visible .voisinTitre {
+  text-decoration-color: var(--braise);
+}
+
+.legende {
+  max-width: 48ch;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.4;
+  color: var(--cendre);
+}
+
+@media (width < 1024px) {
+  .entete {
+    padding-bottom: 0;
+  }
+
+  .rangee {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .voisins {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: var(--e5);
+  }
+
+  .suivant {
+    justify-items: start;
+    text-align: left;
+  }
+}
+
+/* Cible de 44 px (DESIGN §6, audit V2) : la zone de pression déborde du texte, sans le déplacer. */
+.periodeLien {
+  position: relative;
+}
+
+.periodeLien::after {
+  position: absolute;
+  inset-inline: 0;
+  top: 50%;
+  height: max(100%, 2.75rem);
+  translate: 0 -50%;
+  content: '';
+}

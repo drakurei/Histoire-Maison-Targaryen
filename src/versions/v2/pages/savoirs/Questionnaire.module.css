@@ -1,0 +1,206 @@
+.question,
+.bilan {
+  display: grid;
+  gap: var(--e4);
+  max-width: 64ch;
+}
+
+.compteur {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e4);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.manche {
+  font-style: italic;
+}
+
+.enonce,
+.resultat {
+  font-size: var(--t2);
+  font-weight: 350;
+  line-height: 1.08;
+  max-width: 26ch;
+  scroll-margin-top: var(--e7);
+}
+
+.enonce:focus,
+.resultat:focus {
+  outline: none;
+}
+
+.enonce:focus-visible,
+.resultat:focus-visible {
+  outline: var(--focus-epaisseur) solid var(--focus-couleur);
+  outline-offset: var(--focus-decalage);
+}
+
+.choix {
+  display: grid;
+  gap: var(--e1);
+  margin-top: var(--e2);
+}
+
+.reponse {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e4);
+  width: 100%;
+  min-height: var(--cible);
+  padding-block: 0.55rem;
+  text-align: left;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.25;
+  color: var(--ivoire);
+  cursor: pointer;
+}
+
+.reponseTexte {
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+  text-decoration-color: var(--basalte);
+  transition: text-decoration-color var(--d-geste-court) var(--c-expo);
+}
+
+.reponse:hover:not(:disabled) .reponseTexte,
+.reponse:focus-visible .reponseTexte {
+  text-decoration-color: var(--braise);
+}
+
+.reponse:disabled {
+  cursor: default;
+  color: var(--cendre);
+}
+
+.reponse:disabled .reponseTexte {
+  text-decoration-color: transparent;
+}
+
+.reponse[data-juste],
+.reponse[data-donnee] {
+  color: var(--ivoire);
+}
+
+.reponse[data-juste] .reponseTexte {
+  text-decoration-color: var(--ivoire);
+}
+
+.reponse[data-donnee]:not([data-juste]) .reponseTexte {
+  text-decoration-line: line-through;
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: var(--cendre);
+}
+
+.reponseMarque {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.retour {
+  display: grid;
+  gap: var(--e3);
+  justify-items: start;
+}
+
+.retour:focus {
+  outline: none;
+}
+
+.retour:empty {
+  display: none;
+}
+
+.verdict {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.15;
+  color: var(--ivoire);
+}
+
+.explication {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit-sombre);
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+.action {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t0);
+  color: var(--ivoire);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  text-decoration-color: var(--cendre);
+  cursor: pointer;
+}
+
+.action:hover,
+.action:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e6);
+}
+
+.parfait,
+.vide {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  color: var(--cendre);
+}
+
+.rubrique {
+  margin-top: var(--e3);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+  letter-spacing: 0;
+}
+
+.erreurs {
+  display: grid;
+  gap: var(--e6);
+}
+
+.erreur {
+  display: grid;
+  gap: var(--e2);
+}
+
+.erreurQuestion {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.15;
+  color: var(--ivoire);
+}
+
+.erreurDonnee,
+.erreurReponse {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.erreurReponse {
+  color: var(--ivoire);
+}

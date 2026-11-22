@@ -1,0 +1,262 @@
+/*
+ * L'Index : feuille plein écran sur l'obsidienne. Composition asymétrique : les périodes à
+ * gauche (sept colonnes), les registres en grand à droite. Aucun cadre, aucun filet.
+ */
+.root {
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: var(--obsidienne);
+  color: var(--ivoire);
+  overscroll-behavior: contain;
+  animation: venir var(--d-geste-court) var(--c-expo) both;
+}
+
+.root::backdrop {
+  background: var(--obsidienne);
+}
+
+@keyframes venir {
+  from {
+    opacity: 0;
+  }
+}
+
+.sheet {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  grid-template-areas:
+    'tete tete tete tete tete tete tete tete tete tete tete tete'
+    'per per per per per per per . reg reg reg reg'
+    'pied pied pied pied pied pied pied pied pied pied pied pied';
+  column-gap: var(--gouttiere);
+  row-gap: var(--e7);
+  min-height: 100%;
+  padding: var(--e5) var(--marge-page) var(--e7);
+}
+
+.tete {
+  grid-area: tete;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--e4);
+}
+
+.titre {
+  font-size: var(--t4);
+}
+
+.titre :global(.gloss__tr) {
+  margin-top: 0.5rem;
+  font-size: var(--t0);
+}
+
+.actions {
+  display: flex;
+  gap: var(--e4);
+}
+
+.action {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding-inline: var(--e2);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--ivoire);
+}
+
+.action :global(.gloss__main) {
+  text-decoration: underline 2px var(--cendre);
+  text-underline-offset: 3px;
+}
+
+.action:hover :global(.gloss__main),
+.action:focus-visible :global(.gloss__main) {
+  text-decoration-color: var(--braise);
+}
+
+.intertitre {
+  margin-bottom: var(--e5);
+  font-size: var(--t2);
+}
+
+/* ------------------------------------------------------------ Les huit périodes */
+.periodes {
+  grid-area: per;
+}
+
+.listePeriodes {
+  display: grid;
+}
+
+.periode {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr) auto 10.5rem;
+  align-items: center;
+  column-gap: var(--e4);
+  min-height: 3.5rem;
+  padding-block: var(--e2);
+  text-decoration: none;
+  color: var(--ivoire);
+}
+
+.chiffre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t2);
+  line-height: 1;
+}
+
+.nomPeriode {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.hv {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-size: var(--t1);
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  text-decoration-color: transparent;
+}
+
+.periode:hover .hv,
+.periode:focus-visible .hv {
+  text-decoration-color: var(--braise);
+}
+
+.glose {
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.annees {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+  white-space: nowrap;
+}
+
+.profil {
+  justify-self: end;
+  width: 10.5rem;
+  height: auto;
+}
+
+/* ------------------------------------------------------------ Les neuf registres */
+.registres {
+  grid-area: reg;
+}
+
+.listeRegistres {
+  display: grid;
+  gap: var(--e3);
+}
+
+.registre {
+  display: inline-flex;
+  min-height: 2.75rem;
+  text-decoration: none;
+  color: var(--ivoire);
+}
+
+.registre :global(.gloss__main) {
+  font-family: var(--f-chronique);
+  font-weight: 350;
+  font-size: var(--t3);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  text-decoration-line: underline;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 6px;
+  text-decoration-color: transparent;
+}
+
+.registre :global(.gloss__tr) {
+  margin-top: 0.35rem;
+  font-size: var(--t0);
+}
+
+.registre:hover :global(.gloss__main),
+.registre:focus-visible :global(.gloss__main) {
+  text-decoration-color: var(--braise);
+}
+
+/* ------------------------------------------------------------ Pied */
+.pied {
+  grid-area: pied;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: var(--e6);
+  row-gap: var(--e3);
+}
+
+.lienPied {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  color: var(--ivoire);
+}
+
+.lienPied :global(.gloss__main) {
+  font-family: var(--f-musee);
+}
+
+@media (width < 1024px) {
+  .sheet {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      'tete'
+      'per'
+      'reg'
+      'pied';
+    row-gap: var(--e6);
+  }
+
+  .periode {
+    grid-template-columns: 3.5rem minmax(0, 1fr) auto;
+    grid-template-areas:
+      'chiffre nom annees'
+      'chiffre profil profil';
+    row-gap: var(--e2);
+  }
+
+  .chiffre {
+    grid-area: chiffre;
+    align-self: start;
+  }
+
+  .nomPeriode {
+    grid-area: nom;
+  }
+
+  .annees {
+    grid-area: annees;
+    align-self: start;
+  }
+
+  .profil {
+    grid-area: profil;
+    justify-self: start;
+  }
+
+  .registre :global(.gloss__main) {
+    font-size: var(--t2);
+  }
+}

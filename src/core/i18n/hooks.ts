@@ -7,6 +7,7 @@ import { I18nContext } from './context';
 import type { LangApi } from './context';
 import { createMissingKeyReporter, resolveText, resolveTitle, resolveUi } from './resolve';
 import type { TitleText, UiText, Vars } from './resolve';
+import { fineTypo } from './typo';
 
 /** En développement, une clé absente est signalée une fois dans la console ; en production, jamais. */
 const reportMissingKey: (key: string) => void = import.meta.env.DEV
@@ -54,4 +55,20 @@ export function useTx(): (loc: Localized | null | undefined) => string {
 export function useTitle(): (loc: Localized) => TitleText {
   const { lang, support } = useLang();
   return useCallback((loc: Localized): TitleText => resolveTitle(loc, lang, support), [lang, support]);
+}
+
+/**
+ * Comme `useTx()`, avec la typographie fine de la langue lue (`fineTypo`) : apostrophes
+ * courbes, espaces insécables françaises. Pour l'affichage seulement, jamais pour une clé.
+ */
+export function useTxTypo(): (loc: Localized | null | undefined) => string {
+  const tx = useTx();
+  const { reading } = useLang();
+  return useCallback((loc: Localized | null | undefined): string => fineTypo(tx(loc), reading), [tx, reading]);
+}
+
+/** `typo(text)` : la typographie fine de la langue lue, appliquée à une chaîne déjà résolue. */
+export function useTypo(): (text: string) => string {
+  const { reading } = useLang();
+  return useCallback((text: string): string => fineTypo(text, reading), [reading]);
 }

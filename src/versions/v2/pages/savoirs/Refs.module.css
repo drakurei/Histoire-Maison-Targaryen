@@ -1,0 +1,66 @@
+.refs {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: baseline;
+  column-gap: var(--e4);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--cendre);
+}
+
+.titre :global(.gloss__main) {
+  font-family: var(--f-musee);
+  font-weight: 500;
+}
+
+.titre :global(.gloss__tr) {
+  font-size: 0.72rem;
+}
+
+.liste {
+  display: grid;
+  gap: var(--e1);
+}
+
+.liste li {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 0.6em;
+  align-items: baseline;
+}
+
+.lien {
+  position: relative;
+  display: inline-block;
+  padding-block: 0.4rem;
+  color: var(--ivoire);
+  overflow-wrap: anywhere;
+}
+
+/* Cible de 44 px (DESIGN §6) sans toucher à la composition : la zone de pression déborde
+   du texte au-dessus et au-dessous, centrée sur lui. */
+.lien::after {
+  position: absolute;
+  inset-inline: 0;
+  top: 50%;
+  height: max(100%, 2.75rem);
+  translate: 0 -50%;
+  content: '';
+}
+
+.lien cite,
+.liste cite {
+  font-style: italic;
+}
+
+.site {
+  color: var(--cendre);
+}
+
+@media (width < 1024px) {
+  .refs {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: var(--e1);
+  }
+}

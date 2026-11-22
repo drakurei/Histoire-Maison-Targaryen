@@ -7,7 +7,7 @@ import { reliabilityLevels, sources, sourceScale } from '@/core/content/sources'
 import { events } from '@/core/content/timeline';
 import type { Reliability, Source, SourceRef } from '@/core/content/types';
 import { wars } from '@/core/content/wars';
-import { useLang, useT } from '@/core/i18n';
+import { useLang, useT, useTxTypo } from '@/core/i18n';
 import { ReliabilityGlyph } from '@/shared/marks/Marks';
 
 import { Figure } from '../components/Figure';
@@ -17,7 +17,6 @@ import { Prose } from '../components/Prose';
 import { Rubric } from '../components/Rubric';
 import { useHashScroll } from './language/useHashScroll';
 import styles from './SourcesPage.module.css';
-import { useTxTypo } from '../components/typo';
 
 /*
  * Sigles des ouvrages : les mêmes que dans components/SourceList (qui ne les exporte pas),

@@ -1,0 +1,147 @@
+.page {
+  padding-bottom: var(--v2-reserve-bas);
+}
+
+.tete {
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-column: 1 / -1;
+  align-items: end;
+  margin-bottom: var(--e6);
+}
+
+.tete > header {
+  grid-column: 1 / 8;
+}
+
+.chapeau {
+  margin: 0;
+  max-width: 48ch;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.4;
+  color: var(--ivoire);
+}
+
+.nombre {
+  grid-column: 9 / -1;
+  display: grid;
+  justify-items: start;
+  gap: var(--e3);
+}
+
+.legende {
+  margin: 0;
+  max-width: 22ch;
+  font-family: var(--f-recit);
+  font-style: italic;
+  line-height: 1.35;
+  color: var(--cendre);
+}
+
+.commandes {
+  display: grid;
+  gap: var(--e1);
+  margin-bottom: var(--e4);
+}
+
+.rail {
+  margin-bottom: var(--e6);
+}
+
+.railListe {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+  row-gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.railLien {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.4em;
+  min-height: 2.75rem;
+  padding-top: 0.6rem;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--ivoire);
+}
+
+.railChiffre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t0);
+  color: var(--cendre);
+}
+
+.effacer {
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--ivoire);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+}
+
+.effacer:hover,
+.effacer:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+.sansDate {
+  margin-top: var(--e7);
+  scroll-margin-top: var(--e5);
+}
+
+.sansDateTitre {
+  margin: 0 0 var(--e2);
+  font-size: var(--t2);
+}
+
+.sansDateNote {
+  margin: 0 0 var(--e4);
+  max-width: 50ch;
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--cendre);
+}
+
+.sansDateListe {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+  row-gap: var(--e1);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sansDateNom {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  min-height: 2.75rem;
+  font-family: var(--f-chronique);
+}
+
+.hachure {
+  stroke: var(--cendre);
+  stroke-width: 1.25;
+}
+
+@media (width < 1024px) {
+  .tete {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: var(--e5);
+  }
+
+  .tete > header,
+  .nombre {
+    grid-column: 1;
+  }
+}

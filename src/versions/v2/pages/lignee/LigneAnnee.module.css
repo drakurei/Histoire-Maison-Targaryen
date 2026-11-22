@@ -1,0 +1,85 @@
+.ligne {
+  display: grid;
+  gap: var(--e4);
+  padding-top: var(--e6);
+}
+
+.annee {
+  margin: 0;
+  font-family: var(--f-chronique);
+  font-weight: 350;
+  font-size: var(--t2);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--ivoire);
+}
+
+.chiffres {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: start;
+  column-gap: var(--e7);
+  row-gap: var(--e5);
+  margin: 0;
+}
+
+.chiffre {
+  display: grid;
+  gap: var(--e1);
+}
+
+.chiffre dt {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.chiffre dd {
+  margin: 0;
+}
+
+.nombre {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t2);
+  line-height: 1;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+}
+
+.regne {
+  max-width: 28ch;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.2;
+}
+
+.aucun {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  color: var(--cendre);
+}
+
+.regler {
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--ivoire);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+}
+
+.regler:hover,
+.regler:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+@media (width < 1024px) {
+  .chiffres {
+    column-gap: var(--e6);
+  }
+}

@@ -1,0 +1,143 @@
+/*
+ * Chroniques (fascé). Le titre, la figure de bord à bord alignée sur la fasce, sa légende,
+ * puis la liste des huit périodes : une par ligne, sans carte, sans filet.
+ */
+.page {
+  row-gap: var(--e6);
+  padding-bottom: var(--e8);
+}
+
+.page > .titre {
+  grid-column: 1 / span 8;
+}
+
+.figure {
+  display: grid;
+  gap: var(--e4);
+  margin: 0;
+}
+
+.legende {
+  max-width: 58ch;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--cendre);
+}
+
+/* ------------------------------------------------------------ la liste */
+.liste {
+  display: grid;
+  gap: var(--e6);
+  padding-top: var(--e7);
+}
+
+.intertitre {
+  font-size: var(--t3);
+  font-weight: 300;
+}
+
+.periodes {
+  display: grid;
+  gap: var(--e6);
+}
+
+.periode {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: var(--gouttiere);
+  align-items: baseline;
+}
+
+.chiffre {
+  grid-column: 1;
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t2);
+  line-height: 1;
+  color: var(--cendre);
+}
+
+.tete {
+  grid-column: 2 / span 4;
+  display: grid;
+  gap: var(--e1);
+}
+
+.nom {
+  font-size: var(--t2);
+  font-weight: 350;
+  line-height: 1;
+}
+
+.nom a {
+  text-decoration-color: var(--cendre);
+  text-underline-offset: 5px;
+}
+
+.glose {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  color: var(--cendre);
+}
+
+.annees {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.phrase {
+  grid-column: 6 / span 4;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.55;
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  color: var(--ivoire);
+}
+
+.dragons {
+  grid-column: 10 / span 3;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.4;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+}
+
+.dragons[data-vide] {
+  color: var(--cendre);
+}
+
+@media (width < 1024px) {
+  .page > .titre {
+    grid-column: 1 / -1;
+  }
+
+  .liste {
+    padding-top: var(--e6);
+  }
+
+  .periode {
+    grid-template-columns: 2.5rem minmax(0, 1fr);
+    row-gap: var(--e2);
+  }
+
+  .chiffre {
+    grid-column: 1;
+    grid-row: 1;
+    font-size: var(--t1);
+  }
+
+  .tete,
+  .phrase,
+  .dragons {
+    grid-column: 2;
+  }
+
+  .nom {
+    font-size: var(--t1);
+  }
+}

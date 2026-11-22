@@ -1,0 +1,68 @@
+/*
+ * Colonne collante des registres en parti : de la ligne de lecture à la fasce. Le profil
+ * touche le bord bas de la colonne, donc le haut de la fasce : même rouge, aucun espace.
+ */
+.colonne {
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--e4);
+  height: calc(100svh - var(--v2-fasce-totale));
+  padding-top: var(--e5);
+}
+
+.haut {
+  flex: none;
+}
+
+.carte {
+  position: relative;
+  flex: 1;
+  min-height: 16rem;
+}
+
+.commandes {
+  flex: none;
+}
+
+.profil {
+  position: relative;
+  flex: none;
+  margin-bottom: 0;
+  line-height: 0;
+}
+
+/* Évidé : le nombre descend dans le rouge et s'y écrit en sable. */
+.nombre {
+  position: absolute;
+  bottom: -0.04em;
+  line-height: 0.8;
+}
+
+/* Le rouge est trop bas : le nombre s'écrit en ivoire au-dessus du profil. */
+.nombreSeul {
+  flex: none;
+}
+
+:global(.v2[data-cartel]) .colonne {
+  opacity: 0.4;
+}
+
+@media (width < 1024px) {
+  .colonne {
+    position: static;
+    height: auto;
+    padding-top: 0;
+  }
+
+  .carte {
+    flex: none;
+    height: 40svh;
+  }
+
+  .nombre,
+  .nombreSeul {
+    display: none;
+  }
+}

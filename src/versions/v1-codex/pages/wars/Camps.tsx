@@ -1,10 +1,9 @@
 import { getPerson } from '@/core/content/people';
 import type { Belligerent } from '@/core/content/types';
-import { useT } from '@/core/i18n';
+import { useT, useTxTypo } from '@/core/i18n';
 
 import { EntityLink } from '../../components/EntityLink';
 import styles from './Camps.module.css';
-import { useTxTypo } from '../../components/typo';
 
 interface CampsProps {
   sides: readonly Belligerent[];

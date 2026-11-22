@@ -1,0 +1,153 @@
+/*
+ * La planche : champ plein, de bord à bord, de la ligne des registres à la fasce. Le dragon
+ * déborde du cadre quand il est grand ; la réserve d'obsidienne, opaque, coupe le dessin en
+ * haut à gauche comme une gravure laisse un blanc.
+ */
+.planche {
+  position: relative;
+  height: calc(100svh - var(--v2-ligne) - var(--v2-fasce-totale));
+  min-height: 30rem;
+  margin-top: calc(-1 * var(--e7));
+  margin-inline: calc(-1 * var(--marge-page));
+}
+
+.cadre {
+  position: absolute;
+  inset: 0;
+  overflow: clip;
+}
+
+.dragon,
+.contour {
+  position: absolute;
+  display: block;
+  overflow: visible;
+}
+
+.dragon {
+  will-change: transform;
+}
+
+.contour {
+  pointer-events: none;
+}
+
+.trait {
+  fill: none;
+  stroke-linejoin: round;
+  stroke-linecap: butt;
+}
+
+.contour[data-ton='fantome'] .trait {
+  stroke: var(--cendre);
+}
+
+.contour[data-ton='estime'] .trait {
+  stroke: var(--ivoire);
+}
+
+.fond {
+  fill: var(--obsidienne);
+}
+
+.reserve {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  display: grid;
+  gap: var(--e5);
+  max-width: min(34rem, 46vw);
+  padding: var(--e6) var(--e6) var(--e6) var(--marge-page);
+  background: var(--v2-reserve);
+}
+
+.titre {
+  gap: var(--e3);
+}
+
+.alias {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.2;
+  color: var(--ivoire);
+}
+
+.ligne {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e5);
+  row-gap: var(--e2);
+  font-family: var(--f-musee);
+  font-size: var(--t0);
+}
+
+.annees {
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+.notes {
+  display: grid;
+  gap: var(--e2);
+  max-width: 44ch;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+  color: var(--cendre);
+}
+
+.echelleNote[data-ecran='telephone'] {
+  display: none;
+}
+
+.pager {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e6);
+  row-gap: var(--e2);
+  font-family: var(--f-musee);
+  font-weight: 500;
+}
+
+.pas {
+  display: inline-grid;
+  align-content: center;
+  min-height: 2.75rem;
+}
+
+.pasNom {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-weight: 400;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+@media (width < 1024px) {
+  .planche {
+    height: auto;
+    min-height: 0;
+    margin-top: calc(-1 * var(--e6));
+  }
+
+  .reserve {
+    position: relative;
+    max-width: none;
+    padding: var(--e6) var(--marge-page) var(--e5);
+  }
+
+  .cadre {
+    position: relative;
+    inset: auto;
+  }
+
+  .echelleNote[data-ecran='telephone'] {
+    display: block;
+  }
+
+  .echelleNote[data-ecran='ordinateur'] {
+    display: none;
+  }
+}

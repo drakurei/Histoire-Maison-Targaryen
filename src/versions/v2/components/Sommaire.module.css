@@ -1,0 +1,29 @@
+.liste {
+  display: grid;
+  gap: var(--e1);
+}
+
+.entree {
+  display: grid;
+  grid-template-columns: 2rem minmax(0, 1fr);
+  align-items: baseline;
+}
+
+.numero {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t0);
+  color: var(--cendre);
+}
+
+.lien {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding-block: 0.55rem;
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-size: var(--t0);
+  line-height: 1.2;
+  color: var(--ivoire);
+}

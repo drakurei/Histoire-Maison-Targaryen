@@ -1,0 +1,47 @@
+/* L'appel garde une cible de 44 px sans déranger l'interlignage : la zone dépasse en négatif. */
+.appel {
+  position: relative;
+  display: inline-block;
+  padding: 0 0.1em;
+  font-family: var(--f-musee);
+  font-weight: 700;
+  font-size: 0.8em;
+  line-height: 1;
+  font-variant-numeric: lining-nums;
+  color: var(--ivoire);
+  text-decoration: underline 2px var(--cendre);
+  text-underline-offset: 2px;
+  vertical-align: baseline;
+}
+
+.appel::after {
+  position: absolute;
+  inset: -0.9rem -0.6rem;
+  content: '';
+}
+
+.appel[aria-expanded='true'],
+.appel:hover {
+  text-decoration-color: var(--braise);
+}
+
+.note {
+  display: grid;
+  grid-template-columns: 1.5rem minmax(0, 1fr);
+  max-width: 58ch;
+  margin-block: var(--e3) var(--e4);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--cendre);
+}
+
+.note[hidden] {
+  display: none;
+}
+
+.numero {
+  font-weight: 700;
+  font-variant-numeric: lining-nums;
+  color: var(--ivoire);
+}

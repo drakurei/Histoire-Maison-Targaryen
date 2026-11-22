@@ -1,0 +1,193 @@
+.root {
+  display: grid;
+  gap: var(--e5);
+  font-family: var(--f-musee);
+}
+
+.tete {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--e4);
+}
+
+.titre {
+  font-size: var(--t4);
+}
+
+.nombre {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.35rem;
+}
+
+.nombre > :first-child {
+  font-size: var(--t4);
+}
+
+.ere {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t0);
+  letter-spacing: 0;
+}
+
+.titreVide {
+  font-size: var(--t2);
+}
+
+.crans {
+  display: flex;
+}
+
+.cran {
+  display: grid;
+  place-items: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  font-size: 1.6rem;
+  color: var(--ivoire);
+}
+
+.cran:disabled {
+  color: var(--basalte);
+}
+
+.cran:hover:not(:disabled) span {
+  color: var(--braise);
+}
+
+.periodes {
+  display: grid;
+  gap: var(--e2);
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.1;
+}
+
+.periode {
+  display: grid;
+  grid-template-columns: 2.5rem minmax(0, 1fr);
+  align-items: baseline;
+}
+
+.chiffrePeriode {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t0);
+}
+
+.glose {
+  display: block;
+  margin-top: 0.2rem;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.section {
+  display: grid;
+  gap: var(--e2);
+}
+
+.intertitre {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-size: var(--t1);
+}
+
+.intertitre :global(.gloss__tr) {
+  margin-top: 0.3rem;
+}
+
+.liste {
+  display: grid;
+  gap: var(--e1);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.4;
+}
+
+.regne {
+  display: grid;
+  grid-template-columns: 2.5rem minmax(0, 1fr);
+  align-items: baseline;
+}
+
+.ordinal {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t1);
+  color: var(--or);
+}
+
+.epithete {
+  font-style: italic;
+}
+
+.depuis {
+  display: block;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.noms,
+.doute {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.5;
+}
+
+.doute {
+  color: var(--cendre);
+}
+
+/* Sort inconnu : la même hachure que la masse, en petit, avant le libellé. */
+.hachure {
+  display: inline-block;
+  width: 1.1rem;
+  height: 0.7rem;
+  margin-inline-end: 0.4rem;
+  background: repeating-linear-gradient(45deg, var(--sang) 0 1.6px, transparent 1.6px 4px);
+}
+
+.aucun,
+.vide {
+  font-family: var(--f-recit);
+  color: var(--cendre);
+}
+
+.vide {
+  font-size: var(--t0);
+  line-height: 1.5;
+}
+
+.annees {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--e2) var(--e4);
+}
+
+.annee,
+.toutTemps {
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--ivoire);
+  text-align: left;
+  text-decoration: underline 2px var(--cendre);
+  text-underline-offset: 3px;
+}
+
+.annee:hover,
+.annee:focus-visible,
+.toutTemps:hover,
+.toutTemps:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+.toutTemps {
+  justify-self: start;
+}

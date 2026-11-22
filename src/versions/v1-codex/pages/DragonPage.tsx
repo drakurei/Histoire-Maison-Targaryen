@@ -9,7 +9,7 @@ import { getPerson } from '@/core/content/people';
 import { events, periods } from '@/core/content/timeline';
 import type { Battle, Dragon } from '@/core/content/types';
 import { getBattle, getWar } from '@/core/content/wars';
-import { formatSpan, formatYear, useLang, useT, useTitle, VALYRIAN_TAG } from '@/core/i18n';
+import { formatSpan, formatYear, useLang, useT, useTitle, useTxTypo, VALYRIAN_TAG } from '@/core/i18n';
 import { DragonScale } from '@/shared/dragon';
 
 import { EntityLink } from '../components/EntityLink';
@@ -27,7 +27,6 @@ import { useDragonYears } from './dragons/DragonRow';
 import { Plate } from './dragons/Plate';
 import { dragonEpochs, dragonName, firstKnownYear, neighbours } from './dragons/registry';
 import { SpanRuler } from './dragons/SpanRuler';
-import { useTxTypo } from '../components/typo';
 
 const BALERION = 'balerion';
 const NARRATIVE_END = 300;

@@ -1,0 +1,300 @@
+.page {
+  padding-bottom: 0;
+}
+
+.titre {
+  margin-bottom: var(--e6);
+}
+
+.epithete {
+  margin: 0;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t2);
+  line-height: 1.1;
+  color: var(--cendre);
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+  row-gap: var(--e1);
+  margin: 0;
+  font-family: var(--f-musee);
+  font-size: var(--t0);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+}
+
+.dehors {
+  margin: 0;
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--braise);
+}
+
+.recit {
+  display: grid;
+  gap: var(--e6);
+  padding-bottom: var(--v2-reserve-bas);
+}
+
+.petiteEtiquette {
+  margin: 0 0 var(--e2);
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.titres ul {
+  display: grid;
+  gap: var(--e1);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: var(--f-chronique);
+  font-size: var(--t0);
+  line-height: 1.3;
+}
+
+.titres li:first-child {
+  font-size: var(--t1);
+}
+
+.sommaire {
+  max-width: 40ch;
+}
+
+.section {
+  display: grid;
+  gap: var(--e4);
+  scroll-margin-top: var(--e5);
+}
+
+.h2 {
+  margin: 0;
+  max-width: 24ch;
+  font-size: var(--t2);
+  font-weight: 400;
+}
+
+/* La parenté écrite : un cartel de musée, étiquette en marge, noms en Texturina. */
+.parente {
+  display: grid;
+  gap: var(--e3);
+  margin: 0;
+  max-width: 64ch;
+}
+
+.rang {
+  display: grid;
+  grid-template-columns: 9rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: baseline;
+}
+
+.rang dt {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.rang dd {
+  margin: 0;
+  font-family: var(--f-chronique);
+  font-size: var(--t0);
+  line-height: 1.45;
+}
+
+.unions {
+  display: grid;
+  gap: var(--e2);
+}
+
+.union {
+  margin: 0;
+}
+
+.precision {
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--cendre);
+}
+
+.enfants {
+  display: block;
+  padding-left: 1rem;
+  font-size: calc(var(--t0) * 0.94);
+}
+
+.cendre {
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--cendre);
+}
+
+/* Ce que l'adaptation change : tenu à part, sur la suie, ouvert par la marque de continuité. */
+.adaptation {
+  display: grid;
+  gap: var(--e4);
+  max-width: calc(64ch + 2 * var(--e5));
+  padding: var(--e5);
+  background: var(--suie);
+  scroll-margin-top: var(--e5);
+}
+
+.continuite {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--e2);
+  margin: 0;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.marque {
+  flex: none;
+  width: 1.1rem;
+  height: 1.1rem;
+  color: var(--ivoire);
+}
+
+.annales {
+  display: grid;
+  gap: var(--e3);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  max-width: 64ch;
+}
+
+.evenement {
+  display: grid;
+  grid-template-columns: 7.5rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: baseline;
+}
+
+.annee {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.evenementTexte {
+  display: grid;
+  gap: 0.1rem;
+}
+
+.evenementTitre {
+  font-family: var(--f-chronique);
+  font-size: var(--t0);
+  line-height: 1.3;
+}
+
+.periode {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.sources {
+  max-width: 64ch;
+}
+
+/* ------------------------------------------------------------ La colonne collante */
+.colonne {
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  height: calc(100svh - var(--v2-fasce-totale));
+  padding-top: var(--e5);
+}
+
+.haut {
+  flex: 1;
+  min-height: 0;
+  display: grid;
+  align-content: start;
+  gap: var(--e5);
+  overflow-y: auto;
+  padding-bottom: var(--e4);
+  scrollbar-width: thin;
+  scrollbar-color: var(--basalte) transparent;
+}
+
+.nombre {
+  display: grid;
+  gap: var(--e2);
+}
+
+.rangRoi {
+  margin: 0;
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--cendre);
+}
+
+.bureau {
+  display: grid;
+  gap: var(--e6);
+}
+
+.bas {
+  flex: none;
+}
+
+.telephone {
+  display: none;
+}
+
+@media (width < 1024px) {
+  .colonne {
+    position: static;
+    height: auto;
+    padding-top: 0;
+  }
+
+  .haut {
+    overflow: visible;
+  }
+
+  .bureau {
+    display: none;
+  }
+
+  .telephone {
+    display: grid;
+    gap: var(--e6);
+  }
+
+  .rang {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: var(--e1);
+  }
+
+  .evenement {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* Cible de 44 px (DESIGN §6, audit V2) : la zone de pression déborde du texte, sans le déplacer. */
+.evenementTitre {
+  position: relative;
+}
+
+.evenementTitre::after {
+  position: absolute;
+  inset-inline: 0;
+  top: 50%;
+  height: max(100%, 2.75rem);
+  translate: 0 -50%;
+  content: '';
+}

@@ -1,0 +1,157 @@
+/*
+ * Thème de la version 2, « Sable et gueules ». Tout est sous la classe racine .v2.
+ *
+ * De sable à la fasce de gueules : un champ d'obsidienne, une bande rouge fixe au bas de
+ * l'écran dont l'épaisseur est le nombre de dragons vivants. Le rouge est toujours une
+ * donnée (dragons, sang de la lignée, feu d'un lieu, noms d'entités), jamais un ornement,
+ * jamais un bouton. Aucun vélin, aucune lettrine, aucun filet d'or. Spec : v2-spec.md §3.
+ *
+ * Rangé dans la couche v2, après reset et base : les CSS Modules (hors couche) l'emportent.
+ */
+
+@layer v2 {
+  .v2 {
+    /* ------------------------------------------------------------ Mesures du bâti */
+    --v2-ligne: 4rem; /* ligne des registres */
+    --v2-fasce-ciel: 0.75rem; /* au-dessus de la masse : encoche, durée, encoches d'entité */
+    --v2-fasce-masse: 2.75rem; /* quinze dragons */
+    --v2-fasce-rangee: 2.75rem; /* périodes, ou commandes au téléphone */
+    --v2-fasce-chiffres: 0rem; /* rangée des huit chiffres, tablette seulement */
+    --v2-fasce: calc(var(--v2-fasce-ciel) + var(--v2-fasce-masse) + var(--v2-fasce-rangee) + var(--v2-fasce-chiffres));
+    --v2-zone-sure: env(safe-area-inset-bottom, 0px);
+    --v2-fasce-totale: calc(var(--v2-fasce) + var(--v2-zone-sure));
+    --v2-cartel: 15rem;
+    --v2-volet: min(28rem, 34vw);
+    --v2-hachure: 4px;
+    --v2-bord: 1rem; /* retrait des commandes au téléphone : le geste Retour vit au bord */
+
+    /* Le camp des Verts, et rien d'autre. Les Noirs prennent l'ivoire, en marque pleine. */
+    --v2-vert: oklch(0.58 0.09 150);
+    --v2-reserve: var(--obsidienne);
+
+    /* La réserve du bas du champ : rien ne passe sous la fasce. */
+    --v2-reserve-bas: calc(var(--v2-fasce-totale) + var(--e7));
+
+    /* Grille de DESIGN §6. */
+    --v2-colonne: calc((100% - 11 * var(--gouttiere)) / 12);
+
+    --focus-couleur: var(--braise);
+
+    /* La carte peinte (spec §3.1). */
+    --map-hatch: transparent;
+
+    min-height: 100svh;
+    background: var(--obsidienne);
+    color: var(--ivoire);
+  }
+
+  /* Téléphone et tablette : masse de 20 px, rangée des commandes. */
+  @media (width < 1024px) {
+    .v2 {
+      --v2-ligne: 3rem;
+      --v2-fasce-masse: 1.25rem;
+      --marge-page: 1.25rem;
+    }
+  }
+
+  @media (768px <= width < 1024px) {
+    .v2 {
+      --v2-fasce-chiffres: 2.75rem;
+    }
+  }
+
+  /* Le portail : la fasce en majesté, haute de 45 svh, soudée à sa rangée et à son cartel. */
+  @media (width >= 1024px) {
+    .v2[data-majeste] {
+      --v2-fasce-masse: calc(var(--v2-majeste, 45svh) - var(--v2-fasce-ciel) - var(--v2-fasce-rangee));
+    }
+  }
+
+  /* Paysage bas : masse de 12 px. */
+  @media (width < 1024px) and (height < 480px) and (orientation: landscape) {
+    .v2 {
+      --v2-fasce-masse: 0.75rem;
+      --v2-fasce-chiffres: 0rem;
+    }
+  }
+
+  /* ------------------------------------------------------------ Titres */
+  .v2 :is(h1, h2, h3, h4) {
+    font-family: var(--f-chronique);
+    font-weight: 350;
+    font-variation-settings: 'opsz' 72;
+    letter-spacing: -0.02em;
+    line-height: 0.95;
+    color: var(--ivoire);
+    text-wrap: balance;
+  }
+
+  .v2 :is(h3, h4) {
+    font-weight: 400;
+    font-variation-settings: 'opsz' 36;
+    line-height: 1.05;
+  }
+
+  /* ------------------------------------------------------------ Liens (spec §3.2)
+     Soulignement de 2 px décalé de 3 px. Navigation : cendre. Nom d'entité : sang.
+     Survol et focus : braise. Le texte ne change jamais de couleur. */
+  .v2 a {
+    color: inherit;
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    text-decoration-color: var(--cendre);
+    transition: text-decoration-color var(--d-geste-court) var(--c-expo);
+  }
+
+  .v2 a[data-entite] {
+    text-decoration-color: var(--sang);
+  }
+
+  .v2 a:hover,
+  .v2 a:focus-visible {
+    text-decoration-color: var(--braise);
+    text-decoration-thickness: 2px;
+  }
+
+  /* ------------------------------------------------------------ La glose interlinéaire
+     Valyrien en Texturina, glose dessous en Alegreya italique, alignée à gauche. */
+  .v2 .gloss--hv {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    vertical-align: top;
+  }
+
+  .v2 .gloss__tr {
+    font-family: var(--f-recit);
+    font-style: italic;
+    font-weight: 400;
+    font-size: var(--t-1);
+    line-height: 1.2;
+    letter-spacing: 0;
+    color: var(--cendre);
+    font-variation-settings: normal;
+  }
+
+  /* ------------------------------------------------------------ Le récit */
+  .v2 p {
+    hyphens: auto;
+  }
+
+  /* Sigles d'ère : vraies petites capitales, jamais espacées. */
+  .v2 .ere {
+    font-variant-caps: all-small-caps;
+    letter-spacing: 0;
+  }
+
+  .v2 ::selection {
+    background: var(--cramoisi);
+    color: var(--ivoire);
+  }
+
+  /* Aucune croix native dans les champs de recherche. */
+  .v2 input[type='search']::-webkit-search-cancel-button {
+    appearance: none;
+  }
+}

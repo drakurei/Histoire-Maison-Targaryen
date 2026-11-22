@@ -1,0 +1,110 @@
+.listes {
+  display: grid;
+  gap: var(--e7);
+}
+
+.intertitre {
+  margin-bottom: var(--e4);
+  font-size: var(--t2);
+  font-weight: 300;
+}
+
+/* ------------------------------------------------------------ les huit périodes */
+.periodes {
+  display: grid;
+}
+
+.periode {
+  display: grid;
+  grid-template-columns: 3rem minmax(0, 1fr) auto;
+  align-items: center;
+  column-gap: var(--e3);
+  min-height: 3.5rem;
+  padding-block: var(--e2);
+  text-decoration: none;
+  color: var(--ivoire);
+}
+
+.chiffre {
+  white-space: nowrap;
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t1);
+  line-height: 1;
+  color: var(--cendre);
+}
+
+.nom {
+  display: grid;
+  gap: 0.15rem;
+  min-width: 0;
+}
+
+.hv {
+  font-family: var(--f-chronique);
+  font-size: var(--t0);
+  line-height: 1.1;
+  text-decoration: underline 2px transparent;
+  text-underline-offset: 3px;
+}
+
+.periode:hover .hv,
+.periode:focus-visible .hv {
+  text-decoration-color: var(--braise);
+}
+
+.ligne {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 0.6em;
+}
+
+.glose {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.annees {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.profil {
+  display: block;
+  align-self: end;
+}
+
+/* ------------------------------------------------------------ les neuf registres */
+.registres {
+  display: grid;
+  gap: var(--e2);
+}
+
+.registre {
+  display: inline-block;
+  padding-block: var(--e2);
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  line-height: 1;
+  text-decoration: none;
+  color: var(--ivoire);
+}
+
+.registre :global(.gloss__main) {
+  text-decoration: underline 2px var(--cendre);
+  text-underline-offset: 5px;
+}
+
+.registre:hover :global(.gloss__main),
+.registre:focus-visible :global(.gloss__main) {
+  text-decoration-color: var(--braise);
+}
+
+.registre :global(.gloss__tr) {
+  margin-top: 0.35rem;
+  font-size: var(--t-1);
+}

@@ -1,0 +1,110 @@
+/*
+ * Pièces communes des vues de savoir (langue, sources, apprendre, à propos) : la colonne
+ * collante du parti, les intertitres, les sections. Tout est sous .v2 par la couche de la vue.
+ */
+
+/* La colonne du parti, collante de la ligne de lecture à la fasce. */
+.colonne {
+  position: sticky;
+  top: var(--e5);
+  display: grid;
+  align-content: start;
+  gap: var(--e5);
+  max-height: calc(100svh - var(--v2-fasce-totale) - var(--e6));
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: var(--basalte) transparent;
+  padding-top: var(--e1);
+}
+
+@media (width < 1024px) {
+  .colonne {
+    position: static;
+    max-height: none;
+    overflow: visible;
+  }
+}
+
+.entete {
+  display: grid;
+  gap: var(--e5);
+  padding-bottom: var(--e7);
+}
+
+.section {
+  display: grid;
+  gap: var(--e5);
+  padding-top: var(--e7);
+  scroll-margin-top: var(--e5);
+}
+
+.section:first-child {
+  padding-top: 0;
+}
+
+.intertitre {
+  font-size: var(--t2);
+  font-weight: 400;
+  max-width: 22ch;
+}
+
+.intertitre :global(.gloss__tr) {
+  display: block;
+  margin-top: var(--e2);
+  font-size: var(--t-1);
+}
+
+.texte {
+  max-width: 64ch;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit-sombre);
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+.texte > * + * {
+  margin-top: 1em;
+}
+
+.appareil {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--cendre);
+}
+
+.legende {
+  max-width: 44ch;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--cendre);
+}
+
+/* Un lien de navigation en texte, cible de 44 px. */
+.lienTexte {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t0);
+  color: var(--ivoire);
+}
+
+.lienTexte :global(.gloss__main) {
+  font-family: var(--f-musee);
+}
+
+@media (width < 1024px) {
+  .entete {
+    padding-bottom: 0;
+  }
+
+  .section {
+    padding-top: var(--e7);
+  }
+}

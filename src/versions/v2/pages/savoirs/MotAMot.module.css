@@ -1,0 +1,69 @@
+.root {
+  display: grid;
+  gap: var(--e3);
+}
+
+.mots {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  column-gap: var(--e5);
+  row-gap: var(--e4);
+}
+
+.mot {
+  display: grid;
+  gap: 0.2rem;
+  max-width: 17ch;
+}
+
+.hv {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-variation-settings: 'opsz' 36;
+  font-size: var(--t1);
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  color: var(--ivoire);
+}
+
+.sens {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.3;
+  color: var(--ivoire);
+}
+
+.analyse {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.35;
+  color: var(--cendre);
+}
+
+.remarque {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.root[data-taille='grand'] .mots {
+  column-gap: var(--e6);
+}
+
+.root[data-taille='grand'] .mot {
+  max-width: 20ch;
+}
+
+.root[data-taille='grand'] .hv {
+  font-size: var(--t3);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 72;
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+
+.root[data-taille='grand'] .sens {
+  font-size: var(--t1);
+}

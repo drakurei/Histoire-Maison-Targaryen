@@ -1,0 +1,118 @@
+.root {
+  display: grid;
+  gap: var(--e6);
+}
+
+.tete {
+  display: grid;
+  gap: var(--e2);
+}
+
+.figure {
+  width: min(100%, 16rem);
+  margin-bottom: var(--e3);
+}
+
+.nom {
+  display: flex;
+  flex-direction: column;
+  font-size: var(--t3);
+}
+
+.glose {
+  margin-top: 0.4rem;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-weight: 400;
+  font-size: var(--t0);
+  letter-spacing: 0;
+  color: var(--cendre);
+}
+
+.sous {
+  font-style: italic;
+  font-size: var(--t0);
+}
+
+.dates {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--e2) var(--e4);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.regne {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--ivoire);
+}
+
+.couronne {
+  color: var(--or);
+}
+
+.age {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--ivoire);
+}
+
+/* ------------------------------------------------------------ Les quatre rangées */
+.rangees {
+  display: grid;
+  gap: var(--e3);
+}
+
+.rangee {
+  display: grid;
+  grid-template-columns: 5.5rem minmax(0, 1fr) 2rem;
+  align-items: baseline;
+  column-gap: var(--e3);
+}
+
+.etiquette {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.etiquette :global(.gloss__main) {
+  font-family: var(--f-chronique);
+  font-size: 0.95rem;
+  color: var(--ivoire);
+}
+
+.noms {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.45;
+}
+
+.compte {
+  justify-self: end;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.aucun {
+  font-family: var(--f-recit);
+  color: var(--cendre);
+}
+
+.fiche {
+  justify-self: start;
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+}

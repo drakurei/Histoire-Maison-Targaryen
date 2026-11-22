@@ -1,0 +1,37 @@
+.pied {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: baseline;
+  column-gap: var(--e4);
+  max-width: 64ch;
+  margin-top: var(--e5);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--cendre);
+}
+
+.titre :global(.gloss__main) {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--cendre);
+}
+
+.liste {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e4);
+  row-gap: var(--e1);
+}
+
+.ouvrage {
+  color: var(--ivoire);
+}
+
+.ouvrage cite {
+  font-style: italic;
+}
+
+.inconnue {
+  font-style: italic;
+}

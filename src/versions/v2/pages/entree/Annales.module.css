@@ -1,0 +1,263 @@
+/*
+ * Les annales. L'année est dans une colonne suspendue ; le fil du temps, un trait de sang
+ * de 3 px, court entre l'année et le texte, et porte une entaille d'obsidienne à chaque
+ * année. L'année réglée porte en plus le trait de braise de l'encoche.
+ */
+.annales {
+  --annee: 6.5rem;
+  --fil-x: calc(var(--annee) + var(--e4));
+  display: grid;
+  gap: var(--e6);
+}
+
+.outils {
+  display: grid;
+  gap: var(--e3);
+}
+
+.recherche {
+  display: grid;
+  gap: var(--e1);
+  max-width: 28rem;
+  font-family: var(--f-musee);
+}
+
+.rechercheLabel {
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.champ {
+  min-height: 2.75rem;
+  padding: 0 0 var(--e1);
+  border: 0;
+  border-bottom: 2px solid var(--basalte);
+  border-radius: 0;
+  background: transparent;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  color: var(--ivoire);
+}
+
+.champ::placeholder {
+  font-style: italic;
+  color: var(--cendre);
+}
+
+.champ:focus-visible {
+  outline: 2px solid var(--braise);
+  outline-offset: 3px;
+  border-bottom-color: var(--cendre);
+}
+
+.effacer {
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--ivoire);
+  text-decoration: underline 2px var(--cendre);
+  text-underline-offset: 3px;
+}
+
+.effacer:hover {
+  text-decoration-color: var(--braise);
+}
+
+/* ------------------------------------------------------------ le fil */
+.fil {
+  position: relative;
+  display: grid;
+  gap: var(--e7);
+}
+
+.fil::before {
+  position: absolute;
+  top: 0.6rem;
+  bottom: 0;
+  left: var(--fil-x);
+  width: 3px;
+  background: var(--sang);
+  content: '';
+}
+
+.groupe {
+  position: relative;
+  display: grid;
+  grid-template-columns: var(--annee) minmax(0, 1fr);
+  column-gap: calc(var(--e4) * 2 + 3px);
+  scroll-margin-top: 40svh;
+}
+
+/* L'entaille de l'année : le fil s'interrompt au droit du nombre. */
+.groupe::before {
+  position: absolute;
+  top: 0.55rem;
+  left: calc(var(--fil-x) - 1px);
+  width: 5px;
+  height: 0.5rem;
+  background: var(--obsidienne);
+  content: '';
+}
+
+/* L'année réglée : le trait de braise de l'encoche traverse le fil. */
+.groupe[data-courant]::after {
+  position: absolute;
+  top: 0.7rem;
+  left: calc(var(--fil-x) - 0.6rem);
+  width: calc(1.2rem + 3px);
+  height: 3px;
+  background: var(--braise);
+  content: '';
+}
+
+.annee {
+  align-self: start;
+  padding-top: 0.15rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t1);
+  line-height: 1;
+  font-variant-numeric: lining-nums tabular-nums;
+  text-align: right;
+  color: var(--ivoire);
+}
+
+.annee:not([data-inconnue]) {
+  display: grid;
+  align-self: start;
+  align-content: start;
+  justify-items: end;
+  gap: 0.2rem;
+}
+
+.valeur {
+  display: block;
+}
+
+.ere {
+  display: block;
+  font-size: var(--t-1);
+  font-weight: 500;
+  color: var(--cendre);
+}
+
+.annee[data-inconnue] {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-weight: 400;
+  font-size: var(--t0);
+  color: var(--cendre);
+}
+
+.evenements {
+  display: grid;
+  gap: var(--e6);
+  min-width: 0;
+}
+
+/* ------------------------------------------------------------ un événement */
+.evenement {
+  display: grid;
+  gap: var(--e3);
+  max-width: 60ch;
+}
+
+.titre {
+  font-size: var(--t1);
+  line-height: 1.08;
+}
+
+.titre a {
+  text-decoration-color: var(--cendre);
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: var(--e4);
+  row-gap: var(--e1);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.adaptation {
+  font-weight: 500;
+  color: var(--ivoire);
+}
+
+.resume {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit-sombre);
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  color: var(--ivoire);
+}
+
+.consequence {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.55;
+  color: var(--ivoire);
+}
+
+.consequenceLabel {
+  font-family: var(--f-musee);
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.liste {
+  display: grid;
+  gap: var(--e1);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+}
+
+.entites {
+  display: grid;
+  grid-template-columns: 6rem minmax(0, 1fr);
+  column-gap: var(--e3);
+}
+
+.entitesLabel {
+  color: var(--cendre);
+}
+
+.entitesListe {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e3);
+  row-gap: 0;
+  margin: 0;
+  color: var(--ivoire);
+}
+
+.entite a {
+  display: inline-block;
+  padding-block: 0.2rem;
+}
+
+@media (width < 1024px) {
+  .annales {
+    --annee: 3.25rem;
+    --fil-x: calc(var(--annee) + var(--e3));
+  }
+
+  .groupe {
+    column-gap: calc(var(--e3) * 2 + 3px);
+  }
+
+  .annee {
+    font-size: var(--t0);
+  }
+
+  .entites {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

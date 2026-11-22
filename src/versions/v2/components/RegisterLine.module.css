@@ -1,0 +1,148 @@
+/*
+ * Ligne des registres. Aucun fond, aucun filet ; elle défile avec la page.
+ * Grand écran : le nom, les registres, la langue sur une rangée. Ordinateur : le nom et la
+ * langue, puis les registres dessous. Téléphone : le nom et la langue seuls.
+ */
+.root {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-areas:
+    'nom langue'
+    'registres registres';
+  align-items: center;
+  column-gap: var(--gouttiere);
+  row-gap: var(--e3);
+  padding: var(--e5) var(--marge-page) 0;
+}
+
+@media (width >= 1760px) {
+  .root {
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    grid-template-areas: 'nom registres langue';
+    column-gap: var(--e7);
+  }
+}
+
+.nom {
+  grid-area: nom;
+  justify-self: start;
+  min-width: 0;
+  padding-block: var(--e2);
+  text-decoration: none;
+  color: var(--ivoire);
+}
+
+.nom :global(.gloss__main) {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-size: var(--t1);
+  font-variation-settings: 'opsz' 48;
+  line-height: 1;
+  letter-spacing: -0.015em;
+}
+
+.nom:hover :global(.gloss__main),
+.nom:focus-visible :global(.gloss__main) {
+  text-decoration: underline 2px var(--braise);
+  text-underline-offset: 6px;
+}
+
+.nomGlose {
+  margin-top: 0.3rem;
+}
+
+.registres {
+  grid-area: registres;
+  min-width: 0;
+}
+
+.liste {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  column-gap: clamp(1rem, 1.9vw, 2rem);
+  row-gap: var(--e2);
+}
+
+.registre {
+  display: inline-flex;
+  min-height: 2.75rem;
+  padding-block: var(--e2);
+  text-decoration: none;
+  color: var(--ivoire);
+}
+
+.registre :global(.gloss__main) {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-size: 1.06rem;
+  font-variation-settings: 'opsz' 24;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  text-decoration-line: underline;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 6px;
+  text-decoration-color: transparent;
+  transition: text-decoration-color var(--d-geste-court) var(--c-expo);
+}
+
+.registre :global(.gloss__tr) {
+  margin-top: 0.4rem;
+}
+
+.registre:hover :global(.gloss__main) {
+  text-decoration-color: var(--cendre);
+}
+
+/* Le registre actif porte le soulignement épais de braise. */
+.registre[aria-current] :global(.gloss__main) {
+  text-decoration-color: var(--braise);
+}
+
+.langue {
+  grid-area: langue;
+  justify-self: end;
+}
+
+.langueTel {
+  display: none;
+}
+
+@media (width < 1024px) {
+  .root {
+    grid-template-areas: 'nom langue';
+    padding-top: var(--e2);
+  }
+
+  .registres,
+  .langue {
+    display: none;
+  }
+
+  .langueTel {
+    grid-area: langue;
+    display: inline-flex;
+  }
+
+  .nom :global(.gloss__main) {
+    font-size: 1.2rem;
+  }
+
+  .nom :global(.gloss__tr) {
+    display: none;
+  }
+
+  /* Le nom du site ne se coupe jamais en points de suspension (« The Chronicles of House
+     Targar… » en anglais à 390 px, audit V2) : il suit la largeur, puis passe à la ligne. */
+  .nom :global(.gloss__main) {
+    display: block;
+    padding-bottom: 0.15em;
+    font-size: min(1.2rem, 4.6vw);
+    line-height: 1.15;
+    text-wrap: balance;
+  }
+
+  .nom {
+    max-width: 100%;
+  }
+}

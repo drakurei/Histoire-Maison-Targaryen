@@ -1,0 +1,71 @@
+.figure {
+  display: grid;
+  gap: var(--e2);
+  margin: 0;
+}
+
+/* Une figure dans le flux : le doigt qui glisse verticalement fait défiler la page. */
+.fixe {
+  height: 40svh;
+  margin-inline: calc(-1 * var(--marge-page));
+  touch-action: pan-y;
+}
+
+.bouton {
+  justify-self: start;
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding-inline: var(--e1);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--ivoire);
+}
+
+.bouton :global(.gloss__main) {
+  text-decoration: underline 2px var(--cendre);
+  text-underline-offset: 3px;
+}
+
+.bouton:hover :global(.gloss__main),
+.bouton:focus-visible :global(.gloss__main) {
+  text-decoration-color: var(--braise);
+}
+
+.dialog {
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: var(--obsidienne);
+  color: var(--ivoire);
+  animation: venir var(--d-geste-court) var(--c-expo) both;
+}
+
+.dialog[open] {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+}
+
+.dialog::backdrop {
+  background: var(--obsidienne);
+}
+
+.tete {
+  display: flex;
+  justify-content: flex-end;
+  padding: var(--e2) var(--v2-bord, 1rem);
+}
+
+.plein {
+  min-height: 0;
+}
+
+@keyframes venir {
+  from {
+    opacity: 0;
+  }
+}

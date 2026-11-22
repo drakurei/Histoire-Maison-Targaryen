@@ -1,11 +1,10 @@
 import type { GrammarBlock, GrammarLesson, Localized } from '@/core/content/types';
-import { useLang, useT, VALYRIAN_TAG } from '@/core/i18n';
+import { useLang, useT, useTxTypo, VALYRIAN_TAG } from '@/core/i18n';
 
 import { Prose } from '../../components/Prose';
 import { Rubric } from '../../components/Rubric';
 import { toRoman } from '../../components/numerals';
 import styles from './Lesson.module.css';
-import { useTxTypo } from '../../components/typo';
 
 /** Une cellule de tableau : la forme valyrienne quand elle existe (c'est le sujet de la leçon), sinon le texte lu. */
 function Cell({ value }: { value: Localized }) {

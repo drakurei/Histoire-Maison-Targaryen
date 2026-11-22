@@ -1,9 +1,8 @@
 import type { Localized } from '@/core/content/types';
-import { useLang } from '@/core/i18n';
+import { useLang, useTxTypo } from '@/core/i18n';
 
 import { Lettrine } from './Lettrine';
 import styles from './Prose.module.css';
-import { useTxTypo } from './typo';
 
 interface ProseProps {
   /** Texte de récit ; les paragraphes sont séparés par une ligne vide. */

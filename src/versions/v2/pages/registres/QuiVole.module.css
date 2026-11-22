@@ -1,0 +1,224 @@
+/*
+ * « Qui vole » : le grand nombre de la vue à gauche (les dragons vivants attestés), le titre
+ * posé sur sa ligne de pied ; dessous, les dragons à l'échelle sur le sable, en lignes.
+ */
+.section {
+  display: grid;
+  gap: var(--e5);
+  margin-top: var(--e7);
+}
+
+.tete {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  column-gap: var(--e5);
+  row-gap: var(--e3);
+}
+
+.nombre {
+  flex: none;
+}
+
+.titres {
+  display: grid;
+  gap: var(--e3);
+  max-width: 38rem;
+  padding-bottom: 0.6em;
+}
+
+.titre {
+  font-size: var(--t3);
+  font-weight: 300;
+}
+
+.compte {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--cendre);
+  hyphens: manual;
+}
+
+.figure {
+  display: grid;
+  gap: var(--e4);
+  min-width: 0;
+}
+
+.lignes {
+  display: grid;
+  gap: var(--e5);
+  justify-items: start;
+}
+
+.ligne {
+  position: relative;
+  max-width: 100%;
+  padding-bottom: 1.6rem;
+}
+
+.echelle {
+  --dragon-ink: var(--ivoire);
+}
+
+/* Le repère humain ne se tient qu'au bout de la dernière ligne. */
+.ligne:not(:last-child) .echelle > svg:last-of-type {
+  visibility: hidden;
+}
+
+.numeros {
+  position: absolute;
+  inset-inline: 0;
+  bottom: 0;
+  height: 1.4rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.numeros li {
+  position: absolute;
+  top: 0;
+  transform: translateX(-50%);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: tabular-nums lining-nums;
+  color: var(--cendre);
+}
+
+.regle {
+  display: flex;
+  align-items: center;
+  gap: var(--e3);
+  color: var(--bronze);
+}
+
+.regleTrait {
+  flex: none;
+  fill: var(--bronze);
+}
+
+.regleNom {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.note {
+  max-width: 62ch;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+  color: var(--cendre);
+}
+
+.legende {
+  margin: 0;
+  padding: 0;
+  columns: 4 13rem;
+  column-gap: var(--gouttiere);
+  list-style: none;
+  counter-reset: dragon;
+}
+
+.legende li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e2);
+  min-height: 2.75rem;
+  align-content: center;
+  break-inside: avoid;
+  counter-increment: dragon;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.1;
+}
+
+.legende li::before {
+  content: counter(dragon);
+  min-width: 1.6em;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: tabular-nums lining-nums;
+  color: var(--cendre);
+}
+
+.legende li > a {
+  padding-block: 0.6rem;
+}
+
+.envergure {
+  min-width: 0;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: tabular-nums lining-nums;
+  color: var(--cendre);
+}
+
+.doute {
+  max-width: 62ch;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.6;
+}
+
+.doute > span:first-child {
+  color: var(--cendre);
+}
+
+.action {
+  min-height: 2.75rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--ivoire);
+  font: inherit;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+  cursor: pointer;
+}
+
+.action:hover,
+.action:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+@media (width < 1024px) {
+  .legende {
+    columns: 2 9rem;
+  }
+
+  .titre {
+    font-size: var(--t2);
+  }
+}
+
+/* Année sans dragon : l'explication, et le dernier dragon vu, gravé au trait, sans couleur. */
+.figure:has(.dernier) {
+  grid-template-columns: minmax(0, 40ch) minmax(0, 16rem);
+  align-items: center;
+  column-gap: var(--e7);
+}
+
+.dernier {
+  display: grid;
+  gap: var(--e3);
+  margin: 0;
+}
+
+.dernierFigure {
+  --dragon-ink: var(--cendre);
+  width: min(14rem, 60vw);
+}
+
+@media (width < 1024px) {
+  .figure:has(.dernier) {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

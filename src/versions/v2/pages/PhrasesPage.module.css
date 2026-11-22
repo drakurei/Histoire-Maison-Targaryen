@@ -1,0 +1,115 @@
+.chapeau {
+  margin-top: var(--e4);
+  max-width: 42ch;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+/* ------------------------------------------------------------ Les formules */
+.formules {
+  display: grid;
+}
+
+.formule {
+  display: grid;
+  gap: var(--e4);
+  padding-block: var(--e7);
+  scroll-margin-top: var(--e5);
+}
+
+.formule:first-child {
+  padding-top: 0;
+}
+
+.hv {
+  max-width: 20ch;
+  font-size: var(--t2);
+  font-weight: 350;
+  line-height: 1.02;
+  letter-spacing: -0.02em;
+}
+
+.sens {
+  max-width: 44ch;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.3;
+  color: var(--ivoire);
+}
+
+.rubrique {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.motAMot,
+.contexte {
+  display: grid;
+  gap: var(--e3);
+  margin-top: var(--e3);
+}
+
+.contexteTexte {
+  max-width: 64ch;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit-sombre);
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+.pied {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--e4);
+  margin-top: var(--e2);
+}
+
+/* ------------------------------------------------------------ L'index des formules */
+.indexTitre {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.index {
+  display: grid;
+}
+
+.indexLien {
+  display: flex;
+  align-items: center;
+  min-height: var(--cible);
+  padding-block: 0.2rem;
+  font-family: var(--f-chronique);
+  font-style: italic;
+  font-size: var(--t-1);
+  line-height: 1.3;
+  color: var(--cendre);
+  /* Un lien se signale par son soulignement, jamais par la couleur seule (DESIGN §2) :
+     discret dans l'index, comme les noms du pal, mais présent. */
+  text-decoration-color: color-mix(in oklch, var(--cendre) 55%, transparent);
+}
+
+.indexLien:hover {
+  color: var(--ivoire);
+  text-decoration-color: var(--braise);
+}
+
+.indexLien[aria-current] {
+  color: var(--ivoire);
+  text-decoration-color: var(--braise);
+}
+
+/* Au téléphone, pas d'index : la colonne vide ne laisse aucun blanc. */
+.page aside:empty {
+  display: none;
+}

@@ -1,0 +1,83 @@
+.root {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: 1.25rem;
+  font-family: var(--f-musee);
+}
+
+.group {
+  display: flex;
+  align-items: center;
+}
+
+.label {
+  margin-inline-end: 0.35rem;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+/* Trois boutons texte, l'actif souligné de braise. Aucun fond, aucun cadre. */
+.button {
+  min-width: 2.75rem;
+  min-height: 2.75rem;
+  padding-inline: 0.4rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: 0.9rem;
+  color: var(--cendre);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 6px;
+  text-decoration-color: transparent;
+  transition:
+    color var(--d-geste-court) var(--c-expo),
+    text-decoration-color var(--d-geste-court) var(--c-expo);
+}
+
+.button:hover {
+  color: var(--ivoire);
+  text-decoration-color: var(--cendre);
+}
+
+.button[aria-pressed='true'] {
+  color: var(--ivoire);
+  text-decoration-thickness: 3px;
+  text-decoration-color: var(--braise);
+}
+
+/* Téléphone : liste native, habillée en texte. */
+.select {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+}
+
+.select select {
+  appearance: none;
+  min-height: 2.75rem;
+  padding: 0 1.4rem 0 0.5rem;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: 0.95rem;
+  color: var(--ivoire);
+  cursor: pointer;
+}
+
+.select option {
+  background: var(--suie);
+  color: var(--ivoire);
+}
+
+.chevron {
+  position: absolute;
+  right: 0.35rem;
+  color: var(--cendre);
+  pointer-events: none;
+}

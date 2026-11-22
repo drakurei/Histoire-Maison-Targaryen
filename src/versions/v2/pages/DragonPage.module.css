@@ -1,0 +1,174 @@
+/* Sous la planche : le parti de la notice. */
+.dessous {
+  margin-top: var(--e7);
+}
+
+.entete {
+  display: grid;
+  gap: var(--e3);
+  max-width: 40rem;
+  padding-bottom: var(--e6);
+}
+
+.surtitre,
+.titre,
+.titreColonne {
+  font-size: var(--t2);
+  font-weight: 300;
+}
+
+.titreColonne {
+  font-size: var(--t1);
+  margin-bottom: var(--e3);
+}
+
+.recit {
+  display: grid;
+  gap: var(--e7);
+  max-width: 40rem;
+}
+
+.section {
+  display: grid;
+  gap: var(--e4);
+}
+
+.cendre {
+  color: var(--cendre);
+  font-family: var(--f-recit);
+  font-style: italic;
+}
+
+.appareil {
+  display: grid;
+  gap: var(--e2);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+  color: var(--cendre);
+}
+
+.horsLivres {
+  display: grid;
+  gap: var(--e2);
+}
+
+.batailles,
+.lieux,
+.faits {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.batailles {
+  gap: var(--e5);
+}
+
+/* L'année dans une colonne suspendue, le récit aligné à droite d'elle. */
+.bataille,
+.lieu {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: baseline;
+}
+
+.annee {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: tabular-nums lining-nums;
+  color: var(--cendre);
+  white-space: nowrap;
+}
+
+.batailleCorps {
+  display: grid;
+  gap: var(--e1);
+}
+
+.batailleNom,
+.lieuNom {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.15;
+}
+
+.sort {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.6;
+}
+
+.adaptation {
+  display: grid;
+  gap: var(--e4);
+  padding: var(--e5);
+  margin-inline: calc(-1 * var(--e5));
+  background: var(--suie);
+}
+
+.titreAdaptation {
+  display: flex;
+  align-items: center;
+  gap: var(--e3);
+  font-size: var(--t1);
+  font-weight: 300;
+}
+
+.marque {
+  flex: none;
+  color: var(--cendre);
+}
+
+.lieux {
+  gap: var(--e5);
+}
+
+.lieu {
+  grid-template-columns: 3rem minmax(0, 1fr);
+}
+
+.numero {
+  justify-self: start;
+  font-family: var(--f-lettrine);
+  font-size: var(--t2);
+  line-height: 0.9;
+  color: var(--cendre);
+  font-variant-numeric: lining-nums;
+}
+
+.faits {
+  gap: var(--e1);
+  margin-top: var(--e2);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.5;
+}
+
+.faits .annee {
+  display: inline-block;
+  min-width: 6rem;
+}
+
+.vie {
+  display: grid;
+}
+
+@media (width < 1024px) {
+  .bataille,
+  .lieu {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: var(--e1);
+  }
+
+  .lieu {
+    grid-template-columns: 2.5rem minmax(0, 1fr);
+  }
+
+  .adaptation {
+    margin-inline: calc(-1 * var(--marge-page));
+    padding-inline: var(--marge-page);
+  }
+}

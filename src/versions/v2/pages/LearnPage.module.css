@@ -1,0 +1,123 @@
+.entete {
+  display: grid;
+  gap: var(--e5);
+  padding-bottom: var(--e7);
+}
+
+.chapeau {
+  margin-top: var(--e4);
+  max-width: 46ch;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+.figure {
+  display: grid;
+  gap: var(--e5);
+}
+
+.parcours {
+  display: grid;
+  gap: var(--e7);
+}
+
+.rangee {
+  display: grid;
+  gap: var(--e4);
+}
+
+.tete {
+  display: grid;
+  grid-template-columns: 5.5rem minmax(0, 1fr);
+  column-gap: var(--e5);
+  align-items: start;
+}
+
+.numero {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t4);
+  line-height: 0.8;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+  text-align: right;
+}
+
+.corps {
+  display: grid;
+  gap: var(--e2);
+  max-width: 62ch;
+}
+
+.titre {
+  font-size: var(--t3);
+  font-weight: 300;
+  line-height: 0.98;
+}
+
+.titre a {
+  text-underline-offset: 0.12em;
+}
+
+.glose {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e4);
+  row-gap: var(--e1);
+  margin-top: var(--e1);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.annees {
+  color: var(--ivoire);
+}
+
+.intro {
+  margin-top: var(--e1);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.55;
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+.progression {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.legende {
+  margin-top: var(--e4);
+}
+
+@media (width < 1024px) {
+  .tete {
+    grid-template-columns: 2.5rem minmax(0, 1fr);
+    column-gap: var(--e3);
+  }
+
+  .numero {
+    font-size: var(--t2);
+    text-align: left;
+  }
+
+  .titre {
+    font-size: var(--t2);
+  }
+}

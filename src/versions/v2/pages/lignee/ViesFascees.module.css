@@ -1,0 +1,190 @@
+/*
+ * La figure fascée : chaque vie à l'échelle exacte de la fasce, alignée au pixel sur elle.
+ * Les traits débordent du champ vers la gauche (le temps légendaire et l'approche commencent
+ * au bord de la fenêtre, comme sur la fasce) : ils ne sont jamais rognés.
+ */
+.figure {
+  position: relative;
+}
+
+.groupe {
+  scroll-margin-top: var(--e5);
+}
+
+.groupe + .groupe {
+  margin-top: var(--e6);
+}
+
+.titre {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: baseline;
+  gap: var(--e3);
+  margin: 0 0 var(--e3);
+  font-size: var(--t1);
+  font-weight: 350;
+}
+
+.chiffre {
+  min-width: 2.2em;
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t2);
+  line-height: 1;
+  color: var(--cendre);
+}
+
+.titreTexte {
+  display: grid;
+  gap: var(--e1);
+}
+
+.glose {
+  font-size: var(--t-1);
+}
+
+.sous {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  letter-spacing: 0;
+  color: var(--cendre);
+}
+
+.liste {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.rangee {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: 2.75rem;
+}
+
+.vie {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.ouvert {
+  stroke: var(--ivoire);
+  stroke-width: 1.5;
+  stroke-dasharray: 1.5 3.5;
+}
+
+.sur {
+  stroke: var(--ivoire);
+  stroke-width: 3;
+}
+
+.point {
+  fill: var(--ivoire);
+}
+
+.regne {
+  fill: var(--or);
+}
+
+.pretention {
+  fill: none;
+  stroke: var(--or);
+  stroke-width: 1.5;
+  stroke-dasharray: 3 2;
+}
+
+.nom {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  width: 25%;
+  padding-right: var(--e4);
+  font-family: var(--f-chronique);
+  font-size: var(--t0);
+  line-height: 1.2;
+}
+
+.rangee[data-apres] .nom {
+  position: absolute;
+  top: 50%;
+  translate: 0 -50%;
+  width: auto;
+  max-width: 22rem;
+}
+
+.annees {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.epithete {
+  margin-right: 0.5em;
+  font-family: var(--f-recit);
+  font-style: italic;
+}
+
+/* À l'année réglée : qui ne vit pas cette année-là s'éteint. */
+.rangee[data-annee]:not([data-annee='vivant']) .nom a {
+  color: var(--cendre);
+}
+
+.rangee[data-annee]:not([data-annee='vivant']) .vie {
+  opacity: 0.45;
+}
+
+/* L'entaille de l'année réglée, prolongée à travers toutes les lignes, sous un trait de braise. */
+.coupe {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  width: 2px;
+  background: var(--obsidienne);
+  pointer-events: none;
+}
+
+.coupe::before {
+  content: '';
+  position: absolute;
+  top: -0.75rem;
+  left: 0;
+  width: 2px;
+  height: 0.5rem;
+  background: var(--braise);
+}
+
+@media (width < 1024px) {
+  .rangee {
+    display: grid;
+    align-items: start;
+    min-height: 0;
+    padding-block: var(--e2) 0;
+  }
+
+  .nom {
+    width: auto;
+    padding-right: 0;
+    column-gap: var(--e3);
+  }
+
+  .vie {
+    position: relative;
+    top: auto;
+    order: 2;
+    translate: none;
+    margin-top: var(--e1);
+  }
+
+  .nom {
+    order: 1;
+  }
+}

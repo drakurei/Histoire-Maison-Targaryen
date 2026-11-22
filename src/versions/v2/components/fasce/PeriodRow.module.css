@@ -1,0 +1,102 @@
+.root {
+  position: relative;
+  height: var(--v2-fasce-rangee);
+}
+
+.crochets {
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+}
+
+.crochet {
+  fill: none;
+  stroke: var(--sang);
+  stroke-width: 2;
+  stroke-linejoin: miter;
+}
+
+.list {
+  position: relative;
+  height: 100%;
+}
+
+.item {
+  display: contents;
+}
+
+/* Cible d'au moins 44 x 44 px : le chiffre de la période, puis, à partir de 1280 px, son titre. */
+.target {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.4em;
+  min-width: 2.75rem;
+  height: 100%;
+  padding: 1.1rem 0.35rem 0;
+  white-space: nowrap;
+  text-decoration: none;
+  color: var(--ivoire);
+}
+
+.chiffre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: 1.15rem;
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+.titre {
+  display: none;
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-size: var(--t-1);
+  line-height: 1;
+  letter-spacing: -0.01em;
+  color: var(--cendre);
+  transition: color var(--d-geste-court) var(--c-expo);
+}
+
+.target:hover .titre,
+.target:focus-visible .titre {
+  color: var(--ivoire);
+}
+
+.target[aria-current] .titre {
+  color: var(--ivoire);
+}
+
+.target:hover .chiffre,
+.target:focus-visible .chiffre,
+.target[aria-current] .chiffre {
+  text-decoration: underline 2px var(--braise);
+  text-underline-offset: 3px;
+}
+
+.target:focus-visible {
+  outline-offset: -2px;
+}
+
+@media (width >= 1280px) {
+  .titre {
+    display: inline;
+  }
+}
+
+/* Tablette : les huit chiffres seuls, en rangée régulière. */
+.root[data-compact] .list {
+  display: flex;
+  justify-content: space-between;
+  padding-inline: var(--v2-bord);
+}
+
+.root[data-compact] .target {
+  position: static;
+  justify-content: center;
+  padding-top: 0;
+  align-items: center;
+}

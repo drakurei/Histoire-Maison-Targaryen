@@ -1,0 +1,67 @@
+.figure {
+  display: grid;
+  gap: var(--e2);
+  margin: 0;
+}
+
+.trace {
+  position: relative;
+}
+
+.trace svg {
+  position: absolute;
+  inset: 0;
+  overflow: visible;
+}
+
+.vie {
+  fill: var(--sang);
+}
+
+.hachure {
+  fill: var(--sang);
+}
+
+.cavalier {
+  stroke: var(--ivoire);
+  stroke-width: 2;
+}
+
+.cavalier[data-deduit] {
+  stroke-dasharray: 2 3;
+}
+
+.encoche {
+  fill: var(--ivoire);
+}
+
+.entaille {
+  fill: var(--braise);
+}
+
+.nom {
+  position: absolute;
+  white-space: nowrap;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.2;
+}
+
+.legende {
+  display: grid;
+  gap: var(--e2);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.45;
+}
+
+.bornes {
+  display: flex;
+  justify-content: space-between;
+  font-variant-numeric: tabular-nums lining-nums;
+  color: var(--cendre);
+}
+
+.cendre {
+  color: var(--cendre);
+}

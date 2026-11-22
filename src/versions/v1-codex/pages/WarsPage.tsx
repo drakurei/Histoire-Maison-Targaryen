@@ -2,7 +2,7 @@ import { MAIN_ID } from '@/app/a11y';
 import { VLink } from '@/app/version';
 import { getPeriod } from '@/core/content/timeline';
 import { wars } from '@/core/content/wars';
-import { formatSpan, useLang, useT, useTitle, VALYRIAN_TAG } from '@/core/i18n';
+import { formatSpan, useLang, useT, useTitle, useTxTypo, VALYRIAN_TAG } from '@/core/i18n';
 
 import { Figure } from '../components/Figure';
 import { Folio } from '../components/Folio';
@@ -13,7 +13,6 @@ import { Rubric } from '../components/Rubric';
 import styles from './WarsPage.module.css';
 import { WarChart } from './wars/WarChart';
 import { inSentence, openingSentence } from './wars/warModel';
-import { useTxTypo } from '../components/typo';
 
 const CHART_FROM = -6;
 const CHART_TO = 302;

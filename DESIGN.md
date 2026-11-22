@@ -122,9 +122,13 @@ Un livre posé sur une table de basalte. Huit volumes.
 - **Ouverture** (après le seuil) : noir, la pierre apparaît, une lueur rouge la traverse, l'ombre d'un dragon passe, l'emblème se pose, le titre s'inscrit, les dos de volumes se lèvent.
 - Mouvement surtout SVG et CSS ; WebGL limité à l'ouverture.
 
-### Version 2 : proposition des agents
+### Version 2 : « Sable et gueules »
 
-Définie par les agents après l'audit de la version 1 (phase F). Contrainte : une autre métaphore, une autre navigation, une autre chorégraphie. Piste donnée par la direction : « la Table peinte », la carte et le temps comme entrée unique, scène sombre plein écran, rouge en aplats.
+Les armes de la Maison : un champ de sable traversé d'une fasce de gueules. Arbitrage : `documentation/design/v2-arbitrage.md` ; spécification : `documentation/design/v2-spec.md`.
+- **La fasce** : bande rouge fixe en bas de chaque écran, dont l'épaisseur est le nombre de dragons vivants année par année (plein si attesté, hachuré si le sort est inconnu, masse hachurée pour Valyria). Elle est l'identité et l'instrument du temps : on y règle l'année (`?an=`), et toute la version répond pour cette année.
+- **Navigation** : la fasce (encoche, crans d'année, périodes), une ligne de registres en toutes lettres, la recherche qui accepte une année, et un cartel qui ouvre une personne, un dragon ou un lieu sans quitter la lecture (sang, dragon, guerre, lieu).
+- **Composition** : quatre partitions héraldiques tirées des données (parti, pal, fascé, champ plein). Aucun vélin, aucune lettrine ; Grenze ne porte que les nombres, un seul grand nombre par vue, souvent l'année évidée dans le rouge.
+- **Le rouge est toujours une donnée** (dragons, sang de la lignée, feu d'un lieu), jamais un ornement. Mouvements : la masse se dépose, le temps se règle, le feu part de la fasce, l'ombre passe sur le rouge seul, la lignée se déploie. Aucun WebGL permanent.
 
 ### Version 3 : édition ultime
 

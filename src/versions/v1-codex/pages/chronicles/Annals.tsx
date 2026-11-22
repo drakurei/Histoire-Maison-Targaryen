@@ -3,7 +3,7 @@ import { useMemo, useState } from 'react';
 import { VLink } from '@/app/version';
 import { getReliabilityLevel } from '@/core/content/sources';
 import type { HistoricalEvent, Reliability } from '@/core/content/types';
-import { useLang, useT, useTitle, VALYRIAN_TAG, yearParts } from '@/core/i18n';
+import { useLang, useT, useTitle, useTxTypo, VALYRIAN_TAG, yearParts } from '@/core/i18n';
 import { eventFacets, eventsByYear, filterEvents } from '@/core/timeline';
 import type { YearGroup } from '@/core/timeline';
 
@@ -12,7 +12,6 @@ import { FilterBar } from '../../components/FilterBar';
 import type { FilterGroup } from '../../components/FilterBar';
 import { ReliabilityMark } from '../../components/ReliabilityMark';
 import styles from './Annals.module.css';
-import { useTxTypo } from '../../components/typo';
 
 /** Nombre de personnes et de dragons proposés comme filtres : les plus cités du volume. */
 const FACETS_SHOWN = 8;

@@ -5,7 +5,7 @@ import { NotFound } from '../components/NotFound';
 import { VLink } from '@/app/version';
 import { getPath, paths } from '@/core/content/paths';
 import type { PathStep } from '@/core/content/types';
-import { Gloss, useLang, useT } from '@/core/i18n';
+import { Gloss, useLang, useT, useTxTypo } from '@/core/i18n';
 
 import { Folio } from '../components/Folio';
 import { col } from '../components/grid';
@@ -13,7 +13,6 @@ import { Prose } from '../components/Prose';
 import { Rubric } from '../components/Rubric';
 import { Quiz } from './learn/Quiz';
 import styles from './PathPage.module.css';
-import { useTxTypo } from '../components/typo';
 
 /**
  * Un parcours (/apprendre/:pathId) : ses étapes dans l'ordre, chacune avec ce qu'il faut

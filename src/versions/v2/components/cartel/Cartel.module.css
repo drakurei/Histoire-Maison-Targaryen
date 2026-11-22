@@ -1,0 +1,95 @@
+/*
+ * Le cartel : la seule surface de suie du bâti avec l'Index et la recherche. Pas de bordure,
+ * pas d'ombre : la suie se distingue de l'obsidienne par sa seule valeur.
+ */
+.volet {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: var(--v2-fasce-totale);
+  z-index: 35;
+  display: flex;
+  flex-direction: column;
+  width: var(--v2-volet);
+  background: var(--suie);
+  color: var(--ivoire);
+  animation: entrer var(--d-geste-long) var(--c-expo) both;
+}
+
+.volet:focus {
+  outline: none;
+}
+
+@keyframes entrer {
+  from {
+    transform: translateX(100%);
+  }
+}
+
+.feuille {
+  position: fixed;
+  inset: auto 0 var(--v2-fasce-totale);
+  width: 100%;
+  max-width: none;
+  height: 62svh;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: var(--suie);
+  color: var(--ivoire);
+  overscroll-behavior: contain;
+  animation: monter var(--d-geste-long) var(--c-expo) both;
+}
+
+.feuille:focus {
+  outline: none;
+}
+
+.feuille[open] {
+  display: flex;
+  flex-direction: column;
+}
+
+.feuille::backdrop {
+  background: oklch(0.14 0.012 25 / 0.6);
+}
+
+@keyframes monter {
+  from {
+    transform: translateY(100%);
+  }
+}
+
+.barre {
+  display: flex;
+  justify-content: flex-end;
+  padding: var(--e2) var(--e4) 0;
+}
+
+.fermer {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding-inline: var(--e2);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--ivoire);
+}
+
+.fermer :global(.gloss__main) {
+  text-decoration: underline 2px var(--cendre);
+  text-underline-offset: 3px;
+}
+
+.fermer:hover :global(.gloss__main),
+.fermer:focus-visible :global(.gloss__main) {
+  text-decoration-color: var(--braise);
+}
+
+.contenu {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding: 0 var(--e5) var(--e6);
+}

@@ -1,0 +1,36 @@
+.parti {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  grid-template-rows: auto 1fr;
+  grid-template-areas:
+    'entete entete entete entete entete entete entete . temps temps temps temps'
+    'recit recit recit recit recit recit recit . temps temps temps temps';
+  column-gap: var(--gouttiere);
+  grid-column: 1 / -1;
+}
+
+.entete {
+  grid-area: entete;
+}
+
+.recit {
+  grid-area: recit;
+  min-width: 0;
+}
+
+.temps {
+  grid-area: temps;
+  min-width: 0;
+}
+
+@media (width < 1024px) {
+  .parti {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: none;
+    grid-template-areas:
+      'entete'
+      'temps'
+      'recit';
+    row-gap: var(--e6);
+  }
+}

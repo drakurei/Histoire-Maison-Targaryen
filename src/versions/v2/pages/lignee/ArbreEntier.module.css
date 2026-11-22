@@ -1,0 +1,189 @@
+.arbre {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  gap: var(--e3);
+  /* Ce qui reste de la fenêtre sous la ligne des registres et le titre, jusqu'à la fasce. */
+  height: calc(100svh - var(--v2-fasce-totale) - 19rem);
+  min-height: 24rem;
+}
+
+.commandes {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  column-gap: var(--e6);
+  row-gap: var(--e2);
+}
+
+.aide {
+  margin: 0;
+  max-width: 60ch;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.boutons {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e4);
+}
+
+.bouton {
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--ivoire);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+}
+
+.bouton:hover,
+.bouton:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+.scene {
+  position: relative;
+  overflow: hidden;
+  touch-action: none;
+  cursor: grab;
+  user-select: none;
+}
+
+.scene:active {
+  cursor: grabbing;
+}
+
+.svg {
+  display: block;
+}
+
+.attente {
+  margin: 0;
+  padding: var(--e6) 0;
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--cendre);
+}
+
+.lienFiliation,
+.attache {
+  fill: none;
+  stroke: var(--cendre);
+  stroke-width: 1.25;
+}
+
+.lienFiliation[data-doute] {
+  stroke-dasharray: 4 3;
+}
+
+.attache {
+  stroke: color-mix(in oklch, var(--cendre) 70%, transparent);
+}
+
+.fil {
+  fill: none;
+  stroke: var(--sang);
+  stroke-width: 4;
+}
+
+.anneau {
+  fill: var(--obsidienne);
+  stroke: var(--cendre);
+  stroke-width: 1.5;
+}
+
+.anneauSang {
+  fill: var(--obsidienne);
+  stroke: var(--sang);
+  stroke-width: 2.5;
+}
+
+.cible {
+  fill: transparent;
+}
+
+.noeud {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.nom {
+  font-family: var(--f-chronique);
+  font-size: 14px;
+  text-anchor: middle;
+  fill: var(--ivoire);
+}
+
+.annees {
+  font-family: var(--f-musee);
+  font-size: 10.5px;
+  font-variant-numeric: lining-nums tabular-nums;
+  text-anchor: middle;
+  fill: var(--cendre);
+}
+
+.noeud[data-alliance] .nom {
+  font-style: italic;
+  fill: var(--cendre);
+}
+
+.noeud[data-etat='mort'] .nom {
+  fill: var(--cendre);
+}
+
+.noeud[data-etat='a-naitre'] {
+  opacity: 0.4;
+}
+
+.noeud[data-centre] .nom {
+  font-size: 16px;
+  fill: var(--ivoire);
+}
+
+.souligne {
+  stroke: var(--braise);
+  stroke-width: 2.5;
+}
+
+.noeud:hover .nom,
+.noeud:focus-visible .nom {
+  fill: var(--braise);
+}
+
+.noeud:focus-visible {
+  outline: none;
+}
+
+.noeud:focus-visible .cible {
+  stroke: var(--braise);
+  stroke-width: 2;
+}
+
+/* Au téléphone : feuille plein écran. */
+.feuille {
+  width: 100vw;
+  max-width: none;
+  height: 100svh;
+  max-height: none;
+  margin: 0;
+  padding: var(--e4) var(--v2-bord) calc(var(--e4) + env(safe-area-inset-bottom, 0px));
+  border: 0;
+  background: var(--obsidienne);
+  color: var(--ivoire);
+}
+
+.feuille::backdrop {
+  background: var(--obsidienne);
+}
+
+.feuille .arbre {
+  height: 100%;
+  min-height: 0;
+}

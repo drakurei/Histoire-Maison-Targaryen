@@ -1,0 +1,278 @@
+.page aside:empty {
+  display: none;
+}
+
+
+.chapeau {
+  margin-top: var(--e3);
+  max-width: 52ch;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+.recit {
+  display: grid;
+  gap: var(--e3);
+  align-content: start;
+}
+
+/* ------------------------------------------------------------ Recherche et filtres */
+.outils {
+  display: grid;
+  gap: var(--e3);
+}
+
+.champs {
+  display: grid;
+  grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr);
+  gap: var(--e5);
+}
+
+.champ {
+  display: grid;
+  gap: var(--e1);
+}
+
+.champNom {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.saisie,
+.choix {
+  width: 100%;
+  min-height: var(--cible);
+  padding: 0 0 0.2rem;
+  border: 0;
+  border-bottom: 2px solid var(--basalte);
+  border-radius: 0;
+  background: var(--obsidienne);
+  color: var(--ivoire);
+  color-scheme: dark;
+  font-family: var(--f-musee);
+  font-size: var(--t0);
+  transition: border-color var(--d-geste-court) var(--c-expo);
+}
+
+.saisie::placeholder {
+  color: var(--cendre);
+  font-style: italic;
+}
+
+.saisie:hover,
+.choix:hover {
+  border-bottom-color: var(--cendre);
+}
+
+.saisie:focus-visible,
+.choix:focus-visible {
+  border-bottom-color: var(--braise);
+}
+
+/* ------------------------------------------------------------ Rail alphabétique */
+.rail ul {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 0.1rem;
+  margin-left: -0.35rem;
+}
+
+.lettre {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.55rem;
+  min-height: var(--cible);
+  font-family: var(--f-chronique);
+  font-size: var(--t0);
+  color: var(--ivoire);
+  text-decoration-color: transparent;
+}
+
+/* ------------------------------------------------------------ La table */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-variant-numeric: lining-nums;
+}
+
+.table thead th {
+  padding: 0 var(--e3) var(--e2) 0;
+  border-bottom: 1px solid var(--cendre);
+  text-align: left;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.table tbody tr:first-child > * {
+  padding-top: var(--e4);
+}
+
+.rangee > * {
+  padding: 0.1rem var(--e3) 0.1rem 0;
+  vertical-align: baseline;
+  text-align: left;
+}
+
+.rangee[data-initiale] > * {
+  padding-top: var(--e5);
+}
+
+.forme {
+  position: relative;
+  width: 34%;
+  font-weight: inherit;
+}
+
+.initiale {
+  position: absolute;
+  right: 100%;
+  margin-right: var(--e4);
+  font-family: var(--f-chronique);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 2.75rem;
+  color: var(--cendre);
+}
+
+.mot {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-variation-settings: 'opsz' 36;
+  font-size: var(--t1);
+  line-height: 1.1;
+  text-align: left;
+  color: var(--ivoire);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  text-decoration-color: transparent;
+  transition: text-decoration-color var(--d-geste-court) var(--c-expo);
+}
+
+.mot:hover {
+  text-decoration-color: var(--cendre);
+}
+
+.rangee[data-choisi] .mot {
+  text-decoration-color: var(--braise);
+}
+
+.sens {
+  display: grid;
+  gap: 0.1rem;
+}
+
+.traduction {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.35;
+  color: var(--ivoire);
+}
+
+.nature {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.35;
+  color: var(--cendre);
+}
+
+.statut {
+  width: 3rem;
+}
+
+.theme {
+  width: 9rem;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.35;
+  color: var(--cendre);
+}
+
+.deplie td {
+  padding: 0;
+}
+
+/* ------------------------------------------------------------ Téléphone : une rangée par mot */
+@media (width < 1024px) {
+  .champs {
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--e3);
+  }
+
+  .table,
+  .table tbody {
+    display: block;
+  }
+
+  .table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+  }
+
+  .rangee {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    column-gap: var(--e3);
+    padding-block: var(--e1) var(--e3);
+  }
+
+  .rangee > *,
+  .rangee[data-initiale] > * {
+    padding: 0;
+  }
+
+  .table tbody tr:first-child > * {
+    padding-top: 0;
+  }
+
+  .forme {
+    width: auto;
+  }
+
+  .initiale {
+    display: none;
+  }
+
+  .statut {
+    grid-column: 2;
+    grid-row: 1;
+    width: auto;
+    align-self: center;
+  }
+
+  .sens {
+    grid-column: 1 / -1;
+  }
+
+  .theme {
+    display: none;
+  }
+
+  .deplie {
+    display: block;
+  }
+
+  .deplie td {
+    display: block;
+  }
+}
+
+.entete {
+  display: grid;
+  gap: var(--e3);
+  padding-bottom: var(--e5);
+}

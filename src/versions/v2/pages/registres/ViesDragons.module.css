@@ -1,0 +1,244 @@
+/*
+ * Les vies des dragons. La figure va de bord à bord de la fenêtre, comme la fasce : une
+ * année y tombe exactement au-dessus de la même année sur la fasce. Les spécimens se rangent
+ * dans le temps d'avant les Targaryen, à gauche, où aucune vie n'est tracée.
+ */
+.section {
+  display: grid;
+  gap: var(--e5);
+  margin-top: var(--e8, 6.5rem);
+}
+
+.tete {
+  display: grid;
+  gap: var(--e3);
+  max-width: 44rem;
+}
+
+.titre {
+  font-size: var(--t3);
+  font-weight: 300;
+}
+
+.note {
+  max-width: 62ch;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.5;
+  color: var(--cendre);
+}
+
+.defs {
+  position: absolute;
+}
+
+.hachure {
+  fill: var(--sang);
+}
+
+.figure {
+  display: grid;
+  gap: var(--e6);
+  margin-inline: calc(-1 * var(--marge-page));
+}
+
+.epoque {
+  display: grid;
+  gap: var(--e3);
+}
+
+.epoque > .note,
+.epoqueTitre {
+  padding-inline: var(--marge-page);
+}
+
+.epoqueTitre {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--e3);
+  font-size: var(--t2);
+  font-weight: 300;
+}
+
+.chiffre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t2);
+  line-height: 0.9;
+  color: var(--cendre);
+  font-variant-numeric: lining-nums;
+}
+
+.glose {
+  display: block;
+  margin-top: var(--e1);
+}
+
+.liste {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.rangee {
+  position: relative;
+  display: grid;
+  gap: var(--e1);
+  padding-block: var(--e3);
+  transition: opacity var(--d-geste) var(--c-expo);
+}
+
+/* À l'année réglée, un dragon qui ne vit pas s'efface à demi : sa rangée reste lisible. */
+.rangee[data-hors] .piste,
+.rangee[data-hors] .silhouette {
+  opacity: 0.32;
+}
+
+.rangee[data-hors] .nom {
+  color: var(--cendre);
+}
+
+.silhouette {
+  position: absolute;
+  top: 50%;
+  left: var(--sx, var(--marge-page));
+  width: var(--sw);
+  transform: translateY(-50%);
+  pointer-events: none;
+  transition: opacity var(--d-geste) var(--c-expo);
+}
+
+.legende {
+  display: grid;
+  gap: 0.15rem;
+  justify-items: start;
+  max-width: min(40rem, calc(100% - var(--x) - var(--marge-page)));
+  margin-left: var(--x);
+}
+
+.legende[data-ancre='fin'] {
+  justify-items: end;
+  max-width: 40rem;
+  margin-left: auto;
+  margin-right: var(--xr);
+  text-align: right;
+}
+
+.nom {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e3);
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.15;
+  hyphens: manual;
+}
+
+.alias {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  color: var(--cendre);
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e4);
+  row-gap: 0.1rem;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.45;
+  color: var(--cendre);
+  hyphens: manual;
+}
+
+.legende[data-ancre='fin'] .meta,
+.legende[data-ancre='fin'] .nom {
+  justify-content: flex-end;
+}
+
+.meta a {
+  color: var(--ivoire);
+}
+
+.annees {
+  font-variant-numeric: tabular-nums lining-nums;
+  color: var(--ivoire);
+}
+
+.piste {
+  display: block;
+  overflow: visible;
+  transition: opacity var(--d-geste) var(--c-expo);
+}
+
+.vie {
+  fill: var(--sang);
+}
+
+.cavalier {
+  stroke: var(--ivoire);
+  stroke-width: 2;
+}
+
+.cavalier[data-deduit] {
+  stroke-dasharray: 2 2;
+}
+
+.entaille {
+  fill: var(--obsidienne);
+}
+
+/* Téléphone et tablette : la légende revient à la marge, le spécimen la précède. */
+@media (width < 1024px) {
+  .rangee {
+    grid-template-columns: 3rem minmax(0, 1fr);
+    column-gap: var(--e3);
+    padding-block: var(--e3) var(--e2);
+  }
+
+  .silhouette {
+    position: static;
+    grid-column: 1;
+    align-self: center;
+    justify-self: center;
+    width: calc(1rem + var(--envergure, 0.5) * 2rem);
+    margin-left: var(--marge-page);
+    transform: none;
+  }
+
+  .legende,
+  .legende[data-ancre='fin'] {
+    grid-column: 2;
+    justify-items: start;
+    max-width: none;
+    margin: 0;
+    padding-right: var(--marge-page);
+    text-align: left;
+  }
+
+  .legende[data-ancre='fin'] .meta,
+  .legende[data-ancre='fin'] .nom {
+    justify-content: flex-start;
+  }
+
+  .piste {
+    grid-column: 1 / -1;
+    margin-top: var(--e2);
+  }
+
+  .rangee {
+    grid-template-columns: calc(3rem + var(--marge-page)) minmax(0, 1fr);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rangee,
+  .silhouette,
+  .piste {
+    transition: none;
+  }
+}

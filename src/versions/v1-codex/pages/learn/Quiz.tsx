@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useReducer, useRef } from 'react';
 
 import type { QuizQuestion } from '@/core/content/types';
-import { useLang, useT } from '@/core/i18n';
+import { useLang, useT, useTxTypo } from '@/core/i18n';
 import { answer, createQuiz, currentQuestion, loadQuiz, next, quizMistakes, quizReducer, quizScore, quizStorageKey, restart, saveQuiz } from '@/core/quiz';
 import type { QuizState } from '@/core/quiz';
 
@@ -9,7 +9,6 @@ import { Prose } from '../../components/Prose';
 import { SourceList } from '../../components/SourceList';
 import { safeStorage } from './progress';
 import styles from './Quiz.module.css';
-import { useTxTypo } from '../../components/typo';
 
 interface QuizProps {
   /** Identifiant du parcours : clé de la sauvegarde. */

@@ -1,0 +1,167 @@
+/*
+ * Portail. Ordinateur : un seul écran ; le titre à gauche (huit colonnes), l'incipit et la
+ * légende de la masse à droite, posés sur la ligne de pied du titre ; la fasce en majesté
+ * occupe le bas. Téléphone : une colonne, puis la masse dans le flux et les listes.
+ */
+.page {
+  align-items: end;
+  padding-top: var(--e6);
+  padding-bottom: var(--e6);
+}
+
+/*
+ * Ordinateur : le portail tient un écran, de la ligne des registres jusqu'à la masse en
+ * majesté. Sur un grand écran le titre est plus court que la fenêtre ; sans cette hauteur,
+ * le colophon remonterait sous la masse et s'y montrerait coupé. Il reste au défilement.
+ * La ligne des registres fait deux rangées sous 1760 px, une au-delà.
+ */
+@media (width >= 1024px) {
+  .page {
+    min-height: calc(100svh - var(--v2-fasce-totale) - 9.5rem);
+  }
+}
+
+@media (width >= 1760px) {
+  .page {
+    min-height: calc(100svh - var(--v2-fasce-totale) - 6.5rem);
+  }
+}
+
+/*
+ * Écran bas (1280 x 800) : la masse en majesté prend 45 svh et la glose du titre passait
+ * dessous, coupée. Le titre suit aussi la hauteur de la fenêtre, et l'en-tête se resserre.
+ */
+@media (width >= 1024px) and (height < 900px) {
+  .page {
+    padding-top: var(--e5);
+  }
+
+  .page > .titre {
+    font-size: min(var(--t5), 10.5svh);
+  }
+
+  .page > .titre[data-long] {
+    font-size: min(calc(var(--t5) * 0.72), 7.5svh);
+  }
+}
+
+.page > .titre {
+  grid-column: 1 / span 8;
+  font-size: var(--t5);
+  font-weight: 300;
+  line-height: 0.92;
+  letter-spacing: -0.025em;
+}
+
+.titre :global(.gloss__main) {
+  display: block;
+  text-wrap: balance;
+}
+
+/* En français ou en anglais, le nom du site prend trois lignes : un corps plus petit les tient sur l'écran. */
+.page > .titre[data-long] {
+  font-size: calc(var(--t5) * 0.72);
+}
+
+.glose {
+  display: block;
+  margin-top: var(--e5);
+  font-size: var(--t1);
+  line-height: 1.2;
+}
+
+.page > .incipit {
+  grid-column: 9 / -1;
+  display: grid;
+  gap: var(--e4);
+  padding-bottom: var(--e2);
+}
+
+.formule {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-size: var(--t1);
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  hyphens: manual;
+}
+
+.formule :global(.gloss__main) {
+  display: block;
+  font-style: normal;
+}
+
+.formuleGlose {
+  display: block;
+  margin-top: var(--e3);
+  font-size: var(--t0);
+  line-height: 1.45;
+}
+
+.reprise {
+  justify-self: start;
+  font-family: var(--f-musee);
+  font-weight: 500;
+}
+
+.legende {
+  max-width: 40ch;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--cendre);
+}
+
+/* L'ouverture : avant le premier geste, le titre et l'incipit ne sont pas encore écrits. */
+.titre[data-cache] :global(.gloss__main),
+.titre[data-cache] :global(.gloss__tr),
+.incipit[data-cache] {
+  clip-path: inset(-0.3em 100% -0.4em 0);
+}
+
+/* La masse en majesté dans le flux : téléphone et tablette seulement. */
+.majesteTel {
+  display: none;
+}
+
+.legendeTel {
+  display: none;
+}
+
+@media (width < 1024px) {
+  .page {
+    padding-top: var(--e5);
+    row-gap: 0;
+  }
+
+  .page > .titre,
+  .page > .incipit {
+    grid-column: 1 / -1;
+  }
+
+  .page > .incipit {
+    margin-top: var(--e5);
+  }
+
+  .majesteTel {
+    position: relative;
+    display: block;
+    margin-top: var(--e7);
+    margin-inline: calc(-1 * var(--marge-page));
+  }
+
+  .masseTel {
+    line-height: 0;
+  }
+
+  .legendeTel {
+    display: block;
+    max-width: 40ch;
+    margin-top: var(--e4);
+    margin-bottom: var(--e7);
+    font-family: var(--f-musee);
+    font-size: var(--t-1);
+    line-height: var(--il-cartel);
+    color: var(--cendre);
+  }
+}

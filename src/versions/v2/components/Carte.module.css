@@ -1,0 +1,38 @@
+/* La carte peinte : la côte dessine la terre, le fond seul ne s'en distingue pas. */
+.carte {
+  --map-sea: var(--obsidienne);
+  --map-hatch: transparent;
+  --map-ring: transparent;
+  --map-land: var(--suie);
+  --map-coast: var(--cendre);
+  --map-river: oklch(0.62 0.012 55 / 0.6);
+  --map-relief: var(--basalte);
+  --map-wall: var(--cendre);
+  --map-name: var(--cendre);
+  --map-region: var(--cendre);
+  --map-sea-name: var(--cendre);
+  --map-halo: var(--suie);
+  --map-place: var(--cendre);
+  --map-active: var(--sang);
+  --map-focus: var(--braise);
+  --map-font-name: var(--f-chronique);
+  --map-font-mark: var(--f-musee);
+  --map-control-bg: var(--obsidienne);
+  --map-control-ink: var(--ivoire);
+
+  position: relative;
+  inline-size: 100%;
+  block-size: 100%;
+  min-block-size: 16rem;
+}
+
+/*
+ * Le nom du lieu choisi et du lieu survolé : la carte partagée les écrit en --map-active,
+ * le sang, qui ne fait que 2,8:1 sur les terres de suie. Le signe du lieu reste rouge ;
+ * son nom passe en ivoire (15:1), comme tout texte de la version.
+ */
+.carte.carte :global([data-selected][data-kind]) > text,
+.carte.carte :global(a[data-kind]:hover) > text,
+.carte.carte :global(a[data-kind]:focus-visible) > text {
+  fill: var(--ivoire);
+}

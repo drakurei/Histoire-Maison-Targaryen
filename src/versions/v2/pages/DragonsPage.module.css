@@ -1,0 +1,21 @@
+/* Registre des dragons : le titre, puis le chapeau en retrait sur la droite du titre. */
+.entete {
+  grid-template-columns: minmax(0, auto) minmax(0, 28rem);
+  align-items: end;
+  column-gap: var(--e7);
+}
+
+.chapeau {
+  max-width: 44ch;
+  padding-bottom: var(--e3);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.6;
+  color: var(--ivoire);
+}
+
+@media (width < 1024px) {
+  .entete {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

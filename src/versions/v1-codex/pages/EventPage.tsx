@@ -5,7 +5,7 @@ import { NotFound } from '../components/NotFound';
 import { VLink } from '@/app/version';
 import { events, eventsOfPeriod, getEvent, getPeriod } from '@/core/content/timeline';
 import type { EntityRef, HistoricalEvent } from '@/core/content/types';
-import { Gloss, useLang, useT, yearParts } from '@/core/i18n';
+import { Gloss, useLang, useT, useTxTypo, yearParts } from '@/core/i18n';
 
 import { EntityLink } from '../components/EntityLink';
 import type { EntityKind } from '../components/EntityLink';
@@ -21,7 +21,6 @@ import { YearRule } from '../components/YearRule';
 import { NeighbourNav } from './chronicles/NeighbourNav';
 import type { Neighbour } from './chronicles/NeighbourNav';
 import styles from './EventPage.module.css';
-import { useTxTypo } from '../components/typo';
 
 function MarginList({ titleKey, kind, refs }: { titleKey: string; kind: EntityKind; refs: readonly EntityRef[] }) {
   const t = useT();

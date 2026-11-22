@@ -1,0 +1,224 @@
+/*
+ * La figure des chroniques est posée de bord à bord, comme la fasce : ses abscisses sont
+ * celles de la fasce, au pixel. Les étiquettes s'adossent à leur segment, du côté où il
+ * reste de la place ; la suite des étiquettes descend ainsi en diagonale, comme le temps.
+ */
+.cadre {
+  display: grid;
+  gap: var(--e3);
+  margin-inline: calc(-1 * var(--marge-page));
+}
+
+.lecture {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e4);
+  min-height: 1.6rem;
+  padding-inline: var(--marge-page);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.4;
+  color: var(--cendre);
+}
+
+.lectureAnnee {
+  font-weight: 700;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+}
+
+.lectureRegne {
+  color: var(--or);
+}
+
+.lectureGuerre {
+  color: var(--ivoire);
+}
+
+.figure {
+  position: relative;
+  min-height: 24rem;
+}
+
+.bandes {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: visible;
+}
+
+.orPlein {
+  fill: var(--or);
+}
+
+.sang {
+  fill: var(--sang);
+}
+
+.bandeNom {
+  position: absolute;
+  left: var(--marge-page);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 0.6;
+  color: var(--cendre);
+}
+
+/* ------------------------------------------------------------ les rangées */
+.rangees {
+  position: absolute;
+  inset-inline: 0;
+}
+
+.rangee {
+  position: relative;
+}
+
+.lien {
+  position: absolute;
+  inset: 0;
+  display: block;
+  text-decoration: none;
+  color: var(--ivoire);
+}
+
+.lien:focus-visible {
+  outline: 2px solid var(--braise);
+  outline-offset: -2px;
+}
+
+.etiquette {
+  position: absolute;
+  top: 50%;
+  display: grid;
+  gap: 0.15rem;
+  white-space: nowrap;
+  transform: translateY(-50%);
+}
+
+.etiquette[data-cote='gauche'] {
+  justify-items: end;
+  text-align: right;
+}
+
+.ligne1 {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.45em;
+}
+
+.chiffre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t1);
+  line-height: 1;
+  color: var(--cendre);
+}
+
+.nom {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-size: var(--t1);
+  line-height: 1;
+  letter-spacing: -0.01em;
+  text-decoration: underline 2px transparent;
+  text-underline-offset: 4px;
+  transition: text-decoration-color var(--d-geste-court) var(--c-expo);
+}
+
+.lien:hover .nom,
+.lien:focus-visible .nom {
+  text-decoration-color: var(--braise);
+}
+
+.ligne2 {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.7em;
+}
+
+.glose {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.annees {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+/* Le segment de la fasce : posé sur la ligne de pied de la rangée, comme la masse. */
+.segment {
+  position: absolute;
+  bottom: 12px;
+  line-height: 0;
+}
+
+/* Le crochet de la période : son étendue vraie, comme dans la rangée de la fasce. */
+.crochet {
+  position: absolute;
+  bottom: 2px;
+  overflow: visible;
+}
+
+.crochet path {
+  fill: none;
+  stroke: var(--sang);
+  stroke-width: 2;
+}
+
+/* ------------------------------------------------------------ l'année */
+.entaille {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 2px;
+  background: var(--obsidienne);
+  pointer-events: none;
+}
+
+.trait {
+  position: absolute;
+  top: -12px;
+  left: 0;
+  width: 3px;
+  height: 8px;
+  background: var(--braise);
+  pointer-events: none;
+}
+
+.survol {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 1px;
+  background: var(--cendre);
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+@media (width < 1024px) {
+  .etiquette {
+    top: 6px;
+    left: var(--marge-page);
+    transform: none;
+  }
+
+  .ligne1 {
+    gap: 0.4em;
+  }
+
+  .chiffre,
+  .nom {
+    font-size: var(--t0);
+  }
+
+  .segment {
+    bottom: 12px;
+  }
+}

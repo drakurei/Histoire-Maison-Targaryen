@@ -2,7 +2,7 @@
 
 Rapport écrit par `node scripts/build-content.mjs`. Ne pas le modifier à la main : il est réécrit à chaque exécution.
 
-État : aucune erreur bloquante. Avertissements : 0.
+État : aucune erreur bloquante. Avertissements : 3.
 
 ## Résumé chiffré
 
@@ -28,7 +28,7 @@ Rapport écrit par `node scripts/build-content.mjs`. Ne pas le modifier à la ma
 | Expressions | 59 |
 | Leçons de grammaire | 12 |
 | Parcours | 5 |
-| Chaînes d’interface | 746 |
+| Chaînes d’interface | 966 |
 | &nbsp;&nbsp;dont avec forme valyrienne | 80 |
 | Sources | 20 |
 | Entrées de recherche | 769 |
@@ -54,7 +54,11 @@ Rapport écrit par `node scripts/build-content.mjs`. Ne pas le modifier à la ma
 
 ## Avertissements
 
-Aucun.
+### interface (3)
+
+- content/interface/ui.v2-savoirs.json « v2.lexicon.theme.feu-et-dragons » : clé hors de la convention domaine.nom.
+- content/interface/ui.v2-savoirs.json « v2.lexicon.theme.lieux-et-peuples » : clé hors de la convention domaine.nom.
+- content/interface/ui.v2-savoirs.json « v2.lexicon.theme.religion-et-magie » : clé hors de la convention domaine.nom.
 
 ## Références non résolues
 

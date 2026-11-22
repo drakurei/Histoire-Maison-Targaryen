@@ -1,0 +1,329 @@
+.chapeau {
+  margin-top: var(--e4);
+  max-width: 40ch;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+.recit {
+  display: grid;
+}
+
+/* ------------------------------------------------------------ La figure : une glose */
+.glose {
+  container-type: inline-size;
+  gap: var(--e5);
+}
+
+.formule {
+  font-family: var(--f-chronique);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 72;
+  font-size: min(var(--t5), 19cqi);
+  line-height: 0.92;
+  letter-spacing: -0.025em;
+  color: var(--ivoire);
+  text-wrap: balance;
+}
+
+.analyse {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: var(--e5);
+}
+
+.colonneMot {
+  display: grid;
+  align-content: start;
+  gap: 0.25rem;
+}
+
+.motHv {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-variation-settings: 'opsz' 36;
+  font-size: var(--t2);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--ivoire);
+}
+
+.motSens {
+  margin-top: var(--e1);
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.2;
+  color: var(--ivoire);
+}
+
+.motLemme {
+  margin-top: var(--e2);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.35;
+  color: var(--ivoire);
+}
+
+.motGrammaire {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.35;
+  color: var(--cendre);
+}
+
+.traduction {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.3;
+  color: var(--ivoire);
+}
+
+.note {
+  display: grid;
+  gap: var(--e2);
+  max-width: 40ch;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--cendre);
+}
+
+.reponse {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e3);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.reponseLien {
+  display: inline-flex;
+  min-height: var(--cible);
+  align-items: center;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  color: var(--ivoire);
+}
+
+/* ------------------------------------------------------------ Ce que la bibliothèque s'interdit */
+.interdits {
+  display: grid;
+  gap: var(--e6);
+}
+
+.interdit {
+  display: grid;
+  gap: var(--e2);
+}
+
+.interditTete {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-variation-settings: 'opsz' 36;
+  font-size: var(--t1);
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  color: var(--ivoire);
+}
+
+/* ------------------------------------------------------------ Les statuts */
+.compte {
+  display: grid;
+  gap: var(--e3);
+  margin-block: var(--e3);
+}
+
+.marques {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+  max-width: 40rem;
+  color: var(--ivoire);
+}
+
+.marqueCompte {
+  width: 0.75rem;
+  height: 0.75rem;
+}
+
+.statuts {
+  display: grid;
+  gap: var(--e6);
+  margin-top: var(--e4);
+}
+
+.statut {
+  display: grid;
+  grid-template-columns: 2.75rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: start;
+}
+
+.statutMarque {
+  color: var(--ivoire);
+  margin-top: 0.15rem;
+}
+
+.statut[data-statut='editorial'] .statutMarque,
+.statut[data-statut='adaptation'] .statutMarque {
+  color: var(--cendre);
+}
+
+.statutCorps {
+  display: grid;
+  gap: var(--e2);
+  max-width: 60ch;
+}
+
+.statutTete {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e4);
+}
+
+.statutNom {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-size: var(--t1);
+  line-height: 1.1;
+  color: var(--ivoire);
+}
+
+.statutNombre {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.statutDef {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.55;
+  color: var(--ivoire);
+}
+
+.exemple {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e3);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.exempleLien {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+}
+
+.exempleHv {
+  font-family: var(--f-chronique);
+  font-style: italic;
+  font-size: var(--t1);
+  color: var(--ivoire);
+}
+
+.exempleSens {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+}
+
+/* ------------------------------------------------------------ Les trois salles */
+.salles {
+  display: grid;
+  gap: var(--e7);
+  margin-top: var(--e4);
+}
+
+.salle {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr);
+  column-gap: var(--e5);
+  align-items: start;
+}
+
+.salleNombre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t4);
+  line-height: 0.8;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+  text-align: right;
+}
+
+.salleCorps {
+  display: grid;
+  gap: var(--e3);
+}
+
+.salleNom {
+  font-size: var(--t3);
+  font-weight: 300;
+  line-height: 0.95;
+}
+
+.salleNom a {
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.12em;
+}
+
+.salleNom :global(.gloss__tr) {
+  display: block;
+  margin-top: var(--e2);
+}
+
+.salleTexte {
+  max-width: 52ch;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.55;
+  color: var(--ivoire);
+}
+
+.echantillon {
+  font-family: var(--f-chronique);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.4;
+  color: var(--cendre);
+}
+
+.echantillonSens {
+  font-family: var(--f-recit);
+}
+
+.echantillonLecons {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.4;
+  color: var(--cendre);
+}
+
+@media (width < 1024px) {
+  .formule {
+    font-size: min(var(--t5), 17cqi);
+  }
+
+  .salle {
+    grid-template-columns: 3.75rem minmax(0, 1fr);
+    column-gap: var(--e4);
+  }
+
+  .salleNombre {
+    font-size: var(--t2);
+  }
+}

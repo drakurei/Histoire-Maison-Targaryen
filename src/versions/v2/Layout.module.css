@@ -1,0 +1,14 @@
+.root {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Le champ : tout ce qui est au-dessus de la fasce. Rien ne passe sous elle. */
+.champ {
+  flex: 1;
+  padding-bottom: var(--v2-fasce-totale);
+}
+
+.attente {
+  min-height: 60svh;
+}

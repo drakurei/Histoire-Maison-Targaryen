@@ -1,11 +1,10 @@
 import { VLink } from '@/app/version';
 import { periods } from '@/core/content/timeline';
 import type { Localized } from '@/core/content/types';
-import { formatSpan, Gloss, useLang, useT } from '@/core/i18n';
+import { formatSpan, Gloss, useLang, useT, useTxTypo } from '@/core/i18n';
 
 import { toRoman } from '../../components/numerals';
 import styles from './VolumeList.module.css';
-import { useTxTypo } from '../../components/typo';
 
 /** Abréviations après lesquelles un point ne clôt pas la phrase (sigles d'ère, « v. » pour « vers »). */
 const ABBREVIATIONS = new Set(['av', 'apr', 'C', 'v', 'c', 'St', 'BC', 'AC']);

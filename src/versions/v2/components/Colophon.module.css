@@ -1,0 +1,74 @@
+/* Le colophon : appareil du musée en cendre, aligné sur la grille, sans filet ni cadre. */
+.root {
+  display: grid;
+  grid-template-columns: 2.75rem minmax(0, 36rem) auto;
+  justify-content: start;
+  align-items: start;
+  column-gap: var(--e6);
+  row-gap: var(--e5);
+  padding: var(--e8) var(--marge-page) var(--e6);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--cendre);
+}
+
+.poincon {
+  display: grid;
+  place-items: center;
+  min-width: 2.75rem;
+  min-height: 2.75rem;
+  color: var(--cendre);
+  text-decoration: none;
+}
+
+.poincon:hover,
+.poincon:focus-visible {
+  color: var(--ivoire);
+}
+
+.texte {
+  display: grid;
+  gap: var(--e2);
+  max-width: 36rem;
+}
+
+.liens {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+}
+
+.lien {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--ivoire);
+  text-align: left;
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cendre);
+}
+
+.lien:hover,
+.lien:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+.lien :global(.gloss__main) {
+  font-family: var(--f-musee);
+}
+
+@media (width < 1024px) {
+  .root {
+    grid-template-columns: 2.75rem minmax(0, 1fr);
+    column-gap: var(--e4);
+  }
+
+  .liens {
+    grid-column: 1 / -1;
+  }
+}

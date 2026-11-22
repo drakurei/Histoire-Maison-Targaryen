@@ -1,0 +1,247 @@
+.chapeau {
+  margin-top: var(--e4);
+  max-width: 44ch;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+.recit {
+  display: grid;
+}
+
+/* ------------------------------------------------------------ Le registre */
+.groupe {
+  display: grid;
+  gap: var(--e5);
+  margin-top: var(--e6);
+}
+
+.groupeTitre {
+  display: flex;
+  align-items: baseline;
+  gap: var(--e3);
+  font-size: var(--t2);
+  font-weight: 300;
+}
+
+.groupeNombre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.ouvrages {
+  display: grid;
+  gap: var(--e6);
+}
+
+.ouvrage {
+  display: grid;
+  gap: var(--e2);
+  max-width: 64ch;
+  scroll-margin-top: var(--e6);
+}
+
+.ouvrage:target .titre cite {
+  text-decoration: underline 2px var(--braise);
+  text-underline-offset: 4px;
+}
+
+.titre {
+  font-size: var(--t1);
+  font-weight: 400;
+  line-height: 1.1;
+}
+
+.titre cite {
+  font-style: italic;
+}
+
+.autreTitre {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  color: var(--cendre);
+}
+
+.autreTitre cite {
+  font-style: italic;
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: var(--e4);
+  row-gap: var(--e1);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.annees {
+  color: var(--ivoire);
+}
+
+.continuite {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+}
+
+.marque {
+  color: var(--ivoire);
+}
+
+.nature {
+  display: grid;
+  gap: 0.1rem;
+  margin-top: var(--e2);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+}
+
+.natureNom {
+  font-weight: 500;
+  color: var(--ivoire);
+}
+
+.natureDef {
+  color: var(--cendre);
+}
+
+.note {
+  font-family: var(--f-recit);
+  font-size: calc(var(--t0) * 0.94);
+  line-height: 1.6;
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+.membres {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e3);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.membresNom {
+  font-weight: 500;
+}
+
+.membre {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  color: var(--ivoire);
+}
+
+.renvois {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.frise {
+  display: grid;
+  gap: var(--e4);
+  margin-top: var(--e5);
+}
+
+/* ------------------------------------------------------------ L'échelle des marques */
+.echelle {
+  gap: var(--e4);
+}
+
+.echelleTitre {
+  font-size: var(--t2);
+  font-weight: 300;
+  max-width: 14ch;
+}
+
+.echelleIntro {
+  max-width: 44ch;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: calc(var(--t0) * 0.92);
+  line-height: 1.45;
+  color: var(--cendre);
+}
+
+.niveaux {
+  display: grid;
+  gap: var(--e4);
+  margin-top: var(--e3);
+}
+
+.niveau {
+  display: grid;
+  grid-template-columns: 3rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: start;
+}
+
+.niveauMarque {
+  color: var(--ivoire);
+}
+
+.niveau[data-niveau='legende'] .niveauMarque,
+.niveau[data-niveau='adaptation'] .niveauMarque {
+  color: var(--cendre);
+}
+
+.niveauCorps {
+  display: grid;
+  gap: var(--e1);
+}
+
+.niveauNom {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.05;
+  color: var(--ivoire);
+}
+
+.niveauDef {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--cendre);
+}
+
+.niveauCompte {
+  display: grid;
+  gap: 0.3rem;
+  margin-top: var(--e1);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+}
+
+.barre {
+  display: block;
+  block-size: 3px;
+  background: var(--ivoire);
+}
+
+/* Fenêtre basse : l'échelle entière ne tiendrait pas collée ; elle reste à sa place, lisible. */
+@media (width >= 1024px) and (height < 1000px) {
+  figure.echelle {
+    position: static;
+    max-height: none;
+    overflow: visible;
+  }
+}

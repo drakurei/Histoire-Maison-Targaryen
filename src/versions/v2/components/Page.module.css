@@ -1,0 +1,19 @@
+/* Le champ d'une vue : marges de page, grille de 12 colonnes, alignée à gauche. */
+.page {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: var(--gouttiere);
+  align-content: start;
+  padding: var(--e7) var(--marge-page) var(--e7);
+}
+
+.page > * {
+  grid-column: 1 / -1;
+}
+
+@media (width < 1024px) {
+  .page {
+    grid-template-columns: minmax(0, 1fr);
+    padding-top: var(--e6);
+  }
+}

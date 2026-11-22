@@ -1,0 +1,83 @@
+.root {
+  position: relative;
+  width: 100%;
+}
+
+/* ------------------------------------------------------------ Le ciel de la fasce */
+.ciel {
+  position: relative;
+  height: var(--v2-fasce-ciel);
+  pointer-events: none;
+}
+
+/* Durée de la vue : trait ivoire posé sur la masse. Le rouge contre le cramoisi ne suffit pas. */
+.duree {
+  position: absolute;
+  bottom: 0;
+  height: 2px;
+  background: var(--ivoire);
+}
+
+/* Règne compris dans la durée : or, au-dessus du trait ivoire. */
+.regne {
+  position: absolute;
+  bottom: 4px;
+  height: 2px;
+  background: var(--or);
+}
+
+/* Encoche d'entité : 2 x 8 px, ivoire ; braise quand elle est survolée ou a le focus. */
+.marque {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 2px;
+  height: 8px;
+  background: var(--ivoire);
+}
+
+.marque[data-actif] {
+  background: var(--braise);
+}
+
+/* L'encoche : trait de braise de 8 px au-dessus de la masse. */
+.trait {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 3px;
+  height: 8px;
+  background: var(--braise);
+  transition: transform var(--d-geste-long) var(--c-expo);
+}
+
+/* ------------------------------------------------------------ La masse */
+.masse {
+  position: relative;
+  display: block;
+  width: 100%;
+  touch-action: none;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.masse:focus-visible {
+  outline-offset: 2px;
+}
+
+.svg {
+  display: block;
+}
+
+/* L'entaille d'obsidienne qui traverse toute la masse à l'année réglée. */
+.entaille {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 3px;
+  background: var(--obsidienne);
+  pointer-events: none;
+  transition: transform var(--d-geste-long) var(--c-expo);
+}

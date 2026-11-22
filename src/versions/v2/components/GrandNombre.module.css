@@ -1,0 +1,31 @@
+.root {
+  display: flex;
+  align-items: baseline;
+  gap: 0.15em;
+  margin: 0;
+  color: var(--ivoire);
+  line-height: 0.8;
+  pointer-events: none;
+}
+
+.nombre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t6);
+  font-variant-numeric: lining-nums tabular-nums;
+  letter-spacing: -0.02em;
+}
+
+.ere {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t1);
+}
+
+/*
+ * Évidé dans le rouge : le nombre est écrit en obsidienne par-dessus le profil, ce qui laisse
+ * voir le sable à travers la masse. Contraste 3,0:1, suffisant à cette taille (spec §2.4).
+ */
+.root[data-evide] {
+  color: var(--obsidienne);
+}

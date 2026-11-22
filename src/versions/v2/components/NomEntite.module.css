@@ -1,0 +1,24 @@
+/* Nom d'entité : soulignement de sang (le sang de la lignée, des dragons, des lieux). */
+.nom {
+  position: relative;
+  text-decoration-color: var(--sang);
+}
+
+/* Cible de 44 px (DESIGN §6) sans toucher à la composition : la zone de pression déborde
+   du texte au-dessus et au-dessous, centrée sur lui. */
+.nom::after {
+  position: absolute;
+  inset-inline: 0;
+  top: 50%;
+  height: max(100%, 2.75rem);
+  translate: 0 -50%;
+  content: '';
+}
+
+
+.couronne {
+  display: inline-block;
+  margin-inline-end: 0.25em;
+  vertical-align: -0.08em;
+  color: var(--or);
+}

@@ -1,0 +1,58 @@
+.dragons {
+  display: grid;
+  gap: var(--e2);
+}
+
+.titre {
+  margin: 0;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.liste {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  column-gap: var(--e5);
+  row-gap: var(--e3);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.dragon {
+  display: grid;
+  justify-items: start;
+  gap: var(--e1);
+  font-family: var(--f-chronique);
+}
+
+.figure {
+  display: block;
+  line-height: 0;
+}
+
+.figure svg {
+  width: 100%;
+  height: auto;
+}
+
+.echelle {
+  margin: 0;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.titre :global(.gloss__hv) {
+  font-family: var(--f-chronique);
+  font-style: normal;
+  font-size: var(--t0);
+  color: var(--ivoire);
+}
+
+.glose {
+  font-size: var(--t-1);
+}

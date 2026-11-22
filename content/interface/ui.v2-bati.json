@@ -15,8 +15,8 @@
     },
     {
       "key": "v2.fasce.valuetext",
-      "fr": "{year}, règne de {reign}, {period}, {count}",
-      "en": "{year}, reign of {reign}, {period}, {count}"
+      "fr": "{year}, sous {reign}, {period}, {count}",
+      "en": "{year}, under {reign}, {period}, {count}"
     },
     {
       "key": "v2.fasce.valuetext_noreign",
@@ -26,7 +26,7 @@
     {
       "key": "v2.fasce.all_time",
       "fr": "tout le temps",
-      "en": "all of time"
+      "en": "all time"
     },
     {
       "key": "v2.fasce.step_previous",

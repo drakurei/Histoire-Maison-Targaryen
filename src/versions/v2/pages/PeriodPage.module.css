@@ -1,0 +1,230 @@
+/*
+ * Période (parti). À gauche, sept colonnes : le chiffre, le titre, les années et la part de
+ * chaque degré de certitude, puis le chapeau, le sommaire, le récit, les annales. À droite,
+ * la colonne collante du temps et de l'espace.
+ */
+.page {
+  padding-bottom: var(--e8);
+}
+
+.entete {
+  display: grid;
+  gap: var(--e3);
+  padding-bottom: var(--e6);
+}
+
+.chiffre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t2);
+  line-height: 1;
+  color: var(--cendre);
+}
+
+.annees {
+  display: flex;
+  align-items: baseline;
+  gap: 0.1em;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+}
+
+.niveaux {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+  row-gap: var(--e1);
+}
+
+.niveau {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.4em;
+}
+
+.compte {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+}
+
+/* ------------------------------------------------------------ le récit */
+.recit {
+  display: grid;
+  gap: var(--e7);
+  min-width: 0;
+}
+
+.chapeau {
+  max-width: 42ch;
+}
+
+.sommaire {
+  max-width: 36rem;
+}
+
+.section {
+  display: grid;
+  gap: var(--e5);
+  scroll-margin-top: var(--e6);
+}
+
+.intertitre {
+  display: grid;
+  grid-template-columns: 2.5rem minmax(0, 1fr);
+  align-items: baseline;
+  max-width: 30ch;
+  margin-left: -2.5rem;
+  font-weight: 400;
+  font-size: var(--t2);
+  line-height: 1;
+}
+
+/* Le rang de la section, dans la marge : une vraie suite, celle du sommaire. */
+.rang {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t0);
+  color: var(--cendre);
+}
+
+.annalesSection {
+  display: grid;
+  gap: var(--e5);
+  padding-top: var(--e6);
+  scroll-margin-top: var(--e6);
+}
+
+.annalesChapeau {
+  max-width: 52ch;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--cendre);
+}
+
+/* ------------------------------------------------------------ questions ouvertes */
+.questions {
+  display: grid;
+  gap: var(--e7);
+}
+
+.question {
+  display: grid;
+  gap: var(--e4);
+}
+
+.questionTitre {
+  max-width: 28ch;
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-size: var(--t1);
+  line-height: 1.1;
+  color: var(--ivoire);
+}
+
+.questionPart {
+  display: grid;
+  gap: var(--e2);
+}
+
+.partLabel {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+/* Ce qu'affirme l'adaptation : tenu à part, sur la suie. */
+.adaptation {
+  justify-self: start;
+  padding: var(--e4) var(--e5);
+  background: var(--suie);
+}
+
+/* ------------------------------------------------------------ périodes voisines */
+.voisins {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: var(--gouttiere);
+  padding-top: var(--e6);
+}
+
+.voisin {
+  display: grid;
+  align-content: start;
+  gap: var(--e1);
+  min-height: 2.75rem;
+  text-decoration: none;
+}
+
+.suivant {
+  justify-items: end;
+  text-align: right;
+}
+
+.voisinSens {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.voisinNom {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.4em;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.1;
+  color: var(--ivoire);
+  text-decoration: underline 2px var(--cendre);
+  text-underline-offset: 4px;
+}
+
+.voisin:hover .voisinNom,
+.voisin:focus-visible .voisinNom {
+  text-decoration-color: var(--braise);
+}
+
+.voisinChiffre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+}
+
+.voisinGlose {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+@media (width < 1024px) {
+  .entete {
+    padding-bottom: 0;
+  }
+
+  .intertitre {
+    grid-template-columns: 1.75rem minmax(0, 1fr);
+    margin-left: 0;
+  }
+
+  .recit {
+    gap: var(--e6);
+  }
+
+  .voisins {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: var(--e5);
+  }
+
+  .suivant {
+    justify-items: start;
+    text-align: left;
+  }
+}

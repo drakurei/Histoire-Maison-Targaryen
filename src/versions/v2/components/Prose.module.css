@@ -1,0 +1,23 @@
+.prose {
+  display: grid;
+  gap: 1em;
+  max-width: 64ch;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit-sombre);
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+.prose[data-variante='chapeau'] {
+  max-width: 40ch;
+  font-size: var(--t1);
+  line-height: 1.45;
+}
+
+@media (width < 1024px) {
+  .prose {
+    max-width: 44ch;
+  }
+}

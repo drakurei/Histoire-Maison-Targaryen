@@ -1,0 +1,244 @@
+.chapeau {
+  margin-top: var(--e4);
+  max-width: 42ch;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+/* ------------------------------------------------------------ Colonne : la leçon en cours */
+.enCours {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: end;
+}
+
+.enCoursNombre {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t5);
+  line-height: 0.78;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+}
+
+.enCoursTexte {
+  display: grid;
+  gap: var(--e1);
+  padding-bottom: 0.2rem;
+}
+
+.enCoursSur {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.enCoursTitre {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.05;
+  color: var(--ivoire);
+}
+
+.sommaire {
+  margin-top: var(--e3);
+}
+
+/* ------------------------------------------------------------ Les leçons */
+.lecons {
+  display: grid;
+}
+
+.lecon {
+  display: grid;
+  gap: var(--e5);
+  padding-top: var(--e8);
+  scroll-margin-top: var(--e5);
+}
+
+.lecon:first-child {
+  padding-top: 0;
+}
+
+.leconTete {
+  position: relative;
+  display: grid;
+  gap: var(--e3);
+}
+
+.numero {
+  position: absolute;
+  right: 100%;
+  top: 0;
+  margin-right: var(--e5);
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t3);
+  line-height: 0.85;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.leconTitre {
+  font-size: var(--t3);
+  font-weight: 300;
+  line-height: 0.98;
+  max-width: 18ch;
+}
+
+.resume {
+  max-width: 48ch;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.35;
+  color: var(--cendre);
+}
+
+.blocs {
+  display: grid;
+  gap: var(--e4);
+}
+
+.paragraphe {
+  max-width: 64ch;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit-sombre);
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+.exemple {
+  display: grid;
+  gap: var(--e2);
+  max-width: 60ch;
+  margin-block: var(--e3);
+  padding-left: var(--e6);
+}
+
+.exempleHv {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-variation-settings: 'opsz' 36;
+  font-size: var(--t2);
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  color: var(--ivoire);
+}
+
+.exempleGlose {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--cendre);
+}
+
+/* ------------------------------------------------------------ Tableaux : aucun filet vertical, aucun cadre */
+.tableau {
+  margin-block: var(--e3);
+  max-width: 100%;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--f-musee);
+  font-size: calc(var(--t0) * 0.9);
+  line-height: 1.4;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.table thead th {
+  padding: 0 var(--e4) var(--e2) 0;
+  border-bottom: 1px solid var(--cendre);
+  text-align: left;
+  vertical-align: bottom;
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.table tbody > tr > * {
+  padding: var(--e3) var(--e4) 0 0;
+  text-align: left;
+  vertical-align: baseline;
+  color: var(--ivoire);
+}
+
+.table tbody > tr:first-child > * {
+  padding-top: var(--e4);
+}
+
+.table tbody th {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-size: var(--t0);
+  line-height: 1.25;
+}
+
+.refs {
+  margin-top: var(--e3);
+}
+
+@media (width < 1024px) {
+  .enCours {
+    display: none;
+  }
+
+  .numero {
+    position: static;
+    margin: 0;
+    font-size: var(--t2);
+  }
+
+  .exemple {
+    padding-left: var(--e4);
+  }
+
+  /* Au téléphone, chaque rangée devient un groupe : la première cellule en tête, les autres
+     précédées de leur en-tête. */
+  .table,
+  .table tbody,
+  .table tr,
+  .table th,
+  .table td {
+    display: block;
+  }
+
+  .table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+  }
+
+  .table tbody > tr {
+    padding-block: var(--e3);
+  }
+
+  .table tbody > tr > *,
+  .table tbody > tr:first-child > * {
+    padding: 0.15rem 0;
+  }
+
+  .table tbody td {
+    display: grid;
+    grid-template-columns: minmax(6.5rem, 38%) minmax(0, 1fr);
+    column-gap: var(--e3);
+  }
+
+  .table tbody td::before {
+    content: attr(data-label);
+    font-size: var(--t-1);
+    color: var(--cendre);
+  }
+}

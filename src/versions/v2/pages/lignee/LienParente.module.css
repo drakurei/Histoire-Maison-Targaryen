@@ -1,0 +1,171 @@
+.lien {
+  display: grid;
+  gap: var(--e4);
+  align-content: start;
+}
+
+.titre {
+  margin: 0;
+  font-size: var(--t2);
+  font-weight: 350;
+}
+
+.choixDeux {
+  display: grid;
+  gap: var(--e3);
+}
+
+.choix {
+  display: grid;
+  gap: var(--e1);
+}
+
+.etiquette {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+/* Liste déroulante native, habillée en texte souligné : pas de boîte, pas d'angle arrondi. */
+.select {
+  appearance: none;
+  width: 100%;
+  min-height: 2.75rem;
+  padding: 0 1.4rem 0 0;
+  border: 0;
+  border-radius: 0;
+  background:
+    linear-gradient(var(--cendre), var(--cendre)) left bottom / 100% 2px no-repeat,
+    linear-gradient(135deg, transparent 50%, var(--cendre) 50%) right 0.35rem center / 0.45rem 0.45rem no-repeat;
+  font-family: var(--f-chronique);
+  font-size: var(--t0);
+  color: var(--ivoire);
+  cursor: pointer;
+}
+
+.select:hover,
+.select:focus-visible {
+  background:
+    linear-gradient(var(--braise), var(--braise)) left bottom / 100% 2px no-repeat,
+    linear-gradient(135deg, transparent 50%, var(--braise) 50%) right 0.35rem center / 0.45rem 0.45rem no-repeat;
+}
+
+.select option,
+.select optgroup {
+  background: var(--suie);
+  color: var(--ivoire);
+  font-family: var(--f-musee);
+}
+
+.inverser {
+  justify-self: start;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: transparent;
+}
+
+.inverser:hover,
+.inverser:focus-visible {
+  color: var(--ivoire);
+  text-decoration-color: var(--braise);
+}
+
+.resultat {
+  display: grid;
+  gap: var(--e2);
+}
+
+.parente {
+  margin: 0;
+  font-family: var(--f-chronique);
+  font-weight: 350;
+  font-size: var(--t2);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--ivoire);
+}
+
+.pour {
+  margin: 0;
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--cendre);
+}
+
+.detail {
+  display: grid;
+  gap: var(--e1);
+  margin: 0;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.vide {
+  margin: 0;
+  max-width: 34ch;
+  font-family: var(--f-recit);
+  font-style: italic;
+  line-height: 1.45;
+  color: var(--cendre);
+}
+
+/* Le chemin du sang : deux colonnes, l'ancêtre commun en haut. */
+.chemin {
+  --rang: 2.75rem;
+  position: relative;
+  height: calc(var(--rangs) * var(--rang));
+  margin-top: var(--e3);
+}
+
+.trace {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  fill: none;
+  stroke: var(--braise);
+  stroke-width: 3;
+}
+
+.colonnes {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-rows: var(--rang);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.apex,
+.maillon {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  padding-left: 1.1rem;
+}
+
+.apex {
+  align-items: flex-start;
+  padding-top: 0.2rem;
+}
+
+.nom {
+  overflow: hidden;
+  font-family: var(--f-chronique);
+  font-size: calc(var(--t0) * 0.92);
+  line-height: 1.15;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}

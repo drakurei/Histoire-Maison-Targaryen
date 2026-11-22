@@ -1,0 +1,104 @@
+.page {
+  padding-bottom: var(--v2-reserve-bas);
+}
+
+.titre {
+  grid-column: 1 / 9;
+  grid-row: 1;
+  margin-bottom: var(--e6);
+}
+
+.titreArbre {
+  margin-bottom: var(--e4);
+}
+
+/* L'arbre entier prend le champ : le titre reste le seul h1, à la taille d'un intitulé. */
+.titreArbre h1 {
+  font-size: var(--t3);
+  max-width: none;
+}
+
+.intro {
+  margin: 0;
+  max-width: 46ch;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.4;
+  color: var(--ivoire);
+}
+
+.mode {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e5);
+  row-gap: var(--e2);
+  margin: 0;
+  max-width: 60ch;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.45;
+  color: var(--cendre);
+}
+
+.arbreLien {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-style: normal;
+  font-weight: 500;
+  color: var(--ivoire);
+}
+
+.fil {
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-column: 1 / 9;
+  grid-row: 2;
+}
+
+.annee {
+  grid-column: 3 / -1;
+  padding-left: calc(12px + 2.75rem);
+  padding-top: var(--e5);
+}
+
+.lien {
+  grid-column: 9 / -1;
+  grid-row: 1 / span 2;
+  align-self: start;
+  position: sticky;
+  top: var(--e5);
+  padding-top: var(--e3);
+}
+
+@media (width < 1024px) {
+  .titre {
+    grid-column: 1;
+    margin-bottom: var(--e6);
+  }
+
+  .fil {
+    grid-template-columns: minmax(0, 1fr);
+    grid-column: 1;
+    grid-row: auto;
+  }
+
+  .annee {
+    grid-column: 1;
+    padding-left: calc(1.75rem - var(--marge-page) + 12px + 1.5rem);
+  }
+
+  .titre {
+    grid-row: auto;
+  }
+
+  .lien {
+    position: static;
+    grid-column: 1;
+    grid-row: auto;
+    margin-top: var(--e7);
+  }
+}

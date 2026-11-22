@@ -1,0 +1,69 @@
+/*
+ * La fasce : fixe, collée au bas de la fenêtre, fond d'obsidienne, sans filet ni ombre.
+ * Ordinateur : la masse et la rangée des périodes à gauche, le cartel de 15rem à droite.
+ * Téléphone : la masse de bord à bord, puis la rangée des commandes.
+ */
+.root {
+  position: fixed;
+  inset-inline: 0;
+  bottom: 0;
+  z-index: 30;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) var(--v2-cartel);
+  grid-template-areas:
+    'zone cartel'
+    'rangee cartel';
+  /* Un blanc sépare la fin de la masse (les éclosions de 299) du cartel : rien d'autre. */
+  column-gap: var(--gouttiere);
+  padding-bottom: var(--v2-zone-sure);
+  background: var(--obsidienne);
+  font-family: var(--f-musee);
+}
+
+.zone {
+  position: relative;
+  grid-area: zone;
+  height: calc(var(--v2-fasce-ciel) + var(--v2-fasce-masse));
+  min-width: 0;
+}
+
+/* Gabarit invisible : il donne à la masse sa largeur et sa hauteur en pixels. */
+.mesure {
+  position: absolute;
+  inset-inline: 0;
+  bottom: 0;
+  height: var(--v2-fasce-masse);
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.masse {
+  position: absolute;
+  inset-inline: 0;
+  bottom: 0;
+  /* La masse qui se dépose déborde vers le haut pendant le geste, sans prise sur les clics. */
+  will-change: auto;
+}
+
+.rangee {
+  grid-area: rangee;
+  min-width: 0;
+}
+
+.cartel {
+  grid-area: cartel;
+  display: grid;
+  align-self: end;
+  min-width: 0;
+}
+
+@media (width < 1024px) {
+  .root {
+    column-gap: 0;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      'zone'
+      'rangee'
+      'cartel';
+  }
+}

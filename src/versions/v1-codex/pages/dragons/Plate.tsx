@@ -2,12 +2,11 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 
 import type { Dragon, DragonLook, Localized } from '@/core/content/types';
 import { buildDragon } from '@/core/dragons/geometry';
-import { useT } from '@/core/i18n';
+import { useT, useTxTypo } from '@/core/i18n';
 import { usePrefersReducedMotion } from '@/core/motion/reducedMotion';
 import { DragonFigure } from '@/shared/dragon';
 
 import styles from './Plate.module.css';
-import { useTxTypo } from '../../components/typo';
 
 interface PlateProps {
   dragon: Dragon;

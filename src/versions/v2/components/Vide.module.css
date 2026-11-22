@@ -1,0 +1,19 @@
+.vide {
+  display: grid;
+  gap: var(--e3);
+  max-width: 40ch;
+  padding-block: var(--e6);
+}
+
+.texte {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.4;
+  color: var(--cendre);
+}
+
+.action {
+  font-family: var(--f-musee);
+  font-weight: 500;
+}

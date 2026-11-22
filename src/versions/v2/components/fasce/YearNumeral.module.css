@@ -1,0 +1,40 @@
+.numeral {
+  display: inline-flex;
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-variant-numeric: lining-nums tabular-nums;
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+/* Chaque chiffre dans son masque : seul celui qui vient d'arriver roule. */
+.cell {
+  display: inline-block;
+  overflow: hidden;
+  clip-path: inset(0);
+}
+
+.digit {
+  display: inline-block;
+  animation: rouler 240ms var(--c-expo) both;
+}
+
+.numeral[data-sens='down'] .digit {
+  animation-name: rouler-bas;
+}
+
+.numeral[data-immobile] .digit {
+  animation: none;
+}
+
+@keyframes rouler {
+  from {
+    transform: translateY(75%);
+  }
+}
+
+@keyframes rouler-bas {
+  from {
+    transform: translateY(-75%);
+  }
+}

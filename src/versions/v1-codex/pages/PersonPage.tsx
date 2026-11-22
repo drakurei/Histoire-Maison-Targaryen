@@ -8,7 +8,7 @@ import { getDragon } from '@/core/content/dragons';
 import { getPerson, sovereigns } from '@/core/content/people';
 import { events } from '@/core/content/timeline';
 import type { Biography, Dragon, HistoricalEvent, Person, SourceRef } from '@/core/content/types';
-import { formatSpan, formatYear, useLang, useT, useTitle } from '@/core/i18n';
+import { formatSpan, formatYear, useLang, useT, useTitle, useTxTypo } from '@/core/i18n';
 import { DragonFigure } from '@/shared/dragon';
 import { NARRATIVE_END } from '@/core/timeline';
 
@@ -25,7 +25,6 @@ import type { YearMark, YearSpan } from '../components/YearRule';
 import { CROWNED, graph, RIDERS, shortName } from './lineage/model';
 import styles from './PersonPage.module.css';
 import { Kinship } from './people/Kinship';
-import { useTxTypo } from '../components/typo';
 
 /** Événements des annales où la personne paraît, dans l'ordre du temps. */
 function eventsOf(person: Person, biography: Biography | undefined): HistoricalEvent[] {

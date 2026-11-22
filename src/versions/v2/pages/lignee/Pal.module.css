@@ -1,0 +1,420 @@
+/*
+ * Le pal : une bande de sang de 12 px à la colonne 3 (à 28 px du bord au téléphone), les
+ * numéros du fil à sa gauche, les noms à sa droite, et entre les deux les couloirs où courent
+ * les fils de filiation. Le dessin est mesuré sur ce texte (tracePal.ts).
+ */
+.pal {
+  --pal-largeur: 12px;
+  --pal-couloirs: 2.75rem;
+  position: relative;
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-column: 1 / -1;
+}
+
+.rail {
+  grid-column: 3;
+  grid-row: 1;
+  justify-self: start;
+  width: var(--pal-largeur);
+  height: 1px;
+}
+
+.trace {
+  position: absolute;
+  inset: 0 auto auto 0;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.bande {
+  fill: var(--sang);
+}
+
+.entaille {
+  fill: var(--obsidienne);
+}
+
+.entailleBraise {
+  fill: var(--braise);
+}
+
+.trait {
+  stroke: var(--sang);
+  stroke-width: 2;
+}
+
+.filiation {
+  fill: none;
+  stroke: var(--cendre);
+  stroke-width: 1.5;
+}
+
+.filiation[data-doute] {
+  stroke-dasharray: 3 3;
+}
+
+.rangees,
+.rangee,
+.ligne {
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-column: 1 / -1;
+}
+
+.rangees {
+  grid-row: 1;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.rangee {
+  align-content: start;
+}
+
+.rangee[data-bloc] {
+  row-gap: var(--e2);
+  padding-block: var(--e5);
+}
+
+.rangee[data-bloc]:has([data-kind='centre']) {
+  padding-block: var(--e6);
+}
+
+.ligne {
+  align-items: center;
+  min-height: 2.75rem;
+}
+
+.marge {
+  grid-column: 1 / 3;
+  justify-self: end;
+  padding-right: var(--e4);
+}
+
+.numero {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: var(--t1);
+  line-height: 1;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+}
+
+.ligne:has([data-centre]) .numero {
+  color: var(--ivoire);
+}
+
+.contenu {
+  grid-column: 3 / -1;
+  position: relative;
+  min-width: 0;
+  padding-left: calc(var(--pal-largeur) + var(--pal-couloirs));
+}
+
+/* ------------------------------------------------------------ Les noms */
+.nom {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.55em;
+  row-gap: 0.1em;
+  max-width: 100%;
+}
+
+.lien {
+  position: relative;
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-variation-settings: 'opsz' 36;
+  letter-spacing: -0.01em;
+  color: var(--ivoire);
+  text-decoration-color: color-mix(in oklch, var(--cendre) 55%, transparent);
+}
+
+/* Cible de 44 px (DESIGN §6) sans toucher à la composition : la zone de pression déborde
+   du texte au-dessus et au-dessous, centrée sur lui. */
+.lien::after {
+  position: absolute;
+  inset-inline: 0;
+  top: 50%;
+  height: max(100%, 2.75rem);
+  translate: 0 -50%;
+  content: '';
+}
+
+.nom[data-taille='fil'] .lien,
+.nom[data-taille='tete'] .lien {
+  font-size: var(--t1);
+  line-height: 1.1;
+}
+
+.nom[data-taille='conjoint'] .lien {
+  font-size: calc(var(--t0) * 1.12);
+}
+
+.nom[data-taille='petit'] .lien {
+  font-size: var(--t0);
+}
+
+.couronne {
+  margin-right: 0.3em;
+  color: var(--or);
+  vertical-align: -0.05em;
+}
+
+.ordinal {
+  font-family: var(--f-lettrine);
+  font-weight: 500;
+  font-size: 1.1em;
+  line-height: 1;
+  font-variant-numeric: lining-nums;
+  color: var(--or);
+}
+
+.doute {
+  color: var(--cendre);
+  font-size: 0.8em;
+}
+
+.meta {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--cendre);
+  white-space: nowrap;
+}
+
+.parente {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: calc(var(--t0) * 0.92);
+  color: var(--cendre);
+}
+
+/* À l'année réglée : les morts en cendre, les personnes à naître estompées. */
+.nom[data-etat='mort'] .lien {
+  color: var(--cendre);
+}
+
+.nom[data-etat='a-naitre'] {
+  opacity: 0.4;
+}
+
+/* Le chemin du lien de parenté. */
+.nom[data-chemin] .lien {
+  text-decoration-color: var(--braise);
+  text-decoration-thickness: 3px;
+}
+
+/* ------------------------------------------------------------ Le bloc */
+.union {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.6em;
+  padding-left: 1.6rem;
+}
+
+.anneau {
+  flex: none;
+  align-self: center;
+  overflow: visible;
+  fill: none;
+  stroke: var(--cendre);
+  stroke-width: 1.5;
+}
+
+.anneau[data-sang] {
+  stroke: var(--sang);
+  stroke-width: 2.25;
+}
+
+.inconnu {
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--cendre);
+}
+
+.groupe {
+  display: grid;
+  gap: var(--e2);
+  padding-block: var(--e1);
+}
+
+.ligne[data-kind='fratrie'] .groupe {
+  padding-left: 1.6rem;
+}
+
+.sousGroupe {
+  display: block;
+}
+
+.etiquette {
+  display: block;
+  margin-bottom: 0.15em;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.noms {
+  display: inline;
+  line-height: 1.5;
+}
+
+.nomListe {
+  white-space: nowrap;
+}
+
+.nomListe .nom {
+  display: inline;
+}
+
+/* ------------------------------------------------------------ Le centre */
+.centre {
+  display: grid;
+  gap: var(--e2);
+  justify-items: start;
+}
+
+.centreNom {
+  margin: 0;
+  font-size: var(--t4);
+  font-weight: 300;
+  line-height: 0.95;
+}
+
+.centreNom a {
+  text-decoration-thickness: 3px;
+  text-underline-offset: 0.12em;
+}
+
+.centreNom[data-etat='mort'] a {
+  color: var(--ivoire);
+}
+
+.epithete {
+  margin: 0;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.2;
+  color: var(--cendre);
+}
+
+.centreMeta {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+  row-gap: var(--e1);
+  margin: 0;
+  font-family: var(--f-musee);
+  font-size: var(--t0);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ivoire);
+}
+
+.centreMeta [data-etat='mort'],
+.centreMeta [data-etat='inconnu'] {
+  color: var(--cendre);
+}
+
+.centreLiens {
+  margin: 0;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+}
+
+.centreLiens a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+}
+
+/* ------------------------------------------------------------ Téléphone et tablette */
+@media (width < 1024px) {
+  .pal {
+    --pal-couloirs: 1.5rem;
+    grid-template-columns: 1.75rem minmax(0, 1fr);
+    margin-left: calc(-1 * var(--marge-page));
+  }
+
+  .rangees,
+  .rangee,
+  .ligne {
+    grid-template-columns: subgrid;
+    grid-column: 1 / -1;
+  }
+
+  .rail {
+    grid-column: 2;
+  }
+
+  .marge {
+    grid-column: 1;
+    padding-right: 0.3rem;
+  }
+
+  .numero {
+    font-size: var(--t0);
+  }
+
+  .contenu {
+    grid-column: 2;
+  }
+
+  .nom[data-taille='fil'] .lien,
+  .nom[data-taille='tete'] .lien {
+    font-size: calc(var(--t0) * 1.12);
+  }
+
+  .union {
+    padding-left: 0.9rem;
+  }
+
+  .ligne[data-kind='fratrie'] .groupe {
+    padding-left: 0.9rem;
+  }
+
+  .centreNom {
+    font-size: var(--t3);
+  }
+
+  .centreMeta {
+    font-size: var(--t-1);
+    column-gap: var(--e4);
+  }
+}
+
+.precision {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.nomListe .ordinal,
+.nomListe .doute {
+  margin-left: 0.2em;
+}
+
+/* La couronne de NomEntite suit la taille du nom : au centre, elle reste une marque. */
+.centreNom svg {
+  width: 0.42em;
+  height: 0.42em;
+  margin-right: 0.18em;
+  vertical-align: 0.12em;
+}
+
+/* Au centre, le numéro du fil se pose à la hauteur du nom, pas au milieu du bloc. */
+.ligne[data-kind='centre'] {
+  align-items: start;
+}
+
+.ligne[data-kind='centre'] .marge {
+  padding-top: 0.45rem;
+}

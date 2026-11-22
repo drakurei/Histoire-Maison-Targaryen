@@ -1,0 +1,55 @@
+/*
+ * Une bande à l'échelle de la fasce. Elle prend toute la largeur de la fenêtre (le temps
+ * légendaire commence au bord, comme sur la fasce), sans jamais déborder.
+ */
+.bande {
+  position: relative;
+  margin-inline: calc(-1 * var(--marge-page));
+  overflow: hidden;
+}
+
+.axe {
+  position: absolute;
+  bottom: 0;
+  height: 1px;
+  background: var(--basalte);
+}
+
+/* La durée couverte : trait ivoire de 2 px au-dessus de la masse (spec §2.2). */
+.duree {
+  position: absolute;
+  top: 0;
+  height: 2px;
+  background: var(--ivoire);
+}
+
+.encoche {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 2px;
+  height: 8px;
+  background: var(--ivoire);
+  transition: background-color var(--d-geste-court) var(--c-expo);
+}
+
+.bande[data-actif] .encoche {
+  background: var(--braise);
+}
+
+.segment {
+  position: absolute;
+  bottom: 0;
+}
+
+.segment svg {
+  display: block;
+}
+
+.entaille {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 2px;
+  background: var(--obsidienne);
+}

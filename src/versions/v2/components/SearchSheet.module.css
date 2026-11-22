@@ -1,0 +1,189 @@
+/*
+ * La recherche : plein écran sur l'obsidienne. Ordinateur : le champ posé en bas, à la
+ * hauteur de la fasce, les réponses au-dessus. Téléphone : le champ en haut (le clavier
+ * occupe le bas), les réponses dessous.
+ */
+.root {
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: var(--obsidienne);
+  color: var(--ivoire);
+  overscroll-behavior: contain;
+  animation: venir var(--d-geste-court) var(--c-expo) both;
+}
+
+.root::backdrop {
+  background: var(--obsidienne);
+}
+
+@keyframes venir {
+  from {
+    opacity: 0;
+  }
+}
+
+.sheet {
+  display: flex;
+  flex-direction: column-reverse;
+  height: 100%;
+  padding: var(--e6) var(--marge-page) var(--v2-fasce-totale);
+}
+
+.champ {
+  display: flex;
+  align-items: baseline;
+  gap: var(--gouttiere);
+  padding-top: var(--e4);
+}
+
+.input {
+  flex: 1;
+  min-width: 0;
+  min-height: 2.75rem;
+  padding: 0 0 var(--e2);
+  border: 0;
+  border-bottom: 2px solid var(--cendre);
+  border-radius: 0;
+  background: transparent;
+  font-family: var(--f-chronique);
+  font-weight: 350;
+  font-size: var(--t3);
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: var(--ivoire);
+}
+
+.input::placeholder {
+  color: var(--cendre);
+  opacity: 1;
+}
+
+.input:focus-visible {
+  outline: none;
+  border-bottom-color: var(--braise);
+}
+
+.fermer {
+  min-height: 2.75rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  color: var(--ivoire);
+  text-decoration: underline 2px var(--cendre);
+  text-underline-offset: 3px;
+}
+
+.fermer:hover,
+.fermer:focus-visible {
+  text-decoration-color: var(--braise);
+}
+
+.compte {
+  padding-top: var(--e3);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.reponses {
+  display: flex;
+  flex-direction: column;
+  gap: var(--e5);
+  min-height: 0;
+  overflow-y: auto;
+  padding-block: var(--e4);
+}
+
+.groupe {
+  display: grid;
+  grid-template-columns: 9rem minmax(0, 1fr);
+  column-gap: var(--gouttiere);
+}
+
+.genre {
+  grid-row: span 40;
+  padding-top: 0.3rem;
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  line-height: 1.2;
+  letter-spacing: 0;
+  color: var(--cendre);
+}
+
+.option {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e4);
+  min-height: 2.75rem;
+  padding-block: var(--e2);
+  cursor: pointer;
+}
+
+.libelle {
+  font-family: var(--f-chronique);
+  font-weight: 400;
+  font-size: var(--t1);
+  line-height: 1.1;
+  letter-spacing: -0.015em;
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  text-decoration-color: transparent;
+}
+
+.option[data-actif] .libelle,
+.option[data-actif] .annee {
+  text-decoration-color: var(--braise);
+}
+
+.indice {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.annee {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  text-decoration-color: var(--sang);
+}
+
+/* Le passage trouvé : plus d'encre, pas de couleur. */
+.trouve {
+  background: none;
+  color: inherit;
+  font-weight: 600;
+}
+
+@media (width < 1024px) {
+  .sheet {
+    flex-direction: column;
+    padding: var(--e3) var(--marge-page) var(--e5);
+  }
+
+  .champ {
+    padding-top: 0;
+  }
+
+  .input {
+    font-size: var(--t2);
+  }
+
+  .groupe {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .genre {
+    grid-row: auto;
+  }
+}

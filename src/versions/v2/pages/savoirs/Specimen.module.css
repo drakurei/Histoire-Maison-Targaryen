@@ -1,0 +1,97 @@
+.specimen {
+  container-type: inline-size;
+  display: grid;
+  gap: var(--e4);
+  align-content: start;
+}
+
+.forme {
+  font-family: var(--f-chronique);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 72;
+  font-size: min(var(--t5), 18cqi);
+  line-height: 0.92;
+  letter-spacing: -0.025em;
+  color: var(--ivoire);
+  overflow-wrap: anywhere;
+  text-wrap: balance;
+}
+
+.sens {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.25;
+  color: var(--ivoire);
+}
+
+.statut {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: var(--e4);
+  row-gap: var(--e1);
+}
+
+.theme {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.notice {
+  display: grid;
+  gap: var(--e4);
+  margin-top: var(--e2);
+}
+
+.rubrique {
+  display: grid;
+  gap: var(--e1);
+}
+
+.rubrique dt {
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: var(--t-1);
+  color: var(--cendre);
+}
+
+.rubrique dd {
+  max-width: 52ch;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.55;
+  color: var(--ivoire);
+  hyphens: auto;
+}
+
+.rubrique dd.note {
+  font-size: calc(var(--t0) * 0.94);
+}
+
+.averti {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-style: italic;
+  color: var(--cendre);
+}
+
+.refs {
+  margin-top: var(--e2);
+}
+
+.specimen[data-taille='deplie'] {
+  gap: var(--e3);
+  padding-block: var(--e4) var(--e6);
+}
+
+.specimen[data-taille='deplie'] .forme {
+  font-size: min(var(--t3), 14cqi);
+  font-weight: 350;
+}
+
+/* Sous la rangée, le sens est déjà écrit : le spécimen ne le répète pas. */
+.specimen[data-taille='deplie'] .sens {
+  display: none;
+}

@@ -3678,8 +3678,8 @@
     },
     {
       "key": "v2.fasce.valuetext",
-      "fr": "{year}, règne de {reign}, {period}, {count}",
-      "en": "{year}, reign of {reign}, {period}, {count}"
+      "fr": "{year}, sous {reign}, {period}, {count}",
+      "en": "{year}, under {reign}, {period}, {count}"
     },
     {
       "key": "v2.fasce.valuetext_noreign",
@@ -3689,7 +3689,7 @@
     {
       "key": "v2.fasce.all_time",
       "fr": "tout le temps",
-      "en": "all of time"
+      "en": "all time"
     },
     {
       "key": "v2.fasce.step_previous",
@@ -3910,6 +3910,1106 @@
       "key": "v2.map.fullscreen",
       "fr": "Plein écran",
       "en": "Full screen"
+    },
+    {
+      "key": "v2.portal.note.doom",
+      "fr": "le Fléau",
+      "en": "the Doom"
+    },
+    {
+      "key": "v2.portal.note.conquest",
+      "fr": "la Conquête",
+      "en": "the Conquest"
+    },
+    {
+      "key": "v2.portal.note.peak",
+      "fr": "{n} dragons vivants",
+      "en": "{n} living dragons"
+    },
+    {
+      "key": "v2.portal.note.last_dragon",
+      "fr": "le dernier dragon meurt",
+      "en": "the last dragon dies"
+    },
+    {
+      "key": "v2.portal.note.hatching",
+      "fr": "{n} éclosions",
+      "en": "{n} hatchings"
+    },
+    {
+      "key": "v2.portal.notes",
+      "fr": "Repères sur la fasce",
+      "en": "Landmarks on the fess"
+    },
+    {
+      "key": "v2.portal.legend",
+      "fr": "La hauteur du rouge compte les dragons vivants, année par année. Hachures : Valyria, qui ne les a jamais comptés, et les dragons dont on perd la trace. Pressez la bande pour choisir une année.",
+      "en": "The height of the red counts the living dragons, year by year. Hatching: Valyria, which never counted them, and the dragons whose trail is lost. Press the band to choose a year."
+    },
+    {
+      "key": "v2.chronicles.figure",
+      "fr": "Les huit périodes, les règnes et les guerres, à l’échelle de la fasce",
+      "en": "The eight periods, the reigns and the wars, on the scale of the fess"
+    },
+    {
+      "key": "v2.chronicles.caption",
+      "fr": "Chaque rangée est un segment de la fasce, à sa place et à la même échelle : le rouge y compte les dragons vivants. Au-dessus, les règnes en or et les guerres en rouge. Les siècles d’avant le départ pour Peyredragon sont resserrés.",
+      "en": "Each row is a segment of the fess, in its place and at the same scale: the red counts the living dragons. Above, the reigns in gold and the wars in red. The centuries before the departure for Dragonstone are compressed."
+    },
+    {
+      "key": "v2.chronicles.reigns",
+      "fr": "règnes",
+      "en": "reigns"
+    },
+    {
+      "key": "v2.chronicles.wars",
+      "fr": "guerres",
+      "en": "wars"
+    },
+    {
+      "key": "v2.chronicles.reigns_list",
+      "fr": "Les règnes, dans l’ordre",
+      "en": "The reigns, in order"
+    },
+    {
+      "key": "v2.chronicles.wars_list",
+      "fr": "Les guerres, dans l’ordre",
+      "en": "The wars, in order"
+    },
+    {
+      "key": "v2.chronicles.peak",
+      "fr": "Au plus {n} dragons vivants, en {year}",
+      "en": "At most {n} living dragons, in {year}"
+    },
+    {
+      "key": "v2.chronicles.peak_one",
+      "fr": "Un seul dragon vivant, en {year}",
+      "en": "A single living dragon, in {year}"
+    },
+    {
+      "key": "v2.chronicles.peak_none",
+      "fr": "Aucun dragon vivant",
+      "en": "No living dragon"
+    },
+    {
+      "key": "v2.chronicles.uncounted",
+      "fr": "Des dragons que Valyria n’a jamais comptés",
+      "en": "Dragons that Valyria never counted"
+    },
+    {
+      "key": "v2.chronicles.events",
+      "fr": "{n} événements",
+      "en": "{n} events"
+    },
+    {
+      "key": "v2.chronicles.open",
+      "fr": "Lire la période",
+      "en": "Read the period"
+    },
+    {
+      "key": "v2.chronicles.reading",
+      "fr": "En {year}",
+      "en": "In {year}"
+    },
+    {
+      "key": "v2.period.contents",
+      "fr": "Sommaire",
+      "en": "Contents"
+    },
+    {
+      "key": "v2.period.map",
+      "fr": "Les lieux de la période : {title}",
+      "en": "The places of the period: {title}"
+    },
+    {
+      "key": "v2.period.previous",
+      "fr": "Période précédente",
+      "en": "Previous period"
+    },
+    {
+      "key": "v2.period.next",
+      "fr": "Période suivante",
+      "en": "Next period"
+    },
+    {
+      "key": "v2.period.neighbours",
+      "fr": "Périodes voisines",
+      "en": "Neighbouring periods"
+    },
+    {
+      "key": "v2.period.no_essay",
+      "fr": "Le récit suivi de cette période n’est pas encore écrit. Les annales en donnent déjà la trame, événement par événement.",
+      "en": "The continuous narrative of this period has not been written yet. The annals already give its outline, event by event."
+    },
+    {
+      "key": "v2.period.no_dragons",
+      "fr": "Aucun dragon ne vit pendant cette période : il n’y a rien à porter sur la fasce.",
+      "en": "No dragon lives during this period: there is nothing to carry on the fess."
+    },
+    {
+      "key": "v2.period.text_filter",
+      "fr": "Chercher dans les annales",
+      "en": "Search the annals"
+    },
+    {
+      "key": "v2.period.text_placeholder",
+      "fr": "Un nom, un lieu, un mot",
+      "en": "A name, a place, a word"
+    },
+    {
+      "key": "v2.period.annals_lead",
+      "fr": "Les événements de la période dans l’ordre du temps. En lisant, l’année se règle sur la fasce.",
+      "en": "The events of the period in the order of time. As you read, the year is set on the fess."
+    },
+    {
+      "key": "v2.period.annals_year",
+      "fr": "Événements de {year}",
+      "en": "Events of {year}"
+    },
+    {
+      "key": "v2.period.annals_undated",
+      "fr": "Événements sans date",
+      "en": "Undated events"
+    },
+    {
+      "key": "v2.period.essay_count",
+      "fr": "Récit en {n} sections",
+      "en": "Narrative in {n} sections"
+    },
+    {
+      "key": "v2.event.previous",
+      "fr": "Événement précédent",
+      "en": "Previous event"
+    },
+    {
+      "key": "v2.event.next",
+      "fr": "Événement suivant",
+      "en": "Next event"
+    },
+    {
+      "key": "v2.event.neighbours",
+      "fr": "Dans le fil du temps",
+      "en": "In the thread of time"
+    },
+    {
+      "key": "v2.event.period",
+      "fr": "Période {n}",
+      "en": "Period {n}"
+    },
+    {
+      "key": "v2.event.date_note",
+      "fr": "Sur la date",
+      "en": "On the date"
+    },
+    {
+      "key": "v2.event.map",
+      "fr": "Les lieux de l’événement : {title}",
+      "en": "The places of the event: {title}"
+    },
+    {
+      "key": "v2.event.no_places",
+      "fr": "Aucun lieu n’est rattaché à cet événement : la carte montre ceux de sa période.",
+      "en": "No place is attached to this event: the map shows those of its period."
+    },
+    {
+      "key": "v2.event.no_entities",
+      "fr": "aucun dans nos registres",
+      "en": "none in our registers"
+    },
+    {
+      "key": "v2.event.continuity",
+      "fr": "Continuité",
+      "en": "Continuity"
+    },
+    {
+      "key": "v2.event.show_note",
+      "fr": "Cet événement n’existe que dans l’adaptation télévisée. Les livres ne le racontent pas.",
+      "en": "This event exists only in the television adaptation. The books do not tell it."
+    },
+    {
+      "key": "v2.lineage.how",
+      "fr": "Touchez un nom pour le placer au centre. Les âges suivent l’année réglée sur la fasce.",
+      "en": "Touch a name to place that person at the centre. Ages follow the year set on the fess."
+    },
+    {
+      "key": "v2.lineage.generation",
+      "fr": "génération {n} du fil",
+      "en": "generation {n} of the line"
+    },
+    {
+      "key": "v2.lineage.age.zero",
+      "fr": "moins d’un an",
+      "en": "under one year"
+    },
+    {
+      "key": "v2.lineage.age.one",
+      "fr": "un an",
+      "en": "one year old"
+    },
+    {
+      "key": "v2.lineage.age.many",
+      "fr": "{n} ans",
+      "en": "aged {n}"
+    },
+    {
+      "key": "v2.lineage.age_approx",
+      "fr": "vers {n} ans",
+      "en": "about {n}"
+    },
+    {
+      "key": "v2.lineage.age_unknown",
+      "fr": "âge inconnu",
+      "en": "age unknown"
+    },
+    {
+      "key": "v2.lineage.dead.m",
+      "fr": "mort en {year}",
+      "en": "died {year}"
+    },
+    {
+      "key": "v2.lineage.dead.f",
+      "fr": "morte en {year}",
+      "en": "died {year}"
+    },
+    {
+      "key": "v2.lineage.unborn.m",
+      "fr": "pas encore né",
+      "en": "not yet born"
+    },
+    {
+      "key": "v2.lineage.unborn.f",
+      "fr": "pas encore née",
+      "en": "not yet born"
+    },
+    {
+      "key": "v2.lineage.death_unknown.m",
+      "fr": "né en {year}, mort non datée",
+      "en": "born {year}, death undated"
+    },
+    {
+      "key": "v2.lineage.death_unknown.f",
+      "fr": "née en {year}, mort non datée",
+      "en": "born {year}, death undated"
+    },
+    {
+      "key": "v2.lineage.kin_and_union",
+      "fr": "{kin} et {union}",
+      "en": "{kin} and {union}"
+    },
+    {
+      "key": "v2.lineage.half_siblings",
+      "fr": "demi-fratrie",
+      "en": "half-siblings"
+    },
+    {
+      "key": "v2.lineage.children_with",
+      "fr": "enfants avec {name}",
+      "en": "children with {name}"
+    },
+    {
+      "key": "v2.lineage.children_unknown",
+      "fr": "enfants d’un parent que les sources ne nomment pas",
+      "en": "children by a parent the sources do not name"
+    },
+    {
+      "key": "v2.lineage.without_union",
+      "fr": "Aucune union enregistrée",
+      "en": "No recorded union"
+    },
+    {
+      "key": "v2.lineage.ring_blood",
+      "fr": "Mariage entre parents par le sang",
+      "en": "Marriage between blood kin"
+    },
+    {
+      "key": "v2.lineage.inbreeding",
+      "fr": "coefficient de consanguinité {value}",
+      "en": "inbreeding coefficient {value}"
+    },
+    {
+      "key": "v2.lineage.year_title",
+      "fr": "En {year}",
+      "en": "In {year}"
+    },
+    {
+      "key": "v2.lineage.living",
+      "fr": "vivants connus dans la lignée",
+      "en": "known living in the line"
+    },
+    {
+      "key": "v2.lineage.riders",
+      "fr": "cavaliers dont le dragon vit",
+      "en": "riders whose dragon lives"
+    },
+    {
+      "key": "v2.lineage.year_empty",
+      "fr": "Réglez une année sur la fasce : après chaque nom s’écrivent alors l’âge, la mort ou la naissance à venir.",
+      "en": "Set a year on the fess: each name then carries its age, its death or a birth still to come."
+    },
+    {
+      "key": "v2.lineage.link",
+      "fr": "Le lien de parenté",
+      "en": "The blood link"
+    },
+    {
+      "key": "v2.lineage.first",
+      "fr": "Première personne",
+      "en": "First person"
+    },
+    {
+      "key": "v2.lineage.second",
+      "fr": "Seconde personne",
+      "en": "Second person"
+    },
+    {
+      "key": "v2.lineage.choose",
+      "fr": "Choisir une personne",
+      "en": "Choose a person"
+    },
+    {
+      "key": "v2.lineage.swap",
+      "fr": "Inverser les deux personnes",
+      "en": "Swap the two people"
+    },
+    {
+      "key": "v2.lineage.link_empty",
+      "fr": "Choisissez une seconde personne : la parenté s’écrit en toutes lettres, et le chemin du sang se trace par l’ancêtre commun.",
+      "en": "Choose a second person: the kinship is written out in full, and the path of blood is traced through the common ancestor."
+    },
+    {
+      "key": "v2.lineage.link_for",
+      "fr": "{b}, pour {a}",
+      "en": "{b}, to {a}"
+    },
+    {
+      "key": "v2.lineage.apex",
+      "fr": "Ancêtre commun : {names}",
+      "en": "Common ancestor: {names}"
+    },
+    {
+      "key": "v2.lineage.apexes",
+      "fr": "Ancêtres communs : {names}",
+      "en": "Common ancestors: {names}"
+    },
+    {
+      "key": "v2.lineage.degree",
+      "fr": "degré civil : {n}",
+      "en": "civil degree: {n}"
+    },
+    {
+      "key": "v2.lineage.back_to_line",
+      "fr": "Revenir au fil",
+      "en": "Back to the line"
+    },
+    {
+      "key": "v2.lineage.tree_hint",
+      "fr": "Glissez pour déplacer l’arbre, pincez ou touchez + et − pour l’agrandir. Choisir un nom le place au centre du fil.",
+      "en": "Drag to move the tree, pinch or press + and − to zoom. Choosing a name places that person at the centre of the line."
+    },
+    {
+      "key": "v2.people.lead",
+      "fr": "{n} vies rangées par naissance, sur l’échelle même de la fasce. Le trait plein donne les années sûres, le pointillé ce que les sources laissent ouvert, l’or le règne.",
+      "en": "{n} lives in order of birth, on the very scale of the fess. The solid stroke gives the certain years, the dotted one what the sources leave open, the gold the reign."
+    },
+    {
+      "key": "v2.people.undated",
+      "fr": "Sans date",
+      "en": "Undated"
+    },
+    {
+      "key": "v2.people.undated_note",
+      "fr": "Aucune année n’est connue pour ces {n} personnes : elles ne se placent pas sur le temps.",
+      "en": "No year is known for these {n} people: they cannot be placed in time."
+    },
+    {
+      "key": "v2.people.under",
+      "fr": "sous {name}",
+      "en": "under {name}"
+    },
+    {
+      "key": "v2.people.jump",
+      "fr": "Aller à un groupe",
+      "en": "Jump to a group"
+    },
+    {
+      "key": "v2.people.living",
+      "fr": "personnes de la lignée en vie en {year}",
+      "en": "people of the line alive in {year}"
+    },
+    {
+      "key": "v2.people.total",
+      "fr": "personnes dans la lignée, de Valyria à la fin du récit",
+      "en": "people in the line, from Valyria to the end of the story"
+    },
+    {
+      "key": "v2.people.figure",
+      "fr": "Lignes de vie, alignées sur la fasce",
+      "en": "Lifelines, aligned with the fess"
+    },
+    {
+      "key": "v2.person.rank",
+      "fr": "souverain n° {n} de la liste officielle",
+      "en": "sovereign no. {n} in the official list"
+    },
+    {
+      "key": "v2.person.contents",
+      "fr": "Sommaire de la fiche",
+      "en": "Contents of the entry"
+    },
+    {
+      "key": "v2.person.titles",
+      "fr": "Titres portés",
+      "en": "Titles held"
+    },
+    {
+      "key": "v2.person.annals",
+      "fr": "Dans les annales",
+      "en": "In the annals"
+    },
+    {
+      "key": "v2.person.in_lineage",
+      "fr": "Voir dans la lignée",
+      "en": "See in the line"
+    },
+    {
+      "key": "v2.person.children",
+      "fr": "enfants :",
+      "en": "children:"
+    },
+    {
+      "key": "v2.person.unions",
+      "fr": "Unions",
+      "en": "Unions"
+    },
+    {
+      "key": "v2.person.at_year",
+      "fr": "en {year} : {state}",
+      "en": "in {year}: {state}"
+    },
+    {
+      "key": "v2.person.dragons_scale",
+      "fr": "À l’échelle commune des dragons, Balerion pour mesure.",
+      "en": "At the common scale of the dragons, with Balerion as the measure."
+    },
+    {
+      "key": "v2.person.life_unknown",
+      "fr": "Les sources ne datent ni sa naissance ni sa mort : sa vie ne se place pas sur la fasce.",
+      "en": "The sources date neither the birth nor the death: this life cannot be placed on the fess."
+    },
+    {
+      "key": "v2.dragons.flying",
+      "fr": "Qui vole en {year}",
+      "en": "Who flies in {year}"
+    },
+    {
+      "key": "v2.dragons.flying_all",
+      "fr": "Tous les dragons du registre",
+      "en": "Every dragon in the register"
+    },
+    {
+      "key": "v2.dragons.attested.one",
+      "fr": "Un seul dragon dont la vie est attestée cette année-là.",
+      "en": "A single dragon whose life is attested that year."
+    },
+    {
+      "key": "v2.dragons.attested.many",
+      "fr": "{n} dragons dont la vie est attestée cette année-là, rangés par envergure.",
+      "en": "{n} dragons whose lives are attested that year, ranked by wingspan."
+    },
+    {
+      "key": "v2.dragons.all_count",
+      "fr": "{n} dragons à la même échelle, rangés par envergure. Réglez une année sur la fasce pour ne garder que ceux qui volent alors.",
+      "en": "{n} dragons at one scale, ranked by wingspan. Set a year on the fess to keep only those flying then."
+    },
+    {
+      "key": "v2.dragons.none",
+      "fr": "En {year}, aucun dragon ne vole.",
+      "en": "In {year}, no dragon flies."
+    },
+    {
+      "key": "v2.dragons.none_gap",
+      "fr": "Le dernier dragon des Targaryen meurt en {last} ; il faut attendre {next} pour que d’autres éclosent.",
+      "en": "The last Targaryen dragon dies in {last}; not until {next} do others hatch."
+    },
+    {
+      "key": "v2.dragons.none_before",
+      "fr": "Valyria n’a jamais compté ses dragons : avant {first}, le registre n’en nomme aucun.",
+      "en": "Valyria never counted its dragons: before {first}, the register names none."
+    },
+    {
+      "key": "v2.dragons.last_before",
+      "fr": "Le dernier vu avant cette année, mort en {died} : {name}.",
+      "en": "The last seen before that year, dead in {died}: {name}."
+    },
+    {
+      "key": "v2.dragons.show_all",
+      "fr": "Voir tous les dragons",
+      "en": "Show every dragon"
+    },
+    {
+      "key": "v2.dragons.legend_label",
+      "fr": "Les dragons de la figure, du plus grand au plus petit",
+      "en": "The dragons in the figure, from largest to smallest"
+    },
+    {
+      "key": "v2.dragons.span_estimated",
+      "fr": "env. {value}",
+      "en": "c. {value}"
+    },
+    {
+      "key": "v2.dragons.ruler",
+      "fr": "Envergure de Balerion",
+      "en": "Balerion’s wingspan"
+    },
+    {
+      "key": "v2.dragons.scale_note",
+      "fr": "Vus du dessus, ailes ouvertes ; le nombre rapporte chaque envergure à celle de Balerion. L’homme debout suppose quelque quatre-vingt-dix mètres d’envergure au plus grand : une hypothèse du musée, les livres ne donnent aucune mesure.",
+      "en": "Seen from above, wings spread; the figure gives each wingspan as a share of Balerion’s. The standing man assumes some ninety metres of wingspan for the largest: the museum’s guess, as the books give no measure."
+    },
+    {
+      "key": "v2.dragons.lives",
+      "fr": "Les vies, sur l’échelle de la fasce",
+      "en": "Lives, on the scale of the fess"
+    },
+    {
+      "key": "v2.dragons.lives_note",
+      "fr": "Plein : vie attestée. Hachuré : sort inconnu après la dernière mention. Trait clair : un cavalier, en pointillé si ses années ne sont pas données.",
+      "en": "Solid: attested life. Hatched: fate unknown after the last mention. Pale stroke: a rider, dotted when the years are not given."
+    },
+    {
+      "key": "v2.dragons.lives_label",
+      "fr": "Vies des dragons alignées sur la fasce",
+      "en": "Dragon lives aligned on the fess"
+    },
+    {
+      "key": "v2.dragons.undated",
+      "fr": "Non datés",
+      "en": "Undated"
+    },
+    {
+      "key": "v2.dragons.undated_note",
+      "fr": "Les chroniques les nomment sans qu’on puisse dire quand ils vivent.",
+      "en": "The chronicles name them, but nothing says when they lived."
+    },
+    {
+      "key": "v2.dragons.last_seen",
+      "fr": "dernière mention en {year}, sort inconnu",
+      "en": "last mentioned in {year}, fate unknown"
+    },
+    {
+      "key": "v2.dragon.size_estimated",
+      "fr": "Les livres ne disent pas sa taille : le contour en pointillé est une estimation du musée.",
+      "en": "The books do not give its size: the dotted outline is the museum’s estimate."
+    },
+    {
+      "key": "v2.dragon.scale_note",
+      "fr": "Toutes les planches sont à la même échelle : l’envergure de Balerion y vaut une fois et demie la largeur de l’écran.",
+      "en": "Every plate shares one scale: Balerion’s wingspan there is one and a half times the width of the screen."
+    },
+    {
+      "key": "v2.dragon.scale_note_phone",
+      "fr": "Toutes les planches sont à la même échelle : de la tête à la queue, Balerion y mesure plus de deux hauteurs d’écran.",
+      "en": "Every plate shares one scale: from head to tail, Balerion there runs over two screen heights."
+    },
+    {
+      "key": "v2.dragon.ghost",
+      "fr": "En pointillé : {name}, la planche vue juste avant, à la même échelle.",
+      "en": "Dotted: {name}, the plate seen just before, at the same scale."
+    },
+    {
+      "key": "v2.dragon.ghost_default",
+      "fr": "En pointillé : {name}, l’étalon du registre, à la même échelle.",
+      "en": "Dotted: {name}, the register’s standard, at the same scale."
+    },
+    {
+      "key": "v2.dragon.places",
+      "fr": "Lieux où il paraît, dans l’ordre du temps. Ce n’est pas un trajet attesté.",
+      "en": "Places where it appears, in order of time. This is not an attested route."
+    },
+    {
+      "key": "v2.dragon.places_heading",
+      "fr": "Où il paraît",
+      "en": "Where it appears"
+    },
+    {
+      "key": "v2.dragon.places_none",
+      "fr": "Les chroniques ne le situent dans aucun lieu du registre.",
+      "en": "The chronicles place it in none of the register’s places."
+    },
+    {
+      "key": "v2.dragon.colours_described",
+      "fr": "Décrit par les livres : {parts}.",
+      "en": "Described in the books: {parts}."
+    },
+    {
+      "key": "v2.dragon.colours_not_described",
+      "fr": "Laissé au trait, faute de description : {parts}.",
+      "en": "Left as line work, for want of a description: {parts}."
+    },
+    {
+      "key": "v2.dragon.life_unknown",
+      "fr": "Rien ne permet de situer sa vie dans le temps.",
+      "en": "Nothing allows its life to be placed in time."
+    },
+    {
+      "key": "v2.dragon.rider_undated",
+      "fr": "années de monte inconnues",
+      "en": "years of riding unknown"
+    },
+    {
+      "key": "v2.dragon.no_battles",
+      "fr": "Les chroniques ne l’engagent dans aucune bataille.",
+      "en": "The chronicles commit it to no battle."
+    },
+    {
+      "key": "v2.dragon.places_map",
+      "fr": "Lieux où paraît {name}",
+      "en": "Places where {name} appears"
+    },
+    {
+      "key": "v2.wars.no_battle",
+      "fr": "aucune bataille rapportée",
+      "en": "no battle recorded"
+    },
+    {
+      "key": "v2.wars.dragons_lost.none",
+      "fr": "aucun dragon perdu",
+      "en": "no dragon lost"
+    },
+    {
+      "key": "v2.wars.dragons_lost.one",
+      "fr": "un dragon engagé y meurt",
+      "en": "one dragon committed dies in it"
+    },
+    {
+      "key": "v2.wars.dragons_lost.many",
+      "fr": "{n} dragons engagés y meurent",
+      "en": "{n} committed dragons die in it"
+    },
+    {
+      "key": "v2.wars.no_dragons",
+      "fr": "sans dragon",
+      "en": "without dragons"
+    },
+    {
+      "key": "v2.wars.more_side_one",
+      "fr": "et un autre camp",
+      "en": "and one other side"
+    },
+    {
+      "key": "v2.wars.note",
+      "fr": "Sous chaque conflit, la fasce en miniature : sa durée y est allumée, ses batailles en encoches au-dessus, à l’échelle exacte de la fasce du bas de l’écran.",
+      "en": "Under each conflict, the fess in miniature: its span is lit, its battles notched above, on the exact scale of the fess at the foot of the screen."
+    },
+    {
+      "key": "v2.war.replay_label",
+      "fr": "Rejouer la guerre, bataille par bataille",
+      "en": "Replay the war, battle by battle"
+    },
+    {
+      "key": "v2.war.replay_previous",
+      "fr": "Bataille précédente",
+      "en": "Previous battle"
+    },
+    {
+      "key": "v2.war.replay_next",
+      "fr": "Bataille suivante",
+      "en": "Next battle"
+    },
+    {
+      "key": "v2.war.replay_status",
+      "fr": "{n} sur {total}",
+      "en": "{n} of {total}"
+    },
+    {
+      "key": "v2.war.replay_start",
+      "fr": "Rejouer depuis la première bataille",
+      "en": "Replay from the first battle"
+    },
+    {
+      "key": "v2.war.place_unknown",
+      "fr": "lieu inconnu",
+      "en": "place unknown"
+    },
+    {
+      "key": "v2.war.place_kept",
+      "fr": "Lieu inconnu : la carte garde le cadre précédent.",
+      "en": "Place unknown: the map keeps the previous frame."
+    },
+    {
+      "key": "v2.war.events",
+      "fr": "Événements liés",
+      "en": "Related events"
+    },
+    {
+      "key": "v2.war.no_battles",
+      "fr": "Les sources ne rapportent aucune bataille rangée pour ce conflit.",
+      "en": "The sources record no pitched battle for this conflict."
+    },
+    {
+      "key": "v2.war.number",
+      "fr": "Bataille {n}",
+      "en": "Battle {n}"
+    },
+    {
+      "key": "v2.war.leaders",
+      "fr": "Chefs",
+      "en": "Leaders"
+    },
+    {
+      "key": "v2.war.contents",
+      "fr": "Sur cette page",
+      "en": "On this page"
+    },
+    {
+      "key": "v2.places.this_year",
+      "fr": "En {year}",
+      "en": "In {year}"
+    },
+    {
+      "key": "v2.places.this_year_none",
+      "fr": "En {year}, aucun lieu du registre n’est daté.",
+      "en": "In {year}, no place in the register is dated."
+    },
+    {
+      "key": "v2.places.no_year",
+      "fr": "Réglez une année sur la fasce : les lieux où elle se joue s’allument sur la carte.",
+      "en": "Set a year on the fess: the places where it plays out light up on the map."
+    },
+    {
+      "key": "v2.places.all",
+      "fr": "Tous les lieux",
+      "en": "All places"
+    },
+    {
+      "key": "v2.places.lit.one",
+      "fr": "un lieu allumé",
+      "en": "one place lit"
+    },
+    {
+      "key": "v2.places.lit.many",
+      "fr": "{n} lieux allumés",
+      "en": "{n} places lit"
+    },
+    {
+      "key": "v2.place.years",
+      "fr": "Les années du lieu",
+      "en": "The place’s years"
+    },
+    {
+      "key": "v2.place.years_note",
+      "fr": "Chaque année est une encoche sur la fasce.",
+      "en": "Each year is a notch on the fess."
+    },
+    {
+      "key": "v2.language.rooms",
+      "fr": "Les trois salles",
+      "en": "The three rooms"
+    },
+    {
+      "key": "v2.language.rooms.grammar",
+      "fr": "{n} leçons dans l’ordre de lecture : les sons, les genres, les nombres et les cas, le verbe, puis la phrase.",
+      "en": "{n} lessons in reading order: sounds, genders, numbers and cases, the verb, then the sentence."
+    },
+    {
+      "key": "v2.language.rooms.phrases",
+      "fr": "{n} formules, chacune glosée mot à mot, avec son sens et le moment où on la prononce.",
+      "en": "{n} formulas, each glossed word by word, with its meaning and the moment it is spoken."
+    },
+    {
+      "key": "v2.language.reply",
+      "fr": "La réponse attendue",
+      "en": "The expected reply"
+    },
+    {
+      "key": "v2.language.tally",
+      "fr": "Les {n} formes du lexique, une marque par forme, rangées de la plus sûre à la plus distante.",
+      "en": "The {n} forms of the lexicon, one mark per form, ranked from the surest to the most remote."
+    },
+    {
+      "key": "v2.lexicon.lead",
+      "fr": "{n} formes, chacune avec son sens, son statut et la note qui la justifie. Dans la recherche, les macrons sont facultatifs.",
+      "en": "{n} forms, each with its meaning, its status and the note that justifies it. Macrons are optional when searching."
+    },
+    {
+      "key": "v2.lexicon.specimen",
+      "fr": "Spécimen",
+      "en": "Specimen"
+    },
+    {
+      "key": "v2.lexicon.placeholder",
+      "fr": "zaldrizes, sang, roi…",
+      "en": "zaldrizes, blood, king…"
+    },
+    {
+      "key": "v2.lexicon.letters",
+      "fr": "Aller à une lettre",
+      "en": "Jump to a letter"
+    },
+    {
+      "key": "v2.lexicon.caption",
+      "fr": "Le lexique : {n} formes, dans l’ordre alphabétique",
+      "en": "The lexicon: {n} forms, in alphabetical order"
+    },
+    {
+      "key": "v2.lexicon.theme.all",
+      "fr": "Tous les thèmes",
+      "en": "All themes"
+    },
+    {
+      "key": "v2.lexicon.theme.interface",
+      "fr": "Mots de la bibliothèque",
+      "en": "Words of the library"
+    },
+    {
+      "key": "v2.lexicon.theme.royaute",
+      "fr": "Royauté",
+      "en": "Kingship"
+    },
+    {
+      "key": "v2.lexicon.theme.feu-et-dragons",
+      "fr": "Feu et dragons",
+      "en": "Fire and dragons"
+    },
+    {
+      "key": "v2.lexicon.theme.parente",
+      "fr": "Parenté",
+      "en": "Kinship"
+    },
+    {
+      "key": "v2.lexicon.theme.temps",
+      "fr": "Temps et périodes",
+      "en": "Time and periods"
+    },
+    {
+      "key": "v2.lexicon.theme.guerre",
+      "fr": "Guerre",
+      "en": "War"
+    },
+    {
+      "key": "v2.lexicon.theme.lieux-et-peuples",
+      "fr": "Lieux et peuples",
+      "en": "Places and peoples"
+    },
+    {
+      "key": "v2.lexicon.theme.corps",
+      "fr": "Corps",
+      "en": "Body"
+    },
+    {
+      "key": "v2.lexicon.theme.formules",
+      "fr": "Formules",
+      "en": "Formulas"
+    },
+    {
+      "key": "v2.lexicon.theme.noms",
+      "fr": "Noms propres",
+      "en": "Proper names"
+    },
+    {
+      "key": "v2.lexicon.theme.nature",
+      "fr": "Nature",
+      "en": "Nature"
+    },
+    {
+      "key": "v2.lexicon.theme.animaux",
+      "fr": "Animaux",
+      "en": "Animals"
+    },
+    {
+      "key": "v2.lexicon.theme.nombres",
+      "fr": "Nombres",
+      "en": "Numbers"
+    },
+    {
+      "key": "v2.lexicon.theme.couleurs",
+      "fr": "Couleurs",
+      "en": "Colours"
+    },
+    {
+      "key": "v2.lexicon.theme.verbes",
+      "fr": "Verbes",
+      "en": "Verbs"
+    },
+    {
+      "key": "v2.lexicon.theme.adjectifs",
+      "fr": "Adjectifs",
+      "en": "Adjectives"
+    },
+    {
+      "key": "v2.lexicon.theme.grammaire",
+      "fr": "Mots grammaticaux",
+      "en": "Grammatical words"
+    },
+    {
+      "key": "v2.lexicon.theme.religion-et-magie",
+      "fr": "Religion et magie",
+      "en": "Religion and magic"
+    },
+    {
+      "key": "v2.grammar.lead",
+      "fr": "Le haut valyrien dit presque tout par la fin des mots : le genre, le nombre, le cas du nom, la personne et le temps du verbe. {n} leçons, dans l’ordre où les lire, chacune avec ses tableaux et ses exemples tirés des dialogues.",
+      "en": "High Valyrian says almost everything through the endings of words: the gender, number and case of the noun, the person and tense of the verb. {n} lessons, in the order to read them, each with its tables and examples taken from the dialogue."
+    },
+    {
+      "key": "v2.grammar.position",
+      "fr": "Leçon {n} sur {total}",
+      "en": "Lesson {n} of {total}"
+    },
+    {
+      "key": "v2.grammar.contents",
+      "fr": "Les leçons",
+      "en": "The lessons"
+    },
+    {
+      "key": "v2.phrases.index",
+      "fr": "Index des formules",
+      "en": "Index of formulas"
+    },
+    {
+      "key": "v2.phrases.count",
+      "fr": "{n} formules",
+      "en": "{n} formulas"
+    },
+    {
+      "key": "v2.sources.group.livre",
+      "fr": "Romans",
+      "en": "Novels"
+    },
+    {
+      "key": "v2.sources.group.nouvelle",
+      "fr": "Nouvelles",
+      "en": "Novellas"
+    },
+    {
+      "key": "v2.sources.group.encyclopedie",
+      "fr": "Histoires de l’univers",
+      "en": "In-world histories"
+    },
+    {
+      "key": "v2.sources.group.serie",
+      "fr": "Séries télévisées",
+      "en": "Television series"
+    },
+    {
+      "key": "v2.sources.group.outil",
+      "fr": "Outils de vérification",
+      "en": "Reference tools"
+    },
+    {
+      "key": "v2.sources.scale",
+      "fr": "Compte établi sur les {n} événements de la chronique. La même marque accompagne chaque dragon, chaque guerre et chaque bataille.",
+      "en": "Count taken over the {n} events of the chronicle. The same mark goes with every dragon, war and battle."
+    },
+    {
+      "key": "v2.learn.span",
+      "fr": "couvre {span}",
+      "en": "covers {span}"
+    },
+    {
+      "key": "v2.learn.caption",
+      "fr": "Sous chaque parcours, les périodes qu’il ouvre, à leur place exacte sur la fasce : le rouge y compte les dragons vivants. Le trait clair donne la durée couverte, les encoches les événements qu’il cite.",
+      "en": "Under each path, the periods it opens, in their exact place on the fess: the red counts the living dragons. The pale line gives the span covered, the notches the events it cites."
+    },
+    {
+      "key": "v2.path.rank",
+      "fr": "Parcours {n} sur {total}",
+      "en": "Path {n} of {total}"
+    },
+    {
+      "key": "v2.path.step",
+      "fr": "Étape {n}",
+      "en": "Step {n}"
+    },
+    {
+      "key": "v2.path.position",
+      "fr": "Étape {n} sur {total}",
+      "en": "Step {n} of {total}"
+    },
+    {
+      "key": "v2.path.no_period",
+      "fr": "Cette étape ne renvoie à aucune période de la chronique.",
+      "en": "This step points to no period of the chronicle."
+    },
+    {
+      "key": "v2.path.quiz_waiting",
+      "fr": "{n} questions vous attendent à la fin du parcours.",
+      "en": "{n} questions wait for you at the end of the path."
+    },
+    {
+      "key": "v2.path.quiz_done",
+      "fr": "Questionnaire achevé. Le bilan est en bas de page.",
+      "en": "Questionnaire finished. The summary is at the foot of the page."
+    },
+    {
+      "key": "v2.path.to_quiz",
+      "fr": "Aller aux questions",
+      "en": "Go to the questions"
+    },
+    {
+      "key": "v2.about.lead",
+      "fr": "Une chronique de la Maison Targaryen réglée sur le temps : chaque fait daté, situé, sourcé, et prudent là où les sources le sont.",
+      "en": "A chronicle of House Targaryen set to time: every fact dated, placed, sourced, and cautious where the sources are."
+    },
+    {
+      "key": "v2.about.fasce.title",
+      "fr": "La fasce",
+      "en": "The fess"
+    },
+    {
+      "key": "v2.about.fasce.body",
+      "fr": "Les armes de la Maison sont de sable, et cette édition y pose une fasce de gueules : la bande rouge du bas de l’écran. Son épaisseur est le nombre de dragons vivants, année par année. On y règle l’année, et chaque salle répond pour cette année-là : qui règne, qui vole, où l’on se bat.",
+      "en": "The arms of the House are sable, and this edition lays a fess gules across them: the red band at the foot of the screen. Its thickness is the number of living dragons, year by year. You set the year on it, and every room answers for that year: who reigns, who flies, where the fighting is."
+    },
+    {
+      "key": "v2.about.fasce.count",
+      "fr": "Un dragon compte de son éclosion, ou de sa première monte datée, ou de son premier événement daté, jusqu’à sa mort. Quand les chroniques le perdent de vue sans dire sa fin, il reste en hachure après sa dernière mention : son sort est inconnu, pas sa mort.",
+      "en": "A dragon counts from its hatching, or from its first dated mounting, or from its first dated event, until its death. When the chronicles lose sight of it without telling its end, it stays hatched after its last mention: its fate is unknown, not its death."
+    },
+    {
+      "key": "v2.about.fasce.limits",
+      "fr": "Ce qu’elle ne compte pas : les dragons de Valyria, que personne n’a jamais dénombrés. Avant le départ pour Peyredragon, la fasce n’est qu’une masse hachurée, qui s’arrête net au Fléau. Elle ne compte pas non plus les dragons que les livres ne nomment pas.",
+      "en": "What it does not count: the dragons of Valyria, which no one ever numbered. Before the departure for Dragonstone, the fess is only a hatched mass, which stops dead at the Doom. Nor does it count the dragons the books do not name."
+    },
+    {
+      "key": "v2.about.fasce.caption",
+      "fr": "La fasce entière, du temps des légendes à {to}. Au plus haut, {n} dragons vivants, en {year}.",
+      "en": "The whole fess, from the time of legends to {to}. At its highest, {n} living dragons, in {year}."
+    },
+    {
+      "key": "v2.about.mark.body",
+      "fr": "Un relieur frappait sa marque au dos de ses reliures. Celle-ci, un J et un D qui partagent le même fût, signe la fabrication de la bibliothèque. Elle est frappée au revers de l’emblème et au pied de chaque salle.",
+      "en": "A binder struck his mark on the back of his bindings. This one, a J and a D sharing the same stem, signs the making of the library. It is struck on the reverse of the emblem and at the foot of every room."
+    },
+    {
+      "key": "v2.about.justification",
+      "fr": "Cette édition compte {periods} périodes, {events} événements, {people} personnes, {dragons} dragons, {wars} guerres, {places} lieux, {words} mots valyriens et {sources} sources.",
+      "en": "This edition holds {periods} periods, {events} events, {people} people, {dragons} dragons, {wars} wars, {places} places, {words} Valyrian words and {sources} sources."
+    },
+    {
+      "key": "v2.about.emblem",
+      "fr": "L’emblème de la bibliothèque : un dragon à trois têtes",
+      "en": "The emblem of the library: a three-headed dragon"
+    },
+    {
+      "key": "v2.about.recto",
+      "fr": "L’emblème, en sang sur le sable.",
+      "en": "The emblem, in blood on sable."
+    },
+    {
+      "key": "v2.about.verso",
+      "fr": "Le revers de l’emblème, et le poinçon du relieur.",
+      "en": "The reverse of the emblem, and the binder’s hallmark."
+    },
+    {
+      "key": "v2.about.show_verso",
+      "fr": "Retourner l’emblème",
+      "en": "Turn the emblem over"
+    },
+    {
+      "key": "v2.about.show_recto",
+      "fr": "Revoir l’endroit",
+      "en": "Show the front again"
     }
   ]
 }

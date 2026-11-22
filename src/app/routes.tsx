@@ -23,7 +23,7 @@ export const DEFAULT_VERSION: VersionId = 'version-1';
  */
 const VERSION_ENTRIES = {
   'version-1': lazy(() => import('@/versions/v1-codex')),
-  'version-2': lazy(() => import('./UnderConstruction')),
+  'version-2': lazy(() => import('@/versions/v2')),
   'version-3': lazy(() => import('./UnderConstruction')),
 } satisfies Record<VersionId, unknown>;
 

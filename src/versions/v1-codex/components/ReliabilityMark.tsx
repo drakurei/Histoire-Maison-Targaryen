@@ -1,9 +1,9 @@
 import { getReliabilityLevel } from '@/core/content/sources';
 import type { Reliability } from '@/core/content/types';
+import { useTxTypo } from '@/core/i18n';
 import { ReliabilityGlyph } from '@/shared/marks/Marks';
 
 import styles from './ReliabilityMark.module.css';
-import { useTxTypo } from './typo';
 
 interface ReliabilityMarkProps {
   level: Reliability;
