@@ -1,0 +1,851 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-03",
+  "items": [
+    {
+      "key": "page.lignee.intro",
+      "fr": "{n} personnes sur {generations} générations, d’Aenar l’Exilé à Daenerys du Typhon.",
+      "en": "{n} people across {generations} generations, from Aenar the Exile to Daenerys Stormborn."
+    },
+    {
+      "key": "page.lignee.stage.label",
+      "fr": "Arbre de la Maison Targaryen : glisser pour déplacer, molette ou pincement pour agrandir.",
+      "en": "Tree of House Targaryen: drag to move, scroll or pinch to zoom."
+    },
+    {
+      "key": "page.lignee.stage.role",
+      "fr": "rouleau généalogique",
+      "en": "genealogical roll"
+    },
+    {
+      "key": "page.lignee.rail.circa",
+      "fr": "v. {year}",
+      "en": "c. {year}"
+    },
+    {
+      "key": "page.lignee.zoom.in",
+      "fr": "Agrandir",
+      "en": "Zoom in"
+    },
+    {
+      "key": "page.lignee.zoom.out",
+      "fr": "Réduire",
+      "en": "Zoom out"
+    },
+    {
+      "key": "page.lignee.zoom.recenter",
+      "fr": "Recentrer",
+      "en": "Recentre"
+    },
+    {
+      "key": "page.lignee.zoom.all",
+      "fr": "Tout l’arbre",
+      "en": "Whole tree"
+    },
+    {
+      "key": "page.lignee.loops",
+      "fr": "Boucles du sang",
+      "en": "Loops of blood"
+    },
+    {
+      "key": "page.lignee.mode.label",
+      "fr": "Présentation de la lignée",
+      "en": "Lineage view"
+    },
+    {
+      "key": "page.lignee.mode.thread",
+      "fr": "Le fil",
+      "en": "The thread"
+    },
+    {
+      "key": "page.lignee.mode.tree",
+      "fr": "L’arbre entier",
+      "en": "The whole tree"
+    },
+    {
+      "key": "page.lignee.thread.label",
+      "fr": "Le fil de la filiation directe, d’Aenar à Daenerys",
+      "en": "The direct line of descent, from Aenar to Daenerys"
+    },
+    {
+      "key": "page.lignee.crowned",
+      "fr": "a porté la couronne",
+      "en": "wore the crown"
+    },
+    {
+      "key": "page.lignee.search.label",
+      "fr": "Chercher une personne",
+      "en": "Find a person"
+    },
+    {
+      "key": "page.lignee.search.placeholder",
+      "fr": "Un nom, un surnom",
+      "en": "A name, an epithet"
+    },
+    {
+      "key": "page.lignee.search.none",
+      "fr": "Personne de ce nom dans l’arbre.",
+      "en": "No one by that name in the tree."
+    },
+    {
+      "key": "page.lignee.search.count",
+      "fr": "{n} personnes trouvées.",
+      "en": "{n} people found."
+    },
+    {
+      "key": "page.lignee.panel.close",
+      "fr": "Fermer le volet",
+      "en": "Close the panel"
+    },
+    {
+      "key": "page.lignee.panel.reign",
+      "fr": "règne {span}",
+      "en": "reigned {span}"
+    },
+    {
+      "key": "page.lignee.panel.parents",
+      "fr": "Parents",
+      "en": "Parents"
+    },
+    {
+      "key": "page.lignee.panel.noParents",
+      "fr": "Les sources ne nomment pas ses parents.",
+      "en": "The sources do not name the parents."
+    },
+    {
+      "key": "page.lignee.panel.parentsKin",
+      "fr": "Ses parents sont liés par le sang : l’un est pour l’autre {kin}.",
+      "en": "The parents were kin by blood: one was the other’s {kin}."
+    },
+    {
+      "key": "page.lignee.panel.alleged",
+      "fr": "Filiation discutée : certains lui donnent pour père {name}.",
+      "en": "Disputed parentage: some name {name} as the father."
+    },
+    {
+      "key": "page.lignee.panel.unions",
+      "fr": "Unions et enfants",
+      "en": "Unions and children"
+    },
+    {
+      "key": "page.lignee.panel.unknownPartner",
+      "fr": "conjoint inconnu",
+      "en": "unknown partner"
+    },
+    {
+      "key": "page.lignee.panel.childrenOf",
+      "fr": "Enfants nés de cette union {name}",
+      "en": "Children of this union {name}"
+    },
+    {
+      "key": "page.lignee.panel.noChildren",
+      "fr": "Aucun enfant connu.",
+      "en": "No known children."
+    },
+    {
+      "key": "page.lignee.panel.siblings",
+      "fr": "Fratrie",
+      "en": "Siblings"
+    },
+    {
+      "key": "page.lignee.panel.read",
+      "fr": "Lire la fiche de {name}",
+      "en": "Read the entry on {name}"
+    },
+    {
+      "key": "page.lignee.panel.centerOn",
+      "fr": "Centrer l’arbre sur {name}",
+      "en": "Centre the tree on {name}"
+    },
+    {
+      "key": "page.lignee.and",
+      "fr": "et",
+      "en": "and"
+    },
+    {
+      "key": "page.lignee.union.mariage",
+      "fr": "x",
+      "en": "m."
+    },
+    {
+      "key": "page.lignee.union.liaison",
+      "fr": "liaison",
+      "en": "liaison"
+    },
+    {
+      "key": "page.lignee.union.fiancailles",
+      "fr": "fiançailles",
+      "en": "betrothed"
+    },
+    {
+      "key": "page.lignee.union.none",
+      "fr": "avec",
+      "en": "with"
+    },
+    {
+      "key": "page.lignee.coefficient",
+      "fr": "coefficient de parenté {value}",
+      "en": "coefficient of relationship {value}"
+    },
+    {
+      "key": "page.lignee.sonOf",
+      "fr": "fils de",
+      "en": "son of"
+    },
+    {
+      "key": "page.lignee.daughterOf",
+      "fr": "fille de",
+      "en": "daughter of"
+    },
+    {
+      "key": "page.lignee.key.title",
+      "fr": "Clé du rouleau",
+      "en": "Key to the roll"
+    },
+    {
+      "key": "page.lignee.key.ruling",
+      "fr": "Le sang de la couronne : la filiation par laquelle le trône passe d’un souverain à l’autre",
+      "en": "The blood of the crown: the line through which the throne passes from one sovereign to the next"
+    },
+    {
+      "key": "page.lignee.key.filiation",
+      "fr": "Filiation",
+      "en": "Descent"
+    },
+    {
+      "key": "page.lignee.key.doubt",
+      "fr": "Filiation contestée ou légendaire",
+      "en": "Disputed or legendary descent"
+    },
+    {
+      "key": "page.lignee.key.union",
+      "fr": "Mariage",
+      "en": "Marriage"
+    },
+    {
+      "key": "page.lignee.key.liaison",
+      "fr": "Liaison",
+      "en": "Liaison"
+    },
+    {
+      "key": "page.lignee.key.blood",
+      "fr": "Union entre parents par le sang : le nœud referme une boucle de filiation",
+      "en": "Union between blood kin: the knot closes a loop of descent"
+    },
+    {
+      "key": "page.lignee.key.crowned",
+      "fr": "A porté la couronne",
+      "en": "Wore the crown"
+    },
+    {
+      "key": "page.lignee.key.alliance",
+      "fr": "Entré dans la famille par alliance",
+      "en": "Joined the family by marriage"
+    },
+    {
+      "key": "page.lignee.key.allianceSample",
+      "fr": "Alicent",
+      "en": "Alicent"
+    },
+    {
+      "key": "page.lignee.kin.self",
+      "fr": "la personne même",
+      "en": "the same person"
+    },
+    {
+      "key": "page.lignee.kin.none",
+      "fr": "aucun lien de sang connu",
+      "en": "no known blood tie"
+    },
+    {
+      "key": "page.lignee.kin.parent.m",
+      "fr": "père",
+      "en": "father"
+    },
+    {
+      "key": "page.lignee.kin.parent.f",
+      "fr": "mère",
+      "en": "mother"
+    },
+    {
+      "key": "page.lignee.kin.child.m",
+      "fr": "fils",
+      "en": "son"
+    },
+    {
+      "key": "page.lignee.kin.child.f",
+      "fr": "fille",
+      "en": "daughter"
+    },
+    {
+      "key": "page.lignee.kin.grandparent.m",
+      "fr": "grand-père",
+      "en": "grandfather"
+    },
+    {
+      "key": "page.lignee.kin.grandparent.f",
+      "fr": "grand-mère",
+      "en": "grandmother"
+    },
+    {
+      "key": "page.lignee.kin.grandchild.m",
+      "fr": "petit-fils",
+      "en": "grandson"
+    },
+    {
+      "key": "page.lignee.kin.grandchild.f",
+      "fr": "petite-fille",
+      "en": "granddaughter"
+    },
+    {
+      "key": "page.lignee.kin.greatGrandparent.m",
+      "fr": "arrière-grand-père",
+      "en": "great-grandfather"
+    },
+    {
+      "key": "page.lignee.kin.greatGrandparent.f",
+      "fr": "arrière-grand-mère",
+      "en": "great-grandmother"
+    },
+    {
+      "key": "page.lignee.kin.greatGrandchild.m",
+      "fr": "arrière-petit-fils",
+      "en": "great-grandson"
+    },
+    {
+      "key": "page.lignee.kin.greatGrandchild.f",
+      "fr": "arrière-petite-fille",
+      "en": "great-granddaughter"
+    },
+    {
+      "key": "page.lignee.kin.ancestor.m",
+      "fr": "ancêtre",
+      "en": "ancestor"
+    },
+    {
+      "key": "page.lignee.kin.ancestor.f",
+      "fr": "ancêtre",
+      "en": "ancestor"
+    },
+    {
+      "key": "page.lignee.kin.descendant.m",
+      "fr": "descendant",
+      "en": "descendant"
+    },
+    {
+      "key": "page.lignee.kin.descendant.f",
+      "fr": "descendante",
+      "en": "descendant"
+    },
+    {
+      "key": "page.lignee.kin.sibling.m",
+      "fr": "frère",
+      "en": "brother"
+    },
+    {
+      "key": "page.lignee.kin.sibling.f",
+      "fr": "sœur",
+      "en": "sister"
+    },
+    {
+      "key": "page.lignee.kin.halfSibling.m",
+      "fr": "demi-frère",
+      "en": "half-brother"
+    },
+    {
+      "key": "page.lignee.kin.halfSibling.f",
+      "fr": "demi-sœur",
+      "en": "half-sister"
+    },
+    {
+      "key": "page.lignee.kin.uncleAunt.m",
+      "fr": "oncle",
+      "en": "uncle"
+    },
+    {
+      "key": "page.lignee.kin.uncleAunt.f",
+      "fr": "tante",
+      "en": "aunt"
+    },
+    {
+      "key": "page.lignee.kin.nephewNiece.m",
+      "fr": "neveu",
+      "en": "nephew"
+    },
+    {
+      "key": "page.lignee.kin.nephewNiece.f",
+      "fr": "nièce",
+      "en": "niece"
+    },
+    {
+      "key": "page.lignee.kin.grandUncleAunt.m",
+      "fr": "grand-oncle",
+      "en": "great-uncle"
+    },
+    {
+      "key": "page.lignee.kin.grandUncleAunt.f",
+      "fr": "grand-tante",
+      "en": "great-aunt"
+    },
+    {
+      "key": "page.lignee.kin.grandNephewNiece.m",
+      "fr": "petit-neveu",
+      "en": "great-nephew"
+    },
+    {
+      "key": "page.lignee.kin.grandNephewNiece.f",
+      "fr": "petite-nièce",
+      "en": "great-niece"
+    },
+    {
+      "key": "page.lignee.kin.firstCousin.m",
+      "fr": "cousin germain",
+      "en": "first cousin"
+    },
+    {
+      "key": "page.lignee.kin.firstCousin.f",
+      "fr": "cousine germaine",
+      "en": "first cousin"
+    },
+    {
+      "key": "page.lignee.kin.secondCousin.m",
+      "fr": "cousin issu de germain",
+      "en": "second cousin"
+    },
+    {
+      "key": "page.lignee.kin.secondCousin.f",
+      "fr": "cousine issue de germaine",
+      "en": "second cousin"
+    },
+    {
+      "key": "page.lignee.kin.cousin.m",
+      "fr": "cousin éloigné",
+      "en": "distant cousin"
+    },
+    {
+      "key": "page.lignee.kin.cousin.f",
+      "fr": "cousine éloignée",
+      "en": "distant cousin"
+    },
+    {
+      "key": "page.lignee.kin.relative.m",
+      "fr": "parent par le sang",
+      "en": "blood relative"
+    },
+    {
+      "key": "page.lignee.kin.relative.f",
+      "fr": "parente par le sang",
+      "en": "blood relative"
+    },
+    {
+      "key": "page.lignee.kin.spouse.m",
+      "fr": "époux",
+      "en": "husband"
+    },
+    {
+      "key": "page.lignee.kin.spouse.f",
+      "fr": "épouse",
+      "en": "wife"
+    },
+    {
+      "key": "page.lignee.kin.lover.m",
+      "fr": "amant",
+      "en": "lover"
+    },
+    {
+      "key": "page.lignee.kin.lover.f",
+      "fr": "maîtresse",
+      "en": "lover"
+    },
+    {
+      "key": "page.lignee.kin.betrothed.m",
+      "fr": "fiancé",
+      "en": "betrothed"
+    },
+    {
+      "key": "page.lignee.kin.betrothed.f",
+      "fr": "fiancée",
+      "en": "betrothed"
+    },
+    {
+      "key": "page.lignee.zoom.label",
+      "fr": "Commandes du rouleau",
+      "en": "Roll controls"
+    },
+    {
+      "key": "page.lignee.key.loop",
+      "fr": "Boucle du sang : la filiation commune aux deux conjoints, montrée à la demande",
+      "en": "Loop of blood: the descent the two spouses share, shown on request"
+    },
+    {
+      "key": "page.people.lead",
+      "fr": "Les {n} personnes de la généalogie, de la Valyria d’avant le Fléau à la fin du récit. Chaque nom mène à sa fiche.",
+      "en": "The {n} people of the genealogy, from Valyria before the Doom to the end of the story. Each name leads to its entry."
+    },
+    {
+      "key": "page.people.legend",
+      "fr": "Signes de l’index",
+      "en": "Signs used in the index"
+    },
+    {
+      "key": "page.people.sign.crowned",
+      "fr": "a porté la couronne",
+      "en": "wore the crown"
+    },
+    {
+      "key": "page.people.sign.rider",
+      "fr": "a monté un dragon",
+      "en": "rode a dragon"
+    },
+    {
+      "key": "page.people.sign.biography",
+      "fr": "biographie rédigée",
+      "en": "full biography"
+    },
+    {
+      "key": "page.people.ribbon.label",
+      "fr": "Ruban des règnes, de la Conquête à la chute d’Aerys II",
+      "en": "Ribbon of reigns, from the Conquest to the fall of Aerys II"
+    },
+    {
+      "key": "page.people.ribbon.caption",
+      "fr": "Les dix-sept rois comptés et Rhaenyra, chacun sur la durée de son règne. Le chiffre gothique donne le rang dans la suite officielle ; le règne de Rhaenyra, disputé, court en rouge sous celui d’Aegon II.",
+      "en": "The seventeen counted kings and Rhaenyra, each across the length of the reign. The blackletter numeral gives the place in the official succession; Rhaenyra’s disputed reign runs in red beneath that of Aegon II."
+    },
+    {
+      "key": "page.people.sort.label",
+      "fr": "Classer",
+      "en": "Order"
+    },
+    {
+      "key": "page.people.sort.alpha",
+      "fr": "par nom",
+      "en": "by name"
+    },
+    {
+      "key": "page.people.sort.generation",
+      "fr": "par génération",
+      "en": "by generation"
+    },
+    {
+      "key": "page.people.sort.house",
+      "fr": "par maison",
+      "en": "by house"
+    },
+    {
+      "key": "page.people.filter.roles",
+      "fr": "Rôle",
+      "en": "Role"
+    },
+    {
+      "key": "page.people.filter.houses",
+      "fr": "Maison",
+      "en": "House"
+    },
+    {
+      "key": "page.people.role.crowned",
+      "fr": "souverains",
+      "en": "sovereigns"
+    },
+    {
+      "key": "page.people.role.queens",
+      "fr": "reines",
+      "en": "queens"
+    },
+    {
+      "key": "page.people.role.pretenders",
+      "fr": "prétendants",
+      "en": "claimants"
+    },
+    {
+      "key": "page.people.role.riders",
+      "fr": "cavaliers de dragon",
+      "en": "dragonriders"
+    },
+    {
+      "key": "page.people.role.bastards",
+      "fr": "bâtards",
+      "en": "bastards"
+    },
+    {
+      "key": "page.people.generation",
+      "fr": "Génération {n}",
+      "en": "Generation {n}"
+    },
+    {
+      "key": "page.people.empty.title",
+      "fr": "Personne ne répond à ces filtres.",
+      "en": "No one matches these filters."
+    },
+    {
+      "key": "page.people.empty.body",
+      "fr": "Retirez un filtre de rôle ou de maison pour élargir l’index.",
+      "en": "Remove a role or house filter to widen the index."
+    },
+    {
+      "key": "page.people.house.targaryen",
+      "fr": "Targaryen",
+      "en": "Targaryen"
+    },
+    {
+      "key": "page.people.house.velaryon",
+      "fr": "Velaryon",
+      "en": "Velaryon"
+    },
+    {
+      "key": "page.people.house.baratheon",
+      "fr": "Baratheon",
+      "en": "Baratheon"
+    },
+    {
+      "key": "page.people.house.hightower",
+      "fr": "Hightower",
+      "en": "Hightower"
+    },
+    {
+      "key": "page.people.house.harroway",
+      "fr": "Harroway",
+      "en": "Harroway"
+    },
+    {
+      "key": "page.people.house.aucune",
+      "fr": "sans maison",
+      "en": "no house"
+    },
+    {
+      "key": "page.people.house.costayne",
+      "fr": "Costayne",
+      "en": "Costayne"
+    },
+    {
+      "key": "page.people.house.westerling",
+      "fr": "Westerling",
+      "en": "Westerling"
+    },
+    {
+      "key": "page.people.house.farman",
+      "fr": "Farman",
+      "en": "Farman"
+    },
+    {
+      "key": "page.people.house.arryn",
+      "fr": "Arryn",
+      "en": "Arryn"
+    },
+    {
+      "key": "page.people.house.strong",
+      "fr": "Strong",
+      "en": "Strong"
+    },
+    {
+      "key": "page.people.house.royce",
+      "fr": "Royce",
+      "en": "Royce"
+    },
+    {
+      "key": "page.people.house.corbray",
+      "fr": "Corbray",
+      "en": "Corbray"
+    },
+    {
+      "key": "page.people.house.rogare",
+      "fr": "Rogare",
+      "en": "Rogare"
+    },
+    {
+      "key": "page.people.house.plumm",
+      "fr": "Plumm",
+      "en": "Plumm"
+    },
+    {
+      "key": "page.people.house.penrose",
+      "fr": "Penrose",
+      "en": "Penrose"
+    },
+    {
+      "key": "page.people.house.manwoody",
+      "fr": "Manwoody",
+      "en": "Manwoody"
+    },
+    {
+      "key": "page.people.house.martell",
+      "fr": "Martell",
+      "en": "Martell"
+    },
+    {
+      "key": "page.people.house.blackfyre",
+      "fr": "Feunoyr",
+      "en": "Blackfyre"
+    },
+    {
+      "key": "page.people.house.bracken",
+      "fr": "Bracken",
+      "en": "Bracken"
+    },
+    {
+      "key": "page.people.house.blackwood",
+      "fr": "Nerbosc",
+      "en": "Blackwood"
+    },
+    {
+      "key": "page.people.house.dondarrion",
+      "fr": "Dondarrion",
+      "en": "Dondarrion"
+    },
+    {
+      "key": "page.people.house.dayne",
+      "fr": "Dayne",
+      "en": "Dayne"
+    },
+    {
+      "key": "page.people.house.stark",
+      "fr": "Stark",
+      "en": "Stark"
+    },
+    {
+      "key": "page.people.house.loraq",
+      "fr": "Loraq",
+      "en": "Loraq"
+    },
+    {
+      "key": "page.people.house.others",
+      "fr": "autres maisons",
+      "en": "other houses"
+    },
+    {
+      "key": "page.person.house",
+      "fr": "Maison {house}",
+      "en": "House {house}"
+    },
+    {
+      "key": "page.person.alive.m",
+      "fr": "vivant à la fin du récit",
+      "en": "alive at the end of the story"
+    },
+    {
+      "key": "page.person.alive.f",
+      "fr": "vivante à la fin du récit",
+      "en": "alive at the end of the story"
+    },
+    {
+      "key": "page.person.datesUnknown",
+      "fr": "Les sources ne datent ni sa naissance ni sa mort.",
+      "en": "The sources date neither the birth nor the death."
+    },
+    {
+      "key": "page.person.reign",
+      "fr": "règne {span}",
+      "en": "reigned {span}"
+    },
+    {
+      "key": "page.person.claim",
+      "fr": "Prétention : {span}",
+      "en": "Claim: {span}"
+    },
+    {
+      "key": "page.person.inTree",
+      "fr": "Voir dans l’arbre",
+      "en": "See in the tree"
+    },
+    {
+      "key": "page.person.life.heading",
+      "fr": "Ligne de vie",
+      "en": "Lifeline"
+    },
+    {
+      "key": "page.person.life.label",
+      "fr": "Ligne de vie de {name} : naissance, règne, mort et événements des annales",
+      "en": "Lifeline of {name}: birth, reign, death and events from the annals"
+    },
+    {
+      "key": "page.person.life.noEvents",
+      "fr": "Les annales ne la font paraître dans aucun événement.",
+      "en": "The annals place this person in no event."
+    },
+    {
+      "key": "page.person.rule.born",
+      "fr": "naissance",
+      "en": "birth"
+    },
+    {
+      "key": "page.person.rule.died",
+      "fr": "mort",
+      "en": "death"
+    },
+    {
+      "key": "page.person.rule.crowned",
+      "fr": "couronnement",
+      "en": "crowning"
+    },
+    {
+      "key": "page.person.rule.reign",
+      "fr": "règne",
+      "en": "reign"
+    },
+    {
+      "key": "page.person.rule.claim",
+      "fr": "prétention",
+      "en": "claim"
+    },
+    {
+      "key": "page.person.kin.heading",
+      "fr": "Parenté",
+      "en": "Kinship"
+    },
+    {
+      "key": "page.person.kin.issue",
+      "fr": "d’où",
+      "en": "issue"
+    },
+    {
+      "key": "page.person.kin.siblings",
+      "fr": "fratrie",
+      "en": "siblings"
+    },
+    {
+      "key": "page.person.kin.alleged",
+      "fr": "père selon d’autres témoins :",
+      "en": "father according to other witnesses:"
+    },
+    {
+      "key": "page.person.notice.heading",
+      "fr": "Notice",
+      "en": "Notice"
+    },
+    {
+      "key": "page.person.notice.body",
+      "fr": "La biographie de {name} n’est pas encore rédigée. Ce que le registre établit tient dans la parenté et les annales ci-dessus.",
+      "en": "The biography of {name} has not yet been written. What the register establishes is in the kinship and the annals above."
+    },
+    {
+      "key": "page.person.dragons.one",
+      "fr": "Dragon monté",
+      "en": "Dragon ridden"
+    },
+    {
+      "key": "page.person.dragons.many",
+      "fr": "Dragons montés",
+      "en": "Dragons ridden"
+    },
+    {
+      "key": "page.person.doubt.heading",
+      "fr": "Ce que les sources ne tranchent pas",
+      "en": "What the sources leave open"
+    },
+    {
+      "key": "page.person.doubt.datesApprox",
+      "fr": "Les dates données ici sont approximatives : les sources ne les fixent qu’à quelques années près.",
+      "en": "The dates given here are approximate: the sources fix them only to within a few years."
+    },
+    {
+      "key": "page.person.doubt.datesUnknown",
+      "fr": "Les sources ne fixent pas ses dates.",
+      "en": "The sources do not fix the dates."
+    },
+    {
+      "key": "page.person.adaptation.heading",
+      "fr": "Ce que l’adaptation change",
+      "en": "What the adaptation changes"
+    }
+  ]
+}

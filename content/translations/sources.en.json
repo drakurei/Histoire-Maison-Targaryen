@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-05",
+  "items": {
+    "fab": {
+      "reliabilityNote": "The principal source for the years 114 BC – 136 AC. Its internal reliability is limited by design: the book presents itself as the work of Archmaester Gyldayn, who writes long after the events and gathers partial witnesses (Septon Eustace, Grand Maester Munkun drawing on Orwyle, the fool Mushroom). He states his own doubts and leaves several deaths without a settled account. As to external reliability, it is the author's latest and fullest treatment of the period; where its dates disagree with The World of Ice & Fire, it is followed and the discrepancy is noted."
+    },
+    "twoiaf": {
+      "reliabilityNote": "The only source followed for Valyria, the Free Cities and the reigns after 136 AC. Internal reliability: written by Maester Yandel to please King Robert and then his successors, it is cautious, or flattering, about the end of the dynasty; it presents the distant past as tradition. External reliability: it condenses material that Fire & Blood treats at length, and some of its dates changed from one printing to the next (that of the Battle of the Trident, for instance)."
+    },
+    "trotd": {
+      "reliabilityNote": "An abridged, illustrated version of Fire & Blood. It adds almost nothing to the text; its illustrations are not written descriptions and are not used to establish the colour of a dragon (they are recorded separately)."
+    },
+    "agot": {
+      "reliabilityNote": "A point-of-view novel. What a character sees can be relied on; what a character tells of the past (Robert's Rebellion, the Tower of Joy) is partial memory, sometimes a dream. The text gives no years: the dates assigned to the novels are reconstructions."
+    },
+    "acok": {
+      "reliabilityNote": "The same reservations as for the first volume. The visions in the House of the Undying are visions, not facts."
+    },
+    "asos": {
+      "reliabilityNote": "The same reservations. It contains the account of the death of Aerys II given by the man who killed him: a direct witness, but not a disinterested one."
+    },
+    "affc": {
+      "reliabilityNote": "The same reservations. The principal source on the glass candles: what is said of their powers rests on the word of a single character, Archmaester Marwyn."
+    },
+    "adwd": {
+      "reliabilityNote": "The latest published state of the story. The identity of the young “Aegon” is asserted by characters, without proof."
+    },
+    "thk": {
+      "reliabilityNote": "The first Dunk and Egg novella (209 AC), later gathered in the collection A Knight of the Seven Kingdoms (2015). A direct narrative from a single point of view; what it says of the last dragon is memory and hearsay."
+    },
+    "tss": {
+      "reliabilityNote": "The second Dunk and Egg novella (211 AC). The Redgrass Field is recounted by veterans of both sides, who do not agree on where the right lay."
+    },
+    "tmk": {
+      "reliabilityNote": "The third Dunk and Egg novella (212 AC). The only detailed account of the second Blackfyre Rebellion."
+    },
+    "tpatq": {
+      "reliabilityNote": "The first, shorter version of the account of the Dance (in the anthology Dangerous Women), attributed to the same Gyldayn. Fire & Blood takes it up and completes it; where the two differ, Fire & Blood is followed."
+    },
+    "trp": {
+      "reliabilityNote": "An account of the reign of Viserys I and the youth of Daemon (in the anthology Rogues). It rests on the same conflicting witnesses as the Dance; taken up in Fire & Blood."
+    },
+    "tsotd": {
+      "reliabilityNote": "An account of the reigns of Aenys I and Maegor I (in the anthology The Book of Swords), taken up in Fire & Blood."
+    },
+    "asoiaf": {
+      "reliabilityNote": "A collective entry for the five published novels, to be used only when the particular volume is not identified (the genealogy relies on it). The volume and chapter are preferred. The same reservations apply as for each volume: point-of-view narration, partial memories, no years in the text. The two remaining novels that have been announced are not yet published."
+    },
+    "dunk-egg": {
+      "reliabilityNote": "A collective entry for the three published novellas (1998, 2003, 2010), gathered in a single volume in 2015. To be used when the particular novella is not identified (the genealogy relies on it). A direct narrative from a single point of view; events before 209 AC are reported by characters."
+    },
+    "got": {
+      "reliabilityNote": "A television adaptation. From about its fifth season it moves beyond the published books and follows a story of its own to an ending of its own. Nothing it shows counts as evidence for the continuity of the books."
+    },
+    "hotd": {
+      "reliabilityNote": "An adaptation of the part of Fire & Blood given to the Dance. It decides where the chronicle leaves several versions, compresses ages and intervals, and adds elements absent from the books (Aegon's dream, Laenor's survival). Where the text gives a dragon no colour, the colour the series shows does not come from the text."
+    },
+    "akotsk-serie": {
+      "reliabilityNote": "An adaptation of the Dunk and Egg novellas. Not used as a source in this chronology; entered in the register so that any information taken from it would be filed under the adaptation continuity."
+    },
+    "awoiaf": {
+      "reliabilityNote": "A readers' wiki that cites the books chapter by chapter. Used to check dates and locations, never cited as the source of a fact. Its years for the main novels and for some births are contributors' calculations, marked as such; a few fields of its entries could not be read when it was consulted."
+    },
+    "scale:recit-direct": {
+      "label": "Direct narrative",
+      "definition": "A novel or novella told at a character's eye level: reliable for what is seen, partial for what is reported."
+    },
+    "scale:chronique-fictive": {
+      "label": "In-world chronicle",
+      "definition": "A work presented as written by a maester within the story, at a distance from the events and on the word of witnesses: reliable for the outline, uncertain on details and motives."
+    },
+    "scale:adaptation": {
+      "label": "Adaptation",
+      "definition": "A television series: a separate continuity, with no authority over the books."
+    },
+    "scale:outil": {
+      "label": "Reference tool",
+      "definition": "A secondary source used for checking, never as proof."
+    }
+  }
+}

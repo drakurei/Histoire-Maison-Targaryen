@@ -1,0 +1,200 @@
+/*
+ * L'arbre à l'encre, sur le vélin. Aucun cadre autour des noms : le nom est écrit, les traits
+ * y descendent. Seuls les souverains sont inscrits dans un médaillon, comme sur les rouleaux
+ * généalogiques des chroniques royales.
+ */
+.drawing {
+  --trait-encre: oklch(0.32 0.025 42);
+}
+
+.link,
+.tie {
+  fill: none;
+  stroke: var(--trait-encre);
+  stroke-width: 1.15;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  vector-effect: non-scaling-stroke;
+}
+
+.drawing[data-scale='tree'] .link,
+.drawing[data-scale='tree'] .tie {
+  vector-effect: none;
+}
+
+.link[data-doubt] {
+  stroke-dasharray: 5 4;
+}
+
+.link[data-loop] {
+  stroke: var(--rubrique);
+  stroke-width: 1.8;
+  stroke-dasharray: 7 3;
+}
+
+.link[data-ruling],
+.tie[data-ruling] {
+  stroke: var(--rubrique);
+  stroke-width: 3.6;
+}
+
+.link[data-ruling][data-doubt] {
+  stroke-dasharray: 9 5;
+}
+
+/* Liaison : trait fin, interrompu ; fiançailles : pointillé. */
+[data-kind='liaison'] > .tie:not([data-ruling]) {
+  stroke-dasharray: 2 3;
+}
+
+[data-kind='fiancailles'] > .tie:not([data-ruling]) {
+  stroke-dasharray: 1 3;
+}
+
+[data-consanguine] > .tie:not([data-ruling]) {
+  stroke: var(--rubrique);
+  stroke-width: 1.3;
+}
+
+[data-loop] > .tie:not([data-ruling]) {
+  stroke-width: 1.8;
+}
+
+.point {
+  fill: var(--trait-encre);
+}
+
+[data-kind='liaison'] > .point,
+[data-kind='fiancailles'] > .point {
+  fill: var(--velin);
+  stroke: var(--trait-encre);
+  stroke-width: 1.2;
+}
+
+/* Nœud du sang : un anneau rouge autour d'un point, là où deux branches se rejoignent. */
+.knot {
+  fill: var(--velin);
+  stroke: var(--rubrique);
+  stroke-width: 1.6;
+}
+
+.knotCore {
+  fill: var(--rubrique);
+}
+
+[data-loop] > .knot {
+  stroke-width: 2.4;
+}
+
+/* ------------------------------------------------------------ noms */
+
+.node {
+  cursor: pointer;
+  outline: none;
+}
+
+.hit {
+  fill: transparent;
+}
+
+.name {
+  font-family: var(--f-chronique);
+  font-weight: 480;
+  font-optical-sizing: auto;
+  letter-spacing: -0.01em;
+  fill: var(--encre);
+  text-anchor: middle;
+  paint-order: stroke;
+  stroke: var(--velin);
+  stroke-width: 4px;
+  stroke-linejoin: round;
+}
+
+.years {
+  font-family: var(--f-musee);
+  font-variant-numeric: lining-nums tabular-nums;
+  fill: var(--encre-pale);
+  text-anchor: middle;
+  paint-order: stroke;
+  stroke: var(--velin);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+}
+
+/* Entrés par alliance : encre pâle, italique. Le sang Targaryen garde l'encre pleine. */
+.node[data-married-in] .name {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-weight: 400;
+  fill: var(--encre-pale);
+}
+
+.node[data-role='child'] .name {
+  font-family: var(--f-recit);
+}
+
+/* Souverains : double médaillon d'or sombre, couronne, nom plus appuyé. */
+.medal,
+.medalInner {
+  fill: none;
+  stroke: var(--v1-or-sombre);
+}
+
+.medal {
+  stroke-width: 1.6;
+  fill: oklch(0.88 0.05 82 / 0.75);
+}
+
+.medalInner {
+  stroke-width: 0.8;
+}
+
+.crown {
+  color: var(--v1-or-sombre);
+}
+
+.node[data-crowned] .name {
+  font-weight: 640;
+  stroke: oklch(0.88 0.05 82);
+}
+
+.node[data-crowned] .years {
+  stroke: oklch(0.88 0.05 82);
+}
+
+/* Sélection : un cartouche rubriqué ; le nom passe à l'encre rouge. */
+.selection {
+  fill: var(--velin-ombre);
+  stroke: var(--rubrique);
+  stroke-width: 2;
+}
+
+.node[data-selected] .name {
+  fill: var(--rubrique);
+  stroke: var(--velin-ombre);
+}
+
+.node[data-selected] .years {
+  stroke: var(--velin-ombre);
+}
+
+.node[data-selected] .medal {
+  fill: var(--velin-ombre);
+}
+
+.node:hover .name {
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+}
+
+.ring {
+  fill: none;
+  stroke: none;
+}
+
+.node:focus-visible .ring {
+  stroke: var(--rubrique);
+  stroke-width: 2;
+  stroke-dasharray: none;
+}

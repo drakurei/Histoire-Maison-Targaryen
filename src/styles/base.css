@@ -1,0 +1,231 @@
+/*
+ * Socle commun aux trois versions : remise à zéro, voix typographiques par défaut,
+ * focus, sélection, mouvement réduit, lecture d'écran.
+ *
+ * Tout est rangé dans des couches. Une règle hors couche (le CSS Module d'une version)
+ * l'emporte donc toujours sur ce fichier, quelle que soit sa spécificité : inutile de
+ * surenchérir pour redéfinir un défaut. Deux exceptions voulues, marquées !important
+ * (dans une couche, !important passe devant tout le reste) : le mouvement réduit et
+ * .sr-only, qu'aucune feuille ne doit pouvoir défaire par accident.
+ */
+
+@layer reset, base;
+
+@layer reset {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  * {
+    margin: 0;
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+
+  img,
+  picture,
+  video,
+  canvas {
+    display: block;
+    max-width: 100%;
+  }
+
+  input,
+  button,
+  textarea,
+  select {
+    font: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+  }
+
+  button {
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: none;
+    cursor: pointer;
+  }
+
+  button:disabled {
+    cursor: not-allowed;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+  /* Une liste dépouillée de ses puces garde son rôle pour les lecteurs d'écran. */
+  ul[role='list'],
+  ol[role='list'] {
+    padding: 0;
+    list-style: none;
+  }
+
+  [hidden] {
+    display: none !important;
+  }
+}
+
+@layer base {
+  html {
+    color-scheme: dark;
+    scrollbar-gutter: stable;
+    /* Ni faux gras, ni fausse italique, ni fausses petites capitales. */
+    font-synthesis: none;
+  }
+
+  body {
+    min-height: 100svh;
+    background: var(--obsidienne);
+    color: var(--ivoire);
+    font-family: var(--f-recit);
+    font-size: var(--t0);
+    line-height: var(--il-recit-sombre);
+    font-kerning: normal;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+    overflow-wrap: break-word;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  #root {
+    min-height: 100svh;
+    isolation: isolate;
+  }
+
+  /* La chronique : titres en bas de casse, serrés. La taille optique suit le corps. */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--f-chronique);
+    font-weight: 500;
+    font-optical-sizing: auto;
+    line-height: var(--il-titre);
+    letter-spacing: var(--approche-titre);
+    font-variant-numeric: lining-nums proportional-nums;
+    text-wrap: balance;
+  }
+
+  h1 {
+    font-size: var(--t4);
+  }
+
+  h2 {
+    font-size: var(--t3);
+  }
+
+  h3 {
+    font-size: var(--t2);
+  }
+
+  h4 {
+    font-size: var(--t1);
+  }
+
+  h5,
+  h6 {
+    font-size: var(--t0);
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  /* Un lien se signale par un soulignement épais et décalé, jamais par la couleur seule. */
+  a {
+    text-decoration-line: underline;
+    text-decoration-thickness: max(2px, 0.09em);
+    text-underline-offset: 0.22em;
+    text-decoration-skip-ink: auto;
+  }
+
+  a:hover {
+    text-decoration-thickness: max(3px, 0.16em);
+  }
+
+  /* Les données s'alignent en colonnes : chiffres tabulaires. */
+  table {
+    font-variant-numeric: lining-nums tabular-nums;
+  }
+
+  /* Valyrien : jamais de césure automatique, la langue n'a pas de dictionnaire de coupe. */
+  [lang='art-x-valyrian'] {
+    hyphens: manual;
+  }
+
+  :focus-visible {
+    outline: var(--focus-epaisseur) solid var(--focus-couleur);
+    outline-offset: var(--focus-decalage);
+  }
+
+  /* Cible d'un focus posé par programme (contenu principal après navigation) : pas de contour. */
+  [tabindex='-1']:focus {
+    outline: none;
+  }
+
+  ::selection {
+    background: var(--sang);
+    color: var(--ivoire);
+  }
+
+  :target {
+    scroll-margin-block-start: var(--e6);
+  }
+
+  /* Présent pour les lecteurs d'écran, absent pour l'œil. */
+  .sr-only {
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    margin: -1px !important;
+    padding: 0 !important;
+    border: 0 !important;
+    overflow: hidden !important;
+    clip-path: inset(50%) !important;
+    white-space: nowrap !important;
+  }
+
+  /*
+   * Mouvement réduit : tout s'arrête. Seul un élément marqué data-fondu garde un fondu
+   * d'opacité de 150 ms (DESIGN.md §5). Les animations GSAP et les shaders ne passent pas
+   * par ici : ils se règlent avec usePrefersReducedMotion et gsap.matchMedia().
+   */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+
+    [data-fondu],
+    [data-fondu]::before,
+    [data-fondu]::after {
+      animation-duration: var(--d-fondu) !important;
+      transition-property: opacity !important;
+      transition-duration: var(--d-fondu) !important;
+    }
+
+    ::view-transition-group(*),
+    ::view-transition-old(*),
+    ::view-transition-new(*) {
+      animation: none !important;
+    }
+  }
+}

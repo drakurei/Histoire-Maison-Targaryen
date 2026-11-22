@@ -1,0 +1,200 @@
+/* Une bataille : numéro et année en marge, récit au centre, sources dans la marge savante. */
+.battle {
+  --dragon-ink: var(--encre);
+  --dragon-paper: var(--velin);
+
+  display: grid;
+  gap: var(--e3);
+  scroll-margin-block-start: var(--e6);
+}
+
+.battle:focus {
+  outline: none;
+}
+
+.battle:target .number,
+.battle:focus-visible .number {
+  background: var(--rubrique);
+  color: var(--velin);
+}
+
+.margin {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: var(--e3);
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  line-height: 1.3;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+/* Le numéro de la bataille : le même que sur la carte de situation. */
+.number {
+  display: inline-grid;
+  place-items: center;
+  min-inline-size: 1.75rem;
+  block-size: 1.75rem;
+  padding-inline: 0.2rem;
+  border: 1.3px solid var(--encre);
+  border-radius: 50%;
+  font-weight: 700;
+  color: var(--encre);
+}
+
+.number:not([data-mapped]) {
+  border-style: dotted;
+}
+
+.year {
+  font-weight: 700;
+  color: var(--rubrique);
+}
+
+.approx {
+  font-style: italic;
+  color: var(--encre-pale);
+}
+
+.name {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 540;
+  line-height: 1.04;
+  letter-spacing: -0.02em;
+  color: var(--rubrique);
+  text-wrap: balance;
+}
+
+.place {
+  margin-block-start: var(--e2);
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  color: var(--encre);
+}
+
+.issue {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+  row-gap: var(--e1);
+  align-items: baseline;
+  margin-block: var(--e2) var(--e4);
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  line-height: var(--il-cartel);
+  color: var(--encre-pale);
+}
+
+.victor {
+  font-weight: 700;
+  color: var(--encre);
+}
+
+.summary {
+  margin-block-start: var(--e3);
+}
+
+.outcome,
+.losses {
+  max-inline-size: var(--mesure);
+  margin-block-start: var(--e3);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--encre);
+}
+
+.outcome {
+  font-style: italic;
+}
+
+.lead {
+  font-style: italic;
+  color: var(--encre-pale);
+}
+
+.dragons {
+  display: grid;
+  gap: var(--e4);
+  margin: var(--e5) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.dragon {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: start;
+}
+
+.thumb {
+  display: flex;
+  justify-content: center;
+  block-size: 4.5rem;
+  color: var(--encre);
+}
+
+.thumb > svg {
+  max-block-size: 4.5rem;
+}
+
+.dragonName {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e3);
+  font-family: var(--f-chronique);
+  font-size: 1.15rem;
+  font-weight: 520;
+  line-height: 1.25;
+}
+
+.dragonSide {
+  font-family: var(--f-musee);
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: var(--encre-pale);
+}
+
+.dragonFate {
+  max-inline-size: 36rem;
+  margin-block-start: 0.2rem;
+  font-family: var(--f-recit);
+  font-size: 0.98rem;
+  line-height: 1.5;
+  color: var(--encre);
+}
+
+.sources {
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  color: var(--encre-pale);
+}
+
+@media (min-width: 1024px) {
+  .battle {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+    column-gap: var(--gouttiere);
+    align-items: start;
+  }
+
+  .margin {
+    grid-column: 1 / 2;
+    flex-direction: column;
+    align-items: flex-start;
+    row-gap: var(--e2);
+    padding-block-start: 0.35rem;
+  }
+
+  .body {
+    grid-column: 2 / 8;
+  }
+
+  .sources {
+    grid-column: 8 / 11;
+    padding-block-start: 0.6rem;
+  }
+}

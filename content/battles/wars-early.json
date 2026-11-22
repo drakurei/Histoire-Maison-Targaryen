@@ -1,0 +1,968 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-02",
+  "items": [
+    {
+      "id": "conquete",
+      "title": {
+        "fr": "La Conquête d’Aegon",
+        "en": "Aegon’s Conquest"
+      },
+      "from": -2,
+      "to": 1,
+      "periodId": "p3",
+      "summary": {
+        "fr": "En 2 av. C., Aegon Targaryen quitte Peyredragon avec ses sœurs Visenya et Rhaenys, trois dragons et une armée peu nombreuse. Il débarque à l’embouchure de la Néra, y élève un fort et se fait couronner une première fois. En deux ans, quatre des sept royaumes tombent par les armes ou par le feu : le Conflans et les îles de Harren le Noir, les terres de l’Orage, le Roc et le Bief. Le Nord plie le genou sans combattre ; le Val, vainqueur sur mer devant Goëville, cède quand Visenya pose Vhagar dans la cour des Eyrié. Villevieille ouvre ses portes et le Grand Septon sacre Aegon dans le Septuaire étoilé. Dorne seule refuse. La chronique situe ces campagnes en 2 et 1 av. C. sans dater chaque épisode ; les mestres font commencer l’an 1 au sacre de Villevieille, non au débarquement.",
+        "en": "In 2 BC Aegon Targaryen left Dragonstone with his sisters Visenya and Rhaenys, three dragons and a small host. He landed at the mouth of the Blackwater Rush, raised a fort there and was crowned for the first time. Within two years four of the seven kingdoms had fallen to steel or to fire: the riverlands and the isles of Harren the Black, the stormlands, the Rock and the Reach. The North bent the knee without a fight; the Vale, victorious at sea off Gulltown, yielded when Visenya set Vhagar down in the courtyard of the Eyrie. Oldtown opened its gates and the High Septon anointed Aegon in the Starry Sept. Dorne alone refused. The chronicle places these campaigns in 2 and 1 BC without dating each episode; the maesters begin year 1 at the anointing in Oldtown, not at the landing."
+      },
+      "causes": {
+        "fr": "Aegon avait fait tailler à Peyredragon la Table peinte, carte de Westeros où ne figure aucune frontière : l’intention précède l’occasion. Celle-ci vient d’Argilac Durrandon, roi de l’Orage, qui se sent menacé par Harren le Noir et offre sa fille et des terres en échange d’une alliance. Aegon décline pour lui-même et propose qu’Argella épouse Orys Baratheon, son ami et, dit la rumeur, son demi-frère bâtard. Argilac s’en offense, fait trancher les mains de l’émissaire et les renvoie. Aegon convoque ses bannerets et adresse des corbeaux aux sept royaumes : il n’y aura plus qu’un roi. La chronique ne dit pas ce qui l’a d’abord tourné vers l’ouest ; les motifs qu’on lui prête sont des conjectures de mestres.",
+        "en": "On Dragonstone Aegon had already had the Painted Table carved, a map of Westeros that shows no borders: the intention came before the occasion. The occasion was supplied by Argilac Durrandon, the Storm King, who felt threatened by Harren the Black and offered his daughter and a tract of land in return for an alliance. Aegon refused the match for himself and proposed instead that Argella marry Orys Baratheon, his friend and, by rumour, his bastard half-brother. Argilac took offence, had the envoy’s hands cut off and sent them back. Aegon summoned his bannermen and sent ravens to all seven kingdoms: henceforth there would be one king. What first turned his eyes westward the chronicle does not say; the motives ascribed to him are maesters’ conjecture."
+      },
+      "belligerents": [
+        {
+          "id": "targaryen",
+          "name": {
+            "fr": "La maison Targaryen et ses ralliés",
+            "en": "House Targaryen and those who joined it"
+          },
+          "tone": "rouge",
+          "leaders": [
+            { "id": "aegon-i", "name": { "fr": "Aegon Ier Targaryen", "en": "Aegon I Targaryen" } },
+            { "id": "visenya", "name": { "fr": "Visenya Targaryen", "en": "Visenya Targaryen" } },
+            { "id": "rhaenys", "name": { "fr": "Rhaenys Targaryen", "en": "Rhaenys Targaryen" } },
+            { "id": "orys-baratheon", "name": { "fr": "Orys Baratheon", "en": "Orys Baratheon" } }
+          ]
+        },
+        {
+          "id": "iles-et-conflans",
+          "name": {
+            "fr": "Le royaume des Îles et du Conflans",
+            "en": "The Kingdom of the Isles and the Rivers"
+          },
+          "tone": "neutre",
+          "leaders": [
+            { "name": { "fr": "Harren le Noir", "en": "Harren the Black" } }
+          ]
+        },
+        {
+          "id": "orage",
+          "name": {
+            "fr": "Le royaume de l’Orage",
+            "en": "The Kingdom of the Storm"
+          },
+          "tone": "neutre",
+          "leaders": [
+            { "name": { "fr": "Argilac Durrandon", "en": "Argilac Durrandon" } },
+            { "name": { "fr": "Argella Durrandon", "en": "Argella Durrandon" } }
+          ]
+        },
+        {
+          "id": "roc-et-bief",
+          "name": {
+            "fr": "Les deux rois : le Roc et le Bief",
+            "en": "The Two Kings: the Rock and the Reach"
+          },
+          "tone": "neutre",
+          "leaders": [
+            { "name": { "fr": "Mern IX Jardinier", "en": "Mern IX Gardener" } },
+            { "name": { "fr": "Loren Ier Lannister", "en": "Loren I Lannister" } }
+          ]
+        },
+        {
+          "id": "nord",
+          "name": {
+            "fr": "Le royaume du Nord",
+            "en": "The Kingdom of the North"
+          },
+          "tone": "neutre",
+          "leaders": [
+            { "name": { "fr": "Torrhen Stark", "en": "Torrhen Stark" } }
+          ]
+        },
+        {
+          "id": "villevieille",
+          "name": {
+            "fr": "Villevieille et la Foi",
+            "en": "Oldtown and the Faith"
+          },
+          "tone": "neutre",
+          "leaders": [
+            { "name": { "fr": "Manfred Hightower", "en": "Manfred Hightower" } },
+            { "name": { "fr": "Le Grand Septon", "en": "The High Septon" } }
+          ]
+        },
+        {
+          "id": "val",
+          "name": {
+            "fr": "Le royaume de la Montagne et du Val",
+            "en": "The Kingdom of Mountain and Vale"
+          },
+          "tone": "neutre",
+          "leaders": [
+            { "name": { "fr": "Sharra Arryn", "en": "Sharra Arryn" } },
+            { "name": { "fr": "Ronnel Arryn", "en": "Ronnel Arryn" } }
+          ]
+        },
+        {
+          "id": "dorne",
+          "name": {
+            "fr": "Dorne",
+            "en": "Dorne"
+          },
+          "tone": "neutre",
+          "leaders": [
+            { "name": { "fr": "Meria Martell", "en": "Meria Martell" } }
+          ]
+        }
+      ],
+      "battles": [
+        {
+          "id": "goeville",
+          "warId": "conquete",
+          "name": {
+            "fr": "La bataille navale de Goëville",
+            "en": "The Battle off Gulltown"
+          },
+          "year": -2,
+          "dateCertainty": "approximative",
+          "placeId": "goeville",
+          "placeName": {
+            "fr": "Au large de Goëville",
+            "en": "The waters off Gulltown"
+          },
+          "sides": ["targaryen", "val"],
+          "victor": "val",
+          "dragons": [
+            {
+              "dragonId": "vhagar",
+              "side": "targaryen",
+              "fate": {
+                "fr": "Indemne. N’intervient qu’une fois la flotte battue : elle incendie les navires du Val.",
+                "en": "Unharmed. She came in only once the fleet was beaten, and burned the ships of the Vale."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Pendant qu’Aegon marche sur Harrenhal et qu’Orys Baratheon descend vers Accalmie, la flotte des Targaryen fait voile vers le Val sous les ordres de Daemon Velaryon ; Visenya et Vhagar l’accompagnent. Devant Goëville, elle se heurte à la flotte des Arryn, rassemblée en hâte et renforcée d’une douzaine de navires de guerre braaviens. Les Targaryen sont battus et leur amiral est tué. Visenya lance alors Vhagar sur les vainqueurs et brûle leurs navires. La flotte d’Aegon est repoussée avec de lourdes pertes, celle du Val brûle : Goëville n’est pas prise et le Val reste hors d’atteinte. Il ne se soumettra que plus tard, sans combat, quand Visenya posera Vhagar dans la cour des Eyrié.",
+            "en": "While Aegon marched on Harrenhal and Orys Baratheon moved south toward Storm’s End, the Targaryen fleet sailed for the Vale under Daemon Velaryon, with Visenya and Vhagar in company. Off Gulltown it met the Arryn fleet, hastily assembled and strengthened by a dozen Braavosi warships. The Targaryens were beaten and their admiral was killed. Visenya then brought Vhagar down on the victors and burned their ships. Aegon’s fleet was driven off with heavy loss and the Vale’s was burned: Gulltown was not taken and the Vale stayed out of reach. It submitted only later, without a fight, when Visenya landed Vhagar in the courtyard of the Eyrie."
+          },
+          "outcome": {
+            "fr": "Défaite de la flotte d’Aegon, suivie de l’incendie des navires du Val par Vhagar. Goëville n’est pas prise.",
+            "en": "A defeat for Aegon’s fleet, followed by Vhagar’s burning of the ships of the Vale. Gulltown was not taken."
+          },
+          "losses": {
+            "fr": "Daemon Velaryon, amiral d’Aegon, est tué. Des navires sont perdus dans les deux camps ; le musée ne retient aucun chiffre.",
+            "en": "Daemon Velaryon, Aegon’s admiral, was killed. Ships were lost on both sides; the museum retains no figure."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" }
+          ]
+        },
+        {
+          "id": "roseaux",
+          "warId": "conquete",
+          "name": {
+            "fr": "La bataille des Roseaux",
+            "en": "The Battle of the Reeds"
+          },
+          "year": -2,
+          "dateCertainty": "approximative",
+          "placeId": "oeildieu",
+          "placeName": {
+            "fr": "Rive sud de l’Œildieu",
+            "en": "Southern shore of the Gods Eye"
+          },
+          "sides": ["targaryen", "iles-et-conflans"],
+          "victor": "targaryen",
+          "dragons": [],
+          "summary": {
+            "fr": "Premier des deux combats livrés contre les hommes de Harren le Noir sur la rive sud de l’Œildieu, pendant la marche d’Aegon vers Harrenhal. La chronique n’en dit qu’une chose : les hommes d’Aegon l’emportent. Elle ne donne ni les effectifs, ni le nom des capitaines, ni le jour, et n’explique pas le nom de la rencontre. Rien n’indique que Balerion y ait pris part.",
+            "en": "The first of two engagements fought against Harren the Black’s men on the southern shore of the Gods Eye, during Aegon’s march on Harrenhal. The chronicle says one thing about it: Aegon’s men won. It records no numbers, no captains and no day, and does not explain the name. Nothing suggests that Balerion took part."
+          },
+          "outcome": {
+            "fr": "Victoire d’Aegon, qui poursuit sa marche le long du lac.",
+            "en": "A victory for Aegon, who continued his march along the lake."
+          },
+          "reliability": "recit-unique",
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" }
+          ]
+        },
+        {
+          "id": "saules-eplores",
+          "warId": "conquete",
+          "name": {
+            "fr": "Les Saules Éplorés",
+            "en": "The Wailing Willows"
+          },
+          "year": -2,
+          "dateCertainty": "approximative",
+          "placeId": "oeildieu",
+          "placeName": {
+            "fr": "Rive sud de l’Œildieu",
+            "en": "Southern shore of the Gods Eye"
+          },
+          "sides": ["targaryen", "iles-et-conflans"],
+          "victor": "indecis",
+          "dragons": [
+            {
+              "dragonId": "balerion",
+              "side": "targaryen",
+              "fate": {
+                "fr": "Indemne. N’intervient qu’après le combat : il brûle sur le lac les barques des vainqueurs.",
+                "en": "Unharmed. Took no part in the fight itself; afterwards he burned the victors’ boats on the lake."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Second combat de la marche sur Harrenhal, et revers pour la colonne d’Aegon. Deux fils de Harren le Noir traversent l’Œildieu sur des barques aux rames assourdies et tombent sur l’arrière de l’armée. Les pertes des Targaryen sont lourdes ; la chronique ne les chiffre pas. Les Fer-nés rembarquent, et c’est pendant la traversée du retour que Balerion fond sur eux : les barques brûlent, et les deux princes avec elles.",
+            "en": "The second engagement on the road to Harrenhal, and a reverse for Aegon’s column. Two of Harren the Black’s sons crossed the Gods Eye in longboats, their oars muffled, and fell on the rear of the host. Targaryen losses were heavy; the chronicle sets no figure on them. The ironborn took to their boats again, and it was on the return crossing that Balerion came down on them: the longboats burned, and both princes with them."
+          },
+          "outcome": {
+            "fr": "Aucun vainqueur net. Les Fer-nés infligent de lourdes pertes à la colonne d’Aegon, puis perdent leurs barques et deux fils de Harren pendant la traversée du retour.",
+            "en": "No clear victor. The ironborn inflicted heavy losses on Aegon’s column, then lost their boats and two of Harren’s sons on the crossing home."
+          },
+          "losses": {
+            "fr": "Lourdes du côté d’Aegon, non chiffrées. Côté Fer-nés : les barques et deux fils de Harren, brûlés pendant la traversée du retour.",
+            "en": "Heavy on Aegon’s side, with no figure given. On the ironborn side: the longboats and two of Harren’s sons, burned on the return crossing."
+          },
+          "reliability": "recit-unique",
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" }
+          ]
+        },
+        {
+          "id": "incendie-harrenhal",
+          "warId": "conquete",
+          "name": {
+            "fr": "L’incendie d’Harrenhal",
+            "en": "The Burning of Harrenhal"
+          },
+          "year": -2,
+          "dateCertainty": "approximative",
+          "placeId": "harrenhal",
+          "placeName": {
+            "fr": "Harrenhal",
+            "en": "Harrenhal"
+          },
+          "sides": ["targaryen", "iles-et-conflans"],
+          "victor": "targaryen",
+          "dragons": [
+            {
+              "dragonId": "balerion",
+              "side": "targaryen",
+              "fate": {
+                "fr": "Indemne. Seul dragon engagé ; il descend à l’intérieur de l’enceinte.",
+                "en": "Unharmed. The only dragon engaged; he came down inside the walls."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Harren le Noir a mis quarante ans à bâtir la plus grande forteresse de Westeros ; la tradition veut qu’elle ait été achevée le jour même où Aegon débarquait. Quand celui-ci arrive devant ses murs, les seigneurs du Conflans, Edmyn Tully de Vivesaigues le premier, ont déjà changé de camp. Harren refuse de se rendre : la pierre, dit-il, ne brûle pas. Au coucher du soleil, Aegon fait monter Balerion très haut au-dessus du château, puis le fait redescendre à l’intérieur de l’enceinte. Tout ce qui n’est pas pierre s’embrase, et la chaleur fait le reste : les tours se fendent et s’affaissent. Harren et ses derniers fils meurent dans la tour qu’on appelle depuis le Bûcher-du-Roi. Aucun assaut n’a été donné aux murs.",
+            "en": "Harren the Black had spent forty years raising the largest castle in Westeros; tradition has it finished on the very day Aegon landed. By the time Aegon reached its walls the river lords, Edmyn Tully of Riverrun first among them, had already changed sides. Harren would not yield: stone, he said, does not burn. At sunset Aegon took Balerion high above the castle and brought him down inside the walls. Everything that was not stone caught fire, and the heat did the rest: the towers cracked and slumped. Harren and his last sons died in the tower since called Kingspyre. The walls were never assaulted."
+          },
+          "outcome": {
+            "fr": "La lignée de Harren s’éteint. Aegon reçoit l’hommage des seigneurs riverains et confie le Conflans à Edmyn Tully.",
+            "en": "Harren’s line ended. Aegon took the homage of the river lords and gave the riverlands to Edmyn Tully."
+          },
+          "losses": {
+            "fr": "Harren le Noir et ses derniers fils. Les morts de la garnison ne sont pas dénombrés.",
+            "en": "Harren the Black and his last sons. The dead of the garrison are not counted."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" }
+          ]
+        },
+        {
+          "id": "dernier-orage",
+          "warId": "conquete",
+          "name": {
+            "fr": "La Dernière Tempête",
+            "en": "The Last Storm"
+          },
+          "year": -2,
+          "dateCertainty": "approximative",
+          "placeId": "accalmie",
+          "placeName": {
+            "fr": "Collines au sud des Bronzes, au nord d’Accalmie",
+            "en": "The hills south of Bronzegate, north of Storm’s End"
+          },
+          "sides": ["targaryen", "orage"],
+          "victor": "targaryen",
+          "dragons": [
+            {
+              "dragonId": "meraxes",
+              "side": "targaryen",
+              "fate": {
+                "fr": "Indemne. Combat au sol, au centre de la ligne, sous la pluie.",
+                "en": "Unharmed. She fought on the ground, in the centre of the line, in the rain."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Orys Baratheon et Rhaenys marchent sur Accalmie avec le gros de l’armée. Des seigneurs de l’Orage surprennent leur avant-garde au passage d’une rivière et tuent plus de mille hommes avant de disparaître dans les bois. Argilac, qui ne veut pas finir comme Harren derrière des murs, sort livrer bataille. Rhaenys, du haut de Meraxès, compte ses forces et renseigne Orys, qui se retranche sur des collines. L’armée de l’Orage est près de deux fois plus nombreuse, et la tempête qui éclate pousse la pluie au visage des envahisseurs : Argilac attaque sans attendre. Trois charges de cavalerie s’enlisent dans la boue ; les piquiers, à pied, prennent les hauteurs une à une. La quatrième charge perce le centre et trouve Meraxès au sol : l’avant-garde et la garde du roi brûlent. Argilac, désarçonné, se bat encore quand Orys le rejoint, lui offre de se rendre, puis le tue en combat singulier.",
+            "en": "Orys Baratheon and Rhaenys marched on Storm’s End with the larger part of the host. Storm lords caught their vanguard at the crossing of the Wendwater and killed more than a thousand men before melting back into the woods. Argilac, unwilling to share Harren’s fate behind walls, came out to fight. Rhaenys, aloft on Meraxes, counted his strength and told Orys, who dug in on high ground. The stormlanders had nearly twice the numbers, and the storm that broke drove its rain into the invaders’ faces, so Argilac attacked at once. Three mounted charges foundered in the mud; spearmen on foot took the hills one by one. The fourth charge broke the centre and met Meraxes on the ground: the vanguard and the king’s guard burned. Unhorsed, Argilac was still fighting when Orys reached him, offered him quarter, and killed him in single combat."
+          },
+          "outcome": {
+            "fr": "Les hommes de l’Orage déposent les armes. À Accalmie, Argella se proclame reine et veut tenir ; sa garnison la livre enchaînée. Orys la traite avec égards, l’épouse, et prend les armes et la devise des Durrandon : la maison Baratheon commence là.",
+            "en": "The stormlanders laid down their arms. At Storm’s End Argella declared herself queen and meant to hold out; her own garrison handed her over in chains. Orys treated her with courtesy, married her, and took the arms and words of the Durrandons: House Baratheon begins there."
+          },
+          "losses": {
+            "fr": "Plus de mille hommes d’Orys au passage de la rivière, avant la bataille. Dans la bataille : Argilac, sa garde, Dickon Morrigen et le Bâtard de Havrenoir, qui menaient l’avant-garde. Aucun total n’est donné.",
+            "en": "More than a thousand of Orys’s men at the river crossing, before the battle. In the battle: Argilac, his guard, and Dickon Morrigen and the Bastard of Blackhaven, who led the vanguard. No total is given."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" }
+          ]
+        },
+        {
+          "id": "champ-de-feu",
+          "warId": "conquete",
+          "name": {
+            "fr": "Le Champ de Feu",
+            "en": "The Field of Fire"
+          },
+          "year": -2,
+          "dateCertainty": "approximative",
+          "placeId": "champ-de-feu",
+          "placeName": {
+            "fr": "Plaine au sud de la Néra",
+            "en": "The plains south of the Blackwater Rush"
+          },
+          "sides": ["targaryen", "roc-et-bief"],
+          "victor": "targaryen",
+          "dragons": [
+            {
+              "dragonId": "balerion",
+              "side": "targaryen",
+              "fate": {
+                "fr": "Indemne.",
+                "en": "Unharmed."
+              }
+            },
+            {
+              "dragonId": "vhagar",
+              "side": "targaryen",
+              "fate": {
+                "fr": "Indemne. Sa cavalière, Visenya, reçoit une flèche à l’épaule.",
+                "en": "Unharmed. Her rider, Visenya, took an arrow in the shoulder."
+              }
+            },
+            {
+              "dragonId": "meraxes",
+              "side": "targaryen",
+              "fate": {
+                "fr": "Indemne.",
+                "en": "Unharmed."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Mern IX Jardinier, roi du Bief, et Loren Ier Lannister, roi du Roc, réunissent cinquante-cinq mille hommes, dont plus de cinq mille chevaliers montés. Aegon n’en a qu’un cinquième environ, pour beaucoup des hommes du Conflans ralliés depuis peu. Les deux rois chargent et sa ligne commence à céder. Alors, pour la seule fois de la Conquête, les trois dragons sont lâchés ensemble sur une armée. Les herbes et les blés sont secs, le vent souffle vers l’armée des deux rois : Aegon, Visenya et Rhaenys mettent le feu à la plaine. Plus de quatre mille hommes meurent brûlés. Mern périt avec ses fils, ses petits-fils, ses frères et ses cousins ; un neveu lui survit trois jours. Loren s’échappe à travers la fumée ; pris le lendemain, il plie le genou.",
+            "en": "Mern IX Gardener, King of the Reach, and Loren I Lannister, King of the Rock, brought fifty-five thousand men into the field, more than five thousand of them mounted knights. Aegon had about a fifth of that number, many of them rivermen who had only lately come over to him. The two kings charged and his line began to give way. Then, for the only time in the Conquest, all three dragons were loosed together on an army. Grass and grain were dry and the wind stood against the two kings’ host: Aegon, Visenya and Rhaenys set the plain alight upwind of it. More than four thousand men burned to death. Mern died with his sons, grandsons, brothers and cousins; a nephew outlived him by three days. Loren rode out through the smoke; taken the following day, he bent the knee."
+          },
+          "outcome": {
+            "fr": "La maison Jardinier s’éteint. Loren Lannister garde le Roc comme seigneur. À Hautjardin, l’intendant Harlan Tyrell remet le château à Aegon, qui lui confie le Bief.",
+            "en": "House Gardener ended. Loren Lannister kept the Rock as a lord. At Highgarden the steward Harlan Tyrell yielded the castle to Aegon, who gave him the Reach."
+          },
+          "losses": {
+            "fr": "Chez les deux rois : plus de quatre mille hommes brûlés, environ mille tués par le fer, des dizaines de milliers de brûlés qui survivent. Du côté d’Aegon : moins de cent morts.",
+            "en": "On the two kings’ side: more than four thousand burned to death, about a thousand killed by steel, and tens of thousands burned who lived. On Aegon’s side: fewer than a hundred dead."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" },
+            { "id": "agot", "locator": "Tyrion II (ch. 13)" }
+          ]
+        },
+        {
+          "id": "soumission-du-nord",
+          "warId": "conquete",
+          "name": {
+            "fr": "La soumission du Nord",
+            "en": "The Submission of the North"
+          },
+          "year": -2,
+          "dateCertainty": "approximative",
+          "placeId": "le-trident",
+          "placeName": {
+            "fr": "Sur le Trident",
+            "en": "On the Trident"
+          },
+          "sides": ["targaryen", "nord"],
+          "victor": "targaryen",
+          "dragons": [
+            {
+              "dragonId": "balerion",
+              "side": "targaryen",
+              "fate": {
+                "fr": "Présent, non engagé.",
+                "en": "Present, not engaged."
+              }
+            },
+            {
+              "dragonId": "vhagar",
+              "side": "targaryen",
+              "fate": {
+                "fr": "Présente, non engagée.",
+                "en": "Present, not engaged."
+              }
+            },
+            {
+              "dragonId": "meraxes",
+              "side": "targaryen",
+              "fate": {
+                "fr": "Présente, non engagée.",
+                "en": "Present, not engaged."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Torrhen Stark, roi du Nord, descend vers le sud avec trente mille hommes. Quand il atteint le Trident, Harrenhal a brûlé et les deux rois sont vaincus : en face, Aegon a rassemblé une armée de moitié plus nombreuse que la sienne, grossie des seigneurs déjà soumis, et ses trois dragons. Dans le camp du Nord, certains veulent attaquer, d’autres se replier sur Moat Cailin. Brandon Snow, frère bâtard du roi, propose de passer le fleuve de nuit pour tuer les dragons dans leur sommeil. Torrhen l’envoie bien de l’autre côté, mais avec trois mestres, pour négocier. Au matin, il traverse à son tour, s’agenouille et dépose sa couronne. Il n’y a pas eu de bataille : l’épisode figure ici parce que deux armées se sont fait face et qu’un royaume a changé de mains.",
+            "en": "Torrhen Stark, King in the North, marched south with thirty thousand men. By the time he reached the Trident, Harrenhal had burned and the two kings were beaten: across the river stood a host half again the size of his own, swollen with lords who had already submitted, and three dragons. In the northern camp some argued for attack, others for falling back on Moat Cailin. Brandon Snow, the king’s bastard brother, offered to cross by night and kill the dragons as they slept. Torrhen did send him across, but with three maesters, to treat. In the morning he crossed himself, knelt, and laid down his crown. No battle was fought. The episode is listed here because two armies faced each other and a kingdom changed hands."
+          },
+          "outcome": {
+            "fr": "Torrhen reste seigneur de Winterfell et gouverneur du Nord. Aucun homme du Nord n’est brûlé. La postérité l’appelle « le roi qui s’agenouilla ».",
+            "en": "Torrhen remained Lord of Winterfell and Warden of the North. No northman burned. Posterity calls him “the King Who Knelt”."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" }
+          ]
+        },
+        {
+          "id": "soumission-villevieille",
+          "warId": "conquete",
+          "name": {
+            "fr": "La soumission de Villevieille",
+            "en": "The Submission of Oldtown"
+          },
+          "year": 1,
+          "dateCertainty": "exacte",
+          "placeId": "villevieille",
+          "placeName": {
+            "fr": "Villevieille",
+            "en": "Oldtown"
+          },
+          "sides": ["targaryen", "villevieille"],
+          "victor": "targaryen",
+          "dragons": [],
+          "summary": {
+            "fr": "Reste Villevieille, la plus grande cité de Westeros, siège de la Foi et de la Citadelle. Dès la nouvelle du débarquement, le Grand Septon s’était enfermé sept jours et sept nuits dans le Septuaire étoilé, au pain et à l’eau. Il en était sorti avec une vision : si la ville prenait les armes, elle brûlerait, et la Grand-Tour, la Citadelle et le septuaire avec elle. Lord Manfred Hightower, homme prudent et pieux, s’y était rangé ; c’est pourquoi, dit la chronique, aucun homme de Villevieille n’a brûlé au Champ de Feu, bien que les Hightower fussent bannerets des Jardinier. Quand l’armée arrive, lord Manfred sort à sa rencontre et remet la ville. Trois jours plus tard, le Grand Septon oint Aegon des sept huiles et le couronne. Comme sur le Trident, l’affaire s’est réglée sans un coup.",
+            "en": "Oldtown remained: the greatest city in Westeros, seat of the Faith and of the Citadel. When news of the landing first came, the High Septon had shut himself in the Starry Sept for seven days and seven nights on bread and water. He had come out with a vision: if the city took up arms it would burn, and the Hightower, the Citadel and the sept with it. Lord Manfred Hightower, a cautious and pious man, had accepted the warning; that, says the chronicle, is why no man of Oldtown burned on the Field of Fire, though the Hightowers were sworn to the Gardeners. When the host arrived Lord Manfred rode out and yielded the city. Three days later the High Septon anointed Aegon with the seven oils and crowned him. As at the Trident, the matter was settled without a blow."
+          },
+          "outcome": {
+            "fr": "La Foi reconnaît la dynastie. Les mestres comptent les années à partir de ce sacre : c’est l’an 1.",
+            "en": "The Faith recognised the dynasty. The maesters count the years from this anointing: it is year 1."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" }
+          ]
+        }
+      ],
+      "consequences": {
+        "fr": "Six des sept royaumes reconnaissent un seul roi. Aegon confie les terres conquises à des maisons qui lui doivent tout : les Tully au Conflans, les Tyrell à Hautjardin, Orys Baratheon à Accalmie ; aux îles de Fer, en l’an 2, il laisse les Fer-nés choisir leur seigneur. Les rois qui ont plié, Stark, Lannister et Arryn, gardent leurs terres comme seigneurs. Les épées des vaincus sont forgées en un trône au feu de Balerion. Harrenhal et le Champ de Feu laissent l’idée qu’aucune muraille ni aucune armée ne tient contre un dragon. Dorne, qui a refusé le combat, reste hors du royaume ; Aegon l’envahit en l’an 4.",
+        "en": "Six of the seven kingdoms acknowledged a single king. Aegon gave the conquered lands to houses that owed him everything: the Tullys in the riverlands, the Tyrells at Highgarden, Orys Baratheon at Storm’s End; on the Iron Islands, in 2 AC, he let the ironborn choose their own lord. The kings who had knelt, Stark, Lannister and Arryn, kept their lands as lords. The swords of the defeated were forged into a throne in Balerion’s fire. Harrenhal and the Field of Fire left the belief that neither wall nor army could stand against a dragon. Dorne, which had declined to fight, stayed outside the realm; Aegon invaded it in 4 AC."
+      },
+      "eventIds": [
+        "p2-offre-argilac",
+        "p3-proclamation",
+        "p3-debarquement",
+        "p3-goeville",
+        "p3-harrenhal",
+        "p3-derniere-tempete",
+        "p3-champ-de-feu",
+        "p3-torrhen-stark",
+        "p3-eyrie",
+        "p3-rhaenys-dorne",
+        "p3-sacre-villevieille",
+        "p3-trone-de-fer"
+      ],
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        { "id": "fab", "locator": "Aegon's Conquest" },
+        { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" },
+        { "id": "agot", "locator": "Tyrion II (ch. 13)" }
+      ]
+    },
+    {
+      "id": "premiere-guerre-dornienne",
+      "title": {
+        "fr": "La Première Guerre dornienne",
+        "en": "The First Dornish War"
+      },
+      "from": 4,
+      "to": 13,
+      "periodId": "p4",
+      "summary": {
+        "fr": "En 4, Aegon entreprend de soumettre le seul royaume qui lui a résisté. Trois forces entrent à Dorne : Rhaenys, sur Meraxès, brûle Bourg-Cabanes ; Aegon et lord Harlan Tyrell passent par la Passe du Prince ; Orys Baratheon prend les Osseux. Les Dorniens ne livrent pas bataille. Ils abandonnent leurs châteaux, laissent le désert user les armées et reviennent dès que les dragons sont partis. Aegon proclame sa victoire à Lancehélion, que la princesse a quittée ; à peine est-il reparti que ses garnisons sont massacrées, et l’armée de Tyrell disparaît dans les sables en l’an 5. Suivent des années de raids, d’incendies, de mutilations et d’assassinats, puis la mort de Rhaenys en 10 et deux années de représailles. En 13, une paix est signée qui laisse Dorne indépendante.",
+        "en": "In 4 AC Aegon set out to subdue the one kingdom that had defied him. Three forces entered Dorne: Rhaenys, on Meraxes, burned the Planky Town; Aegon and Lord Harlan Tyrell came through the Prince’s Pass; Orys Baratheon took the Boneway. The Dornish refused battle. They left their castles empty, let the desert wear the armies down, and returned once the dragons had gone. Aegon proclaimed victory at Sunspear, which its princess had left; he had scarcely gone when his garrisons were slaughtered, and in 5 AC Tyrell’s army vanished in the sands. Years of raids, burnings, mutilations and murders followed, then the death of Rhaenys in 10 AC and two years of reprisal. In 13 AC a peace was signed that left Dorne independent."
+      },
+      "causes": {
+        "fr": "Pendant la Conquête, Rhaenys n’avait trouvé à Lancehélion que la vieille princesse Meria Martell, qui lui avait refusé toute soumission : Dorne ne s’était ni battue ni rendue. Avant l’invasion de l’an 4, une délégation de seigneurs, de mestres et de septons se rend à Lancehélion auprès de la princesse ; elle n’obtient rien. La chronique ne rapporte aucun autre incident : elle présente la guerre comme la part inachevée de la Conquête. L’unité des sept royaumes, proclamée dès le premier couronnement, restait incomplète tant que Dorne se tenait à l’écart.",
+        "en": "During the Conquest Rhaenys had found at Sunspear only the aged Princess Meria Martell, who refused any submission: Dorne had neither fought nor yielded. Before the invasion of 4 AC a delegation of lords, maesters and septons went to the princess at Sunspear and came away with nothing. The chronicle reports no other incident: it presents the war as the unfinished part of the Conquest. The unity of the seven kingdoms, proclaimed at the first coronation, stayed incomplete while Dorne stood apart."
+      },
+      "belligerents": [
+        {
+          "id": "targaryen",
+          "name": {
+            "fr": "Le Trône de Fer",
+            "en": "The Iron Throne"
+          },
+          "tone": "rouge",
+          "leaders": [
+            { "id": "aegon-i", "name": { "fr": "Aegon Ier Targaryen", "en": "Aegon I Targaryen" } },
+            { "id": "visenya", "name": { "fr": "Visenya Targaryen", "en": "Visenya Targaryen" } },
+            { "id": "rhaenys", "name": { "fr": "Rhaenys Targaryen", "en": "Rhaenys Targaryen" } },
+            { "id": "orys-baratheon", "name": { "fr": "Orys Baratheon", "en": "Orys Baratheon" } },
+            { "name": { "fr": "Harlan Tyrell", "en": "Harlan Tyrell" } }
+          ]
+        },
+        {
+          "id": "dorne",
+          "name": {
+            "fr": "La principauté de Dorne",
+            "en": "The Principality of Dorne"
+          },
+          "tone": "neutre",
+          "leaders": [
+            { "name": { "fr": "Meria Martell", "en": "Meria Martell" } },
+            { "name": { "fr": "Nymor Martell", "en": "Nymor Martell" } },
+            { "name": { "fr": "Lord Wyl de Wyl", "en": "Lord Wyl of Wyl" } }
+          ]
+        }
+      ],
+      "battles": [
+        {
+          "id": "embuscade-des-osseux",
+          "warId": "premiere-guerre-dornienne",
+          "name": {
+            "fr": "L’embuscade des Osseux",
+            "en": "The Ambush in the Boneway"
+          },
+          "year": 4,
+          "dateCertainty": "exacte",
+          "placeName": {
+            "fr": "Les Osseux, montagnes Rouges",
+            "en": "The Boneway, Red Mountains"
+          },
+          "sides": ["targaryen", "dorne"],
+          "victor": "dorne",
+          "dragons": [],
+          "summary": {
+            "fr": "Des trois entrées de l’an 4, celle d’Orys Baratheon tourne le plus mal. Main du Roi et vainqueur d’Argilac, il conduit mille chevaliers choisis par les Osseux, le plus oriental des deux passages des montagnes Rouges. Aegon et Balerion sont dans la Passe du Prince, Rhaenys sur la côte : aucun dragon ne couvre cette colonne. Les Dorniens n’offrent pas de bataille. Depuis les hauteurs, ils harcèlent la colonne de projectiles le jour et de coups de main la nuit ; pour finir, ils coupent la passe en tête et en queue. Orys est pris par lord Wyl de Wyl avec plusieurs seigneurs de sa suite. La chronique ne donne pas de nom à l’affaire ; celui qu’emploie le musée est descriptif. Les captifs restent aux mains de Wyl jusqu’en 7.",
+            "en": "Of the three thrusts of 4 AC, Orys Baratheon’s fared worst. Hand of the King and the man who had killed Argilac, he led a thousand picked knights up the Boneway, the more easterly of the two passes through the Red Mountains. Aegon and Balerion were in the Prince’s Pass and Rhaenys on the coast: no dragon covered this column. The Dornish offered no battle. From the heights they harried the column with missiles by day and raids by night; in the end they cut the pass at its head and at its tail. Orys was taken by Lord Wyl of Wyl, together with several lords of his following. The chronicle gives the affair no name; the one used here is descriptive. The captives stayed in Wyl’s hands until 7 AC."
+          },
+          "outcome": {
+            "fr": "Orys et les autres captifs sont rendus en 7 contre leur poids en or. Avant de les relâcher, Wyl leur fait trancher la main d’épée. Orys renonce à la charge de Main du Roi.",
+            "en": "Orys and the other captives were ransomed in 7 AC for their weight in gold. Before releasing them Wyl had each man’s sword hand struck off. Orys gave up the office of Hand of the King."
+          },
+          "losses": {
+            "fr": "Non chiffrées. Orys Baratheon est capturé avec plusieurs seigneurs et chevaliers de sa suite.",
+            "en": "No figures. Orys Baratheon was captured with several lords and knights of his following."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "Reign of the Dragon: The Wars of King Aegon I" },
+            { "id": "twoiaf", "locator": "Dorne: Dorne Against the Dragons" }
+          ]
+        },
+        {
+          "id": "denfert",
+          "warId": "premiere-guerre-dornienne",
+          "name": {
+            "fr": "La chute de Meraxès à Denfert",
+            "en": "The Fall of Meraxes at the Hellholt"
+          },
+          "year": 10,
+          "dateCertainty": "exacte",
+          "placeId": "hellholt",
+          "placeName": {
+            "fr": "Denfert",
+            "en": "The Hellholt"
+          },
+          "sides": ["targaryen", "dorne"],
+          "victor": "dorne",
+          "dragons": [
+            {
+              "dragonId": "meraxes",
+              "side": "targaryen",
+              "fate": {
+                "fr": "Tuée. Un trait de scorpion l’atteint à l’œil ; elle s’abat dans l’enceinte du château.",
+                "en": "Killed. A scorpion bolt struck her in the eye; she came down inside the castle walls."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "En 10, Aegon et ses sœurs frappent de nouveau les châteaux de Dorne, chacun le sien. Rhaenys vole vers Denfert, siège de la maison Uller. Un trait de fer tiré par un scorpion atteint Meraxès à l’œil. Le dragon s’abat dans l’enceinte et, dans son agonie, détruit la plus haute tour du château et une partie de la courtine. Le sort de Rhaenys reste incertain. La plupart des récits la font mourir aussitôt, désarçonnée pendant la chute ou écrasée sous Meraxès ; quelques-uns veulent qu’elle ait survécu pour mourir aux mains des Uller, dans leurs cachots. La chronique ne tranche pas. Le crâne du dragon sera porté à Port-Réal en 13.",
+            "en": "In 10 AC Aegon and his sisters struck again at the castles of Dorne, each at a different one. Rhaenys flew to the Hellholt, seat of House Uller. An iron bolt from a scorpion took Meraxes in the eye. The dragon came down inside the walls and, dying, wrecked the castle’s tallest tower and part of the curtain wall. Rhaenys’s fate is uncertain. Most accounts have her killed at once, thrown from her seat in the fall or crushed beneath Meraxes; a few claim she lived, only to die at the Ullers’ hands in their dungeons. The chronicle does not decide. The dragon’s skull was carried to King’s Landing in 13 AC."
+          },
+          "outcome": {
+            "fr": "Premier dragon des Targaryen tué au combat ; Rhaenys est la première des trois conquérants à mourir. Aegon et Visenya répondent par deux années d’incendies.",
+            "en": "The first Targaryen dragon killed in war; Rhaenys was the first of the three conquerors to die. Aegon and Visenya answered with two years of burning."
+          },
+          "losses": {
+            "fr": "La reine Rhaenys et Meraxès. Les pertes de la garnison ne sont pas données.",
+            "en": "Queen Rhaenys and Meraxes. The garrison’s losses are not given."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "Reign of the Dragon: The Wars of King Aegon I" },
+            { "id": "twoiaf", "locator": "Dorne: Dorne Against the Dragons" }
+          ]
+        },
+        {
+          "id": "courroux-du-dragon",
+          "warId": "premiere-guerre-dornienne",
+          "name": {
+            "fr": "Le Courroux du Dragon",
+            "en": "The Dragon’s Wroth"
+          },
+          "year": 10,
+          "dateCertainty": "approximative",
+          "placeName": {
+            "fr": "Dorne entière, hors Lancehélion",
+            "en": "All of Dorne save Sunspear"
+          },
+          "sides": ["targaryen", "dorne"],
+          "victor": "indecis",
+          "dragons": [
+            {
+              "dragonId": "balerion",
+              "side": "targaryen",
+              "fate": {
+                "fr": "Indemne.",
+                "en": "Unharmed."
+              }
+            },
+            {
+              "dragonId": "vhagar",
+              "side": "targaryen",
+              "fate": {
+                "fr": "Indemne.",
+                "en": "Unharmed."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Pendant les deux années qui suivent la mort de Rhaenys, Aegon sur Balerion et Visenya sur Vhagar brûlent tous les châteaux et toutes les places fortes de Dorne. Lancehélion et sa ville ombreuse sont seules épargnées. Les Dorniens l’expliquent par la crainte d’une arme achetée à Lys ; l’archimestre Timotty y voit plutôt un calcul, destiné à dresser les autres maisons contre les Martell. Chaque camp met à prix la tête des seigneurs adverses, et la guerre se poursuit par le meurtre : lord Fell est étouffé dans un bordel de Port-Réal, et le roi est attaqué trois fois. Dans une rue de Port-Réal, il ne doit la vie qu’à Visenya et à son épée Noire Sœur ; la Garde Royale naît de cet attentat, en 10. Ce n’est pas une bataille mais une campagne de représailles, et elle n’obtient aucune soumission.",
+            "en": "For the two years after Rhaenys’s death, Aegon on Balerion and Visenya on Vhagar burned every castle and keep in Dorne. Only Sunspear and its shadow city were left alone. The Dornish put that down to fear of some weapon bought in Lys; Archmaester Timotty saw instead a calculation, meant to turn the other houses against the Martells. Each side set a price on the heads of the other’s lords, and the war went on by murder: Lord Fell was smothered in a King’s Landing brothel, and the king was attacked three times. In a street of King’s Landing only Visenya and her sword Dark Sister saved his life; the Kingsguard was born of that attack, in 10 AC. This was not a battle but a campaign of reprisal, and it won no submission."
+          },
+          "outcome": {
+            "fr": "Dorne est brûlée et ne se soumet pas. Les meurtres continuent jusqu’à la paix de 13 ; les plus connus sont ceux que commet lord Wyl, en 12, aux noces de ser Jon Cafferen.",
+            "en": "Dorne burned and did not submit. The killings went on until the peace of 13 AC; the most notorious are those done by Lord Wyl in 12 AC at the wedding of Ser Jon Cafferen."
+          },
+          "losses": {
+            "fr": "Aucun chiffre. Parmi les morts nommés du côté royal : lord Connington, tué à la chasse ; lord Mertyns, empoisonné avec sa maisonnée ; lord Fell, étouffé à Port-Réal. Du côté dornien : lord Fowler, lord Vaith, lady Toland et quatre seigneurs Uller successifs, assassinés pour la prime.",
+            "en": "No figures. Among the named dead on the royal side: Lord Connington, killed while hunting; Lord Mertyns, poisoned with his household; Lord Fell, smothered in King’s Landing. On the Dornish side: Lord Fowler, Lord Vaith, Lady Toland and four successive Lords Uller, murdered for the bounty."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "Reign of the Dragon: The Wars of King Aegon I" },
+            { "id": "twoiaf", "locator": "Dorne: Dorne Against the Dragons" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon I" }
+          ]
+        }
+      ],
+      "consequences": {
+        "fr": "En 13, Meria Martell meurt. Son fils, le prince Nymor, envoie à Port-Réal sa fille Deria, qui apporte le crâne de Meraxès et une offre de paix. Plusieurs seigneurs veulent la refuser, dont Orys Baratheon, à qui les Dorniens ont pris une main. Deria remet alors au roi une lettre de son père. Aegon la lit sur le Trône de Fer, la brûle, part pour Peyredragon sur Balerion et, à son retour le lendemain, signe la paix. Personne ne sait ce que disait la lettre ; les mestres ont avancé plusieurs hypothèses et n’en ont prouvé aucune. La conquête tentée par Daeron Ier en 157 est perdue à sa mort, en 161 ; Dorne n’entre dans le royaume qu’en 187, et par mariage. La guerre a montré deux choses : un dragon peut être tué, et le feu ne suffit pas contre un peuple qui refuse le combat.",
+        "en": "In 13 AC Meria Martell died. Her son, Prince Nymor, sent his daughter Deria to King’s Landing with the skull of Meraxes and an offer of peace. Several lords wanted it refused, among them Orys Baratheon, whose hand the Dornish had taken. Deria then gave the king a letter from her father. Aegon read it on the Iron Throne, burned it, flew to Dragonstone on Balerion and, on his return the next day, signed the peace. No one knows what the letter said; maesters have offered several guesses and proved none. The conquest Daeron I attempted in 157 AC was lost at his death in 161 AC; Dorne entered the realm only in 187 AC, and by marriage. The war showed two things: a dragon can be killed, and fire is not enough against a people who will not give battle."
+      },
+      "eventIds": [
+        "p3-rhaenys-dorne",
+        "p4-guerre-dornienne",
+        "p4-denfert"
+      ],
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        { "id": "fab", "locator": "Reign of the Dragon: The Wars of King Aegon I" },
+        { "id": "twoiaf", "locator": "Dorne: Dorne Against the Dragons" }
+      ]
+    },
+    {
+      "id": "soulevement-foi-militante",
+      "title": {
+        "fr": "Le soulèvement de la Foi Militante",
+        "en": "The Faith Militant Uprising"
+      },
+      "from": 41,
+      "to": 48,
+      "periodId": "p4",
+      "summary": {
+        "fr": "En 41, Aenys Ier marie son fils Aegon à sa fille Rhaena. Le Grand Septon le dénonce, et les deux ordres armés de la Foi, Fils du Guerrier et Pauvres Compagnons, prennent les armes. Le roi fuit Port-Réal et meurt à Peyredragon en 42. Son demi-frère Maegor, ramené d’exil par sa mère Visenya, prend la couronne au mépris des droits du jeune Aegon et répond par le feu : Balerion brûle le septuaire du Souvenir, puis les armées de la Foi sont écrasées au Pont-de-Pierre et à la Fourche de la Néra. En 43, Aegon réclame son trône et meurt sous l’Œildieu. La guerre devient alors une traque, et elle dure cinq ans, jusqu’à ce que le royaume entier abandonne Maegor pour Jaehaerys, dernier fils d’Aenys.",
+        "en": "In 41 AC Aenys I married his son Aegon to his daughter Rhaena. The High Septon denounced him, and the Faith’s two armed orders, the Warrior’s Sons and the Poor Fellows, took up arms. The king fled King’s Landing and died on Dragonstone in 42 AC. His half-brother Maegor, fetched back from exile by his mother Visenya, took the crown over the rights of young Aegon and answered with fire: Balerion burned the Sept of Remembrance, and the Faith’s armies were then broken at Stonebridge and at the Great Fork of the Blackwater. In 43 AC Aegon claimed his throne and died beneath the Gods Eye. After that the war became a hunt, and it lasted five years, until the whole realm deserted Maegor for Jaehaerys, the last of Aenys’s sons."
+      },
+      "causes": {
+        "fr": "Les Targaryen se marient entre frère et sœur, selon l’usage de Valyria ; la Foi des Sept tient l’inceste pour une abomination et condamne qu’un homme prenne plus d’une épouse. Tant qu’Aegon Ier vit, la Foi s’accommode du roi qu’elle a sacré. Sa mort, en 37, laisse un fils que beaucoup jugent faible. En 39, Maegor prend une seconde épouse, Alys Harroway, du vivant de la première, Ceryse Hightower, nièce du Grand Septon ; Aenys l’exile. En 41, les noces d’Aegon et de Rhaena font d’une coutume de famille une provocation publique. La Foi dispose alors de ses propres soldats, des chevaliers jurés et une multitude de pauvres en armes, et de la sympathie de nombreux seigneurs.",
+        "en": "The Targaryens wed brother to sister after the custom of Valyria; the Faith of the Seven holds incest an abomination and condemns the taking of more than one wife. While Aegon I lived, the Faith made its peace with the king it had anointed. His death in 37 AC left a son whom many thought weak. In 39 AC Maegor took a second wife, Alys Harroway, while his first, Ceryse Hightower, niece to the High Septon, still lived; Aenys sent him into exile. In 41 AC the wedding of Aegon and Rhaena turned a family custom into a public provocation. By then the Faith had soldiers of its own, sworn knights and a multitude of armed poor, and the sympathy of many lords."
+      },
+      "belligerents": [
+        {
+          "id": "couronne",
+          "name": {
+            "fr": "Le Trône de Fer (Aenys Ier, puis Maegor Ier)",
+            "en": "The Iron Throne (Aenys I, then Maegor I)"
+          },
+          "tone": "rouge",
+          "leaders": [
+            { "id": "aenys-i", "name": { "fr": "Aenys Ier Targaryen", "en": "Aenys I Targaryen" } },
+            { "id": "maegor-i", "name": { "fr": "Maegor Ier Targaryen", "en": "Maegor I Targaryen" } },
+            { "id": "visenya", "name": { "fr": "Visenya Targaryen", "en": "Visenya Targaryen" } }
+          ]
+        },
+        {
+          "id": "foi-militante",
+          "name": {
+            "fr": "La Foi Militante et les seigneurs ralliés",
+            "en": "The Faith Militant and its allied lords"
+          },
+          "tone": "neutre",
+          "leaders": [
+            { "name": { "fr": "Le Grand Septon", "en": "The High Septon" } },
+            { "name": { "fr": "Ser Damon Morrigen", "en": "Ser Damon Morrigen" } },
+            { "name": { "fr": "Wat le Fendeur", "en": "Wat the Hewer" } },
+            { "name": { "fr": "Lord Rupert Falwell", "en": "Lord Rupert Falwell" } }
+          ]
+        },
+        {
+          "id": "aegon-sans-couronne",
+          "name": {
+            "fr": "Les partisans du prince Aegon",
+            "en": "Prince Aegon’s supporters"
+          },
+          "tone": "neutre",
+          "leaders": [
+            { "id": "aegon-fils-aenys-i", "name": { "fr": "Aegon Targaryen (fils d’Aenys Ier)", "en": "Aegon Targaryen (son of Aenys I)" } }
+          ]
+        },
+        {
+          "id": "jaehaerys",
+          "name": {
+            "fr": "Les partisans de Jaehaerys (48)",
+            "en": "Jaehaerys’s supporters (48 AC)"
+          },
+          "tone": "neutre",
+          "leaders": [
+            { "id": "jaehaerys-i", "name": { "fr": "Jaehaerys Ier Targaryen", "en": "Jaehaerys I Targaryen" } },
+            { "id": "rogar-baratheon", "name": { "fr": "Rogar Baratheon", "en": "Rogar Baratheon" } },
+            { "id": "alyssa-velaryon", "name": { "fr": "Alyssa Velaryon", "en": "Alyssa Velaryon" } },
+            { "name": { "fr": "Daemon Velaryon (fils d’Aethan)", "en": "Daemon Velaryon (son of Aethan)" } }
+          ]
+        }
+      ],
+      "battles": [
+        {
+          "id": "septuaire-du-souvenir",
+          "warId": "soulevement-foi-militante",
+          "name": {
+            "fr": "L’incendie du septuaire du Souvenir",
+            "en": "The Burning of the Sept of Remembrance"
+          },
+          "year": 42,
+          "dateCertainty": "exacte",
+          "placeId": "port-real",
+          "placeName": {
+            "fr": "Colline de Rhaenys, Port-Réal",
+            "en": "The Hill of Rhaenys, King’s Landing"
+          },
+          "sides": ["couronne", "foi-militante"],
+          "victor": "couronne",
+          "dragons": [
+            {
+              "dragonId": "balerion",
+              "side": "couronne",
+              "fate": {
+                "fr": "Indemne. Incendie le septuaire depuis les airs.",
+                "en": "Unharmed. He set the sept alight from the air."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Les Fils du Guerrier ont fait du septuaire du Souvenir, élevé sur la colline de Rhaenys à la mémoire de la reine, leur place forte dans Port-Réal. En 42, Maegor, tout juste couronné à Peyredragon, gagne la ville, et Visenya met au défi quiconque conteste le droit de son fils. Ser Damon Morrigen, grand capitaine des Fils du Guerrier, relève le défi : ce sera un duel judiciaire à sept contre sept. Maegor en sort seul vivant, mais un coup à la tête le laisse trente jours sans connaissance. À son réveil, il monte Balerion et, sans sommation, incendie le septuaire à l’heure de la prière du matin. Des archers et des piquiers postés autour de la colline abattent ceux qui fuient. Environ sept cents Fils du Guerrier meurent. Maegor fera plus tard déblayer la colline pour y bâtir Fossedragon.",
+            "en": "The Warrior’s Sons had made the Sept of Remembrance, raised on the Hill of Rhaenys in the queen’s memory, their stronghold inside King’s Landing. In 42 AC Maegor, newly crowned on Dragonstone, came to the city, and Visenya dared anyone who disputed her son’s right to come forward. Ser Damon Morrigen, Grand Captain of the Warrior’s Sons, took up the challenge: a trial of seven, seven champions a side. Maegor was the only man left alive, but a blow to the head kept him senseless for thirty days. When he woke he mounted Balerion and, without warning, set the sept alight at the hour of morning prayer. Archers and spearmen posted round the hill cut down those who ran. Some seven hundred Warrior’s Sons died. Maegor later had the hilltop cleared and the Dragonpit built there."
+          },
+          "outcome": {
+            "fr": "Les Fils du Guerrier de Port-Réal sont anéantis. Maegor ordonne aux Pauvres Compagnons de déposer les armes ; devant leur refus, il lance ses vassaux contre eux.",
+            "en": "The Warrior’s Sons of King’s Landing were wiped out. Maegor ordered the Poor Fellows to lay down their arms; when they refused he sent his lords against them."
+          },
+          "losses": {
+            "fr": "Environ sept cents Fils du Guerrier, brûlés ou abattus en fuyant. Dans le duel judiciaire qui précède : treize des quatorze combattants.",
+            "en": "Some seven hundred Warrior’s Sons, burned or cut down as they fled. In the trial of seven that came before: thirteen of the fourteen combatants."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Sons of the Dragon" },
+            { "id": "tsotd" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Maegor I" }
+          ]
+        },
+        {
+          "id": "pont-de-pierre",
+          "warId": "soulevement-foi-militante",
+          "name": {
+            "fr": "La bataille du Pont-de-Pierre",
+            "en": "The Battle at Stonebridge"
+          },
+          "year": 42,
+          "dateCertainty": "exacte",
+          "placeName": {
+            "fr": "Pont-de-Pierre, sur la Mander (depuis lors Pont-l’Amer)",
+            "en": "Stonebridge, on the Mander (since called Bitterbridge)"
+          },
+          "sides": ["couronne", "foi-militante"],
+          "victor": "couronne",
+          "dragons": [],
+          "summary": {
+            "fr": "Première bataille rangée du soulèvement. Wat le Fendeur conduit neuf mille Pauvres Compagnons quand six armées seigneuriales les surprennent au passage de la Mander, une moitié de la troupe sur chaque rive. Ces hommes n’ont ni instruction ni armures dignes de ce nom, et leurs armes sont pour la plupart des outils : la cavalerie lourde les disperse et les taille en pièces. La tradition veut que la Mander ait coulé rouge sur vingt lieues. Wat tue une demi-douzaine d’adversaires, dont lord Meadows, qui commandait l’armée du roi, avant d’être pris vivant et conduit enchaîné à Port-Réal. Aucun dragon n’est mentionné dans cette bataille.",
+            "en": "The first pitched battle of the uprising. Wat the Hewer was leading nine thousand Poor Fellows when six lordly hosts caught them at the crossing of the Mander, with half his force on either bank. They were untrained, barely armoured, and armed for the most part with tools; the heavy horse scattered them and cut them down. Tradition has the Mander running red for twenty leagues. Wat killed half a dozen opponents, among them Lord Meadows, who commanded the king’s host, before he was taken alive and brought to King’s Landing in chains. No dragon is mentioned in this battle."
+          },
+          "outcome": {
+            "fr": "L’armée de Wat le Fendeur est détruite. Le bourg et le château prennent le nom de Pont-l’Amer.",
+            "en": "Wat the Hewer’s army was destroyed. The town and its castle took the name Bitterbridge."
+          },
+          "losses": {
+            "fr": "Non chiffrées pour les Pauvres Compagnons, qui étaient neuf mille au début du combat. Côté royal : une demi-douzaine d’hommes tués par Wat le Fendeur, dont lord Meadows, qui commandait.",
+            "en": "No figure for the Poor Fellows, who numbered nine thousand at the outset. On the royal side: half a dozen men killed by Wat the Hewer, among them Lord Meadows, the commander."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Sons of the Dragon" },
+            { "id": "tsotd" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Maegor I" }
+          ]
+        },
+        {
+          "id": "fourche-de-la-nera",
+          "warId": "soulevement-foi-militante",
+          "name": {
+            "fr": "La bataille de la Fourche de la Néra",
+            "en": "The Battle at the Great Fork"
+          },
+          "year": 42,
+          "dateCertainty": "exacte",
+          "placeName": {
+            "fr": "Grande fourche de la Néra",
+            "en": "The Great Fork of the Blackwater"
+          },
+          "sides": ["couronne", "foi-militante"],
+          "victor": "couronne",
+          "dragons": [
+            {
+              "dragonId": "balerion",
+              "side": "couronne",
+              "fate": {
+                "fr": "Indemne. La pluie atténue ses flammes sans les éteindre.",
+                "en": "Unharmed. Rain dulled his flames without putting them out."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "La seconde armée de la Foi est plus solide. Autour de treize mille Pauvres Compagnons, elle réunit deux cents Fils du Guerrier à cheval, venus de Pierremoûtier, et les chevaliers et les levées d’une douzaine de seigneurs rebelles de l’Ouest et du Conflans : vingt mille hommes, que mène lord Rupert Falwell. Maegor en a autant, mais près du double de cavalerie lourde, beaucoup d’archers, et Balerion. La journée reste disputée jusqu’au soir. Falwell abat deux chevaliers de la Garde Royale avant de tomber sous les coups du seigneur de Viergétang. Dans le camp du roi, Jon Hogg, aveuglé par un coup d’épée au début de l’action, conduit la charge qui enfonce l’armée de la Foi et met les Pauvres Compagnons en fuite. Il pleut : les flammes de Balerion en sont amoindries, non éteintes. À la nuit, Maegor est maître du terrain.",
+            "en": "The Faith’s second army was sturdier. Around thirteen thousand Poor Fellows it gathered two hundred mounted Warrior’s Sons from Stoney Sept and the knights and levies of a dozen rebel lords from the westerlands and the riverlands: twenty thousand men, led by Lord Rupert Falwell. Maegor had as many, but close to double the armoured horse, plenty of longbowmen, and Balerion. The day stayed in the balance until evening. Falwell cut down two knights of the Kingsguard before falling to the Lord of Maidenpool. On the king’s side Jon Hogg, blinded by a sword cut early in the action, led the charge that broke the Faith’s army and put the Poor Fellows to flight. It rained: Balerion’s flames were lessened by it, not put out. By nightfall Maegor held the field."
+          },
+          "outcome": {
+            "fr": "Seconde victoire de Maegor en rase campagne. La Foi Militante n’a plus d’armée capable de l’affronter ; elle poursuit la guerre par bandes.",
+            "en": "Maegor’s second victory in the open field. The Faith Militant no longer had an army able to face him; it carried on the war in bands."
+          },
+          "losses": {
+            "fr": "Aucun total. Lord Rupert Falwell et deux chevaliers de la Garde Royale sont nommés parmi les morts.",
+            "en": "No total. Lord Rupert Falwell and two knights of the Kingsguard are named among the dead."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Sons of the Dragon" },
+            { "id": "tsotd" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Maegor I" }
+          ]
+        },
+        {
+          "id": "sous-l-oeildieu",
+          "warId": "soulevement-foi-militante",
+          "name": {
+            "fr": "La bataille sous l’Œildieu",
+            "en": "The Battle Beneath the Gods Eye"
+          },
+          "year": 43,
+          "dateCertainty": "exacte",
+          "placeId": "oeildieu",
+          "placeName": {
+            "fr": "Au sud de l’Œildieu",
+            "en": "South of the Gods Eye"
+          },
+          "sides": ["couronne", "aegon-sans-couronne"],
+          "victor": "couronne",
+          "dragons": [
+            {
+              "dragonId": "balerion",
+              "side": "couronne",
+              "fate": {
+                "fr": "Indemne. Tue Quicksilver en vol.",
+                "en": "Unharmed. He killed Quicksilver in the air."
+              }
+            },
+            {
+              "dragonId": "quicksilver",
+              "side": "aegon-sans-couronne",
+              "fate": {
+                "fr": "Tuée. Balerion la saisit au cou et lui arrache une aile ; elle s’écrase avec son cavalier.",
+                "en": "Killed. Balerion took her by the neck and tore away a wing; she fell with her rider."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "À la fin de 43, le prince Aegon, dix-sept ans, fils aîné d’Aenys, marche sur Port-Réal à travers le Conflans avec quinze mille hommes levés dans l’Ouest et le Conflans. Il monte Quicksilver, le dragon de son père. Plusieurs armées royales, chacune plus petite que la sienne, convergent vers lui ; au sud de l’Œildieu, ser Davos Darklyn, de la Garde Royale, lui barre la route avec cinq mille hommes venus de Port-Réal. Aegon ordonne de charger cette force avant que les autres ne le débordent. C’est alors que Maegor paraît sur Balerion, venu du sud. Pour la première fois depuis le Fléau de Valyria, note la chronique, un dragon en combat un autre. Balerion, beaucoup plus grand, fond sur Quicksilver, la saisit au cou et lui arrache une aile. Le prince meurt dans la chute, et son armée se débande.",
+            "en": "Late in 43 AC Prince Aegon, seventeen years old and the eldest son of Aenys, marched on King’s Landing through the riverlands with fifteen thousand men raised in the westerlands and the riverlands. He rode Quicksilver, his father’s dragon. Several royal armies, each smaller than his own, were closing on him; south of the Gods Eye Ser Davos Darklyn of the Kingsguard barred the road with five thousand men out of King’s Landing. Aegon ordered a charge against that force before the others could turn his flanks. Then Maegor appeared on Balerion, coming up from the south. For the first time since the Doom of Valyria, the chronicle notes, dragon fought dragon. Balerion, far the larger, came down on Quicksilver, took her by the neck and tore away a wing. The prince died in the fall and his army broke."
+          },
+          "outcome": {
+            "fr": "La prétention de la branche aînée est brisée pour cinq ans. Rhaena, veuve, se cache avec ses filles ; Maegor la contraindra au mariage en 47. Quicksilver est le premier dragon des Targaryen tué par un autre.",
+            "en": "The claim of the elder line was broken for five years. Rhaena, widowed, went into hiding with her daughters; Maegor forced her into marriage in 47 AC. Quicksilver was the first Targaryen dragon killed by another."
+          },
+          "losses": {
+            "fr": "Le prince Aegon et Quicksilver. Environ deux mille hommes de son armée, parmi lesquels lord Alyn Tarbeck, lord Ronnel Vance, ser Willam Whistler, Melony Piper et Denys Snow. Du côté du roi : une centaine de morts, dont ser Davos Darklyn.",
+            "en": "Prince Aegon and Quicksilver. Some two thousand men of his army, among them Lord Alyn Tarbeck, Lord Ronnel Vance, Ser Willam Whistler, Melony Piper and Denys Snow. On the king’s side: about a hundred dead, Ser Davos Darklyn among them."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Sons of the Dragon" },
+            { "id": "tsotd" }
+          ]
+        }
+      ],
+      "consequences": {
+        "fr": "Maegor met à prix la tête des Fils du Guerrier et des Pauvres Compagnons et les fait traquer jusqu’à la fin de son règne. En 48, les bandes de la Foi se remettent en marche, l’amiral Daemon Velaryon (frère de la reine douairière Alyssa, et petit-fils de l’amiral tué devant Goëville) se retourne contre le roi, et les grandes maisons suivent. Rhaena, que Maegor a contrainte au mariage l’année précédente, s’enfuit sur son dragon Dreamfyre ; à Accalmie, lord Rogar Baratheon proclame roi le jeune Jaehaerys. À la convocation de Maegor ne répondent que quelques seigneurs des terres de la Couronne. Un matin, on le trouve mort sur le Trône de Fer, les poignets ouverts par les lames. Suicide, meurtre, ou le trône lui-même : la chronique énumère les versions sans conclure. Jaehaerys pardonne à ceux qui déposent les armes, mais les lois de Maegor qui interdisent à la Foi de s’armer ne sont pas abrogées ; elles tiennent jusqu’au règne de Tommen Baratheon, deux siècles et demi plus tard.",
+        "en": "Maegor set a price on the heads of the Warrior’s Sons and the Poor Fellows and had them hunted to the end of his reign. In 48 AC the Faith’s bands took the road again, the admiral Daemon Velaryon (brother to the Dowager Queen Alyssa, and grandson of the admiral killed off Gulltown) turned against the king, and the great houses followed. Rhaena, whom Maegor had forced into marriage the year before, fled on her dragon Dreamfyre; at Storm’s End Lord Rogar Baratheon proclaimed young Jaehaerys king. Maegor’s summons was answered only by a handful of lords from the crownlands. One morning he was found dead on the Iron Throne, his wrists opened by its blades. Suicide, murder, or the throne itself: the chronicle lists the versions and does not conclude. Jaehaerys pardoned those who laid down their arms, but Maegor’s laws forbidding the Faith to bear them were not repealed; they held until the reign of Tommen Baratheon, two and a half centuries later."
+      },
+      "eventIds": [
+        "p4-soulevement-foi",
+        "p4-maegor-roi",
+        "p4-sous-oeildieu",
+        "p4-mort-maegor"
+      ],
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        { "id": "fab", "locator": "The Sons of the Dragon" },
+        { "id": "fab", "locator": "Prince into King: The Ascension of Jaehaerys I" },
+        { "id": "tsotd" },
+        { "id": "twoiaf", "locator": "The Targaryen Kings: Aenys I" },
+        { "id": "twoiaf", "locator": "The Targaryen Kings: Maegor I" },
+        { "id": "affc", "locator": "Cersei VI (ch. 28)" }
+      ]
+    }
+  ]
+}

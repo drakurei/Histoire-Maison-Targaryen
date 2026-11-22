@@ -1,0 +1,45 @@
+/*
+ * La carte du Codex : une gravure tirée sur le même vélin que la feuille. La mer est un vélin
+ * plus sombre hachuré de bronze, les terres le vélin même, l'encre est celle du récit.
+ */
+.frame {
+  --map-sea: oklch(0.85 0.04 80);
+  --map-hatch: oklch(0.52 0.06 68 / 0.42);
+  --map-ring: oklch(0.5 0.06 68 / 0.55);
+  --map-land: var(--velin);
+  --map-coast: var(--encre);
+  --map-river: oklch(0.42 0.05 60);
+  --map-relief: var(--encre-pale);
+  --map-wall: var(--encre);
+  --map-name: var(--encre);
+  --map-region: var(--encre-pale);
+  --map-sea-name: oklch(0.45 0.06 65);
+  --map-halo: var(--velin);
+  --map-place: var(--encre);
+  --map-active: var(--rubrique);
+  --map-focus: var(--rubrique);
+  --map-font-name: var(--f-chronique);
+  --map-font-mark: var(--f-musee);
+  --map-control-bg: var(--encre);
+  --map-control-ink: var(--velin);
+
+  position: relative;
+  inline-size: 100%;
+  block-size: min(78vh, 40rem);
+  /* Un trait d'encre autour de la gravure : c'est la limite de la plaque, pas un ornement. */
+  box-shadow: 0 0 0 1px var(--encre-pale);
+}
+
+.frame[data-variant='vignette'] {
+  block-size: min(62vh, 28rem);
+}
+
+@media (max-width: 1023px) {
+  .frame {
+    block-size: min(70vh, 34rem);
+  }
+
+  .frame[data-variant='vignette'] {
+    block-size: min(56vh, 22rem);
+  }
+}

@@ -1,0 +1,110 @@
+/* En-tête de volume : le chiffre gothique géant à gauche, le titre et les années à sa droite. */
+.head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  row-gap: var(--e3);
+  align-items: end;
+}
+
+.numeral {
+  font-family: var(--f-lettrine);
+  font-size: clamp(8rem, 4rem + 14vw, 10rem);
+  font-weight: 640;
+  line-height: 0.78;
+  letter-spacing: -0.05em;
+  color: var(--v1-rubrique);
+  font-variant-numeric: lining-nums;
+}
+
+.headText {
+  min-inline-size: 0;
+  padding-block-end: 0.35rem;
+}
+
+.title {
+  font-size: var(--t3);
+}
+
+.years {
+  margin-block-start: var(--e3);
+  font-family: var(--f-musee);
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--v1-texte-2);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.chapeau {
+  margin-block-start: var(--e6);
+  max-inline-size: 38em;
+}
+
+.rule {
+  margin-block: var(--e6) var(--e4);
+}
+
+.section {
+  margin-block-start: var(--e6);
+}
+
+.sectionTitle {
+  grid-column: 1 / -1;
+}
+
+.pending {
+  max-inline-size: 34em;
+  margin-block-start: var(--e6);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  font-style: italic;
+  line-height: var(--il-recit);
+  color: var(--v1-texte-2);
+}
+
+.annals {
+  margin-block-start: var(--e8);
+}
+
+.annalsLead {
+  grid-column: 1 / -1;
+  max-inline-size: 36em;
+  margin-block-start: var(--e3);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--v1-texte-2);
+}
+
+@media (min-width: 1024px) {
+  .head {
+    grid-template-columns: subgrid;
+    column-gap: var(--gouttiere);
+  }
+
+  .numeral {
+    grid-column: 1 / 4;
+    font-size: min(var(--t6), 16rem);
+    text-align: end;
+  }
+
+  .headText {
+    grid-column: 4 / 11;
+  }
+
+  .title {
+    font-size: var(--t4);
+  }
+
+  .chapeau {
+    grid-column: 4 / 10;
+  }
+
+  .sectionTitle {
+    grid-column: 1 / 8;
+  }
+
+  .annals .sectionTitle,
+  .annals .annalsLead {
+    grid-column: 3 / 10;
+  }
+}

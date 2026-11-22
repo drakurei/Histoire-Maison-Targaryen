@@ -1,0 +1,284 @@
+/* La langue : titre monumental, chapeau et salles en marge, puis la formule analysée en pleine largeur. */
+.title {
+  margin-block-end: var(--e6);
+}
+
+.lead {
+  max-inline-size: 34em;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  color: var(--v1-texte);
+  hyphens: manual;
+  text-wrap: pretty;
+}
+
+/* ------------------------------------------------------------ Les trois salles, en marge */
+.rooms {
+  margin-block-start: var(--e6);
+  font-family: var(--f-musee);
+}
+
+@media (min-width: 1024px) {
+  .rooms {
+    margin-block-start: 0.35rem;
+  }
+}
+
+.roomsTitle {
+  font-family: var(--f-recit);
+  font-size: 0.95rem;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.3;
+  color: var(--v1-texte-2);
+}
+
+.roomList {
+  display: grid;
+  gap: var(--e4);
+  margin: var(--e3) 0 0;
+  padding: 0;
+}
+
+.room {
+  display: grid;
+  gap: var(--e1);
+}
+
+.roomLink {
+  justify-self: start;
+  min-block-size: var(--cible);
+  display: inline-flex;
+  align-items: center;
+  color: var(--v1-texte);
+  text-decoration: none;
+}
+
+.roomName {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 560;
+  line-height: 1;
+  letter-spacing: -0.015em;
+  color: var(--v1-rubrique);
+  text-decoration-line: underline;
+  text-decoration-color: var(--v1-rubrique);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.18em;
+}
+
+.roomLink:hover .roomName {
+  text-decoration-thickness: 3px;
+}
+
+.roomGloss {
+  font-size: 0.85rem;
+}
+
+.roomText {
+  font-size: 0.9rem;
+  line-height: var(--il-cartel);
+  color: var(--v1-texte-2);
+}
+
+.pending {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--v1-rubrique);
+}
+
+/* ------------------------------------------------------------ Fig. 1 : la formule */
+.specimen {
+  margin-block: var(--e7) var(--e6);
+}
+
+/* ------------------------------------------------------------ Récit */
+.section {
+  scroll-margin-block-start: 6rem;
+  margin-block: var(--e7) var(--e2);
+}
+
+.prose {
+  max-inline-size: var(--mesure);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--v1-texte);
+  hyphens: auto;
+  font-variant-numeric: oldstyle-nums proportional-nums;
+}
+
+.prose > p + p {
+  text-indent: 1.5em;
+}
+
+.forbid {
+  display: grid;
+  gap: var(--e4);
+  max-inline-size: var(--mesure);
+  margin-block-start: var(--e4);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--v1-texte);
+  hyphens: auto;
+}
+
+.runIn {
+  font-family: var(--f-chronique);
+  font-weight: 600;
+  color: var(--v1-rubrique);
+  letter-spacing: -0.01em;
+}
+
+/* ------------------------------------------------------------ Statuts */
+.statusIntro {
+  max-inline-size: var(--mesure);
+  margin-block: var(--e4) var(--e5);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+}
+
+.statuses {
+  display: grid;
+  gap: var(--e6);
+  margin: 0;
+}
+
+@media (min-width: 1024px) {
+  .statuses {
+    grid-column: 1 / -1;
+    grid-template-columns: subgrid;
+    column-gap: var(--gouttiere);
+  }
+}
+
+.status {
+  display: grid;
+  grid-template-columns: 2.25rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  row-gap: var(--e2);
+  align-items: start;
+}
+
+@media (min-width: 1024px) {
+  .status {
+    grid-template-columns: subgrid;
+    grid-column: 1 / -1;
+  }
+}
+
+.statusTerm {
+  display: contents;
+}
+
+.statusGlyph {
+  grid-row: 1 / span 3;
+  color: var(--v1-texte);
+}
+
+.status[data-status='editorial'] .statusGlyph {
+  color: var(--v1-rubrique);
+}
+
+.status[data-status='adaptation'] .statusGlyph {
+  color: var(--v1-texte-2);
+}
+
+.statusLabel {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 560;
+  line-height: 1;
+  letter-spacing: -0.015em;
+  color: var(--v1-texte);
+  padding-block-start: 0.35rem;
+}
+
+.statusDef {
+  grid-column: 2;
+  margin: 0;
+  max-inline-size: 36em;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--v1-texte);
+}
+
+.statusData {
+  grid-column: 2;
+  display: grid;
+  gap: var(--e2);
+  margin: 0;
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+  color: var(--v1-texte-2);
+  font-variant-numeric: lining-nums;
+}
+
+@media (min-width: 1024px) {
+  .statusGlyph {
+    grid-column: 1;
+    grid-row: 1 / span 2;
+    justify-self: end;
+  }
+
+  .statusLabel {
+    grid-column: 2 / 8;
+    grid-row: 1;
+  }
+
+  .statusDef {
+    grid-column: 2 / 8;
+    grid-row: 2;
+  }
+
+  .statusData {
+    grid-column: 8 / 11;
+    grid-row: 1 / span 2;
+    padding-block-start: 0.4rem;
+  }
+}
+
+.statusCount {
+  color: var(--v1-texte);
+  font-weight: 500;
+}
+
+.statusExample {
+  display: grid;
+  justify-items: start;
+  gap: 0.1rem;
+  font-family: var(--f-recit);
+  font-style: italic;
+}
+
+.exampleLink {
+  font-family: var(--f-chronique);
+  font-style: normal;
+  font-size: var(--t1);
+  font-weight: 540;
+  line-height: 1.1;
+  letter-spacing: -0.015em;
+  color: var(--v1-texte);
+}
+
+.exampleGloss {
+  font-size: 0.95rem;
+}
+
+/* ------------------------------------------------------------ Fig. 2 : le spécimen */
+.wallFigure {
+  margin-block: var(--e8) var(--e4);
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--e1) var(--e5);
+  margin-block-start: var(--e3);
+}

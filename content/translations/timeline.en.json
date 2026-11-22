@@ -1,0 +1,219 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-05",
+  "items": {
+    "events": {
+      "p1-dragons-quatorze-flammes": {
+        "reliabilityNoteFr": "No date; several competing origin stories, all of them reported at second hand."
+      },
+      "p1-guerres-ghiscaries": {
+        "reliabilityNoteFr": "Very ancient history, known through tradition; the date is an order of magnitude only."
+      },
+      "p1-regime-possessions": {
+        "reliabilityNoteFr": "The books agree in their description; some further detail was supplied by the author outside the text."
+      },
+      "p1-mines-esclaves": {
+        "reliabilityNoteFr": "A tradition reported by one character (the kindly man, in Braavos)."
+      },
+      "p1-cites-filles": {
+        "reliabilityNoteFr": "Rests on The World of Ice & Fire alone; no dates are given except for Lorath."
+      },
+      "p1-chandelles-villevieille": {
+        "reliabilityNoteFr": "Asserted by an acolyte of the Citadel in a tavern conversation; there is no other source."
+      },
+      "p1-braavos": {
+        "reliabilityNoteFr": "Attested in several works; no founding date is given here."
+      },
+      "p1-guerres-rhoynares": {
+        "reliabilityNoteFr": "Attested in several works; the dates are estimates."
+      },
+      "p1-peyredragon-avant-poste": {
+        "reliabilityNoteFr": "Approximate date (“some two centuries before the Doom”)."
+      },
+      "p1-prophetie-or-roc": {
+        "reliabilityNoteFr": "Speculation by an in-world author, drawing on a lost text."
+      },
+      "p1-fleau": {
+        "reliabilityNoteFr": "The event and its date are established; its cause is not."
+      },
+      "p2-signes-et-presages": {
+        "reliabilityNoteFr": "Hearsay reported by one character; what the book contained is unknown."
+      },
+      "p2-siecle-de-sang": {
+        "reliabilityNoteFr": "Attested in several works; its internal chronology is almost entirely undated."
+      },
+      "p2-aurion": {
+        "reliabilityNoteFr": "An undated episode, known from The World of Ice & Fire."
+      },
+      "p2-gaemon-et-successeurs": {
+        "reliabilityNoteFr": "A bare list given by the chronicle, with neither dates nor details."
+      },
+      "p2-dragons-de-peyredragon": {
+        "reliabilityNoteFr": "The fact is established; the year of Vhagar's hatching is inferred."
+      },
+      "p2-double-mariage": {
+        "reliabilityNoteFr": "The double marriage is established; its date and its motives are not."
+      },
+      "p2-aegon-contre-volantis": {
+        "reliabilityNoteFr": "Attested; the date is unknown."
+      },
+      "p2-table-peinte": {
+        "reliabilityNoteFr": "The table is attested in several works; the travels of Aegon's youth are reported with reservations."
+      },
+      "p2-offre-argilac": {
+        "reliabilityNoteFr": "Orys Baratheon's kinship with Aegon is a rumour, and is presented as one."
+      },
+      "p3-goeville": {
+        "dateNoteFr": "The chronicle places the campaign in 2–1 BC without dating each battle."
+      },
+      "p3-harrenhal": {
+        "dateNoteFr": "The chronicle places the campaign in 2–1 BC without dating each battle."
+      },
+      "p3-derniere-tempete": {
+        "dateNoteFr": "The chronicle places the campaign in 2–1 BC without dating each battle."
+      },
+      "p3-champ-de-feu": {
+        "dateNoteFr": "The chronicle places the campaign in 2–1 BC without dating each battle."
+      },
+      "p3-torrhen-stark": {
+        "dateNoteFr": "The chronicle places the campaign in 2–1 BC without dating each battle."
+      },
+      "p3-eyrie": {
+        "dateNoteFr": "The chronicle places the campaign in 2–1 BC without dating each battle."
+      },
+      "p3-rhaenys-dorne": {
+        "dateNoteFr": "The chronicle places the campaign in 2–1 BC without dating each battle."
+      },
+      "p3-trone-de-fer": {
+        "reliabilityNoteFr": "The number of swords (“a thousand”) belongs to tradition."
+      },
+      "tv-p3-reve-aegon": {
+        "reliabilityNoteFr": "The books give no certain motive for the Conquest; the chronicle says only that Aegon's reasons are debated."
+      },
+      "p4-guerre-dornienne": {
+        "reliabilityNoteFr": "The contents of the letter are unknown; the chronicle lists several hypotheses without settling on any of them."
+      },
+      "p4-denfert": {
+        "reliabilityNoteFr": "The exact fate of Rhaenys after the fall is not known."
+      },
+      "p4-soulevement-foi": {
+        "reliabilityNoteFr": "The cause of Aenys's death is disputed: illness in most accounts, rumours of poison in others."
+      },
+      "p4-mort-maegor": {
+        "reliabilityNoteFr": "The death is certain, its cause is not: the chronicle reports several versions."
+      },
+      "p4-aerea-balerion": {
+        "reliabilityNoteFr": "The flight and the return are established; where she went and how she died rest on Barth's testimony."
+      },
+      "p4-grand-conseil-101": {
+        "reliabilityNoteFr": "The outcome is established; the reported share of the votes is no more than rumour."
+      },
+      "p5-mariage-laenor": {
+        "reliabilityNoteFr": "The marriage is established; the paternity of the three princes is a rumour, which the witnesses report in different ways."
+      },
+      "p5-printemps-rouge": {
+        "reliabilityNoteFr": "The events are established; who was behind Laenor's death and the burning of Harrenhal remains unknown, and several suspects are named."
+      },
+      "p5-mort-viserys": {
+        "reliabilityNoteFr": "The king's death and the council are established; Beesbury's death is told in three ways (throat cut, thrown from a window, a dungeon cell)."
+      },
+      "p5-accalmie": {
+        "reliabilityNoteFr": "The outcome is established; the details of the pursuit vary from one account to another."
+      },
+      "p5-sang-et-fromage": {
+        "reliabilityNoteFr": "The murder is established; the detail of the scene comes mostly from the fool Mushroom."
+      },
+      "p5-semailles": {
+        "reliabilityNoteFr": "The true descent of the “seeds” (Targaryen or Velaryon bastards) is disputed by the witnesses."
+      },
+      "p5-gosier": {
+        "dateNoteFr": "Fire & Blood dates the battle to the fifth day of 130 AC; The World of Ice & Fire places it in 129.",
+        "reliabilityNoteFr": "The two works disagree on the date; the exact cause of Vermax's fall is uncertain."
+      },
+      "p5-peyredragon-reprise": {
+        "reliabilityNoteFr": "The death of Grey Ghost was at first wrongly blamed on the Cannibal."
+      },
+      "p5-oeildieu": {
+        "reliabilityNoteFr": "The outcome is established; Daemon's survival belongs to song."
+      },
+      "p5-fossedragon": {
+        "reliabilityNoteFr": "Who killed Syrax? The chronicle gives at least five versions. Helaena's death (suicide or murder) is disputed as well."
+      },
+      "p5-tumbleton-2": {
+        "reliabilityNoteFr": "Daeron's death comes in three versions: struck down by a sellsword, killed by a soldier who did not recognize him, or crushed beneath his burning tent."
+      },
+      "p5-mort-aegon-ii": {
+        "reliabilityNoteFr": "Death by poison is established; who administered it is not."
+      },
+      "p5-bilan-dragons": {
+        "reliabilityNoteFr": "The final fate of Sheepstealer, the Cannibal and Silverwing is not known."
+      },
+      "p5-dernier-dragon": {
+        "reliabilityNoteFr": "The date and the description are established; the cause of death rests only on rumour and on one character's accusation."
+      },
+      "p6-regence": {
+        "reliabilityNoteFr": "Jaehaera's death (officially a suicide, suspected to be murder) has never been explained."
+      },
+      "p6-baelor": {
+        "reliabilityNoteFr": "Death from fasting is the received version; poisoning is a rumour."
+      },
+      "p6-aegon-iv": {
+        "reliabilityNoteFr": "The claim that Daeron II was a bastard is a reported slander, never proven."
+      },
+      "p6-troisieme-feunoyr": {
+        "reliabilityNoteFr": "Known only from a single brief summary, with no detailed account."
+      },
+      "p6-quatrieme-feunoyr": {
+        "reliabilityNoteFr": "Known only from a single brief summary."
+      },
+      "p6-lestival": {
+        "reliabilityNoteFr": "The fire and its victims are established; its cause is deliberately left obscure in the books."
+      },
+      "p7-rhaegar-elia": {
+        "reliabilityNoteFr": "Rhaegar's belief is reported by Aemon and through a vision of Daenerys; what exactly he believed is not known."
+      },
+      "p7-harrenhal-281": {
+        "reliabilityNoteFr": "Rhaegar's intentions (and the rumour of a secret council against his father) are matters of conjecture."
+      },
+      "p7-lyanna": {
+        "reliabilityNoteFr": "That they disappeared is established; the nature of the disappearance (abduction or willing flight) is not."
+      },
+      "p7-premieres-batailles": {
+        "reliabilityNoteFr": "The order of the battles is established; their exact dates are not given."
+      },
+      "p7-sac": {
+        "reliabilityNoteFr": "The death of the infant Aegon is taken for granted in Westeros; a character in a later volume claims that another child was put in his place (see Period VIII)."
+      },
+      "p7-tour-de-la-joie": {
+        "reliabilityNoteFr": "Source: the memory and the dream of a single character. Why the Kingsguard were there is not established."
+      },
+      "p7-naissance-daenerys": {
+        "reliabilityNoteFr": "Facts reported by Daenerys from what her brother used to tell her; the year is inferred."
+      },
+      "p7-exil": {
+        "reliabilityNoteFr": "Daenerys's childhood memories; the years are reconstructed."
+      },
+      "p8-noces-oeufs": {
+        "reliabilityNoteFr": "Where the eggs really came from is not established: there is only Illyrio's word for it."
+      },
+      "p8-eclosion": {
+        "reliabilityNoteFr": "What made the hatching possible is not explained. The author has stated outside the books that Daenerys's surviving the fire was a unique event, not a lasting gift."
+      },
+      "p8-qarth": {
+        "reliabilityNoteFr": "Visions seen by a single character; their meaning is open to interpretation."
+      },
+      "p8-chandelles-brulent": {
+        "reliabilityNoteFr": "That a candle is burning is seen by one character as a witness; its powers rest only on Marwyn's word. The link with the return of the dragons is an inference, not something the text states."
+      },
+      "p8-mort-aemon": {
+        "reliabilityNoteFr": "The death is established; the reading of the prophecy is Aemon's own."
+      },
+      "p8-dragons-enchaines": {
+        "reliabilityNoteFr": "Drogon's guilt rests on the father's word; Daenerys accepts it as true."
+      },
+      "p8-jeune-griff": {
+        "reliabilityNoteFr": "His claim runs counter to the accepted account of Aegon's death in 283. No proof is offered either way."
+      }
+    }
+  }
+}

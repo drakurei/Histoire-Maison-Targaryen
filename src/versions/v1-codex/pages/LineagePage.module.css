@@ -1,0 +1,116 @@
+/*
+ * La lignée : un rouleau. La feuille s'élargit à tout le bureau ; l'en-tête reste court,
+ * aligné à gauche ; la scène de l'arbre occupe le reste.
+ */
+.head {
+  display: grid;
+  gap: var(--e5);
+  margin-block-end: var(--e4);
+}
+
+.titling {
+  display: grid;
+  gap: var(--e2);
+  align-content: end;
+}
+
+.intro {
+  max-inline-size: 36ch;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.4;
+  color: var(--encre-pale);
+}
+
+.tools {
+  display: grid;
+  gap: var(--e3);
+  align-content: end;
+}
+
+@media (min-width: 1024px) {
+  .head {
+    grid-template-columns: auto minmax(22rem, 1fr);
+    align-items: end;
+    column-gap: var(--e7);
+  }
+}
+
+.search {
+  max-inline-size: 30rem;
+}
+
+.switches {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--e2) var(--e5);
+}
+
+.modes {
+  display: flex;
+  gap: var(--e3);
+}
+
+/* Bascule : un mot qui se souligne quand il est actif. */
+.toggle {
+  min-block-size: var(--cible);
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--encre-pale);
+  font-family: var(--f-musee);
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-decoration-line: underline;
+  text-decoration-color: transparent;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 6px;
+  cursor: pointer;
+  transition: text-decoration-color var(--d-geste-court) var(--c-power4), color var(--d-geste-court) var(--c-power4);
+}
+
+.toggle:hover {
+  color: var(--encre);
+  text-decoration-color: var(--v1-trait);
+}
+
+.toggle[aria-pressed='true'] {
+  color: var(--encre);
+  text-decoration-color: var(--rubrique);
+}
+
+.area {
+  position: relative;
+  /* Le rouleau déborde du texte jusqu'au bord de la feuille. */
+  margin-inline: -1.25rem;
+}
+
+@media (min-width: 1024px) {
+  .area {
+    margin-inline: calc(-1 * var(--v1-folio-pad));
+  }
+}
+
+.sheetSlot {
+  position: absolute;
+  inset-inline: 0;
+  inset-block-end: 0;
+}
+
+.threadWrap {
+  position: relative;
+  padding-inline: var(--e3);
+}
+
+.sticky {
+  position: sticky;
+  inset-block-end: calc(var(--v1-etagere) + env(safe-area-inset-bottom, 0px) + var(--e2));
+  z-index: 2;
+  margin-block-start: var(--e5);
+}
+
+.key {
+  margin-block-start: var(--e6);
+}

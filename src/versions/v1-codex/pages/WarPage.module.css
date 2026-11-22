@@ -1,0 +1,161 @@
+/* Un conflit : en-tête, récit, camps, causes, carte de situation, batailles, conséquences. */
+.head {
+  display: grid;
+  gap: var(--e3);
+  margin-block-end: var(--e6);
+}
+
+.years {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e5);
+  font-family: var(--f-musee);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--rubrique);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.volume {
+  font-weight: 500;
+  color: var(--encre);
+}
+
+.numeral {
+  font-family: var(--f-lettrine);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--rubrique);
+}
+
+.title {
+  max-inline-size: 16em;
+}
+
+.facts {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e5);
+  row-gap: var(--e1);
+  align-items: baseline;
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  line-height: var(--il-cartel);
+  color: var(--encre-pale);
+}
+
+.summary {
+  margin-block-end: var(--e2);
+}
+
+.section {
+  margin-block-start: var(--e7);
+}
+
+.section > h2 + *,
+.section h2 + .prose {
+  margin-block-start: var(--e4);
+}
+
+.campsBody {
+  margin-block-start: var(--e5);
+}
+
+.prose {
+  margin-block-start: var(--e4);
+}
+
+.margin {
+  margin-block-start: var(--e5);
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--encre-pale);
+}
+
+@media (min-width: 1024px) {
+  .margin {
+    margin-block-start: 3.4rem;
+  }
+}
+
+.marginHead {
+  margin-block-end: var(--e2);
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  color: var(--encre);
+}
+
+.mapFigure {
+  margin-block: var(--e7) 0;
+}
+
+.battles {
+  display: grid;
+  gap: var(--e7);
+  margin: var(--e6) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pager {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--e4);
+  margin-block-start: var(--e8);
+}
+
+.pagerLink,
+.pagerHome {
+  display: grid;
+  align-content: center;
+  min-block-size: var(--cible);
+  color: var(--encre);
+  text-decoration: none;
+}
+
+.pagerLabel {
+  font-family: var(--f-musee);
+  font-size: 0.85rem;
+  color: var(--encre-pale);
+}
+
+.pagerName {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 540;
+  line-height: 1.1;
+  letter-spacing: -0.015em;
+  color: var(--rubrique);
+  text-decoration-line: underline;
+  text-decoration-color: transparent;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+}
+
+.pagerLink:hover .pagerName,
+.pagerLink:focus-visible .pagerName {
+  text-decoration-color: var(--rubrique);
+}
+
+.pagerHome {
+  font-family: var(--f-musee);
+  font-size: 0.95rem;
+  text-decoration-line: underline;
+  text-decoration-color: var(--rubrique);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+@media (min-width: 720px) {
+  .pager {
+    grid-template-columns: 1fr auto 1fr;
+    align-items: end;
+  }
+
+  .pagerNext {
+    text-align: end;
+  }
+}

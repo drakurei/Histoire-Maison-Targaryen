@@ -1,0 +1,246 @@
+/*
+ * Questionnaire : une question à la fois, posée comme un exercice d'édition scolaire.
+ * Les réponses sont des lignes d'encre, pas des pastilles ; la bonne se marque à l'encre
+ * pleine, la mauvaise se barre. Rien ne clignote, rien ne récompense.
+ */
+.quiz {
+  display: grid;
+  gap: var(--e5);
+  max-inline-size: 44rem;
+}
+
+.position {
+  display: grid;
+  gap: var(--e2);
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  color: var(--v1-texte-2);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.ruler {
+  display: flex;
+  gap: 4px;
+}
+
+.tick {
+  display: block;
+  inline-size: 1.25rem;
+  block-size: 3px;
+  background: var(--v1-trait);
+}
+
+.tick[data-state='done'] {
+  background: var(--v1-texte);
+}
+
+.tick[data-state='current'] {
+  background: var(--v1-rubrique);
+}
+
+.round {
+  font-family: var(--f-recit);
+  font-style: italic;
+}
+
+.question {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 540;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: var(--v1-texte);
+  text-wrap: balance;
+  scroll-margin-block-start: 6rem;
+}
+
+.question:focus,
+.feedback:focus,
+.result:focus {
+  outline: none;
+}
+
+.choices {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  border-block-start: 1px solid var(--v1-trait);
+}
+
+.choice {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--e1) var(--e4);
+  inline-size: 100%;
+  min-block-size: var(--cible);
+  padding: var(--e3) var(--e3);
+  border-block-end: 1px solid var(--v1-trait);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.4;
+  text-align: start;
+  color: var(--v1-texte);
+  transition: background-color var(--d-geste-court) var(--c-expo);
+}
+
+.choice:not(:disabled):hover {
+  background: var(--velin-ombre);
+}
+
+.choice:disabled {
+  cursor: default;
+  color: var(--v1-texte-2);
+}
+
+.choice[data-right] {
+  color: var(--v1-texte);
+  background: var(--velin-ombre);
+  font-weight: 600;
+}
+
+.choice[data-given]:not([data-right]) > span:first-child {
+  text-decoration-line: line-through;
+  text-decoration-color: var(--v1-rubrique);
+  text-decoration-thickness: 2px;
+}
+
+.flag {
+  font-family: var(--f-musee);
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--v1-texte-2);
+}
+
+.choice[data-right] .flag {
+  color: var(--v1-rubrique);
+}
+
+.feedback {
+  display: grid;
+  gap: var(--e3);
+}
+
+.feedback:empty {
+  display: none;
+}
+
+.verdict {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 560;
+  line-height: 1.15;
+  color: var(--v1-texte);
+}
+
+.feedback[data-correct='false'] .verdict {
+  color: var(--v1-rubrique);
+}
+
+.explanation {
+  max-inline-size: var(--mesure);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--e3);
+}
+
+/* Boutons du Codex : angles vifs, 44 px ; rouge pour l'action principale de la vue. */
+.primary,
+.secondary {
+  display: inline-flex;
+  align-items: center;
+  min-block-size: var(--cible);
+  padding: 0 var(--e5);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: 1rem;
+  transition: background-color var(--d-geste-court) var(--c-expo);
+}
+
+.primary {
+  background: var(--sang);
+  color: var(--ivoire);
+}
+
+.primary:hover {
+  background: var(--cramoisi);
+}
+
+.secondary {
+  background: var(--encre);
+  color: var(--velin);
+}
+
+.secondary:hover {
+  background: var(--sang);
+  color: var(--ivoire);
+}
+
+/* ------------------------------------------------------------ Bilan */
+.result {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 560;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: var(--v1-texte);
+}
+
+.perfect {
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--v1-texte-2);
+}
+
+.mistakes {
+  display: grid;
+  gap: var(--e3);
+}
+
+.mistakesTitle {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 560;
+  color: var(--v1-rubrique);
+}
+
+.mistakeList {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  border-block-start: 2px solid var(--v1-texte);
+}
+
+.mistake {
+  display: grid;
+  gap: var(--e2);
+  padding-block: var(--e4);
+  border-block-end: 1px solid var(--v1-trait);
+}
+
+.mistakeQuestion {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 520;
+  line-height: 1.2;
+  color: var(--v1-texte);
+}
+
+.given,
+.right {
+  font-family: var(--f-musee);
+  font-size: 0.95rem;
+}
+
+.given {
+  color: var(--v1-texte-2);
+}
+
+.right {
+  color: var(--v1-texte);
+  font-weight: 500;
+}

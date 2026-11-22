@@ -1,0 +1,1056 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-02",
+  "generatedOn": "2026-11-13",
+  "noteFr": "Première liste : 28 dragons liés à la Maison Targaryen, de Balerion aux trois dragons de Daenerys. colorFr ne contient que ce que le TEXTE des livres décrit ; null signifie que les livres ne donnent pas de couleur. Les couleurs venues d'une série vont dans adaptationNoteFr ; celles venues d'une illustration ou d'une déclaration hors texte de l'équipe de l'auteur vont dans extraTextualNoteFr. colorKey est une clé simplifiée pour le design (null si rien n'est écrit). name est la forme anglaise d'origine ; nameFrCandidate et aliasFr sont des propositions de formes françaises NON vérifiées dans les traductions publiées.",
+  "dragons": [
+    {
+      "id": "balerion",
+      "name": "Balerion",
+      "aliasEn": "the Black Dread",
+      "aliasFr": "la Terreur noire",
+      "nameFrCandidate": "Balerion",
+      "colorFr": "Écailles et ailes noires ; flammes noires, parfois mêlées de rouge.",
+      "colorKey": "noir",
+      "riders": [
+        {
+          "name": "Aegon Ier Targaryen",
+          "to": 37
+        },
+        {
+          "name": "Maegor Ier Targaryen",
+          "from": 37,
+          "to": 48
+        },
+        {
+          "name": "Aerea Targaryen",
+          "from": 54,
+          "to": 56
+        },
+        {
+          "name": "Viserys Ier Targaryen",
+          "from": 93,
+          "to": 94
+        }
+      ],
+      "hatchedOrFirstKnown": "Né à Valyria avant 114 av. C. ; date exacte inconnue.",
+      "died": 94,
+      "fateFr": "Seul des cinq dragons d'Aenar à atteindre l'époque d'Aegon, il brûle Harrenhal et forge le Trône de Fer. Il meurt de vieillesse à Port-Réal, âgé d'environ deux cents ans.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "The Long Reign — Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "acok",
+          "locator": "Daenerys I (ch. 12)"
+        },
+        {
+          "id": "agot",
+          "locator": "Tyrion II (ch. 13)"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "vhagar",
+      "name": "Vhagar",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Vhagar",
+      "colorFr": null,
+      "colorKey": null,
+      "extraTextualNoteFr": "Les livres ne décrivent ni ses écailles ni ses flammes. Une indication donnée hors texte par l'équipe de l'auteur à l'artiste du calendrier officiel de 2021 parle de bronze à reflets bleu-vert et d'yeux verts : ce n'est pas un texte publié.",
+      "riders": [
+        {
+          "name": "Visenya Targaryen",
+          "to": 44
+        },
+        {
+          "name": "Baelon Targaryen",
+          "from": 73,
+          "to": 101
+        },
+        {
+          "name": "Laena Velaryon",
+          "to": 120
+        },
+        {
+          "name": "Aemond Targaryen",
+          "from": 120,
+          "to": 130
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclose à Peyredragon pendant le Siècle de sang, vers 52 av. C. (année calculée, non écrite).",
+      "died": 130,
+      "fateFr": "Plus vieux et plus grand dragon vivant au temps de la Danse, elle tue Arrax puis Meleys. Elle meurt avec Aemond au-dessus de l'Œildieu, le 22e jour de la 5e lune de 130, en tuant Caraxes.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "The Long Reign — Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Triumphant"
+        },
+        {
+          "id": "tpatq"
+        },
+        {
+          "id": "trp"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "meraxes",
+      "name": "Meraxes",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Meraxès",
+      "colorFr": "Écailles argentées, yeux dorés.",
+      "colorKey": "argent",
+      "riders": [
+        {
+          "name": "Rhaenys Targaryen (sœur d’Aegon Ier)",
+          "from": -2,
+          "to": 10
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclose à Peyredragon pendant le Siècle de sang ; année inconnue.",
+      "died": 10,
+      "fateFr": "Abattue à Denfert, pendant la Première Guerre dornienne, par un trait de scorpion reçu dans l'œil. Son crâne est rendu à Aegon avec la paix de 13.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Reign of the Dragons: The Conquest"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Dorne: Dorne Against the Dragons"
+        },
+        {
+          "id": "fab",
+          "locator": "Reign of the Dragon: The Wars of King Aegon I"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "quicksilver",
+      "name": "Quicksilver",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Vif-Argent",
+      "colorFr": "Écailles non décrites ; flammes d'un blanc pâle.",
+      "colorKey": null,
+      "riders": [
+        {
+          "name": "Aenys Ier Targaryen",
+          "from": 7,
+          "to": 42
+        },
+        {
+          "name": "Aegon Targaryen (fils d’Aenys Ier)",
+          "from": 43,
+          "to": 43
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclose à Peyredragon en 7 apr. C..",
+      "died": 43,
+      "fateFr": "Montée par le prince Aegon contre son oncle Maegor, elle est tuée par Balerion à la bataille sous l'Œildieu. C'est le premier dragon Targaryen tué par un autre.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "dreamfyre",
+      "name": "Dreamfyre",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Songefeu",
+      "colorFr": "Bleu pâle marqué d'argent ; crêtes argentées, ailes bleu pâle.",
+      "colorKey": "bleu",
+      "riders": [
+        {
+          "name": "Rhaena Targaryen (fille d’Aenys Ier)",
+          "from": 35,
+          "to": 73
+        },
+        {
+          "name": "Helaena Targaryen",
+          "to": 130
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclose sous Aegon Ier, vers 32 apr. C. ou peu avant.",
+      "died": 130,
+      "fateFr": "Enchaînée à Fossedragon lors de l'assaut de 130, elle rompt ses chaînes, tue plus d'assaillants que les trois autres dragons réunis et meurt sous l'effondrement du dôme.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "fab",
+          "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Overthrown"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "vermithor",
+      "name": "Vermithor",
+      "aliasEn": "the Bronze Fury",
+      "aliasFr": "the Bronze Fury",
+      "nameFrCandidate": "Vermithor",
+      "colorFr": "Bronze, grandes ailes fauves.",
+      "colorKey": "bronze",
+      "riders": [
+        {
+          "name": "Jaehaerys Ier Targaryen",
+          "to": 103
+        },
+        {
+          "name": "Hugh le Marteau",
+          "from": 129,
+          "to": 130
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclos en 34 apr. C., d'un œuf placé selon la tradition dans le berceau de Jaehaerys.",
+      "died": 130,
+      "fateFr": "Sans maître de 103 à 129, il est dompté par Hugh le Marteau lors des Semailles. Il tue Seasmoke à la seconde bataille de Tumbleton et meurt de ses blessures.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Overthrown"
+        },
+        {
+          "id": "tpatq"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "silverwing",
+      "name": "Silverwing",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Aile-d'Argent",
+      "colorFr": "Argentée.",
+      "colorKey": "argent",
+      "riders": [
+        {
+          "name": "Alysanne Targaryen",
+          "to": 100
+        },
+        {
+          "name": "Ulf le Blanc",
+          "from": 129,
+          "to": 130
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclose en 36 apr. C., d'un œuf placé selon la tradition dans le berceau d'Alysanne.",
+      "died": null,
+      "fateFr": "Seul dragon à survivre à la seconde bataille de Tumbleton. Redevenue sauvage, elle s'installe sur une île du lac Rouge, dans le Bief ; la date de sa mort n'est pas connue.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Overthrown"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "caraxes",
+      "name": "Caraxes",
+      "aliasEn": "the Blood Wyrm",
+      "aliasFr": "the Blood Wyrm",
+      "nameFrCandidate": "Caraxès",
+      "colorFr": "Rouge.",
+      "colorKey": "rouge",
+      "riders": [
+        {
+          "name": "Aemon Targaryen (fils de Jaehaerys Ier)",
+          "from": 72,
+          "to": 92
+        },
+        {
+          "name": "Daemon Targaryen",
+          "to": 130
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclosion non datée ; jeune dragon déjà montable en 72 apr. C..",
+      "died": 130,
+      "fateFr": "Monture de Daemon aux Degrés de Pierre puis dans la Danse. Il égorge Vhagar au-dessus de l'Œildieu, s'abîme avec elle et meurt sur la rive, sous les murs de Harrenhal.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign — Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Triumphant"
+        },
+        {
+          "id": "tpatq"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "meleys",
+      "name": "Meleys",
+      "aliasEn": "the Red Queen",
+      "aliasFr": "la Reine rouge",
+      "nameFrCandidate": "Meleys",
+      "colorFr": "Écailles écarlates, membranes des ailes roses ; crête, cornes et griffes couleur de cuivre.",
+      "colorKey": "rouge",
+      "riders": [
+        {
+          "name": "Alyssa Targaryen",
+          "from": 75,
+          "to": 84
+        },
+        {
+          "name": "Rhaenys Targaryen (fille d’Aemon)",
+          "from": 87,
+          "to": 129
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclosion non datée ; montée pour la première fois en 75 apr. C..",
+      "died": 129,
+      "fateFr": "Prise entre Sunfyre et Vhagar à Repos-du-Freux, elle meurt avec la princesse Rhaenys après avoir à demi arraché une aile de Sunfyre.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign — Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Red Dragon and the Gold"
+        },
+        {
+          "id": "tpatq"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "syrax",
+      "name": "Syrax",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Syrax",
+      "colorFr": "Écailles jaunes.",
+      "colorKey": "jaune",
+      "riders": [
+        {
+          "name": "Rhaenyra Targaryen",
+          "from": 104,
+          "to": 130
+        }
+      ],
+      "hatchedOrFirstKnown": "Jeune dragon monté par Rhaenyra à partir de 104 apr. C. ; éclosion non datée.",
+      "died": 130,
+      "fateFr": "Elle désarçonne le prince Joffrey, qui tentait de la monter, puis descend sur la foule après la chute de Fossedragon et y est tuée. La chronique donne au moins cinq versions de sa mort.",
+      "continuity": "livres",
+      "reliability": "contradictoire",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon — A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Overthrown"
+        },
+        {
+          "id": "tpatq"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "seasmoke",
+      "name": "Seasmoke",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Fumée-des-Mers",
+      "colorFr": "Gris argent pâle.",
+      "colorKey": "gris",
+      "riders": [
+        {
+          "name": "Laenor Velaryon",
+          "from": 101,
+          "to": 120
+        },
+        {
+          "name": "Addam Velaryon",
+          "from": 129,
+          "to": 130
+        }
+      ],
+      "hatchedOrFirstKnown": "Né en 101 apr. C. au plus tard.",
+      "died": 130,
+      "fateFr": "Sans cavalier pendant près de dix ans après la mort de Laenor, il accepte Addam de la Carène lors des Semailles. Vermithor lui arrache la tête à la seconde bataille de Tumbleton.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon — A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Overthrown"
+        },
+        {
+          "id": "tpatq"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "sunfyre",
+      "name": "Sunfyre",
+      "aliasEn": "the Golden",
+      "aliasFr": "le Doré",
+      "nameFrCandidate": null,
+      "colorFr": "Écailles d'or, membranes des ailes rose pâle ; flammes dorées. Tenu pour le plus beau dragon jamais vu.",
+      "colorKey": "or",
+      "riders": [
+        {
+          "name": "Aegon II Targaryen",
+          "from": 120,
+          "to": 130
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclos à Peyredragon ; dit « jeune » en 120 apr. C..",
+      "died": 130,
+      "fateFr": "Mutilé à Repos-du-Freux, il tue pourtant Grey Ghost et Moondancer à Peyredragon, puis dévore Rhaenyra sur l'ordre d'Aegon II. Il meurt de ses plaies le 9e jour de la 12e lune de 130.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Overthrown"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "tpatq"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "tessarion",
+      "name": "Tessarion",
+      "aliasEn": "the Blue Queen",
+      "aliasFr": "la Reine bleue",
+      "nameFrCandidate": "Tessarion",
+      "colorFr": "Ailes d'un bleu cobalt sombre ; griffes, crête et écailles du ventre couleur de cuivre battu ; flammes bleu cobalt.",
+      "colorKey": "bleu",
+      "riders": [
+        {
+          "name": "Daeron Targaryen (fils de Viserys Ier)",
+          "from": 120,
+          "to": 130
+        }
+      ],
+      "hatchedOrFirstKnown": "Née en 120 apr. C. au plus tard.",
+      "died": 130,
+      "fateFr": "Privée de son cavalier dès le début de la seconde bataille de Tumbleton, elle se bat contre Seasmoke et Vermithor. Trop blessée pour reprendre son vol, elle est achevée de trois flèches dans l'œil.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Overthrown"
+        },
+        {
+          "id": "tpatq"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "vermax",
+      "name": "Vermax",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Vermax",
+      "colorFr": null,
+      "colorKey": null,
+      "adaptationNoteFr": "Dans House of the Dragon : écailles vert olive, membranes des ailes orange pâle (index officiel des dragons de HBO).",
+      "riders": [
+        {
+          "name": "Jacaerys Velaryon",
+          "to": 130
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclos entre 114 et 120 apr. C., d'un œuf placé dans le berceau de Jacaerys.",
+      "died": 130,
+      "fateFr": "Il s'abat au milieu de la flotte ennemie à la bataille du Gosier et coule avec l'épave ; la cause exacte de sa chute est incertaine. Le bouffon Champignon prétend qu'il aurait pondu à Winterfell, ce que la chronique juge très douteux.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon — A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — A Son for a Son"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Red Dragon and the Gold"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "arrax",
+      "name": "Arrax",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Arrax",
+      "colorFr": null,
+      "colorKey": null,
+      "extraTextualNoteFr": "Les livres ne donnent pas sa couleur. Une indication donnée hors texte par l'équipe de l'auteur à l'artiste du calendrier officiel de 2021 parle de blanc nacré, de flamme jaune, d'yeux et de poitrail dorés : ce n'est pas un texte publié.",
+      "riders": [
+        {
+          "name": "Lucerys Velaryon",
+          "to": 129
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclos entre 115 et 120 apr. C., d'un œuf placé dans le berceau de Lucerys.",
+      "died": 129,
+      "fateFr": "Rattrapé par Vhagar dans la tempête au-dessus de la baie des Naufrageurs, il tombe à la mer avec le prince Lucerys. Sa tête et son cou s'échouent trois jours plus tard.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon — A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — A Son for a Son"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "tyraxes",
+      "name": "Tyraxes",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Tyraxes",
+      "colorFr": null,
+      "colorKey": null,
+      "riders": [
+        {
+          "name": "Joffrey Velaryon",
+          "to": 130
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclos entre 117 et 120 apr. C., d'un œuf placé dans le berceau de Joffrey.",
+      "died": 130,
+      "fateFr": "Enchaîné à Fossedragon, il brûle ses assaillants jusqu'à ce que les corps bouchent l'entrée de son antre, puis s'empêtre dans ses chaînes quand la foule entre par l'arrière.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon — A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Overthrown"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "moondancer",
+      "name": "Moondancer",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Danselune",
+      "colorFr": "Vert pâle ; cornes, crête et os des ailes couleur de perle.",
+      "colorKey": "vert",
+      "riders": [
+        {
+          "name": "Baela Targaryen",
+          "from": 130,
+          "to": 130
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclosion non datée ; encore trop petite pour être montée en 129 apr. C..",
+      "died": 130,
+      "fateFr": "Montée par Baela contre Sunfyre lors de la chute de Peyredragon, elle le blesse grièvement avant d'être tuée.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Overthrown"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Triumphant"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "stormcloud",
+      "name": "Stormcloud",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": null,
+      "colorFr": null,
+      "colorKey": null,
+      "riders": [
+        {
+          "name": "Aegon III Targaryen",
+          "from": 130,
+          "to": 130
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclos d'un œuf placé dans le berceau d'Aegon le Jeune (né en 120 apr. C.).",
+      "died": 130,
+      "fateFr": "Il porte une seule fois son jeune maître, pour le sauver à la bataille du Gosier, et meurt dans l'heure à Peyredragon, criblé de flèches, un trait de scorpion dans le cou.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Blacks and the Greens"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "morghul",
+      "name": "Morghul",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Morghul",
+      "colorFr": null,
+      "colorKey": null,
+      "extraTextualNoteFr": "Couleur absente du texte. Une illustration de The Rise of the Dragon le montre noir, selon l'illustrateur ; ce n'est pas une description écrite.",
+      "riders": [],
+      "ridersNoteFr": "Lié à la princesse Jaehaera, il n'a jamais été monté.",
+      "hatchedOrFirstKnown": "Année d’éclosion inconnue ; jeune dragon en 130 apr. C.",
+      "died": 130,
+      "fateFr": "Enchaîné à Fossedragon, il est tué lors de l'assaut par un chevalier en flammes qui lui plante une lance dans l'œil.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Overthrown"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "shrykos",
+      "name": "Shrykos",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Shrykos",
+      "colorFr": null,
+      "colorKey": null,
+      "extraTextualNoteFr": "Couleur absente du texte. Une illustration de The Rise of the Dragon la montre cuivrée, selon l'illustrateur ; ce n'est pas une description écrite.",
+      "riders": [],
+      "ridersNoteFr": "Liée au prince Jaehaerys, fils d'Aegon II, elle n'a jamais été montée.",
+      "hatchedOrFirstKnown": "Année d’éclosion inconnue ; jeune dragonne en 130 apr. C.",
+      "died": 130,
+      "fateFr": "Premier dragon tué lors de l'assaut de Fossedragon : un homme que la chronique appelle Hobb the Hewer lui fend le crâne à la hache.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Overthrown"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "sheepstealer",
+      "name": "Sheepstealer",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Voleur-de-Moutons",
+      "colorFr": "Brun terne, couleur de boue.",
+      "colorKey": "brun",
+      "riders": [
+        {
+          "name": "Orties (Nettles)",
+          "from": 129
+        }
+      ],
+      "hatchedOrFirstKnown": "Dragon sauvage de Peyredragon, éclos dans la jeunesse de Jaehaerys Ier ; année inconnue.",
+      "died": null,
+      "fateFr": "Apprivoisé par Orties à force de moutons offerts chaque matin. Après la fuite de la jeune fille, tous deux sont aperçus pour la dernière fois en 134 dans les montagnes de la Lune ; leur sort n'est pas connu.",
+      "continuity": "livres",
+      "reliability": "recit-unique",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        },
+        {
+          "id": "tpatq"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "grey-ghost",
+      "name": "Grey Ghost",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Spectre Gris",
+      "colorFr": "Gris-blanc pâle, couleur de brume matinale.",
+      "colorKey": "gris",
+      "riders": [],
+      "ridersNoteFr": "Dragon sauvage, jamais monté.",
+      "hatchedOrFirstKnown": "Dragon sauvage de Peyredragon ; âge inconnu.",
+      "died": 130,
+      "fateFr": "Farouche et mangeur de poisson, il échappe à tous ceux qui le cherchent pendant les Semailles. Il est tué et en partie dévoré par Sunfyre en 130 ; on accusa d'abord le Cannibale.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Triumphant"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "cannibal",
+      "name": "Cannibal",
+      "aliasEn": "the Cannibal",
+      "aliasFr": "le Cannibale",
+      "nameFrCandidate": "le Cannibale",
+      "colorFr": "Noir de charbon, yeux verts.",
+      "colorKey": "noir",
+      "riders": [],
+      "ridersNoteFr": "Dragon sauvage, jamais monté.",
+      "hatchedOrFirstKnown": "Inconnu. Les gens de Peyredragon le disaient plus ancien que l'arrivée des Targaryen ; les chroniqueurs en doutent.",
+      "died": null,
+      "fateFr": "Le plus vieux et le plus gros des dragons sauvages, ainsi nommé parce qu'il dévorait les dragons morts, les nouveau-nés et les œufs. Il survit à la Danse, puis disparaît ; on ne sait rien de sa fin.",
+      "continuity": "livres",
+      "reliability": "legende",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Red Dragon and the Gold"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents — The Hooded Hand"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "morning",
+      "name": "Morning",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": null,
+      "colorFr": "Rose pâle ; crête et cornes noires.",
+      "colorKey": "rose",
+      "riders": [
+        {
+          "name": "Rhaena Targaryen (fille de Daemon)"
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclose dans le Val à la fin de 130 ou au début de 131, d'un œuf pondu par Syrax.",
+      "died": null,
+      "fateFr": "Seul dragon né pendant la Danse, et l'un des quatre encore en vie à la fin de la guerre. La date et la cause de sa mort ne sont pas données ; elle est morte avant 153.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "dernier-dragon",
+      "name": "Dernier dragon",
+      "nameEn": "The last dragon",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "le dernier dragon",
+      "colorFr": "Verte ; petite, chétive, ailes atrophiées.",
+      "colorKey": "vert",
+      "riders": [],
+      "ridersNoteFr": "Jamais montée ; son nom n’est pas connu.",
+      "hatchedOrFirstKnown": "Née sous Aegon III ; année inconnue.",
+      "died": 153,
+      "fateFr": "Elle meurt à Port-Réal en 153 après avoir pondu cinq œufs qui n'éclosent pas. La rumeur accuse Aegon III de l'avoir empoisonnée ; l'archimestre Marwyn accuse les mestres ; rien n'est prouvé.",
+      "continuity": "livres",
+      "reliability": "contradictoire",
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        },
+        {
+          "id": "thk"
+        },
+        {
+          "id": "tmk"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell V (ch. 45)"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "drogon",
+      "name": "Drogon",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Drogon",
+      "colorFr": "Écailles noires ; cornes et épines rouge sang ; yeux rouges. Flammes noires traversées de rouge. (Jeune : noir strié d'écarlate, ailes écarlates.)",
+      "colorKey": "noir",
+      "riders": [
+        {
+          "name": "Daenerys Targaryen",
+          "from": 300
+        }
+      ],
+      "hatchedOrFirstKnown": "Éclos sur le bûcher de Drogo, dans la mer Dothrak, vers 299 apr. C. (année reconstituée).",
+      "died": null,
+      "fateFr": "Le plus grand et le plus farouche des trois. Il échappe à l'enfermement à Meereen, revient à l'arène de Daznak et emporte Daenerys. Vivant à la fin du cinquième tome.",
+      "adaptationNoteFr": "Dans Game of Thrones, il brûle Port-Réal, fait fondre le Trône de Fer et emporte le corps de Daenerys : fin propre à la série.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Daenerys X (ch. 72)"
+        },
+        {
+          "id": "acok",
+          "locator": "Daenerys I (ch. 12)"
+        },
+        {
+          "id": "asos",
+          "locator": "Daenerys IV (ch. 42)"
+        },
+        {
+          "id": "adwd",
+          "locator": "Daenerys IX (ch. 52) ; Daenerys X (ch. 71)"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "rhaegal",
+      "name": "Rhaegal",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Rhaegal",
+      "colorFr": "Vert sombre, ailes vert jade ; yeux de bronze. Flammes orange et jaunes veinées de vert.",
+      "colorKey": "vert",
+      "riders": [],
+      "ridersNoteFr": "Aucun cavalier dans les livres parus.",
+      "hatchedOrFirstKnown": "Éclos sur le bûcher de Drogo, vers 299 apr. C. (année reconstituée). Nommé d’après Rhaegar.",
+      "died": null,
+      "fateFr": "Enfermé sous la Grande Pyramide de Meereen, il brûle mortellement le prince Quentyn Martell, puis s'échappe. Vivant et libre à la fin du cinquième tome.",
+      "adaptationNoteFr": "Dans Game of Thrones, il est monté par Jon Snow puis tué par la flotte d'Euron Greyjoy : éléments propres à la série.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Daenerys X (ch. 72)"
+        },
+        {
+          "id": "acok",
+          "locator": "Daenerys III (ch. 40)"
+        },
+        {
+          "id": "adwd",
+          "locator": "The Dragontamer (ch. 68) ; The Queen's Hand (ch. 70)"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "viserion",
+      "name": "Viserion",
+      "aliasEn": null,
+      "aliasFr": null,
+      "nameFrCandidate": "Viserion",
+      "colorFr": "Crème ; cornes, os des ailes et crête dorés ; yeux d'or fondu. Flammes or pâle mêlées de rouge et d'orange.",
+      "colorKey": "creme",
+      "riders": [],
+      "ridersNoteFr": "Aucun cavalier dans les livres parus.",
+      "hatchedOrFirstKnown": "Éclos sur le bûcher de Drogo, vers 299 apr. C. (année reconstituée). Nommé d’après Viserys.",
+      "died": null,
+      "fateFr": "Enfermé avec Rhaegal sous la Grande Pyramide, il brise et fait fondre ses chaînes, puis s'échappe après la tentative de Quentyn Martell. Vivant et libre à la fin du cinquième tome.",
+      "adaptationNoteFr": "Dans Game of Thrones, il est tué au-delà du Mur, relevé par le Roi de la Nuit, puis détruit : éléments propres à la série.",
+      "continuity": "livres",
+      "reliability": "etabli",
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Daenerys X (ch. 72)"
+        },
+        {
+          "id": "acok",
+          "locator": "Daenerys I (ch. 12)"
+        },
+        {
+          "id": "adwd",
+          "locator": "The Dragontamer (ch. 68) ; The Queen's Hand (ch. 70)"
+        }
+      ],
+      "verifiedOnline": true
+    }
+  ]
+}

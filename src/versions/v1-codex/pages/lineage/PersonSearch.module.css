@@ -1,0 +1,114 @@
+/* Recherche d'une personne : un champ souligné à l'encre, une liste posée dessous sur le vélin. */
+.search {
+  position: relative;
+  display: grid;
+  gap: var(--e1);
+  min-inline-size: 0;
+}
+
+.label {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--encre-pale);
+}
+
+.input {
+  inline-size: 100%;
+  min-block-size: var(--cible);
+  padding: 0 0 0.15rem;
+  border: 0;
+  border-block-end: 2px solid var(--encre);
+  border-radius: 0;
+  background: transparent;
+  color: var(--encre);
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 450;
+  letter-spacing: -0.01em;
+}
+
+.input::placeholder {
+  color: var(--encre-pale);
+  opacity: 0.8;
+  font-style: italic;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+}
+
+.input:focus-visible {
+  outline: none;
+  border-block-end-color: var(--rubrique);
+}
+
+.list {
+  position: absolute;
+  inset-block-start: 100%;
+  inset-inline: 0;
+  z-index: 3;
+  margin: var(--e1) 0 0;
+  padding: var(--e2) 0;
+  list-style: none;
+  background: var(--velin);
+  box-shadow: 6px 7px 0 oklch(0.3 0.04 40 / 0.22);
+}
+
+.list[hidden] {
+  display: none;
+}
+
+.option {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  column-gap: var(--e3);
+  min-block-size: var(--cible);
+  align-content: center;
+  padding: var(--e1) var(--e4);
+  cursor: pointer;
+}
+
+.option[aria-selected='true'] {
+  background: var(--velin-ombre);
+}
+
+.option[aria-selected='true'] .optionName {
+  color: var(--rubrique);
+}
+
+.optionName {
+  font-family: var(--f-chronique);
+  font-size: 1.05rem;
+  line-height: 1.15;
+  color: var(--encre);
+}
+
+.optionEpithet {
+  grid-column: 1;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--encre-pale);
+}
+
+.optionYears {
+  grid-column: 2;
+  grid-row: 1;
+  font-family: var(--f-musee);
+  font-size: 0.8rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+  white-space: nowrap;
+}
+
+.crown {
+  display: inline-block;
+  margin-inline-end: 0.25em;
+  color: var(--v1-or-sombre);
+}
+
+.status {
+  position: absolute;
+  inline-size: 1px;
+  block-size: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+}

@@ -1,0 +1,45 @@
+/* Les expressions : chapeau, avis d'attente s'il y a lieu, puis les formules l'une sous l'autre. */
+.title {
+  margin-block-end: var(--e5);
+}
+
+.lead {
+  max-inline-size: 34em;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  hyphens: manual;
+  text-wrap: pretty;
+}
+
+.interim {
+  display: grid;
+  gap: var(--e1);
+  margin-block: var(--e6) var(--e2);
+  max-inline-size: 34rem;
+}
+
+.interimTitle {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-style: italic;
+  font-weight: 500;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  color: var(--v1-texte);
+}
+
+.interimBody {
+  font-family: var(--f-recit);
+  color: var(--v1-texte-2);
+}
+
+.list {
+  display: grid;
+}
+
+@media (min-width: 1024px) {
+  .list {
+    grid-template-columns: subgrid;
+  }
+}

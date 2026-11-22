@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-05",
+  "items": {
+    "aegon-i": {
+      "noteFr": "First crowned by Visenya as soon as he had landed (2 BC); his reign is counted from his coronation at Oldtown. Died of a stroke on Dragonstone."
+    },
+    "aenys-i": {
+      "noteFr": "No settled epithet; the Faith called him “King Abomination”. Died on Dragonstone: of illness in the accepted account, poisoned by Visenya according to rumour."
+    },
+    "maegor-i": {
+      "noteFr": "Found dead on the Iron Throne; whether he was murdered or died by his own hand remains an open question."
+    },
+    "jaehaerys-i": {
+      "noteFr": "Also called “the Wise” and “the Old King”. Under his mother's regency until 50 AC. The longest reign of the dynasty (55 years)."
+    },
+    "viserys-i": {
+      "noteFr": "Died on the third day of the third moon of 129 AC. He had named his daughter Rhaenyra as his heir."
+    },
+    "aegon-ii": {
+      "noteFr": "Poisoned in 131 AC; those responsible were never identified."
+    },
+    "baelor-i": {
+      "noteFr": "Also “the Beloved”. Died after a fast; one rumour lays the blame on his uncle Viserys."
+    },
+    "aegon-iv": {
+      "noteFr": "Legitimized his bastards on his deathbed, and so gave rise to the Blackfyre Rebellions."
+    },
+    "daeron-ii": {
+      "noteFr": "Born on the last day of 153 AC. Died in the Great Spring Sickness."
+    },
+    "aegon-v": {
+      "noteFr": "The “Egg” of the Dunk and Egg novellas. Died in the fire at Summerhall."
+    },
+    "jaehaerys-ii": {
+      "noteFr": "A reign of three years, marked by the War of the Ninepenny Kings. Died of illness. Readers often point out that the appendix of the first novel, as originally printed, left this king out and that the list was corrected later; the point remains unconfirmed."
+    },
+    "claimant:1": {
+      "noteFr": "Aenys's direct heir, killed by Maegor at the Battle Beneath the Gods Eye."
+    },
+    "claimant:2": {
+      "noteFr": "Kings for a few weeks in King's Landing during the Moon of the Three Kings."
+    },
+    "claimant:3": {
+      "noteFr": "A legitimized branch descended from Aegon IV; five risings, no reign."
+    },
+    "claimant:4": {
+      "noteFr": "Styled himself Viserys III in exile; he never reigned."
+    },
+    "claimant:5": {
+      "years": "since 298",
+      "noteFr": "Claims the title of queen in exile; in the published books she rules in Meereen, not from the Iron Throne."
+    },
+    "claimant:6": {
+      "noteFr": "Claims to be Rhaegar's son; his identity is not established."
+    }
+  }
+}

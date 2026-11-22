@@ -1,0 +1,272 @@
+/*
+ * Le portail. Premier écran sur la pierre : le nom gravé en trois lignes, l'emblème rouge
+ * qui déborde du cadre à droite, l'incipit rubriqué. Le folio vient dessous.
+ */
+.portal {
+  position: relative;
+}
+
+/* ------------------------------------------------------------ premier écran, sur la table */
+.hero {
+  position: relative;
+  display: grid;
+  align-content: end;
+  min-block-size: calc(100svh - var(--v1-barre) - 6.5rem);
+  padding-block: var(--e6) var(--e7);
+  padding-inline: 0.25rem;
+  color: var(--ivoire);
+}
+
+.emblem {
+  position: absolute;
+  inset-block-start: 2%;
+  inset-inline-end: -34%;
+  z-index: 0;
+  block-size: min(78vw, 46svh);
+  aspect-ratio: 1;
+  color: var(--sang);
+  pointer-events: none;
+}
+
+.emblem svg {
+  display: block;
+  inline-size: 100%;
+  block-size: 100%;
+}
+
+.title {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  margin: 0;
+  font-family: var(--f-chronique);
+  font-size: min(var(--t6), clamp(3.5rem, 1rem + 8.2vw, 11.5rem));
+  font-weight: 620;
+  font-optical-sizing: auto;
+  line-height: 0.92;
+  letter-spacing: -0.035em;
+  color: var(--ivoire);
+}
+
+.line {
+  display: block;
+}
+
+.ink {
+  display: inline-block;
+  padding-inline-end: 0.06em;
+}
+
+.subtitle {
+  position: relative;
+  z-index: 1;
+  margin-block-start: var(--e4);
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  font-style: italic;
+  line-height: 1.25;
+  color: var(--cendre);
+}
+
+.incipit {
+  position: relative;
+  z-index: 1;
+  max-inline-size: 30rem;
+  margin-block-start: var(--e6);
+}
+
+.incipitHv {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 460;
+  line-height: 1.18;
+  letter-spacing: -0.015em;
+  color: var(--braise);
+  text-wrap: pretty;
+}
+
+.incipitTr {
+  margin-block-start: var(--e3);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  font-style: italic;
+  line-height: var(--il-recit-sombre);
+  color: var(--cendre);
+  text-wrap: pretty;
+}
+
+.actions {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--e4) var(--e5);
+  margin-block-start: var(--e5);
+}
+
+.action {
+  display: inline-flex;
+  align-items: center;
+  min-block-size: 3rem;
+  padding-inline: 1.35rem;
+  font-family: var(--f-musee);
+  font-size: 1.0625rem;
+  font-weight: 500;
+  color: var(--ivoire);
+  text-decoration: none;
+  background: var(--sang);
+  box-shadow: 4px 5px 0 var(--v1-ombre-portee);
+  transition:
+    background-color var(--d-geste-court) var(--c-expo),
+    transform var(--d-geste-court) var(--c-expo);
+}
+
+.action:hover {
+  background: var(--cramoisi);
+}
+
+.action:active {
+  transform: translate(2px, 2px);
+}
+
+.action:focus-visible {
+  outline-color: var(--ivoire);
+}
+
+.secondary {
+  display: inline-flex;
+  align-items: center;
+  min-block-size: var(--cible);
+  font-family: var(--f-musee);
+  font-size: 1rem;
+  color: var(--ivoire);
+  text-decoration-color: var(--braise);
+}
+
+/* ------------------------------------------------------------ ouverture */
+.veil {
+  position: fixed;
+  inset: 0;
+  z-index: 70;
+  background: oklch(0.07 0.01 25);
+  pointer-events: none;
+}
+
+.glow {
+  position: fixed;
+  inset: 0;
+  z-index: 69;
+  overflow: hidden;
+  pointer-events: none;
+  mix-blend-mode: screen;
+}
+
+.glowBand {
+  position: absolute;
+  inset-block: -10%;
+  inset-inline-start: 0;
+  inline-size: 100%;
+  visibility: hidden;
+  opacity: 0;
+  background: linear-gradient(
+    100deg,
+    transparent 8%,
+    oklch(0.36 0.14 22 / 0.5) 30%,
+    oklch(0.5 0.19 25 / 0.55) 46%,
+    oklch(0.68 0.2 40 / 0.32) 52%,
+    oklch(0.36 0.14 22 / 0.4) 64%,
+    transparent 90%
+  );
+}
+
+.skip {
+  position: fixed;
+  inset-block-end: calc(var(--v1-etagere) + var(--e4));
+  inset-inline-end: var(--e4);
+  z-index: 71;
+  min-block-size: var(--cible);
+  padding-inline: var(--e4);
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  color: var(--cendre);
+  background: transparent;
+  border: 0;
+  text-decoration: underline 1.5px var(--basalte);
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+
+/* ------------------------------------------------------------ le folio */
+.section {
+  margin-block-start: var(--e8);
+}
+
+.section:first-child {
+  margin-block-start: 0;
+}
+
+.sectionTitle {
+  max-inline-size: none;
+}
+
+.titleLine {
+  display: block;
+}
+
+.lead {
+  max-inline-size: var(--mesure);
+  margin-block: var(--e5) var(--e5);
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  color: var(--v1-texte);
+  hyphens: manual;
+  text-wrap: pretty;
+  font-variant-numeric: oldstyle-nums;
+}
+
+@media (min-width: 1024px) {
+  .hero {
+    min-block-size: calc(100svh - var(--v1-barre) - 7.5rem);
+    padding-block: var(--e5) var(--e7);
+    padding-inline: 0;
+  }
+
+  /* Le bord de l'écran coupe toujours un peu plus d'un quart de l'emblème, quelle que soit la largeur. */
+  .emblem {
+    --emblem: min(88svh, 62vw, 50rem);
+
+    inset-block-start: -3%;
+    inset-inline-end: calc(-1 * clamp(1.5rem, 4vw, 4.5rem) - 0.28 * var(--emblem));
+    block-size: var(--emblem);
+  }
+
+  .subtitle {
+    margin-block-start: var(--e5);
+  }
+
+  .incipit {
+    margin-block-start: var(--e6);
+  }
+
+  .skip {
+    inset-block-end: var(--e5);
+    inset-inline-end: var(--e5);
+  }
+
+  .lead {
+    grid-column: 1 / 8;
+  }
+
+  .sectionTitle {
+    grid-column: 1 / 8;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .veil,
+  .glow {
+    display: none;
+  }
+}

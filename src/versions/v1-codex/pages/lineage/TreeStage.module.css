@@ -1,0 +1,96 @@
+/*
+ * La scène du rouleau : une fenêtre sur le vélin, sans cadre. Le haut et le bas se perdent
+ * dans le papier (un pli d'ombre), la marge gauche porte les générations.
+ */
+.frame {
+  position: relative;
+}
+
+.stage {
+  position: relative;
+  block-size: clamp(28rem, calc(100svh - 21rem), 58rem);
+  overflow: hidden;
+  touch-action: none;
+  cursor: grab;
+  user-select: none;
+  background:
+    linear-gradient(to bottom, oklch(0.84 0.045 80 / 0.55), transparent 1.25rem),
+    linear-gradient(to top, oklch(0.84 0.045 80 / 0.55), transparent 1.25rem);
+}
+
+.stage[data-dragging] {
+  cursor: grabbing;
+}
+
+.svg {
+  display: block;
+  inline-size: 100%;
+  block-size: 100%;
+  overflow: hidden;
+}
+
+/* Fils retracés autour de la personne centrée : l'encre repasse, plus appuyée. */
+.trace {
+  fill: none;
+  stroke: var(--encre);
+  stroke-width: 3.4;
+  stroke-linejoin: miter;
+  pointer-events: none;
+}
+
+.trace[data-trace='tie'] {
+  stroke-width: 2;
+}
+
+/* ------------------------------------------------------------ marge des générations */
+
+.rail {
+  position: absolute;
+  inset-block: 0;
+  inset-inline-start: 0;
+  inline-size: 4.75rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  pointer-events: none;
+  background: linear-gradient(to right, var(--velin) 62%, oklch(0.9 0.035 84 / 0));
+}
+
+.railRow {
+  position: absolute;
+  inset-block-start: 0;
+  inset-inline-start: 0.5rem;
+  display: grid;
+  margin-block-start: -1.1rem;
+  line-height: 1;
+}
+
+.railNumber {
+  font-family: var(--f-lettrine);
+  font-size: 1.35rem;
+  font-weight: 500;
+  color: var(--rubrique);
+}
+
+.railYear {
+  margin-block-start: 0.2rem;
+  font-family: var(--f-musee);
+  font-size: 0.72rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+  white-space: nowrap;
+}
+
+@media (max-width: 767.98px) {
+  .stage {
+    block-size: calc(100svh - 13rem);
+  }
+
+  .rail {
+    inline-size: 3.25rem;
+  }
+
+  .railYear {
+    display: none;
+  }
+}

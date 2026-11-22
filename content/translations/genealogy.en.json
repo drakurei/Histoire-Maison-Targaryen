@@ -1,0 +1,336 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-05",
+  "items": {
+    "persons": {
+      "aenar": {
+        "noteFr": "Left Valyria for Dragonstone in 114 BC, twelve years before the Doom (102 BC). The books record neither the year of his birth nor that of his death: the limits shown here are inferred from the chronology. His wives are not named."
+      },
+      "gaemon-peyredragon": {
+        "noteFr": "Son of Aenar and second Lord of Dragonstone. He married his sister Daenys, whose dream had foretold the Doom. Neither his birth nor his death is dated."
+      },
+      "valaena-velaryon": {
+        "noteFr": "Said to be half Targaryen herself through her mother; that mother, a Targaryen whose name is not recorded, does not appear in the tree."
+      },
+      "orys-baratheon": {
+        "noteFr": "Founder of House Baratheon. That he was a bastard half-brother of Aegon I rests on rumour alone."
+      },
+      "aegon-i": {
+        "noteFr": "Born in 27 BC according to the accounts of the Conquest. Yet the same works have him celebrate his sixtieth year in 33 AC and die aged sixty-four in 37 AC, which would place his birth a year earlier: the discrepancy remains unresolved."
+      },
+      "rhaenys": {
+        "noteFr": "Born in 26 or 25 BC. Died in Dorne in 10 AC; the sources still leave the exact circumstances open to debate."
+      },
+      "tyanna": {
+        "noteFr": "A native of Pentos."
+      },
+      "aegon-fils-aenys-i": {
+        "noteFr": "Heir of Aenys I, set aside by Maegor; killed in the Battle Beneath the Gods Eye (43 AC).",
+        "pretender.styledAs": "Aegon, heir of Aenys I"
+      },
+      "vaella-fille-aenys-i": {
+        "noteFr": "Died in the cradle; the year of her death (39 AC) is inferred rather than stated outright."
+      },
+      "rhaella-fille-aegon": {
+        "noteFr": "Twin of Aerea; a septa. The year of her death is not given."
+      },
+      "aegon-fils-jaehaerys-i": {
+        "noteFr": "Died three days after he was born."
+      },
+      "maegelle": {
+        "noteFr": "A septa."
+      },
+      "vaegon": {
+        "noteFr": "An archmaester; he is no longer mentioned after the Great Council of 101 AC."
+      },
+      "saera": {
+        "noteFr": "Fled to Lys, then to Volantis. At least three bastard sons, each by a different father, were put forward at the Great Council of 101 AC: they are unnamed and are not shown in the tree."
+      },
+      "gaemon-fils-jaehaerys-i": {
+        "noteFr": "Died before he was three moons old. The year adopted here is 73 AC; another reckoning, drawn from his mother's chronology, puts his death at the very beginning of 74."
+      },
+      "aegon-fils-baelon": {
+        "noteFr": "Born in 84 AC; depending on the passage, he died either the following year or six months after his birth."
+      },
+      "addam-velaryon": {
+        "noteFr": "Addam of Hull, fifteen years old in 129 AC; legitimized by Rhaenyra at Corlys's request. Died at the Second Battle of Tumbleton."
+      },
+      "alyn-velaryon": {
+        "noteFr": "Alyn of Hull, legitimized by Rhaenyra; Lord of the Tides. Lost at sea at some point around 171 to 176 AC."
+      },
+      "rhaenyra": {
+        "noteFr": "Designated heir of Viserys I; crowned on Dragonstone in 129 AC, she held the Iron Throne for about six months in 130. The official lists of kings do not count her: she appears here as a claimant, not as a reigning sovereign.",
+        "pretender.styledAs": "Rhaenyra I"
+      },
+      "baelon-fils-viserys-i": {
+        "noteFr": "Died a day after his birth. Another son of Aemma, who died in the cradle, is not named and is not shown in the tree."
+      },
+      "harwin-strong": {
+        "noteFr": "Sworn shield to Rhaenyra; died when Harrenhal burned (120 AC)."
+      },
+      "rhaena-fille-daemon": {
+        "noteFr": "The six daughters of her second marriage, to Garmund Hightower, are not shown in the tree."
+      },
+      "mysaria": {
+        "noteFr": "A Lysene dancer; she was carrying Daemon's child and lost it at sea, leaving no issue."
+      },
+      "viserys-ii": {
+        "noteFr": "Younger son of Rhaenyra and Daemon. Hand to three kings before reigning himself for a single year, from 171 AC until his death in 172."
+      },
+      "visenya-fille-rhaenyra": {
+        "noteFr": "Stillborn (129 AC)."
+      },
+      "alys-rivers": {
+        "noteFr": "Held by the tradition of Harrenhal to be a bastard of House Strong."
+      },
+      "laena-velaryon-fille-alyn": {
+        "noteFr": "The only named child of Baela and Alyn. She was born while her father was at sea, around 134 AC; the year is not recorded with certainty."
+      },
+      "daenaera-velaryon": {
+        "noteFr": "Daughter of Daeron Velaryon and Hazel Harte, who is not shown in the tree."
+      },
+      "rhaena-fille-aegon-iii": {
+        "noteFr": "A septa."
+      },
+      "aemon-fils-viserys-ii": {
+        "noteFr": "Knight of the Kingsguard. Died shielding Aegon IV at some point after the execution of Terrence Toyne (178 AC); the exact year is not given and falls between 178 and 183."
+      },
+      "naerys": {
+        "noteFr": "Died in childbed a year after her brother Aemon, which places her death between 179 and 184 AC."
+      },
+      "ossifer-plumm": {
+        "noteFr": "Reputed to have died on his wedding night (176 AC)."
+      },
+      "daemon-i-blackfyre": {
+        "noteFr": "Born Daemon Waters; acknowledged by Aegon IV when he received the sword Blackfyre, then legitimized with the king's other bastards as Aegon lay dying (184 AC). Killed on the Redgrass Field (196).",
+        "pretender.styledAs": "Daemon I Blackfyre"
+      },
+      "brynden-rivers": {
+        "noteFr": "Hand of the King, later Lord Commander of the Night's Watch (sent to the Wall in 233 AC); vanished beyond the Wall in 252. A Dance with Dragons identifies him with the three-eyed crow, still living in 300."
+      },
+      "aegon-blackfyre": {
+        "noteFr": "Twin of Aemon; killed on the Redgrass Field."
+      },
+      "aemon-blackfyre": {
+        "noteFr": "Twin of Aegon; killed on the Redgrass Field."
+      },
+      "daemon-ii-blackfyre": {
+        "noteFr": "Claimant of the second Blackfyre Rebellion, which was thwarted at the Whitewalls tourney in 212 AC (The Mystery Knight). Died in captivity at an unknown date.",
+        "pretender.styledAs": "Daemon II Blackfyre"
+      },
+      "haegon-blackfyre": {
+        "pretender.styledAs": "Haegon I Blackfyre"
+      },
+      "aenys-blackfyre": {
+        "noteFr": "Came under safe-conduct to argue his claim before the Great Council of 233 AC; put to death on Bloodraven's orders."
+      },
+      "daemon-iii-blackfyre": {
+        "pretender.styledAs": "Daemon III Blackfyre"
+      },
+      "myriah-martell": {
+        "noteFr": "Spelled “Mariah” in older editions."
+      },
+      "valarr": {
+        "noteFr": "Died in the Great Spring Sickness (209 AC)."
+      },
+      "matarys": {
+        "noteFr": "Died in the Great Spring Sickness (209 AC)."
+      },
+      "aelora": {
+        "noteFr": "Twin and wife of Aelor, and the unwitting cause of his death; she afterwards took her own life, at a date that is not recorded."
+      },
+      "vaella-fille-daeron": {
+        "noteFr": "Simple-minded; passed over at the Great Council of 233 AC."
+      },
+      "maegor-fils-aerion": {
+        "noteFr": "An infant passed over at the Great Council of 233 AC; what became of him is unknown."
+      },
+      "duncan": {
+        "noteFr": "The Prince of Dragonflies; gave up his claim to the crown (239 AC) in order to marry Jenny of Oldstones. Died at Summerhall (259)."
+      },
+      "daeron-fils-aegon-v": {
+        "noteFr": "Broke off his betrothal to Olenna Redwyne (246 AC) and never married."
+      },
+      "ormund-baratheon": {
+        "noteFr": "Died during the War of the Ninepenny Kings (260 AC)."
+      },
+      "robert-i-baratheon": {
+        "noteFr": "Not of House Targaryen: he is included to complete the table of successions. His claim descends through his grandmother, Rhaelle Targaryen. His mother, Cassana Estermont, is not shown in the tree, nor are his brothers Stannis and Renly."
+      },
+      "rhaegar": {
+        "noteFr": "Early printings of The World of Ice & Fire gave 282 AC as the year of his death, later corrected to 283."
+      },
+      "shaena": {
+        "noteFr": "Stillborn."
+      },
+      "daeron-fils-aerys-ii": {
+        "noteFr": "Born in 269 AC, he lived only half a year and died in 269 or 270."
+      },
+      "viserys-fils-aerys-ii": {
+        "noteFr": "Proclaimed himself Viserys, the Third of His Name, while in exile; he never reigned.",
+        "pretender.styledAs": "Viserys III"
+      },
+      "daenerys-fille-aerys-ii": {
+        "noteFr": "Queen in Meereen; she claims the Iron Throne without ever having sat upon it (as the books leave her in 300 AC).",
+        "pretender.styledAs": "Daenerys I"
+      },
+      "aegon-fils-rhaegar": {
+        "noteFr": "Born around the turn of the year 282 AC; killed in the Sack of King's Landing (283) according to the accepted account. In A Dance with Dragons, a young man known as Young Griff is put forward as this prince, saved by an exchange of infants: his identity is disputed, and the books published so far do not settle the question."
+      },
+      "drogo": {
+        "noteFr": "A Dothraki khal."
+      },
+      "rhaego": {
+        "noteFr": "Stillborn."
+      },
+      "daario-naharis": {
+        "noteFr": "A sellsword captain of the Stormcrows."
+      }
+    },
+    "unions": {
+      "u-aegon-peyredragon-elaena-peyredragon": {
+        "noteFr": "The text has them ruling together and refers to their son Maegon: the union is established through that parentage, while the ceremony itself goes undescribed."
+      },
+      "u-maegor-i-alys-harroway": {
+        "noteFr": "A second, polygamous marriage, solemnized by Visenya; it brought about Maegor's exile to Pentos."
+      },
+      "u-maegor-i-elinor-costayne": {
+        "noteFr": "One of the three Black Brides, wed in a single triple ceremony in 47 AC."
+      },
+      "u-maegor-i-jeyne-westerling": {
+        "noteFr": "One of the three Black Brides."
+      },
+      "u-alyssa-velaryon-rogar-baratheon": {
+        "noteFr": "The Golden Wedding, at the end of 49 AC."
+      },
+      "u-maegor-i-rhaena-fille-aenys-i": {
+        "noteFr": "The third of the Black Brides: Maegor compelled his niece, the widow of Prince Aegon, to marry him."
+      },
+      "u-jaehaerys-i-alysanne": {
+        "noteFr": "A secret marriage on Dragonstone (49 AC), followed by a second, public ceremony in King's Landing."
+      },
+      "u-aemon-fils-jaehaerys-i-jocelyn-baratheon": {
+        "noteFr": "Jocelyn was a half-sister of Jaehaerys I through their common mother, Alyssa Velaryon, and therefore her husband's half-aunt."
+      },
+      "u-rhaenyra-harwin-strong": {
+        "noteFr": "An affair attested by court gossip and by the chroniclers, which Rhaenyra never acknowledged."
+      },
+      "u-daemon-rhaenyra": {
+        "noteFr": "Uncle and niece."
+      },
+      "u-aemond-alys-rivers": {
+        "noteFr": "An affair established at Harrenhal. During the regency of Aegon III, Alys called herself Aemond's widow and presented a boy as their lawful son and rightful king: neither the marriage nor the child is confirmed, and the child, who is unnamed, is not shown in the tree."
+      },
+      "u-aegon-iii-jaehaera": {
+        "noteFr": "Cousins; the marriage produced no children (Jaehaera died in 133 AC)."
+      },
+      "u-baelor-i-daena": {
+        "noteFr": "Never consummated; set aside by the High Septon early in Baelor's reign (161 AC)."
+      },
+      "u-viserys-ii-larra-rogare": {
+        "noteFr": "Contracted in Lys while Viserys was held captive there; the year is not given."
+      },
+      "u-elaena-fille-aegon-iii-ronnel-penrose": {
+        "noteFr": "Made in the reign of Daeron II."
+      },
+      "u-elaena-fille-aegon-iii-michael-manwoody": {
+        "noteFr": "Her third marriage, after the death of Ronnel Penrose."
+      },
+      "u-daenerys-fille-aegon-iv-maron-martell": {
+        "noteFr": "This match sealed the joining of Dorne to the Seven Kingdoms."
+      },
+      "u-aegon-iv-daena": {
+        "noteFr": "First cousins; the affair took place while Daena was kept in confinement."
+      },
+      "u-brynden-rivers-shiera-seastar": {
+        "noteFr": "Half-brother and half-sister; she would not consent to marry him."
+      },
+      "u-daemon-i-blackfyre-rohanne-de-tyrosh": {
+        "noteFr": "Daemon was fourteen at the time; the year (184 AC) is inferred from his age."
+      },
+      "u-aegor-rivers-calla-blackfyre": {
+        "noteFr": "Calla was promised to Bittersteel before the first Blackfyre Rebellion. No text describes the wedding itself, though it is generally assumed to have taken place."
+      },
+      "u-daeron-ii-myriah-martell": {
+        "noteFr": "Arranged under Baelor I; the year is not given."
+      },
+      "u-valarr-kiera-de-tyrosh": {
+        "noteFr": "Two sons, both stillborn, who are not shown in the tree."
+      },
+      "u-aerys-i-aelinor-penrose": {
+        "noteFr": "Childless."
+      },
+      "u-aelor-aelora": {
+        "noteFr": "Twins married to one another."
+      },
+      "u-daeron-fils-maekar-i-kiera-de-tyrosh": {
+        "noteFr": "Kiera was the widow of Valarr, Daeron's cousin."
+      },
+      "u-aerion-fils-maekar-i-daenora": {
+        "noteFr": "First cousins."
+      },
+      "u-jaehaerys-ii-shaera": {
+        "noteFr": "A secret marriage, made against the wishes of Aegon V."
+      },
+      "u-aerys-ii-rhaella-fille-jaehaerys-ii": {
+        "noteFr": "Imposed by Jaehaerys II; the books do not give the year (Rhaegar was born in 259 AC)."
+      },
+      "u-rhaegar-lyanna-stark": {
+        "noteFr": "Rhaegar crowned her queen of love and beauty at Harrenhal (281 AC), then rode away with her the following year: an abduction in the eyes of the Starks and of Robert, a love freely returned in the view of others. The published books establish neither a marriage nor a child."
+      },
+      "u-daenerys-fille-aerys-ii-daario-naharis": {
+        "noteFr": "Recounted in A Dance with Dragons."
+      }
+    },
+    "parentage": {
+      "aelyx": {
+        "noteFr": "Mother unknown."
+      },
+      "baelon-peyredragon": {
+        "noteFr": "Mother unknown."
+      },
+      "daemion": {
+        "noteFr": "Mother unknown."
+      },
+      "aerion-peyredragon": {
+        "noteFr": "Mother unknown."
+      },
+      "orys-baratheon": {
+        "noteFr": "Rumour only: Orys is said to have been a bastard half-brother of Aegon I, sired by Lord Aerion. This was never confirmed; his mother is unknown."
+      },
+      "aenys-i": {
+        "noteFr": "A court rumour recorded in Fire & Blood held that the sickly infant had been fathered by one of the singers or mummers who surrounded Rhaenys. It led nowhere: the talk died away once he bonded with the dragon Quicksilver."
+      },
+      "addam-velaryon": {
+        "noteFr": "In the official account, their mother Marilda declared them the sons of Ser Laenor Velaryon. The fool Mushroom maintains that their father was Lord Corlys himself, who kept them out of sight for as long as his wife lived; Gyldayn considers this version the more plausible. The matter is unresolved."
+      },
+      "alyn-velaryon": {
+        "noteFr": "In the official account, their mother Marilda declared them the sons of Ser Laenor Velaryon. The fool Mushroom maintains that their father was Lord Corlys himself, who kept them out of sight for as long as his wife lived; Gyldayn considers this version the more plausible. The matter is unresolved."
+      },
+      "jacaerys-velaryon": {
+        "noteFr": "Lawful sons of Ser Laenor in the official account, upheld by Rhaenyra, Laenor, Corlys and King Viserys I (who threatened that anyone claiming otherwise would lose his tongue). The court suspected Ser Harwin Strong: all three boys had brown hair and brown eyes, whereas both their parents bore the looks of old Valyria. The charge was taken up by the greens and by the boys' Velaryon cousins. The sources never settle it."
+      },
+      "lucerys-velaryon": {
+        "noteFr": "Lawful sons of Ser Laenor in the official account, upheld by Rhaenyra, Laenor, Corlys and King Viserys I (who threatened that anyone claiming otherwise would lose his tongue). The court suspected Ser Harwin Strong: all three boys had brown hair and brown eyes, whereas both their parents bore the looks of old Valyria. The charge was taken up by the greens and by the boys' Velaryon cousins. The sources never settle it."
+      },
+      "joffrey-velaryon": {
+        "noteFr": "Lawful sons of Ser Laenor in the official account, upheld by Rhaenyra, Laenor, Corlys and King Viserys I (who threatened that anyone claiming otherwise would lose his tongue). The court suspected Ser Harwin Strong: all three boys had brown hair and brown eyes, whereas both their parents bore the looks of old Valyria. The charge was taken up by the greens and by the boys' Velaryon cousins. The sources never settle it."
+      },
+      "daeron-ii": {
+        "noteFr": "Son of Aegon IV by the official line of descent, which was never revoked. Late in his reign, Aegon IV let it be understood that Daeron had been born of Naerys and her brother Aemon the Dragonknight; according to Maester Kaeth (Lives of Four Kings), the king set the rumour going himself, and it gained ground through the accusation of Ser Morgil Hastwyck, whom Aemon slew in a trial by combat. The partisans of Daemon Blackfyre held Daeron to be baseborn. Neither proven nor disproven."
+      },
+      "viserys-plumm": {
+        "noteFr": "The posthumous son of Lord Ossifer in the official account. Rumour holds that Ossifer died before the marriage was consummated and that the child was fathered by Elaena's cousin, the future Aegon IV (The World of Ice & Fire, in its account of the sisters of Baelor I; A Feast for Crows, Cersei III). Never established."
+      },
+      "daemon-i-blackfyre": {
+        "noteFr": "Daena at first refused to name the father; Aegon IV acknowledged the child years later."
+      },
+      "daemon-iii-blackfyre": {
+        "noteFr": "Eldest son of Haegon; mother unknown."
+      },
+      "robert-i-baratheon": {
+        "noteFr": "His mother, Cassana Estermont, is not shown in the tree."
+      }
+    }
+  }
+}

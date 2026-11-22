@@ -1,0 +1,114 @@
+/*
+ * La feuille. La découpe (24 points, écart de 3 px au plus) et l'ombre portée sont deux
+ * calques : une ombre de boîte serait rognée par la découpe.
+ */
+.folio {
+  --decoupe: polygon(
+    0 2px, 12% 0, 27% 1.5px, 41% 0.5px, 58% 2.5px, 73% 0, 88% 1.5px, 100% 0.5px,
+    calc(100% - 2px) 18%, 100% 37%, calc(100% - 1px) 55%, calc(100% - 2.5px) 76%,
+    calc(100% - 1px) 100%, 86% calc(100% - 2px), 69% 100%, 52% calc(100% - 1.5px),
+    35% calc(100% - 0.5px), 19% calc(100% - 2.5px), 4% 100%, 0.5px calc(100% - 1px),
+    2px 80%, 0 61%, 1.5px 42%, 0.5px 21%
+  );
+
+  position: relative;
+  isolation: isolate;
+  max-inline-size: var(--v1-folio-max);
+}
+
+.folio[data-wide] {
+  max-inline-size: none;
+}
+
+.shadow {
+  display: none;
+}
+
+.sheet {
+  position: relative;
+  padding: var(--e6) 1.25rem var(--e5);
+  background-color: var(--velin);
+  /* Sur téléphone, pas de bords irréguliers : un simple pli d'ombre en haut. */
+  background-image: linear-gradient(to bottom, var(--velin-ombre), var(--velin) 1.1rem);
+}
+
+@media (min-width: 1024px) {
+  .shadow {
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    display: block;
+    background: var(--v1-ombre-portee);
+    clip-path: var(--decoupe);
+    transform: translate(7px, 9px);
+  }
+
+  .sheet {
+    padding: var(--v1-folio-pad);
+    padding-block-start: calc(var(--v1-folio-pad) + 1.5rem);
+    clip-path: var(--decoupe);
+    /* Le vélin n'est pas uniforme : la lumière de la pièce vient d'en bas à gauche. */
+    background-image:
+      radial-gradient(ellipse 80% 60% at 0% 100%, oklch(0.93 0.03 84 / 0.55), transparent 70%),
+      linear-gradient(100deg, oklch(0.86 0.04 80 / 0.5), transparent 6%, transparent 94%, oklch(0.86 0.04 80 / 0.35));
+  }
+}
+
+/* Grille de 10 colonnes. Par défaut, un enfant occupe la colonne du récit (1 à 7). */
+.grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  row-gap: 0;
+  align-items: start;
+}
+
+/* En une colonne, la marge passe sous le récit : un blanc les sépare, jamais rien. */
+.rangee {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  row-gap: var(--e4);
+}
+
+@media (min-width: 1024px) {
+  .grid {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+    column-gap: var(--gouttiere);
+  }
+
+  :where(.grid > *) {
+    grid-column: 1 / 8;
+  }
+
+  .recit {
+    grid-column: 1 / 8;
+  }
+
+  .marge {
+    grid-column: 8 / 11;
+  }
+
+  .pleine {
+    grid-column: 1 / -1;
+  }
+
+  .large {
+    grid-column: 1 / 10;
+  }
+
+  /* Rangée qui reprend la grille : récit à gauche, notes de marge à droite. */
+  .rangee {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: subgrid;
+    align-items: start;
+  }
+}
+
+.foliation {
+  margin-block-start: var(--e7);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--encre-pale);
+  font-variant-numeric: lining-nums;
+}

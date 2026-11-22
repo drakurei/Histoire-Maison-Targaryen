@@ -1,0 +1,113 @@
+/*
+ * Espace de comparaison, état provisoire. Trois lignes sur la grille de douze colonnes :
+ * le numéro de la version dans la voix de la lettrine, son nom dans celle de la chronique.
+ * Ni cadre ni filet : le blanc sépare.
+ */
+.page {
+  display: grid;
+  grid-template-columns: repeat(var(--colonnes), minmax(0, 1fr));
+  column-gap: var(--gouttiere);
+  align-content: start;
+  min-height: 100svh;
+  padding: var(--e8) var(--marge-page);
+}
+
+.head {
+  grid-column: 1 / span 7;
+}
+
+.title {
+  font-size: var(--t4);
+}
+
+.intro {
+  max-width: 52ch;
+  margin-block-start: var(--e5);
+}
+
+/* Glose : la première ligne garde la voix de son bloc, la traduction passe dessous. */
+.primary,
+.translation {
+  display: block;
+}
+
+.translation {
+  color: var(--cendre);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  font-style: italic;
+  font-weight: 400;
+  line-height: var(--il-cartel);
+  letter-spacing: 0;
+}
+
+.title .translation {
+  margin-block-start: var(--e3);
+  font-size: var(--t1);
+  line-height: 1.25;
+}
+
+/* La liste et ses lignes reprennent les colonnes de la page : les numéros s'alignent sur le titre. */
+.versions,
+.version {
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-column: 1 / -1;
+}
+
+.versions {
+  row-gap: var(--e6);
+  margin-block-start: var(--e8);
+}
+
+.version {
+  align-items: first baseline;
+}
+
+.numeral {
+  grid-column: 1 / span 2;
+  color: var(--sang);
+  font-family: var(--f-lettrine);
+  font-size: var(--t5);
+  font-weight: 500;
+  font-variant-numeric: lining-nums;
+  line-height: 0.8;
+}
+
+/* Le soulignement porte sur le nom seul : la glose n'est pas le lien. */
+.link {
+  grid-column: 3 / span 7;
+  justify-self: start;
+  min-height: var(--cible);
+  font-family: var(--f-chronique);
+  font-size: var(--t3);
+  font-weight: 500;
+  line-height: var(--il-titre);
+  letter-spacing: var(--approche-titre);
+  text-decoration: none;
+}
+
+.link .primary {
+  text-decoration-line: underline;
+  text-decoration-thickness: max(2px, 0.06em);
+  text-underline-offset: 0.16em;
+}
+
+.link:hover .primary {
+  text-decoration-thickness: max(3px, 0.1em);
+}
+
+.link .translation {
+  margin-block-start: var(--e2);
+}
+
+@media (max-width: 47.99rem) {
+  .head,
+  .link {
+    grid-column-end: -1;
+  }
+
+  .versions {
+    margin-block-start: var(--e7);
+  }
+}

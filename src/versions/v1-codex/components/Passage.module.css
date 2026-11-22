@@ -1,0 +1,31 @@
+/* Passage : récit et marge sur la même rangée de la grille du folio. */
+.passage {
+  display: grid;
+  gap: var(--e3);
+  margin-block: var(--e5);
+}
+
+.margin {
+  display: grid;
+  gap: var(--e3);
+}
+
+@media (min-width: 1024px) {
+  .passage {
+    grid-column: 1 / -1;
+    grid-template-columns: subgrid;
+    align-items: start;
+    gap: 0 var(--gouttiere);
+  }
+
+  .text {
+    grid-column: 1 / 8;
+  }
+
+  .margin {
+    grid-column: 8 / 11;
+    gap: var(--e4);
+    /* La marge commence à la hauteur de la première ligne du récit. */
+    padding-block-start: 0.3em;
+  }
+}

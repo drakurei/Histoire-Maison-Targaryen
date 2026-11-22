@@ -1,0 +1,200 @@
+/*
+ * Les annales. Sur écran large, l'année pend dans la marge gauche, à l'encre rouge, alignée
+ * sur la première ligne du titre ; les entrées d'une même année se suivent sous elle.
+ */
+.annals {
+  grid-column: 1 / -1;
+}
+
+.filters {
+  max-inline-size: 52rem;
+}
+
+.list {
+  display: grid;
+  row-gap: var(--e6);
+  margin: var(--e6) 0 0;
+}
+
+.group {
+  display: grid;
+  gap: var(--e2);
+}
+
+.year {
+  margin: 0;
+  font-family: var(--f-lettrine);
+  line-height: 0.9;
+  color: var(--v1-rubrique);
+  font-variant-numeric: lining-nums;
+}
+
+.number {
+  font-size: 2.3rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.approx,
+.era {
+  font-family: var(--f-musee);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.yearLoose {
+  margin: 0;
+  font-family: var(--f-recit);
+  font-size: 1rem;
+  font-style: italic;
+  line-height: 1.2;
+  color: var(--v1-rubrique);
+}
+
+.entries {
+  display: grid;
+  row-gap: var(--e5);
+  margin: 0;
+}
+
+.entry {
+  max-inline-size: var(--mesure);
+}
+
+.title {
+  margin: 0;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 540;
+  line-height: 1.08;
+  letter-spacing: -0.015em;
+  color: var(--v1-texte);
+  text-wrap: balance;
+}
+
+.link {
+  color: inherit;
+  text-decoration-color: var(--v1-trait);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.16em;
+}
+
+.link:hover {
+  text-decoration-color: var(--v1-rubrique);
+}
+
+.summary {
+  margin-block-start: var(--e2);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--v1-texte);
+  hyphens: auto;
+  font-variant-numeric: oldstyle-nums;
+}
+
+.consequence {
+  margin-block-start: var(--e2);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--v1-texte);
+  hyphens: auto;
+  font-variant-numeric: oldstyle-nums;
+}
+
+.consequenceLabel {
+  font-style: italic;
+  color: var(--v1-rubrique);
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--e1) var(--e4);
+  margin-block-start: var(--e2);
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  color: var(--v1-texte-2);
+}
+
+.span {
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.adaptation {
+  font-family: var(--f-recit);
+  font-style: italic;
+}
+
+.entry[data-continuity='adaptation'] .title {
+  font-style: italic;
+  color: var(--v1-texte-2);
+}
+
+.empty {
+  margin-inline: 0;
+}
+
+@media (min-width: 1024px) {
+  .annals {
+    display: grid;
+    grid-template-columns: subgrid;
+  }
+
+  .filters {
+    grid-column: 3 / 10;
+  }
+
+  .list,
+  .empty {
+    grid-column: 1 / -1;
+  }
+
+  .list {
+    grid-template-columns: subgrid;
+  }
+
+  .group {
+    grid-column: 1 / -1;
+    grid-template-columns: subgrid;
+    column-gap: var(--gouttiere);
+    align-items: start;
+  }
+
+  .year {
+    grid-column: 1 / 3;
+    padding-block-start: 0.05em;
+    text-align: end;
+  }
+
+  .yearLoose {
+    grid-column: 1 / 3;
+    padding-block-start: 0.3em;
+    text-align: end;
+  }
+
+  .era,
+  .approx {
+    display: block;
+    margin-block-start: 0.3rem;
+  }
+
+  .approx {
+    margin-block: 0 0.2rem;
+  }
+
+  .number {
+    font-size: clamp(2.4rem, 3vw, 3.2rem);
+  }
+
+  .entries {
+    grid-column: 3 / 10;
+  }
+
+  .empty {
+    grid-column: 3 / 10;
+  }
+}

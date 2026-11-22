@@ -1,0 +1,11 @@
+/* Le fil : une colonne qui défile avec la page, à la largeur du feuillet. */
+.thread {
+  position: relative;
+  inline-size: 100%;
+  min-block-size: 20rem;
+}
+
+.svg {
+  display: block;
+  overflow: visible;
+}

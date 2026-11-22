@@ -1,0 +1,187 @@
+/*
+ * Les dos de volumes. Le rayon est fixe ; seule la feuille défile.
+ * Chaque dos dépasse sous le bord de l'écran : le volume ouvert se lève de 12 px
+ * sans laisser voir son pied, comme un livre qu'on tire vers le haut de son rang.
+ */
+.spines {
+  position: fixed;
+  inset-block: calc(var(--v1-barre) + 1.125rem) 0;
+  inset-inline-start: 0;
+  z-index: 20;
+  display: none;
+  padding-inline-start: 0.5rem;
+}
+
+@media (min-width: 1024px) {
+  .spines {
+    display: block;
+  }
+}
+
+.row {
+  display: flex;
+  gap: 2px;
+  block-size: calc(100% + var(--v1-dos-tire) + 2px);
+  margin: 0;
+}
+
+.item {
+  inline-size: var(--v1-dos);
+  block-size: 100%;
+}
+
+.spine {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  block-size: 100%;
+  /* Le pied du dos passe sous le bord de l'écran de la hauteur du tirage : on le compense. */
+  padding-block: 0.85rem calc(1rem + var(--v1-dos-tire) + 2px);
+  color: var(--ivoire);
+  text-decoration: none;
+  /* Cuir : la teinte du volume, arrondie par l'ombre des deux bords, grenée. */
+  background-color: var(--cuir);
+  background-image:
+    linear-gradient(
+      90deg,
+      oklch(0.1 0.012 25 / 0.5),
+      oklch(0.93 0.025 85 / 0.07) 28%,
+      oklch(0.93 0.025 85 / 0.02) 52%,
+      oklch(0.1 0.012 25 / 0.42)
+    ),
+    var(--v1-grain);
+  background-size: 100% 100%, 280px 280px;
+  transition:
+    transform var(--d-geste-court) var(--c-expo),
+    background-color var(--d-geste-court) var(--c-expo);
+}
+
+.spine:hover,
+.spine:focus-visible {
+  transform: translateY(calc(-1 * var(--v1-dos-survol)));
+}
+
+.spine[data-open] {
+  --cuir: var(--sang);
+  transform: translateY(calc(-1 * var(--v1-dos-tire)));
+}
+
+.spine:focus-visible {
+  outline-offset: -4px;
+  outline-color: var(--ivoire);
+}
+
+.numeral {
+  font-family: var(--f-lettrine);
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  font-variant-numeric: lining-nums;
+}
+
+.spine[data-open] .numeral {
+  color: var(--or);
+}
+
+/* Nerf de reliure : une bande sombre et son reflet, à hauteur fixe. */
+.nerf {
+  flex: none;
+  inline-size: 100%;
+  block-size: 3px;
+  margin-block: 0.7rem;
+  background: oklch(0.1 0.012 25 / 0.55);
+  box-shadow: 0 1px 0 oklch(0.93 0.025 85 / 0.08);
+}
+
+.title {
+  /* Tous les signes couchés dans le même sens : l'apostrophe ne se redresse pas en point. */
+  text-orientation: sideways;
+  flex: 1 1 auto;
+  min-block-size: 0;
+  overflow: hidden;
+  writing-mode: vertical-rl;
+  font-family: var(--f-chronique);
+  font-size: var(--t0);
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.years {
+  /* Tous les signes couchés dans le même sens : l'apostrophe ne se redresse pas en point. */
+  text-orientation: sideways;
+  /* Hauteur fixe : les nerfs du bas s'alignent d'un dos à l'autre, quelle que soit la date. */
+  flex: none;
+  /* Écriture verticale : la hauteur physique est l'axe en ligne. */
+  height: 8.75rem;
+  overflow: hidden;
+  writing-mode: vertical-rl;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1;
+  color: oklch(0.8 0.02 70);
+  font-variant-numeric: lining-nums tabular-nums;
+  white-space: nowrap;
+}
+
+/* Entre 1024 et 1280 px : dos plus étroits, seul le volume ouvert garde son titre. */
+@media (min-width: 1024px) and (max-width: 1279.98px) {
+  .spines {
+    --v1-dos: 32px;
+  }
+
+  .spine:not([data-open]) .title {
+    visibility: hidden;
+  }
+
+  .numeral {
+    font-size: 1.05rem;
+  }
+}
+
+/* Étiquette de marge : un bout de vélin à droite du rayon, à hauteur du titre. */
+.slip {
+  position: absolute;
+  inset-block-start: 38%;
+  /* Au-delà des dos restants à droite : l'étiquette se pose sur la table, jamais sur un autre dos. */
+  inset-inline-start: calc(100% + var(--apres) * (var(--v1-dos) + 2px) + 0.75rem);
+  display: grid;
+  gap: 0.15rem;
+  inline-size: max-content;
+  max-inline-size: 15rem;
+  padding: 0.55rem 0.8rem 0.6rem;
+  background: var(--velin-ombre);
+  color: var(--encre);
+  box-shadow: 3px 4px 0 var(--v1-ombre-portee);
+  opacity: 0;
+  transform: translateX(-6px);
+  pointer-events: none;
+  transition:
+    opacity var(--d-geste-court) var(--c-expo),
+    transform var(--d-geste-court) var(--c-expo);
+}
+
+.spine:hover .slip,
+.spine:focus-visible .slip {
+  opacity: 1;
+  transform: none;
+}
+
+.slipTitle {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.slipYears {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.3;
+  color: var(--encre-pale);
+  font-variant-numeric: lining-nums;
+}

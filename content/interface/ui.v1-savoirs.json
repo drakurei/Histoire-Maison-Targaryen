@@ -1,0 +1,1042 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-04",
+  "note": "Version 1 (Le Codex) : langue, lexique, grammaire, expressions, sources, apprendre, parcours, à propos. Agents 04 (linguiste) et 06 (UX). Le valyrien de ces chaînes sera ajouté plus tard.",
+  "items": [
+    {
+      "key": "page.savoirs.status.label",
+      "fr": "Statut",
+      "en": "Status"
+    },
+    {
+      "key": "page.savoirs.status.atteste",
+      "fr": "Attestée",
+      "en": "Attested"
+    },
+    {
+      "key": "page.savoirs.status.derive",
+      "fr": "Dérivée",
+      "en": "Derived"
+    },
+    {
+      "key": "page.savoirs.status.editorial",
+      "fr": "Éditoriale",
+      "en": "Editorial"
+    },
+    {
+      "key": "page.savoirs.status.adaptation",
+      "fr": "Reprise",
+      "en": "Borrowed"
+    },
+    {
+      "key": "page.savoirs.status.atteste.def",
+      "fr": "La forme figure telle quelle dans les publications de David J. Peterson ou dans les dialogues des séries.",
+      "en": "The form appears as it stands in David J. Peterson’s published material or in the dialogue of the series."
+    },
+    {
+      "key": "page.savoirs.status.derive.def",
+      "fr": "La forme est construite par les règles publiées (déclinaison, conjugaison) à partir de mots attestés. La grammaire la garantit ; aucun texte ne la montre.",
+      "en": "The form is built by the published rules (declension, conjugation) from attested words. The grammar vouches for it; no text shows it."
+    },
+    {
+      "key": "page.savoirs.status.editorial.def",
+      "fr": "Aucune forme n’existe : la bibliothèque en compose une à partir d’éléments attestés. Plausible, signalée, révisable ; sa note dit où elle s’écarte des sources.",
+      "en": "No form exists, so the library composes one from attested elements. Plausible, flagged, open to revision; its note says where it departs from the sources."
+    },
+    {
+      "key": "page.savoirs.status.adaptation.def",
+      "fr": "Faute de forme valyrienne confirmée, le nom garde la graphie de l’auteur ou des séries. On évite de le décliner.",
+      "en": "With no confirmed Valyrian form, the name keeps the spelling of the author or the series. It is best left undeclined."
+    },
+    {
+      "key": "page.language.lead",
+      "fr": "Le haut valyrien était la langue de la Possession de Valyria, la cité des seigneurs dragons. Après le Fléau, il ne vit plus que dans les livres, les formules, les noms, et dans les parlers abâtardis des Cités libres. La Maison Targaryen en vient : ses noms et ceux de ses dragons sont valyriens.",
+      "en": "High Valyrian was the tongue of the Valyrian Freehold, the city of the dragonlords. After the Doom it lives on only in books, formulas and names, and in the bastard dialects of the Free Cities. House Targaryen comes from it: its names, and those of its dragons, are Valyrian."
+    },
+    {
+      "key": "page.language.origin.title",
+      "fr": "D’où vient cette langue",
+      "en": "Where the language comes from"
+    },
+    {
+      "key": "page.language.origin.martin",
+      "fr": "George R. R. Martin n’en a écrit que quelques mots : deux formules, valar morghulis et valar dohaeris, un ordre donné aux dragons, dracarys, et des noms. Il suffisait aux romans que la langue existe ; ils ne la font presque jamais entendre.",
+      "en": "George R. R. Martin wrote only a few words of it: two formulas, valar morghulis and valar dohaeris, a command given to dragons, dracarys, and names. The novels needed the language to exist; they almost never let it be heard."
+    },
+    {
+      "key": "page.language.origin.peterson",
+      "fr": "Pour la troisième saison de Game of Thrones, diffusée en 2013, le linguiste David J. Peterson a fait de ces fragments une langue entière : ses sons, sa grammaire, son vocabulaire. Il l’a enrichie depuis, notamment pour House of the Dragon, et en publie les formes au fil de son travail.",
+      "en": "For the third season of Game of Thrones, broadcast in 2013, the linguist David J. Peterson turned these fragments into a whole language: its sounds, its grammar, its vocabulary. He has enlarged it since, notably for House of the Dragon, and publishes its forms as his work goes on."
+    },
+    {
+      "key": "page.language.origin.shape",
+      "fr": "C’est une langue à flexion : la fin du mot dit sa fonction. Le nom porte l’un de quatre genres, l’un de quatre nombres et l’un de huit cas ; le verbe se conjugue en personne, en temps et en mode. La grammaire en donne le cadre.",
+      "en": "It is an inflected language: the end of a word tells its role. A noun carries one of four genders, one of four numbers and one of eight cases; a verb inflects for person, tense and mood. The grammar sets out the framework."
+    },
+    {
+      "key": "page.language.note.martin",
+      "fr": "Graphie de Martin : valar morghulis. Le macron de morghūlis appartient à la transcription de Peterson.",
+      "en": "Martin’s spelling: valar morghulis. The macron in morghūlis belongs to Peterson’s transcription."
+    },
+    {
+      "key": "page.language.note.peterson",
+      "fr": "Peterson avait déjà construit le dothraki pour la première saison, en 2011.",
+      "en": "Peterson had already built Dothraki for the first season, in 2011."
+    },
+    {
+      "key": "page.language.note.refs",
+      "fr": "Les formes citées renvoient au wiki qui recense les publications de Peterson. Chaque notice du lexique donne ses liens.",
+      "en": "The forms cited refer to the wiki that records Peterson’s published material. Each lexicon entry gives its links."
+    },
+    {
+      "key": "page.language.specimen.caption",
+      "fr": "La formule la plus connue, analysée mot à mot. Le collectif commande l’accord au singulier et l’aoriste dit les vérités générales : littéralement « tous les hommes meurent ». L’obligation n’est portée par aucun mot.",
+      "en": "The best-known formula, analysed word by word. The collective takes a singular verb and the aorist states general truths: literally “all men die”. No word carries the obligation."
+    },
+    {
+      "key": "page.language.specimen.valar.lemma",
+      "fr": "vala, « homme »",
+      "en": "vala, “man”"
+    },
+    {
+      "key": "page.language.specimen.valar.grammar",
+      "fr": "nominatif collectif",
+      "en": "collective nominative"
+    },
+    {
+      "key": "page.language.specimen.valar.sense",
+      "fr": "tous les hommes",
+      "en": "all men"
+    },
+    {
+      "key": "page.language.specimen.morghulis.lemma",
+      "fr": "morghūljagon, « mourir »",
+      "en": "morghūljagon, “to die”"
+    },
+    {
+      "key": "page.language.specimen.morghulis.grammar",
+      "fr": "aoriste actif, 3e personne du singulier",
+      "en": "active aorist, third person singular"
+    },
+    {
+      "key": "page.language.specimen.morghulis.sense",
+      "fr": "meurent",
+      "en": "die"
+    },
+    {
+      "key": "page.language.wall.caption",
+      "fr": "Les {n} formes du lexique, dans l’ordre alphabétique, chacune selon son statut. Chaque forme ouvre sa notice.",
+      "en": "The {n} forms of the lexicon, in alphabetical order, each set according to its status. Each form opens its entry."
+    },
+    {
+      "key": "page.language.wall.label",
+      "fr": "Toutes les formes du lexique",
+      "en": "Every form in the lexicon"
+    },
+    {
+      "key": "page.language.forbid.title",
+      "fr": "Ce que la bibliothèque s’interdit",
+      "en": "What the library will not do"
+    },
+    {
+      "key": "page.language.forbid.script.head",
+      "fr": "Aucune écriture inventée.",
+      "en": "No invented script."
+    },
+    {
+      "key": "page.language.forbid.script.body",
+      "fr": "Les livres ne donnent aucun alphabet valyrien, et la bibliothèque n’en dessine pas. Le valyrien s’écrit ici en lettres latines, avec les macrons de la transcription de Peterson, qui marquent les voyelles longues : ā, ē, ī, ō, ū, ȳ.",
+      "en": "The books give no Valyrian alphabet, and the library draws none. Valyrian is written here in Latin letters, with the macrons of Peterson’s transcription, which mark long vowels: ā, ē, ī, ō, ū, ȳ."
+    },
+    {
+      "key": "page.language.forbid.words.head",
+      "fr": "Aucun mot forgé en silence.",
+      "en": "No word coined in silence."
+    },
+    {
+      "key": "page.language.forbid.words.body",
+      "fr": "Quand un mot manque, la bibliothèque compose une forme à partir d’éléments attestés et la déclare éditoriale, avec une note qui dit où elle s’écarte des sources. Elle ne crée aucune racine.",
+      "en": "When a word is missing, the library composes a form from attested elements and declares it editorial, with a note on where it departs from the sources. It creates no new root."
+    },
+    {
+      "key": "page.language.forbid.prose.head",
+      "fr": "Le récit reste dans votre langue.",
+      "en": "The narrative stays in your language."
+    },
+    {
+      "key": "page.language.forbid.prose.body",
+      "fr": "Le vocabulaire publié ne suffit pas à raconter l’histoire sans inventer la langue. Le valyrien nomme les salles, les volumes et les formules ; l’histoire se lit en français ou en anglais.",
+      "en": "The published vocabulary cannot tell the history without inventing the language. Valyrian names the rooms, the volumes and the formulas; the history is read in French or in English."
+    },
+    {
+      "key": "page.language.status.title",
+      "fr": "Lire les statuts",
+      "en": "Reading the statuses"
+    },
+    {
+      "key": "page.language.status.intro",
+      "fr": "Chaque forme valyrienne porte une marque carrée. Comme pour la certitude des faits, moins il y a d’encre, moins la forme est sûre.",
+      "en": "Every Valyrian form carries a square mark. As with the certainty of facts, the less ink, the less sure the form."
+    },
+    {
+      "key": "page.language.status.count",
+      "fr": "{n} formes dans le lexique",
+      "en": "{n} forms in the lexicon"
+    },
+    {
+      "key": "page.language.status.count.one",
+      "fr": "Une forme dans le lexique",
+      "en": "One form in the lexicon"
+    },
+    {
+      "key": "page.language.status.example",
+      "fr": "Par exemple",
+      "en": "For instance"
+    },
+    {
+      "key": "page.language.rooms.title",
+      "fr": "Les trois salles",
+      "en": "The three rooms"
+    },
+    {
+      "key": "page.language.rooms.lexicon",
+      "fr": "{n} formes, par thème et par statut, chacune avec la note qui la justifie.",
+      "en": "{n} forms, by theme and by status, each with the note that justifies it."
+    },
+    {
+      "key": "page.language.rooms.grammar",
+      "fr": "Le cadre de la langue : genres, nombres, cas. Puis les leçons, dans l’ordre.",
+      "en": "The framework of the language: genders, numbers, cases. Then the lessons, in order."
+    },
+    {
+      "key": "page.language.rooms.phrases",
+      "fr": "Les formules, mot à mot, avec leur sens et leur contexte.",
+      "en": "The formulas, word for word, with their meaning and context."
+    },
+    {
+      "key": "page.language.rooms.pending",
+      "fr": "En préparation",
+      "en": "In preparation"
+    },
+    {
+      "key": "page.lexicon.lead",
+      "fr": "Les mots qu’emploie la bibliothèque, chacun avec sa forme, son sens, son statut et la note qui le justifie. Dans la recherche, les macrons sont facultatifs : « zaldrizes » trouve « zaldrīzes ».",
+      "en": "The words the library uses, each with its form, its meaning, its status and the note that justifies it. Macrons are optional in the search: “zaldrizes” finds “zaldrīzes”."
+    },
+    {
+      "key": "page.lexicon.tally.caption",
+      "fr": "Les {n} formes, un carré par forme, rangées par statut. Celles que les filtres écartent pâlissent.",
+      "en": "The {n} forms, one square per form, ranked by status. Those the filters set aside fade."
+    },
+    {
+      "key": "page.lexicon.filter.label",
+      "fr": "Filtrer le lexique",
+      "en": "Filter the lexicon"
+    },
+    {
+      "key": "page.lexicon.filter.theme",
+      "fr": "Thème",
+      "en": "Theme"
+    },
+    {
+      "key": "page.lexicon.filter.status",
+      "fr": "Statut",
+      "en": "Status"
+    },
+    {
+      "key": "page.lexicon.col.form",
+      "fr": "Forme",
+      "en": "Form"
+    },
+    {
+      "key": "page.lexicon.col.meaning",
+      "fr": "Sens",
+      "en": "Meaning"
+    },
+    {
+      "key": "page.lexicon.col.theme",
+      "fr": "Thème",
+      "en": "Theme"
+    },
+    {
+      "key": "page.lexicon.entry.grammar",
+      "fr": "Grammaire",
+      "en": "Grammar"
+    },
+    {
+      "key": "page.lexicon.entry.note",
+      "fr": "Note",
+      "en": "Note"
+    },
+    {
+      "key": "page.lexicon.entry.refs",
+      "fr": "Références",
+      "en": "References"
+    },
+    {
+      "key": "page.lexicon.entry.unverified",
+      "fr": "Forme encore à vérifier.",
+      "en": "Form still to be checked."
+    },
+    {
+      "key": "page.lexicon.entry.link",
+      "fr": "Lien vers cette notice",
+      "en": "Link to this entry"
+    },
+    {
+      "key": "page.lexicon.empty.title",
+      "fr": "Aucun mot ne répond à ces filtres.",
+      "en": "No word matches these filters."
+    },
+    {
+      "key": "page.lexicon.empty.body",
+      "fr": "Retirez un filtre, ou cherchez un seul mot, sans macron.",
+      "en": "Remove a filter, or search for a single word, without macrons."
+    },
+    {
+      "key": "page.lexicon.none.title",
+      "fr": "Le lexique est vide pour l’instant.",
+      "en": "The lexicon is empty for now."
+    },
+    {
+      "key": "page.lexicon.none.body",
+      "fr": "Les notices paraîtront ici dès qu’elles seront vérifiées.",
+      "en": "Entries will appear here once they have been checked."
+    },
+    {
+      "key": "page.lexicon.theme.interface",
+      "fr": "Mots de la bibliothèque",
+      "en": "Words of the library"
+    },
+    {
+      "key": "page.lexicon.theme.formules",
+      "fr": "Formules",
+      "en": "Formulas"
+    },
+    {
+      "key": "page.lexicon.theme.temps",
+      "fr": "Temps et volumes",
+      "en": "Time and volumes"
+    },
+    {
+      "key": "page.lexicon.theme.noms",
+      "fr": "Noms propres",
+      "en": "Proper names"
+    },
+    {
+      "key": "page.lexicon.theme.parente",
+      "fr": "Parenté",
+      "en": "Kinship"
+    },
+    {
+      "key": "page.lexicon.theme.royaute",
+      "fr": "Royauté",
+      "en": "Kingship"
+    },
+    {
+      "key": "page.lexicon.theme.guerre",
+      "fr": "Guerre",
+      "en": "War"
+    },
+    {
+      "key": "page.lexicon.theme.feu",
+      "fr": "Feu",
+      "en": "Fire"
+    },
+    {
+      "key": "page.lexicon.theme.nature",
+      "fr": "Nature",
+      "en": "Nature"
+    },
+    {
+      "key": "page.lexicon.theme.corps",
+      "fr": "Corps",
+      "en": "Body"
+    },
+    {
+      "key": "page.lexicon.theme.nombres",
+      "fr": "Nombres",
+      "en": "Numbers"
+    },
+    {
+      "key": "page.grammar.lead",
+      "fr": "La grammaire du haut valyrien tient en peu de catégories, mais chacune se marque à la fin du mot. Voici d’abord le cadre du nom, tel que Peterson l’a décrit, puis les leçons.",
+      "en": "High Valyrian grammar rests on few categories, but each is marked at the end of the word. First the framework of the noun, as Peterson has described it, then the lessons."
+    },
+    {
+      "key": "page.grammar.frame.title",
+      "fr": "Le cadre du nom",
+      "en": "The framework of the noun"
+    },
+    {
+      "key": "page.grammar.frame.caption",
+      "fr": "Les catégories du nom. Sous chaque genre, les mots du lexique dont la déclinaison est documentée.",
+      "en": "The categories of the noun. Under each gender, the lexicon words whose declension is documented."
+    },
+    {
+      "key": "page.grammar.genders.title",
+      "fr": "Quatre genres",
+      "en": "Four genders"
+    },
+    {
+      "key": "page.grammar.genders.note",
+      "fr": "Le genre ne suit pas le sexe : kepa, « père », est lunaire, comme muña, « mère ».",
+      "en": "Gender does not follow sex: kepa, “father”, is lunar, like muña, “mother”."
+    },
+    {
+      "key": "page.grammar.gender.lunaire",
+      "fr": "lunaire",
+      "en": "lunar"
+    },
+    {
+      "key": "page.grammar.gender.solaire",
+      "fr": "solaire",
+      "en": "solar"
+    },
+    {
+      "key": "page.grammar.gender.terrestre",
+      "fr": "terrestre",
+      "en": "terrestrial"
+    },
+    {
+      "key": "page.grammar.gender.aquatique",
+      "fr": "aquatique",
+      "en": "aquatic"
+    },
+    {
+      "key": "page.grammar.gender.none",
+      "fr": "aucun mot documenté dans le lexique",
+      "en": "no documented word in the lexicon"
+    },
+    {
+      "key": "page.grammar.decl",
+      "fr": "décl. {n}",
+      "en": "decl. {n}"
+    },
+    {
+      "key": "page.grammar.numbers.title",
+      "fr": "Quatre nombres",
+      "en": "Four numbers"
+    },
+    {
+      "key": "page.grammar.number.singulier",
+      "fr": "singulier",
+      "en": "singular"
+    },
+    {
+      "key": "page.grammar.number.singulier.role",
+      "fr": "un seul",
+      "en": "one"
+    },
+    {
+      "key": "page.grammar.number.pluriel",
+      "fr": "pluriel",
+      "en": "plural"
+    },
+    {
+      "key": "page.grammar.number.pluriel.role",
+      "fr": "plusieurs",
+      "en": "many"
+    },
+    {
+      "key": "page.grammar.number.paucal",
+      "fr": "paucal",
+      "en": "paucal"
+    },
+    {
+      "key": "page.grammar.number.paucal.role",
+      "fr": "quelques-uns",
+      "en": "a few"
+    },
+    {
+      "key": "page.grammar.number.collectif",
+      "fr": "collectif",
+      "en": "collective"
+    },
+    {
+      "key": "page.grammar.number.collectif.role",
+      "fr": "tous, pris ensemble",
+      "en": "all, taken together"
+    },
+    {
+      "key": "page.grammar.numbers.note",
+      "fr": "Le collectif désigne l’ensemble : valar, « tous les hommes ».",
+      "en": "The collective names the whole: valar, “all men”."
+    },
+    {
+      "key": "page.grammar.cases.title",
+      "fr": "Huit cas",
+      "en": "Eight cases"
+    },
+    {
+      "key": "page.grammar.case.nominatif",
+      "fr": "nominatif",
+      "en": "nominative"
+    },
+    {
+      "key": "page.grammar.case.nominatif.role",
+      "fr": "le sujet",
+      "en": "the subject"
+    },
+    {
+      "key": "page.grammar.case.accusatif",
+      "fr": "accusatif",
+      "en": "accusative"
+    },
+    {
+      "key": "page.grammar.case.accusatif.role",
+      "fr": "l’objet",
+      "en": "the object"
+    },
+    {
+      "key": "page.grammar.case.genitif",
+      "fr": "génitif",
+      "en": "genitive"
+    },
+    {
+      "key": "page.grammar.case.genitif.role",
+      "fr": "le possesseur : « de »",
+      "en": "the possessor: “of”"
+    },
+    {
+      "key": "page.grammar.case.datif",
+      "fr": "datif",
+      "en": "dative"
+    },
+    {
+      "key": "page.grammar.case.datif.role",
+      "fr": "le destinataire : « à »",
+      "en": "the recipient: “to”"
+    },
+    {
+      "key": "page.grammar.case.locatif",
+      "fr": "locatif",
+      "en": "locative"
+    },
+    {
+      "key": "page.grammar.case.locatif.role",
+      "fr": "le lieu : « dans, en »",
+      "en": "the place: “in, at”"
+    },
+    {
+      "key": "page.grammar.case.instrumental",
+      "fr": "instrumental",
+      "en": "instrumental"
+    },
+    {
+      "key": "page.grammar.case.instrumental.role",
+      "fr": "le moyen : « par »",
+      "en": "the means: “by”"
+    },
+    {
+      "key": "page.grammar.case.comitatif",
+      "fr": "comitatif",
+      "en": "comitative"
+    },
+    {
+      "key": "page.grammar.case.comitatif.role",
+      "fr": "la compagnie : « avec »",
+      "en": "company: “with”"
+    },
+    {
+      "key": "page.grammar.case.vocatif",
+      "fr": "vocatif",
+      "en": "vocative"
+    },
+    {
+      "key": "page.grammar.case.vocatif.role",
+      "fr": "l’appel",
+      "en": "address"
+    },
+    {
+      "key": "page.grammar.lessons.title",
+      "fr": "Les leçons",
+      "en": "The lessons"
+    },
+    {
+      "key": "page.grammar.lesson.number",
+      "fr": "Leçon {n}",
+      "en": "Lesson {n}"
+    },
+    {
+      "key": "page.grammar.lessons.empty.title",
+      "fr": "Les leçons sont en cours de rédaction.",
+      "en": "The lessons are being written."
+    },
+    {
+      "key": "page.grammar.lessons.empty.body",
+      "fr": "Elles paraîtront ici dans l’ordre de lecture, avec leurs tableaux. En attendant, chaque notice du lexique décrit la flexion de son mot.",
+      "en": "They will appear here in reading order, with their tables. Meanwhile, each lexicon entry describes how its word inflects."
+    },
+    {
+      "key": "page.grammar.lessons.empty.action",
+      "fr": "Ouvrir le lexique",
+      "en": "Open the lexicon"
+    },
+    {
+      "key": "page.phrases.lead",
+      "fr": "Les formules du haut valyrien, telles que les livres et les séries les font dire, puis mot à mot, avec ce qu’elles veulent dire et le moment où on les prononce.",
+      "en": "The formulas of High Valyrian, as the books and the series have them spoken, then word for word, with what they mean and when they are said."
+    },
+    {
+      "key": "page.phrases.literal",
+      "fr": "Mot à mot",
+      "en": "Word for word"
+    },
+    {
+      "key": "page.phrases.meaning",
+      "fr": "Sens",
+      "en": "Meaning"
+    },
+    {
+      "key": "page.phrases.context",
+      "fr": "Contexte",
+      "en": "Context"
+    },
+    {
+      "key": "page.phrases.analysis",
+      "fr": "Analyse",
+      "en": "Analysis"
+    },
+    {
+      "key": "page.phrases.interim.title",
+      "fr": "Le recueil commenté est en préparation.",
+      "en": "The annotated collection is in preparation."
+    },
+    {
+      "key": "page.phrases.interim.body",
+      "fr": "En attendant, voici les formules que le lexique documente déjà, avec leur analyse.",
+      "en": "Meanwhile, here are the formulas the lexicon already documents, with their analysis."
+    },
+    {
+      "key": "page.phrases.empty.title",
+      "fr": "Aucune formule pour l’instant.",
+      "en": "No formula yet."
+    },
+    {
+      "key": "page.phrases.empty.body",
+      "fr": "Les formules paraîtront ici dès qu’elles seront vérifiées.",
+      "en": "Formulas will appear here once they have been checked."
+    },
+    {
+      "key": "page.sources.lead",
+      "fr": "Chaque fait de cette bibliothèque renvoie à un ouvrage. Les ouvrages ne se valent pas : certains racontent ce qu’un personnage voit, d’autres compilent longtemps après des témoins partiaux, d’autres encore sont des adaptations. Voici comment on les lit.",
+      "en": "Every fact in this library points to a work. The works are not equal: some tell what a character sees, others gather biased witnesses long after the events, others again are adaptations. Here is how they are read."
+    },
+    {
+      "key": "page.sources.levels.title",
+      "fr": "Cinq degrés de certitude",
+      "en": "Five degrees of certainty"
+    },
+    {
+      "key": "page.sources.levels.intro",
+      "fr": "Chaque événement, chaque dragon, chaque bataille porte l’une de ces marques, partout la même. Moins il y a d’encre, moins le fait est sûr.",
+      "en": "Every event, dragon and battle carries one of these marks, the same everywhere. The less ink, the less sure the fact."
+    },
+    {
+      "key": "page.sources.levels.caption",
+      "fr": "Les {n} événements de la chronique, un signe par événement, rangés par degré de certitude.",
+      "en": "The {n} events of the chronicle, one sign per event, ranked by degree of certainty."
+    },
+    {
+      "key": "page.sources.levels.count",
+      "fr": "{n} événements",
+      "en": "{n} events"
+    },
+    {
+      "key": "page.sources.levels.count.one",
+      "fr": "un événement",
+      "en": "one event"
+    },
+    {
+      "key": "page.sources.register.title",
+      "fr": "Le registre",
+      "en": "The register"
+    },
+    {
+      "key": "page.sources.register.intro",
+      "fr": "Les ouvrages des livres, classés selon la nature de leur témoignage. Le nombre de renvois compte les événements, dragons, guerres et batailles qui les citent.",
+      "en": "The works of the books, sorted by the nature of their testimony. The count of references covers the events, dragons, wars and battles that cite them."
+    },
+    {
+      "key": "page.sources.entry.cited",
+      "fr": "{n} renvois",
+      "en": "{n} references"
+    },
+    {
+      "key": "page.sources.entry.cited.one",
+      "fr": "un renvoi",
+      "en": "one reference"
+    },
+    {
+      "key": "page.sources.entry.cited.none",
+      "fr": "aucun renvoi direct",
+      "en": "no direct reference"
+    },
+    {
+      "key": "page.sources.entry.members",
+      "fr": "Réunit",
+      "en": "Collects"
+    },
+    {
+      "key": "page.sources.entry.titleFr",
+      "fr": "en français : {t}",
+      "en": "in French: {t}"
+    },
+    {
+      "key": "page.sources.entry.span",
+      "fr": "{from} à {to}",
+      "en": "{from} to {to}"
+    },
+    {
+      "key": "page.sources.entry.since",
+      "fr": "depuis {from}",
+      "en": "since {from}"
+    },
+    {
+      "key": "page.sources.type.livre",
+      "fr": "roman",
+      "en": "novel"
+    },
+    {
+      "key": "page.sources.type.nouvelle",
+      "fr": "nouvelle",
+      "en": "novella"
+    },
+    {
+      "key": "page.sources.type.encyclopedie",
+      "fr": "histoire illustrée",
+      "en": "illustrated history"
+    },
+    {
+      "key": "page.sources.type.serie",
+      "fr": "série télévisée",
+      "en": "television series"
+    },
+    {
+      "key": "page.sources.type.outil",
+      "fr": "outil de vérification",
+      "en": "reference tool"
+    },
+    {
+      "key": "page.sources.separate.title",
+      "fr": "Livres et adaptation, tenus séparés",
+      "en": "Books and adaptation, kept apart"
+    },
+    {
+      "key": "page.sources.separate.body",
+      "fr": "Les séries changent des noms, des âges, des morts. La bibliothèque les cite, jamais pour établir un fait des livres : ce qui n’existe qu’à l’écran porte la marque de l’adaptation et reste dans des blocs à part. Quand les livres se taisent, l’écran ne parle pas à leur place.",
+      "en": "The series change names, ages, deaths. The library cites them, never to establish a fact of the books: what exists only on screen carries the adaptation mark and stays in separate blocks. When the books are silent, the screen does not speak in their place."
+    },
+    {
+      "key": "page.sources.separate.caption",
+      "fr": "Les ouvrages dans l’ordre de leur parution. Au-dessus du trait, les livres ; au-dessous, les séries.",
+      "en": "The works in order of publication. Above the line, the books; below it, the series."
+    },
+    {
+      "key": "page.sources.separate.books",
+      "fr": "livres",
+      "en": "books"
+    },
+    {
+      "key": "page.sources.separate.screen",
+      "fr": "écran",
+      "en": "screen"
+    },
+    {
+      "key": "page.sources.separate.figure",
+      "fr": "Frise des parutions, de {from} à {to}",
+      "en": "Publication timeline, from {from} to {to}"
+    },
+    {
+      "key": "page.learn.lead",
+      "fr": "Cinq parcours, à suivre dans l’ordre. Chacun traverse les salles de la bibliothèque, dit ce qu’il faut en retenir, puis interroge la mémoire, une question à la fois.",
+      "en": "Five paths, to be followed in order. Each one crosses the rooms of the library, says what to remember, then tests the memory, one question at a time."
+    },
+    {
+      "key": "page.learn.meta",
+      "fr": "{steps} étapes, {questions} questions, environ {minutes} minutes de lecture",
+      "en": "{steps} steps, {questions} questions, about {minutes} minutes of reading"
+    },
+    {
+      "key": "page.learn.progress.none",
+      "fr": "Pas encore commencé",
+      "en": "Not started yet"
+    },
+    {
+      "key": "page.learn.progress.ongoing",
+      "fr": "Questionnaire commencé : question {n} sur {total}",
+      "en": "Questions under way: question {n} of {total}"
+    },
+    {
+      "key": "page.learn.progress.done",
+      "fr": "Questionnaire achevé : {correct} réponses justes sur {total}",
+      "en": "Questions completed: {correct} correct answers out of {total}"
+    },
+    {
+      "key": "page.learn.empty.title",
+      "fr": "Les parcours sont en cours de rédaction.",
+      "en": "The paths are being written."
+    },
+    {
+      "key": "page.learn.empty.body",
+      "fr": "Ils paraîtront ici, numérotés dans l’ordre où les lire. En attendant, la chronique se lit d’un volume à l’autre.",
+      "en": "They will appear here, numbered in the order in which to read them. Meanwhile, the chronicle can be read from one volume to the next."
+    },
+    {
+      "key": "page.learn.volumes.title",
+      "fr": "Lire la chronique dans l’ordre",
+      "en": "Reading the chronicle in order"
+    },
+    {
+      "key": "page.path.number",
+      "fr": "Parcours {n}",
+      "en": "Path {n}"
+    },
+    {
+      "key": "page.path.steps.title",
+      "fr": "Les étapes",
+      "en": "The steps"
+    },
+    {
+      "key": "page.path.retain",
+      "fr": "À retenir",
+      "en": "To remember"
+    },
+    {
+      "key": "page.path.links",
+      "fr": "Dans la bibliothèque",
+      "en": "In the library"
+    },
+    {
+      "key": "page.path.quiz.title",
+      "fr": "Questions",
+      "en": "Questions"
+    },
+    {
+      "key": "page.path.quiz.intro",
+      "fr": "{n} questions, une à la fois. Chaque réponse est expliquée et sourcée. La progression reste sur cet appareil.",
+      "en": "{n} questions, one at a time. Each answer is explained and sourced. Progress stays on this device."
+    },
+    {
+      "key": "page.path.quiz.counter",
+      "fr": "Question {n} sur {total}",
+      "en": "Question {n} of {total}"
+    },
+    {
+      "key": "page.path.quiz.round",
+      "fr": "Reprise des erreurs de la manche précédente",
+      "en": "Going over the mistakes of the previous round"
+    },
+    {
+      "key": "page.path.quiz.choices",
+      "fr": "Réponses possibles",
+      "en": "Possible answers"
+    },
+    {
+      "key": "page.path.quiz.right",
+      "fr": "Juste.",
+      "en": "Correct."
+    },
+    {
+      "key": "page.path.quiz.wrong",
+      "fr": "Ce n’est pas cela. La réponse était : {a}.",
+      "en": "Not quite. The answer was: {a}."
+    },
+    {
+      "key": "page.path.quiz.yours",
+      "fr": "votre réponse",
+      "en": "your answer"
+    },
+    {
+      "key": "page.path.quiz.correct",
+      "fr": "la bonne réponse",
+      "en": "the right answer"
+    },
+    {
+      "key": "page.path.quiz.next",
+      "fr": "Question suivante",
+      "en": "Next question"
+    },
+    {
+      "key": "page.path.quiz.finish",
+      "fr": "Voir le bilan",
+      "en": "See the summary"
+    },
+    {
+      "key": "page.path.quiz.result",
+      "fr": "{correct} réponses justes sur {total}.",
+      "en": "{correct} correct answers out of {total}."
+    },
+    {
+      "key": "page.path.quiz.perfect",
+      "fr": "Aucune erreur à revoir.",
+      "en": "No mistakes to go over."
+    },
+    {
+      "key": "page.path.quiz.mistakes",
+      "fr": "À revoir",
+      "en": "To go over"
+    },
+    {
+      "key": "page.path.quiz.given",
+      "fr": "Votre réponse : {a}",
+      "en": "Your answer: {a}"
+    },
+    {
+      "key": "page.path.quiz.answer",
+      "fr": "Réponse : {a}",
+      "en": "Answer: {a}"
+    },
+    {
+      "key": "page.path.quiz.retryMistakes",
+      "fr": "Reprendre les erreurs",
+      "en": "Retry the mistakes"
+    },
+    {
+      "key": "page.path.quiz.restart",
+      "fr": "Tout recommencer",
+      "en": "Start again"
+    },
+    {
+      "key": "page.path.quiz.empty",
+      "fr": "Les questions de ce parcours ne sont pas encore rédigées.",
+      "en": "The questions for this path have not been written yet."
+    },
+    {
+      "key": "page.path.next",
+      "fr": "Parcours suivant",
+      "en": "Next path"
+    },
+    {
+      "key": "page.path.previous",
+      "fr": "Parcours précédent",
+      "en": "Previous path"
+    },
+    {
+      "key": "page.path.all",
+      "fr": "Tous les parcours",
+      "en": "All paths"
+    },
+    {
+      "key": "page.about.lead",
+      "fr": "Une chronique de la Maison Targaryen en huit volumes, tenue comme un manuscrit : datée, sourcée, et prudente là où les sources le sont.",
+      "en": "A chronicle of House Targaryen in eight volumes, kept like a manuscript: dated, sourced, and cautious wherever the sources are."
+    },
+    {
+      "key": "page.about.why.title",
+      "fr": "Pourquoi",
+      "en": "Why"
+    },
+    {
+      "key": "page.about.why.body",
+      "fr": "Les romans racontent la dynastie par fragments, d’un livre à l’autre, à travers des témoins qui se contredisent. Les séries en donnent une autre version. Il manquait un lieu où lire toute la Maison dans l’ordre, de l’ancienne Valyria à l’héritage, en sachant à chaque ligne d’où vient ce qu’on lit et ce que l’on en sait vraiment.",
+      "en": "The novels tell the dynasty in fragments, from one book to the next, through witnesses who contradict each other. The series give another version. What was missing was a place to read the whole House in order, from Old Valyria to the legacy, knowing at every line where it comes from and how much is truly known."
+    },
+    {
+      "key": "page.about.how.title",
+      "fr": "Comment elle est faite",
+      "en": "How it is made"
+    },
+    {
+      "key": "page.about.how.data",
+      "fr": "Les faits vivent dans des fichiers de données. Chaque date, chaque filiation, chaque bataille renvoie à ses sources et porte son degré de certitude. Avant chaque publication, un programme les relit : années impossibles, enfants nés après la mort de leur mère, sources absentes. Ce qui est incertain est dit incertain ; rien n’est comblé par l’imagination.",
+      "en": "The facts live in data files. Every date, every parentage, every battle points to its sources and carries its degree of certainty. Before each publication, a program reads them through: impossible years, children born after their mother’s death, missing sources. What is uncertain is said to be uncertain; nothing is filled in by imagination."
+    },
+    {
+      "key": "page.about.how.figures",
+      "fr": "Aucune image n’est empruntée. Les dragons sont calculés : quatre nombres et les couleurs que décrivent les livres suffisent à tracer chaque spécimen, et ce que les livres taisent reste au trait. L’emblème, la carte, les courbes et les marques sont dessinés de la même façon.",
+      "en": "No image is borrowed. The dragons are computed: four numbers and the colours the books describe are enough to draw each specimen, and what the books leave unsaid stays as bare line. The emblem, the map, the curves and the marks are drawn the same way."
+    },
+    {
+      "key": "page.about.figure.caption",
+      "fr": "{name}, tracé à partir de quatre nombres : envergure {span}, cou {neck}, queue {tail}, cornes {horns}. L’envergure se mesure à Balerion, qui vaut 1.",
+      "en": "{name}, drawn from four numbers: wingspan {span}, neck {neck}, tail {tail}, horns {horns}. Wingspan is measured against Balerion, who counts as 1."
+    },
+    {
+      "key": "page.about.figure.title",
+      "fr": "{name} en gravure",
+      "en": "{name}, engraved"
+    },
+    {
+      "key": "page.about.type.title",
+      "fr": "Polices et licences",
+      "en": "Typefaces and licences"
+    },
+    {
+      "key": "page.about.type.intro",
+      "fr": "Quatre familles, quatre rôles, sans permutation. Toutes sont publiées sous la licence SIL Open Font License 1.1 et hébergées avec la bibliothèque.",
+      "en": "Four families, four roles, never swapped. All are published under the SIL Open Font License 1.1 and hosted with the library."
+    },
+    {
+      "key": "page.about.type.texturina.role",
+      "fr": "La chronique : titres et mots valyriens. Ses terminaisons en lame tiennent du verre-dragon.",
+      "en": "The chronicle: headings and Valyrian words. Its blade-like terminals recall dragonglass."
+    },
+    {
+      "key": "page.about.type.texturina.credit",
+      "fr": "Omnibus-Type, 2020, licence SIL Open Font License 1.1",
+      "en": "Omnibus-Type, 2020, SIL Open Font License 1.1"
+    },
+    {
+      "key": "page.about.type.grenze.role",
+      "fr": "Les lettrines, les numéros de volume et les grands nombres. Jamais une phrase.",
+      "en": "Initials, volume numbers and large numerals. Never a sentence."
+    },
+    {
+      "key": "page.about.type.grenze.credit",
+      "fr": "Omnibus-Type, 2020, licence SIL Open Font License 1.1",
+      "en": "Omnibus-Type, 2020, SIL Open Font License 1.1"
+    },
+    {
+      "key": "page.about.type.alegreya.role",
+      "fr": "Le récit, les gloses, les citations.",
+      "en": "The narrative, the glosses, the quotations."
+    },
+    {
+      "key": "page.about.type.alegreya.credit",
+      "fr": "Huerta Tipográfica, 2011, licence SIL Open Font License 1.1",
+      "en": "Huerta Tipográfica, 2011, SIL Open Font License 1.1"
+    },
+    {
+      "key": "page.about.type.alegreyaSans.role",
+      "fr": "L’appareil du musée : notes, sources, légendes, commandes.",
+      "en": "The museum’s apparatus: notes, sources, captions, controls."
+    },
+    {
+      "key": "page.about.type.alegreyaSans.credit",
+      "fr": "Huerta Tipográfica, 2013, licence SIL Open Font License 1.1",
+      "en": "Huerta Tipográfica, 2013, SIL Open Font License 1.1"
+    },
+    {
+      "key": "page.about.debt.title",
+      "fr": "Ce que la bibliothèque doit",
+      "en": "What the library owes"
+    },
+    {
+      "key": "page.about.debt.martin",
+      "fr": "À George R. R. Martin, l’univers : ses rois, ses dragons, et ses chroniqueurs de fiction, dont les doutes sont repris ici tels qu’ils les expriment.",
+      "en": "To George R. R. Martin, the world: its kings, its dragons, and its in-world chroniclers, whose doubts are kept here as they express them."
+    },
+    {
+      "key": "page.about.debt.peterson",
+      "fr": "À David J. Peterson, le haut valyrien. Chaque forme valyrienne de ces pages vient de ses publications, ou s’y appuie et le dit.",
+      "en": "To David J. Peterson, High Valyrian. Every Valyrian form on these pages comes from his published work, or rests on it and says so."
+    },
+    {
+      "key": "page.about.mark.title",
+      "fr": "Le poinçon",
+      "en": "The hallmark"
+    },
+    {
+      "key": "page.about.mark.body",
+      "fr": "Un relieur frappait sa marque au dos de ses reliures. Celle-ci, un J et un D qui partagent le même fût, signe la fabrication de la bibliothèque. On la retrouve au pied de chaque feuillet.",
+      "en": "A binder struck his mark on the back of his bindings. This one, a J and a D sharing a single stem, signs the making of the library. It recurs at the foot of every leaf."
+    },
+    {
+      "key": "page.about.justification",
+      "fr": "Cette édition compte huit volumes, {events} événements, {people} personnes, {dragons} dragons, {wars} guerres, {places} lieux, {words} mots valyriens et {sources} sources.",
+      "en": "This edition holds eight volumes, {events} events, {people} people, {dragons} dragons, {wars} wars, {places} places, {words} Valyrian words and {sources} sources."
+    }
+  ]
+}

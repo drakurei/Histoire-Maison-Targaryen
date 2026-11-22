@@ -1,0 +1,1184 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-04",
+  "items": [
+    {
+      "id": "valar-morghulis",
+      "hv": "Valar morghūlis.",
+      "fr": "Tous les hommes doivent mourir.",
+      "en": "All men must die.",
+      "literal": {
+        "fr": "valar : tous les hommes (collectif de vala) ; morghūlis : meurt (aoriste, 3e personne du singulier, de morghūljagon « mourir »)",
+        "en": "valar: all men (collective of vala); morghūlis: dies (aorist, 3rd person singular, of morghūljagon “to die”)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Formule de George R. R. Martin, qui écrit valar morghulis : Jaqen H'ghar la confie à Arya dans le deuxième volume du Trône de fer, et le sens n'en est donné que plus tard. En haut valyrien de Peterson : Thoros à Melisandre (Game of Thrones, saison 3, épisode 6), puis Ver Gris (saison 4, épisode 4), Hizdahr zo Loraq (saison 5, épisode 5) et Melisandre (saison 8, épisode 3). Salutation et signe de reconnaissance ; la réponse attendue est valar dohaeris.",
+        "en": "A formula of George R. R. Martin, who spells it valar morghulis: Jaqen H'ghar entrusts it to Arya in A Clash of Kings, and its meaning is only given later. In Peterson's High Valyrian: Thoros to Melisandre (Game of Thrones, season 3, episode 6), then Grey Worm (season 4, episode 4), Hizdahr zo Loraq (season 5, episode 5) and Melisandre (season 8, episode 3). A greeting and a sign of recognition; the expected reply is valar dohaeris."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Valar_morgh%C5%ABlis",
+        "https://wiki.languageinvention.com/index.php?title=Morgh%C5%ABlis",
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_306",
+        "https://dothraki.com/?p=1227"
+      ]
+    },
+    {
+      "id": "valar-dohaeris",
+      "hv": "Valar dohaeris.",
+      "fr": "Tous les hommes doivent servir.",
+      "en": "All men must serve.",
+      "literal": {
+        "fr": "valar : tous les hommes (collectif de vala) ; dohaeris : sert (aoriste, 3e personne du singulier, de dohaeragon « servir »)",
+        "en": "valar: all men (collective of vala); dohaeris: serves (aorist, 3rd person singular, of dohaeragon “to serve”)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Réponse à valar morghūlis. Chez Martin, un capitaine de Braavos la prononce lorsque Arya lui présente la pièce de Jaqen, à la fin du troisième volume du Trône de fer ; la traduction vient dans le quatrième. À l'écran : Melisandre (Game of Thrones, saison 3, épisode 6), puis la formule revient dans la saison 8, épisode 3, dite par Ver Gris.",
+        "en": "The reply to valar morghūlis. In Martin, a Braavosi captain speaks it when Arya shows him Jaqen's coin, at the end of A Storm of Swords; the translation comes in A Feast for Crows. On screen: Melisandre (Game of Thrones, season 3, episode 6), and the formula returns in season 8, episode 3, spoken by Grey Worm."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Valar_dohaeris",
+        "https://wiki.languageinvention.com/index.php?title=Dohaeris",
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_306",
+        "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Corpus"
+      ]
+    },
+    {
+      "id": "drakarys",
+      "hv": "Drakarys.",
+      "fr": "Dracarys : feu de dragon, ordre donné au dragon de cracher le feu.",
+      "en": "Dracarys: dragonfire, the command for a dragon to breathe fire.",
+      "literal": {
+        "fr": "drakarys : feu de dragon (nom solaire de la 2e déclinaison), employé seul comme ordre",
+        "en": "drakarys: dragonfire (solar noun of the 2nd declension), used on its own as a command"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Le mot vient de Martin : dans le troisième volume du Trône de fer, Daenerys choisit dracarys, « feu de dragon » en haut valyrien, comme un ordre que personne ne risque de prononcer par hasard. Peterson l'écrit avec un k et en fait un nom ordinaire, le feu que crache un dragon, distinct de perzys, « feu » ; il tient pour fortuite sa ressemblance avec le latin draco, puisque le latin n'existe pas dans ce monde, et le dragon se dit chez lui zaldrīzes. À l'écran : Daenerys à Astapor (Game of Thrones, saison 3, épisode 4), Missandei (saison 8, épisode 4) ; Rhaenyra à Syrax (House of the Dragon, saison 1, épisode 1), Lucerys et Laena (saison 1, épisode 6), Aegon II et Aemond (saison 2, épisode 4).",
+        "en": "The word comes from Martin: in A Storm of Swords, Daenerys chooses dracarys, “dragonfire” in High Valyrian, as a command nobody is likely to say by chance. Peterson spells it with a k and makes it an ordinary noun, the fire a dragon breathes, distinct from perzys, “fire”; he treats its likeness to Latin draco as coincidence, since Latin does not exist in that world, and his word for dragon is zaldrīzes. On screen: Daenerys at Astapor (Game of Thrones, season 3, episode 4), Missandei (season 8, episode 4); Rhaenyra to Syrax (House of the Dragon, season 1, episode 1), Lucerys and Laena (season 1, episode 6), Aegon II and Aemond (season 2, episode 4)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Drakarys",
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_304",
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_101",
+        "https://awoiaf.westeros.org/index.php/High_Valyrian"
+      ]
+    },
+    {
+      "id": "separ-valonqri-jaelinna",
+      "hv": "Sepār valonqri jaelinna.",
+      "fr": "Alors j'espérerai un frère.",
+      "en": "Then I shall hope for a brother.",
+      "literal": {
+        "fr": "sepār : alors ; valonqri : petit frère (accusatif de valonqar) ; jaelinna : je voudrai (futur de jaelagon « vouloir »)",
+        "en": "sepār: then; valonqri: little brother (accusative of valonqar); jaelinna: I shall want (future of jaelagon “to want”)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Rhaenyra à son oncle Daemon (House of the Dragon, saison 1, épisode 1). Le mot valonqar vient de Martin : dans le quatrième volume du Trône de fer, Cersei apprend qu'il signifie « petit frère » en haut valyrien, au sujet d'une prophétie qui la poursuit. Chez Peterson, c'est un nom aquatique de la première déclinaison, « frère cadet ».",
+        "en": "Rhaenyra to her uncle Daemon (House of the Dragon, season 1, episode 1). The word valonqar comes from Martin: in A Feast for Crows, Cersei learns that it means “little brother” in High Valyrian, in connection with a prophecy that haunts her. In Peterson's language it is an aquatic noun of the first declension, “younger brother”."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Valonqar",
+        "https://wiki.languageinvention.com/index.php?title=Valonqri",
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_101"
+      ]
+    },
+    {
+      "id": "nyke-daenerys-jelmazmo",
+      "hv": "Nyke Daenerys Jelmāzmo hen Targārio Lentrot, hen Valyrio Uēpo ānogār iksan.",
+      "fr": "Je suis Daenerys du Typhon, de la Maison Targaryen, du sang de l'ancienne Valyria.",
+      "en": "I am Daenerys Stormborn of House Targaryen, of the blood of Old Valyria.",
+      "literal": {
+        "fr": "nyke : moi ; Daenerys Jelmāzmo : Daenerys du Typhon (titre, génitif de jelmāzma « tempête ») ; hen Targārio Lentrot : de la Maison de Targaryen (hen et locatif de lentor ; Targārio, génitif) ; hen Valyrio Uēpo ānogār : du sang de la vieille Valyria (ānogār, locatif de ānogar) ; iksan : je suis",
+        "en": "nyke: I; Daenerys Jelmāzmo: Daenerys Stormborn (a title, genitive of jelmāzma “storm”); hen Targārio Lentrot: of the House of Targaryen (hen with the locative of lentor; Targārio, genitive); hen Valyrio Uēpo ānogār: of the blood of old Valyria (ānogār, locative of ānogar); iksan: I am"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys à Kraznys mo Nakloz, à Astapor, au moment où elle révèle qu'elle comprend et parle le valyrien (Game of Thrones, saison 3, épisode 4). Le pronom nyke, d'ordinaire omis, marque l'insistance.",
+        "en": "Daenerys to Kraznys mo Nakloz, at Astapor, at the moment she reveals that she understands and speaks Valyrian (Game of Thrones, season 3, episode 4). The pronoun nyke, normally left out, adds emphasis."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_304",
+        "https://wiki.languageinvention.com/index.php?title=Targ%C4%81rio",
+        "https://wiki.languageinvention.com/index.php?title=Lentrot"
+      ]
+    },
+    {
+      "id": "valyrio-muno-engos",
+      "hv": "Valyrio muño ēngos ñuhys issa.",
+      "fr": "Le valyrien est ma langue maternelle.",
+      "en": "Valyrian is my mother tongue.",
+      "literal": {
+        "fr": "Valyrio : le valyrien ; muño ēngos : langue de la mère (muño, génitif de muña) ; ñuhys : ma ; issa : est",
+        "en": "Valyrio: Valyrian; muño ēngos: mother's tongue (muño, genitive of muña); ñuhys: my; issa: is"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Même scène, aussitôt après (Game of Thrones, saison 3, épisode 4).",
+        "en": "The same scene, immediately after (Game of Thrones, season 3, episode 4)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_304",
+        "https://wiki.languageinvention.com/index.php?title=Valyrio",
+        "https://wiki.languageinvention.com/index.php?title=Mu%C3%B1o"
+      ]
+    },
+    {
+      "id": "zaldrizes-buzdari-iksos-daor",
+      "hv": "Zaldrīzes buzdari iksos daor.",
+      "fr": "Un dragon n'est pas un esclave.",
+      "en": "A dragon is not a slave.",
+      "literal": {
+        "fr": "zaldrīzes : dragon ; buzdari : esclave ; iksos : soit (subjonctif présent de sagon « être ») ; daor : ne pas",
+        "en": "zaldrīzes: dragon; buzdari: slave; iksos: be (present subjunctive of sagon “to be”); daor: not"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys à Kraznys mo Nakloz (Game of Thrones, saison 3, épisode 4) ; elle reprend la phrase dans la saison 7, épisode 7. Buzdari est un mot de la baie des Serfs que le haut valyrien a emprunté.",
+        "en": "Daenerys to Kraznys mo Nakloz (Game of Thrones, season 3, episode 4); she repeats the line in season 7, episode 7. Buzdari is a Slaver's Bay word borrowed by High Valyrian."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Zaldr%C4%ABzes_buzdari_iksos_daor",
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_304",
+        "https://wiki.languageinvention.com/index.php?title=Season_7_Game_of_Thrones_Dialogue#Episode_707"
+      ]
+    },
+    {
+      "id": "dovaogedys-naejot-memebatas",
+      "hv": "Dovaogēdys. Naejot memēbātās. Kelītīs.",
+      "fr": "Immaculés. En avant, marche. Halte.",
+      "en": "Unsullied. Forward, march. Halt.",
+      "literal": {
+        "fr": "Dovaogēdys : Immaculés (vocatif) ; naejot : en avant ; memēbātās : marchez (impératif pluriel de memēbagon) ; kelītīs : arrêtez-vous (impératif pluriel de keligon)",
+        "en": "Dovaogēdys: Unsullied (vocative); naejot: forward; memēbātās: march (plural imperative of memēbagon); kelītīs: stop (plural imperative of keligon)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Premiers ordres de Daenerys à l'armée qu'elle vient d'acquérir à Astapor (Game of Thrones, saison 3, épisode 4).",
+        "en": "Daenerys's first orders to the army she has just acquired at Astapor (Game of Thrones, season 3, episode 4)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_304",
+        "https://wiki.languageinvention.com/index.php?title=Mem%C4%93b%C4%81t%C4%81s",
+        "https://wiki.languageinvention.com/index.php?title=Kel%C4%ABt%C4%ABs"
+      ]
+    },
+    {
+      "id": "kesy-tubi-jemot-daervi-tepan",
+      "hv": "Kesȳ tubī jemot dāervī tepan.",
+      "fr": "Aujourd'hui, je vous donne la liberté.",
+      "en": "Today I give you freedom.",
+      "literal": {
+        "fr": "kesȳ tubī : en ce jour (locatif) ; jemot : à vous (datif) ; dāervī : la liberté (accusatif de dāerves) ; tepan : je donne",
+        "en": "kesȳ tubī: on this day (locative); jemot: to you (dative); dāervī: freedom (accusative of dāerves); tepan: I give"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys aux Immaculés, après la prise d'Astapor (Game of Thrones, saison 3, épisode 4).",
+        "en": "Daenerys to the Unsullied, after the taking of Astapor (Game of Thrones, season 3, episode 4)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_304",
+        "https://wiki.languageinvention.com/index.php?title=Kes%C8%B3",
+        "https://wiki.languageinvention.com/index.php?title=D%C4%81erv%C4%AB"
+      ]
+    },
+    {
+      "id": "daorys-ziry-odrikilza",
+      "hv": "Daorys ziry ōdrikilza.",
+      "fr": "Personne ne lui fera de mal.",
+      "en": "No one will harm him.",
+      "literal": {
+        "fr": "daorys : personne ; ziry : lui ; ōdrikilza : fera du mal (futur, 3e personne du singulier, de ōdrikagon)",
+        "en": "daorys: no one; ziry: him; ōdrikilza: will harm (future, 3rd person singular, of ōdrikagon)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Fin d'une phrase de Daenerys aux Immaculés affranchis : celui qui veut partir le peut (Game of Thrones, saison 3, épisode 4). La négation tient tout entière dans daorys, sans daor.",
+        "en": "The end of a sentence Daenerys addresses to the freed Unsullied: any man who wishes to leave may do so (Game of Thrones, season 3, episode 4). The negation lies entirely in daorys, without daor."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_304",
+        "https://wiki.languageinvention.com/index.php?title=Daorys",
+        "https://wiki.languageinvention.com/index.php?title=%C5%8Cdrikilza"
+      ]
+    },
+    {
+      "id": "jemot-kivio-nuhe-tepan",
+      "hv": "Jemot kīvio ñuhe tepan.",
+      "fr": "Je vous donne ma parole.",
+      "en": "I give you my word.",
+      "literal": {
+        "fr": "jemot : à vous (datif) ; kīvio : promesse, parole ; ñuhe : mienne (accusatif lunaire de ñuha) ; tepan : je donne",
+        "en": "jemot: to you (dative); kīvio: promise, word; ñuhe: my (lunar accusative of ñuha); tepan: I give"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Même discours aux Immaculés (Game of Thrones, saison 3, épisode 4).",
+        "en": "The same speech to the Unsullied (Game of Thrones, season 3, episode 4)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_304",
+        "https://wiki.languageinvention.com/index.php?title=K%C4%ABvio",
+        "https://wiki.languageinvention.com/index.php?title=Jemot"
+      ]
+    },
+    {
+      "id": "yne-sytivilibilat",
+      "hv": "Yne sytivīlībilāt? Hae dāero valoti?",
+      "fr": "Combattrez-vous pour moi ? En hommes libres ?",
+      "en": "Will you fight for me? As free men?",
+      "literal": {
+        "fr": "yne : moi ; sytivīlībilāt : combattrez-vous pour (futur, 2e personne du pluriel, de sytivīlībagon) ; hae : comme ; dāero valoti : hommes libres (au locatif pluriel, que demande hae)",
+        "en": "yne: me; sytivīlībilāt: will you fight for (future, 2nd person plural, of sytivīlībagon); hae: as; dāero valoti: free men (in the locative plural required by hae)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Question de Daenerys aux Immaculés qu'elle vient d'affranchir (Game of Thrones, saison 3, épisode 4).",
+        "en": "Daenerys's question to the Unsullied she has just freed (Game of Thrones, season 3, episode 4)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_304",
+        "https://wiki.languageinvention.com/index.php?title=Sytiv%C4%ABl%C4%ABbil%C4%81t",
+        "https://wiki.languageinvention.com/index.php?title=Valoti"
+      ]
+    },
+    {
+      "id": "yn-daeri-vali-sir-issi",
+      "hv": "Yn dāeri vali sīr issi.",
+      "fr": "Mais vous êtes désormais des hommes libres.",
+      "en": "But you are free men now.",
+      "literal": {
+        "fr": "yn : mais ; dāeri vali : des hommes libres ; sīr : maintenant ; issi : (ils) sont, 3e personne du pluriel",
+        "en": "yn: but; dāeri vali: free men; sīr: now; issi: (they) are, 3rd person plural"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys aux Immaculés, avant de leur faire choisir un chef parmi eux (Game of Thrones, saison 3, épisode 5).",
+        "en": "Daenerys to the Unsullied, before having them choose a leader from their own ranks (Game of Thrones, season 3, episode 5)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_305",
+        "https://wiki.languageinvention.com/index.php?title=Vali",
+        "https://wiki.languageinvention.com/index.php?title=D%C4%81eri"
+      ]
+    },
+    {
+      "id": "gelti-aohe-nadinas",
+      "hv": "Geltī aōhe nādīnās.",
+      "fr": "Ôte ton casque.",
+      "en": "Take off your helmet.",
+      "literal": {
+        "fr": "geltī : casque (accusatif de gelte) ; aōhe : ton (accusatif lunaire de aōha) ; nādīnās : ôte (impératif singulier de nādīnagon)",
+        "en": "geltī: helmet (accusative of gelte); aōhe: your (lunar accusative of aōha); nādīnās: remove (singular imperative of nādīnagon)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys à un Immaculé, avant de lui demander son nom (Game of Thrones, saison 3, épisode 5).",
+        "en": "Daenerys to one of the Unsullied, before asking his name (Game of Thrones, season 3, episode 5)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_305",
+        "https://wiki.languageinvention.com/index.php?title=Gelt%C4%AB",
+        "https://wiki.languageinvention.com/index.php?title=N%C4%81d%C4%ABn%C4%81s"
+      ]
+    },
+    {
+      "id": "skoroso-jemele-broza",
+      "hv": "Skoroso jemēle brōzā?",
+      "fr": "Comment t'appelles-tu ?",
+      "en": "What is your name?",
+      "literal": {
+        "fr": "skoroso : par quoi (instrumental de skoros) ; jemēle : toi-même (pronom réfléchi, accusatif) ; brōzā : tu nommes (présent de brōzagon)",
+        "en": "skoroso: by what (instrumental of skoros); jemēle: yourself (reflexive pronoun, accusative); brōzā: you name (present of brōzagon)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys à l'Immaculé qui prendra le nom de Ver Gris (Game of Thrones, saison 3, épisode 5). Littéralement : « par quoi te nommes-tu ? ». Le nom donné se met à l'instrumental.",
+        "en": "Daenerys to the Unsullied soldier who will take the name Grey Worm (Game of Thrones, season 3, episode 5). Literally: “by what do you name yourself?”. The name given goes into the instrumental."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_305",
+        "https://wiki.languageinvention.com/index.php?title=Skoroso",
+        "https://wiki.languageinvention.com/index.php?title=Br%C5%8Dz%C4%81"
+      ]
+    },
+    {
+      "id": "va-oktio-remyti-vale-jikas",
+      "hv": "Va oktio remȳti vale jikās.",
+      "fr": "Envoie un homme aux portes de la cité.",
+      "en": "Send a man to the city gates.",
+      "literal": {
+        "fr": "va : vers ; oktio : de la cité (génitif de oktion) ; remȳti : portes (locatif pluriel de remio) ; vale : un homme (accusatif de vala) ; jikās : envoie (impératif singulier de jikagon)",
+        "en": "va: towards; oktio: of the city (genitive of oktion); remȳti: gates (locative plural of remio); vale: a man (accusative of vala); jikās: send (singular imperative of jikagon)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys devant Yunkai (Game of Thrones, saison 3, épisode 7).",
+        "en": "Daenerys before Yunkai (Game of Thrones, season 3, episode 7)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_307",
+        "https://wiki.languageinvention.com/index.php?title=Rem%C8%B3ti",
+        "https://wiki.languageinvention.com/index.php?title=Oktio"
+      ]
+    },
+    {
+      "id": "rytsas",
+      "hv": "Rytsas.",
+      "fr": "Salut.",
+      "en": "Hello.",
+      "literal": {
+        "fr": "rytsas : salut (interjection)",
+        "en": "rytsas: hello (interjection)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Salutation en haut valyrien, dite par Talisa (Game of Thrones, saison 3, épisode 7).",
+        "en": "A High Valyrian greeting, spoken by Talisa (Game of Thrones, season 3, episode 7)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Rytsas",
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_307"
+      ]
+    },
+    {
+      "id": "bisi-vali-ilvyz-zentyssy-issi",
+      "hv": "Bisi vali īlvyz zentyssy issi.",
+      "fr": "Ces hommes sont nos hôtes.",
+      "en": "These men are our guests.",
+      "literal": {
+        "fr": "bisi : ces ; vali : hommes ; īlvyz : nos ; zentyssy : hôtes (pluriel de zentys) ; issi : sont",
+        "en": "bisi: these; vali: men; īlvyz: our; zentyssy: guests (plural of zentys); issi: are"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys, lors de sa rencontre avec les capitaines des Puînés (Game of Thrones, saison 3, épisode 8).",
+        "en": "Daenerys, at her meeting with the captains of the Second Sons (Game of Thrones, season 3, episode 8)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_308",
+        "https://wiki.languageinvention.com/index.php?title=Zentyssy",
+        "https://wiki.languageinvention.com/index.php?title=%C4%AAlvyz"
+      ]
+    },
+    {
+      "id": "jentys-dovaogedyro-syt-iksa",
+      "hv": "Jentys Dovaogēdyro syt iksā. Skoros otāpā?",
+      "fr": "Tu commandes les Immaculés. Qu'en penses-tu ?",
+      "en": "You command the Unsullied. What do you think?",
+      "literal": {
+        "fr": "jentys : chef ; Dovaogēdyro syt : pour les Immaculés (génitif collectif suivi de la postposition syt) ; iksā : tu es ; skoros : quoi ; otāpā : tu penses (présent de otāpagon)",
+        "en": "jentys: leader; Dovaogēdyro syt: for the Unsullied (genitive collective followed by the postposition syt); iksā: you are; skoros: what; otāpā: you think (present of otāpagon)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys à Ver Gris, en préparant l'attaque de Yunkai (Game of Thrones, saison 3, épisode 9).",
+        "en": "Daenerys to Grey Worm, while planning the attack on Yunkai (Game of Thrones, season 3, episode 9)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_309",
+        "https://wiki.languageinvention.com/index.php?title=Dovaog%C4%93dyro",
+        "https://wiki.languageinvention.com/index.php?title=Ot%C4%81p%C4%81"
+      ]
+    },
+    {
+      "id": "sovetes",
+      "hv": "Sōvētēs.",
+      "fr": "Volez.",
+      "en": "Fly.",
+      "literal": {
+        "fr": "sōvētēs : volez (impératif pluriel de sōvegon « voler ») ; au singulier, sōvēs",
+        "en": "sōvētēs: fly (plural imperative of sōvegon “to fly”); singular sōvēs"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys à ses trois dragons (Game of Thrones, saison 3, épisode 10). Le singulier sōvēs s'adresse à un seul dragon : Daenerys à Drogon dans l'arène de Daznak (saison 5, épisode 9), Aemond à Vhagar (House of the Dragon, saison 1, épisode 7).",
+        "en": "Daenerys to her three dragons (Game of Thrones, season 3, episode 10). The singular sōvēs addresses a single dragon: Daenerys to Drogon in Daznak's Pit (season 5, episode 9), Aemond to Vhagar (House of the Dragon, season 1, episode 7)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_3010",
+        "https://wiki.languageinvention.com/index.php?title=S%C5%8Dv%C4%93t%C4%93s",
+        "https://wiki.languageinvention.com/index.php?title=S%C5%8Dv%C4%93s",
+        "https://wiki.languageinvention.com/index.php?title=Season_5_Game_of_Thrones_Dialogue#Episode_509"
+      ]
+    },
+    {
+      "id": "sesir-mirinot-mastan",
+      "hv": "Sesīr Mīrīnot mastan.",
+      "fr": "Me voici maintenant à Meereen.",
+      "en": "Now I have come to Meereen.",
+      "literal": {
+        "fr": "sesīr : et maintenant ; Mīrīnot : à Meereen (datif) ; mastan : je suis venue (parfait, 1re personne du singulier, de māzigon « venir »)",
+        "en": "sesīr: and now; Mīrīnot: to Meereen (dative); mastan: I have come (perfect, 1st person singular, of māzigon “to come”)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Fin du passage où Daenerys rappelle aux esclaves de Meereen ce qu'elle a fait à Astapor et à Yunkai (Game of Thrones, saison 4, épisode 3).",
+        "en": "The close of the passage in which Daenerys reminds the slaves of Meereen of what she did at Astapor and Yunkai (Game of Thrones, season 4, episode 3)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_4_Game_of_Thrones_Dialogue#Episode_403",
+        "https://wiki.languageinvention.com/index.php?title=Mastan",
+        "https://wiki.languageinvention.com/index.php?title=M%C4%ABr%C4%ABnot"
+      ]
+    },
+    {
+      "id": "jevys-qrinuntys-ikson-daor",
+      "hv": "Jevys qrinuntys ikson daor.",
+      "fr": "Je ne suis pas votre ennemie.",
+      "en": "I am not your enemy.",
+      "literal": {
+        "fr": "jevys : votre ; qrinuntys : ennemi ; ikson : je sois (subjonctif présent de sagon) ; daor : ne pas",
+        "en": "jevys: your (plural); qrinuntys: enemy; ikson: I be (present subjunctive of sagon); daor: not"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Même discours aux esclaves de Meereen (Game of Thrones, saison 4, épisode 3).",
+        "en": "The same speech to the slaves of Meereen (Game of Thrones, season 4, episode 3)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_4_Game_of_Thrones_Dialogue#Episode_403",
+        "https://wiki.languageinvention.com/index.php?title=Ikson",
+        "https://wiki.languageinvention.com/index.php?title=Qrinuntys"
+      ]
+    },
+    {
+      "id": "nabematas",
+      "hv": "Nābēmātās.",
+      "fr": "Tirez.",
+      "en": "Loose.",
+      "literal": {
+        "fr": "nābēmātās : lâchez, tirez (impératif pluriel de nābēmagon, verbe employé pour les engins de jet)",
+        "en": "nābēmātās: release, loose (plural imperative of nābēmagon, a verb used of siege engines)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Ordre de Daenerys à ses engins de siège devant Meereen (Game of Thrones, saison 4, épisode 3).",
+        "en": "Daenerys's order to her siege engines before Meereen (Game of Thrones, season 4, episode 3)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_4_Game_of_Thrones_Dialogue#Episode_403",
+        "https://wiki.languageinvention.com/index.php?title=N%C4%81b%C4%93m%C4%81t%C4%81s"
+      ]
+    },
+    {
+      "id": "gar-hari-byrepsa",
+      "hv": "Gār hāri bȳrēpsā.",
+      "fr": "Cent soixante-trois.",
+      "en": "One hundred and sixty-three.",
+      "literal": {
+        "fr": "gār : cent ; hāri : trois (forme plurielle) ; bȳrēpsā : et soixante (bȳrēpsa allongé en fin de coordination)",
+        "en": "gār: hundred; hāri: three (plural form); bȳrēpsā: and sixty (bȳrēpsa lengthened at the end of the coordination)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys, à Meereen (Game of Thrones, saison 4, épisode 4) : c'est le nombre des enfants crucifiés sur la route de la cité, et celui des maîtres qu'elle fait crucifier en retour.",
+        "en": "Daenerys, at Meereen (Game of Thrones, season 4, episode 4): this is the number of children crucified along the road to the city, and the number of masters she has crucified in return."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_4_Game_of_Thrones_Dialogue#Episode_404",
+        "https://wiki.languageinvention.com/index.php?title=B%C8%B3r%C4%93ps%C4%81",
+        "https://wiki.languageinvention.com/index.php?title=Appendix:High_Valyrian_numerals"
+      ]
+    },
+    {
+      "id": "kirimvose",
+      "hv": "Kirimvose.",
+      "fr": "Merci.",
+      "en": "Thank you.",
+      "literal": {
+        "fr": "kirimvose : avec joie (instrumental de kirimves « joie »)",
+        "en": "kirimvose: with joy (instrumental of kirimves “joy”)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys (Game of Thrones, saison 4, épisode 5). Fennesz l'emploie dans une formule plus ample, kirimvose avy rytsuran (saison 4, épisode 10).",
+        "en": "Daenerys (Game of Thrones, season 4, episode 5). Fennesz uses it in a fuller formula, kirimvose avy rytsuran (season 4, episode 10)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Kirimvose",
+        "https://wiki.languageinvention.com/index.php?title=Season_4_Game_of_Thrones_Dialogue#Episode_405",
+        "https://wiki.languageinvention.com/index.php?title=Season_4_Game_of_Thrones_Dialogue#Episode_4010"
+      ]
+    },
+    {
+      "id": "belmot-pryjatys-muna-zaldrizoti",
+      "hv": "Belmot Pryjatys se Muña Zaldrīzoti.",
+      "fr": "Briseuse de chaînes et Mère des dragons.",
+      "en": "Breaker of Chains and Mother of Dragons.",
+      "literal": {
+        "fr": "belmot : chaîne (datif ou locatif singulier de belmon) ; pryjatys : briseur ; se : et ; muña : mère ; zaldrīzoti : des dragons (génitif pluriel de zaldrīzes)",
+        "en": "belmot: chain (dative or locative singular of belmon); pryjatys: breaker; se: and; muña: mother; zaldrīzoti: of dragons (genitive plural of zaldrīzes)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Fin de la titulature que Missandei proclame devant Daenerys (Game of Thrones, saison 4, épisode 10 ; une première version dans l'épisode 6). Le génitif zaldrīzoti suit le nom, ordre propre aux titres solennels.",
+        "en": "The close of the titles Missandei proclaims before Daenerys (Game of Thrones, season 4, episode 10; a first version in episode 6). The genitive zaldrīzoti follows the noun, an order reserved for solemn titles."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_4_Game_of_Thrones_Dialogue#Episode_4010",
+        "https://wiki.languageinvention.com/index.php?title=Season_4_Game_of_Thrones_Dialogue#Episode_406",
+        "https://wiki.languageinvention.com/index.php?title=Zaldr%C4%ABzoti",
+        "https://wiki.languageinvention.com/index.php?title=Pryjatys"
+      ]
+    },
+    {
+      "id": "zugagon-daor-nuhys-raqiros",
+      "hv": "Zūgagon daor, ñuhys raqiros.",
+      "fr": "N'aie pas peur, mon ami.",
+      "en": "Do not be afraid, my friend.",
+      "literal": {
+        "fr": "zūgagon : craindre (infinitif) ; daor : ne pas ; ñuhys : mon ; raqiros : ami",
+        "en": "zūgagon: to fear (infinitive); daor: not; ñuhys: my; raqiros: friend"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys à un suppliant, lors d’une audience à Meereen (Game of Thrones, saison 4, épisode 6). La défense se forme avec l'infinitif suivi de daor.",
+        "en": "Daenerys to a petitioner, during an audience at Meereen (Game of Thrones, season 4, episode 6). A prohibition is formed with the infinitive followed by daor."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_4_Game_of_Thrones_Dialogue#Episode_406",
+        "https://wiki.languageinvention.com/index.php?title=Z%C5%ABgagon",
+        "https://wiki.languageinvention.com/index.php?title=Raqiros"
+      ]
+    },
+    {
+      "id": "thoros-hen-myrot-iksa",
+      "hv": "Thoros hen Mȳrot iksā.",
+      "fr": "Tu es Thoros de Myr.",
+      "en": "You are Thoros of Myr.",
+      "literal": {
+        "fr": "Thoros ; hen Mȳrot : de Myr (hen suivi du locatif) ; iksā : tu es",
+        "en": "Thoros; hen Mȳrot: of Myr (hen followed by the locative); iksā: you are"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Melisandre, en arrivant auprès de la Fraternité sans bannière (Game of Thrones, saison 3, épisode 6).",
+        "en": "Melisandre, on reaching the Brotherhood Without Banners (Game of Thrones, season 3, episode 6)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_306",
+        "https://wiki.languageinvention.com/index.php?title=Hen",
+        "https://wiki.languageinvention.com/index.php?title=M%C8%B3rot"
+      ]
+    },
+    {
+      "id": "qringontan",
+      "hv": "Qringōntan.",
+      "fr": "J'ai échoué.",
+      "en": "I failed.",
+      "literal": {
+        "fr": "qringōntan : j’ai échoué (parfait, 1re personne du singulier, de qringaomagon)",
+        "en": "qringōntan: I failed (perfect, 1st person singular, of qringaomagon)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Thoros répond à Melisandre, qui lui rappelle la mission confiée par le Grand Prêtre (Game of Thrones, saison 3, épisode 6).",
+        "en": "Thoros answers Melisandre, who reminds him of the mission the High Priest gave him (Game of Thrones, season 3, episode 6)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_306",
+        "https://wiki.languageinvention.com/index.php?title=Qring%C5%8Dntan"
+      ]
+    },
+    {
+      "id": "olvi-vokti-rulloro-qelbria",
+      "hv": "Olvī voktī Rulloro Qelbriā ūndessun daor.",
+      "fr": "Je ne vois guère de prêtres de R’hllor dans le Conflans.",
+      "en": "I do not see many priests of R’hllor in the Riverlands.",
+      "literal": {
+        "fr": "olvī : beaucoup de ; voktī : prêtres (accusatif pluriel de voktys) ; Rulloro : de R’hllor (génitif) ; Qelbriā : dans le Conflans (locatif) ; ūndessun : je vois (subjonctif aoriste de ūndegon) ; daor : ne pas",
+        "en": "olvī: many; voktī: priests (accusative plural of voktys); Rulloro: of R’hllor (genitive); Qelbriā: in the Riverlands (locative); ūndessun: I see (aorist subjunctive of ūndegon); daor: not"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Thoros accueille Melisandre (Game of Thrones, saison 3, épisode 6). Le verbe nié est au subjonctif.",
+        "en": "Thoros greets Melisandre (Game of Thrones, season 3, episode 6). The negated verb is in the subjunctive."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_306",
+        "https://wiki.languageinvention.com/index.php?title=%C5%AAndessun",
+        "https://wiki.languageinvention.com/index.php?title=Qelbri%C4%81"
+      ]
+    },
+    {
+      "id": "kesrio-syt-bantis-zobrie-issa",
+      "hv": "Kesrio syt bantis zōbrie issa se ossȳngnoti lēdys.",
+      "fr": "Car la nuit est sombre et pleine de terreurs.",
+      "en": "For the night is dark and full of terrors.",
+      "literal": {
+        "fr": "kesrio syt : pour cela, car ; bantis : nuit ; zōbrie : sombre ; issa : est ; se : et ; ossȳngnoti : de terreurs (génitif pluriel de ossȳngnon) ; lēdys : pleine",
+        "en": "kesrio syt: for this, for; bantis: night; zōbrie: dark; issa: is; se: and; ossȳngnoti: of terrors (genitive plural of ossȳngnon); lēdys: full"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Réponse rituelle des fidèles de R'hllor. Les livres la donnent dans la langue commune ; en haut valyrien, une prêtresse rouge et la foule la clament à Volantis (Game of Thrones, saison 5, épisode 3), puis Melisandre la reprend (saison 8, épisode 3).",
+        "en": "The ritual response of R'hllor's faithful. The books give it in the Common Tongue; in High Valyrian, a red priestess and the crowd call it out at Volantis (Game of Thrones, season 5, episode 3), and Melisandre speaks it again (season 8, episode 3)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_5_Game_of_Thrones_Dialogue#Episode_503",
+        "https://wiki.languageinvention.com/index.php?title=Season_8_Game_of_Thrones_Dialogue#Episode_803",
+        "https://wiki.languageinvention.com/index.php?title=Z%C5%8Dbrie"
+      ]
+    },
+    {
+      "id": "aeksios-ono-ilon-jehikas",
+      "hv": "Āeksios Ōño, aōhos ōñoso īlōn jehikās.",
+      "fr": "Seigneur de Lumière, répands sur nous ta lumière.",
+      "en": "Lord of Light, cast your light upon us.",
+      "literal": {
+        "fr": "Āeksios : Seigneur (vocatif de āeksio) ; Ōño : de la lumière (génitif de ōños) ; aōhos ōñoso : par ta lumière (instrumental) ; īlōn : nous (accusatif) ; jehikās : éclaire (impératif de jehikagon)",
+        "en": "Āeksios: Lord (vocative of āeksio); Ōño: of light (genitive of ōños); aōhos ōñoso: with your light (instrumental); īlōn: us (accusative); jehikās: shine on (imperative of jehikagon)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Prière de Melisandre avant la bataille de Winterfell (Game of Thrones, saison 8, épisode 3) ; la prêtresse de Volantis en dit une forme voisine (saison 5, épisode 3).",
+        "en": "Melisandre's prayer before the battle of Winterfell (Game of Thrones, season 8, episode 3); the priestess at Volantis says a close variant (season 5, episode 3)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_8_Game_of_Thrones_Dialogue#Episode_803",
+        "https://wiki.languageinvention.com/index.php?title=Season_5_Game_of_Thrones_Dialogue#Episode_503",
+        "https://wiki.languageinvention.com/index.php?title=%C4%80eksios",
+        "https://wiki.languageinvention.com/index.php?title=Jehikagon"
+      ]
+    },
+    {
+      "id": "hen-syndrorro-onos",
+      "hv": "Hen sȳndrorro, ōños. Hen ñuqīr, perzys. Hen morghot, glaeson.",
+      "fr": "Des ténèbres, la lumière. Des cendres, le feu. De la mort, la vie.",
+      "en": "From darkness, light. From ashes, fire. From death, life.",
+      "literal": {
+        "fr": "hen sȳndrorro : hors de l’ombre (locatif collectif de sȳndor) ; ōños : lumière ; hen ñuqīr : hors de la cendre (locatif de ñuqir) ; perzys : feu ; hen morghot : hors de la mort (locatif de morghon) ; glaeson : vie",
+        "en": "hen sȳndrorro: out of shadow (locative collective of sȳndor); ōños: light; hen ñuqīr: out of ash (locative of ñuqir); perzys: fire; hen morghot: out of death (locative of morghon); glaeson: life"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Prière du culte de R'hllor (Game of Thrones, saison 6, épisode 2).",
+        "en": "A prayer of the cult of R'hllor (Game of Thrones, season 6, episode 2)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_6_Game_of_Thrones_Dialogue#Episode_602",
+        "https://wiki.languageinvention.com/index.php?title=S%C8%B3ndrorro",
+        "https://wiki.languageinvention.com/index.php?title=%C3%91uq%C4%ABr"
+      ]
+    },
+    {
+      "id": "vettrir-vettrir-issa",
+      "hv": "Vēttrir vēttrir issa.",
+      "fr": "La loi est la loi.",
+      "en": "The law is the law.",
+      "literal": {
+        "fr": "vēttrir : la loi (collectif de vēttir) ; vēttrir : la loi ; issa : est",
+        "en": "vēttrir: the law (collective of vēttir); vēttrir: the law; issa: is"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys à Meereen, au sujet d'un affranchi qui a tué un prisonnier (Game of Thrones, saison 5, épisode 4). Vēttrir désigne l'ensemble des lois d'une cité.",
+        "en": "Daenerys at Meereen, about a freedman who has killed a prisoner (Game of Thrones, season 5, episode 4). Vēttrir denotes the whole body of a city's laws."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_5_Game_of_Thrones_Dialogue#Episode_504",
+        "https://wiki.languageinvention.com/index.php?title=V%C4%93ttrir"
+      ]
+    },
+    {
+      "id": "buzdari-hezir-ilusy-daor",
+      "hv": "Buzdari hēzīr ilusy daor. Āeksia hēzīr ilusy daor.",
+      "fr": "Il n'y a plus d'esclaves. Il n'y a plus de maîtres.",
+      "en": "There are no more slaves. There are no more masters.",
+      "literal": {
+        "fr": "buzdari : esclaves ; hēzīr : désormais ; ilusy : existent (subjonctif aoriste de ilagon) ; daor : ne pas ; āeksia : maîtres (pluriel de āeksio)",
+        "en": "buzdari: slaves; hēzīr: henceforth; ilusy: exist (aorist subjunctive of ilagon); daor: not; āeksia: masters (plural of āeksio)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys à Meereen (Game of Thrones, saison 5, épisode 4). Hēzīr joint à daor vaut « ne … plus ».",
+        "en": "Daenerys at Meereen (Game of Thrones, season 5, episode 4). Hēzīr combined with daor means “no longer”."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_5_Game_of_Thrones_Dialogue#Episode_504",
+        "https://wiki.languageinvention.com/index.php?title=H%C4%93z%C4%ABr",
+        "https://wiki.languageinvention.com/index.php?title=Ilusy"
+      ]
+    },
+    {
+      "id": "qilonarion-morghon-issa",
+      "hv": "Qilōnarion morghon issa.",
+      "fr": "Le châtiment est la mort.",
+      "en": "The punishment is death.",
+      "literal": {
+        "fr": "qilōnarion : châtiment ; morghon : mort ; issa : est",
+        "en": "qilōnarion: punishment; morghon: death; issa: is"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys prononce la sentence (Game of Thrones, saison 5, épisode 4).",
+        "en": "Daenerys pronounces sentence (Game of Thrones, season 5, episode 4)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_5_Game_of_Thrones_Dialogue#Episode_504",
+        "https://wiki.languageinvention.com/index.php?title=Qil%C5%8Dnarion"
+      ]
+    },
+    {
+      "id": "aohor-jaqiarzir-ivilibin",
+      "hv": "Aōhor jaqiarzir ivīlībin imorghūlīn, jaqiarzus Dārȳs.",
+      "fr": "Pour ta gloire je combats et je meurs, ô reine glorieuse.",
+      "en": "For your glory I fight and die, O glorious queen.",
+      "literal": {
+        "fr": "aōhor : ta ; jaqiarzir : gloire ; ivīlībin : je combats pour (aoriste de ivīlībagon) ; imorghūlīn : et je meurs pour (aoriste de imorghūljagon, allongé par la coordination) ; jaqiarzus : glorieuse (vocatif) ; Dārȳs : reine (vocatif de dāria)",
+        "en": "aōhor: your; jaqiarzir: glory; ivīlībin: I fight for (aorist of ivīlībagon); imorghūlīn: and I die for (aorist of imorghūljagon, lengthened by coordination); jaqiarzus: glorious (vocative); Dārȳs: queen (vocative of dāria)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Salut des combattants à la reine dans l'arène de Daznak ; Jorah le prononce à son tour (Game of Thrones, saison 5, épisode 9). Le préfixe i- fait de « ta gloire » l'objet direct des deux verbes.",
+        "en": "The fighters' salute to the queen in Daznak's Pit; Jorah speaks it in his turn (Game of Thrones, season 5, episode 9). The prefix i- makes “your glory” the direct object of both verbs."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_5_Game_of_Thrones_Dialogue#Episode_509",
+        "https://wiki.languageinvention.com/index.php?title=Jaqiarzir",
+        "https://wiki.languageinvention.com/index.php?title=Iv%C4%ABl%C4%ABbin"
+      ]
+    },
+    {
+      "id": "bosys-bantis-amazis",
+      "hv": "Bōsys bantis amāzis, se morghor zijomy amāzis.",
+      "fr": "La longue nuit vient, et les morts viennent avec elle.",
+      "en": "The long night is coming, and the dead come with it.",
+      "literal": {
+        "fr": "bōsys : longue ; bantis : nuit ; amāzis : vient ; se : et ; morghor : les morts (collectif de morghon) ; zijomy : avec elle (comitatif de ziry) ; amāzis : vient",
+        "en": "bōsys: long; bantis: night; amāzis: comes; se: and; morghor: the dead (collective of morghon); zijomy: with it (comitative of ziry); amāzis: comes"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Melisandre à Daenerys, à Peyredragon (Game of Thrones, saison 7, épisode 2). Le collectif morghor prend un verbe au singulier.",
+        "en": "Melisandre to Daenerys, at Dragonstone (Game of Thrones, season 7, episode 2). The collective morghor takes a singular verb."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_7_Game_of_Thrones_Dialogue#Episode_702",
+        "https://wiki.languageinvention.com/index.php?title=Am%C4%81zis",
+        "https://wiki.languageinvention.com/index.php?title=Zijomy"
+      ]
+    },
+    {
+      "id": "meri-kivio-darilaros",
+      "hv": "Mērī kīviō dārilaros ōz maghagon kostas.",
+      "fr": "Seul le prince qui fut promis peut apporter l'aube.",
+      "en": "Only the prince who was promised can bring the dawn.",
+      "literal": {
+        "fr": "mērī : seul ; kīviō dārilaros : le prince de la promesse (kīviō, génitif de kīvio) ; ōz : aube ; maghagon : apporter ; kostas : peut",
+        "en": "mērī: only; kīviō dārilaros: the prince of the promise (kīviō, genitive of kīvio); ōz: dawn; maghagon: to bring; kostas: can"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Melisandre à Daenerys (Game of Thrones, saison 7, épisode 2). Peterson a rendu la relative anglaise par un simple génitif, « le prince de la promesse ».",
+        "en": "Melisandre to Daenerys (Game of Thrones, season 7, episode 2). Peterson rendered the English relative clause with a plain genitive, “the prince of the promise”."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_7_Game_of_Thrones_Dialogue#Episode_702",
+        "https://wiki.languageinvention.com/index.php?title=K%C4%ABvi%C5%8D",
+        "https://wiki.languageinvention.com/index.php?title=K%C4%ABvi%C5%8D_d%C4%81rilaros"
+      ]
+    },
+    {
+      "id": "riglose-belmot-pryjatys-rhaenan",
+      "hv": "Rīglose Belmot Pryjatys rhaenan.",
+      "fr": "C'est un honneur de rencontrer la Briseuse de chaînes.",
+      "en": "It is an honor to meet the Breaker of Chains.",
+      "literal": {
+        "fr": "rīglose : avec honneur (instrumental de rīgles) ; Belmot Pryjatys : Briseuse de chaînes ; rhaenan : je rencontre",
+        "en": "rīglose: with honor (instrumental of rīgles); Belmot Pryjatys: Breaker of Chains; rhaenan: I meet"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Melisandre à Daenerys (Game of Thrones, saison 7, épisode 2).",
+        "en": "Melisandre to Daenerys (Game of Thrones, season 7, episode 2)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_7_Game_of_Thrones_Dialogue#Episode_702",
+        "https://wiki.languageinvention.com/index.php?title=R%C4%ABglose_avy_rhaenan",
+        "https://wiki.languageinvention.com/index.php?title=R%C4%ABglose"
+      ]
+    },
+    {
+      "id": "kesir-dreji-jiorilaks",
+      "hv": "Kesīr drējī jiōrilāks.",
+      "fr": "Tu es la bienvenue ici.",
+      "en": "You are very welcome here.",
+      "literal": {
+        "fr": "kesīr : ici ; drējī : vraiment ; jiōrilāks : tu seras reçue (futur passif de jiōragon « recevoir »)",
+        "en": "kesīr: here; drējī: truly; jiōrilāks: you will be received (future passive of jiōragon “to receive”)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys à Melisandre (Game of Thrones, saison 7, épisode 2).",
+        "en": "Daenerys to Melisandre (Game of Thrones, season 7, episode 2)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_7_Game_of_Thrones_Dialogue#Episode_702",
+        "https://wiki.languageinvention.com/index.php?title=Kes%C4%ABr_dr%C4%93j%C4%AB_ji%C5%8Dril%C4%81ks"
+      ]
+    },
+    {
+      "id": "melisandrose-broziks",
+      "hv": "Melisandrose brōziks.",
+      "fr": "On m'appelle Melisandre.",
+      "en": "I am called Melisandre.",
+      "literal": {
+        "fr": "Melisandrose : par Melisandre (instrumental) ; brōziks : je suis appelée (aoriste passif de brōzagon)",
+        "en": "Melisandrose: by Melisandre (instrumental); brōziks: I am called (aorist passive of brōzagon)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Melisandre se présente à Daenerys (Game of Thrones, saison 7, épisode 2).",
+        "en": "Melisandre introduces herself to Daenerys (Game of Thrones, season 7, episode 2)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_7_Game_of_Thrones_Dialogue#Episode_702",
+        "https://wiki.languageinvention.com/index.php?title=Melisandrose",
+        "https://wiki.languageinvention.com/index.php?title=Br%C5%8Dziks"
+      ]
+    },
+    {
+      "id": "sir-daeremirossa-iksat",
+      "hv": "Sīr dāeremirossa iksāt.",
+      "fr": "Vous êtes maintenant des libérateurs.",
+      "en": "Now you are liberators.",
+      "literal": {
+        "fr": "sīr : maintenant ; dāeremirossa : libérateurs (pluriel de dāeremiros) ; iksāt : vous êtes",
+        "en": "sīr: now; dāeremirossa: liberators (plural of dāeremiros); iksāt: you are"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daenerys aux Immaculés, à Port-Réal (Game of Thrones, saison 8, épisode 6).",
+        "en": "Daenerys to the Unsullied, in King's Landing (Game of Thrones, season 8, episode 6)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_8_Game_of_Thrones_Dialogue#Episode_806",
+        "https://wiki.languageinvention.com/index.php?title=D%C4%81eremirossa"
+      ]
+    },
+    {
+      "id": "dohaeras-syraks",
+      "hv": "Dohaerās, Syraks.",
+      "fr": "Sers, Syrax.",
+      "en": "Serve, Syrax.",
+      "literal": {
+        "fr": "dohaerās : sers (impératif singulier de dohaeragon) ; Syraks : Syrax",
+        "en": "dohaerās: serve (singular imperative of dohaeragon); Syraks: Syrax"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Ordre d'un gardien de dragons à Syrax (House of the Dragon, saison 1, épisode 1). C'est l'ordre le plus fréquent dans la série : Aemond à Vhagar, Dohaerās, Vagus (saison 1, épisode 7), Rhaenyra à Vermithor (saison 2, épisode 7).",
+        "en": "A dragonkeeper's order to Syrax (House of the Dragon, season 1, episode 1). It is the most frequent command in the series: Aemond to Vhagar, Dohaerās, Vagus (season 1, episode 7), Rhaenyra to Vermithor (season 2, episode 7)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_101",
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_107",
+        "https://wiki.languageinvention.com/index.php?title=Dohaer%C4%81s"
+      ]
+    },
+    {
+      "id": "lykiri",
+      "hv": "Lykirī.",
+      "fr": "Calme.",
+      "en": "Calm.",
+      "literal": {
+        "fr": "lykirī : calmement (adverbe), employé comme ordre",
+        "en": "lykirī: calmly (adverb), used as a command"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Les gardiens de dragons (House of the Dragon, saison 1, épisode 1), puis Aemond, Rhaenyra, Daemon et d'autres cavaliers. Ce n'est pas un impératif mais un adverbe.",
+        "en": "The dragonkeepers (House of the Dragon, season 1, episode 1), then Aemond, Rhaenyra, Daemon and other riders. It is not an imperative but an adverb."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_101",
+        "https://wiki.languageinvention.com/index.php?title=Lykir%C4%AB"
+      ]
+    },
+    {
+      "id": "umbas-rybas",
+      "hv": "Umbās. Rȳbās.",
+      "fr": "Attends. Obéis.",
+      "en": "Wait. Obey.",
+      "literal": {
+        "fr": "umbās : attends (impératif de umbagon « rester, attendre ») ; rȳbās : écoute, obéis (impératif de rȳbagon « entendre, obéir »)",
+        "en": "umbās: wait (imperative of umbagon “to stay, to wait”); rȳbās: listen, obey (imperative of rȳbagon “to hear, to obey”)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Les gardiens de dragons (House of the Dragon, saison 1, épisode 1). Umbās revient dans l'épisode 6, et Aemond dit Umbās, Vagus, « attends, Vhagar », à Repos-du-Freux (saison 2, épisode 4).",
+        "en": "The dragonkeepers (House of the Dragon, season 1, episode 1). Umbās returns in episode 6, and Aemond says Umbās, Vagus, “wait, Vhagar”, at Rook's Rest (season 2, episode 4)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_101",
+        "https://wiki.languageinvention.com/index.php?title=Season_2_House_of_the_Dragon_Dialogue#Episode_204",
+        "https://wiki.languageinvention.com/index.php?title=Umb%C4%81s",
+        "https://wiki.languageinvention.com/index.php?title=R%C8%B3b%C4%81s"
+      ]
+    },
+    {
+      "id": "mazis-naejot",
+      "hv": "Māzīs. Naejot.",
+      "fr": "Viens. En avant.",
+      "en": "Come. Forward.",
+      "literal": {
+        "fr": "māzīs : viens (impératif de māzigon « venir ») ; naejot : en avant",
+        "en": "māzīs: come (imperative of māzigon “to come”); naejot: forward"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Les gardiens de dragons (House of the Dragon, saison 1, épisode 1) ; Daemon dit encore Māzīs (saison 1, épisode 10).",
+        "en": "The dragonkeepers (House of the Dragon, season 1, episode 1); Daemon also says Māzīs (season 1, episode 10)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_101",
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_1010",
+        "https://wiki.languageinvention.com/index.php?title=M%C4%81z%C4%ABs",
+        "https://wiki.languageinvention.com/index.php?title=Naejot"
+      ]
+    },
+    {
+      "id": "kelis",
+      "hv": "Kelīs.",
+      "fr": "Arrête.",
+      "en": "Halt.",
+      "literal": {
+        "fr": "kelīs : arrête (impératif singulier de keligon « cesser, s’arrêter »)",
+        "en": "kelīs: stop (singular imperative of keligon “to cease, to stop”)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Lucerys (House of the Dragon, saison 1, épisode 6). Au pluriel, kelītīs est l'ordre de Daenerys aux Immaculés (Game of Thrones, saison 3, épisode 4).",
+        "en": "Lucerys (House of the Dragon, season 1, episode 6). In the plural, kelītīs is Daenerys's order to the Unsullied (Game of Thrones, season 3, episode 4)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_106",
+        "https://wiki.languageinvention.com/index.php?title=Kel%C4%ABs",
+        "https://wiki.languageinvention.com/index.php?title=Keligon"
+      ]
+    },
+    {
+      "id": "tresy-dori-kesan",
+      "hv": "Trēsy dōrī kesan.",
+      "fr": "Je ne serai jamais un fils.",
+      "en": "I shall never be a son.",
+      "literal": {
+        "fr": "trēsy : fils ; dōrī : jamais ; kesan : je serai (futur de sagon, à radical supplétif)",
+        "en": "trēsy: son; dōrī: never; kesan: I shall be (future of sagon, with a suppletive stem)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Rhaenyra à Daemon (House of the Dragon, saison 1, épisode 1). Dōrī suffit à nier, sans daor.",
+        "en": "Rhaenyra to Daemon (House of the Dragon, season 1, episode 1). Dōrī negates on its own, without daor."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_101",
+        "https://wiki.languageinvention.com/index.php?title=D%C5%8Dr%C4%AB",
+        "https://wiki.languageinvention.com/index.php?title=Kesan"
+      ]
+    },
+    {
+      "id": "kepa-nuha-yne-brostas",
+      "hv": "Kepa ñuha yne Zaldrīzdōro Dārilaroso brōstas.",
+      "fr": "Mon père m'a nommée princesse de Peyredragon.",
+      "en": "My father named me Princess of Dragonstone.",
+      "literal": {
+        "fr": "kepa : père ; ñuha : mon ; yne : me ; Zaldrīzdōro : de Peyredragon (génitif de Zaldrīzdōron) ; Dārilaroso : princesse (instrumental de dārilaros) ; brōstas : a nommé (parfait de brōzagon)",
+        "en": "kepa: father; ñuha: my; yne: me; Zaldrīzdōro: of Dragonstone (genitive of Zaldrīzdōron); Dārilaroso: princess (instrumental of dārilaros); brōstas: named (perfect of brōzagon)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Rhaenyra à Daemon, à Peyredragon (House of the Dragon, saison 1, épisode 2). Zaldrīzdōron, formé sur zaldrīzes et dōron, « pierre », est le nom valyrien de l'île.",
+        "en": "Rhaenyra to Daemon, at Dragonstone (House of the Dragon, season 1, episode 2). Zaldrīzdōron, formed from zaldrīzes and dōron, “stone”, is the Valyrian name of the island."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_102",
+        "https://wiki.languageinvention.com/index.php?title=Zaldr%C4%ABzd%C5%8Dron",
+        "https://wiki.languageinvention.com/index.php?title=D%C4%81rilaroso"
+      ]
+    },
+    {
+      "id": "jaehossa-itymagon-daor",
+      "hv": "Jaehossa itymagon daor.",
+      "fr": "Ne te joue pas des dieux.",
+      "en": "Do not trifle with the gods.",
+      "literal": {
+        "fr": "jaehossa : les dieux (accusatif pluriel de jaes) ; itymagon : jouer avec (infinitif) ; daor : ne pas",
+        "en": "jaehossa: the gods (accusative plural of jaes); itymagon: to trifle with (infinitive); daor: not"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Le doyen des gardiens de dragons à Lucerys (House of the Dragon, saison 1, épisode 6).",
+        "en": "The elder dragonkeeper to Lucerys (House of the Dragon, season 1, episode 6)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_106",
+        "https://wiki.languageinvention.com/index.php?title=Itymagon",
+        "https://wiki.languageinvention.com/index.php?title=Jaehossa"
+      ]
+    },
+    {
+      "id": "hen-embar-masti",
+      "hv": "Hen embār masti. Va embrot āmāzīli.",
+      "fr": "De la mer nous sommes venus. À la mer nous retournerons.",
+      "en": "From the sea we came. To the sea we shall return.",
+      "literal": {
+        "fr": "hen embār : de la mer (hen suivi du locatif de embar) ; masti : nous sommes venus (parfait de māzigon) ; va embrot : vers la mer (va suivi du datif) ; āmāzīli : nous retournerons (futur de āmāzigon)",
+        "en": "hen embār: from the sea (hen followed by the locative of embar); masti: we came (perfect of māzigon); va embrot: to the sea (va followed by the dative); āmāzīli: we shall return (future of āmāzigon)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Vaemond Velaryon, aux funérailles de Laena, à Lamarck (House of the Dragon, saison 1, épisode 7).",
+        "en": "Vaemond Velaryon, at Laena's funeral on Driftmark (House of the Dragon, season 1, episode 7)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_107",
+        "https://wiki.languageinvention.com/index.php?title=Emb%C4%81r",
+        "https://wiki.languageinvention.com/index.php?title=%C4%80m%C4%81z%C4%ABli"
+      ]
+    },
+    {
+      "id": "velaria-embonar-issi",
+      "hv": "Velaria embōñar issi. Yn ao nykē perzōñi iksi.",
+      "fr": "Les Velaryon sont de la mer. Mais toi et moi sommes faits de feu.",
+      "en": "The Velaryons are of the sea. But you and I are made of fire.",
+      "literal": {
+        "fr": "Velaria : les Velaryon (pluriel de Velarion) ; embōñar : de la mer ; issi : sont ; yn : mais ; ao nykē : toi et moi (nyke allongé par la coordination) ; perzōñi : de feu ; iksi : nous sommes",
+        "en": "Velaria: the Velaryons (plural of Velarion); embōñar: of the sea; issi: are; yn: but; ao nykē: you and I (nyke lengthened by coordination); perzōñi: of fire; iksi: we are"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Rhaenyra à Daemon, sur le rivage de Lamarck (House of the Dragon, saison 1, épisode 7).",
+        "en": "Rhaenyra to Daemon, on the shore of Driftmark (House of the Dragon, season 1, episode 7)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_107",
+        "https://wiki.languageinvention.com/index.php?title=Nyk%C4%93",
+        "https://wiki.languageinvention.com/index.php?title=Perz%C5%8D%C3%B1i"
+      ]
+    },
+    {
+      "id": "targarior-hae-jaehorro-issa",
+      "hv": "Targārior hae jaehorro issa, hae valarra daor, vestretiks.",
+      "fr": "On a dit des Targaryen qu'ils sont plus proches des dieux que des hommes.",
+      "en": "It has been said that the Targaryens are closer to gods than to men.",
+      "literal": {
+        "fr": "Targārior : les Targaryen (collectif de Targārien) ; hae jaehorro : comme les dieux (hae suivi du locatif collectif de jaes) ; issa : est (singulier, accord du collectif) ; hae valarra daor : non comme les hommes (locatif collectif de vala) ; vestretiks : a été dit (forme passive de vestragon « dire »)",
+        "en": "Targārior: the Targaryens (collective of Targārien); hae jaehorro: like the gods (hae followed by the locative collective of jaes); issa: is (singular, agreeing with the collective); hae valarra daor: not like men (locative collective of vala); vestretiks: was said (passive form of vestragon “to say”)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Paroles de Rhaenyra jeune, dans une vision de Daemon à Harrenhal (House of the Dragon, saison 2, épisode 4).",
+        "en": "Words of a young Rhaenyra, in one of Daemon's visions at Harrenhal (House of the Dragon, season 2, episode 4)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_2_House_of_the_Dragon_Dialogue#Episode_204",
+        "https://wiki.languageinvention.com/index.php?title=Targ%C4%81rior",
+        "https://wiki.languageinvention.com/index.php?title=Valarra"
+      ]
+    },
+    {
+      "id": "simas-hurlilios",
+      "hv": "Sīmās, Hūrlilios.",
+      "fr": "Monte, Danselune.",
+      "en": "Rise, Moondancer.",
+      "literal": {
+        "fr": "sīmās : monte, élève-toi (impératif de sīmagon) ; Hūrlilios : Danselune (vocatif de Hūrlilio)",
+        "en": "sīmās: rise (imperative of sīmagon); Hūrlilios: Moondancer (vocative of Hūrlilio)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Baela à Danselune (House of the Dragon, saison 2, épisode 3). Hūrlilio est le nom valyrien que Peterson donne à ce dragon.",
+        "en": "Baela to Moondancer (House of the Dragon, season 2, episode 3). Hūrlilio is the Valyrian name Peterson gives this dragon."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_2_House_of_the_Dragon_Dialogue#Episode_203",
+        "https://wiki.languageinvention.com/index.php?title=H%C5%ABrlilios",
+        "https://wiki.languageinvention.com/index.php?title=S%C4%ABm%C4%81s"
+      ]
+    },
+    {
+      "id": "angos-melys",
+      "hv": "Angōs, Melys.",
+      "fr": "Mords, Meleys.",
+      "en": "Bite, Meleys.",
+      "literal": {
+        "fr": "angōs : mords, attaque (impératif de angogon « mordre ») ; Melys : Meleys (vocatif de Meles)",
+        "en": "angōs: bite, attack (imperative of angogon “to bite”); Melys: Meleys (vocative of Meles)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Rhaenys à Meleys, à Repos-du-Freux (House of the Dragon, saison 2, épisode 4). Dans les ordres aux dragons, angogon prend le sens d'« attaquer ».",
+        "en": "Rhaenys to Meleys, at Rook's Rest (House of the Dragon, season 2, episode 4). In dragon commands, angogon takes the sense “to attack”."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_2_House_of_the_Dragon_Dialogue#Episode_204",
+        "https://wiki.languageinvention.com/index.php?title=Ang%C5%8Ds",
+        "https://wiki.languageinvention.com/index.php?title=Angogon"
+      ]
+    },
+    {
+      "id": "sonar-amazis",
+      "hv": "Sōnar amāzis.",
+      "fr": "L'hiver vient.",
+      "en": "Winter is coming.",
+      "literal": {
+        "fr": "sōnar : l’hiver (collectif de sōna « neige ») ; amāzis : vient (présent, 3e personne du singulier, de amāzigon)",
+        "en": "sōnar: winter (collective of sōna “snow”); amāzis: comes (present, 3rd person singular, of amāzigon)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Daemon à Rhaenyra, après ses visions de Harrenhal (House of the Dragon, saison 2, épisode 8).",
+        "en": "Daemon to Rhaenyra, after his visions at Harrenhal (House of the Dragon, season 2, episode 8)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_2_House_of_the_Dragon_Dialogue#Episode_208",
+        "https://wiki.languageinvention.com/index.php?title=S%C5%8Dnar"
+      ]
+    },
+    {
+      "id": "zaldrizo-anogar-istas",
+      "hv": "Valāzma Stefan Darklin zaldrīzo ānogar istas.",
+      "fr": "Ser Steffon Darklyn était du sang du dragon.",
+      "en": "Ser Steffon Darklyn was of the blood of the dragon.",
+      "literal": {
+        "fr": "valāzma : ser, chevalier ; Stefan Darklin : Steffon Darklyn ; zaldrīzo ānogar : sang du dragon (zaldrīzo, génitif de zaldrīzes) ; istas : était (parfait de sagon)",
+        "en": "valāzma: ser, knight; Stefan Darklin: Steffon Darklyn; zaldrīzo ānogar: blood of the dragon (zaldrīzo, genitive of zaldrīzes); istas: was (perfect of sagon)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Rhaenyra au doyen des gardiens de dragons (House of the Dragon, saison 2, épisode 7).",
+        "en": "Rhaenyra to the elder dragonkeeper (House of the Dragon, season 2, episode 7)."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Season_2_House_of_the_Dragon_Dialogue#Episode_207",
+        "https://wiki.languageinvention.com/index.php?title=Val%C4%81zma",
+        "https://wiki.languageinvention.com/index.php?title=Zaldr%C4%ABzo"
+      ]
+    },
+    {
+      "id": "geros-ilas",
+      "hv": "Geros ilas.",
+      "fr": "Au revoir.",
+      "en": "Goodbye.",
+      "literal": {
+        "fr": "geros : chemin ; ilas : sois droit (forme de ilagon, pris dans son sens ancien « être droit »)",
+        "en": "geros: path; ilas: lie straight (a form of ilagon, in its old sense “to lie straight”)"
+      },
+      "status": "atteste",
+      "context": {
+        "fr": "Formule d'adieu. Peterson l'emploie pour clore ses billets consacrés au haut valyrien, par exemple celui du 26 mai 2013 sur la flexion.",
+        "en": "A farewell formula. Peterson uses it to close his posts on High Valyrian, for example the one of 26 May 2013 on inflection."
+      },
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Geros_ilas",
+        "https://dothraki.com/?p=1227"
+      ]
+    }
+  ]
+}

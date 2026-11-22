@@ -1,0 +1,246 @@
+/*
+ * L'index : des colonnes serrées, comme à la fin d'un livre savant. Pas de cartes, pas de
+ * tableau : des lignes, une lettre gothique en tête de chaque groupe, l'épithète en italique.
+ */
+.head {
+  margin-block-end: var(--e6);
+  row-gap: var(--e5);
+}
+
+.lead {
+  max-inline-size: 52ch;
+  margin-block-start: var(--e4);
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.35;
+  color: var(--encre);
+  text-wrap: pretty;
+}
+
+.legend {
+  display: grid;
+  margin-block-start: var(--e3);
+  gap: var(--e2);
+  align-content: end;
+  padding: 0;
+  list-style: none;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--encre-pale);
+}
+
+.legend li {
+  display: grid;
+  grid-template-columns: 1.4rem minmax(0, 1fr);
+  align-items: center;
+}
+
+.ribbon {
+  margin-block-end: var(--e7);
+}
+
+/* ------------------------------------------------------------ commandes */
+
+.controls {
+  display: grid;
+  gap: var(--e4);
+  margin-block-end: var(--e6);
+}
+
+.sort {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--e1) var(--e4);
+}
+
+.sortLabel {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--encre-pale);
+}
+
+.sortOptions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 var(--e4);
+}
+
+.sortButton {
+  min-block-size: var(--cible);
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--encre-pale);
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 480;
+  letter-spacing: -0.01em;
+  text-decoration-line: underline;
+  text-decoration-color: transparent;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 7px;
+  cursor: pointer;
+  transition: color var(--d-geste-court) var(--c-power4), text-decoration-color var(--d-geste-court) var(--c-power4);
+}
+
+.sortButton:hover {
+  color: var(--encre);
+  text-decoration-color: var(--v1-trait);
+}
+
+.sortButton[aria-pressed='true'] {
+  color: var(--rubrique);
+  text-decoration-color: var(--rubrique);
+}
+
+/* ------------------------------------------------------------ l'index */
+
+.index {
+  column-width: 14.5rem;
+  column-gap: var(--e6);
+  column-fill: balance;
+}
+
+.group {
+  margin-block-end: var(--e5);
+}
+
+.letter,
+.house,
+.generation {
+  break-inside: avoid;
+  break-after: avoid;
+  margin-block-end: var(--e2);
+  color: var(--rubrique);
+}
+
+.letter {
+  font-family: var(--f-lettrine);
+  font-size: 2.75rem;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.house {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 560;
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+
+.generation {
+  display: flex;
+  align-items: baseline;
+  gap: var(--e3);
+}
+
+.numeral {
+  font-family: var(--f-lettrine);
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.epoch {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+}
+
+.visuallyHidden {
+  position: absolute;
+  inline-size: 1px;
+  block-size: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.entries {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Une entrée : signe en marge suspendue, puis le nom ; la suite revient en retrait. */
+.entry {
+  display: grid;
+  grid-template-columns: 1.3rem minmax(0, 1fr);
+  break-inside: avoid;
+  padding-block: 0.16rem;
+  font-family: var(--f-recit);
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.signs {
+  padding-block-start: 0.18rem;
+}
+
+.body {
+  padding-inline-start: 0.9rem;
+  text-indent: -0.9rem;
+}
+
+.name {
+  color: var(--encre);
+  font-weight: 500;
+  text-decoration-line: underline;
+  text-decoration-color: var(--v1-trait);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+}
+
+.name:hover {
+  color: var(--rubrique);
+  text-decoration-color: var(--rubrique);
+  text-decoration-thickness: 2px;
+}
+
+.qualifier {
+  font-size: 0.88rem;
+  color: var(--encre-pale);
+}
+
+.epithet {
+  font-style: italic;
+}
+
+.years {
+  margin-inline-start: 0.45em;
+  font-family: var(--f-musee);
+  font-size: 0.8rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+  white-space: nowrap;
+}
+
+.crown {
+  color: var(--v1-or-sombre);
+}
+
+.wing {
+  display: inline-block;
+  margin-inline-start: 0.4em;
+  vertical-align: -0.1em;
+  color: var(--rubrique);
+}
+
+/* Biographie rédigée : un point plein, à l'encre rouge. */
+.bio {
+  display: inline-block;
+  inline-size: 0.5em;
+  block-size: 0.5em;
+  margin-inline-start: 0.4em;
+  border-radius: 50%;
+  background: var(--rubrique);
+  vertical-align: 0.08em;
+}
+
+.legend .bio {
+  margin-inline-start: 0.2em;
+}

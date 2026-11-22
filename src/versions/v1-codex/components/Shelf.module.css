@@ -1,0 +1,235 @@
+/* L'étagère : une planche de suie au bas de l'écran, quatre entrées en texte. */
+.shelf {
+  position: fixed;
+  inset-inline: 0;
+  inset-block-end: 0;
+  z-index: 40;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  block-size: calc(var(--v1-etagere) + env(safe-area-inset-bottom, 0px));
+  padding-block-end: env(safe-area-inset-bottom, 0px);
+  background-color: var(--suie);
+  background-image: var(--v1-grain);
+  background-size: 280px 280px;
+  box-shadow: 0 -6px 0 oklch(0.1 0.012 25 / 0.55);
+}
+
+@media (min-width: 1024px) {
+  .shelf {
+    display: none;
+  }
+}
+
+.entry {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-block-size: var(--cible);
+  padding-inline: 0.25rem;
+  color: var(--ivoire);
+}
+
+.entry[aria-expanded='true'] {
+  color: var(--braise);
+}
+
+.entryLabel {
+  font-family: var(--f-musee);
+  font-size: 0.92rem;
+  font-weight: 500;
+  line-height: 1.1;
+  text-align: start;
+}
+
+.entryLabel:global(.gloss--hv) {
+  font-family: var(--f-chronique);
+  font-size: 0.95rem;
+}
+
+.entryLabel :global(.gloss__tr) {
+  font-size: 0.72rem;
+}
+
+/* Tiroir : toute la fenêtre, sur la pierre. Il monte de l'étagère. */
+.drawer {
+  inline-size: 100%;
+  max-inline-size: none;
+  block-size: 100%;
+  max-block-size: none;
+  margin: 0;
+  padding: var(--e4) var(--e4) calc(var(--e6) + env(safe-area-inset-bottom, 0px));
+  border: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  background-color: var(--obsidienne);
+  background-image: var(--v1-lumiere), var(--v1-grain);
+  background-size: 100% 100%, 280px 280px;
+  color: var(--ivoire);
+  opacity: 1;
+  transform: none;
+  transition:
+    transform var(--d-geste-long) var(--c-expo),
+    opacity var(--d-geste-long) var(--c-expo),
+    overlay var(--d-geste-long) allow-discrete,
+    display var(--d-geste-long) allow-discrete;
+}
+
+@starting-style {
+  .drawer[open] {
+    opacity: 0;
+    transform: translateY(2rem);
+  }
+}
+
+.drawer::backdrop {
+  background: oklch(0.14 0.012 25 / 0.85);
+}
+
+.drawerHead {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--e4);
+  margin-block-end: var(--e5);
+}
+
+.drawerTitle {
+  font-size: var(--t2);
+  color: var(--ivoire);
+}
+
+.close {
+  flex: none;
+  min-block-size: var(--cible);
+  padding-inline: var(--e4);
+  background: var(--sang);
+  color: var(--ivoire);
+  font-family: var(--f-musee);
+  font-weight: 500;
+}
+
+.closeLabel :global(.gloss__tr) {
+  color: inherit;
+  opacity: 0.85;
+}
+
+/* Volumes couchés : des dos de 64 px, empilés comme sur une table. */
+.stack {
+  display: grid;
+  gap: 3px;
+  margin: 0;
+}
+
+.lying {
+  display: grid;
+  grid-template-columns: 3rem minmax(0, 1fr) auto;
+  align-items: center;
+  gap: var(--e3);
+  min-block-size: 4rem;
+  padding: 0.5rem var(--e4) 0.5rem 0.75rem;
+  color: var(--ivoire);
+  text-decoration: none;
+  background-color: var(--cuir);
+  background-image:
+    linear-gradient(
+      180deg,
+      oklch(0.93 0.025 85 / 0.07),
+      transparent 35%,
+      transparent 70%,
+      oklch(0.1 0.012 25 / 0.45)
+    ),
+    var(--v1-grain);
+  background-size: 100% 100%, 280px 280px;
+}
+
+.lying[data-open] {
+  --cuir: var(--sang);
+}
+
+.lyingNumeral {
+  font-family: var(--f-lettrine);
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.03em;
+}
+
+.lying[data-open] .lyingNumeral {
+  color: var(--or);
+}
+
+.lyingTitle {
+  display: grid;
+  gap: 0.1rem;
+  min-inline-size: 0;
+}
+
+.lyingPrimary {
+  font-family: var(--f-chronique);
+  font-size: 1.15rem;
+  font-weight: 500;
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+}
+
+.lyingGloss {
+  font-family: var(--f-recit);
+  font-size: 0.85rem;
+  font-style: italic;
+  line-height: 1.2;
+  color: oklch(0.84 0.03 70);
+}
+
+.lyingYears {
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: 1.2;
+  text-align: end;
+  color: oklch(0.82 0.02 70);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+/* Signets à plat : rubans rouges à queue d'aronde, d'inégales longueurs. */
+.registers {
+  display: grid;
+  gap: var(--e3);
+  margin: 0;
+}
+
+.registers li:nth-child(3n + 1) .flatRibbon {
+  inline-size: 92%;
+}
+
+.registers li:nth-child(3n + 2) .flatRibbon {
+  inline-size: 84%;
+}
+
+.registers li:nth-child(3n) .flatRibbon {
+  inline-size: 88%;
+}
+
+.flatRibbon {
+  display: grid;
+  gap: 0.1rem;
+  min-block-size: 3.5rem;
+  padding: 0.55rem 2rem 0.55rem var(--e4);
+  color: var(--ivoire);
+  text-decoration: none;
+  background-color: var(--sang);
+  background-image: repeating-linear-gradient(180deg, oklch(0.93 0.025 85 / 0.05) 0 1px, transparent 1px 3px);
+  clip-path: polygon(0 0, 100% 0, calc(100% - 12px) 50%, 100% 100%, 0 100%);
+}
+
+.flatRibbon[data-current] {
+  background-color: var(--cramoisi);
+}
+
+.flatRibbon:focus-visible {
+  outline: 2px solid var(--ivoire);
+  outline-offset: -5px;
+}
+
+.languages {
+  display: grid;
+  gap: var(--e6);
+}

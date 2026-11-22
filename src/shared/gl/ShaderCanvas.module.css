@@ -1,0 +1,16 @@
+/*
+  Le cadre prend la taille que lui donne la page ; le canvas le remplit exactement.
+  Aucun fond ici : la couleur de repli appartient à la page (fallback).
+*/
+.frame {
+  position: relative;
+  overflow: hidden;
+}
+
+.canvas {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+}

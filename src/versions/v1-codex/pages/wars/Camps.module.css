@@ -1,0 +1,95 @@
+/* Les camps : fanions et chefs, face à face. */
+.camps {
+  display: grid;
+  gap: var(--e5);
+}
+
+.campWrap {
+  display: grid;
+  gap: var(--e4);
+}
+
+.camp {
+  display: grid;
+  grid-template-columns: 2.2rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: start;
+}
+
+.pennon {
+  inline-size: 2.2rem;
+  block-size: auto;
+}
+
+.pennon path {
+  fill: var(--velin);
+  stroke: var(--encre);
+  stroke-width: 1.5;
+  stroke-linejoin: miter;
+}
+
+.pennon[data-tone='noir'] path {
+  fill: var(--encre);
+}
+
+.pennon[data-tone='vert'] path {
+  fill: oklch(0.43 0.09 152);
+}
+
+.pennon[data-tone='rouge'] path {
+  fill: var(--sang);
+}
+
+.pennon[data-tone='or'] path {
+  fill: var(--v1-or-sombre);
+}
+
+.name {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 540;
+  line-height: 1.1;
+  letter-spacing: -0.015em;
+  color: var(--encre);
+  text-wrap: balance;
+}
+
+.leaders {
+  display: grid;
+  gap: 0.2rem;
+  margin: var(--e3) 0 0;
+  padding: 0;
+  list-style: none;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.4;
+}
+
+.versus {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  color: var(--rubrique);
+}
+
+@media (min-width: 720px) {
+  .camps {
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    column-gap: var(--gouttiere);
+    row-gap: var(--e6);
+  }
+
+  .camps[data-duel] {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+
+  .camps[data-duel] .campWrap:nth-child(2) {
+    grid-template-columns: auto minmax(0, 1fr);
+    column-gap: var(--gouttiere);
+    align-items: start;
+  }
+
+  .camps[data-duel] .versus {
+    padding-block-start: 0.6rem;
+  }
+}

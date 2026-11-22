@@ -1,0 +1,25 @@
+/* Statut d'une forme : glyphe carré sur la ligne, libellé de cartel. Rouge pour ce que la bibliothèque compose elle-même. */
+.mark {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.2;
+  color: var(--v1-texte-2);
+  white-space: nowrap;
+}
+
+.glyph {
+  flex: none;
+  color: var(--v1-texte);
+}
+
+.mark[data-status='editorial'] .glyph {
+  color: var(--v1-rubrique);
+}
+
+.mark[data-status='adaptation'] .glyph {
+  color: var(--v1-texte-2);
+}

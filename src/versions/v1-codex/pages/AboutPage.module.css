@@ -1,0 +1,147 @@
+/* À propos : un colophon. Récit sobre, la planche d'un dragon, le spécimen des quatre voix, le poinçon. */
+.title {
+  margin-block-end: var(--e6);
+}
+
+.lead {
+  max-inline-size: 34em;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  hyphens: manual;
+  text-wrap: pretty;
+}
+
+.section {
+  margin-block: var(--e7) var(--e3);
+}
+
+.prose {
+  max-inline-size: var(--mesure);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--v1-texte);
+  hyphens: auto;
+  font-variant-numeric: oldstyle-nums proportional-nums;
+}
+
+.prose > p + p {
+  text-indent: 1.5em;
+}
+
+.unofficial {
+  margin-block-start: var(--e4);
+  font-style: italic;
+  color: var(--v1-texte-2);
+}
+
+.prose > .unofficial {
+  text-indent: 0;
+}
+
+/* ------------------------------------------------------------ Planche */
+.plate {
+  margin-block: var(--e6) var(--e4);
+}
+
+.dragon {
+  display: block;
+  inline-size: min(100%, 52rem);
+  block-size: auto;
+  max-block-size: 70vh;
+}
+
+/* ------------------------------------------------------------ Spécimen des polices */
+.faces {
+  display: grid;
+  margin: var(--e5) 0 0;
+  padding: 0;
+  border-block-start: 2px solid var(--v1-texte);
+}
+
+.face {
+  display: grid;
+  gap: var(--e2);
+  padding-block: var(--e5);
+  border-block-end: 1px solid var(--v1-trait);
+}
+
+@media (min-width: 1024px) {
+  .face {
+    grid-template-columns: minmax(0, 5fr) minmax(0, 5fr);
+    grid-template-rows: auto auto;
+    column-gap: var(--gouttiere);
+    align-items: baseline;
+  }
+
+  .faceName {
+    grid-row: 1 / span 2;
+  }
+}
+
+.faceName {
+  font-size: clamp(2.2rem, 1.4rem + 3.2vw, 4.2rem);
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--v1-texte);
+}
+
+.faceName[data-face='grenze'] {
+  color: var(--v1-rubrique);
+  letter-spacing: 0;
+}
+
+.faceName[data-face='alegreya'] {
+  font-style: italic;
+}
+
+.faceRole {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.45;
+  color: var(--v1-texte);
+}
+
+.faceCredit {
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  color: var(--v1-texte-2);
+}
+
+/* ------------------------------------------------------------ Poinçon */
+.mark {
+  display: grid;
+  gap: var(--e5);
+  align-items: center;
+}
+
+@media (min-width: 720px) {
+  .mark {
+    grid-template-columns: auto minmax(0, 36rem);
+    justify-content: start;
+  }
+}
+
+.hallmark {
+  color: var(--v1-texte);
+}
+
+.markText {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--v1-texte);
+}
+
+.justification {
+  margin-block-start: var(--e8);
+  max-inline-size: 32em;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--v1-texte-2);
+  font-variant-numeric: oldstyle-nums;
+}

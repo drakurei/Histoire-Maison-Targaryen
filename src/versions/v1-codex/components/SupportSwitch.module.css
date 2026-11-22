@@ -1,0 +1,24 @@
+/* Langue des gloses : un mot en italique, puis les deux sigles. */
+.support {
+  display: flex;
+  align-items: center;
+  gap: 0.15rem;
+}
+
+.support[data-variant='drawer'] {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--e2);
+}
+
+.label {
+  font-family: var(--f-recit);
+  font-size: 0.9rem;
+  font-style: italic;
+  line-height: 1;
+  color: var(--v1-texte-2);
+}
+
+.support[data-variant='drawer'] .label {
+  font-size: var(--t0);
+}

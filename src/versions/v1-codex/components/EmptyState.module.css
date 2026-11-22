@@ -1,0 +1,41 @@
+/* État vide : la chronique se tait, et dit pourquoi. */
+.empty {
+  display: grid;
+  justify-items: start;
+  gap: var(--e3);
+  margin-block: var(--e6);
+  max-inline-size: 34rem;
+}
+
+.title {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-style: italic;
+  font-weight: 500;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  color: var(--v1-texte);
+}
+
+.body {
+  font-family: var(--f-recit);
+  color: var(--v1-texte-2);
+}
+
+/* Bouton du Codex : encre pleine, angles vifs, 44 px. */
+.action {
+  display: inline-flex;
+  align-items: center;
+  min-block-size: var(--cible);
+  padding: 0 var(--e5);
+  background: var(--encre);
+  color: var(--velin);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.action:hover {
+  background: var(--sang);
+  color: var(--ivoire);
+}

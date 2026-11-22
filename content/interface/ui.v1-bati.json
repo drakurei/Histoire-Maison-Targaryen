@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-09",
+  "note": "Bâti de la version 1 (Le Codex) : dos de volumes, signets, étagère, barre haute, recherche, colophon et composants communs. Le valyrien sera ajouté par le linguiste.",
+  "items": [
+    { "key": "page.bati.spines.label", "fr": "Les huit volumes", "en": "The eight volumes" },
+    { "key": "page.bati.volume.numbered", "fr": "Volume {n}", "en": "Volume {n}" },
+    { "key": "page.bati.ribbons.label", "fr": "Registres", "en": "Registers" },
+
+    { "key": "page.bati.shelf.label", "fr": "Étagère", "en": "Shelf" },
+    { "key": "page.bati.shelf.volumes", "fr": "Volumes", "en": "Volumes" },
+    { "key": "page.bati.shelf.registers", "fr": "Registres", "en": "Registers" },
+    { "key": "page.bati.shelf.drawerVolumes", "fr": "Les huit volumes de la chronique", "en": "The eight volumes of the chronicle" },
+    { "key": "page.bati.shelf.drawerRegisters", "fr": "Les registres de la bibliothèque", "en": "The registers of the library" },
+    { "key": "page.bati.shelf.drawerLanguage", "fr": "Langues de lecture", "en": "Reading languages" },
+
+    { "key": "page.bati.search.trigger", "fr": "Chercher un nom, un dragon, un lieu", "en": "Search for a name, a dragon, a place" },
+    { "key": "page.bati.search.title", "fr": "Chercher dans la bibliothèque", "en": "Search the library" },
+    { "key": "page.bati.search.placeholder", "fr": "Aegon, Balerion, Harrenhal…", "en": "Aegon, Balerion, Harrenhal…" },
+    { "key": "page.bati.search.idle", "fr": "Tapez un nom, un lieu ou un mot valyrien. Les macrons sont facultatifs : « zaldrizes » trouve « zaldrīzes ».", "en": "Type a name, a place or a Valyrian word. Macrons are optional: “zaldrizes” finds “zaldrīzes”." },
+    { "key": "page.bati.search.none", "fr": "Rien ne répond à « {q} ». Vérifiez l’orthographe, ou cherchez un seul mot.", "en": "Nothing answers to “{q}”. Check the spelling, or search for a single word." },
+    { "key": "page.bati.search.count.one", "fr": "Une réponse", "en": "One result" },
+    { "key": "page.bati.search.count.many", "fr": "{n} réponses", "en": "{n} results" },
+    { "key": "page.bati.search.more", "fr": "et {n} de plus : précisez la recherche", "en": "and {n} more: narrow the search" },
+    { "key": "page.bati.search.keys", "fr": "Flèches pour parcourir, Entrée pour ouvrir, Échap pour fermer", "en": "Arrows to move, Enter to open, Escape to close" },
+    { "key": "page.bati.search.kind.person", "fr": "Personnes", "en": "People" },
+    { "key": "page.bati.search.kind.dragon", "fr": "Dragons", "en": "Dragons" },
+    { "key": "page.bati.search.kind.event", "fr": "Événements", "en": "Events" },
+    { "key": "page.bati.search.kind.period", "fr": "Volumes", "en": "Volumes" },
+    { "key": "page.bati.search.kind.war", "fr": "Guerres", "en": "Wars" },
+    { "key": "page.bati.search.kind.battle", "fr": "Batailles", "en": "Battles" },
+    { "key": "page.bati.search.kind.place", "fr": "Lieux", "en": "Places" },
+    { "key": "page.bati.search.kind.word", "fr": "Mots valyriens", "en": "Valyrian words" },
+    { "key": "page.bati.search.kind.path", "fr": "Parcours", "en": "Learning paths" },
+
+    { "key": "page.bati.folio.leaf", "fr": "volume {volume}, feuillet {leaf}", "en": "volume {volume}, leaf {leaf}" },
+    { "key": "page.bati.folio.volume", "fr": "volume {volume}", "en": "volume {volume}" },
+
+    { "key": "page.bati.colophon.unofficial", "fr": "Bibliothèque d’amateur, non officielle et non commerciale. Elle n’est liée ni à l’auteur, ni à ses éditeurs, ni aux producteurs des adaptations.", "en": "An amateur library, unofficial and non-commercial. It is not affiliated with the author, his publishers or the producers of the adaptations." },
+    { "key": "page.bati.colophon.credits", "fr": "L’univers est celui de George R. R. Martin ; le haut valyrien, celui de David J. Peterson.", "en": "The world is George R. R. Martin’s; High Valyrian is David J. Peterson’s." },
+    { "key": "page.bati.colophon.type", "fr": "Composé en Texturina, Grenze Gotisch, Alegreya et Alegreya Sans.", "en": "Set in Texturina, Grenze Gotisch, Alegreya and Alegreya Sans." },
+    { "key": "page.bati.colophon.hallmark", "fr": "Poinçon du relieur", "en": "The binder’s hallmark" },
+
+    { "key": "page.bati.note.ref", "fr": "Note {n}", "en": "Note {n}" },
+    { "key": "page.bati.sources.unlisted", "fr": "source non répertoriée", "en": "unlisted source" },
+
+    { "key": "page.bati.time.label", "fr": "Règle du temps, de {from} à {to}", "en": "Time rule, from {from} to {to}" },
+    { "key": "page.bati.time.zone.legend", "fr": "temps des légendes, échelle resserrée", "en": "age of legend, compressed scale" },
+    { "key": "page.bati.time.zone.approach", "fr": "avant la Conquête", "en": "before the Conquest" },
+    { "key": "page.bati.time.zone.dynasty", "fr": "la dynastie", "en": "the dynasty" },
+
+    { "key": "page.bati.figure.number", "fr": "Fig. {n}", "en": "Fig. {n}" },
+
+    { "key": "page.bati.filter.label", "fr": "Filtrer", "en": "Filter" },
+    { "key": "page.bati.filter.count", "fr": "{n} sur {total}", "en": "{n} of {total}" },
+    { "key": "page.bati.filter.clear", "fr": "Tout afficher", "en": "Show all" },
+    { "key": "page.bati.filter.text", "fr": "Filtrer par mot", "en": "Filter by word" },
+
+    { "key": "page.bati.lang.short.hv", "fr": "HV", "en": "HV" },
+    { "key": "page.bati.lang.short.fr", "fr": "FR", "en": "FR" },
+    { "key": "page.bati.lang.short.en", "fr": "EN", "en": "EN" },
+    { "key": "page.bati.support.label", "fr": "Gloses", "en": "Glosses" },
+
+    { "key": "page.bati.title.lexicon", "fr": "Lexique", "en": "Lexicon" },
+    { "key": "page.bati.title.grammar", "fr": "Grammaire", "en": "Grammar" },
+    { "key": "page.bati.title.phrases", "fr": "Expressions", "en": "Phrases" }
+  ]
+}

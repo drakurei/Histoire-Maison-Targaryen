@@ -1,0 +1,6518 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-03",
+  "continuity": "livres",
+  "conventions": {
+    "annees": "Années en « apr. C. » (après la Conquête) ; valeurs négatives = avant la Conquête. null = année non donnée par les sources.",
+    "dateCertainty": "Qualifie les années renseignées : exacte (donnée par les sources), approximative (déduite, bornée ou divergente ; voir bornRange / diedRange = [min, max], null = borne ouverte), inconnue (aucune année).",
+    "generation": "0 = Aenar. Génération = 1 + la plus grande génération des parents présents dans le graphe (chemin le plus long depuis Aenar). Conjoint sans ascendance dans le graphe : génération de son conjoint.",
+    "king": "true uniquement pour qui a régné sur le Trône de Fer selon les listes officielles. Les prétendants (Rhaenyra, Viserys « III », Daenerys, Feunoyr…) portent le champ optionnel « pretender ».",
+    "certainty": "etabli = affirmé sans réserve sérieuse par les sources ; conteste = filiation officielle disputée, avec un autre père nommé (champ allegedFather) ; incertain = relation seulement rapportée par la rumeur ou non tranchée.",
+    "house": "Maison de rattachement. Les bâtards royaux aux noms de bâtards (Rivers, Waters, Astre-des-mers) sont rattachés à la maison du père ; voir « legitimacy ». « aucune » = roturier ou origine étrangère sans maison.",
+    "verifiedOnline": "true = dates et filiation recoupées pendant la session sur A Wiki of Ice and Fire ; false = repris de mémoire des ouvrages, à revérifier.",
+    "champsOptionnels": [
+      "mainThread",
+      "bornRange",
+      "diedRange",
+      "pretender",
+      "alive",
+      "noteFr",
+      "verifiedOnline",
+      "unions[].endYear",
+      "parentage[].allegedFather"
+    ]
+  },
+  "mainThread": {
+    "noteFr": "Fil de filiation recommandé pour la version « fil vertical » : 20 personnes, une par génération (0 à 19), chaque maillon étant l'enfant du précédent. Voir documentation/history/notes-genealogie.md, section 5.",
+    "ids": [
+      "aenar",
+      "gaemon-peyredragon",
+      "aegon-peyredragon",
+      "aerys-peyredragon",
+      "daemion",
+      "aerion-peyredragon",
+      "aegon-i",
+      "aenys-i",
+      "jaehaerys-i",
+      "baelon-fils-jaehaerys-i",
+      "viserys-i",
+      "rhaenyra",
+      "viserys-ii",
+      "aegon-iv",
+      "daeron-ii",
+      "maekar-i",
+      "aegon-v",
+      "jaehaerys-ii",
+      "aerys-ii",
+      "daenerys-fille-aerys-ii"
+    ]
+  },
+  "persons": [
+    {
+      "id": "aenar",
+      "nameEn": "Aenar Targaryen",
+      "nameFr": "Aenar Targaryen",
+      "epithetFr": "l'Exilé",
+      "epithetEn": "the Exile",
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 0,
+      "sources": [
+        "twoiaf",
+        "fab",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        null,
+        -138
+      ],
+      "diedRange": [
+        -102,
+        null
+      ],
+      "noteFr": "Quitte Valyria pour Peyredragon en 114 av. C., douze ans avant le Fléau (102 av. C.). Les livres ne donnent ni l'année de sa naissance ni celle de sa mort : les bornes indiquées sont déduites de la chronologie. Ses épouses ne sont pas nommées."
+    },
+    {
+      "id": "gaemon-peyredragon",
+      "nameEn": "Gaemon Targaryen",
+      "nameFr": "Gaemon Targaryen",
+      "epithetFr": "le Glorieux",
+      "epithetEn": "the Glorious",
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 1,
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Fils d'Aenar et deuxième seigneur de Peyredragon. Il épouse sa sœur Daenys, celle dont le rêve avait annoncé le Fléau. Ni sa naissance ni sa mort ne sont datées."
+    },
+    {
+      "id": "daenys",
+      "nameEn": "Daenys Targaryen",
+      "nameFr": "Daenys Targaryen",
+      "epithetFr": "la Rêveuse",
+      "epithetEn": "the Dreamer",
+      "sex": "f",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 1,
+      "sources": [
+        "twoiaf",
+        "fab",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        null,
+        -126
+      ],
+      "diedRange": [
+        -101,
+        null
+      ]
+    },
+    {
+      "id": "aegon-peyredragon",
+      "nameEn": "Aegon Targaryen (son of Gaemon)",
+      "nameFr": "Aegon Targaryen (fils de Gaemon)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 2,
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "elaena-peyredragon",
+      "nameEn": "Elaena Targaryen (daughter of Gaemon)",
+      "nameFr": "Elaena Targaryen (fille de Gaemon)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 2,
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "maegon",
+      "nameEn": "Maegon Targaryen",
+      "nameFr": "Maegon Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 3,
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aerys-peyredragon",
+      "nameEn": "Aerys Targaryen (son of Aegon)",
+      "nameFr": "Aerys Targaryen (fils d'Aegon)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 3,
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aelyx",
+      "nameEn": "Aelyx Targaryen",
+      "nameFr": "Aelyx Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 4,
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "baelon-peyredragon",
+      "nameEn": "Baelon Targaryen (son of Aerys)",
+      "nameFr": "Baelon Targaryen (fils d'Aerys)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 4,
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "daemion",
+      "nameEn": "Daemion Targaryen",
+      "nameFr": "Daemion Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 4,
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aerion-peyredragon",
+      "nameEn": "Aerion Targaryen (son of Daemion)",
+      "nameFr": "Aerion Targaryen (fils de Daemion)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 5,
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "valaena-velaryon",
+      "nameEn": "Valaena Velaryon",
+      "nameFr": "Valaena Velaryon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "velaryon",
+      "born": null,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 5,
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        -26,
+        null
+      ],
+      "noteFr": "« Elle-même à demi Targaryen par sa mère » : la mère, une Targaryen non nommée, n'est pas dans le graphe."
+    },
+    {
+      "id": "orys-baratheon",
+      "nameEn": "Orys Baratheon",
+      "nameFr": "Orys Baratheon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "baratheon",
+      "born": null,
+      "died": 37,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "batard",
+      "generation": 6,
+      "sources": [
+        "twoiaf",
+        "fab",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        null,
+        -20
+      ],
+      "noteFr": "Fondateur de la maison Baratheon. Demi-frère bâtard d'Aegon Ier selon la rumeur seulement."
+    },
+    {
+      "id": "visenya",
+      "nameEn": "Visenya Targaryen",
+      "nameFr": "Visenya Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": -29,
+      "died": 44,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 6,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aegon-i",
+      "nameEn": "Aegon I Targaryen",
+      "nameFr": "Aegon Ier Targaryen",
+      "epithetFr": "le Conquérant",
+      "epithetEn": "the Conqueror",
+      "sex": "m",
+      "house": "targaryen",
+      "born": -27,
+      "died": 37,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        1,
+        37
+      ],
+      "legitimacy": "legitime",
+      "generation": 6,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Né en 27 av. C. selon les récits de la Conquête. Les mêmes ouvrages lui font pourtant fêter ses soixante ans en 33 et mourir à soixante-quatre ans en 37, ce qui supposerait une naissance un an plus tôt : l'écart n'est pas résolu."
+    },
+    {
+      "id": "rhaenys",
+      "nameEn": "Rhaenys Targaryen",
+      "nameFr": "Rhaenys Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": -26,
+      "died": 10,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 6,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        -26,
+        -25
+      ],
+      "noteFr": "Naissance : 26 ou 25 av. C. Mort à Dorne en 10 apr. C. ; les circonstances exactes restent discutées dans les sources."
+    },
+    {
+      "id": "aenys-i",
+      "nameEn": "Aenys I Targaryen",
+      "nameFr": "Aenys Ier Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 7,
+      "died": 42,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        37,
+        42
+      ],
+      "legitimacy": "legitime",
+      "generation": 7,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "maegor-i",
+      "nameEn": "Maegor I Targaryen",
+      "nameFr": "Maegor Ier Targaryen",
+      "epithetFr": "le Cruel",
+      "epithetEn": "the Cruel",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 12,
+      "died": 48,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        42,
+        48
+      ],
+      "legitimacy": "legitime",
+      "generation": 7,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "alyssa-velaryon",
+      "nameEn": "Alyssa Velaryon",
+      "nameFr": "Alyssa Velaryon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "velaryon",
+      "born": 7,
+      "died": 54,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 7,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "ceryse-hightower",
+      "nameEn": "Ceryse Hightower",
+      "nameFr": "Ceryse Hightower",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "hightower",
+      "born": 2,
+      "died": 45,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 7,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "alys-harroway",
+      "nameEn": "Alys Harroway",
+      "nameFr": "Alys Harroway",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "harroway",
+      "born": null,
+      "died": 44,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 7,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": false
+    },
+    {
+      "id": "tyanna",
+      "nameEn": "Tyanna of the Tower",
+      "nameFr": "Tyanna de la Tour",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "aucune",
+      "born": null,
+      "died": 48,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 7,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Originaire de Pentos."
+    },
+    {
+      "id": "elinor-costayne",
+      "nameEn": "Elinor Costayne",
+      "nameFr": "Elinor Costayne",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "costayne",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 7,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "jeyne-westerling",
+      "nameEn": "Jeyne Westerling",
+      "nameFr": "Jeyne Westerling",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "westerling",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 7,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "rogar-baratheon",
+      "nameEn": "Rogar Baratheon",
+      "nameFr": "Rogar Baratheon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "baratheon",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 7,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "boremund-baratheon",
+      "nameEn": "Boremund Baratheon",
+      "nameFr": "Boremund Baratheon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "baratheon",
+      "born": 52,
+      "died": null,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 8,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "jocelyn-baratheon",
+      "nameEn": "Jocelyn Baratheon",
+      "nameFr": "Jocelyn Baratheon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "baratheon",
+      "born": 54,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 8,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        92,
+        129
+      ]
+    },
+    {
+      "id": "androw-farman",
+      "nameEn": "Androw Farman",
+      "nameFr": "Androw Farman",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "farman",
+      "born": null,
+      "died": 54,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 8,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "rhaena-fille-aenys-i",
+      "nameEn": "Rhaena Targaryen (daughter of Aenys I)",
+      "nameFr": "Rhaena Targaryen (fille d'Aenys Ier)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 23,
+      "died": 73,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 8,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aegon-fils-aenys-i",
+      "nameEn": "Aegon Targaryen (son of Aenys I)",
+      "nameFr": "Aegon Targaryen (fils d'Aenys Ier)",
+      "epithetFr": "the Uncrowned",
+      "epithetEn": "the Uncrowned",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 26,
+      "died": 43,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 8,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "pretender": {
+        "styledAs": "Aegon, héritier d'Aenys Ier",
+        "from": 42,
+        "to": 43
+      },
+      "noteFr": "Héritier d'Aenys Ier évincé par Maegor ; tué à la bataille sous l'Œildieu (43)."
+    },
+    {
+      "id": "viserys-fils-aenys-i",
+      "nameEn": "Viserys Targaryen (son of Aenys I)",
+      "nameFr": "Viserys Targaryen (fils d'Aenys Ier)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 29,
+      "died": 44,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 8,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "jaehaerys-i",
+      "nameEn": "Jaehaerys I Targaryen",
+      "nameFr": "Jaehaerys Ier Targaryen",
+      "epithetFr": "le Conciliateur",
+      "epithetEn": "the Conciliator",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 34,
+      "died": 103,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        48,
+        103
+      ],
+      "legitimacy": "legitime",
+      "generation": 8,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "alysanne",
+      "nameEn": "Alysanne Targaryen",
+      "nameFr": "Alysanne Targaryen",
+      "epithetFr": "la Bonne Reine",
+      "epithetEn": "Good Queen Alysanne",
+      "sex": "f",
+      "house": "targaryen",
+      "born": 36,
+      "died": 100,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 8,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "vaella-fille-aenys-i",
+      "nameEn": "Vaella Targaryen (daughter of Aenys I)",
+      "nameFr": "Vaella Targaryen (fille d'Aenys Ier)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 39,
+      "died": 39,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 8,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Morte au berceau ; l'année de la mort (39) est déduite, non donnée explicitement."
+    },
+    {
+      "id": "aerea",
+      "nameEn": "Aerea Targaryen",
+      "nameFr": "Aerea Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 42,
+      "died": 56,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "rhaella-fille-aegon",
+      "nameEn": "Rhaella Targaryen (daughter of Aegon)",
+      "nameFr": "Rhaella Targaryen (fille d'Aegon)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 42,
+      "died": null,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Jumelle d'Aerea ; septa. Année de mort non donnée."
+    },
+    {
+      "id": "aegon-fils-jaehaerys-i",
+      "nameEn": "Aegon Targaryen (son of Jaehaerys I)",
+      "nameFr": "Aegon Targaryen (fils de Jaehaerys Ier)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 51,
+      "died": 51,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Mort trois jours après sa naissance."
+    },
+    {
+      "id": "daenerys-fille-jaehaerys-i",
+      "nameEn": "Daenerys Targaryen (daughter of Jaehaerys I)",
+      "nameFr": "Daenerys Targaryen (fille de Jaehaerys Ier)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 53,
+      "died": 60,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aemon-fils-jaehaerys-i",
+      "nameEn": "Aemon Targaryen (son of Jaehaerys I)",
+      "nameFr": "Aemon Targaryen (fils de Jaehaerys Ier)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 55,
+      "died": 92,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "baelon-fils-jaehaerys-i",
+      "nameEn": "Baelon Targaryen (son of Jaehaerys I)",
+      "nameFr": "Baelon Targaryen (fils de Jaehaerys Ier)",
+      "epithetFr": "le Brave",
+      "epithetEn": "the Brave",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 57,
+      "died": 101,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "alyssa-fille-jaehaerys-i",
+      "nameEn": "Alyssa Targaryen",
+      "nameFr": "Alyssa Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 60,
+      "died": 84,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "maegelle",
+      "nameEn": "Maegelle Targaryen",
+      "nameFr": "Maegelle Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 62,
+      "died": 96,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Septa."
+    },
+    {
+      "id": "vaegon",
+      "nameEn": "Vaegon Targaryen",
+      "nameFr": "Vaegon Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 63,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        101,
+        null
+      ],
+      "noteFr": "Archimestre ; n'est plus mentionné après le Grand Conseil de 101."
+    },
+    {
+      "id": "daella-fille-jaehaerys-i",
+      "nameEn": "Daella Targaryen (daughter of Jaehaerys I)",
+      "nameFr": "Daella Targaryen (fille de Jaehaerys Ier)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 64,
+      "died": 82,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "saera",
+      "nameEn": "Saera Targaryen",
+      "nameFr": "Saera Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 67,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        101,
+        null
+      ],
+      "noteFr": "Enfuie à Lys puis Volantis. Au moins trois fils bâtards, de pères différents, présentés au Grand Conseil de 101 : non nommés, hors graphe."
+    },
+    {
+      "id": "viserra",
+      "nameEn": "Viserra Targaryen",
+      "nameFr": "Viserra Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 71,
+      "died": 87,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "gaemon-fils-jaehaerys-i",
+      "nameEn": "Gaemon Targaryen (son of Jaehaerys I)",
+      "nameFr": "Gaemon Targaryen (fils de Jaehaerys Ier)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 73,
+      "died": 73,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Mort à moins de trois lunes. L'année retenue est 73 ; un autre calcul, fondé sur la chronologie de sa mère, place sa mort au tout début de 74."
+    },
+    {
+      "id": "valerion",
+      "nameEn": "Valerion Targaryen",
+      "nameFr": "Valerion Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 77,
+      "died": 78,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "gael",
+      "nameEn": "Gael Targaryen",
+      "nameFr": "Gael Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 80,
+      "died": 99,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "rhaenys-fille-aemon",
+      "nameEn": "Rhaenys Targaryen (daughter of Aemon)",
+      "nameFr": "Rhaenys Targaryen (fille d'Aemon)",
+      "epithetFr": "la Reine qui ne fut jamais",
+      "epithetEn": "the Queen Who Never Was",
+      "sex": "f",
+      "house": "targaryen",
+      "born": 74,
+      "died": 129,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 10,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "viserys-i",
+      "nameEn": "Viserys I Targaryen",
+      "nameFr": "Viserys Ier Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 77,
+      "died": 129,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        103,
+        129
+      ],
+      "legitimacy": "legitime",
+      "generation": 10,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "daemon",
+      "nameEn": "Daemon Targaryen",
+      "nameFr": "Daemon Targaryen",
+      "epithetFr": "le Prince Vaurien",
+      "epithetEn": "the Rogue Prince",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 81,
+      "died": 130,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 10,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aegon-fils-baelon",
+      "nameEn": "Aegon Targaryen (son of Baelon)",
+      "nameFr": "Aegon Targaryen (fils de Baelon)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 84,
+      "died": 85,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 10,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Né en 84 ; mort « l'année suivante » ou « six mois plus tard » selon les passages."
+    },
+    {
+      "id": "rodrik-arryn",
+      "nameEn": "Rodrik Arryn",
+      "nameFr": "Rodrik Arryn",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "arryn",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 9,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aemma-arryn",
+      "nameEn": "Aemma Arryn",
+      "nameFr": "Aemma Arryn",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "arryn",
+      "born": 82,
+      "died": 105,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 10,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "corlys-velaryon",
+      "nameEn": "Corlys Velaryon",
+      "nameFr": "Corlys Velaryon",
+      "epithetFr": "le Serpent de mer",
+      "epithetEn": "the Sea Snake",
+      "sex": "m",
+      "house": "velaryon",
+      "born": 53,
+      "died": 132,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 10,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "laena-velaryon",
+      "nameEn": "Laena Velaryon",
+      "nameFr": "Laena Velaryon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "velaryon",
+      "born": 92,
+      "died": 120,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 11,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "laenor-velaryon",
+      "nameEn": "Laenor Velaryon",
+      "nameFr": "Laenor Velaryon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "velaryon",
+      "born": 94,
+      "died": 120,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 11,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "marilda-de-hull",
+      "nameEn": "Marilda of Hull",
+      "nameFr": "Marilda de Hull",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "aucune",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 11,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "addam-velaryon",
+      "nameEn": "Addam Velaryon",
+      "nameFr": "Addam Velaryon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "velaryon",
+      "born": null,
+      "died": 130,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime-par-decret",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": false,
+      "bornRange": [
+        113,
+        114
+      ],
+      "noteFr": "Addam de Hull, quinze ans en 129 ; légitimé par Rhaenyra à la demande de Corlys. Mort à la seconde bataille de Tumbleton."
+    },
+    {
+      "id": "alyn-velaryon",
+      "nameEn": "Alyn Velaryon",
+      "nameFr": "Alyn Velaryon",
+      "epithetFr": "Poing-de-Chêne",
+      "epithetEn": "Oakenfist",
+      "sex": "m",
+      "house": "velaryon",
+      "born": 115,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime-par-decret",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        171,
+        176
+      ],
+      "noteFr": "Alyn de Hull, légitimé par Rhaenyra ; seigneur des Marées. Disparu en mer vers 171-176."
+    },
+    {
+      "id": "rhaenyra",
+      "nameEn": "Rhaenyra Targaryen",
+      "nameFr": "Rhaenyra Targaryen",
+      "epithetFr": null,
+      "epithetEn": "the Realm's Delight",
+      "sex": "f",
+      "house": "targaryen",
+      "born": 97,
+      "died": 130,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 11,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "pretender": {
+        "styledAs": "Rhaenyra Ire",
+        "from": 129,
+        "to": 130
+      },
+      "noteFr": "Héritière désignée de Viserys Ier ; couronnée à Peyredragon en 129, elle tient le Trône de Fer environ six mois en 130. Les listes officielles des rois ne la comptent pas : elle figure ici comme prétendante, non comme souveraine régnante."
+    },
+    {
+      "id": "baelon-fils-viserys-i",
+      "nameEn": "Baelon Targaryen (son of Viserys I)",
+      "nameFr": "Baelon Targaryen (fils de Viserys Ier)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 105,
+      "died": 105,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 11,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Mort un jour après sa naissance. Un autre fils d'Aemma, mort au berceau, n'est pas nommé (hors graphe)."
+    },
+    {
+      "id": "alicent-hightower",
+      "nameEn": "Alicent Hightower",
+      "nameFr": "Alicent Hightower",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "hightower",
+      "born": 88,
+      "died": 133,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 10,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aegon-ii",
+      "nameEn": "Aegon II Targaryen",
+      "nameFr": "Aegon II Targaryen",
+      "epithetFr": "l'Aîné",
+      "epithetEn": "the Elder",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 107,
+      "died": 131,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        129,
+        131
+      ],
+      "legitimacy": "legitime",
+      "generation": 11,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "helaena",
+      "nameEn": "Helaena Targaryen",
+      "nameFr": "Helaena Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 109,
+      "died": 130,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 11,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aemond",
+      "nameEn": "Aemond Targaryen",
+      "nameFr": "Aemond Targaryen",
+      "epithetFr": "le Borgne",
+      "epithetEn": "One-Eye",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 110,
+      "died": 130,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 11,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "daeron-fils-viserys-i",
+      "nameEn": "Daeron Targaryen (son of Viserys I)",
+      "nameFr": "Daeron Targaryen (fils de Viserys Ier)",
+      "epithetFr": "the Daring",
+      "epithetEn": "the Daring",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 114,
+      "died": 130,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 11,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "harwin-strong",
+      "nameEn": "Harwin Strong",
+      "nameFr": "Harwin Strong",
+      "epithetFr": "Breakbones",
+      "epithetEn": "Breakbones",
+      "sex": "m",
+      "house": "strong",
+      "born": null,
+      "died": 120,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 11,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": false,
+      "noteFr": "Bouclier lige de Rhaenyra ; mort dans l'incendie de Harrenhal (120)."
+    },
+    {
+      "id": "jacaerys-velaryon",
+      "nameEn": "Jacaerys Velaryon",
+      "nameFr": "Jacaerys Velaryon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "velaryon",
+      "born": 114,
+      "died": 130,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "lucerys-velaryon",
+      "nameEn": "Lucerys Velaryon",
+      "nameFr": "Lucerys Velaryon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "velaryon",
+      "born": 115,
+      "died": 129,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "joffrey-velaryon",
+      "nameEn": "Joffrey Velaryon",
+      "nameFr": "Joffrey Velaryon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "velaryon",
+      "born": 117,
+      "died": 130,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "rhea-royce",
+      "nameEn": "Rhea Royce",
+      "nameFr": "Rhea Royce",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "royce",
+      "born": null,
+      "died": 115,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 10,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "baela",
+      "nameEn": "Baela Targaryen",
+      "nameFr": "Baela Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 116,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        136,
+        176
+      ]
+    },
+    {
+      "id": "rhaena-fille-daemon",
+      "nameEn": "Rhaena Targaryen (daughter of Daemon)",
+      "nameFr": "Rhaena Targaryen (fille de Daemon)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 116,
+      "died": null,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Six filles de son second mariage (Garmund Hightower), hors graphe."
+    },
+    {
+      "id": "mysaria",
+      "nameEn": "Mysaria",
+      "nameFr": "Mysaria",
+      "epithetFr": "Lady Misery",
+      "epithetEn": "Lady Misery",
+      "sex": "f",
+      "house": "aucune",
+      "born": null,
+      "died": 130,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 10,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": false,
+      "noteFr": "Danseuse lysienne ; enceinte de Daemon, elle perd l'enfant en mer (aucune descendance)."
+    },
+    {
+      "id": "aegon-iii",
+      "nameEn": "Aegon III Targaryen",
+      "nameFr": "Aegon III Targaryen",
+      "epithetFr": "le Fléau des dragons",
+      "epithetEn": "the Dragonbane",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 120,
+      "died": 157,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        131,
+        157
+      ],
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "viserys-ii",
+      "nameEn": "Viserys II Targaryen",
+      "nameFr": "Viserys II Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 122,
+      "died": 172,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        171,
+        172
+      ],
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Fils cadet de Rhaenyra et de Daemon. Main de trois rois avant de régner lui-même un an, de 171 à sa mort en 172."
+    },
+    {
+      "id": "visenya-fille-rhaenyra",
+      "nameEn": "Visenya Targaryen (daughter of Rhaenyra)",
+      "nameFr": "Visenya Targaryen (fille de Rhaenyra)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 129,
+      "died": 129,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Mort-née (129)."
+    },
+    {
+      "id": "jaehaerys-fils-aegon-ii",
+      "nameEn": "Jaehaerys Targaryen (son of Aegon II)",
+      "nameFr": "Jaehaerys Targaryen (fils d'Aegon II)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 123,
+      "died": 129,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": false
+    },
+    {
+      "id": "jaehaera",
+      "nameEn": "Jaehaera Targaryen",
+      "nameFr": "Jaehaera Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 123,
+      "died": 133,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "maelor",
+      "nameEn": "Maelor Targaryen",
+      "nameFr": "Maelor Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 127,
+      "died": 130,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "alys-rivers",
+      "nameEn": "Alys Rivers",
+      "nameFr": "Alys Rivers",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "aucune",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "batard",
+      "generation": 11,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Bâtarde de la maison Strong selon la tradition de Harrenhal."
+    },
+    {
+      "id": "corwyn-corbray",
+      "nameEn": "Corwyn Corbray",
+      "nameFr": "Corwyn Corbray",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "corbray",
+      "born": null,
+      "died": 134,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": false
+    },
+    {
+      "id": "garmund-hightower",
+      "nameEn": "Garmund Hightower",
+      "nameFr": "Garmund Hightower",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "hightower",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "laena-velaryon-fille-alyn",
+      "nameEn": "Laena Velaryon (daughter of Alyn)",
+      "nameFr": "Laena Velaryon (fille d'Alyn)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "velaryon",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Seule enfant nommée de Baela et d'Alyn. Elle naît pendant que son père est en mer, vers 134 ; l'année n'est pas écrite avec certitude."
+    },
+    {
+      "id": "daenaera-velaryon",
+      "nameEn": "Daenaera Velaryon",
+      "nameFr": "Daenaera Velaryon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "velaryon",
+      "born": 127,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        150,
+        null
+      ],
+      "noteFr": "Fille de Daeron Velaryon et de Hazel Harte (hors graphe)."
+    },
+    {
+      "id": "daeron-i",
+      "nameEn": "Daeron I Targaryen",
+      "nameFr": "Daeron Ier Targaryen",
+      "epithetFr": "le Jeune Dragon",
+      "epithetEn": "the Young Dragon",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 143,
+      "died": 161,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        157,
+        161
+      ],
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "baelor-i",
+      "nameEn": "Baelor I Targaryen",
+      "nameFr": "Baelor Ier Targaryen",
+      "epithetFr": "le Bienheureux",
+      "epithetEn": "the Blessed",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 144,
+      "died": 171,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        161,
+        171
+      ],
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "daena",
+      "nameEn": "Daena Targaryen",
+      "nameFr": "Daena Targaryen",
+      "epithetFr": "the Defiant",
+      "epithetEn": "the Defiant",
+      "sex": "f",
+      "house": "targaryen",
+      "born": 145,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        171,
+        null
+      ]
+    },
+    {
+      "id": "rhaena-fille-aegon-iii",
+      "nameEn": "Rhaena Targaryen (daughter of Aegon III)",
+      "nameFr": "Rhaena Targaryen (fille d'Aegon III)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 147,
+      "died": null,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Septa."
+    },
+    {
+      "id": "elaena-fille-aegon-iii",
+      "nameEn": "Elaena Targaryen (daughter of Aegon III)",
+      "nameFr": "Elaena Targaryen (fille d'Aegon III)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 150,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        220,
+        null
+      ]
+    },
+    {
+      "id": "larra-rogare",
+      "nameEn": "Larra Rogare",
+      "nameFr": "Larra Rogare",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "rogare",
+      "born": 115,
+      "died": 145,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 12,
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aegon-iv",
+      "nameEn": "Aegon IV Targaryen",
+      "nameFr": "Aegon IV Targaryen",
+      "epithetFr": "l'Indigne",
+      "epithetEn": "the Unworthy",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 135,
+      "died": 184,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        172,
+        184
+      ],
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aemon-fils-viserys-ii",
+      "nameEn": "Aemon Targaryen (son of Viserys II)",
+      "nameFr": "Aemon Targaryen (fils de Viserys II)",
+      "epithetFr": "le Chevalier-Dragon",
+      "epithetEn": "the Dragonknight",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 136,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        178,
+        183
+      ],
+      "noteFr": "Garde royal. Mort en protégeant Aegon IV après l'exécution de Terrence Toyne (178) ; l'année exacte n'est pas donnée et se place entre 178 et 183."
+    },
+    {
+      "id": "naerys",
+      "nameEn": "Naerys Targaryen",
+      "nameFr": "Naerys Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 138,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        179,
+        184
+      ],
+      "noteFr": "Morte en couches « un an après » son frère Aemon : sa mort se place donc entre 179 et 184."
+    },
+    {
+      "id": "ossifer-plumm",
+      "nameEn": "Ossifer Plumm",
+      "nameFr": "Ossifer Plumm",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "plumm",
+      "born": null,
+      "died": 176,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Mort, dit-on, la nuit de ses noces (176)."
+    },
+    {
+      "id": "viserys-plumm",
+      "nameEn": "Viserys Plumm",
+      "nameFr": "Viserys Plumm",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "plumm",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 14,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "ronnel-penrose",
+      "nameEn": "Ronnel Penrose",
+      "nameFr": "Ronnel Penrose",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "penrose",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "robin-penrose",
+      "nameEn": "Robin Penrose",
+      "nameFr": "Robin Penrose",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "penrose",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 14,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "laena-penrose",
+      "nameEn": "Laena Penrose",
+      "nameFr": "Laena Penrose",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "penrose",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 14,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "jocelyn-penrose",
+      "nameEn": "Jocelyn Penrose",
+      "nameFr": "Jocelyn Penrose",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "penrose",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 14,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "joy-penrose",
+      "nameEn": "Joy Penrose",
+      "nameFr": "Joy Penrose",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "penrose",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 14,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "michael-manwoody",
+      "nameEn": "Michael Manwoody",
+      "nameFr": "Michael Manwoody",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "manwoody",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "jon-waters",
+      "nameEn": "Jon Waters",
+      "nameFr": "Jon Waters",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "velaryon",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "batard",
+      "generation": 14,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "jeyne-waters",
+      "nameEn": "Jeyne Waters",
+      "nameFr": "Jeyne Waters",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "velaryon",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "batard",
+      "generation": 14,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "daeron-ii",
+      "nameEn": "Daeron II Targaryen",
+      "nameFr": "Daeron II Targaryen",
+      "epithetFr": "le Bon",
+      "epithetEn": "the Good",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 153,
+      "died": 209,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        184,
+        209
+      ],
+      "legitimacy": "legitime",
+      "generation": 14,
+      "sources": [
+        "twoiaf",
+        "dunk-egg",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "daenerys-fille-aegon-iv",
+      "nameEn": "Daenerys Targaryen (daughter of Aegon IV)",
+      "nameFr": "Daenerys Targaryen (fille d'Aegon IV)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 172,
+      "died": null,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 14,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "maron-martell",
+      "nameEn": "Maron Martell",
+      "nameFr": "Maron Martell",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "martell",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 14,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "daemon-i-blackfyre",
+      "nameEn": "Daemon I Blackfyre",
+      "nameFr": "Daemon Ier Feunoyr",
+      "epithetFr": "le Dragon noir",
+      "epithetEn": "the Black Dragon",
+      "sex": "m",
+      "house": "blackfyre",
+      "born": 170,
+      "died": 196,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime-par-decret",
+      "generation": 14,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true,
+      "pretender": {
+        "styledAs": "Daemon Ier Feunoyr",
+        "from": 196,
+        "to": 196
+      },
+      "noteFr": "Né Daemon Waters ; reconnu par Aegon IV quand il reçoit l'épée Feunoyr, légitimé avec les autres bâtards sur le lit de mort du roi (184). Tué au Champ d'Herberouge (196)."
+    },
+    {
+      "id": "barba-bracken",
+      "nameEn": "Barba Bracken",
+      "nameFr": "Barba Bracken",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "bracken",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "melissa-blackwood",
+      "nameEn": "Melissa Blackwood",
+      "nameFr": "Melissa Blackwood",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "blackwood",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "serenei-de-lys",
+      "nameEn": "Serenei of Lys",
+      "nameFr": "Serenei de Lys",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "aucune",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 13,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aegor-rivers",
+      "nameEn": "Aegor Rivers",
+      "nameFr": "Aegor Rivers",
+      "epithetFr": "Aigracier",
+      "epithetEn": "Bittersteel",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 172,
+      "died": 241,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime-par-decret",
+      "generation": 14,
+      "sources": [
+        "twoiaf",
+        "asoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "mya-rivers",
+      "nameEn": "Mya Rivers",
+      "nameFr": "Mya Rivers",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime-par-decret",
+      "generation": 14,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": false
+    },
+    {
+      "id": "gwenys-rivers",
+      "nameEn": "Gwenys Rivers",
+      "nameFr": "Gwenys Rivers",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime-par-decret",
+      "generation": 14,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": false
+    },
+    {
+      "id": "brynden-rivers",
+      "nameEn": "Brynden Rivers",
+      "nameFr": "Brynden Rivers",
+      "epithetFr": "Freuxsanglant",
+      "epithetEn": "Bloodraven",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 175,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime-par-decret",
+      "generation": 14,
+      "sources": [
+        "twoiaf",
+        "asoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        174,
+        175
+      ],
+      "alive": true,
+      "noteFr": "Main du roi, puis lord Commandant de la Garde de Nuit (envoyé au Mur en 233) ; disparu au-delà du Mur en 252. A Dance with Dragons l'identifie à la corneille à trois yeux, encore en vie en 300."
+    },
+    {
+      "id": "shiera-seastar",
+      "nameEn": "Shiera Seastar",
+      "nameFr": "Shiera Astre-des-mers",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime-par-decret",
+      "generation": 14,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        178,
+        184
+      ],
+      "diedRange": [
+        211,
+        null
+      ]
+    },
+    {
+      "id": "rohanne-de-tyrosh",
+      "nameEn": "Rohanne of Tyrosh",
+      "nameFr": "Rohanne de Tyrosh",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "aucune",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 14,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aegon-blackfyre",
+      "nameEn": "Aegon Blackfyre",
+      "nameFr": "Aegon Feunoyr",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "blackfyre",
+      "born": null,
+      "died": 196,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Jumeau d'Aemon ; tué au Champ d'Herberouge."
+    },
+    {
+      "id": "aemon-blackfyre",
+      "nameEn": "Aemon Blackfyre",
+      "nameFr": "Aemon Feunoyr",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "blackfyre",
+      "born": null,
+      "died": 196,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Jumeau d'Aegon ; tué au Champ d'Herberouge."
+    },
+    {
+      "id": "daemon-ii-blackfyre",
+      "nameEn": "Daemon II Blackfyre",
+      "nameFr": "Daemon II Feunoyr",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "blackfyre",
+      "born": null,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        188,
+        189
+      ],
+      "pretender": {
+        "styledAs": "Daemon II Feunoyr",
+        "from": 212,
+        "to": 212
+      },
+      "noteFr": "Prétendant de la deuxième rébellion Feunoyr, déjouée au tournoi de Murs-Blancs en 212 (The Mystery Knight). Mort en captivité à une date inconnue."
+    },
+    {
+      "id": "haegon-blackfyre",
+      "nameEn": "Haegon I Blackfyre",
+      "nameFr": "Haegon Ier Feunoyr",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "blackfyre",
+      "born": null,
+      "died": 219,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "pretender": {
+        "styledAs": "Haegon Ier Feunoyr",
+        "from": 219,
+        "to": 219
+      }
+    },
+    {
+      "id": "aenys-blackfyre",
+      "nameEn": "Aenys Blackfyre",
+      "nameFr": "Aenys Feunoyr",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "blackfyre",
+      "born": null,
+      "died": 233,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Venu plaider sa cause au Grand Conseil de 233 sous sauf-conduit ; exécuté sur ordre de Freuxsanglant."
+    },
+    {
+      "id": "calla-blackfyre",
+      "nameEn": "Calla Blackfyre",
+      "nameFr": "Calla Feunoyr",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "blackfyre",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "daemon-iii-blackfyre",
+      "nameEn": "Daemon III Blackfyre",
+      "nameFr": "Daemon III Feunoyr",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "blackfyre",
+      "born": null,
+      "died": 236,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "pretender": {
+        "styledAs": "Daemon III Feunoyr",
+        "from": 236,
+        "to": 236
+      }
+    },
+    {
+      "id": "myriah-martell",
+      "nameEn": "Myriah Martell",
+      "nameFr": "Myriah Martell",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "martell",
+      "born": null,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 14,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        146,
+        154
+      ],
+      "diedRange": [
+        184,
+        null
+      ],
+      "noteFr": "Orthographiée « Mariah » dans les éditions anciennes."
+    },
+    {
+      "id": "baelor-fils-daeron-ii",
+      "nameEn": "Baelor Targaryen (son of Daeron II)",
+      "nameFr": "Baelor Targaryen (fils de Daeron II)",
+      "epithetFr": "Briselance",
+      "epithetEn": "Breakspear",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 170,
+      "died": 209,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aerys-i",
+      "nameEn": "Aerys I Targaryen",
+      "nameFr": "Aerys Ier Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": 221,
+      "dateCertainty": "approximative",
+      "king": true,
+      "reign": [
+        209,
+        221
+      ],
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf",
+        "dunk-egg",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        172,
+        176
+      ]
+    },
+    {
+      "id": "rhaegel",
+      "nameEn": "Rhaegel Targaryen",
+      "nameFr": "Rhaegel Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": 215,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        173,
+        178
+      ]
+    },
+    {
+      "id": "maekar-i",
+      "nameEn": "Maekar I Targaryen",
+      "nameFr": "Maekar Ier Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": 233,
+      "dateCertainty": "approximative",
+      "king": true,
+      "reign": [
+        221,
+        233
+      ],
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf",
+        "dunk-egg",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        174,
+        179
+      ]
+    },
+    {
+      "id": "jena-dondarrion",
+      "nameEn": "Jena Dondarrion",
+      "nameFr": "Jena Dondarrion",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "dondarrion",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "valarr",
+      "nameEn": "Valarr Targaryen",
+      "nameFr": "Valarr Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": 209,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Mort du Fléau de printemps (209)."
+    },
+    {
+      "id": "matarys",
+      "nameEn": "Matarys Targaryen",
+      "nameFr": "Matarys Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": 209,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Mort du Fléau de printemps (209)."
+    },
+    {
+      "id": "kiera-de-tyrosh",
+      "nameEn": "Kiera of Tyrosh",
+      "nameFr": "Kiera de Tyrosh",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "aucune",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aelinor-penrose",
+      "nameEn": "Aelinor Penrose",
+      "nameFr": "Aelinor Penrose",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "penrose",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "alys-arryn",
+      "nameEn": "Alys Arryn",
+      "nameFr": "Alys Arryn",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "arryn",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aelor",
+      "nameEn": "Aelor Targaryen",
+      "nameFr": "Aelor Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": 217,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        195,
+        209
+      ]
+    },
+    {
+      "id": "aelora",
+      "nameEn": "Aelora Targaryen",
+      "nameFr": "Aelora Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        195,
+        209
+      ],
+      "diedRange": [
+        217,
+        221
+      ],
+      "noteFr": "Jumelle et épouse d'Aelor, cause involontaire de sa mort ; se donne la mort ensuite, à une date non précisée."
+    },
+    {
+      "id": "daenora",
+      "nameEn": "Daenora Targaryen",
+      "nameFr": "Daenora Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        196,
+        216
+      ],
+      "diedRange": [
+        232,
+        null
+      ]
+    },
+    {
+      "id": "dyanna-dayne",
+      "nameEn": "Dyanna Dayne",
+      "nameFr": "Dyanna Dayne",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "dayne",
+      "born": null,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 15,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        201,
+        209
+      ]
+    },
+    {
+      "id": "daeron-fils-maekar-i",
+      "nameEn": "Daeron Targaryen (son of Maekar I)",
+      "nameFr": "Daeron Targaryen (fils de Maekar Ier)",
+      "epithetFr": "l'Ivrogne",
+      "epithetEn": "the Drunken",
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        190,
+        191
+      ],
+      "diedRange": [
+        221,
+        233
+      ]
+    },
+    {
+      "id": "aerion-fils-maekar-i",
+      "nameEn": "Aerion Targaryen (son of Maekar I)",
+      "nameFr": "Aerion Targaryen (fils de Maekar Ier)",
+      "epithetFr": "le Flamboyant",
+      "epithetEn": "Brightflame",
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": 232,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "twoiaf",
+        "asoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        191,
+        194
+      ]
+    },
+    {
+      "id": "aemon-fils-maekar-i",
+      "nameEn": "Aemon Targaryen (son of Maekar I)",
+      "nameFr": "Aemon Targaryen (fils de Maekar Ier)",
+      "epithetFr": "mestre Aemon",
+      "epithetEn": "Maester Aemon",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 198,
+      "died": 300,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "asoiaf",
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "daella-fille-maekar-i",
+      "nameEn": "Daella Targaryen (daughter of Maekar I)",
+      "nameFr": "Daella Targaryen (fille de Maekar Ier)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aegon-v",
+      "nameEn": "Aegon V Targaryen",
+      "nameFr": "Aegon V Targaryen",
+      "epithetFr": "l'Invraisemblable",
+      "epithetEn": "the Unlikely",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 200,
+      "died": 259,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        233,
+        259
+      ],
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "twoiaf",
+        "dunk-egg",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "rhae",
+      "nameEn": "Rhae Targaryen",
+      "nameFr": "Rhae Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "vaella-fille-daeron",
+      "nameEn": "Vaella Targaryen (daughter of Daeron)",
+      "nameFr": "Vaella Targaryen (fille de Daeron)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 222,
+      "died": null,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 17,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Simple d'esprit ; écartée au Grand Conseil de 233."
+    },
+    {
+      "id": "maegor-fils-aerion",
+      "nameEn": "Maegor Targaryen (son of Aerion)",
+      "nameFr": "Maegor Targaryen (fils d'Aerion)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 232,
+      "died": null,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 17,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Nourrisson écarté au Grand Conseil de 233 ; sort inconnu."
+    },
+    {
+      "id": "betha-blackwood",
+      "nameEn": "Betha Blackwood",
+      "nameFr": "Betha Blackwood",
+      "epithetFr": "Black Betha",
+      "epithetEn": "Black Betha",
+      "sex": "f",
+      "house": "blackwood",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 16,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "duncan",
+      "nameEn": "Duncan Targaryen",
+      "nameFr": "Duncan Targaryen",
+      "epithetFr": "le Petit",
+      "epithetEn": "the Small",
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": 259,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 17,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        220,
+        224
+      ],
+      "noteFr": "Prince des Libellules ; renonce à la couronne (239) pour épouser Jenny de Vieilles-Pierres. Mort à Lestival (259)."
+    },
+    {
+      "id": "jaehaerys-ii",
+      "nameEn": "Jaehaerys II Targaryen",
+      "nameFr": "Jaehaerys II Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 225,
+      "died": 262,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        259,
+        262
+      ],
+      "legitimacy": "legitime",
+      "generation": 17,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "shaera",
+      "nameEn": "Shaera Targaryen",
+      "nameFr": "Shaera Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 226,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 17,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        259,
+        null
+      ]
+    },
+    {
+      "id": "daeron-fils-aegon-v",
+      "nameEn": "Daeron Targaryen (son of Aegon V)",
+      "nameFr": "Daeron Targaryen (fils d'Aegon V)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 228,
+      "died": 251,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 17,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Rompt ses fiançailles avec Olenna Redwyne (246) ; sans alliance."
+    },
+    {
+      "id": "rhaelle",
+      "nameEn": "Rhaelle Targaryen",
+      "nameFr": "Rhaelle Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": null,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 17,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        229,
+        234
+      ],
+      "diedRange": [
+        246,
+        null
+      ]
+    },
+    {
+      "id": "jenny-de-vieilles-pierres",
+      "nameEn": "Jenny of Oldstones",
+      "nameFr": "Jenny de Vieilles-Pierres",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "aucune",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 17,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "ormund-baratheon",
+      "nameEn": "Ormund Baratheon",
+      "nameFr": "Ormund Baratheon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "baratheon",
+      "born": null,
+      "died": 260,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 17,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Mort pendant la guerre des Rois à Neuf Sous (260)."
+    },
+    {
+      "id": "steffon-baratheon",
+      "nameEn": "Steffon Baratheon",
+      "nameFr": "Steffon Baratheon",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "baratheon",
+      "born": 246,
+      "died": 278,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 18,
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        278,
+        279
+      ]
+    },
+    {
+      "id": "robert-i-baratheon",
+      "nameEn": "Robert I Baratheon",
+      "nameFr": "Robert Ier Baratheon",
+      "epithetFr": "l'Usurpateur",
+      "epithetEn": "the Usurper",
+      "sex": "m",
+      "house": "baratheon",
+      "born": 262,
+      "died": 298,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        283,
+        298
+      ],
+      "legitimacy": "legitime",
+      "generation": 19,
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Hors maison Targaryen : inclus pour clore la table des successions. Sa prétention passe par sa grand-mère Rhaelle Targaryen. Mère : Cassana Estermont (hors graphe). Ses frères Stannis et Renly ne sont pas dans le graphe."
+    },
+    {
+      "id": "aerys-ii",
+      "nameEn": "Aerys II Targaryen",
+      "nameFr": "Aerys II Targaryen",
+      "epithetFr": "le Roi Fou",
+      "epithetEn": "the Mad King",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 244,
+      "died": 283,
+      "dateCertainty": "exacte",
+      "king": true,
+      "reign": [
+        262,
+        283
+      ],
+      "legitimacy": "legitime",
+      "generation": 18,
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "rhaella-fille-jaehaerys-ii",
+      "nameEn": "Rhaella Targaryen (daughter of Jaehaerys II)",
+      "nameFr": "Rhaella Targaryen (fille de Jaehaerys II)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": null,
+      "died": 284,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 18,
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        245,
+        247
+      ]
+    },
+    {
+      "id": "rhaegar",
+      "nameEn": "Rhaegar Targaryen",
+      "nameFr": "Rhaegar Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 259,
+      "died": 283,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 19,
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Les premiers tirages de The World of Ice & Fire donnaient 282 pour sa mort, corrigé en 283."
+    },
+    {
+      "id": "shaena",
+      "nameEn": "Shaena Targaryen",
+      "nameFr": "Shaena Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 267,
+      "died": 267,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 19,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "noteFr": "Mort-née."
+    },
+    {
+      "id": "daeron-fils-aerys-ii",
+      "nameEn": "Daeron Targaryen (son of Aerys II)",
+      "nameFr": "Daeron Targaryen (fils d'Aerys II)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 269,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 19,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "diedRange": [
+        269,
+        270
+      ],
+      "noteFr": "Né en 269, il ne vit qu'une demi-année et meurt en 269 ou en 270."
+    },
+    {
+      "id": "aegon-fils-aerys-ii",
+      "nameEn": "Aegon Targaryen (son of Aerys II)",
+      "nameFr": "Aegon Targaryen (fils d'Aerys II)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 272,
+      "died": 273,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 19,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "jaehaerys-fils-aerys-ii",
+      "nameEn": "Jaehaerys Targaryen (son of Aerys II)",
+      "nameFr": "Jaehaerys Targaryen (fils d'Aerys II)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": 274,
+      "died": 274,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 19,
+      "sources": [
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "viserys-fils-aerys-ii",
+      "nameEn": "Viserys Targaryen (son of Aerys II)",
+      "nameFr": "Viserys Targaryen (fils d'Aerys II)",
+      "epithetFr": "le Roi Gueux",
+      "epithetEn": "the Beggar King",
+      "sex": "m",
+      "house": "targaryen",
+      "born": 276,
+      "died": 298,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 19,
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "pretender": {
+        "styledAs": "Viserys III",
+        "from": 283,
+        "to": 298
+      },
+      "noteFr": "Se proclame Viserys, troisième du nom, en exil ; n'a jamais régné."
+    },
+    {
+      "id": "daenerys-fille-aerys-ii",
+      "nameEn": "Daenerys Targaryen",
+      "nameFr": "Daenerys Targaryen",
+      "epithetFr": "du Typhon",
+      "epithetEn": "Stormborn",
+      "sex": "f",
+      "house": "targaryen",
+      "born": 284,
+      "died": null,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 19,
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "pretender": {
+        "styledAs": "Daenerys Ire",
+        "from": 298,
+        "to": null
+      },
+      "alive": true,
+      "noteFr": "Reine de Meereen ; revendique le Trône de Fer sans y avoir siégé (état des livres en 300)."
+    },
+    {
+      "id": "elia-martell",
+      "nameEn": "Elia Martell",
+      "nameFr": "Elia Martell",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "martell",
+      "born": null,
+      "died": 283,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 19,
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        256,
+        257
+      ]
+    },
+    {
+      "id": "rhaenys-fille-rhaegar",
+      "nameEn": "Rhaenys Targaryen (daughter of Rhaegar)",
+      "nameFr": "Rhaenys Targaryen (fille de Rhaegar)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "targaryen",
+      "born": 280,
+      "died": 283,
+      "dateCertainty": "exacte",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 20,
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aegon-fils-rhaegar",
+      "nameEn": "Aegon Targaryen (son of Rhaegar)",
+      "nameFr": "Aegon Targaryen (fils de Rhaegar)",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "targaryen",
+      "born": null,
+      "died": 283,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 20,
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ],
+      "verifiedOnline": true,
+      "bornRange": [
+        281,
+        282
+      ],
+      "noteFr": "Né vers le nouvel an 282 ; tué lors du sac de Port-Réal (283) selon la version reçue. Dans A Dance with Dragons, un jeune homme dit Griff le Jeune est présenté comme ce prince, sauvé par substitution : identité contestée, non tranchée par les livres parus."
+    },
+    {
+      "id": "lyanna-stark",
+      "nameEn": "Lyanna Stark",
+      "nameFr": "Lyanna Stark",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "f",
+      "house": "stark",
+      "born": null,
+      "died": 283,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 19,
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ],
+      "verifiedOnline": false
+    },
+    {
+      "id": "drogo",
+      "nameEn": "Drogo",
+      "nameFr": "Drogo",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "aucune",
+      "born": null,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 19,
+      "sources": [
+        "asoiaf"
+      ],
+      "verifiedOnline": false,
+      "diedRange": [
+        298,
+        299
+      ],
+      "noteFr": "Khal dothraki."
+    },
+    {
+      "id": "rhaego",
+      "nameEn": "Rhaego",
+      "nameFr": "Rhaego",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "aucune",
+      "born": null,
+      "died": null,
+      "dateCertainty": "approximative",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 20,
+      "sources": [
+        "asoiaf"
+      ],
+      "verifiedOnline": false,
+      "bornRange": [
+        298,
+        299
+      ],
+      "diedRange": [
+        298,
+        299
+      ],
+      "noteFr": "Mort-né."
+    },
+    {
+      "id": "hizdahr-zo-loraq",
+      "nameEn": "Hizdahr zo Loraq",
+      "nameFr": "Hizdahr zo Loraq",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "loraq",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 19,
+      "sources": [
+        "asoiaf"
+      ],
+      "verifiedOnline": false
+    },
+    {
+      "id": "daario-naharis",
+      "nameEn": "Daario Naharis",
+      "nameFr": "Daario Naharis",
+      "epithetFr": null,
+      "epithetEn": null,
+      "sex": "m",
+      "house": "aucune",
+      "born": null,
+      "died": null,
+      "dateCertainty": "inconnue",
+      "king": false,
+      "reign": null,
+      "legitimacy": "legitime",
+      "generation": 19,
+      "sources": [
+        "asoiaf"
+      ],
+      "verifiedOnline": false,
+      "noteFr": "Capitaine mercenaire (Corbeaux Tornade)."
+    }
+  ],
+  "unions": [
+    {
+      "id": "u-gaemon-peyredragon-daenys",
+      "partners": [
+        "gaemon-peyredragon",
+        "daenys"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "fab"
+      ]
+    },
+    {
+      "id": "u-aegon-peyredragon-elaena-peyredragon",
+      "partners": [
+        "aegon-peyredragon",
+        "elaena-peyredragon"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "noteFr": "Le texte dit qu'ils « régnèrent ensemble » et parle de « leur fils Maegon » : l'union est établie par la filiation ; la cérémonie elle-même n'est pas décrite."
+    },
+    {
+      "id": "u-aerion-peyredragon-valaena-velaryon",
+      "partners": [
+        "aerion-peyredragon",
+        "valaena-velaryon"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "fab"
+      ]
+    },
+    {
+      "id": "u-aegon-i-visenya",
+      "partners": [
+        "aegon-i",
+        "visenya"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd"
+      ]
+    },
+    {
+      "id": "u-aegon-i-rhaenys",
+      "partners": [
+        "aegon-i",
+        "rhaenys"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd"
+      ]
+    },
+    {
+      "id": "u-aenys-i-alyssa-velaryon",
+      "partners": [
+        "aenys-i",
+        "alyssa-velaryon"
+      ],
+      "type": "mariage",
+      "year": 22,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-maegor-i-ceryse-hightower",
+      "partners": [
+        "maegor-i",
+        "ceryse-hightower"
+      ],
+      "type": "mariage",
+      "year": 25,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-maegor-i-alys-harroway",
+      "partners": [
+        "maegor-i",
+        "alys-harroway"
+      ],
+      "type": "mariage",
+      "year": 39,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "noteFr": "Second mariage, polygame, célébré par Visenya ; cause de l'exil de Maegor à Pentos."
+    },
+    {
+      "id": "u-maegor-i-tyanna",
+      "partners": [
+        "maegor-i",
+        "tyanna"
+      ],
+      "type": "mariage",
+      "year": 42,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-maegor-i-elinor-costayne",
+      "partners": [
+        "maegor-i",
+        "elinor-costayne"
+      ],
+      "type": "mariage",
+      "year": 47,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "noteFr": "Une des trois « Épouses noires » (triple cérémonie de 47)."
+    },
+    {
+      "id": "u-maegor-i-jeyne-westerling",
+      "partners": [
+        "maegor-i",
+        "jeyne-westerling"
+      ],
+      "type": "mariage",
+      "year": 47,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "noteFr": "Une des trois « Épouses noires »."
+    },
+    {
+      "id": "u-alyssa-velaryon-rogar-baratheon",
+      "partners": [
+        "alyssa-velaryon",
+        "rogar-baratheon"
+      ],
+      "type": "mariage",
+      "year": 49,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "noteFr": "Les « Noces d'or », fin 49."
+    },
+    {
+      "id": "u-aegon-fils-aenys-i-rhaena-fille-aenys-i",
+      "partners": [
+        "aegon-fils-aenys-i",
+        "rhaena-fille-aenys-i"
+      ],
+      "type": "mariage",
+      "year": 41,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-maegor-i-rhaena-fille-aenys-i",
+      "partners": [
+        "maegor-i",
+        "rhaena-fille-aenys-i"
+      ],
+      "type": "mariage",
+      "year": 47,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "noteFr": "Troisième des « Épouses noires » : Maegor épouse de force sa nièce, veuve du prince Aegon."
+    },
+    {
+      "id": "u-rhaena-fille-aenys-i-androw-farman",
+      "partners": [
+        "rhaena-fille-aenys-i",
+        "androw-farman"
+      ],
+      "type": "mariage",
+      "year": 49,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-jaehaerys-i-alysanne",
+      "partners": [
+        "jaehaerys-i",
+        "alysanne"
+      ],
+      "type": "mariage",
+      "year": 49,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd"
+      ],
+      "noteFr": "Mariage secret à Peyredragon (49), puis seconde cérémonie publique à Port-Réal."
+    },
+    {
+      "id": "u-aemon-fils-jaehaerys-i-jocelyn-baratheon",
+      "partners": [
+        "aemon-fils-jaehaerys-i",
+        "jocelyn-baratheon"
+      ],
+      "type": "mariage",
+      "year": 70,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "noteFr": "Jocelyn est la demi-sœur de Jaehaerys Ier (même mère, Alyssa Velaryon) : demi-tante de son époux."
+    },
+    {
+      "id": "u-baelon-fils-jaehaerys-i-alyssa-fille-jaehaerys-i",
+      "partners": [
+        "baelon-fils-jaehaerys-i",
+        "alyssa-fille-jaehaerys-i"
+      ],
+      "type": "mariage",
+      "year": 75,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-daella-fille-jaehaerys-i-rodrik-arryn",
+      "partners": [
+        "daella-fille-jaehaerys-i",
+        "rodrik-arryn"
+      ],
+      "type": "mariage",
+      "year": 80,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-corlys-velaryon-rhaenys-fille-aemon",
+      "partners": [
+        "corlys-velaryon",
+        "rhaenys-fille-aemon"
+      ],
+      "type": "mariage",
+      "year": 90,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-viserys-i-aemma-arryn",
+      "partners": [
+        "viserys-i",
+        "aemma-arryn"
+      ],
+      "type": "mariage",
+      "year": 93,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-viserys-i-alicent-hightower",
+      "partners": [
+        "viserys-i",
+        "alicent-hightower"
+      ],
+      "type": "mariage",
+      "year": 106,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-rhaenyra-laenor-velaryon",
+      "partners": [
+        "rhaenyra",
+        "laenor-velaryon"
+      ],
+      "type": "mariage",
+      "year": 114,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-rhaenyra-harwin-strong",
+      "partners": [
+        "rhaenyra",
+        "harwin-strong"
+      ],
+      "type": "liaison",
+      "year": null,
+      "certainty": "incertain",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "noteFr": "Liaison rapportée par la rumeur de cour et par les chroniqueurs, jamais reconnue par Rhaenyra."
+    },
+    {
+      "id": "u-daemon-rhea-royce",
+      "partners": [
+        "daemon",
+        "rhea-royce"
+      ],
+      "type": "mariage",
+      "year": 97,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-daemon-laena-velaryon",
+      "partners": [
+        "daemon",
+        "laena-velaryon"
+      ],
+      "type": "mariage",
+      "year": 115,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-daemon-mysaria",
+      "partners": [
+        "daemon",
+        "mysaria"
+      ],
+      "type": "liaison",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-daemon-rhaenyra",
+      "partners": [
+        "daemon",
+        "rhaenyra"
+      ],
+      "type": "mariage",
+      "year": 120,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf",
+        "trotd"
+      ],
+      "noteFr": "Oncle et nièce."
+    },
+    {
+      "id": "u-aegon-ii-helaena",
+      "partners": [
+        "aegon-ii",
+        "helaena"
+      ],
+      "type": "mariage",
+      "year": 122,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-aemond-alys-rivers",
+      "partners": [
+        "aemond",
+        "alys-rivers"
+      ],
+      "type": "liaison",
+      "year": 130,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "noteFr": "Liaison établie à Harrenhal. Pendant la régence d'Aegon III, Alys se dit veuve d'Aemond et présente un garçon comme leur fils légitime et roi de droit : mariage et enfant ne sont pas confirmés (enfant non nommé, hors graphe)."
+    },
+    {
+      "id": "u-rhaena-fille-daemon-corwyn-corbray",
+      "partners": [
+        "rhaena-fille-daemon",
+        "corwyn-corbray"
+      ],
+      "type": "mariage",
+      "year": 132,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-rhaena-fille-daemon-garmund-hightower",
+      "partners": [
+        "rhaena-fille-daemon",
+        "garmund-hightower"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-baela-alyn-velaryon",
+      "partners": [
+        "baela",
+        "alyn-velaryon"
+      ],
+      "type": "mariage",
+      "year": 132,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-aegon-iii-jaehaera",
+      "partners": [
+        "aegon-iii",
+        "jaehaera"
+      ],
+      "type": "mariage",
+      "year": 131,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "noteFr": "Cousins ; mariage sans postérité (Jaehaera meurt en 133)."
+    },
+    {
+      "id": "u-aegon-iii-daenaera-velaryon",
+      "partners": [
+        "aegon-iii",
+        "daenaera-velaryon"
+      ],
+      "type": "mariage",
+      "year": 133,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-baelor-i-daena",
+      "partners": [
+        "baelor-i",
+        "daena"
+      ],
+      "type": "mariage",
+      "year": 160,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ],
+      "endYear": 161,
+      "noteFr": "Jamais consommé ; dissous par le Grand Septon au début du règne de Baelor (161)."
+    },
+    {
+      "id": "u-viserys-ii-larra-rogare",
+      "partners": [
+        "viserys-ii",
+        "larra-rogare"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "noteFr": "Mariage conclu à Lys pendant la captivité de Viserys ; année non donnée."
+    },
+    {
+      "id": "u-elaena-fille-aegon-iii-ossifer-plumm",
+      "partners": [
+        "elaena-fille-aegon-iii",
+        "ossifer-plumm"
+      ],
+      "type": "mariage",
+      "year": 176,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-elaena-fille-aegon-iii-ronnel-penrose",
+      "partners": [
+        "elaena-fille-aegon-iii",
+        "ronnel-penrose"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ],
+      "noteFr": "Sous le règne de Daeron II."
+    },
+    {
+      "id": "u-elaena-fille-aegon-iii-michael-manwoody",
+      "partners": [
+        "elaena-fille-aegon-iii",
+        "michael-manwoody"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ],
+      "noteFr": "Troisième mariage, après la mort de Ronnel Penrose."
+    },
+    {
+      "id": "u-alyn-velaryon-elaena-fille-aegon-iii",
+      "partners": [
+        "alyn-velaryon",
+        "elaena-fille-aegon-iii"
+      ],
+      "type": "liaison",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-aegon-iv-naerys",
+      "partners": [
+        "aegon-iv",
+        "naerys"
+      ],
+      "type": "mariage",
+      "year": 153,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-daenerys-fille-aegon-iv-maron-martell",
+      "partners": [
+        "daenerys-fille-aegon-iv",
+        "maron-martell"
+      ],
+      "type": "mariage",
+      "year": 187,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ],
+      "noteFr": "Scelle le rattachement de Dorne aux Sept Couronnes."
+    },
+    {
+      "id": "u-aegon-iv-daena",
+      "partners": [
+        "aegon-iv",
+        "daena"
+      ],
+      "type": "liaison",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ],
+      "noteFr": "Cousins germains ; liaison pendant la réclusion de Daena."
+    },
+    {
+      "id": "u-aegon-iv-barba-bracken",
+      "partners": [
+        "aegon-iv",
+        "barba-bracken"
+      ],
+      "type": "liaison",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-aegon-iv-melissa-blackwood",
+      "partners": [
+        "aegon-iv",
+        "melissa-blackwood"
+      ],
+      "type": "liaison",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-aegon-iv-serenei-de-lys",
+      "partners": [
+        "aegon-iv",
+        "serenei-de-lys"
+      ],
+      "type": "liaison",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-brynden-rivers-shiera-seastar",
+      "partners": [
+        "brynden-rivers",
+        "shiera-seastar"
+      ],
+      "type": "liaison",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "noteFr": "Demi-frère et demi-sœur ; elle refuse de l'épouser."
+    },
+    {
+      "id": "u-daemon-i-blackfyre-rohanne-de-tyrosh",
+      "partners": [
+        "daemon-i-blackfyre",
+        "rohanne-de-tyrosh"
+      ],
+      "type": "mariage",
+      "year": 184,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ],
+      "noteFr": "Daemon a quatorze ans ; année (184) déduite de son âge."
+    },
+    {
+      "id": "u-aegor-rivers-calla-blackfyre",
+      "partners": [
+        "aegor-rivers",
+        "calla-blackfyre"
+      ],
+      "type": "fiancailles",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ],
+      "noteFr": "Calla est promise à Aigracier avant la première rébellion Feunoyr. Aucun texte ne décrit la célébration du mariage, que l'on tient d'ordinaire pour acquise."
+    },
+    {
+      "id": "u-daeron-ii-myriah-martell",
+      "partners": [
+        "daeron-ii",
+        "myriah-martell"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ],
+      "noteFr": "Mariage arrangé sous Baelor Ier ; année non donnée."
+    },
+    {
+      "id": "u-baelor-fils-daeron-ii-jena-dondarrion",
+      "partners": [
+        "baelor-fils-daeron-ii",
+        "jena-dondarrion"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-valarr-kiera-de-tyrosh",
+      "partners": [
+        "valarr",
+        "kiera-de-tyrosh"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ],
+      "noteFr": "Deux fils mort-nés (hors graphe)."
+    },
+    {
+      "id": "u-aerys-i-aelinor-penrose",
+      "partners": [
+        "aerys-i",
+        "aelinor-penrose"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "noteFr": "Sans postérité."
+    },
+    {
+      "id": "u-rhaegel-alys-arryn",
+      "partners": [
+        "rhaegel",
+        "alys-arryn"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-aelor-aelora",
+      "partners": [
+        "aelor",
+        "aelora"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ],
+      "noteFr": "Jumeaux mariés l'un à l'autre."
+    },
+    {
+      "id": "u-maekar-i-dyanna-dayne",
+      "partners": [
+        "maekar-i",
+        "dyanna-dayne"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-daeron-fils-maekar-i-kiera-de-tyrosh",
+      "partners": [
+        "daeron-fils-maekar-i",
+        "kiera-de-tyrosh"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ],
+      "noteFr": "Kiera est la veuve de Valarr, cousin de Daeron."
+    },
+    {
+      "id": "u-aerion-fils-maekar-i-daenora",
+      "partners": [
+        "aerion-fils-maekar-i",
+        "daenora"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ],
+      "noteFr": "Cousins germains."
+    },
+    {
+      "id": "u-aegon-v-betha-blackwood",
+      "partners": [
+        "aegon-v",
+        "betha-blackwood"
+      ],
+      "type": "mariage",
+      "year": 220,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-duncan-jenny-de-vieilles-pierres",
+      "partners": [
+        "duncan",
+        "jenny-de-vieilles-pierres"
+      ],
+      "type": "mariage",
+      "year": 239,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ]
+    },
+    {
+      "id": "u-rhaelle-ormund-baratheon",
+      "partners": [
+        "rhaelle",
+        "ormund-baratheon"
+      ],
+      "type": "mariage",
+      "year": 245,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ]
+    },
+    {
+      "id": "u-jaehaerys-ii-shaera",
+      "partners": [
+        "jaehaerys-ii",
+        "shaera"
+      ],
+      "type": "mariage",
+      "year": 240,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "noteFr": "Mariage secret, contre la volonté d'Aegon V."
+    },
+    {
+      "id": "u-aerys-ii-rhaella-fille-jaehaerys-ii",
+      "partners": [
+        "aerys-ii",
+        "rhaella-fille-jaehaerys-ii"
+      ],
+      "type": "mariage",
+      "year": null,
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ],
+      "noteFr": "Mariage imposé par Jaehaerys II ; année non donnée par les livres (Rhaegar naît en 259)."
+    },
+    {
+      "id": "u-rhaegar-elia-martell",
+      "partners": [
+        "rhaegar",
+        "elia-martell"
+      ],
+      "type": "mariage",
+      "year": 280,
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ]
+    },
+    {
+      "id": "u-rhaegar-lyanna-stark",
+      "partners": [
+        "rhaegar",
+        "lyanna-stark"
+      ],
+      "type": "liaison",
+      "year": 282,
+      "certainty": "incertain",
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ],
+      "noteFr": "Rhaegar la couronne reine d'amour et de beauté à Harrenhal (281) puis part avec elle l'année suivante : enlèvement selon les Stark et Robert, amour partagé selon d'autres. Les livres parus n'établissent ni mariage ni enfant."
+    },
+    {
+      "id": "u-daenerys-fille-aerys-ii-drogo",
+      "partners": [
+        "daenerys-fille-aerys-ii",
+        "drogo"
+      ],
+      "type": "mariage",
+      "year": 298,
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf"
+      ]
+    },
+    {
+      "id": "u-daenerys-fille-aerys-ii-hizdahr-zo-loraq",
+      "partners": [
+        "daenerys-fille-aerys-ii",
+        "hizdahr-zo-loraq"
+      ],
+      "type": "mariage",
+      "year": 300,
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf"
+      ]
+    },
+    {
+      "id": "u-daenerys-fille-aerys-ii-daario-naharis",
+      "partners": [
+        "daenerys-fille-aerys-ii",
+        "daario-naharis"
+      ],
+      "type": "liaison",
+      "year": 300,
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf"
+      ],
+      "noteFr": "A Dance with Dragons."
+    }
+  ],
+  "parentage": [
+    {
+      "child": "gaemon-peyredragon",
+      "union": null,
+      "father": "aenar",
+      "mother": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "fab"
+      ]
+    },
+    {
+      "child": "daenys",
+      "union": null,
+      "father": "aenar",
+      "mother": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "fab",
+        "asoiaf"
+      ]
+    },
+    {
+      "child": "aegon-peyredragon",
+      "union": "u-gaemon-peyredragon-daenys",
+      "father": "gaemon-peyredragon",
+      "mother": "daenys",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "fab"
+      ]
+    },
+    {
+      "child": "elaena-peyredragon",
+      "union": "u-gaemon-peyredragon-daenys",
+      "father": "gaemon-peyredragon",
+      "mother": "daenys",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "fab"
+      ]
+    },
+    {
+      "child": "maegon",
+      "union": "u-aegon-peyredragon-elaena-peyredragon",
+      "father": "aegon-peyredragon",
+      "mother": "elaena-peyredragon",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "fab"
+      ]
+    },
+    {
+      "child": "aerys-peyredragon",
+      "union": "u-aegon-peyredragon-elaena-peyredragon",
+      "father": "aegon-peyredragon",
+      "mother": "elaena-peyredragon",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "fab"
+      ]
+    },
+    {
+      "child": "aelyx",
+      "union": null,
+      "father": "aerys-peyredragon",
+      "mother": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "noteFr": "Mère inconnue."
+    },
+    {
+      "child": "baelon-peyredragon",
+      "union": null,
+      "father": "aerys-peyredragon",
+      "mother": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "noteFr": "Mère inconnue."
+    },
+    {
+      "child": "daemion",
+      "union": null,
+      "father": "aerys-peyredragon",
+      "mother": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "noteFr": "Mère inconnue."
+    },
+    {
+      "child": "aerion-peyredragon",
+      "union": null,
+      "father": "daemion",
+      "mother": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "fab"
+      ],
+      "noteFr": "Mère inconnue."
+    },
+    {
+      "child": "orys-baratheon",
+      "union": null,
+      "father": "aerion-peyredragon",
+      "mother": null,
+      "certainty": "incertain",
+      "sources": [
+        "twoiaf",
+        "fab",
+        "asoiaf"
+      ],
+      "noteFr": "Rumeur : Orys aurait été un demi-frère bâtard d'Aegon Ier, fils du seigneur Aerion. Jamais confirmé ; mère inconnue."
+    },
+    {
+      "child": "visenya",
+      "union": "u-aerion-peyredragon-valaena-velaryon",
+      "father": "aerion-peyredragon",
+      "mother": "valaena-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aegon-i",
+      "union": "u-aerion-peyredragon-valaena-velaryon",
+      "father": "aerion-peyredragon",
+      "mother": "valaena-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "rhaenys",
+      "union": "u-aerion-peyredragon-valaena-velaryon",
+      "father": "aerion-peyredragon",
+      "mother": "valaena-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aenys-i",
+      "union": "u-aegon-i-rhaenys",
+      "father": "aegon-i",
+      "mother": "rhaenys",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "noteFr": "Rumeur de cour rapportée par Fire & Blood : l'enfant, chétif, aurait été engendré par l'un des chanteurs ou comédiens de l'entourage de Rhaenys. Sans suite : la rumeur s'éteint quand il se lie au dragon Vif-Argent (Quicksilver)."
+    },
+    {
+      "child": "maegor-i",
+      "union": "u-aegon-i-visenya",
+      "father": "aegon-i",
+      "mother": "visenya",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "rhaena-fille-aenys-i",
+      "union": "u-aenys-i-alyssa-velaryon",
+      "father": "aenys-i",
+      "mother": "alyssa-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aegon-fils-aenys-i",
+      "union": "u-aenys-i-alyssa-velaryon",
+      "father": "aenys-i",
+      "mother": "alyssa-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "viserys-fils-aenys-i",
+      "union": "u-aenys-i-alyssa-velaryon",
+      "father": "aenys-i",
+      "mother": "alyssa-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "jaehaerys-i",
+      "union": "u-aenys-i-alyssa-velaryon",
+      "father": "aenys-i",
+      "mother": "alyssa-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "alysanne",
+      "union": "u-aenys-i-alyssa-velaryon",
+      "father": "aenys-i",
+      "mother": "alyssa-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "vaella-fille-aenys-i",
+      "union": "u-aenys-i-alyssa-velaryon",
+      "father": "aenys-i",
+      "mother": "alyssa-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "boremund-baratheon",
+      "union": "u-alyssa-velaryon-rogar-baratheon",
+      "father": "rogar-baratheon",
+      "mother": "alyssa-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "jocelyn-baratheon",
+      "union": "u-alyssa-velaryon-rogar-baratheon",
+      "father": "rogar-baratheon",
+      "mother": "alyssa-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aerea",
+      "union": "u-aegon-fils-aenys-i-rhaena-fille-aenys-i",
+      "father": "aegon-fils-aenys-i",
+      "mother": "rhaena-fille-aenys-i",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "rhaella-fille-aegon",
+      "union": "u-aegon-fils-aenys-i-rhaena-fille-aenys-i",
+      "father": "aegon-fils-aenys-i",
+      "mother": "rhaena-fille-aenys-i",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aegon-fils-jaehaerys-i",
+      "union": "u-jaehaerys-i-alysanne",
+      "father": "jaehaerys-i",
+      "mother": "alysanne",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "daenerys-fille-jaehaerys-i",
+      "union": "u-jaehaerys-i-alysanne",
+      "father": "jaehaerys-i",
+      "mother": "alysanne",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aemon-fils-jaehaerys-i",
+      "union": "u-jaehaerys-i-alysanne",
+      "father": "jaehaerys-i",
+      "mother": "alysanne",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "baelon-fils-jaehaerys-i",
+      "union": "u-jaehaerys-i-alysanne",
+      "father": "jaehaerys-i",
+      "mother": "alysanne",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "alyssa-fille-jaehaerys-i",
+      "union": "u-jaehaerys-i-alysanne",
+      "father": "jaehaerys-i",
+      "mother": "alysanne",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "maegelle",
+      "union": "u-jaehaerys-i-alysanne",
+      "father": "jaehaerys-i",
+      "mother": "alysanne",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "vaegon",
+      "union": "u-jaehaerys-i-alysanne",
+      "father": "jaehaerys-i",
+      "mother": "alysanne",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "daella-fille-jaehaerys-i",
+      "union": "u-jaehaerys-i-alysanne",
+      "father": "jaehaerys-i",
+      "mother": "alysanne",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "saera",
+      "union": "u-jaehaerys-i-alysanne",
+      "father": "jaehaerys-i",
+      "mother": "alysanne",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "viserra",
+      "union": "u-jaehaerys-i-alysanne",
+      "father": "jaehaerys-i",
+      "mother": "alysanne",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "gaemon-fils-jaehaerys-i",
+      "union": "u-jaehaerys-i-alysanne",
+      "father": "jaehaerys-i",
+      "mother": "alysanne",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "valerion",
+      "union": "u-jaehaerys-i-alysanne",
+      "father": "jaehaerys-i",
+      "mother": "alysanne",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "gael",
+      "union": "u-jaehaerys-i-alysanne",
+      "father": "jaehaerys-i",
+      "mother": "alysanne",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "rhaenys-fille-aemon",
+      "union": "u-aemon-fils-jaehaerys-i-jocelyn-baratheon",
+      "father": "aemon-fils-jaehaerys-i",
+      "mother": "jocelyn-baratheon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "viserys-i",
+      "union": "u-baelon-fils-jaehaerys-i-alyssa-fille-jaehaerys-i",
+      "father": "baelon-fils-jaehaerys-i",
+      "mother": "alyssa-fille-jaehaerys-i",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "daemon",
+      "union": "u-baelon-fils-jaehaerys-i-alyssa-fille-jaehaerys-i",
+      "father": "baelon-fils-jaehaerys-i",
+      "mother": "alyssa-fille-jaehaerys-i",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aegon-fils-baelon",
+      "union": "u-baelon-fils-jaehaerys-i-alyssa-fille-jaehaerys-i",
+      "father": "baelon-fils-jaehaerys-i",
+      "mother": "alyssa-fille-jaehaerys-i",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aemma-arryn",
+      "union": "u-daella-fille-jaehaerys-i-rodrik-arryn",
+      "father": "rodrik-arryn",
+      "mother": "daella-fille-jaehaerys-i",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "laena-velaryon",
+      "union": "u-corlys-velaryon-rhaenys-fille-aemon",
+      "father": "corlys-velaryon",
+      "mother": "rhaenys-fille-aemon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "laenor-velaryon",
+      "union": "u-corlys-velaryon-rhaenys-fille-aemon",
+      "father": "corlys-velaryon",
+      "mother": "rhaenys-fille-aemon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "addam-velaryon",
+      "union": null,
+      "father": "laenor-velaryon",
+      "mother": "marilda-de-hull",
+      "certainty": "conteste",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "allegedFather": "corlys-velaryon",
+      "noteFr": "Version officielle : leur mère Marilda les déclare fils de ser Laenor Velaryon. Le bouffon Champignon (Mushroom) affirme que le père est lord Corlys lui-même, qui les aurait tenus à l'écart tant que vivait son épouse ; Gyldayn juge cette version plus vraisemblable. Non tranché."
+    },
+    {
+      "child": "alyn-velaryon",
+      "union": null,
+      "father": "laenor-velaryon",
+      "mother": "marilda-de-hull",
+      "certainty": "conteste",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "allegedFather": "corlys-velaryon",
+      "noteFr": "Version officielle : leur mère Marilda les déclare fils de ser Laenor Velaryon. Le bouffon Champignon (Mushroom) affirme que le père est lord Corlys lui-même, qui les aurait tenus à l'écart tant que vivait son épouse ; Gyldayn juge cette version plus vraisemblable. Non tranché."
+    },
+    {
+      "child": "rhaenyra",
+      "union": "u-viserys-i-aemma-arryn",
+      "father": "viserys-i",
+      "mother": "aemma-arryn",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "baelon-fils-viserys-i",
+      "union": "u-viserys-i-aemma-arryn",
+      "father": "viserys-i",
+      "mother": "aemma-arryn",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aegon-ii",
+      "union": "u-viserys-i-alicent-hightower",
+      "father": "viserys-i",
+      "mother": "alicent-hightower",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "helaena",
+      "union": "u-viserys-i-alicent-hightower",
+      "father": "viserys-i",
+      "mother": "alicent-hightower",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aemond",
+      "union": "u-viserys-i-alicent-hightower",
+      "father": "viserys-i",
+      "mother": "alicent-hightower",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "daeron-fils-viserys-i",
+      "union": "u-viserys-i-alicent-hightower",
+      "father": "viserys-i",
+      "mother": "alicent-hightower",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "jacaerys-velaryon",
+      "union": "u-rhaenyra-laenor-velaryon",
+      "father": "laenor-velaryon",
+      "mother": "rhaenyra",
+      "certainty": "conteste",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "allegedFather": "harwin-strong",
+      "noteFr": "Fils légitimes de ser Laenor selon la version officielle, maintenue par Rhaenyra, Laenor, Corlys et le roi Viserys Ier (qui fit menacer d'avoir la langue arrachée quiconque dirait le contraire). La cour soupçonne ser Harwin Strong : les trois garçons ont cheveux et yeux bruns, alors que leurs deux parents ont les traits valyriens. Accusation reprise par les Verts et par les cousins Velaryon. Jamais tranché par les sources."
+    },
+    {
+      "child": "lucerys-velaryon",
+      "union": "u-rhaenyra-laenor-velaryon",
+      "father": "laenor-velaryon",
+      "mother": "rhaenyra",
+      "certainty": "conteste",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "allegedFather": "harwin-strong",
+      "noteFr": "Fils légitimes de ser Laenor selon la version officielle, maintenue par Rhaenyra, Laenor, Corlys et le roi Viserys Ier (qui fit menacer d'avoir la langue arrachée quiconque dirait le contraire). La cour soupçonne ser Harwin Strong : les trois garçons ont cheveux et yeux bruns, alors que leurs deux parents ont les traits valyriens. Accusation reprise par les Verts et par les cousins Velaryon. Jamais tranché par les sources."
+    },
+    {
+      "child": "joffrey-velaryon",
+      "union": "u-rhaenyra-laenor-velaryon",
+      "father": "laenor-velaryon",
+      "mother": "rhaenyra",
+      "certainty": "conteste",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ],
+      "allegedFather": "harwin-strong",
+      "noteFr": "Fils légitimes de ser Laenor selon la version officielle, maintenue par Rhaenyra, Laenor, Corlys et le roi Viserys Ier (qui fit menacer d'avoir la langue arrachée quiconque dirait le contraire). La cour soupçonne ser Harwin Strong : les trois garçons ont cheveux et yeux bruns, alors que leurs deux parents ont les traits valyriens. Accusation reprise par les Verts et par les cousins Velaryon. Jamais tranché par les sources."
+    },
+    {
+      "child": "baela",
+      "union": "u-daemon-laena-velaryon",
+      "father": "daemon",
+      "mother": "laena-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "rhaena-fille-daemon",
+      "union": "u-daemon-laena-velaryon",
+      "father": "daemon",
+      "mother": "laena-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aegon-iii",
+      "union": "u-daemon-rhaenyra",
+      "father": "daemon",
+      "mother": "rhaenyra",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "viserys-ii",
+      "union": "u-daemon-rhaenyra",
+      "father": "daemon",
+      "mother": "rhaenyra",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "visenya-fille-rhaenyra",
+      "union": "u-daemon-rhaenyra",
+      "father": "daemon",
+      "mother": "rhaenyra",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "jaehaerys-fils-aegon-ii",
+      "union": "u-aegon-ii-helaena",
+      "father": "aegon-ii",
+      "mother": "helaena",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "jaehaera",
+      "union": "u-aegon-ii-helaena",
+      "father": "aegon-ii",
+      "mother": "helaena",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "maelor",
+      "union": "u-aegon-ii-helaena",
+      "father": "aegon-ii",
+      "mother": "helaena",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "laena-velaryon-fille-alyn",
+      "union": "u-baela-alyn-velaryon",
+      "father": "alyn-velaryon",
+      "mother": "baela",
+      "certainty": "etabli",
+      "sources": [
+        "fab",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "daeron-i",
+      "union": "u-aegon-iii-daenaera-velaryon",
+      "father": "aegon-iii",
+      "mother": "daenaera-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "baelor-i",
+      "union": "u-aegon-iii-daenaera-velaryon",
+      "father": "aegon-iii",
+      "mother": "daenaera-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "daena",
+      "union": "u-aegon-iii-daenaera-velaryon",
+      "father": "aegon-iii",
+      "mother": "daenaera-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "rhaena-fille-aegon-iii",
+      "union": "u-aegon-iii-daenaera-velaryon",
+      "father": "aegon-iii",
+      "mother": "daenaera-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "elaena-fille-aegon-iii",
+      "union": "u-aegon-iii-daenaera-velaryon",
+      "father": "aegon-iii",
+      "mother": "daenaera-velaryon",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aegon-iv",
+      "union": "u-viserys-ii-larra-rogare",
+      "father": "viserys-ii",
+      "mother": "larra-rogare",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aemon-fils-viserys-ii",
+      "union": "u-viserys-ii-larra-rogare",
+      "father": "viserys-ii",
+      "mother": "larra-rogare",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "naerys",
+      "union": "u-viserys-ii-larra-rogare",
+      "father": "viserys-ii",
+      "mother": "larra-rogare",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "robin-penrose",
+      "union": "u-elaena-fille-aegon-iii-ronnel-penrose",
+      "father": "ronnel-penrose",
+      "mother": "elaena-fille-aegon-iii",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "laena-penrose",
+      "union": "u-elaena-fille-aegon-iii-ronnel-penrose",
+      "father": "ronnel-penrose",
+      "mother": "elaena-fille-aegon-iii",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "jocelyn-penrose",
+      "union": "u-elaena-fille-aegon-iii-ronnel-penrose",
+      "father": "ronnel-penrose",
+      "mother": "elaena-fille-aegon-iii",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "joy-penrose",
+      "union": "u-elaena-fille-aegon-iii-ronnel-penrose",
+      "father": "ronnel-penrose",
+      "mother": "elaena-fille-aegon-iii",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "jon-waters",
+      "union": "u-alyn-velaryon-elaena-fille-aegon-iii",
+      "father": "alyn-velaryon",
+      "mother": "elaena-fille-aegon-iii",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "jeyne-waters",
+      "union": "u-alyn-velaryon-elaena-fille-aegon-iii",
+      "father": "alyn-velaryon",
+      "mother": "elaena-fille-aegon-iii",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "daeron-ii",
+      "union": "u-aegon-iv-naerys",
+      "father": "aegon-iv",
+      "mother": "naerys",
+      "certainty": "conteste",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "allegedFather": "aemon-fils-viserys-ii",
+      "noteFr": "Fils d'Aegon IV selon la filiation officielle, jamais révoquée. Vers la fin de son règne, Aegon IV laisse entendre que Daeron serait né de Naerys et de son frère Aemon le Chevalier-Dragon ; d'après mestre Kaeth (Vies de quatre rois), le roi lança lui-même la rumeur, relayée par l'accusation de ser Morgil Hastwyck, qu'Aemon tua en duel judiciaire. Les partisans de Daemon Feunoyr traitent Daeron de « faux-né ». Ni prouvé ni réfuté."
+    },
+    {
+      "child": "daenerys-fille-aegon-iv",
+      "union": "u-aegon-iv-naerys",
+      "father": "aegon-iv",
+      "mother": "naerys",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "viserys-plumm",
+      "union": "u-elaena-fille-aegon-iii-ossifer-plumm",
+      "father": "ossifer-plumm",
+      "mother": "elaena-fille-aegon-iii",
+      "certainty": "conteste",
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ],
+      "allegedFather": "aegon-iv",
+      "noteFr": "Fils posthume de lord Ossifer selon la version officielle. La rumeur veut qu'Ossifer soit mort avant d'avoir consommé le mariage et que l'enfant ait été engendré par le cousin d'Elaena, le futur Aegon IV (The World of Ice & Fire, « Les sœurs de Baelor Ier » ; A Feast for Crows, Cersei III). Jamais établi."
+    },
+    {
+      "child": "daemon-i-blackfyre",
+      "union": "u-aegon-iv-daena",
+      "father": "aegon-iv",
+      "mother": "daena",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ],
+      "noteFr": "Daena refuse d'abord de nommer le père ; Aegon IV reconnaît l'enfant des années plus tard."
+    },
+    {
+      "child": "aegor-rivers",
+      "union": "u-aegon-iv-barba-bracken",
+      "father": "aegon-iv",
+      "mother": "barba-bracken",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "mya-rivers",
+      "union": "u-aegon-iv-melissa-blackwood",
+      "father": "aegon-iv",
+      "mother": "melissa-blackwood",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "gwenys-rivers",
+      "union": "u-aegon-iv-melissa-blackwood",
+      "father": "aegon-iv",
+      "mother": "melissa-blackwood",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "brynden-rivers",
+      "union": "u-aegon-iv-melissa-blackwood",
+      "father": "aegon-iv",
+      "mother": "melissa-blackwood",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "shiera-seastar",
+      "union": "u-aegon-iv-serenei-de-lys",
+      "father": "aegon-iv",
+      "mother": "serenei-de-lys",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "aegon-blackfyre",
+      "union": "u-daemon-i-blackfyre-rohanne-de-tyrosh",
+      "father": "daemon-i-blackfyre",
+      "mother": "rohanne-de-tyrosh",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aemon-blackfyre",
+      "union": "u-daemon-i-blackfyre-rohanne-de-tyrosh",
+      "father": "daemon-i-blackfyre",
+      "mother": "rohanne-de-tyrosh",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "daemon-ii-blackfyre",
+      "union": "u-daemon-i-blackfyre-rohanne-de-tyrosh",
+      "father": "daemon-i-blackfyre",
+      "mother": "rohanne-de-tyrosh",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "haegon-blackfyre",
+      "union": "u-daemon-i-blackfyre-rohanne-de-tyrosh",
+      "father": "daemon-i-blackfyre",
+      "mother": "rohanne-de-tyrosh",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aenys-blackfyre",
+      "union": "u-daemon-i-blackfyre-rohanne-de-tyrosh",
+      "father": "daemon-i-blackfyre",
+      "mother": "rohanne-de-tyrosh",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "calla-blackfyre",
+      "union": "u-daemon-i-blackfyre-rohanne-de-tyrosh",
+      "father": "daemon-i-blackfyre",
+      "mother": "rohanne-de-tyrosh",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "daemon-iii-blackfyre",
+      "union": null,
+      "father": "haegon-blackfyre",
+      "mother": null,
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ],
+      "noteFr": "Fils aîné de Haegon ; mère inconnue."
+    },
+    {
+      "child": "baelor-fils-daeron-ii",
+      "union": "u-daeron-ii-myriah-martell",
+      "father": "daeron-ii",
+      "mother": "myriah-martell",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "aerys-i",
+      "union": "u-daeron-ii-myriah-martell",
+      "father": "daeron-ii",
+      "mother": "myriah-martell",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "rhaegel",
+      "union": "u-daeron-ii-myriah-martell",
+      "father": "daeron-ii",
+      "mother": "myriah-martell",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "maekar-i",
+      "union": "u-daeron-ii-myriah-martell",
+      "father": "daeron-ii",
+      "mother": "myriah-martell",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "valarr",
+      "union": "u-baelor-fils-daeron-ii-jena-dondarrion",
+      "father": "baelor-fils-daeron-ii",
+      "mother": "jena-dondarrion",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "matarys",
+      "union": "u-baelor-fils-daeron-ii-jena-dondarrion",
+      "father": "baelor-fils-daeron-ii",
+      "mother": "jena-dondarrion",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "aelor",
+      "union": "u-rhaegel-alys-arryn",
+      "father": "rhaegel",
+      "mother": "alys-arryn",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aelora",
+      "union": "u-rhaegel-alys-arryn",
+      "father": "rhaegel",
+      "mother": "alys-arryn",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "daenora",
+      "union": "u-rhaegel-alys-arryn",
+      "father": "rhaegel",
+      "mother": "alys-arryn",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "daeron-fils-maekar-i",
+      "union": "u-maekar-i-dyanna-dayne",
+      "father": "maekar-i",
+      "mother": "dyanna-dayne",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "aerion-fils-maekar-i",
+      "union": "u-maekar-i-dyanna-dayne",
+      "father": "maekar-i",
+      "mother": "dyanna-dayne",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "aemon-fils-maekar-i",
+      "union": "u-maekar-i-dyanna-dayne",
+      "father": "maekar-i",
+      "mother": "dyanna-dayne",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "daella-fille-maekar-i",
+      "union": "u-maekar-i-dyanna-dayne",
+      "father": "maekar-i",
+      "mother": "dyanna-dayne",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "aegon-v",
+      "union": "u-maekar-i-dyanna-dayne",
+      "father": "maekar-i",
+      "mother": "dyanna-dayne",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "rhae",
+      "union": "u-maekar-i-dyanna-dayne",
+      "father": "maekar-i",
+      "mother": "dyanna-dayne",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "dunk-egg"
+      ]
+    },
+    {
+      "child": "vaella-fille-daeron",
+      "union": "u-daeron-fils-maekar-i-kiera-de-tyrosh",
+      "father": "daeron-fils-maekar-i",
+      "mother": "kiera-de-tyrosh",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "maegor-fils-aerion",
+      "union": "u-aerion-fils-maekar-i-daenora",
+      "father": "aerion-fils-maekar-i",
+      "mother": "daenora",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "duncan",
+      "union": "u-aegon-v-betha-blackwood",
+      "father": "aegon-v",
+      "mother": "betha-blackwood",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ]
+    },
+    {
+      "child": "jaehaerys-ii",
+      "union": "u-aegon-v-betha-blackwood",
+      "father": "aegon-v",
+      "mother": "betha-blackwood",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ]
+    },
+    {
+      "child": "shaera",
+      "union": "u-aegon-v-betha-blackwood",
+      "father": "aegon-v",
+      "mother": "betha-blackwood",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ]
+    },
+    {
+      "child": "daeron-fils-aegon-v",
+      "union": "u-aegon-v-betha-blackwood",
+      "father": "aegon-v",
+      "mother": "betha-blackwood",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ]
+    },
+    {
+      "child": "rhaelle",
+      "union": "u-aegon-v-betha-blackwood",
+      "father": "aegon-v",
+      "mother": "betha-blackwood",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ]
+    },
+    {
+      "child": "steffon-baratheon",
+      "union": "u-rhaelle-ormund-baratheon",
+      "father": "ormund-baratheon",
+      "mother": "rhaelle",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ]
+    },
+    {
+      "child": "robert-i-baratheon",
+      "union": null,
+      "father": "steffon-baratheon",
+      "mother": null,
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ],
+      "noteFr": "Mère : Cassana Estermont, hors graphe."
+    },
+    {
+      "child": "aerys-ii",
+      "union": "u-jaehaerys-ii-shaera",
+      "father": "jaehaerys-ii",
+      "mother": "shaera",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ]
+    },
+    {
+      "child": "rhaella-fille-jaehaerys-ii",
+      "union": "u-jaehaerys-ii-shaera",
+      "father": "jaehaerys-ii",
+      "mother": "shaera",
+      "certainty": "etabli",
+      "sources": [
+        "twoiaf",
+        "asoiaf"
+      ]
+    },
+    {
+      "child": "rhaegar",
+      "union": "u-aerys-ii-rhaella-fille-jaehaerys-ii",
+      "father": "aerys-ii",
+      "mother": "rhaella-fille-jaehaerys-ii",
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "shaena",
+      "union": "u-aerys-ii-rhaella-fille-jaehaerys-ii",
+      "father": "aerys-ii",
+      "mother": "rhaella-fille-jaehaerys-ii",
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "daeron-fils-aerys-ii",
+      "union": "u-aerys-ii-rhaella-fille-jaehaerys-ii",
+      "father": "aerys-ii",
+      "mother": "rhaella-fille-jaehaerys-ii",
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aegon-fils-aerys-ii",
+      "union": "u-aerys-ii-rhaella-fille-jaehaerys-ii",
+      "father": "aerys-ii",
+      "mother": "rhaella-fille-jaehaerys-ii",
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "jaehaerys-fils-aerys-ii",
+      "union": "u-aerys-ii-rhaella-fille-jaehaerys-ii",
+      "father": "aerys-ii",
+      "mother": "rhaella-fille-jaehaerys-ii",
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "viserys-fils-aerys-ii",
+      "union": "u-aerys-ii-rhaella-fille-jaehaerys-ii",
+      "father": "aerys-ii",
+      "mother": "rhaella-fille-jaehaerys-ii",
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "daenerys-fille-aerys-ii",
+      "union": "u-aerys-ii-rhaella-fille-jaehaerys-ii",
+      "father": "aerys-ii",
+      "mother": "rhaella-fille-jaehaerys-ii",
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "rhaenys-fille-rhaegar",
+      "union": "u-rhaegar-elia-martell",
+      "father": "rhaegar",
+      "mother": "elia-martell",
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "aegon-fils-rhaegar",
+      "union": "u-rhaegar-elia-martell",
+      "father": "rhaegar",
+      "mother": "elia-martell",
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf",
+        "twoiaf"
+      ]
+    },
+    {
+      "child": "rhaego",
+      "union": "u-daenerys-fille-aerys-ii-drogo",
+      "father": "drogo",
+      "mother": "daenerys-fille-aerys-ii",
+      "certainty": "etabli",
+      "sources": [
+        "asoiaf"
+      ]
+    }
+  ]
+}

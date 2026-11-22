@@ -1,0 +1,490 @@
+/* Les sources : degrés de certitude, registre par nature, livres et écran séparés. */
+.title {
+  margin-block-end: var(--e5);
+}
+
+.lead {
+  max-inline-size: 34em;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  hyphens: manual;
+  text-wrap: pretty;
+}
+
+.section {
+  margin-block: var(--e8) var(--e2);
+  scroll-margin-block-start: 6rem;
+}
+
+.intro {
+  max-inline-size: var(--mesure);
+  margin-block: var(--e3) var(--e4);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  hyphens: auto;
+}
+
+/* ------------------------------------------------------------ Fig. 1 : les cinq degrés */
+.levelsFigure {
+  margin-block: var(--e5) var(--e4);
+}
+
+.levels {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  border-block-start: 2px solid var(--v1-texte);
+}
+
+.level {
+  display: grid;
+  gap: var(--e3);
+  padding-block: var(--e5);
+  border-block-end: 1px solid var(--v1-trait);
+}
+
+@media (min-width: 1024px) {
+  .level {
+    grid-template-columns: minmax(0, 3fr) minmax(0, 7fr);
+    column-gap: var(--gouttiere);
+  }
+}
+
+.levelHead {
+  display: grid;
+  grid-template-columns: 2rem minmax(0, 1fr);
+  column-gap: var(--e3);
+  row-gap: var(--e1);
+  align-items: center;
+  align-content: start;
+}
+
+.levelGlyph {
+  grid-row: 1 / span 2;
+  align-self: start;
+  color: var(--v1-texte);
+}
+
+.levelLabel {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 560;
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  color: var(--v1-texte);
+}
+
+.levelCount {
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  color: var(--v1-texte-2);
+  font-variant-numeric: lining-nums;
+}
+
+.levelBody {
+  display: grid;
+  gap: var(--e3);
+}
+
+.levelDef {
+  max-inline-size: 40em;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--v1-texte);
+  hyphens: auto;
+}
+
+.tally {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+  color: var(--v1-texte);
+}
+
+.level[data-level='contradictoire'] .levelGlyph,
+.level[data-level='contradictoire'] .tally {
+  color: var(--v1-rubrique);
+}
+
+.level[data-level='legende'] .levelGlyph,
+.level[data-level='legende'] .tally {
+  color: var(--bronze);
+}
+
+.level[data-level='adaptation'] .levelGlyph,
+.level[data-level='adaptation'] .tally {
+  color: var(--v1-texte-2);
+}
+
+/* ------------------------------------------------------------ Registre */
+.nature {
+  margin-block-start: var(--e6);
+}
+
+.natureHead {
+  display: grid;
+  gap: var(--e1);
+  padding-block-end: var(--e3);
+  border-block-end: 2px solid var(--v1-texte);
+}
+
+.natureTitle {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 560;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--v1-rubrique);
+}
+
+.natureDef {
+  max-inline-size: 40em;
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--v1-texte-2);
+}
+
+.entries {
+  display: grid;
+  margin: 0;
+  padding: 0;
+}
+
+.entry {
+  display: grid;
+  gap: var(--e3);
+  padding-block: var(--e5);
+  border-block-end: 1px solid var(--v1-trait);
+  scroll-margin-block-start: 6rem;
+}
+
+.entry:focus {
+  outline: none;
+}
+
+.entry:target .siglum,
+.entry:focus .siglum {
+  background: var(--v1-rubrique);
+  color: var(--velin);
+}
+
+@media (min-width: 1024px) {
+  .entry {
+    grid-template-columns: minmax(0, 7fr) minmax(0, 3fr);
+    column-gap: var(--gouttiere);
+  }
+}
+
+.entryMain {
+  display: grid;
+  gap: var(--e2);
+  min-inline-size: 0;
+}
+
+.entryHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 var(--e3);
+}
+
+.siglum {
+  padding-inline: 0.15em;
+  font-family: var(--f-musee);
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--v1-rubrique);
+  font-variant-numeric: lining-nums;
+}
+
+.entryTitle {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.2;
+  color: var(--v1-texte);
+}
+
+.entryFr {
+  font-family: var(--f-recit);
+  font-size: 0.95rem;
+  color: var(--v1-texte-2);
+}
+
+.entryFacts {
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  line-height: var(--il-cartel);
+  color: var(--v1-texte-2);
+  font-variant-numeric: lining-nums;
+}
+
+.entryNote {
+  margin-block-start: var(--e1);
+}
+
+.entryMargin {
+  display: grid;
+  align-content: start;
+  gap: var(--e2);
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+  color: var(--v1-texte-2);
+  font-variant-numeric: lining-nums;
+}
+
+@media (min-width: 1024px) {
+  .entryMargin {
+    padding-block-start: 0.5rem;
+  }
+}
+
+.cited {
+  color: var(--v1-texte);
+  font-weight: 500;
+}
+
+/* Barre des renvois : une jauge d'encre pleine, sans fond ni cadre. */
+.bar {
+  display: block;
+  inline-size: 100%;
+  max-inline-size: 14rem;
+}
+
+.barInk {
+  display: block;
+  block-size: 6px;
+  min-inline-size: 2px;
+  background: var(--v1-texte);
+}
+
+.members {
+  margin-block-start: var(--e2);
+}
+
+.membersLabel {
+  font-family: var(--f-recit);
+  font-style: italic;
+}
+
+.memberLink {
+  display: inline-block;
+  padding-block: 0.3rem;
+  font-weight: 700;
+  color: var(--v1-texte);
+}
+
+/* ------------------------------------------------------------ Fig. 2 : la frise des parutions */
+.friezeFigure {
+  margin-block: var(--e5) var(--e4);
+}
+
+/*
+ * Téléphone : frise debout. Les années descendent, l'axe est au milieu ; les livres à
+ * gauche, l'écran à droite, chacun dans son couloir.
+ */
+.frieze {
+  --an: 1.15rem; /* hauteur d'une année */
+  --couloir-v: 3.1rem;
+
+  position: relative;
+  block-size: calc(var(--an) * 36);
+  margin-block: var(--e4);
+  font-family: var(--f-musee);
+  font-size: 0.85rem;
+  line-height: 1;
+  font-variant-numeric: lining-nums;
+}
+
+.axis {
+  position: absolute;
+  inset-block: 0;
+  inset-inline-start: 50%;
+  inline-size: 2px;
+  background: var(--v1-texte);
+}
+
+.sideBooks,
+.sideScreen {
+  position: absolute;
+  inset-block-start: -1.6rem;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--v1-texte-2);
+}
+
+.sideBooks {
+  inset-inline-end: calc(50% + 0.6rem);
+}
+
+.sideScreen {
+  inset-inline-start: calc(50% + 0.75rem);
+}
+
+.tick {
+  position: absolute;
+  inset-inline-end: 0;
+  inset-block-start: calc(var(--pos) * 100%);
+  transform: translateY(-50%);
+  color: var(--v1-texte-2);
+}
+
+.friezeList {
+  margin: 0;
+  padding: 0;
+}
+
+.book,
+.screen {
+  position: absolute;
+  inset-block-start: calc(var(--pos) * 100%);
+}
+
+.book {
+  inset-inline-end: calc(50% + 0.5rem + var(--lane-v) * var(--couloir-v));
+  transform: translateY(-50%);
+}
+
+/* Un trait relie l'étiquette à l'axe. */
+.book::after {
+  content: '';
+  position: absolute;
+  inset-block-start: 50%;
+  inset-inline-start: 100%;
+  inline-size: calc(0.5rem + var(--lane-v) * var(--couloir-v));
+  block-size: 1px;
+  background: var(--v1-texte);
+  z-index: 1;
+}
+
+.screen {
+  inset-inline-start: calc(50% + 0.5rem + var(--lane-v) * var(--couloir-v));
+  block-size: max(0.6rem, calc((var(--end) - var(--pos)) * 100%));
+}
+
+/* La série court sur la durée de sa diffusion : un aplat vertical. */
+.screen::before {
+  content: '';
+  position: absolute;
+  inset-block: 0;
+  inset-inline-start: 0;
+  inline-size: 6px;
+  background: var(--v1-texte-2);
+}
+
+.screen[data-open]::before {
+  background: repeating-linear-gradient(to bottom, var(--v1-texte-2) 0 6px, transparent 6px 9px);
+}
+
+/* L'étiquette efface le trait qui passe derrière elle, comme un nom sur une carte gravée. */
+.friezeLink {
+  position: relative;
+  z-index: 2;
+  display: block;
+  padding: 0.3rem 0.2rem;
+  background: var(--velin);
+  font-weight: 700;
+  color: var(--v1-texte);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.screen .friezeLink {
+  padding-inline-start: 0.7rem;
+  padding-block-start: 0;
+  color: var(--v1-texte-2);
+}
+
+.friezeLink:hover,
+.friezeLink:focus-visible {
+  color: var(--v1-rubrique);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+/*
+ * Écran large : frise couchée. Les livres montent au-dessus de l'axe, couloir par couloir ;
+ * les séries courent dessous, en aplats de la durée de leur diffusion.
+ */
+@media (min-width: 720px) {
+  .frieze {
+    --couloir: 1.9rem;
+    --axe: calc(var(--books-h) * var(--couloir) + 1.2rem);
+
+    block-size: calc(var(--axe) + 2.2rem + var(--screen-h) * var(--couloir) + 1rem);
+  }
+
+  .axis {
+    inset-block: auto;
+    inset-inline: 0;
+    inset-block-start: var(--axe);
+    inline-size: auto;
+    block-size: 2px;
+  }
+
+  .sideBooks,
+  .sideScreen {
+    inset-inline: auto 0;
+    inset-block-start: calc(var(--axe) - 1.5rem);
+  }
+
+  .sideScreen {
+    inset-block-start: calc(var(--axe) + 0.6rem);
+  }
+
+  .tick {
+    inset-block-start: calc(var(--axe) + 0.5rem);
+    inset-inline: calc(var(--pos) * 100%) auto;
+    transform: translateX(-50%);
+  }
+
+  .book {
+    inset-inline: calc(var(--pos) * 100%) auto;
+    inset-block-start: calc(var(--axe) - (var(--lane-h) + 1) * var(--couloir));
+    transform: none;
+  }
+
+  .book {
+    block-size: 1.5rem;
+  }
+
+  .book::after {
+    inset-block: 100% auto;
+    inset-inline-start: 0;
+    inline-size: 1px;
+    block-size: calc((var(--lane-h) + 1) * var(--couloir) - 1.5rem);
+  }
+
+  .book .friezeLink {
+    padding-inline-start: 0.3rem;
+  }
+
+  .screen {
+    inset-inline: calc(var(--pos) * 100%) auto;
+    inset-block-start: calc(var(--axe) + 2rem + var(--lane-h) * var(--couloir));
+    inline-size: max(6px, calc((var(--end) - var(--pos)) * 100%));
+    block-size: auto;
+  }
+
+  .screen::before {
+    inset-block: 0 auto;
+    inset-inline: 0;
+    inline-size: auto;
+    block-size: 6px;
+  }
+
+  .screen[data-open]::before {
+    background: repeating-linear-gradient(to right, var(--v1-texte-2) 0 6px, transparent 6px 9px);
+  }
+
+  .screen .friezeLink {
+    padding: 0.55rem 0.2rem 0 0;
+    background: none;
+  }
+}

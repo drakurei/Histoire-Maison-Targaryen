@@ -1,0 +1,86 @@
+/*
+ * Glose interlinéaire savante : colonnes alignées à gauche, une par mot, sans cadre.
+ * La forme valyrienne porte la figure ; l'appareil (lemme, analyse) est en cartel.
+ */
+.interlinear {
+  display: grid;
+  gap: var(--e5);
+}
+
+.words {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--e5) clamp(var(--e5), 5vw, var(--e8));
+  margin: 0;
+  padding: 0;
+}
+
+.word {
+  display: grid;
+  justify-items: start;
+  align-content: start;
+  gap: var(--e1);
+  min-inline-size: 0;
+}
+
+.form {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 560;
+  line-height: var(--il-titre);
+  letter-spacing: var(--approche-titre);
+  color: var(--v1-texte);
+  font-optical-sizing: auto;
+}
+
+.interlinear[data-size='grand'] .form {
+  font-size: clamp(2.6rem, 1.4rem + 5vw, 5.6rem);
+  font-weight: 600;
+  letter-spacing: -0.03em;
+  line-height: 0.95;
+  margin-block-end: var(--e3);
+}
+
+.lemma {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: 1.3;
+  color: var(--v1-texte);
+}
+
+.grammar {
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+  color: var(--v1-texte-2);
+  max-inline-size: 16rem;
+}
+
+.sense {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.3;
+  color: var(--v1-rubrique);
+}
+
+.free {
+  max-inline-size: 30em;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.3;
+  color: var(--v1-texte);
+}
+
+.interlinear[data-size='courant'] {
+  gap: var(--e3);
+}
+
+.interlinear[data-size='courant'] .words {
+  gap: var(--e3) var(--e5);
+}
+
+.interlinear[data-size='courant'] .free {
+  font-size: var(--t0);
+}

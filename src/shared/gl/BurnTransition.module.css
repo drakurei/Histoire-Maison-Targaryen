@@ -1,0 +1,32 @@
+/*
+  Surcouche plein écran du feu. Absente de la mise en page tant qu'elle ne joue pas.
+  Elle ne prend jamais les clics : la page reste maîtresse du focus.
+  Jetons facultatifs : --z-burn (empilement), --burn-veil (couleur du repli en fondu).
+*/
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-burn, 60);
+  display: none;
+  pointer-events: none;
+}
+
+.overlay[data-active] {
+  display: block;
+}
+
+.canvas {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* Repli sans WebGL ou en mouvement réduit : un voile d'obsidienne, en fondu. */
+.veil {
+  position: absolute;
+  inset: 0;
+  background: var(--burn-veil, var(--obsidienne));
+  opacity: 0;
+}

@@ -1,0 +1,28 @@
+/* Récit : Alegreya, 62 à 72 signes par ligne, interlignage de lecture, césure. */
+.prose {
+  max-inline-size: var(--mesure);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--v1-texte);
+  hyphens: auto;
+  hyphenate-limit-chars: 7 3 3;
+  font-variant-numeric: oldstyle-nums proportional-nums;
+}
+
+.prose > p + p {
+  margin-block-start: 0;
+  text-indent: 1.5em;
+}
+
+.prose[data-variant='chapeau'] {
+  max-inline-size: 34em;
+  font-size: var(--t1);
+  line-height: 1.45;
+  hyphens: manual;
+}
+
+.prose[data-variant='chapeau'] > p + p {
+  margin-block-start: var(--e3);
+  text-indent: 0;
+}

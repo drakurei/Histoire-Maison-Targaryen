@@ -1,0 +1,57 @@
+/* Sources : sigle en gras de cartel, titre en italique, emplacement à l'encre pâle. */
+.list {
+  display: grid;
+  gap: var(--e2);
+  margin: 0;
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+  color: var(--v1-texte-2);
+}
+
+.list[data-variant='bloc'] {
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr));
+  gap: var(--e2) var(--e5);
+}
+
+.item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.4em;
+}
+
+.link {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.45em;
+  min-block-size: 1.75rem;
+  color: var(--v1-texte);
+  text-decoration: none;
+}
+
+.siglum {
+  font-weight: 700;
+  color: var(--v1-rubrique);
+  font-variant-numeric: lining-nums;
+}
+
+.title {
+  font-family: var(--f-recit);
+  font-size: 0.95rem;
+  font-style: italic;
+  text-decoration-line: underline;
+  text-decoration-color: var(--v1-trait);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+}
+
+.link:hover .title {
+  text-decoration-color: var(--v1-rubrique);
+  text-decoration-thickness: 2px;
+}
+
+.locator {
+  font-variant-numeric: lining-nums;
+}

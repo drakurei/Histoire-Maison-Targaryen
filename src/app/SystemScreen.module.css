@@ -1,0 +1,81 @@
+/*
+ * Écrans de l'enveloppe : page introuvable, erreur, version en construction.
+ * Le texte se pose en bas à gauche de la grille, comme un cartel au pied d'un mur.
+ * Aucun cadre, aucun filet : l'obsidienne, un chiffre quand il numérote, la phrase.
+ */
+.screen {
+  display: grid;
+  grid-template-columns: repeat(var(--colonnes), minmax(0, 1fr));
+  column-gap: var(--gouttiere);
+  align-content: end;
+  align-items: end;
+  min-height: 100svh;
+  padding: var(--e7) var(--marge-page) var(--e8);
+}
+
+.numeral {
+  grid-column: 1 / span 3;
+  color: var(--sang);
+  font-family: var(--f-lettrine);
+  font-size: var(--t6);
+  font-weight: 500;
+  font-variant-numeric: lining-nums;
+  line-height: 0.74;
+}
+
+.text {
+  grid-column: 1 / span 7;
+}
+
+.numeral + .text {
+  grid-column: 4 / span 7;
+}
+
+.title {
+  font-size: var(--t4);
+}
+
+.body {
+  max-width: 52ch;
+  margin-block-start: var(--e5);
+}
+
+/* Glose : la première ligne garde la voix de son bloc, la traduction passe dessous. */
+.primary,
+.translation {
+  display: block;
+}
+
+.translation {
+  color: var(--cendre);
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.title .translation {
+  margin-block-start: var(--e3);
+  font-size: var(--t1);
+  line-height: 1.25;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--e3) var(--e6);
+  margin-block-start: var(--e6);
+}
+
+@media (max-width: 47.99rem) {
+  .numeral,
+  .text,
+  .numeral + .text {
+    grid-column: 1 / -1;
+  }
+
+  .numeral {
+    margin-block-end: var(--e5);
+  }
+}

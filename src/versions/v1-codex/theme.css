@@ -1,0 +1,124 @@
+/*
+ * Thème de la version 1, « Le Codex ». Tout est sous la classe racine .v1.
+ *
+ * Deux surfaces, deux jeux d'encre. Les composants n'écrivent jamais une couleur de
+ * DESIGN.md en dur pour le texte : ils lisent les jetons sémantiques --v1-*, que la
+ * surface redéfinit. Sur la table (sombre) : ivoire, cendre, braise. Sur le vélin
+ * ([data-surface='velin'], posé par Folio, Colophon et le panneau de recherche) :
+ * encre, encre pâle, rubrique. Un même composant se lit donc sur les deux.
+ *
+ * Rangé dans la couche v1, après reset et base : les CSS Modules (hors couche)
+ * l'emportent toujours, sans surenchère de spécificité.
+ */
+
+@layer v1 {
+  .v1 {
+    /* ------------------------------------------------------------ Mesures du bâti */
+    --v1-barre: 3.5rem; /* barre haute */
+    --v1-etagere: 3.5rem; /* étagère du téléphone */
+    --v1-dos: 40px; /* largeur d'un dos de volume */
+    --v1-dos-tire: 12px; /* le volume ouvert sort du rang */
+    --v1-dos-survol: 6px;
+    --v1-folio-max: 1180px;
+    --v1-folio-pad: clamp(2rem, 5vw, 5rem);
+
+    /* ------------------------------------------------------------ Encres de la table */
+    --v1-texte: var(--ivoire);
+    --v1-texte-2: var(--cendre);
+    --v1-rubrique: var(--braise);
+    --v1-or: var(--or);
+    --v1-trait: var(--basalte);
+    --v1-surface: var(--obsidienne);
+    --v1-actif: var(--braise);
+
+    /* Or sombre sur vélin (lettrine d'ouverture, couronne) : DESIGN.md, v1-codex §3. */
+    --v1-or-sombre: oklch(0.52 0.1 75);
+    /* Ombre portée du folio : courte, dure, teintée, jamais grise ni floue. */
+    --v1-ombre-portee: oklch(0.08 0.012 25 / 0.62);
+
+    /* Cuirs des huit dos, du cramoisi à la suie en passant par le brun. */
+    --v1-cuir-1: oklch(0.3 0.1 24);
+    --v1-cuir-2: oklch(0.26 0.04 45);
+    --v1-cuir-3: oklch(0.32 0.115 23);
+    --v1-cuir-4: oklch(0.23 0.035 40);
+    --v1-cuir-5: var(--cramoisi);
+    --v1-cuir-6: oklch(0.25 0.05 50);
+    --v1-cuir-7: oklch(0.215 0.022 32);
+    --v1-cuir-8: var(--suie);
+
+    /* Grain de basalte : bruit fin clair, marbrure lente sombre, en tuiles. La marbrure fait 4 et 9 cycles sur 1000 px : raccord invisible. */
+    --v1-grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='280' height='280'%3E%3Cfilter id='g' x='0' y='0' width='1' height='1'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.86' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.92 0 0 0 0 0.84 0 0 0 0 0.76 0.36 0 0 0 -0.13'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E");
+    --v1-marbre: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1000' height='1000'%3E%3Cfilter id='m' x='0' y='0' width='1' height='1'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.004 0.009' numOctaves='4' seed='7' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.03 0 0 0 0 0.02 0 0 0 0 0.02 -0.9 0 0 0 0.5'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23m)'/%3E%3C/svg%3E");
+    /* Lumière basse, chaude, venue d'en bas à gauche : un seul dégradé large. */
+    --v1-lumiere: radial-gradient(ellipse 95% 75% at 0% 100%, oklch(0.36 0.14 22 / 0.18), transparent 72%);
+
+    --focus-couleur: var(--braise);
+
+    color: var(--v1-texte);
+  }
+
+  /* ------------------------------------------------------------ Encres du vélin */
+  .v1 [data-surface='velin'] {
+    --v1-texte: var(--encre);
+    --v1-texte-2: var(--encre-pale);
+    --v1-rubrique: var(--rubrique);
+    --v1-or: var(--v1-or-sombre);
+    --v1-trait: oklch(0.74 0.04 72);
+    --v1-surface: var(--velin);
+    --v1-actif: var(--rubrique);
+    /* La braise n'atteint pas 3:1 sur le vélin ; la rubrique y dépasse 6:1. */
+    --focus-couleur: var(--rubrique);
+
+    color: var(--v1-texte);
+    line-height: var(--il-recit);
+    /* Barres de défilement et commandes natives claires sur le vélin. */
+    color-scheme: light;
+  }
+
+  /* La croix native des champs de recherche n'appartient pas au Codex. */
+  .v1 input[type='search']::-webkit-search-cancel-button {
+    appearance: none;
+  }
+
+  .v1 ::selection {
+    background: var(--sang);
+    color: var(--ivoire);
+  }
+
+  /* Liens du récit : soulignement de 2 px à l'encre rouge, décalé de 3 px ; le texte garde sa couleur. */
+  .v1 a {
+    text-decoration-color: var(--v1-rubrique);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+  }
+
+  .v1 a:hover {
+    text-decoration-thickness: 3px;
+  }
+
+  /*
+   * La glose interlinéaire (DESIGN.md §3) : le valyrien en première ligne, la traduction
+   * dessous, plus petite, en italique, alignée à gauche. Bloc en ligne : elle tient dans
+   * un titre comme dans une phrase. Un composant affine avec ses propres classes.
+   */
+  .v1 .gloss--hv {
+    display: inline-grid;
+    justify-items: start;
+    row-gap: 0.12em;
+  }
+
+  .v1 .gloss__tr {
+    font-family: var(--f-recit);
+    font-size: max(0.42em, 0.8rem);
+    font-style: italic;
+    font-weight: 400;
+    line-height: 1.25;
+    letter-spacing: 0;
+    color: var(--v1-texte-2);
+  }
+
+  /* Dates : sigle d'ère sans coupure, chiffres alignés dans l'appareil. */
+  .v1 time {
+    white-space: nowrap;
+  }
+}

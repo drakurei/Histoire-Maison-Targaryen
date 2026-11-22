@@ -1,0 +1,397 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-02",
+  "items": [
+    {
+      "periodId": "p5",
+      "sections": [
+        {
+          "id": "p5-un-precedent-contre-un-serment",
+          "heading": {
+            "fr": "Un précédent contre un serment",
+            "en": "A Precedent Against an Oath"
+          },
+          "body": {
+            "fr": "La Danse ne naît pas d'une haine entre deux femmes, même si les chroniqueurs ont aimé la raconter ainsi. Elle naît d'une contradiction de droit que personne ne voulut trancher. En 101 apr. C., le Grand Conseil réuni à Harrenhal avait préféré Viserys, fils du deuxième fils de Jaehaerys, à Laenor Velaryon, petit-fils par sa mère du fils aîné. Beaucoup en conclurent qu'une femme ne pouvait ni régner ni transmettre ses droits. Quatre ans plus tard, Viserys lui-même faisait de sa fille son héritière et exigeait des seigneurs un serment public.\n\nLes deux actes avaient une autorité réelle, et aucun n'annulait l'autre. Le Conseil n'avait pas énoncé de loi : il avait choisi un homme, et ses partisans tirèrent de ce choix une règle après coup. Le serment de 105 apr. C., lui, liait des personnes. Quand le moment vint, le parti d'Aegon fit valoir que vingt-quatre ans avaient passé et que la plupart de ceux qui décidaient désormais n'avaient rien juré eux-mêmes ; c'est Tyland Lannister qui avança l'argument au conseil de 129 apr. C.\n\nViserys aurait pu fermer la question, en faisant renouveler le serment devant une nouvelle assemblée ou en fixant publiquement la place de ses fils. Il s'en tint à ne rien changer. Les chroniques le montrent attaché à sa fille, ennemi des querelles, persuadé que la paix de sa cour durerait autant que lui. Elle ne lui survécut pas. Ce que le roi avait laissé ouvert, ses deux familles allaient le régler par le feu.",
+            "en": "The Dance did not grow out of a hatred between two women, however much the chroniclers liked to tell it that way. It grew out of a legal contradiction that no one was willing to resolve. In 101 AC the Great Council at Harrenhal had preferred Viserys, son of Jaehaerys's second son, to Laenor Velaryon, grandson through his mother of the eldest. Many concluded that a woman could neither rule nor pass on a claim. Four years later Viserys himself named his daughter his heir and had the lords swear to her in public.\n\nBoth acts carried real authority, and neither cancelled the other. The Council had not laid down a law: it had chosen a man, and its supporters drew a rule from that choice afterwards. The oath of 105 AC, for its part, bound particular people. When the moment came, Aegon's party argued that twenty-four years had passed and that most of those now deciding had never sworn anything themselves; it was Tyland Lannister who put the argument to the council of 129 AC.\n\nViserys could have closed the question, by having the oath renewed before a new assembly or by settling his sons' place in the line in public. He chose to change nothing. The chronicles show a man devoted to his daughter, averse to quarrels, convinced that the peace of his court would last as long as he did. It did not outlive him. What the king had left open, his two families would settle with fire."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "trp"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "p5-deux-familles-sous-un-toit",
+          "heading": {
+            "fr": "Deux familles sous un même toit",
+            "en": "Two Families Under One Roof"
+          },
+          "body": {
+            "fr": "Les couleurs du tournoi de 111 apr. C. ont fini par désigner deux partis, mais ces partis étaient d'abord deux familles. Autour d'Alicent se tenaient son père Otto Hightower, Main sous trois rois, la puissance de Villevieille et, peu à peu, une bonne part du conseil. Autour de Rhaenyra se rangeaient les Velaryon, liés à elle par son premier mariage, puis Daemon, qu'elle épousa en 120 apr. C. Ce second mariage unissait l'héritière au prince le plus redouté du royaume ; pour les verts, il changeait une rivalité de cour en menace de mort.\n\nLa rumeur sur la naissance des fils de Rhaenyra servit d'arme bien avant la guerre. Si Jacaerys, Lucerys et Joffrey étaient les enfants de Harwin Strong, la lignée de la princesse devenait bâtarde, et son droit avec elle. Rien ne permet de trancher : les témoins rapportent des ressemblances, des présences, des confidences, jamais une preuve. Le septon Eustace et le bouffon Champignon se contredisent sur la vie privée de la princesse comme sur sa brouille avec ser Criston Cole, qui avait été son chevalier avant de devenir son adversaire le plus obstiné.\n\nLes dragons comptaient autant que les alliances. En 120 apr. C., le jeune Aemond prit Vhagar, laissée sans cavalière par la mort de Laena : la plus ancienne et la plus grande des bêtes encore en vie. Le geste coûta un œil au prince ; il donna au parti de sa mère l'arme qui lui manquait. À la mort de Viserys, chaque camp savait ce que l'autre pouvait lâcher dans le ciel.",
+            "en": "The colours worn at the tourney of 111 AC came to name two parties, but those parties were first of all two families. Around Alicent stood her father Otto Hightower, Hand under three kings, the power of Oldtown and, little by little, much of the council. Around Rhaenyra gathered the Velaryons, bound to her by her first marriage, and then Daemon, whom she wed in 120 AC. That second marriage joined the heir to the most feared prince in the realm; for the greens, it turned a rivalry at court into a threat to their lives.\n\nThe rumour about the birth of Rhaenyra's sons was a weapon long before the war. If Jacaerys, Lucerys and Joffrey were the children of Harwin Strong, the princess's line was bastard, and her claim with it. Nothing settles the matter: the witnesses report likenesses, comings and goings, confidences, never proof. Septon Eustace and the fool Mushroom contradict each other on the princess's private life, as they do on her falling out with Ser Criston Cole, who had been her knight before he became her most stubborn opponent.\n\nDragons counted as much as alliances. In 120 AC the young Aemond claimed Vhagar, left without a rider by Laena's death: the oldest and largest beast still alive. The deed cost the prince an eye; it gave his mother's party the weapon it had lacked. When Viserys died, each side knew what the other could loose into the sky."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "trp"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "p5-le-conseil-vert",
+          "heading": {
+            "fr": "Le conseil dans la chambre de la reine",
+            "en": "The Council in the Queen's Chambers"
+          },
+          "body": {
+            "fr": "Viserys meurt dans son sommeil au troisième mois de 129 apr. C. Ce matin-là, la reine Alicent et ser Criston Cole, lord commandant de la Garde Royale, taisent la nouvelle et réunissent le conseil restreint dans les appartements de la reine. Le grand mestre Orwyle commence par évoquer les préparatifs du couronnement de Rhaenyra ; Otto Hightower l'interrompt pour poser la seule question qui comptait à ses yeux, celle de l'héritier. Son argument est moins juridique que politique : couronner Rhaenyra, c'est livrer le royaume à Daemon, et avec lui la tête de la reine et la sienne.\n\nUn seul homme refuse, le vieux lord Beesbury, grand argentier depuis le règne de Jaehaerys. Sa fin est le premier mystère de la guerre. Selon le récit d'Orwyle, repris par Munkun, il fut jeté dans un cachot où il mourut de froid ; selon Eustace, Cole lui trancha la gorge sur place ; selon Champignon, il fut précipité par une fenêtre. Or ni le septon ni le bouffon n'assistaient à la séance, et le seul des présents dont le récit nous soit parvenu l'écrivit plus tard, en prison, pour se disculper.\n\nLes conjurés se lient ensuite par un serment, et pendant une semaine aucun corbeau ne part : on arrête ceux qu'on soupçonne de fidélité à la princesse. Eustace prétend qu'Aegon lui-même hésita, et ne céda qu'après que Cole l'eut convaincu que sa demi-sœur le ferait tuer. Le septon, favorable aux verts, avait intérêt à montrer un roi qui ne convoitait pas la couronne ; cela ne rend pas le détail faux, mais invite à le peser.",
+            "en": "Viserys died in his sleep in the third month of 129 AC. That morning Queen Alicent and Ser Criston Cole, Lord Commander of the Kingsguard, kept the news to themselves and summoned the small council to the queen's apartments. Grand Maester Orwyle began by speaking of arrangements for Rhaenyra's coronation; Otto Hightower cut him short to raise the only question that mattered to him, that of the heir. His argument was political rather than legal: to crown Rhaenyra was to hand the realm to Daemon, and with it the queen's head and his own.\n\nOne man refused, old Lord Beesbury, master of coin since the reign of Jaehaerys. His end is the first mystery of the war. In Orwyle's account, which Munkun followed, he was thrown into a cell and died there of a chill; in Eustace's, Cole cut his throat where he sat; in Mushroom's, he was flung from a window. Yet neither the septon nor the fool attended the meeting, and the only man present whose account survives wrote it later, in prison, to clear himself.\n\nThe plotters then bound themselves by an oath, and for a week no raven left the city: men suspected of loyalty to the princess were seized. Eustace claims that Aegon himself hesitated, and yielded only when Cole persuaded him that his half-sister would have him killed. The septon, who favoured the greens, had reason to show a king who did not covet the crown; that does not make the detail false, but it should be weighed."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "tpatq"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon II"
+            }
+          ]
+        },
+        {
+          "id": "p5-deux-couronnes",
+          "heading": {
+            "fr": "Deux couronnes, deux légitimités",
+            "en": "Two Crowns, Two Claims"
+          },
+          "body": {
+            "fr": "Aegon II est couronné à Fossedragon avec la couronne de fer et de rubis du Conquérant. Ser Criston la pose sur sa tête ; le septon Eustace, appelé parce que le Grand Septon était trop âgé pour quitter Villevieille, donne l'onction. L'un de nos principaux témoins fut donc aussi l'un des officiants, et il faut s'en souvenir chaque fois qu'il parle de légitimité.\n\nÀ Peyredragon, la nouvelle frappe Rhaenyra en pleine grossesse. Elle accouche avant terme d'une fille mort-née ; Champignon affirme avoir porté lui-même l'enfant au bûcher, et nous n'avons que sa parole. Arrive bientôt ser Steffon Darklyn, de la Garde Royale, qui a fui la capitale avec la couronne qu'avait portée Viserys. Rhaenyra est couronnée à son tour et commence par mettre hors la loi, comme traîtres, Otto Hightower et la reine douairière.\n\nLes verts tentent pourtant un accommodement. Orwyle vient offrir à la princesse de garder Peyredragon et d'établir ses fils si elle reconnaît son demi-frère. Rhaenyra lui fait arracher sa chaîne et le renvoie. Munkun prête au grand mestre une longue justification ; Champignon le montre bégayant et souillé de peur. Entre ces deux portraits, on mesure ce que chacun voulait qu'on retienne.\n\nLe rapport de forces est inégal dans les deux sens. Les noirs ont davantage de dragons et la flotte Velaryon ; les verts tiennent la capitale, le trésor, Villevieille et Castral Roc. Aucun camp ne peut l'emporter vite.",
+            "en": "Aegon II was crowned in the Dragonpit with the Conqueror's crown of iron and rubies. Ser Criston set it on his head; Septon Eustace, called upon because the High Septon was too old to leave Oldtown, anointed him. One of our chief witnesses was thus also one of the officiants, and that should be remembered whenever he speaks of legitimacy.\n\nOn Dragonstone the news struck Rhaenyra late in her pregnancy. She was brought to bed early of a stillborn daughter; Mushroom says he carried the child to the pyre himself, and we have only his word for it. Soon afterwards came Ser Steffon Darklyn of the Kingsguard, who had fled the capital with the crown Viserys had worn. Rhaenyra was crowned in her turn and began by branding Otto Hightower and the dowager queen as traitors.\n\nThe greens did attempt a settlement. Orwyle came to offer the princess Dragonstone and a future for her sons if she would acknowledge her half-brother. Rhaenyra had his chain torn from his neck and sent him away. Munkun gives the Grand Maester a long reasoned defence; Mushroom shows him stammering and wetting himself with fear. Between the two portraits one can measure what each writer wished to be remembered.\n\nThe balance of strength was uneven both ways. The blacks had more dragons and the Velaryon fleet; the greens held the capital, the treasury, Oldtown and Casterly Rock. Neither side could win quickly."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "tpatq"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon II"
+            }
+          ]
+        },
+        {
+          "id": "p5-un-fils-pour-un-fils",
+          "heading": {
+            "fr": "Un fils pour un fils",
+            "en": "A Son for a Son"
+          },
+          "body": {
+            "fr": "Les deux camps cherchent d'abord des alliés, et la première ambassade tourne au désastre. Rhaenyra envoie son second fils, Lucerys, auprès de Borros Baratheon, comptant sur les liens qui unissent Accalmie à Rhaenys, cousine germaine du seigneur. Elle ignore qu'Aemond y est arrivé avant lui sur Vhagar et que Borros négocie déjà le mariage du prince vert avec l'une de ses filles. Lucerys, fiancé ailleurs, n'a pas de mariage à offrir ; il est congédié. Aemond le poursuit sous l'orage au-dessus de la baie des Naufrageurs, et Vhagar met en pièces le petit Arrax.\n\nRien n'indique que le conseil vert ait voulu cette mort. Le roi fêta son frère par un banquet ; Otto Hightower et la reine Alicent, eux, s'inquiétèrent de son geste, et l'on prête au grand-père un mot cinglant sur l'aveuglement du prince borgne. Ce n'était pas la première fois que des Targaryen s'affrontaient dans les airs : en 43 apr. C., au-dessus de l'Œildieu, Balerion, monté par Maegor, avait abattu Quicksilver et son cavalier, le prince Aegon, neveu du roi. Mais Lucerys était un garçon de treize ans venu en messager, et sa mort rendait tout accommodement presque impossible.\n\nLa réponse vient de Daemon, par l'entremise de Mysaria, son ancienne maîtresse. Deux hommes de main, connus seulement sous les sobriquets de Sang et Fromage, entrent dans le Donjon Rouge par des passages oubliés, surprennent la reine Helaena avec ses enfants et décapitent l'aîné, Jaehaerys, héritier du trône. La scène, avec le choix imposé à la mère, est restée l'une des plus racontées de la guerre. Après ces deux meurtres, il n'y avait plus de paix possible entre les deux branches.",
+            "en": "Both sides looked first for allies, and the first embassy ended in disaster. Rhaenyra sent her second son, Lucerys, to Borros Baratheon, counting on the ties between Storm's End and Rhaenys, the lord's first cousin. She did not know that Aemond had arrived ahead of him on Vhagar, nor that Borros was already bargaining over a match between the green prince and one of his daughters. Lucerys, betrothed elsewhere, had no marriage to offer and was sent away. Aemond pursued him through the storm over Shipbreaker Bay, and Vhagar tore the much smaller Arrax apart.\n\nNothing suggests that the green council wanted that death. The king welcomed his brother with a feast; Otto Hightower and Queen Alicent were troubled by what he had done, and the grandfather is credited with a cutting remark about the one-eyed prince's blindness. It was not the first time Targaryens had fought one another in the air: in 43 AC, above the Gods Eye, Balerion, ridden by Maegor, had brought down Quicksilver and her rider, Prince Aegon, the king's nephew. But Lucerys was a boy of thirteen who had come as an envoy, and his death made any settlement all but impossible.\n\nThe answer came from Daemon, through Mysaria, his former mistress. Two hirelings, known only by the names Blood and Cheese, entered the Red Keep by forgotten passages, surprised Queen Helaena with her children and beheaded the elder boy, Jaehaerys, heir to the throne. The scene, with the choice forced upon the mother, has remained among the most retold of the war. After those two killings there could be no peace between the two branches."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: A Son for a Son"
+            },
+            {
+              "id": "tpatq"
+            },
+            {
+              "id": "fab",
+              "locator": "The Sons of the Dragon"
+            }
+          ]
+        },
+        {
+          "id": "p5-corbeaux-et-allegeances",
+          "heading": {
+            "fr": "Corbeaux, dragons et allégeances",
+            "en": "Ravens, Dragons and Allegiances"
+          },
+          "body": {
+            "fr": "La guerre se joue d'abord dans les volières. Chaque camp écrit à tous les seigneurs du royaume, et chacun découvre ce que vaut une lettre face à un dragon posé dans la cour. Jacaerys, l'aîné de Rhaenyra, l'a compris : il vole vers le Val, Blancport et Winterfell, et en revient avec des promesses. Daemon pose Caraxes sur Harrenhal, dont le gouverneur se rend sans combattre, et fait du plus vaste château du royaume le point de ralliement des seigneurs du Conflans, eux-mêmes divisés depuis longtemps.\n\nOtto Hightower travaille plus lentement. Il s'assure de Villevieille et de Castral Roc, échoue auprès de Dorne, offre en vain une charge au seigneur des îles de Fer, puis propose à la Triarchie de Lys, de Myr et de Tyrosh des privilèges de commerce et les Degrés de Pierre si elle brise le blocus que la flotte Velaryon impose au Gosier. Pendant ce temps, Port-Réal s'étouffe : les navires n'entrent plus, et les marchands viennent se plaindre au roi.\n\nAegon II juge cette diplomatie timorée. Eustace raconte qu'il renversa un encrier sur les genoux de son grand-père en lui demandant du sang plutôt que de l'encre ; il lui retire la chaîne de Main et la donne à Criston Cole. L'offre d'Otto aboutit pourtant après sa disgrâce : la Triarchie accepte et arme une flotte. Cole, lui, choisit la guerre de mouvement, soumet Sombreval et les seigneurs voisins restés fidèles à la princesse, puis met le siège devant Repos-du-Freux.",
+            "en": "The war was fought first in the rookeries. Each side wrote to every lord in the realm, and each learned what a letter was worth against a dragon standing in the yard. Jacaerys, Rhaenyra's eldest, understood this: he flew to the Vale, White Harbor and Winterfell, and came back with promises. Daemon set Caraxes down on Harrenhal, whose castellan yielded without a fight, and made the largest castle in the realm the rallying point for the riverlords, who had long been divided among themselves.\n\nOtto Hightower worked more slowly. He secured Oldtown and Casterly Rock, failed with Dorne, offered an office in vain to the lord of the Iron Islands, and then proposed to the Triarchy of Lys, Myr and Tyrosh trading privileges and the Stepstones if it would break the blockade the Velaryon fleet had laid across the Gullet. Meanwhile King's Landing was being strangled: ships no longer came in, and the merchants brought their complaints to the king.\n\nAegon II found this diplomacy timid. Eustace tells how he knocked an inkpot into his grandfather's lap and asked him for blood instead of ink; he took the Hand's chain from Otto and gave it to Criston Cole. Otto's offer nonetheless bore fruit after his fall: the Triarchy accepted and fitted out a fleet. Cole chose a war of movement, brought Duskendale and the neighbouring lords still loyal to the princess to heel, and then laid siege to Rook's Rest."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: A Son for a Son"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "tpatq"
+            }
+          ]
+        },
+        {
+          "id": "p5-repos-du-freux-et-semailles",
+          "heading": {
+            "fr": "Repos-du-Freux et les Semailles",
+            "en": "Rook's Rest and the Sowing"
+          },
+          "body": {
+            "fr": "Le siège de Repos-du-Freux est un appât. Cole sait que les noirs ne laisseront pas tomber un vassal fidèle si près de Peyredragon, et il attend un dragon. C'est Rhaenys qui vient, sur Meleys ; Rhaenyra a interdit à ses fils de l'accompagner. Aegon II sur Sunfyre et Aemond sur Vhagar fondent alors sur elle. Meleys meurt, et l'on retrouve près d'elle un corps si calciné que personne ne put jurer que c'était celui de la princesse. Le roi survit, brûlé, les côtes brisées ; Sunfyre ne peut plus guère voler. Aemond gouverne désormais comme protecteur du royaume et prince régent.\n\nCette victoire a un prix que les verts ne voient pas aussitôt. Corlys Velaryon reproche à Rhaenyra d'avoir envoyé sa femme à sa place ; la reine, épuisée par le deuil, laisse Jacaerys prendre les affaires en main. Le jeune prince fait de son grand-père la Main de la reine et cherche des cavaliers pour les dragons sans maître de Peyredragon.\n\nL'appel s'adresse aux « semences de dragon », bâtards réels ou supposés du sang targaryen, mais aussi à quiconque ose tenter sa chance. Munkun compte seize morts et quarante-huit brûlés ou mutilés. Quatre réussissent : Addam de la Carène, que sa mère disait fils de Laenor, monte Seasmoke ; Hugh le Marteau, Vermithor ; Ulf le Blanc, Silverwing ; une fille nommée Orties gagne Sheepstealer en le nourrissant de moutons. Champignon prétend que l'idée venait de lui, Munkun l'attribue à Jacaerys. Les noirs avaient retrouvé des ailes, au prix de confier leur cause à des inconnus.",
+            "en": "The siege of Rook's Rest was bait. Cole knew the blacks would not let a loyal vassal fall so close to Dragonstone, and he waited for a dragon. It was Rhaenys who came, on Meleys; Rhaenyra had forbidden her sons to go with her. Aegon II on Sunfyre and Aemond on Vhagar then fell upon her. Meleys died, and beside her was found a body so badly burned that no one could swear it was the princess. The king survived, burned and with broken ribs; Sunfyre could barely fly. Aemond now governed as Protector of the Realm and Prince Regent.\n\nThe victory carried a cost the greens did not see at once. Corlys Velaryon blamed Rhaenyra for sending his wife in her stead; the queen, worn down by grief, let Jacaerys take matters in hand. The young prince named his grandfather Hand of the Queen and looked for riders for the masterless dragons of Dragonstone.\n\nThe call went out to the “dragonseeds”, real or supposed bastards of Targaryen blood, and to anyone else who dared to try. Munkun counts sixteen dead and forty-eight burned or maimed. Four succeeded: Addam of Hull, whom his mother named a son of Laenor, mounted Seasmoke; Hugh Hammer, Vermithor; Ulf the White, Silverwing; and a girl called Nettles won Sheepstealer by bringing him sheep. Mushroom claims the idea was his, Munkun credits Jacaerys. The blacks had wings again, at the price of entrusting their cause to strangers."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "tpatq"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon II"
+            }
+          ]
+        },
+        {
+          "id": "p5-gosier-et-port-real",
+          "heading": {
+            "fr": "Le Gosier et la chute de la capitale",
+            "en": "The Gullet and the Fall of the Capital"
+          },
+          "body": {
+            "fr": "Jacaerys voulait frapper Port-Réal à la première pleine lune de 130 apr. C. La Triarchie le devance. Ses navires avaient déjà intercepté celui qui emmenait à Pentos les deux jeunes fils de Rhaenyra : Aegon le Jeune s'était enfui sur Stormcloud, qui mourut de ses blessures, et Viserys, capturé, passa pour mort pendant des années. Puis la flotte entre dans le Gosier au nord et au sud de Peyredragon et surprend les Velaryon. Jacaerys fond sur les galères lysiennes, rejoint par les quatre nouveaux dragonniers. Vermax vole trop bas et s'abat dans la mer ; le prince saute et tombe sous les carreaux des arbalétriers de Myr.\n\nLa date elle-même se discute : Gyldayn place la bataille au cinquième jour de 130 apr. C., Yandel en 129 apr. C. Le bilan est plus clair. Les verts ont tué l'héritier de la reine, mais la Triarchie perd la plupart de ses navires et le blocus tient. Sur Lamarck, une ville a été mise à sac et le château des Velaryon incendié ; leur flotte y laisse près d'un tiers de ses bâtiments.\n\nLes verts commettent alors l'erreur décisive. Aemond et Cole marchent sur Harrenhal pour détruire Daemon, qui s'est déjà envolé. Port-Réal reste sans dragon valide. Rhaenyra et Daemon y descendent avec les dragonniers ; le Guet se divise, la ville se rend presque sans combat. Otto Hightower est le premier décapité. Aegon II a disparu : Larys Strong l'a fait sortir de la ville par un passage secret, et l'on ne saura que plus tard qu'il s'était caché sur l'île même de Peyredragon.",
+            "en": "Jacaerys meant to strike at King's Landing on the first full moon of 130 AC. The Triarchy moved first. Its ships had already taken the vessel carrying Rhaenyra's two young sons to Pentos: Aegon the Younger escaped on Stormcloud, which died of its wounds, and Viserys, captured, was believed dead for years. Then the fleet entered the Gullet north and south of Dragonstone and caught the Velaryons by surprise. Jacaerys swept down on the Lysene galleys, joined by the four new dragonriders. Vermax flew too low and plunged into the sea; the prince leapt clear and fell to Myrish crossbowmen.\n\nEven the date is disputed: Gyldayn puts the battle on the fifth day of 130 AC, Yandel in 129 AC. The outcome is clearer. The greens had killed the queen's heir, but the Triarchy lost most of its ships and the blockade held. On Driftmark a town had been sacked and the Velaryon seat burned; their fleet lost nearly a third of its strength.\n\nThe greens then made the decisive mistake. Aemond and Cole marched on Harrenhal to destroy Daemon, who had already flown. King's Landing was left without a dragon fit to fight. Rhaenyra and Daemon came down on it with the dragonriders; the City Watch split, and the city yielded almost without a blow. Otto Hightower was the first to be beheaded. Aegon II had vanished: Larys Strong had got him out of the city by a secret passage, and only later would it be learned that he had gone to ground on Dragonstone itself."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            },
+            {
+              "id": "tpatq"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon II"
+            }
+          ]
+        },
+        {
+          "id": "p5-chutebourg-et-la-defiance",
+          "heading": {
+            "fr": "Chutebourg et la défiance",
+            "en": "Tumbleton and Suspicion"
+          },
+          "body": {
+            "fr": "Dans les premiers mois de 130 apr. C., les armées vertes du Conflans s'effondrent. Sur la rive de l'Œildieu, les gens du Nord et du Conflans détruisent l'armée de l'Ouest ; un peu plus tard, Criston Cole meurt sous les flèches avec ses hommes. Il ne reste aux verts qu'une force intacte, celle que lord Ormund Hightower fait remonter du Bief avec le jeune prince Daeron et sa dragonne Tessarion.\n\nÀ Chutebourg, les noirs lui opposent Hugh le Marteau et Ulf le Blanc. En pleine bataille, les deux dragonniers changent de camp et brûlent la ville qu'ils devaient défendre ; lord Ormund est tué. On les appellera les Deux Traîtres. Les chroniques montrent assez leur ambition, Hugh rêvant bientôt d'une couronne ; elles ne disent ni quand ils prirent leur décision, ni si quelqu'un les avait achetés.\n\nÀ Port-Réal, la nouvelle empoisonne la cour : si deux semences ont trahi, pourquoi pas les autres ? La reine ordonne l'arrestation d'Addam ; prévenu par Corlys, il s'enfuit sur Seasmoke, et le vieux lord est jeté au cachot. Ordre est donné aussi de mettre à mort Orties, que la rumeur disait maîtresse de Daemon ; elle disparaît avec Sheepstealer.\n\nAddam choisit de prouver sa loyauté par les armes et lève une armée dans le Conflans. À Chutebourg, les verts se déchirent : des seigneurs de leur propre camp complotent la mort de Hugh et celle d'Ulf. L'attaque nocturne d'Addam devance le complot. Hugh est abattu par l'un des conjurés en courant vers Vermithor ; le prince Daeron périt d'une manière que trois récits décrivent différemment ; Seasmoke, Vermithor et Tessarion meurent en s'affrontant, et Addam avec son dragon. Ulf est empoisonné peu après.",
+            "en": "In the first months of 130 AC the green armies in the riverlands collapsed. On the shore of the Gods Eye, northmen and rivermen destroyed the army of the west; a little later Criston Cole died under a storm of arrows with his men. The greens had one force left intact, the host Lord Ormund Hightower was bringing up from the Reach with the young Prince Daeron and his dragon Tessarion.\n\nAt Tumbleton the blacks set Hugh Hammer and Ulf the White against it. In the middle of the battle the two dragonriders changed sides and burned the town they had been sent to hold; Lord Ormund was killed. They would be remembered as the Two Betrayers. The chronicles make their ambition plain enough, Hugh soon dreaming of a crown; they do not say when the two made their choice, or whether anyone had bought them.\n\nIn King's Landing the news poisoned the court: if two dragonseeds had turned, why not the others? The queen ordered Addam's arrest; warned by Corlys, he fled on Seasmoke, and the old lord was thrown into a cell. Orders also went out to put Nettles to death, whom rumour called Daemon's lover; she vanished with Sheepstealer.\n\nAddam chose to prove his loyalty in arms and raised an army in the riverlands. At Tumbleton the greens were tearing themselves apart: lords of their own side were plotting the deaths of Hugh and Ulf. Addam's night attack came before the plot. Hugh was cut down by one of the plotters as he ran for Vermithor; Prince Daeron perished in a way that three accounts describe differently; Seasmoke, Vermithor and Tessarion died fighting one another, and Addam with his dragon. Ulf was poisoned soon after."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+            },
+            {
+              "id": "tpatq"
+            }
+          ]
+        },
+        {
+          "id": "p5-deux-princes-au-dessus-du-lac",
+          "heading": {
+            "fr": "Deux princes au-dessus du lac",
+            "en": "Two Princes Above the Lake"
+          },
+          "body": {
+            "fr": "Après la chute de Port-Réal, Aemond ne cherche plus de bataille rangée. Seul sur Vhagar, il brûle les terres des seigneurs du Conflans ralliés à la reine, et cette guerre d'un seul homme laisse la région en cendres. Daemon finit par lui offrir ce qu'il évitait : il revient à Harrenhal et l'y attend treize jours. Il venait de se séparer d'Orties, dont Rhaenyra avait ordonné la mort.\n\nAemond paraît le quatorzième jour, accompagné de sa maîtresse, Alys Rivers. Au coucher du soleil, les deux dragons s'affrontent au-dessus du lac. Caraxes referme ses mâchoires sur la gorge de Vhagar, et les deux bêtes tombent enlacées. On rapporte que Daemon sauta d'une selle à l'autre et enfonça Sœur Noire dans l'orbite vide de son neveu avant que l'eau ne les engloutisse. Caraxes se traîna jusqu'à la rive pour y mourir. Des années plus tard, on retrouva les restes de Vhagar avec, enchaîné à la selle, le corps en armure d'Aemond ; celui de Daemon ne reparut jamais.\n\nCette absence a suffi aux chanteurs, qui l'ont fait survivre et rejoindre Orties. La plupart des historiens y voient plutôt l'œuvre des courants. La portée du combat se discute moins que ses détails. En un soir, chaque camp perd son chef de guerre le plus redoutable et l'un de ses plus grands dragons. Les verts n'ont plus personne à leur tête, puisque Aegon II reste caché ; la reine, à Port-Réal, n'a plus à ses côtés l'homme qui tenait ses armées.",
+            "en": "After the fall of King's Landing, Aemond no longer sought a pitched battle. Alone on Vhagar, he burned the lands of the riverlords who had gone over to the queen, and that one-man war left the region in ashes. Daemon at last offered him what he had been avoiding: he returned to Harrenhal and waited there for thirteen days. He had just parted from Nettles, whose death Rhaenyra had ordered.\n\nAemond came on the fourteenth day, with his lover, Alys Rivers. At sunset the two dragons met above the lake. Caraxes locked his jaws on Vhagar's throat, and the two beasts fell together. Daemon is said to have leapt from one saddle to the other and driven Dark Sister into his nephew's empty eye socket before the water closed over them. Caraxes dragged himself to the shore to die. Years later the remains of Vhagar were found with Aemond's armoured body still chained to the saddle; Daemon's was never seen again.\n\nThat absence was enough for the singers, who had him survive and go back to Nettles. Most historians credit the currents instead. What the fight meant is less disputed than how it went. In a single evening each side lost its most formidable war leader and one of its greatest dragons. The greens had no one left at their head, since Aegon II was still in hiding; the queen, in King's Landing, no longer had beside her the man who had held her armies together."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            },
+            {
+              "id": "tpatq"
+            }
+          ]
+        },
+        {
+          "id": "p5-la-ville-contre-les-dragons",
+          "heading": {
+            "fr": "La ville contre les dragons",
+            "en": "The City Against the Dragons"
+          },
+          "body": {
+            "fr": "Rhaenyra ne tient Port-Réal que quelques mois, et la ville apprend vite à la craindre. Pour payer la guerre, elle lève de lourdes taxes ; pour punir les verts, elle confisque et fait exécuter. Eustace rapporte que le Trône de Fer la blessa le jour où elle s'y assit, en armure : un septon hostile avait toutes les raisons de retenir ce présage. Les nouvelles de Chutebourg, l'armée verte qui approche et la défiance envers les semences ajoutent à la peur.\n\nLa mort de la reine Helaena déclenche l'émeute. Quelques jours après le combat au-dessus de l'Œildieu (le jour même, selon Yandel), elle se jette d'une fenêtre de la citadelle de Maegor, et la rumeur accuse aussitôt Rhaenyra. Munkun attribue cette calomnie à un prêcheur des rues, Champignon à Larys Strong. Ce prêcheur manchot, qu'on appelle le Berger, tonne contre les dragons et ceux qui les montent. Bientôt la foule gravit la colline de Rhaenys et force Fossedragon.\n\nQuatre dragons y meurent enchaînés, Shrykos, Morghul, Tyraxes et Dreamfyre, non sans tuer un grand nombre d'assaillants. Le jeune Joffrey, dernier des trois fils Velaryon de la reine, monte Syrax pour gagner Fossedragon, où était enchaîné son propre dragon, Tyraxes ; il tombe de sa selle et se tue, et Syrax périt à son tour au milieu de la foule. Les récits de sa mort divergent ; Munkun l'attribue à un homme dont il fait déjà le tueur d'un autre dragon cette nuit-là, ce que Gyldayn juge invraisemblable. Le lendemain, la reine quitte la ville. Elle n'y reviendra pas.",
+            "en": "Rhaenyra held King's Landing for only a few months, and the city soon learned to fear her. To pay for the war she levied heavy taxes; to punish the greens she seized property and ordered executions. Eustace reports that the Iron Throne cut her on the day she sat it in her armour: a hostile septon had every reason to record that omen. The news from Tumbleton, the green army drawing near and the distrust of the dragonseeds all fed the fear.\n\nThe death of Queen Helaena set off the riot. A few days after the fight above the Gods Eye (on the same day, according to Yandel), she threw herself from a window of Maegor's Holdfast, and rumour at once blamed Rhaenyra. Munkun lays the slander at the door of a street preacher, Mushroom at that of Larys Strong. The one-handed preacher, called the Shepherd, railed against dragons and those who rode them. Soon the mob climbed the Hill of Rhaenys and broke into the Dragonpit.\n\nFour dragons died there in their chains, Shrykos, Morghul, Tyraxes and Dreamfyre, though not before killing a great many of their attackers. Young Joffrey, the last of the queen's three Velaryon sons, mounted Syrax to reach the Dragonpit, where his own dragon, Tyraxes, was chained; he fell from the saddle to his death, and Syrax was killed in turn amid the crowd. Accounts of her death differ; Munkun credits it to a man he has already made the slayer of another dragon that night, which Gyldayn finds implausible. The next day the queen left the city. She would not return."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+            },
+            {
+              "id": "tpatq"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon II"
+            }
+          ]
+        },
+        {
+          "id": "p5-la-fin-de-la-reine",
+          "heading": {
+            "fr": "Peyredragon et la fin de la reine",
+            "en": "Dragonstone and the Queen's End"
+          },
+          "body": {
+            "fr": "Pendant que la reine perdait la capitale, son demi-frère reprenait le berceau de la famille. Aegon II reparaît à Peyredragon, où des hommes de la garnison, menés par ser Alfred Broome, lui livrent le château. Sunfyre, mutilé, avait gagné l'île de lui-même et y avait tué le dragon sauvage Grey Ghost, mort que l'on imputa d'abord au Cannibal. La jeune Baela, fille de Daemon, l'attaque sur Moondancer, bien plus petite que lui. Moondancer meurt, Baela est prise, et Sunfyre ne volera plus.\n\nRhaenyra l'ignore. Refoulée à Rosby, tolérée une seule nuit à Stokeworth, abandonnée en chemin par une partie de son escorte, elle gagne Sombreval, où elle vend sa couronne pour payer son passage. Elle veut rejoindre Peyredragon, peut-être dans l'espoir d'y faire éclore un dragon parmi les œufs de l'île. Elle tombe dans le piège. Le vingt-deuxième jour du dixième mois de 130 apr. C., Aegon II la livre à Sunfyre sous les yeux de son fils, Aegon le Jeune. Sunfyre meurt de ses blessures moins de deux mois plus tard.\n\nCe meurtre n'est pas seulement la vengeance de Jaehaerys et de Repos-du-Freux. Il supprime la reine sans supprimer sa cause. L'enfant qui a vu mourir sa mère devient un otage, et pour tous ceux qui avaient suivi Rhaenyra, l'héritier légitime. Aegon II a gagné une île et perdu son dernier dragon ; il lui reste à reprendre un royaume dont la moitié ne le reconnaît pas.",
+            "en": "While the queen was losing the capital, her half-brother was taking back the family's cradle. Aegon II reappeared on Dragonstone, where men of the garrison led by Ser Alfred Broome delivered the castle to him. Sunfyre, maimed, had made his own way to the island and killed the wild dragon Grey Ghost there, a death first laid at the Cannibal's door. The young Baela, Daemon's daughter, attacked him on Moondancer, a far smaller dragon. Moondancer died, Baela was taken, and Sunfyre would never fly again.\n\nRhaenyra knew none of this. Turned away at Rosby, allowed a single night at Stokeworth, deserted on the road by part of her escort, she reached Duskendale, where she sold her crown to pay for her passage. She meant to return to Dragonstone, perhaps hoping to hatch a dragon from the island's eggs. She walked into the trap. On the twenty-second day of the tenth month of 130 AC, Aegon II gave her to Sunfyre before the eyes of her son, Aegon the Younger. Sunfyre died of his wounds less than two months later.\n\nThe killing was more than revenge for Jaehaerys and for Rook's Rest. It removed the queen without removing her cause. The boy who watched his mother die became a hostage and, for all who had followed Rhaenyra, the rightful heir. Aegon II had won an island and lost his last dragon; he still had to take back a realm half of which did not acknowledge him."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+            },
+            {
+              "id": "tpatq"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon II"
+            }
+          ]
+        },
+        {
+          "id": "p5-fin-d-aegon-ii-et-heure-du-loup",
+          "heading": {
+            "fr": "Un roi sans royaume, un loup à la porte",
+            "en": "A King Without a Realm, a Wolf at the Gate"
+          },
+          "body": {
+            "fr": "Aegon II retrouve un trône, non un royaume. Après le départ de Rhaenyra, Port-Réal a connu la Lune des Trois Rois : un écuyer et un enfant de quatre ans y ont été proclamés rois, jusqu'à ce que Borros Baratheon reprenne la ville au nom d'Aegon. Le roi revient brisé, défiguré, dépendant du lait de pavot. Il fait entrer Corlys Velaryon à son conseil, mais refuse toute paix. Or les noirs n'ont pas disparu avec leur reine : les jeunes seigneurs du Conflans tiennent la campagne, et Cregan Stark descend du Nord. En 131 apr. C., Borros marche contre eux et meurt sur la route Royale.\n\nPeu après, Aegon II est trouvé mort dans sa litière, empoisonné. Corlys envoie aussitôt des corbeaux pour offrir la paix. Qui a versé le poison ? Personne ne l'a jamais établi, et les soupçons visent jusqu'aux hommes qui entouraient le roi.\n\nCregan Stark arrive trop tard pour combattre. Il fait arrêter vingt-deux hommes, se fait nommer Main par l'enfant roi et préside au jugement : Munkun nommera ces jours l'Heure du Loup. La plupart des accusés prennent le noir ; Larys Strong et un chevalier de la Garde Royale choisissent la mort. Corlys échappe au procès grâce à un édit du jeune roi, obtenu par les filles de Daemon. Le lendemain, Cregan rend sa charge.\n\nAegon le Jeune, âgé de onze ans, est couronné sous le nom d'Aegon III et marié à Jaehaera, fille d'Aegon II, pour réunir les deux branches. Sept régents gouvernent en son nom, parmi lesquels le grand mestre Munkun, futur historien de la guerre.",
+            "en": "Aegon II recovered a throne, not a realm. After Rhaenyra's flight, King's Landing had lived through the Moon of the Three Kings: a squire and a four-year-old boy had both been proclaimed king, until Borros Baratheon retook the city in Aegon's name. The king returned broken, disfigured, dependent on milk of the poppy. He brought Corlys Velaryon onto his council, but refused any peace. Yet the blacks had not vanished with their queen: the young lords of the riverlands held the countryside, and Cregan Stark was marching south. In 131 AC Borros rode out against them and died on the kingsroad.\n\nSoon afterwards Aegon II was found dead in his litter, poisoned. Corlys at once sent ravens offering peace. Who poured the poison? No one has ever established it, and suspicion reaches as far as the men around the king.\n\nCregan Stark arrived too late to fight. He had twenty-two men arrested, had the boy king name him Hand, and sat in judgment: Munkun would call those days the Hour of the Wolf. Most of the accused took the black; Larys Strong and a knight of the Kingsguard chose death. Corlys escaped trial through an edict of the young king, obtained by Daemon's daughters. The next day Cregan gave up his office.\n\nAegon the Younger, then eleven years old, was crowned as Aegon III and married to Jaehaera, Aegon II's daughter, to join the two branches. Seven regents governed in his name, among them Grand Maester Munkun, the future historian of the war."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+            },
+            {
+              "id": "fab",
+              "locator": "Aftermath: The Hour of the Wolf"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon II"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon III"
+            }
+          ]
+        },
+        {
+          "id": "p5-le-compte-des-dragons-et-des-temoins",
+          "heading": {
+            "fr": "Le compte des dragons et des témoins",
+            "en": "Counting Dragons and Witnesses"
+          },
+          "body": {
+            "fr": "Combien de dragons la maison possédait-elle en 129 apr. C. ? Le chiffre dépend de ce que l'on compte. En incluant les jeunes bêtes des enfants royaux et les dragons sauvages de Peyredragon, on arrive à une vingtaine : six du côté vert, onze du côté noir, montés ou non, et trois sauvages. Deux ans plus tard, quatre survivent : Silverwing, Sheepstealer et le Cannibal, dont on perd la trace, et Morning, éclose dans le Val pendant la guerre. Gyldayn jugeait que « la Mort des Dragons » aurait mieux convenu à cette guerre que le nom de Danse. Le dernier dragon de la maison, une petite femelle chétive née sous Aegon III, meurt en 153 apr. C.\n\nCe compte est à peu près sûr ; le reste repose sur trois témoins qui ne voyaient pas les mêmes choses. Le septon Eustace vivait au Donjon Rouge, penchait pour Aegon II et écrivit après 133 apr. C., retiré dans le Conflans ; Yandel le préfère à Champignon. Le bouffon suivit Rhaenyra et l'aimait ; il dicta à un scribe inconnu un témoignage plein d'alcôves et de meurtres, où il se donne souvent un rôle. Munkun, grand mestre sous la régence, s'appuya largement sur les écrits d'Orwyle, rédigés en prison par un homme qui cherchait à se disculper.\n\nDevant la tête du petit Maelor, dernier fils d'Aegon II, Rhaenyra pleure selon Champignon et sourit selon Eustace. Pour le dragon qui brûla ser Byron Swann, Munkun nomme Vhagar ; Champignon, et une lettre de l'écuyer qui vit mourir son maître, nomment Syrax. La Danse que nous connaissons est un compromis entre des partis pris, et Gyldayn renonce souvent à trancher.",
+            "en": "How many dragons did the house possess in 129 AC? The figure depends on what one counts. Including the young beasts of the royal children and the wild dragons of Dragonstone, one reaches about twenty: six on the green side, eleven on the black, ridden or not, and three wild ones. Two years later four survived: Silverwing, Sheepstealer and the Cannibal, both of whom pass out of the record, and Morning, hatched in the Vale during the war. Gyldayn thought “the Dying of the Dragons” would have suited the war better than the name of Dance. The last dragon of the house, a small and sickly female born under Aegon III, died in 153 AC.\n\nThat count is reasonably secure; the rest rests on three witnesses who did not see the same things. Septon Eustace lived in the Red Keep, leaned towards Aegon II and wrote after 133 AC, withdrawn to the riverlands; Yandel prefers him to Mushroom. The fool followed Rhaenyra and loved her; he dictated to an unknown scribe a testimony full of bedchambers and murders, often giving himself a part. Munkun, Grand Maester under the regency, leaned heavily on the writings of Orwyle, set down in prison by a man trying to clear himself.\n\nBefore the head of little Maelor, Aegon II's last son, Rhaenyra weeps according to Mushroom and smiles according to Eustace. For the dragon that burned Ser Byron Swann, Munkun names Vhagar; Mushroom, and a letter from the squire who saw his master die, name Syrax. The Dance we know is a compromise between partisan accounts, and Gyldayn often declines to choose."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+            },
+            {
+              "id": "fab",
+              "locator": "Under the Regents: The Hooded Hand"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon III"
+            },
+            {
+              "id": "adwd",
+              "locator": "Tyrion III (ch. 8)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

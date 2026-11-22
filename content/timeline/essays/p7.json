@@ -1,0 +1,326 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-02",
+  "items": [
+    {
+      "periodId": "p7",
+      "sections": [
+        {
+          "id": "p7-le-roi-et-sa-main",
+          "heading": {
+            "fr": "Le roi et sa Main",
+            "en": "The King and His Hand"
+          },
+          "body": {
+            "fr": "Aerys II monte sur le trône en 262 apr. C., à dix-huit ans, après le bref règne de son père Jaehaerys II. Les premières années laissent l'image d'un prince généreux et changeant, prodigue de grands projets qu'il oublie sitôt annoncés. Le gouvernement réel passe à son ami d'enfance Tywin Lannister, nommé Main la même année. Pendant près de vingt ans, le royaume connaît l'ordre et l'abondance, et l'on prend peu à peu l'habitude d'en créditer le ministre plutôt que le souverain.\n\nC'est de là que naît la brouille. Les récits de cour la présentent comme une suite de vexations : des privautés et des mots déplacés du roi envers Joanna, l'épouse de Tywin, des faveurs accordées à ceux qui contrariaient la Main, des rumeurs dont on ne sait si elles reposaient sur quoi que ce soit. Aucune de ces anecdotes ne suffit à expliquer la rupture. Mises bout à bout, elles dessinent un roi qui supporte mal de devoir sa réputation à un autre.\n\nEn 276 apr. C., Tywin donne à Port-Lannis un tournoi pour la naissance du prince Viserys et propose d'unir sa fille Cersei à l'héritier, Rhaegar. Aerys refuse publiquement et fait sentir à sa Main qu'il n'est à ses yeux qu'un serviteur, dont la fille ne saurait prétendre à l'héritier. L'affront est public. Tywin garde sa charge ; mais dès lors la question n'est plus de savoir si les deux hommes se sépareront, seulement quand, et à quel prix pour le royaume.",
+            "en": "Aerys II took the throne in 262 AC, aged eighteen, after the short reign of his father Jaehaerys II. His first years leave the picture of a generous and changeable prince, lavish with grand schemes he forgot as soon as he had announced them. Actual government passed to his boyhood friend Tywin Lannister, named Hand that same year. For close to twenty years the realm knew order and plenty, and people slowly fell into the habit of crediting the minister rather than the sovereign.\n\nThat is where the estrangement began. Court accounts present it as a string of slights: liberties and coarse remarks by the king towards Joanna, Tywin's wife; favours shown to those who crossed the Hand; rumours of which no one can say whether they rested on anything at all. None of these anecdotes is enough to explain the break. Laid end to end, they describe a king who could not bear to owe his reputation to another man.\n\nIn 276 AC Tywin held a tourney at Lannisport for the birth of Prince Viserys and proposed to marry his daughter Cersei to the heir, Rhaegar. Aerys refused in public, and let his Hand understand that he was only a servant in the king's eyes, whose daughter could not aspire to the heir. The insult was public. Tywin kept his office; but from then on the question was no longer whether the two men would part, only when, and at what cost to the realm."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys II"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            },
+            {
+              "id": "affc",
+              "locator": "Cersei V (ch. 24)"
+            }
+          ]
+        },
+        {
+          "id": "p7-sombreval",
+          "heading": {
+            "fr": "Six mois à Sombreval",
+            "en": "Six Months at Duskendale"
+          },
+          "body": {
+            "fr": "En 277 apr. C., lord Denys Darklyn cesse de payer l'impôt et réclame pour Sombreval une charte de franchises. On a dit que son épouse, Serala, une Myrienne, l'y avait poussé ; à Sombreval, où l'on aimait le seigneur, on préféra longtemps charger l'étrangère. Aerys décide de régler l'affaire en personne, avec une faible escorte, sans doute pour prouver qu'il pouvait se passer de sa Main. À peine arrivé, il est jeté en prison et malmené ; plusieurs hommes de son escorte, dont le chevalier de la Garde Royale qui la commandait, sont tués en le défendant.\n\nLa captivité dure environ six mois. Tywin assiège la ville sans pouvoir l'attaquer, Darklyn menaçant de tuer le roi au premier assaut ; il finit par fixer un ultimatum. C'est ser Barristan Selmy, de la Garde Royale, qui y met fin, en entrant seul dans la place et en ramenant Aerys. Le roi exige ensuite la mort des Darklyn jusqu'aux cousins éloignés, ainsi que celle des Hollard, leurs parents par alliance.\n\nPresque tous les témoignages font de Sombreval le tournant du règne. Aerys ne quitte plus guère le Donjon Rouge, ne laisse plus personne l'approcher avec une lame, refuse qu'on lui coupe les cheveux ou les ongles. Quelque temps après, il prend pour maître des chuchoteurs un eunuque venu d'outre-mer, Varys, dont les informateurs nourriront ses soupçons. Une question demeure, que les sources ne règlent pas : la prison a-t-elle produit la folie, ou seulement révélé un mal qui couvait ? Les anecdotes antérieures se prêtent aux deux lectures.",
+            "en": "In 277 AC Lord Denys Darklyn stopped paying his taxes and demanded a charter of rights for Duskendale. It was said that his wife Serala, a woman of Myr, had pushed him to it; in Duskendale, where the lord was loved, people long preferred to blame the foreigner. Aerys resolved to settle the matter in person, with a small escort, no doubt to prove he could manage without his Hand. Almost as soon as he arrived he was thrown in a cell and roughly handled; several men of his escort, among them the knight of the Kingsguard who led it, were killed defending him.\n\nThe captivity lasted about six months. Tywin besieged the town but could not attack it, since Darklyn threatened to kill the king at the first assault; in the end he set an ultimatum. It was Ser Barristan Selmy of the Kingsguard who ended the affair, entering the town alone and bringing Aerys out. The king then demanded the deaths of the Darklyns down to their distant cousins, and of the Hollards, their kin by marriage.\n\nNearly every witness treats Duskendale as the turning point of the reign. Aerys hardly ever left the Red Keep again, let no one come near him with a blade, and refused to have his hair or nails cut. Some time later he made a eunuch from across the sea, Varys, his master of whisperers, and Varys's informers would feed his suspicions. One question remains, and the sources do not settle it: did the cell produce the madness, or only bring out an illness already present? The earlier anecdotes support either reading."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            },
+            {
+              "id": "affc",
+              "locator": "Brienne II (ch. 9)"
+            },
+            {
+              "id": "affc",
+              "locator": "Jaime II (ch. 16)"
+            }
+          ]
+        },
+        {
+          "id": "p7-le-feu-et-la-peur",
+          "heading": {
+            "fr": "Le feu et la peur",
+            "en": "Fire and Fear"
+          },
+          "body": {
+            "fr": "Le nom de Roi Fou lui a été donné par ceux qui l'ont renversé, et il faut le lire avec cette réserve. Ce que l'on rapporte n'en est pas moins grave. Aerys se défie de sa Main, de son fils, de chacun de ses conseillers tour à tour. Il entoure de faveurs les pyromants de la guilde des Alchimistes et conçoit pour le feu grégeois une passion qui ne le quittera plus. Les condamnés sont brûlés vifs, et Jaime Lannister laisse entendre que la reine Rhaella portait ensuite sur le corps la trace de ces nuits-là.\n\nLes témoins de ce portrait sont peu nombreux et rarement neutres. Le plus précis est Jaime lui-même, qui parle plus de quinze ans après, pour expliquer le geste qui lui a valu le nom de Régicide. Le reste vient de mestres écrivant sous les Baratheon et de serviteurs ralliés au nouveau roi. Aucun texte ne fait entendre la voix de ceux qui servirent Aerys jusqu'au bout et le jugeaient autrement.\n\nIl faut rappeler que le mariage d'Aerys et de sa sœur Rhaella avait été voulu par leur père sur la foi d'une prophétie : une sorcière des bois aurait annoncé que le prince promis naîtrait de cette lignée. Cette croyance passera d'une génération à l'autre et pèsera sur Rhaegar, puis sur Daenerys. Que la folie d'Aerys tienne au sang, à la captivité ou à l'exercice du pouvoir, nul ne peut le trancher. On peut seulement observer qu'elle s'aggrava par paliers, et que chaque palier suit une humiliation ou une peur.",
+            "en": "The name of Mad King was given to him by those who overthrew him, and it has to be read with that in mind. What is reported is grave all the same. Aerys came to distrust his Hand, his son, each of his councillors in turn. He showered favour on the pyromancers of the Alchemists' Guild and conceived a passion for wildfire that never left him. The condemned were burned alive, and Jaime Lannister lets it be understood that Queen Rhaella afterwards bore the marks of those nights on her body.\n\nThe witnesses behind this portrait are few and seldom neutral. The most precise is Jaime himself, speaking more than fifteen years later to explain the deed that earned him the name of Kingslayer. The rest comes from maesters writing under the Baratheons and from servants who had gone over to the new king. No text lets us hear those who served Aerys to the end and judged him differently.\n\nIt should be remembered that the marriage of Aerys to his sister Rhaella had been arranged by their father on the strength of a prophecy: a woods witch was said to have foretold that the prince that was promised would be born of their line. That belief would pass from one generation to the next and weigh on Rhaegar, then on Daenerys. Whether Aerys's madness came from the blood, from captivity or from power itself, no one can decide. One can only observe that it worsened in stages, and that each stage followed a humiliation or a fear."
+          },
+          "sources": [
+            {
+              "id": "asos",
+              "locator": "Jaime V (ch. 37)"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            },
+            {
+              "id": "adwd",
+              "locator": "The Kingbreaker (ch. 67)"
+            }
+          ]
+        },
+        {
+          "id": "p7-le-prince-melancolique",
+          "heading": {
+            "fr": "Le prince mélancolique",
+            "en": "The Melancholy Prince"
+          },
+          "body": {
+            "fr": "Rhaegar naît en 259 apr. C. à Lestival, le jour de l'incendie où périt son arrière-grand-père Aegon V. Ceux qui l'ont connu décrivent un enfant studieux et grave, joueur de harpe, qui retournait souvent seul dans les ruines de son lieu de naissance. Barristan Selmy raconte qu'un jour le garçon vint trouver le maître d'armes pour réclamer une épée : ses lectures lui avaient appris qu'il devait devenir guerrier. Ce qu'il avait lu, le texte ne le dit pas ; on rapproche d'ordinaire ce revirement de la prophétie du prince promis, à laquelle, selon mestre Aemon, Rhaegar croyait.\n\nIl devint un chevalier accompli, et beaucoup, à la cour comme dans les châteaux, voyaient en lui le remède au règne de son père. Cette faveur le mettait en danger : Aerys s'en inquiétait, et l'on sait que Varys n'apaisait pas ses soupçons.\n\nFaute de sœur à épouser, il fallut chercher une femme à l'héritier. En 278 apr. C., lord Steffon Baratheon partit pour Volantis en quête d'une fiancée de vieux sang valyrien ; il se noya au retour, son navire brisé en vue d'Accalmie. Aerys se tourna vers Dorne. Rhaegar fut promis à Elia Martell en 279 et l'épousa en 280 ; Rhaenys naquit la même année, Aegon à la fin de 281 ou au début de 282. Oberyn Martell croira toujours que Tywin ne pardonna pas qu'on ait préféré Elia à sa fille. D'après Aemon, Rhaegar voyait dans son fils l'enfant de la prophétie.",
+            "en": "Rhaegar was born in 259 AC at Summerhall, on the day of the fire in which his great-grandfather Aegon V died. Those who knew him describe a studious and serious child, a harpist, who often went back alone to the ruins of his birthplace. Barristan Selmy tells how the boy one day sought out the master-at-arms to ask for a sword: his reading had taught him that he must become a warrior. What he had read, the text does not say; this change of course is usually connected with the prophecy of the prince that was promised, in which, according to Maester Aemon, Rhaegar believed.\n\nHe grew into an accomplished knight, and many, at court and in the castles, saw in him the cure for his father's reign. That favour put him in danger: Aerys was troubled by it, and Varys, so far as we know, did nothing to ease his suspicions.\n\nWith no sister for him to marry, a wife had to be found for the heir. In 278 AC Lord Steffon Baratheon sailed to Volantis in search of a bride of old Valyrian blood; he drowned on the way home, his ship broken within sight of Storm's End. Aerys turned to Dorne. Rhaegar was betrothed to Elia Martell in 279 and married her in 280; Rhaenys was born that same year, Aegon late in 281 or early in 282. Oberyn Martell always believed that Tywin never forgave the choice of Elia over his daughter. According to Aemon, Rhaegar saw in his son the child of the prophecy."
+          },
+          "sources": [
+            {
+              "id": "asos",
+              "locator": "Daenerys I (ch. 8)"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aerys II"
+            },
+            {
+              "id": "acok",
+              "locator": "Prologue"
+            },
+            {
+              "id": "asos",
+              "locator": "Tyrion X (ch. 70)"
+            },
+            {
+              "id": "affc",
+              "locator": "Samwell IV (ch. 35)"
+            }
+          ]
+        },
+        {
+          "id": "p7-harrenhal",
+          "heading": {
+            "fr": "Harrenhal, l'année du Printemps trompeur",
+            "en": "Harrenhal, the Year of the False Spring"
+          },
+          "body": {
+            "fr": "Le tournoi que lord Walter Whent donne à Harrenhal en 281 apr. C. est le plus fastueux de son temps, et l'on a soupçonné qu'il n'était pas qu'une fête. Selon une hypothèse que Varys aurait portée aux oreilles du roi, Rhaegar l'aurait financé en secret pour réunir les grands seigneurs et parler avec eux d'un conseil qui écarterait son père. Rien ne le prouve. Ce qui est sûr, c'est qu'Aerys, qui ne sortait plus, fit le voyage.\n\nSa présence pesa sur tout le tournoi. Le roi y reçut les vœux du jeune Jaime Lannister, qu'il venait de nommer dans sa Garde Royale, privant Tywin de son héritier sans lui laisser le moyen de protester ; Tywin, resté loin de Harrenhal, se démit peu après de sa charge et rentra à Castral Roc. Les mêmes jours, un chevalier inconnu, dont l'écu portait un arbre-cœur rieur, vainquit trois chevaliers dont les écuyers avaient maltraité un jeune homme des paludes, puis disparut. Aerys y vit un défi et chargea son fils de le retrouver ; on ne trouva que l'écu. L'épisode ne nous parvient que par un conte fait à Bran Stark, qui laisse deviner sans le dire qui portait l'armure.\n\nRhaegar remporta les joutes. Passant devant sa femme, il déposa la couronne de roses bleues sur les genoux de Lyanna Stark, promise à Robert Baratheon. Les témoins y virent une offense faite à la fois à Elia, aux Stark et à Robert. Personne ne sut dire ce que le prince voulait signifier, et lui-même ne l'expliqua jamais.",
+            "en": "The tourney Lord Walter Whent held at Harrenhal in 281 AC was the most lavish of its age, and it has been suspected of being more than a festivity. According to a hypothesis that Varys is said to have carried to the king, Rhaegar had secretly paid for it in order to gather the great lords and discuss with them a council that would set his father aside. Nothing proves it. What is certain is that Aerys, who no longer went out, made the journey.\n\nHis presence weighed on the whole tourney. There the king received the vows of young Jaime Lannister, whom he had just named to his Kingsguard, depriving Tywin of his heir without leaving him room to object; Tywin, who had stayed away from Harrenhal, soon resigned his office and went home to Casterly Rock. In those same days an unknown knight, whose shield bore a laughing weirwood, defeated three knights whose squires had mistreated a young crannogman, then vanished. Aerys took it as a challenge and sent his son to find him; only the shield was found. The episode reaches us solely through a tale told to Bran Stark, which lets the reader guess, without saying, who wore the armour.\n\nRhaegar won the jousts. Riding past his wife, he laid the crown of blue roses in the lap of Lyanna Stark, betrothed to Robert Baratheon. Those present saw in it an affront to Elia, to the Starks and to Robert all at once. No one could say what the prince meant by it, and he never explained himself."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: The Year of the False Spring"
+            },
+            {
+              "id": "adwd",
+              "locator": "The Kingbreaker (ch. 67)"
+            },
+            {
+              "id": "asos",
+              "locator": "Bran II (ch. 24)"
+            },
+            {
+              "id": "agot",
+              "locator": "Eddard XV (ch. 58)"
+            }
+          ]
+        },
+        {
+          "id": "p7-une-disparition-deux-executions",
+          "heading": {
+            "fr": "Une disparition, deux exécutions",
+            "en": "A Disappearance and Two Executions"
+          },
+          "body": {
+            "fr": "Au début de 282 apr. C., Rhaegar, accompagné de quelques fidèles, croise Lyanna à une dizaine de lieues de Harrenhal, et elle disparaît avec lui. Tout le reste est disputé. Robert Baratheon a toujours parlé de rapt et de viol. Eddard Stark garde l'image d'une promesse et d'un lit de sang. Barristan Selmy, des années après, ramène la guerre entière à l'amour du prince pour cette jeune fille. Aucun d'eux n'était présent, et les livres parus ne disent pas si Lyanna fut enlevée ou suivit Rhaegar de son plein gré.\n\nLes conséquences, elles, sont établies. Brandon Stark, frère aîné de Lyanna, se présente au Donjon Rouge en réclamant la mort du prince. Aerys le fait arrêter avec ses compagnons et convoque son père, lord Rickard. Celui-ci demande le jugement par combat ; le roi désigne le feu pour champion. Le seigneur de Winterfell meurt dans son armure au-dessus des flammes, tandis que Brandon, la gorge prise dans un nœud qui se resserre à mesure qu'il tend le bras vers une épée hors d'atteinte, s'étrangle sous ses yeux.\n\nAerys exige ensuite de lord Jon Arryn qu'il lui livre ses deux pupilles, Eddard Stark et Robert Baratheon. Arryn refuse et lève ses bannières. Ce n'est donc pas la disparition de Lyanna qui fait la guerre, c'est la réponse du roi : un acte privé, quel qu'en ait été le sens, devient une affaire de sang entre la couronne et trois grandes maisons.",
+            "en": "Early in 282 AC Rhaegar, with a few faithful companions, came upon Lyanna some ten leagues from Harrenhal, and she vanished with him. Everything else is disputed. Robert Baratheon always spoke of abduction and rape. Eddard Stark's memory holds a promise and a bed of blood. Barristan Selmy, years afterwards, traces the whole war back to the prince's love for that girl. None of them was there, and the published books do not say whether Lyanna was carried off or followed Rhaegar of her own will.\n\nThe consequences, on the other hand, are established. Brandon Stark, Lyanna's elder brother, came to the Red Keep demanding the prince's death. Aerys had him arrested with his companions and summoned his father, Lord Rickard. Rickard asked for trial by combat; the king named fire as his champion. The lord of Winterfell died in his armour above the flames, while Brandon, his throat caught in a noose that tightened as he reached for a sword set beyond his grasp, strangled before his eyes.\n\nAerys next demanded that Lord Jon Arryn hand over his two wards, Eddard Stark and Robert Baratheon. Arryn refused and called his banners. So it was not Lyanna's disappearance that made the war but the king's answer to it: a private act, whatever it meant, became a blood feud between the crown and three great houses."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: The Year of the False Spring"
+            },
+            {
+              "id": "agot",
+              "locator": "Eddard I (ch. 4)"
+            },
+            {
+              "id": "adwd",
+              "locator": "The Kingbreaker (ch. 67)"
+            },
+            {
+              "id": "acok",
+              "locator": "Catelyn VII (ch. 55)"
+            },
+            {
+              "id": "agot",
+              "locator": "Catelyn I (ch. 2)"
+            }
+          ]
+        },
+        {
+          "id": "p7-de-goeville-aux-cloches",
+          "heading": {
+            "fr": "De Goëville aux Cloches",
+            "en": "From Gulltown to the Bells"
+          },
+          "body": {
+            "fr": "La rébellion se noue d'abord par des mariages. Pour s'assurer de Hoster Tully, Jon Arryn épouse sa fille Lysa, et Eddard Stark prend à Vivesaigues Catelyn, la fiancée de son frère mort. Le Val, le Nord, les terres de l'Orage et une grande partie du Conflans se trouvent ainsi liés ; le Bief et Dorne restent au roi, l'Ouest attend. Que les tutelles et les fiançailles antérieures aient préparé de longue main une ligue contre le trône, certains l'ont supposé ; les livres ne l'établissent pas.\n\nLa guerre n'est connue que par fragments, racontés bien plus tard par ceux qui l'ont faite. Jon Arryn doit d'abord reprendre Goëville, restée fidèle au roi ; Robert y tue lord Grafton. Rentré chez lui, il défait en un seul jour, à Lestival, trois seigneurs de l'Orage qui voulaient unir leurs forces contre lui ; il tue l'un d'eux de sa main et gagne à sa cause ceux qu'il a faits prisonniers. Il entre ensuite dans le Bief et se heurte à Cendregué à l'avant-garde de lord Randyll Tarly, qui le bat. L'armée Tyrell va mettre le siège devant Accalmie, que Stannis tiendra près d'un an.\n\nBlessé, Robert se cache à Pierremoûtier. Jon Connington, nouvelle Main du roi, fait fouiller la ville sans le trouver, jusqu'à ce qu'Eddard Stark et Hoster Tully forcent les murs : c'est la bataille des Cloches. Aerys dépouille Connington de ses titres et l'exile. Il comprend enfin que la révolte peut l'emporter et rappelle Rhaegar, absent depuis des mois quelque part au sud ; où et pourquoi, les livres ne le disent qu'à demi.",
+            "en": "The rebellion was first knotted together by marriages. To secure Hoster Tully, Jon Arryn wed his daughter Lysa, and Eddard Stark took Catelyn, his dead brother's betrothed, at Riverrun. The Vale, the North, the stormlands and much of the riverlands were thus bound together; the Reach and Dorne stayed with the king, and the west waited. That the earlier wardships and betrothals had long prepared a league against the throne, some have supposed; the books do not establish it.\n\nThe war is known only in fragments, told long afterwards by those who fought it. Jon Arryn first had to retake Gulltown, which had stayed loyal to the king; Robert killed Lord Grafton there. Back in his own lands, he defeated in a single day, at Summerhall, three storm lords who meant to join forces against him; he killed one of them with his own hand and won over the men he had taken prisoner. He then entered the Reach and ran into Lord Randyll Tarly's vanguard at Ashford, where Tarly beat him. The Tyrell army went on to besiege Storm's End, which Stannis would hold for nearly a year.\n\nWounded, Robert hid in Stoney Sept. Jon Connington, the king's new Hand, had the town searched without finding him, until Eddard Stark and Hoster Tully stormed the walls: this was the Battle of the Bells. Aerys stripped Connington of his titles and exiled him. He understood at last that the revolt might win, and recalled Rhaegar, who had been away for months somewhere in the south; where and why, the books only half tell."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: Robert's Rebellion"
+            },
+            {
+              "id": "adwd",
+              "locator": "Davos I (ch. 9)"
+            },
+            {
+              "id": "asos",
+              "locator": "Arya V (ch. 29)"
+            },
+            {
+              "id": "adwd",
+              "locator": "The Griffin Reborn (ch. 61)"
+            }
+          ]
+        },
+        {
+          "id": "p7-le-trident",
+          "heading": {
+            "fr": "Le gué du Trident",
+            "en": "The Ford on the Trident"
+          },
+          "body": {
+            "fr": "Rhaegar prend le commandement d'une armée royale nombreuse mais composite : chevaliers du domaine royal, Dorniens du prince Lewyn Martell, restes de l'armée de Connington. Avant de partir, il confie à Jaime Lannister, qu'il laisse à la garde de son père, son intention de réunir un conseil une fois la bataille gagnée et de réformer ce qu'il avait trop longtemps laissé en l'état. On lit souvent ces mots comme l'annonce d'une régence. Ils ne disent pas laquelle, et le prince ne revint pas les expliquer.\n\nLes armées se rencontrent au grand gué du Trident. Les récits retiennent surtout le duel au milieu du courant : Robert y abat Rhaegar d'un coup de marteau qui enfonce sa cuirasse, et les rubis qui l'ornaient se dispersent dans l'eau, d'où le nom de Gué des Rubis donné depuis au passage. Autour d'eux, la bataille est moins bien connue. Lewyn Martell et ser Jonothor Darry y meurent ; Barristan Selmy, couvert de blessures, est épargné et soigné sur l'ordre de Robert.\n\nAvec le prince disparaît la seule personne qui pouvait encore rassembler la cause royale. L'armée se débande, Robert blessé confie la poursuite à Eddard Stark, et la route de Port-Réal s'ouvre. Aerys envoie alors la reine et Viserys à Peyredragon, mais garde Elia et ses enfants au Donjon Rouge, en otages de la fidélité dornienne. Ce partage décidera de qui survivra.",
+            "en": "Rhaegar took command of a royal army that was large but mixed: knights of the crownlands, Prince Lewyn Martell's Dornishmen, the remnants of Connington's host. Before leaving he told Jaime Lannister, whom he left to guard his father, that once the battle was won he meant to call a council and set right what he had left alone for too long. These words are often read as the announcement of a regency. They do not say what kind, and the prince did not come back to explain them.\n\nThe armies met at the great ford of the Trident. The accounts remember above all the duel in midstream: Robert struck Rhaegar down with a blow of his warhammer that stove in his breastplate, and the rubies set in it scattered into the water, which is why the crossing has since been called the Ruby Ford. Around them the battle is less well known. Lewyn Martell and Ser Jonothor Darry died there; Barristan Selmy, covered in wounds, was spared and tended on Robert's orders.\n\nWith the prince went the one person who could still hold the royal cause together. The army broke, the wounded Robert gave the pursuit to Eddard Stark, and the road to King's Landing lay open. Aerys then sent the queen and Viserys to Dragonstone, but kept Elia and her children in the Red Keep as hostages for Dorne's loyalty. That division would decide who survived."
+          },
+          "sources": [
+            {
+              "id": "affc",
+              "locator": "Jaime I (ch. 8)"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: Robert's Rebellion"
+            },
+            {
+              "id": "agot",
+              "locator": "Eddard I (ch. 4)"
+            },
+            {
+              "id": "asos",
+              "locator": "Jaime V (ch. 37)"
+            }
+          ]
+        },
+        {
+          "id": "p7-le-sac-et-le-regicide",
+          "heading": {
+            "fr": "Le sac et le régicide",
+            "en": "The Sack and the Kingslaying"
+          },
+          "body": {
+            "fr": "Tywin Lannister avait attendu. Lorsqu'il paraît devant Port-Réal, quelques heures avant l'armée d'Eddard Stark, il se dit venu secourir le roi. Varys conseille de garder les portes closes, le Grand Mestre Pycelle de les ouvrir ; Aerys écoute Pycelle. Une fois dans les murs, l'armée de l'Ouest met la ville à sac.\n\nAerys avait fait cacher du feu grégeois sous toute la cité. Avant le Trident, il avait fait brûler sa Main, lord Chelsted, qui avait découvert le projet et rendu sa chaîne ; après la bataille, il avait confié la charge au pyromant Rossart. Il ordonne de tout embraser. Ser Jaime Lannister, seul chevalier de la Garde présent, tue Rossart, puis le roi, au pied du Trône de Fer. Ce récit est celui de Jaime, confié des années plus tard à Brienne de Torth ; aucun autre témoin ne le confirme, mais les réserves de feu grégeois retrouvées depuis sous la ville lui donnent du poids.\n\nDans la citadelle de Maegor, ser Gregor Clegane tue le petit Aegon et la princesse Elia, ser Amory Lorch la petite Rhaenys. Tywin dépose les corps devant Robert enveloppés de manteaux écarlates, gage d'une fidélité tardive, et justifiera plus tard devant Tyrion la mort des enfants comme une nécessité. Oberyn Martell n'y verra jamais qu'une vengeance. Robert refuse de condamner ces meurtres, ce qui le brouille pour un temps avec Eddard Stark. Un détail comptera beaucoup plus tard : le visage de l'enfant présenté comme Aegon était méconnaissable.",
+            "en": "Tywin Lannister had waited. When he appeared before King's Landing, a few hours ahead of Eddard Stark's army, he declared that he had come to relieve the king. Varys advised keeping the gates shut, Grand Maester Pycelle opening them; Aerys listened to Pycelle. Once inside the walls, the army of the west sacked the city.\n\nAerys had caused wildfire to be hidden beneath the whole city. Before the Trident he had burned his Hand, Lord Chelsted, who had discovered the scheme and given back his chain; after the battle he had handed the office to the pyromancer Rossart. Now he ordered everything set alight. Ser Jaime Lannister, the only knight of the Kingsguard present, killed Rossart, then the king, at the foot of the Iron Throne. This is Jaime's account, given years later to Brienne of Tarth; no other witness confirms it, but the caches of wildfire found under the city since then lend it weight.\n\nIn Maegor's Holdfast Ser Gregor Clegane killed the infant Aegon and Princess Elia, and Ser Amory Lorch the little Rhaenys. Tywin laid the bodies before Robert wrapped in crimson cloaks, the pledge of a late loyalty, and would later justify the children's deaths to Tyrion as a necessity. Oberyn Martell never saw in it anything but revenge. Robert refused to condemn the killings, which estranged him for a time from Eddard Stark. One detail would matter a great deal later on: the face of the child presented as Aegon could not be recognised."
+          },
+          "sources": [
+            {
+              "id": "asos",
+              "locator": "Jaime V (ch. 37)"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: The End"
+            },
+            {
+              "id": "agot",
+              "locator": "Eddard II (ch. 12)"
+            },
+            {
+              "id": "asos",
+              "locator": "Tyrion VI (ch. 53)"
+            },
+            {
+              "id": "asos",
+              "locator": "Tyrion X (ch. 70)"
+            }
+          ]
+        },
+        {
+          "id": "p7-trois-manteaux-blancs",
+          "heading": {
+            "fr": "Trois manteaux blancs dans les montagnes",
+            "en": "Three White Cloaks in the Mountains"
+          },
+          "body": {
+            "fr": "La guerre s'achève en Dorne, dans un épisode qu'un seul homme a raconté, et encore en rêve. Le siège d'Accalmie levé, Eddard Stark gagne les montagnes Rouges avec six compagnons. Devant une tour que Rhaegar appelait la tour de la Joie, trois chevaliers de la Garde Royale les attendent : ser Gerold Hightower, leur lord Commandant, ser Arthur Dayne et ser Oswell Whent. Ils n'étaient ni au Trident, ni auprès du roi pendant le sac, ni à Peyredragon avec la reine et le jeune Viserys. Ils avaient choisi de rester là.\n\nDes sept assaillants, deux survivent : Eddard et Howland Reed. Dans la tour, Lyanna meurt après avoir obtenu de son frère une promesse que le texte ne formule jamais. Eddard rapporte l'épée Aube aux Dayne de Lancehélion, fait de la tour huit cairns et ramène les restes de sa sœur à Winterfell. Il rentre aussi de la guerre avec un enfant qu'il présente comme son bâtard, et dont il refuse de nommer la mère.\n\nLes livres ne relient pas ces faits entre eux ; c'est le lecteur qui les rapproche. Le combat n'est connu que par un songe de fièvre, une quinzaine d'années après, avec tout ce que le rêve déplace et confond, et par quelques souvenirs épars. Ce que gardaient trois des meilleurs chevaliers du royaume pendant que leur roi tombait, de quoi mourut Lyanna, ce que promit Eddard : la chute de la dynastie laisse ces questions sans réponse.",
+            "en": "The war ended in Dorne, in an episode that one man alone has told, and then only in a dream. Once the siege of Storm's End was lifted, Eddard Stark rode into the Red Mountains with six companions. Before a tower that Rhaegar had called the tower of joy, three knights of the Kingsguard were waiting for them: Ser Gerold Hightower, their Lord Commander, Ser Arthur Dayne and Ser Oswell Whent. They had not been at the Trident, nor with the king during the sack, nor on Dragonstone with the queen and young Viserys. They had chosen to stay there.\n\nOf the seven attackers two survived: Eddard and Howland Reed. In the tower Lyanna died after winning from her brother a promise the text never spells out. Eddard returned the sword Dawn to the Daynes of Starfall, turned the tower into eight cairns and brought his sister's remains home to Winterfell. He also came back from the war with a child he presented as his bastard, and whose mother he refused to name.\n\nThe books do not connect these facts; it is the reader who puts them side by side. The fight is known only through a fever dream some fifteen years later, with all that a dream shifts and blurs, and through a few scattered recollections. What three of the finest knights in the realm were guarding while their king fell, what Lyanna died of, what Eddard promised: the fall of the dynasty leaves these questions unanswered."
+          },
+          "sources": [
+            {
+              "id": "agot",
+              "locator": "Eddard X (ch. 39)"
+            },
+            {
+              "id": "agot",
+              "locator": "Eddard I (ch. 4)"
+            },
+            {
+              "id": "agot",
+              "locator": "Eddard XV (ch. 58)"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: The End"
+            }
+          ]
+        },
+        {
+          "id": "p7-deux-enfants-outre-mer",
+          "heading": {
+            "fr": "Deux enfants au-delà de la mer",
+            "en": "Two Children Across the Sea"
+          },
+          "body": {
+            "fr": "À Peyredragon, Viserys n'a que six ou sept ans quand la nouvelle du sac arrive ; il est désormais l'héritier de son père, et se dira plus tard roi, le troisième de son nom. Rhaella meurt en 284 apr. C. en mettant au monde une fille, Daenerys, pendant une tempête qui détruit à l'ancre ce qui restait de la flotte royale ; de là le surnom de Daenerys du Typhon. La garnison songe à livrer les deux enfants au nouveau roi. Ser Willem Darry, l'ancien maître d'armes du Donjon Rouge, les emmène de nuit avec quelques hommes sûrs et gagne Braavos avant que Stannis Baratheon ne prenne l'île.\n\nLa suite n'est connue que par Daenerys, qui tient de son frère presque tout ce qu'elle sait de leur famille. Elle se souvient d'une maison à la porte rouge et d'un citronnier, puis de la mort de Darry, des serviteurs qui volent, de l'expulsion. Viserys traîne ensuite sa sœur de cité libre en cité libre, vend la couronne de leur mère et y gagne le surnom de Roi Mendiant. La crainte des assassins de l'Usurpateur, réels ou imaginés, ne le quitte pas.\n\nDorne, qui ne pardonne pas le meurtre d'Elia, fait la paix avec Robert, mais un pacte secret, conclu pendant l'exil, devait unir Viserys à une princesse Martell. Vers 297 apr. C., Illyrio Mopatis, magistrat de Pentos, recueille les deux enfants. Pourquoi un marchand si riche nourrit-il un prétendant sans armée ? La période suivante commence à le laisser voir, sans jamais le dire tout à fait.",
+            "en": "On Dragonstone Viserys was only six or seven when word of the sack arrived; he was now his father's heir, and would later style himself king, the third of his name. Rhaella died in 284 AC giving birth to a daughter, Daenerys, during a storm that wrecked at anchor what remained of the royal fleet; hence the name Daenerys Stormborn. The garrison considered handing both children over to the new king. Ser Willem Darry, once master-at-arms of the Red Keep, carried them off by night with a few trusted men and reached Braavos before Stannis Baratheon took the island.\n\nWhat followed is known only through Daenerys, who had from her brother almost everything she knew of their family. She remembers a house with a red door and a lemon tree, then Darry's death, the servants who stole, the eviction. Viserys then dragged his sister from one Free City to the next, sold their mother's crown and earned the name of the Beggar King. Fear of the Usurper's assassins, real or imagined, never left him.\n\nDorne, which did not forgive Elia's murder, made peace with Robert, but a secret pact concluded during the exile was to join Viserys to a Martell princess. Around 297 AC Illyrio Mopatis, a magister of Pentos, took the two children in. Why would so rich a merchant feed a pretender without an army? The next period begins to let it show, without ever quite saying so."
+          },
+          "sources": [
+            {
+              "id": "agot",
+              "locator": "Daenerys I (ch. 3)"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Fall of the Dragons: The End"
+            },
+            {
+              "id": "affc",
+              "locator": "The Princess in the Tower (ch. 40)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

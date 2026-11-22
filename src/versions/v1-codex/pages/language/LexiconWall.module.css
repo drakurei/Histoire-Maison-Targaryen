@@ -1,0 +1,56 @@
+/*
+ * Spécimen du lexique : les formes en texte courant, comme une page d'essai de caractères.
+ * Le statut se lit dans la graisse et l'encre, la marque carrée le confirme dans la légende.
+ */
+.wall {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.15em 0.62em;
+  margin: 0;
+  padding: 0;
+  font-family: var(--f-chronique);
+  font-size: clamp(1.3rem, 1.05rem + 1.1vw, 2.05rem);
+  line-height: 1.32;
+  letter-spacing: -0.015em;
+  font-optical-sizing: auto;
+}
+
+.item {
+  display: inline;
+}
+
+.form {
+  color: var(--v1-texte);
+  font-weight: 520;
+  text-decoration-line: underline;
+  text-decoration-color: transparent;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.16em;
+  transition: text-decoration-color var(--d-geste-court) var(--c-expo);
+}
+
+.form:hover,
+.form:focus-visible {
+  text-decoration-color: var(--v1-rubrique);
+}
+
+.form[data-status='derive'] {
+  font-style: italic;
+  font-weight: 450;
+}
+
+.form[data-status='editorial'] {
+  color: var(--v1-rubrique);
+  font-weight: 450;
+}
+
+.form[data-status='adaptation'] {
+  color: var(--v1-texte-2);
+  font-weight: 400;
+}
+
+.form[data-status='editorial']:hover,
+.form[data-status='editorial']:focus-visible {
+  text-decoration-color: var(--v1-texte);
+}

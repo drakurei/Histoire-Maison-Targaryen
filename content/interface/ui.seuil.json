@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-01",
+  "items": [
+    { "key": "seuil.skip", "fr": "Passer l'ouverture", "en": "Skip the opening" },
+    { "key": "seuil.replay", "fr": "Revoir l'ouverture", "en": "Replay the opening" }
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "schema": 1,
+  "project": {
+    "status": "running",
+    "phase": "B",
+    "createdAt": "2026-11-13T20:34:00.465Z"
+  },
+  "session": {
+    "active": true,
+    "since": "2026-11-20T20:04:21.972Z",
+    "note": "Reprise sous Claude Code (Fable 5.2, ECC actif). Retour du commanditaire : direction artistique rejetée, « trop IA ». Refonte complète lancée."
+  },
+  "checkpoint": {
+    "last": "2026-11-20T20:04:22.235Z",
+    "count": 6
+  },
+  "control": {
+    "paused": false,
+    "newTasksSuspended": false,
+    "pausedAgents": [],
+    "requests": []
+  },
+  "tasks": {
+    "A1": {
+      "status": "done",
+      "startedAt": "2026-11-13T20:34:00.503Z",
+      "endedAt": "2026-11-13T20:34:00.527Z",
+      "verification": "Mesures relevées par commandes réelles dans le cloud et dans la VM locale ; consignées dans documentation/research/audit-environnement.md"
+    },
+    "A2": {
+      "status": "done",
+      "startedAt": "2026-11-13T20:34:00.550Z",
+      "endedAt": "2026-11-13T20:34:00.583Z",
+      "verification": "Fichiers SKILL.md lus sur disque ; ECC absent de la session (aucune installation tentée)"
+    },
+    "A3": {
+      "status": "done",
+      "startedAt": "2026-11-13T20:34:00.607Z",
+      "endedAt": "2026-11-13T20:34:00.630Z",
+      "verification": "registry.json : 14 agents, champs complets, JSON valide"
+    },
+    "A4": {
+      "status": "done",
+      "startedAt": "2026-11-13T20:34:00.653Z",
+      "endedAt": "2026-11-13T20:40:12.845Z",
+      "verification": "CLI orchestrate.mjs exercé par les tests : checkpoint, pause, refus de lancement en pause, accusés de réception"
+    },
+    "A5": {
+      "status": "done",
+      "startedAt": "2026-11-13T20:40:12.875Z",
+      "endedAt": "2026-11-13T20:40:12.905Z",
+      "verification": "Serveur local 127.0.0.1:4714 et interface ; 7 vues ; vérifié dans Chromium"
+    },
+    "A6": {
+      "status": "done",
+      "startedAt": "2026-11-13T20:40:12.935Z",
+      "endedAt": "2026-11-13T20:40:12.967Z",
+      "verification": "38/38 vérifications ; rapport reports/qa/command-center-tests.md ; 2 défauts corrigés et retestés"
+    },
+    "A7": {
+      "status": "done",
+      "startedAt": "2026-11-13T22:44:45.216Z",
+      "endedAt": "2026-11-13T22:44:45.247Z",
+      "verification": "README.md, PROJECT_GUIDE.md (plan, décisions attendues, reprise) et CHANGELOG.md rédigés"
+    },
+    "B1": {
+      "status": "done",
+      "startedAt": "2026-11-13T20:40:18.928Z",
+      "endedAt": "2026-11-13T21:06:45.526Z",
+      "verification": "JSON valide (87 entrées), statuts relus par l'orchestrateur ; 11 formes non vérifiées en ligne signalées"
+    },
+    "B2": {
+      "status": "done",
+      "startedAt": "2026-11-13T20:40:18.958Z",
+      "endedAt": "2026-11-13T21:06:45.557Z",
+      "verification": "10 fichiers woff2 présents (363 Kio), licences OFL jointes, fonts.css relu"
+    },
+    "B3": {
+      "status": "done",
+      "startedAt": "2026-11-13T20:40:18.987Z",
+      "endedAt": "2026-11-13T21:06:45.586Z",
+      "verification": "Sceau rendu dans Chromium et inspecté ; cahier relu (palette, storyboard, directions)"
+    },
+    "B4": {
+      "status": "done",
+      "startedAt": "2026-11-13T21:06:45.840Z",
+      "endedAt": "2026-11-13T21:54:11.157Z",
+      "verification": "Document relu (stratégie de langue, navigation) ; wireframes présents pour les 16 écrans"
+    },
+    "B5": {
+      "status": "done",
+      "startedAt": "2026-11-13T21:06:45.874Z",
+      "endedAt": "2026-11-13T21:54:11.184Z",
+      "verification": "4 JSON valides ; dates de règne des 18 souverains relues par l'orchestrateur ; 17 événements marqués non recoupés"
+    },
+    "B6": {
+      "status": "done",
+      "startedAt": "2026-11-13T21:06:45.906Z",
+      "endedAt": "2026-11-13T21:54:11.214Z",
+      "verification": "validate-genealogy.mjs relancé par l'orchestrateur : 0 erreur"
+    },
+    "B7": {
+      "status": "pending"
+    },
+    "B8": {
+      "status": "pending"
+    },
+    "B9": {
+      "status": "in_progress",
+      "startedAt": "2026-11-13T23:54:02.082Z"
+    },
+    "B10": {
+      "status": "pending"
+    },
+    "B11": {
+      "status": "pending"
+    },
+    "C1": {
+      "status": "done",
+      "startedAt": "2026-11-13T21:54:11.450Z",
+      "endedAt": "2026-11-13T22:11:35.483Z",
+      "verification": "Maquette en un fichier autonome (1000 Kio) ; 45/45 vérifications Playwright ; captures inspectées par l'orchestrateur"
+    },
+    "C2": {
+      "status": "done",
+      "startedAt": "2026-11-13T22:11:35.518Z",
+      "endedAt": "2026-11-13T22:11:35.544Z",
+      "verification": "tokens.css (agent 07) chargé par la maquette ; planche « Système de design » lisant les jetons réels"
+    },
+    "C3": {
+      "status": "done",
+      "startedAt": "2026-11-13T22:11:35.587Z",
+      "endedAt": "2026-11-13T22:11:35.625Z",
+      "verification": "20 vues × 9 largeurs sans débordement ; 3 défauts trouvés et corrigés ; rapport reports/qa/maquette-tests.md"
+    },
+    "C4": {
+      "status": "done",
+      "startedAt": "2026-11-13T22:11:35.686Z",
+      "endedAt": "2026-11-13T22:44:04.880Z",
+      "verification": "Rapport d'audit lu intégralement par l'orchestrateur ; 28 constats repris un par un"
+    },
+    "C5": {
+      "status": "done",
+      "startedAt": "2026-11-13T22:44:04.910Z",
+      "endedAt": "2026-11-13T22:44:05.298Z",
+      "verification": "17 constats corrigés et couverts par des tests (Command Center 45/45, maquette 53/53) ; 11 constats laissés ouverts et inscrits comme problèmes ou décisions"
+    },
+    "D0": {
+      "status": "pending"
+    },
+    "E0": {
+      "status": "pending"
+    },
+    "F0": {
+      "status": "pending"
+    },
+    "G0": {
+      "status": "pending"
+    },
+    "H0": {
+      "status": "pending"
+    },
+    "I0": {
+      "status": "pending"
+    },
+    "J0": {
+      "status": "pending"
+    },
+    "C6": {
+      "status": "pending"
+    },
+    "C7": {
+      "status": "pending"
+    },
+    "B12": {
+      "status": "pending"
+    },
+    "B13": {
+      "status": "in_progress",
+      "startedAt": "2026-11-13T23:54:02.110Z"
+    },
+    "B14": {
+      "status": "in_progress",
+      "startedAt": "2026-11-13T23:54:02.140Z"
+    }
+  },
+  "agents": {
+    "10": {
+      "status": "never",
+      "currentTask": null,
+      "lastRunAt": null
+    },
+    "11": {
+      "status": "running",
+      "currentTask": "B9",
+      "lastRunAt": null
+    },
+    "12": {
+      "status": "never",
+      "currentTask": null,
+      "lastRunAt": null
+    },
+    "13": {
+      "status": "never",
+      "currentTask": null,
+      "lastRunAt": null
+    },
+    "14": {
+      "status": "standby",
+      "currentTask": null,
+      "lastRunAt": "2026-11-13T22:44:04.852Z"
+    },
+    "01": {
+      "status": "running",
+      "currentTask": null,
+      "lastRunAt": null
+    },
+    "02": {
+      "status": "standby",
+      "currentTask": null,
+      "lastRunAt": "2026-11-13T21:54:11.099Z"
+    },
+    "03": {
+      "status": "standby",
+      "currentTask": null,
+      "lastRunAt": "2026-11-13T21:54:11.130Z"
+    },
+    "04": {
+      "status": "running",
+      "currentTask": "B14",
+      "lastRunAt": "2026-11-13T21:06:45.430Z"
+    },
+    "05": {
+      "status": "never",
+      "currentTask": null,
+      "lastRunAt": null
+    },
+    "06": {
+      "status": "standby",
+      "currentTask": null,
+      "lastRunAt": "2026-11-13T21:54:11.068Z"
+    },
+    "07": {
+      "status": "running",
+      "currentTask": "B13",
+      "lastRunAt": "2026-11-13T21:06:45.497Z"
+    },
+    "08": {
+      "status": "standby",
+      "currentTask": null,
+      "lastRunAt": "2026-11-13T21:06:45.465Z"
+    },
+    "09": {
+      "status": "never",
+      "currentTask": null,
+      "lastRunAt": null
+    }
+  },
+  "runs": [
+    {
+      "id": "R-001",
+      "agent": "04",
+      "task": "B1",
+      "label": "Lexique d'interface en haut valyrien, classement des formes, notes de grammaire",
+      "startedAt": "2026-11-13T20:40:19.020Z",
+      "endedAt": "2026-11-13T21:06:45.430Z",
+      "outcome": "ok",
+      "report": "reports/agent-reports/agent-04-lexique-interface.md",
+      "summary": "87 entrées : 56 attestées, 15 dérivées, 15 éditoriales, 1 adaptation, 0 néologisme. 76 vérifiées en ligne, 11 non vérifiées."
+    },
+    {
+      "id": "R-002",
+      "agent": "08",
+      "task": "B2",
+      "label": "Étude typographique : licences et couverture mesurée des glyphes valyriens",
+      "startedAt": "2026-11-13T20:40:19.052Z",
+      "endedAt": "2026-11-13T21:06:45.465Z",
+      "outcome": "ok",
+      "report": "reports/agent-reports/agent-08-typographie.md",
+      "summary": "Cormorant Garamond, Alegreya, Alegreya SC (SIL OFL), 10 fichiers woff2, 363 Kio. ȳ/Ȳ mesurés présents. Aucune écriture valyrienne exploitable légalement."
+    },
+    {
+      "id": "R-003",
+      "agent": "07",
+      "task": "B3",
+      "label": "Cahier artistique : palette, matières, sceau original, storyboard d'ouverture, trois directions",
+      "startedAt": "2026-11-13T20:40:19.084Z",
+      "endedAt": "2026-11-13T21:06:45.497Z",
+      "outcome": "ok",
+      "report": "reports/agent-reports/agent-07-cahier-artistique.md",
+      "summary": "Sceau original « la Chandelle de verre », palette de 25 couleurs avec contrastes calculés, trois directions : le Codex, la Lignée, la Table d'étude."
+    },
+    {
+      "id": "R-004",
+      "agent": "06",
+      "task": "B4",
+      "label": "Architecture de l'information, navigation, lecture du valyrien, wireframes desktop et mobile",
+      "startedAt": "2026-11-13T21:06:45.934Z",
+      "endedAt": "2026-11-13T21:54:11.068Z",
+      "outcome": "ok",
+      "report": "reports/agent-reports/agent-06-ux-architecture.md",
+      "summary": "Règle de langue « le valyrien rubrique, la langue du visiteur raconte », plan du site, 6 parcours mesurables, 50 wireframes sur 16 écrans. Spécification seule : aucun test utilisateur."
+    },
+    {
+      "id": "R-005",
+      "agent": "02",
+      "task": "B5",
+      "label": "Chronologie de référence des huit périodes, registre des sources, souverains et dragons",
+      "startedAt": "2026-11-13T21:06:45.967Z",
+      "endedAt": "2026-11-13T21:54:11.099Z",
+      "outcome": "ok",
+      "report": "reports/agent-reports/agent-02-chronologie.md",
+      "summary": "125 événements en 8 périodes (117 livres, 8 séries séparés), 18 souverains, 28 dragons, 20 sources, 5 niveaux de fiabilité. 108 événements recoupés en ligne, 17 non recoupés."
+    },
+    {
+      "id": "R-006",
+      "agent": "03",
+      "task": "B6",
+      "label": "Première structure généalogique vérifiée (personnes, unions, filiations)",
+      "startedAt": "2026-11-13T21:06:45.991Z",
+      "endedAt": "2026-11-13T21:54:11.130Z",
+      "outcome": "ok",
+      "report": "reports/agent-reports/agent-03-genealogie.md",
+      "summary": "176 personnes, 69 unions, 132 filiations, 21 générations. Script de validation : 0 erreur. 160 personnes recoupées en ligne."
+    },
+    {
+      "id": "R-007",
+      "agent": "14",
+      "task": "C4",
+      "label": "Audit indépendant : Command Center, maquette, données, langue, conformité au cahier des charges",
+      "startedAt": "2026-11-13T22:11:35.716Z",
+      "endedAt": "2026-11-13T22:44:04.852Z",
+      "outcome": "ok",
+      "report": "reports/audits/audit-maquette.md",
+      "summary": "1 constat critique, 11 majeurs, 16 mineurs. Promesse linguistique refusée en l'état ; données historiques : aucune erreur sur 84 faits contrôlés ; sécurité du Command Center conforme."
+    },
+    {
+      "id": "R-008",
+      "agent": "11",
+      "task": "B9",
+      "label": "Modèle de données, chaîne de construction des contenus, validation croisée par identifiants",
+      "startedAt": "2026-11-13T23:54:02.163Z",
+      "endedAt": null,
+      "outcome": null,
+      "report": null,
+      "summary": ""
+    },
+    {
+      "id": "R-009",
+      "agent": "04",
+      "task": "B14",
+      "label": "Lexique étendu, incipit des huit volumes, grammaire structurée, vérification des formes à confirmer",
+      "startedAt": "2026-11-13T23:54:02.186Z",
+      "endedAt": null,
+      "outcome": null,
+      "report": null,
+      "summary": ""
+    },
+    {
+      "id": "R-010",
+      "agent": "07",
+      "task": "B13",
+      "label": "Dragons originaux gravés en SVG, jeu d'icônes, planche de carte abstraite",
+      "startedAt": "2026-11-13T23:54:02.212Z",
+      "endedAt": null,
+      "outcome": null,
+      "report": null,
+      "summary": ""
+    }
+  ],
+  "issues": [
+    {
+      "id": "P-001",
+      "agent": "04",
+      "severity": "mineur",
+      "title": "11 formes valyriennes non vérifiées en ligne",
+      "detail": "Dont cinq impératifs de boutons (Majēbās, Jokorjās, Pikībās, Bēmās, Drāmmās) dérivés régulièrement mais non vus tels quels. À revérifier en phase B (lettres R à Z du dictionnaire non reçues).",
+      "status": "open",
+      "openedAt": "2026-11-13T21:06:45.614Z",
+      "resolvedAt": null,
+      "resolution": ""
+    },
+    {
+      "id": "P-002",
+      "agent": "04",
+      "severity": "mineur",
+      "title": "Lacunes lexicales : histoire, bibliothèque, source, menu, conquête, chute",
+      "detail": "Aucun mot attesté trouvé ; approximations classées « éditorial » et affichées comme telles.",
+      "status": "open",
+      "openedAt": "2026-11-13T21:06:45.646Z",
+      "resolvedAt": null,
+      "resolution": ""
+    },
+    {
+      "id": "P-003",
+      "agent": "08",
+      "severity": "mineur",
+      "title": "Petites capitales et chiffres elzéviriens absents des fichiers de police distribués",
+      "detail": "onum et smcp absents des sous-ensembles ; contournement : famille Alegreya SC séparée. Proposition : produire nos propres sous-ensembles.",
+      "status": "open",
+      "openedAt": "2026-11-13T21:06:45.677Z",
+      "resolvedAt": null,
+      "resolution": ""
+    },
+    {
+      "id": "P-004",
+      "agent": "06",
+      "severity": "majeur",
+      "title": "Le récit historique ne peut pas être écrit honnêtement en haut valyrien",
+      "detail": "Le lexique publié n'a pas le vocabulaire d'un historien (aucun mot attesté pour histoire, source, conquête…). Règle proposée : rubriques, titres, formules et incipit en valyrien glosé ; récit dans la langue du visiteur, avec mention explicite. À arbitrer par l'utilisateur.",
+      "status": "open",
+      "openedAt": "2026-11-13T21:54:11.241Z",
+      "resolvedAt": null,
+      "resolution": ""
+    },
+    {
+      "id": "P-005",
+      "agent": "02",
+      "severity": "mineur",
+      "title": "17 événements et 2 souverains non recoupés en ligne",
+      "detail": "Marqués verifiedOnline:false. Années 298-300 reconstituées : les romans ne datent pas ces événements.",
+      "status": "open",
+      "openedAt": "2026-11-13T21:54:11.270Z",
+      "resolvedAt": null,
+      "resolution": ""
+    },
+    {
+      "id": "P-006",
+      "agent": "03",
+      "severity": "mineur",
+      "title": "Une trentaine de divergences de dates entre généalogie et chronologie",
+      "detail": "Listées dans le rapport de l'agent 03 ; à trancher par l'agent 02. Noms et épithètes français non vérifiés.",
+      "status": "open",
+      "openedAt": "2026-11-13T21:54:11.301Z",
+      "resolvedAt": null,
+      "resolution": ""
+    },
+    {
+      "id": "P-007",
+      "agent": "02",
+      "severity": "mineur",
+      "title": "Sceau : la chandelle de verre est valyrienne, pas spécifiquement targaryenne",
+      "detail": "Usage fidèle aux livres mais aucun texte ne la lie à la maison ; le roman décrit une lumière immobile : halo fixe recommandé plutôt qu'un halo qui respire.",
+      "status": "open",
+      "openedAt": "2026-11-13T21:54:11.329Z",
+      "resolvedAt": null,
+      "resolution": ""
+    },
+    {
+      "id": "P-008",
+      "agent": "14",
+      "severity": "critique",
+      "title": "A14-001 — Le mode anglais n'est pas intégral",
+      "detail": "Les données n'ont pas de champ anglais pour les couleurs et destins des dragons, les noms de lieux, les notes du lexique et de la généalogie. La maquette les affiche en français, balisées et signalées. À traiter par les agents 02, 03, 05 et 11 avant la version 1.",
+      "status": "open",
+      "openedAt": "2026-11-13T22:44:04.940Z",
+      "resolvedAt": null,
+      "resolution": ""
+    },
+    {
+      "id": "P-009",
+      "agent": "14",
+      "severity": "majeur",
+      "title": "A14-009 — Maquette et tests produits par l'orchestrateur seul",
+      "detail": "Les agents 05, 09, 10, 11, 12 et 13 n'ont pas encore été exécutés. La maquette, ses tests et les rapports QA ont été réalisés par la session principale. Tâches C6 et C7 ajoutées pour une contre-vérification par les agents 13 et 12.",
+      "status": "open",
+      "openedAt": "2026-11-13T22:44:04.972Z",
+      "resolvedAt": null,
+      "resolution": ""
+    },
+    {
+      "id": "P-010",
+      "agent": "14",
+      "severity": "majeur",
+      "title": "A14-012 — Références entre fichiers par libellé et non par identifiant",
+      "detail": "8 noms de dragonniers ne se résolvent pas dans la généalogie (apostrophes, précisions entre parenthèses) ; le dragon Terrax est cité sans fiche. À traiter par les agents 02, 03 et 11 (tâche B9).",
+      "status": "open",
+      "openedAt": "2026-11-13T22:44:05.013Z",
+      "resolvedAt": null,
+      "resolution": ""
+    },
+    {
+      "id": "P-011",
+      "agent": "14",
+      "severity": "mineur",
+      "title": "A14-017, 022, 024, 025 — réserves restantes",
+      "detail": "Corps de 13 px pour les étiquettes (plancher de 14 px demandé) ; jauge d'ouverture cadencée par minuterie dans la maquette, à lier au chargement réel en version 1 ; filiations sans chapitre ; « Zaldrīzo Ānogar » à reclasser et nuance d'âge de « frère » et « sœur ».",
+      "status": "open",
+      "openedAt": "2026-11-13T22:44:05.045Z",
+      "resolvedAt": null,
+      "resolution": ""
+    },
+    {
+      "id": "P-012",
+      "agent": "14",
+      "severity": "mineur",
+      "title": "A14-004 — Heures du journal consignées après coup",
+      "detail": "Plusieurs tâches de la phase A ont été ouvertes et closes dans la même seconde, au moment de la consignation. L'interface dit désormais « consigné à » et ne présente plus ces heures comme des durées.",
+      "status": "resolved",
+      "openedAt": "2026-11-13T22:44:05.080Z",
+      "resolvedAt": "2026-11-13T22:44:05.164Z",
+      "resolution": "Libellés de l'interface corrigés (« consigné à »), avertissement dans l'historique ; à l'avenir chaque tâche est ouverte au moment réel de son début."
+    }
+  ],
+  "decisions": [
+    {
+      "id": "S-001",
+      "kind": "proposal",
+      "agent": "07",
+      "title": "Aucun dragon figuré, aucun portrait",
+      "detail": "Le directeur artistique propose de représenter chaque dragon par son nuancier d'écailles et ses données, et chaque personne par sa ligne de vie dessinée d'après ses dates, plutôt que par des illustrations. Motif : aucune illustration générique ni asset artificiel. Cela écarte la silhouette de dragon évoquée pour l'ouverture et les portraits des fiches.",
+      "status": "rejected",
+      "createdAt": "2026-11-13T21:06:45.706Z",
+      "decidedAt": "2026-11-20T20:04:33.945Z",
+      "decisionNote": "Le commanditaire veut des dragons originaux dessinés en code.",
+      "decidedVia": "conversation"
+    },
+    {
+      "id": "S-002",
+      "kind": "proposal",
+      "agent": "07",
+      "title": "Réponse rituelle « Valar dohaeris » à l'entrée",
+      "detail": "À la fin du chargement, la réponse « Valar dohaeris » s'affiche. En version 1 le site s'ouvre seul après 1,2 s ; en versions 2 et 3 c'est un bouton que le visiteur actionne pour entrer (une fois par session).",
+      "status": "approved",
+      "createdAt": "2026-11-13T21:06:45.734Z",
+      "decidedAt": "2026-11-20T20:04:34.177Z",
+      "decisionNote": "Ouverture automatique après Valar dohaeris.",
+      "decidedVia": "conversation"
+    },
+    {
+      "id": "S-003",
+      "kind": "proposal",
+      "agent": "04",
+      "title": "Graphie « Valar morghūlis » avec macron en haut valyrien",
+      "detail": "La forme attestée dans l'orthographe du créateur de la langue porte un macron sur le u. Proposition : l'afficher ainsi en haut valyrien, et « Valar morghulis » dans les textes français et anglais.",
+      "status": "approved",
+      "createdAt": "2026-11-13T21:06:45.765Z",
+      "decidedAt": "2026-11-20T20:04:34.434Z",
+      "decisionNote": "Graphie Valar morghūlis en valyrien.",
+      "decidedVia": "conversation"
+    },
+    {
+      "id": "V-001",
+      "kind": "validation",
+      "agent": "06",
+      "title": "Règle de langue : le valyrien rubrique, votre langue raconte",
+      "detail": "Par défaut, navigation, titres, étiquettes, formules et courts incipit sont en haut valyrien, chacun avec sa traduction en petit dessous ; les longs textes historiques sont en français ou en anglais, avec la mention « texte en français ». Motif : le lexique publié du haut valyrien ne permet pas d'écrire le récit sans inventer la langue. Alternative si vous refusez : étendre le valyrien par des constructions nouvelles documentées, au prix d'une part croissante de langue inventée.",
+      "status": "approved",
+      "createdAt": "2026-11-13T21:54:11.359Z",
+      "decidedAt": "2026-11-20T20:04:33.221Z",
+      "decisionNote": "Valyrien pour les rubriques, récit dans la langue d'appui (réponse du commanditaire).",
+      "decidedVia": "conversation"
+    },
+    {
+      "id": "V-002",
+      "kind": "validation",
+      "agent": "01",
+      "title": "Valider le dispositif de contrôle",
+      "detail": "Les 14 agents, leurs missions et périmètres, le système de checkpoints et le Command Center. Sept agents ont réellement été exécutés (02, 03, 04, 06, 07, 08, 14) ; les agents 05, 09, 10, 11, 12 et 13 le seront à partir de la suite de la phase B.",
+      "status": "approved",
+      "createdAt": "2026-11-13T22:44:05.328Z",
+      "decidedAt": "2026-11-20T20:04:33.455Z",
+      "decisionNote": "Lancement de la version 1 demandé.",
+      "decidedVia": "conversation"
+    },
+    {
+      "id": "V-003",
+      "kind": "validation",
+      "agent": "01",
+      "title": "Valider la maquette et lancer la réalisation de la version 1",
+      "detail": "Maquette interactive design/prototypes/maquette.html, direction « Le Codex ». Non maquettés en interactif : Guerres, Lieux et carte, Parcours d'apprentissage, fiche d'événement autonome ; les directions 2 et 3 sont décrites, pas construites. L'audit indépendant a accepté la maquette avec réserves et refusé la promesse linguistique en l'état (voir V-001).",
+      "status": "improve",
+      "createdAt": "2026-11-13T22:44:05.361Z",
+      "decidedAt": "2026-11-20T20:04:33.693Z",
+      "decisionNote": "Direction « Le Codex » de la maquette rejetée : « beaucoup trop IA ». Nouvelle direction dans DESIGN.md.",
+      "decidedVia": "conversation"
+    }
+  ]
+}

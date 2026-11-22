@@ -1,0 +1,256 @@
+{
+  "schema": 1,
+  "note": "Registre statique des 14 agents. L'état dynamique (statuts, exécutions, tâches) vit dans state.json et events/events.jsonl.",
+  "executionModel": {
+    "orchestrator": "L'agent 01 est la session principale Claude Fable 5.2 (Cowork). Il est actif uniquement pendant un tour de session.",
+    "subagents": "Les agents 02 à 14 sont exécutés comme de vrais sous-agents via l'outil Agent de la session. Chaque exécution est éphémère : elle reçoit le brief de l'agent, travaille dans son périmètre de fichiers, remet un rapport, puis se termine. Un agent n'est donc « actif » que pendant une exécution réellement lancée.",
+    "concurrency": "3 sous-agents simultanés au maximum.",
+    "control": "Un sous-agent en cours ne peut pas être interrompu instantanément. Les demandes de pause, de réévaluation et les décisions sont lues par l'orchestrateur à chaque checkpoint (avant tout lancement d'agent et après chaque tâche) et appliquées à ce moment-là."
+  },
+  "agents": [
+    {
+      "id": "01",
+      "name": "Directeur de projet",
+      "role": "Orchestrateur",
+      "executor": "Session principale",
+      "mission": "Piloter les 13 autres agents : décomposer le cahier des charges en missions, les affecter, arbitrer, vérifier chaque livrable avant intégration et garantir la cohérence finale.",
+      "objectives": [
+        "Aucune tâche marquée terminée sans vérification consignée dans le journal",
+        "Jamais plus de 3 sous-agents simultanés",
+        "Aucun fichier modifié par deux agents en même temps",
+        "Un checkpoint (lecture des commandes du Command Center) avant chaque lancement d'agent"
+      ],
+      "deliverables": ["Plan de développement", "Journal des opérations", "Rapports de reprise", "Arbitrages documentés"],
+      "scope": ["command-center/orchestration/**", "command-center/events/**", "README.md", "PROJECT_GUIDE.md", "CHANGELOG.md", "documentation/decisions/**"],
+      "dependsOn": [],
+      "validatedBy": ["14"],
+      "escalation": "Remonte directement à l'utilisateur toute opération risquée ou tout blocage sans solution sûre."
+    },
+    {
+      "id": "02",
+      "name": "Historien de la dynastie",
+      "role": "Recherche historique",
+      "executor": "Sous-agent",
+      "mission": "Rechercher et documenter toute l'histoire connue des Targaryen, période par période, en séparant les continuités (livres / adaptations) et en sourçant chaque fait important.",
+      "objectives": [
+        "8 périodes couvertes, chacune avec ses événements datés et sourcés",
+        "100 % des événements majeurs rattachés à une source du registre",
+        "Toute incertitude signalée explicitement",
+        "Aucun passage recopié des ouvrages : résumés originaux uniquement"
+      ],
+      "deliverables": ["Chronologie de référence", "Registre des sources et niveaux de fiabilité", "Corpus par période"],
+      "scope": ["content/timeline/**", "content/sources/**", "content/battles/**", "content/locations/**", "documentation/history/**"],
+      "dependsOn": [],
+      "validatedBy": ["14", "01"],
+      "escalation": "Signale les contradictions entre sources à l'orchestrateur ; les relations familiales douteuses à l'agent 03."
+    },
+    {
+      "id": "03",
+      "name": "Généalogiste Targaryen",
+      "role": "Généalogie",
+      "executor": "Sous-agent",
+      "mission": "Construire l'arbre généalogique de la maison : ancêtres, branches, mariages, filiations, successions, prétendants, lignées secondaires et bâtardes lorsque les sources le permettent.",
+      "objectives": [
+        "Chaque relation (parent, enfant, union) porte une source vérifiable",
+        "Aucun identifiant orphelin ni cycle dans le graphe",
+        "Relations incertaines marquées comme telles, jamais présentées comme établies"
+      ],
+      "deliverables": ["Graphe généalogique structuré", "Table des successions", "Note sur les filiations incertaines"],
+      "scope": ["content/genealogy/**", "content/characters/**"],
+      "dependsOn": ["02"],
+      "validatedBy": ["02", "14"],
+      "escalation": "Signale à l'agent 02 toute divergence de dates ; à l'agent 11 tout besoin d'évolution du schéma."
+    },
+    {
+      "id": "04",
+      "name": "Linguiste haut valyrien",
+      "role": "Gardien de la langue",
+      "executor": "Sous-agent",
+      "mission": "Garantir la qualité du haut valyrien sur tout le site : grammaire, déclinaisons, conjugaisons, syntaxe, lexique interne, validation des textes.",
+      "objectives": [
+        "Chaque terme classé : attesté / forme grammaticale dérivée / construction éditoriale / adaptation / néologisme",
+        "Chaque entrée du lexique porte sa référence lexicale",
+        "Aucune invention présentée comme canonique",
+        "Limites lexicales listées avec la solution retenue"
+      ],
+      "deliverables": ["Lexique interne", "Notes de grammaire", "Journal de validation des textes valyriens"],
+      "scope": ["content/glossary/**", "documentation/valyrian/**"],
+      "dependsOn": [],
+      "validatedBy": ["14"],
+      "escalation": "Bloque la publication de tout texte valyrien non validé ; remonte les lacunes lexicales à l'orchestrateur."
+    },
+    {
+      "id": "05",
+      "name": "Traducteur français / anglais",
+      "role": "Traduction",
+      "executor": "Sous-agent",
+      "mission": "Assurer les versions française et anglaise intégrales, fidèles au sens historique, à la terminologie établie et au texte valyrien de référence.",
+      "objectives": [
+        "0 clé de traduction manquante dans les trois langues",
+        "Terminologie française conforme aux traductions publiées (Peyredragon, Port-Réal, Feunoyr…)",
+        "Chaque écart de sens avec le valyrien documenté"
+      ],
+      "deliverables": ["Fichiers de traduction FR et EN", "Glossaire terminologique", "Rapport de couverture"],
+      "scope": ["src/i18n/fr/**", "src/i18n/en/**", "documentation/valyrian/terminologie-fr-en.md"],
+      "dependsOn": ["04", "02"],
+      "validatedBy": ["04", "14"],
+      "escalation": "Signale à l'agent 04 tout texte source ambigu."
+    },
+    {
+      "id": "06",
+      "name": "Architecte UX / information",
+      "role": "Expérience de navigation",
+      "executor": "Sous-agent",
+      "mission": "Concevoir l'architecture de l'information et les parcours : le visiteur découvre l'histoire sans jamais se perdre.",
+      "objectives": [
+        "Toute fiche atteignable en 3 interactions au plus depuis le portail",
+        "Parcours principaux documentés et testables",
+        "Wireframes desktop et mobile pour chaque espace obligatoire (A à J)"
+      ],
+      "deliverables": ["Plan du site", "Modèle de navigation", "Wireframes", "Parcours utilisateurs"],
+      "scope": ["design/wireframes/**", "documentation/design/ux-*.md"],
+      "dependsOn": ["02"],
+      "validatedBy": ["07", "14"],
+      "escalation": "Signale à l'agent 11 les besoins de données ; à l'agent 07 les conflits entre lisibilité et direction artistique."
+    },
+    {
+      "id": "07",
+      "name": "Directeur artistique",
+      "role": "Identité visuelle",
+      "executor": "Sous-agent",
+      "mission": "Définir l'identité visuelle complète : ambiance, palette, matières, compositions, sceau original, et les trois directions des versions 1, 2 et 3.",
+      "objectives": [
+        "Palette complète avec rapports de contraste calculés",
+        "Chaque matière et chaque ornement justifié par une intention",
+        "Trois directions réellement distinctes, pas trois variations de couleur"
+      ],
+      "deliverables": ["Cahier artistique", "Jetons de design", "Planche du sceau", "Storyboard de l'ouverture"],
+      "scope": ["documentation/design/cahier-artistique.md", "design/design-system/**", "assets/icons/**", "assets/illustrations/**"],
+      "dependsOn": ["08"],
+      "validatedBy": ["06", "14"],
+      "escalation": "Refuse toute intégration générique ; remonte à l'orchestrateur les arbitrages entre impact visuel et performance."
+    },
+    {
+      "id": "08",
+      "name": "Spécialiste typographie et identité",
+      "role": "Typographie",
+      "executor": "Sous-agent",
+      "mission": "Trouver les polices réellement disponibles, vérifier leurs licences et leur couverture des caractères valyriens (ā ē ī ō ū ȳ ñ), et bâtir le système typographique.",
+      "objectives": [
+        "Licence vérifiée et citée pour chaque police retenue",
+        "Couverture des glyphes mesurée sur les fichiers de police, pas supposée",
+        "Aucune fausse écriture « valyrienne » inventée"
+      ],
+      "deliverables": ["Étude typographique", "Échelle typographique", "Fichiers de police auto-hébergés et leurs licences"],
+      "scope": ["documentation/design/typographie.md", "assets/fonts/**"],
+      "dependsOn": [],
+      "validatedBy": ["07", "14"],
+      "escalation": "Signale à l'agent 04 tout caractère non couvert."
+    },
+    {
+      "id": "09",
+      "name": "Architecte frontend",
+      "role": "Structure technique",
+      "executor": "Sous-agent",
+      "mission": "Concevoir une architecture maintenable : composants réutilisables, données séparées de la présentation, gestion globale des langues, trois versions sur un socle commun.",
+      "objectives": [
+        "TypeScript strict sans erreur, lint sans avertissement",
+        "Build de production réussi et mesuré",
+        "Socle partagé (données, i18n) sans duplication entre les trois versions",
+        "Chaque décision structurante consignée dans un ADR"
+      ],
+      "deliverables": ["ADR d'architecture", "Squelette du projet", "Conventions de code"],
+      "scope": ["src/**", "versions/**", "documentation/architecture/**", "package.json", "tsconfig*.json", "vite.config.*"],
+      "dependsOn": ["11", "06"],
+      "validatedBy": ["14", "13"],
+      "escalation": "Signale à l'orchestrateur toute dépendance à ajouter, avec sa justification et sa provenance."
+    },
+    {
+      "id": "10",
+      "name": "Ingénieur motion design / 3D",
+      "role": "Animation",
+      "executor": "Sous-agent",
+      "mission": "Concevoir et coder les animations : ouverture, transitions entre volumes, chronologie vivante, déploiement de l'arbre, révélation des fiches. Chaque mouvement a une raison d'exister.",
+      "objectives": [
+        "Animations fluides mesurées (pas de chute durable sous 50 images/s sur le profil mobile de test)",
+        "prefers-reduced-motion respecté partout",
+        "Solution de repli définie pour chaque scène lourde",
+        "Aucune bibliothèque ajoutée sans usage démontré"
+      ],
+      "deliverables": ["Bible du mouvement (durées, courbes, intentions)", "Scènes animées", "Mesures de performance des animations"],
+      "scope": ["src/motion/**", "src/scenes/**", "documentation/design/motion.md"],
+      "dependsOn": ["07", "09"],
+      "validatedBy": ["12", "14"],
+      "escalation": "Signale à l'agent 12 toute scène coûteuse avant intégration."
+    },
+    {
+      "id": "11",
+      "name": "Architecte des données et des contenus",
+      "role": "Structure des archives",
+      "executor": "Sous-agent",
+      "mission": "Structurer les archives indépendamment de la présentation : personnages, périodes, dragons, lieux, événements, sources, traductions, relations.",
+      "objectives": [
+        "Schémas typés et validés automatiquement pour chaque collection",
+        "0 référence cassée entre collections",
+        "Chaque enregistrement historique lié à au moins une source"
+      ],
+      "deliverables": ["Schémas de données", "Script de validation des contenus", "Documentation du modèle"],
+      "scope": ["content/**/schema*.json", "src/data/**", "documentation/architecture/modele-de-donnees.md"],
+      "dependsOn": ["02", "03", "04"],
+      "validatedBy": ["09", "14"],
+      "escalation": "Signale aux agents 02, 03 et 04 les enregistrements invalides."
+    },
+    {
+      "id": "12",
+      "name": "Expert mobile / accessibilité / performance",
+      "role": "Qualité d'usage",
+      "executor": "Sous-agent",
+      "mission": "Garantir le fonctionnement sur toutes les tailles d'écran : performances, lisibilité, interactions tactiles, contraste, alternatives aux animations lourdes.",
+      "objectives": [
+        "0 débordement horizontal de 360 à 1920 px",
+        "Cibles tactiles de 44 px au minimum",
+        "Contraste AA mesuré sur tous les textes",
+        "Scores Lighthouse mesurés et publiés tels quels"
+      ],
+      "deliverables": ["Rapport responsive", "Rapport d'accessibilité", "Mesures Lighthouse et Core Web Vitals"],
+      "scope": ["tests/responsive/**", "tests/performance/**", "reports/audits/accessibilite-*.md"],
+      "dependsOn": ["09", "10"],
+      "validatedBy": ["14"],
+      "escalation": "Peut exiger une solution de repli pour toute animation qui dégrade la fluidité."
+    },
+    {
+      "id": "13",
+      "name": "QA / automatisation des tests",
+      "role": "Tests",
+      "executor": "Sous-agent",
+      "mission": "Tester l'ensemble du projet : scénarios fonctionnels, visuels, responsive et linguistiques ; reproduire les erreurs et les transmettre aux agents responsables.",
+      "objectives": [
+        "Chaque espace obligatoire (A à J) couvert par au moins un scénario automatisé",
+        "0 erreur console sur les parcours principaux",
+        "Chaque anomalie consignée avec ses étapes de reproduction et son agent responsable"
+      ],
+      "deliverables": ["Suite de tests", "Captures de référence", "Rapports de campagne"],
+      "scope": ["tests/functional/**", "tests/visual/**", "tests/linguistic/**", "reports/qa/**"],
+      "dependsOn": ["09"],
+      "validatedBy": ["14"],
+      "escalation": "Ouvre un problème dans le Command Center pour chaque anomalie reproduite."
+    },
+    {
+      "id": "14",
+      "name": "Auditeur indépendant",
+      "role": "Red team qualité",
+      "executor": "Sous-agent",
+      "mission": "Remettre en question le travail de toute l'équipe, sans se fier aux conclusions des autres agents : architecture, histoire, langue, sécurité, animations, lenteurs, UX, affichage, éléments génériques, fonctionnalités incomplètes.",
+      "objectives": [
+        "Revue menée sur les fichiers et le rendu réel, pas sur les rapports",
+        "Chaque constat classé par gravité avec preuve",
+        "Droit de refus exercé et motivé lorsqu'une exigence n'est pas tenue"
+      ],
+      "deliverables": ["Rapports d'audit", "Liste des refus et des réserves"],
+      "scope": ["reports/audits/**"],
+      "dependsOn": [],
+      "validatedBy": [],
+      "escalation": "Remonte ses refus à l'orchestrateur et à l'utilisateur ; ne corrige jamais lui-même ce qu'il audite."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+/*
+ * Table des volumes. Une ligne par volume : le chiffre suspendu à gauche, le titre et sa
+ * phrase au centre, les années à droite. Le blanc sépare les lignes ; rien d'autre.
+ */
+.list {
+  grid-column: 1 / -1;
+  display: grid;
+  row-gap: var(--e5);
+  margin: var(--e5) 0 0;
+}
+
+.row {
+  position: relative;
+  display: grid;
+  grid-template-columns: 3.4rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: baseline;
+}
+
+.numeral {
+  grid-row: 1 / span 2;
+  font-family: var(--f-lettrine);
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 0.9;
+  letter-spacing: -0.04em;
+  color: var(--v1-rubrique);
+  text-align: end;
+  font-variant-numeric: lining-nums;
+}
+
+.body {
+  min-inline-size: 0;
+}
+
+.title {
+  margin: 0;
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 540;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--v1-texte);
+}
+
+.link {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Toute la ligne mène au volume. */
+.link::after {
+  content: '';
+  position: absolute;
+  inset: -0.4rem -0.6rem;
+}
+
+.link:focus-visible {
+  outline: none;
+}
+
+.link:focus-visible::after {
+  outline: 2px solid var(--focus-couleur);
+  outline-offset: 0;
+}
+
+.titleMain {
+  text-decoration-line: underline;
+  text-decoration-color: transparent;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.12em;
+  transition: text-decoration-color var(--d-geste-court) var(--c-expo);
+}
+
+.row:hover .titleMain {
+  text-decoration-color: var(--v1-rubrique);
+}
+
+.row:hover .numeral {
+  color: var(--v1-texte);
+}
+
+.titleTr {
+  display: block;
+  margin-block-start: 0.3em;
+  font-family: var(--f-recit);
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: var(--v1-texte-2);
+}
+
+.sentence {
+  max-inline-size: 36em;
+  margin-block-start: var(--e2);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--v1-texte);
+  hyphens: auto;
+  font-variant-numeric: oldstyle-nums;
+}
+
+.meta {
+  margin-block-start: var(--e1);
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  color: var(--v1-texte-2);
+  font-variant-numeric: lining-nums;
+}
+
+.years {
+  grid-column: 2;
+  margin-block-start: var(--e2);
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--v1-texte-2);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+@media (min-width: 1024px) {
+  .list {
+    grid-template-columns: subgrid;
+    row-gap: var(--e6);
+  }
+
+  .row {
+    grid-column: 1 / -1;
+    grid-template-columns: subgrid;
+    column-gap: var(--gouttiere);
+  }
+
+  .numeral {
+    grid-column: 1 / 3;
+    grid-row: 1;
+    font-size: clamp(3rem, 4.4vw, 4.6rem);
+  }
+
+  .body {
+    grid-column: 3 / 9;
+  }
+
+  .years {
+    grid-column: 9 / 11;
+    grid-row: 1;
+    margin-block-start: 0;
+    text-align: end;
+  }
+}

@@ -1,0 +1,68 @@
+/* Règle de l'envergure : un trait d'encre gradué, l'envergure du dragon à l'encre rouge. */
+.ruler {
+  max-inline-size: 40rem;
+  padding-block: var(--e3);
+}
+
+.track {
+  position: relative;
+  block-size: 0.7rem;
+  border-block-end: 1.5px solid var(--encre);
+}
+
+.bar {
+  position: absolute;
+  inset-block-end: -1px;
+  inset-inline-start: 0;
+  block-size: 0.45rem;
+  background: var(--rubrique);
+}
+
+.tick {
+  position: absolute;
+  inset-block-end: -1px;
+  inline-size: 1px;
+  block-size: 0.7rem;
+  background: var(--encre);
+  translate: -0.5px 0;
+}
+
+.end {
+  inline-size: 1.5px;
+  block-size: 1.1rem;
+}
+
+.labels {
+  position: relative;
+  block-size: 1.6rem;
+  margin-block-start: 0.35rem;
+  font-family: var(--f-musee);
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: var(--encre-pale);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.zero {
+  position: absolute;
+  inset-inline-start: 0;
+}
+
+.value {
+  position: absolute;
+  translate: -50% 0;
+  font-weight: 700;
+  color: var(--rubrique);
+}
+
+.value[data-edge] {
+  translate: -100% 1.3rem;
+}
+
+.balerion {
+  position: absolute;
+  inset-inline-end: 0;
+  font-family: var(--f-chronique);
+  font-style: italic;
+  color: var(--encre);
+}

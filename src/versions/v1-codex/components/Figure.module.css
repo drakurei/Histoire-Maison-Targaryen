@@ -1,0 +1,32 @@
+/* Figure : la planche, puis sa légende en Alegreya Sans, alignée à gauche, mesure courte. */
+.figure {
+  margin-block: var(--e6);
+}
+
+.plate {
+  position: relative;
+}
+
+.plate > svg,
+.plate > img,
+.plate > canvas {
+  display: block;
+  inline-size: 100%;
+  block-size: auto;
+}
+
+.caption {
+  max-inline-size: 38rem;
+  margin-block-start: var(--e3);
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+  color: var(--v1-texte-2);
+  font-variant-numeric: lining-nums;
+}
+
+.number {
+  margin-inline-end: 0.5em;
+  font-weight: 700;
+  color: var(--v1-rubrique);
+}

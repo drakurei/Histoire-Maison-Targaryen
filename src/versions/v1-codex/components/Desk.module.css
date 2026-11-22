@@ -1,0 +1,30 @@
+/*
+ * Le bureau. Sur écran large : à droite des huit dos, composition alignée à gauche,
+ * de l'air à droite. Sur téléphone : la feuille prend toute la largeur.
+ */
+.desk {
+  /* Rien ne déborde à l'horizontale, pas même la feuille qui tourne. */
+  overflow-x: clip;
+  padding-block: var(--e2) calc(var(--v1-etagere) + env(safe-area-inset-bottom, 0px));
+}
+
+@media (min-width: 1024px) {
+  .desk {
+    --rayon: calc(0.5rem + 8 * (var(--v1-dos) + 2px));
+
+    margin-inline-start: calc(var(--rayon) + clamp(1.5rem, 2.6vw, 3rem));
+    padding-block: calc(1.75rem + 14px) var(--e7);
+    /* De l'air à droite, où tombe aussi l'ombre portée de la feuille. */
+    padding-inline-end: clamp(1.5rem, 4vw, 4.5rem);
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1279.98px) {
+  .desk {
+    --v1-dos: 32px;
+  }
+}
+
+.pending {
+  min-block-size: 80svh;
+}

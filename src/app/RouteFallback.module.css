@@ -1,0 +1,31 @@
+/*
+ * Attente d'un bloc chargé à la demande. L'écran reste d'obsidienne ; la mention ne paraît
+ * que si l'attente dure, pour ne pas clignoter quand le bloc arrive aussitôt.
+ */
+.wait {
+  display: grid;
+  align-content: end;
+  min-height: 100svh;
+  padding: var(--e7) var(--marge-page) var(--e8);
+}
+
+.mention {
+  color: var(--cendre);
+  font-family: var(--f-musee);
+  line-height: var(--il-cartel);
+  animation: paraitre var(--d-geste-long) var(--c-power4) 600ms both;
+}
+
+.translation {
+  font-style: italic;
+}
+
+@keyframes paraitre {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}

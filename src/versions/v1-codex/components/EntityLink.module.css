@@ -1,0 +1,19 @@
+/* Lien d'entité : le nom, souligné à l'encre rouge ; la couronne précède le nom d'un roi. */
+.entity {
+  white-space: normal;
+}
+
+.link {
+  color: inherit;
+  text-decoration-line: underline;
+  text-decoration-color: var(--v1-rubrique);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+.crown {
+  display: inline-block;
+  margin-inline-end: 0.22em;
+  vertical-align: -0.08em;
+  color: var(--v1-or);
+}

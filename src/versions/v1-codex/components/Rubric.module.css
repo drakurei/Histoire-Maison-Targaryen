@@ -1,0 +1,58 @@
+/* Rubrique : Texturina, bas de casse, serrée, à l'encre rouge de la surface (rubrique sur vélin, braise sur la pierre). */
+.rubric {
+  font-family: var(--f-chronique);
+  font-weight: 560;
+  font-optical-sizing: auto;
+  line-height: var(--il-titre);
+  letter-spacing: var(--approche-titre);
+  color: var(--v1-rubrique);
+  text-wrap: balance;
+}
+
+.rubric[data-size='monumental'] {
+  /* Un mot monumental ne se coupe pas : il prend toute la largeur et se règle sur l'écran. */
+  grid-column: 1 / -1;
+  font-size: min(var(--t5), max(3.2rem, 8.5vw));
+  overflow-wrap: normal;
+  hyphens: manual;
+  font-weight: 600;
+  line-height: 0.94;
+  letter-spacing: -0.03em;
+}
+
+.rubric[data-size='titre'] {
+  font-size: var(--t4);
+  letter-spacing: -0.025em;
+}
+
+.rubric[data-size='section'] {
+  font-size: var(--t2);
+}
+
+.rubric[data-size='sous'] {
+  font-size: var(--t1);
+  letter-spacing: -0.01em;
+}
+
+.main {
+  display: block;
+}
+
+/* La glose sous le valyrien : récit en italique, plus petite, à l'encre pâle. */
+.tr {
+  display: block;
+  margin-block-start: 0.35em;
+  font-family: var(--f-recit);
+  font-size: max(0.36em, 0.95rem);
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0;
+  color: var(--v1-texte-2);
+  text-wrap: pretty;
+}
+
+.rubric[data-size='monumental'] .tr {
+  font-size: max(0.24em, 1.05rem);
+  margin-block-start: 0.5em;
+}

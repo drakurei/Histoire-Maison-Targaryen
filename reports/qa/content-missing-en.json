@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "generatedBy": "scripts/build-content.mjs",
+  "note": "Champs français sans traduction anglaise. « missing » reprend la forme exacte de chaque fichier attendu dans content/translations/ : remplacer chaque texte français par sa traduction et enregistrer sous { \"schema\": 1, \"items\": … }. « missingFr » liste les champs dont seule la forme anglaise existe à la source.",
+  "total": 0,
+  "perFile": {},
+  "missing": {},
+  "missingFr": []
+}

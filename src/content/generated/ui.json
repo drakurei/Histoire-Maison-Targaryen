@@ -1,0 +1,3607 @@
+{
+  "strings": [
+    {
+      "key": "nav.portal",
+      "fr": "Portail",
+      "en": "Gateway",
+      "hv": "Remio",
+      "status": "atteste"
+    },
+    {
+      "key": "nav.chronicles",
+      "fr": "Chroniques",
+      "en": "Chronicles",
+      "hv": "Vestriarja",
+      "status": "derive"
+    },
+    {
+      "key": "nav.genealogy",
+      "fr": "La lignée",
+      "en": "The Bloodline",
+      "hv": "Zaldrīzo Ānogar",
+      "status": "atteste"
+    },
+    {
+      "key": "nav.characters",
+      "fr": "Personnages",
+      "en": "People",
+      "hv": "Issarossa",
+      "status": "derive"
+    },
+    {
+      "key": "nav.dragons",
+      "fr": "Dragons",
+      "en": "Dragons",
+      "hv": "Zaldrīzesse",
+      "status": "atteste"
+    },
+    {
+      "key": "nav.wars",
+      "fr": "Guerres",
+      "en": "Wars",
+      "hv": "Vīlībāzmi",
+      "status": "derive"
+    },
+    {
+      "key": "nav.places",
+      "fr": "Lieux",
+      "en": "Places",
+      "hv": "Ālia",
+      "status": "derive"
+    },
+    {
+      "key": "nav.language",
+      "fr": "La langue valyrienne",
+      "en": "The Valyrian Tongue",
+      "hv": "Valyrio Ēngos",
+      "status": "editorial"
+    },
+    {
+      "key": "nav.sources",
+      "fr": "Sources",
+      "en": "Sources",
+      "hv": "Tembyri",
+      "status": "editorial"
+    },
+    {
+      "key": "nav.learn",
+      "fr": "Apprendre",
+      "en": "Learn",
+      "hv": "Gūrēñagon",
+      "status": "atteste"
+    },
+    {
+      "key": "nav.about",
+      "fr": "À propos de cette bibliothèque",
+      "en": "About this library",
+      "hv": "Keso jāelio bē",
+      "status": "editorial"
+    },
+    {
+      "key": "action.enter",
+      "fr": "Entrer",
+      "en": "Enter",
+      "hv": "Majēbās",
+      "status": "derive"
+    },
+    {
+      "key": "action.explore",
+      "fr": "Explorer",
+      "en": "Explore",
+      "hv": "Jokorjās",
+      "status": "derive"
+    },
+    {
+      "key": "action.read",
+      "fr": "Lire",
+      "en": "Read",
+      "hv": "Pikībās",
+      "status": "derive"
+    },
+    {
+      "key": "action.next",
+      "fr": "Suivant",
+      "en": "Next",
+      "hv": "Hembār",
+      "status": "atteste"
+    },
+    {
+      "key": "action.previous",
+      "fr": "Précédent",
+      "en": "Previous",
+      "hv": "Gōnka",
+      "status": "atteste"
+    },
+    {
+      "key": "action.close",
+      "fr": "Fermer",
+      "en": "Close",
+      "hv": "Bēmās",
+      "status": "derive"
+    },
+    {
+      "key": "action.search",
+      "fr": "Chercher",
+      "en": "Search",
+      "hv": "Korjās",
+      "status": "derive"
+    },
+    {
+      "key": "action.back",
+      "fr": "Retour",
+      "en": "Back",
+      "hv": "Āmāzīs",
+      "status": "derive"
+    },
+    {
+      "key": "action.more",
+      "fr": "Davantage",
+      "en": "More",
+      "hv": "Tolī",
+      "status": "atteste"
+    },
+    {
+      "key": "action.open",
+      "fr": "Ouvrir",
+      "en": "Open",
+      "hv": "Drāmmās",
+      "status": "derive"
+    },
+    {
+      "key": "action.language",
+      "fr": "Langue",
+      "en": "Language",
+      "hv": "Ēngos",
+      "status": "atteste"
+    },
+    {
+      "key": "action.menu",
+      "fr": "Menu",
+      "en": "Menu",
+      "hv": "Iderenna",
+      "status": "editorial"
+    },
+    {
+      "key": "label.king",
+      "fr": "Roi",
+      "en": "King",
+      "hv": "Dārys",
+      "status": "atteste"
+    },
+    {
+      "key": "label.queen",
+      "fr": "Reine",
+      "en": "Queen",
+      "hv": "Dāria",
+      "status": "atteste"
+    },
+    {
+      "key": "label.prince",
+      "fr": "Prince",
+      "en": "Prince",
+      "hv": "Dārilaros",
+      "status": "atteste"
+    },
+    {
+      "key": "label.princess",
+      "fr": "Princesse",
+      "en": "Princess",
+      "hv": "Dārilaros",
+      "status": "atteste"
+    },
+    {
+      "key": "label.dragon",
+      "fr": "Dragon",
+      "en": "Dragon",
+      "hv": "Zaldrīzes",
+      "status": "atteste"
+    },
+    {
+      "key": "label.rider",
+      "fr": "Dragonnier",
+      "en": "Dragonrider",
+      "hv": "Kipio",
+      "status": "atteste"
+    },
+    {
+      "key": "label.reign",
+      "fr": "Règne",
+      "en": "Reign",
+      "hv": "Jemēbagon",
+      "status": "atteste"
+    },
+    {
+      "key": "label.born",
+      "fr": "Né(e)",
+      "en": "Born",
+      "hv": "Sitta",
+      "status": "derive"
+    },
+    {
+      "key": "label.died",
+      "fr": "Mort(e)",
+      "en": "Died",
+      "hv": "Morghūltas",
+      "status": "atteste"
+    },
+    {
+      "key": "label.father",
+      "fr": "Père",
+      "en": "Father",
+      "hv": "Kepa",
+      "status": "atteste"
+    },
+    {
+      "key": "label.mother",
+      "fr": "Mère",
+      "en": "Mother",
+      "hv": "Muña",
+      "status": "atteste"
+    },
+    {
+      "key": "label.children",
+      "fr": "Enfants",
+      "en": "Children",
+      "hv": "Riñar",
+      "status": "atteste"
+    },
+    {
+      "key": "label.spouse",
+      "fr": "Époux / Épouse",
+      "en": "Spouse",
+      "hv": "Belmor",
+      "status": "atteste"
+    },
+    {
+      "key": "label.brother",
+      "fr": "Frère",
+      "en": "Brother",
+      "hv": "Lēkia",
+      "status": "atteste"
+    },
+    {
+      "key": "label.sister",
+      "fr": "Sœur",
+      "en": "Sister",
+      "hv": "Hāedar",
+      "status": "atteste"
+    },
+    {
+      "key": "label.house",
+      "fr": "Maison",
+      "en": "House",
+      "hv": "Lentor",
+      "status": "atteste"
+    },
+    {
+      "key": "label.year",
+      "fr": "Année",
+      "en": "Year",
+      "hv": "Jēda",
+      "status": "atteste"
+    },
+    {
+      "key": "label.age",
+      "fr": "Époque",
+      "en": "Era",
+      "hv": "Elēdris",
+      "status": "atteste"
+    },
+    {
+      "key": "label.battle",
+      "fr": "Bataille",
+      "en": "Battle",
+      "hv": "Vīlībāzma",
+      "status": "atteste"
+    },
+    {
+      "key": "label.war",
+      "fr": "Guerre",
+      "en": "War",
+      "hv": "Vīlībāzma",
+      "status": "atteste"
+    },
+    {
+      "key": "label.place",
+      "fr": "Lieu",
+      "en": "Place",
+      "hv": "Ālion",
+      "status": "atteste"
+    },
+    {
+      "key": "label.word",
+      "fr": "Mot",
+      "en": "Word",
+      "hv": "Udir",
+      "status": "atteste"
+    },
+    {
+      "key": "label.meaning",
+      "fr": "Sens",
+      "en": "Meaning",
+      "hv": "Nūmāzma",
+      "status": "atteste"
+    },
+    {
+      "key": "label.fire",
+      "fr": "Feu",
+      "en": "Fire",
+      "hv": "Perzys",
+      "status": "atteste"
+    },
+    {
+      "key": "label.blood",
+      "fr": "Sang",
+      "en": "Blood",
+      "hv": "Ānogar",
+      "status": "atteste"
+    },
+    {
+      "key": "label.source",
+      "fr": "Source",
+      "en": "Source",
+      "hv": "Tembyr",
+      "status": "editorial"
+    },
+    {
+      "key": "phrase.valar_morghulis",
+      "fr": "Tous les hommes doivent mourir",
+      "en": "All men must die",
+      "hv": "Valar morghūlis",
+      "status": "atteste"
+    },
+    {
+      "key": "phrase.valar_dohaeris",
+      "fr": "Tous les hommes doivent servir",
+      "en": "All men must serve",
+      "hv": "Valar dohaeris",
+      "status": "atteste"
+    },
+    {
+      "key": "phrase.motto",
+      "fr": "Feu et Sang",
+      "en": "Fire and Blood",
+      "hv": "Perzys Ānogār",
+      "status": "atteste"
+    },
+    {
+      "key": "title.house",
+      "fr": "La Maison Targaryen",
+      "en": "House Targaryen",
+      "hv": "Targārio Lentor",
+      "status": "derive"
+    },
+    {
+      "key": "title.site",
+      "fr": "Les Chroniques de la Maison Targaryen",
+      "en": "The Chronicles of House Targaryen",
+      "hv": "Targārio Lentro Vestriarja",
+      "status": "editorial"
+    },
+    {
+      "key": "title.library",
+      "fr": "La Bibliothèque de Valyria",
+      "en": "The Library of Valyria",
+      "hv": "Tembyroti Jāelion Valyrio",
+      "status": "editorial"
+    },
+    {
+      "key": "phrase.loading",
+      "fr": "Patientez…",
+      "en": "Wait…",
+      "hv": "Umbās",
+      "status": "atteste"
+    },
+    {
+      "key": "phrase.not_found",
+      "fr": "Ceci n’existe pas.",
+      "en": "This does not exist.",
+      "hv": "Kesir ilos daor.",
+      "status": "editorial"
+    },
+    {
+      "key": "phrase.welcome",
+      "fr": "Entre, et apprends l’histoire des dragons.",
+      "en": "Enter, and learn the story of the dragons.",
+      "hv": "Majēbās, se zaldrīzoti vestriarzir gūrēñās.",
+      "status": "editorial"
+    },
+    {
+      "key": "text.portal_intro",
+      "fr": "Ici se trouve l’histoire de la Maison Targaryen. Des rois et des dragons sont ici. Reste, et apprends.",
+      "en": "Here lies the story of House Targaryen. Kings and dragons are here. Stay, and learn.",
+      "hv": "Kesīr Targārio Lentro vestriarzir ilza. Dāryssy se zaldrīzesse kesīr ilzi. Umbās, se gūrēñās.",
+      "status": "editorial"
+    },
+    {
+      "key": "error.notFound.title",
+      "fr": "Page introuvable",
+      "en": "Page not found"
+    },
+    {
+      "key": "error.notFound.body",
+      "fr": "Les archives ne conservent rien à cette adresse. Le lien est peut-être fautif, ou la page a été déplacée. Le portail mène à toutes les salles.",
+      "en": "The archives hold nothing at this address. The link may be faulty, or the page may have been moved. The gateway leads to every room."
+    },
+    {
+      "key": "error.boundary.title",
+      "fr": "Cette page n’a pas pu s’afficher",
+      "en": "This page could not be displayed"
+    },
+    {
+      "key": "error.boundary.body",
+      "fr": "Une erreur s’est produite pendant l’affichage. Le reste de la bibliothèque n’est pas touché. Réessayez, ou revenez au portail.",
+      "en": "An error occurred while displaying this page. The rest of the library is unaffected. Try again, or return to the gateway."
+    },
+    {
+      "key": "error.boundary.retry",
+      "fr": "Réessayer",
+      "en": "Try again"
+    },
+    {
+      "key": "a11y.skipToContent",
+      "fr": "Aller au contenu",
+      "en": "Skip to content"
+    },
+    {
+      "key": "a11y.languageSwitch",
+      "fr": "Langue d’affichage",
+      "en": "Display language"
+    },
+    {
+      "key": "a11y.supportSwitch",
+      "fr": "Langue d’appui : récit et gloses",
+      "en": "Support language: narrative and glosses"
+    },
+    {
+      "key": "label.unknownDate",
+      "fr": "date inconnue",
+      "en": "date unknown"
+    },
+    {
+      "key": "label.sources",
+      "fr": "Sources",
+      "en": "Sources"
+    },
+    {
+      "key": "label.reliability",
+      "fr": "Fiabilité",
+      "en": "Reliability"
+    },
+    {
+      "key": "label.continuity.books",
+      "fr": "Livres",
+      "en": "Books"
+    },
+    {
+      "key": "label.continuity.show",
+      "fr": "Adaptation télévisée",
+      "en": "Television adaptation"
+    },
+    {
+      "key": "lang.hv",
+      "fr": "Haut valyrien",
+      "en": "High Valyrian"
+    },
+    {
+      "key": "lang.fr",
+      "fr": "Français",
+      "en": "French"
+    },
+    {
+      "key": "lang.en",
+      "fr": "Anglais",
+      "en": "English"
+    },
+    {
+      "key": "era.ac",
+      "fr": "apr. C.",
+      "en": "AC"
+    },
+    {
+      "key": "era.bc",
+      "fr": "av. C.",
+      "en": "BC"
+    },
+    {
+      "key": "version.underConstruction",
+      "fr": "Version en cours de construction",
+      "en": "Version under construction"
+    },
+    {
+      "key": "compare.title",
+      "fr": "Comparer les trois versions",
+      "en": "Compare the three versions"
+    },
+    {
+      "key": "compare.intro",
+      "fr": "Le même fonds et les mêmes textes, mis en page de trois façons. Ouvrez chaque version et jugez sur pièces.",
+      "en": "The same collection and the same texts, laid out in three ways. Open each version and judge for yourself."
+    },
+    {
+      "key": "version.1.name",
+      "fr": "Le Codex",
+      "en": "The Codex"
+    },
+    {
+      "key": "version.2.name",
+      "fr": "La Table peinte",
+      "en": "The Painted Table"
+    },
+    {
+      "key": "version.3.name",
+      "fr": "L’Édition ultime",
+      "en": "The Definitive Edition"
+    },
+    {
+      "key": "seuil.skip",
+      "fr": "Passer l'ouverture",
+      "en": "Skip the opening"
+    },
+    {
+      "key": "seuil.replay",
+      "fr": "Revoir l'ouverture",
+      "en": "Replay the opening"
+    },
+    {
+      "key": "page.bati.spines.label",
+      "fr": "Les huit volumes",
+      "en": "The eight volumes"
+    },
+    {
+      "key": "page.bati.volume.numbered",
+      "fr": "Volume {n}",
+      "en": "Volume {n}"
+    },
+    {
+      "key": "page.bati.ribbons.label",
+      "fr": "Registres",
+      "en": "Registers"
+    },
+    {
+      "key": "page.bati.shelf.label",
+      "fr": "Étagère",
+      "en": "Shelf"
+    },
+    {
+      "key": "page.bati.shelf.volumes",
+      "fr": "Volumes",
+      "en": "Volumes"
+    },
+    {
+      "key": "page.bati.shelf.registers",
+      "fr": "Registres",
+      "en": "Registers"
+    },
+    {
+      "key": "page.bati.shelf.drawerVolumes",
+      "fr": "Les huit volumes de la chronique",
+      "en": "The eight volumes of the chronicle"
+    },
+    {
+      "key": "page.bati.shelf.drawerRegisters",
+      "fr": "Les registres de la bibliothèque",
+      "en": "The registers of the library"
+    },
+    {
+      "key": "page.bati.shelf.drawerLanguage",
+      "fr": "Langues de lecture",
+      "en": "Reading languages"
+    },
+    {
+      "key": "page.bati.search.trigger",
+      "fr": "Chercher un nom, un dragon, un lieu",
+      "en": "Search for a name, a dragon, a place"
+    },
+    {
+      "key": "page.bati.search.title",
+      "fr": "Chercher dans la bibliothèque",
+      "en": "Search the library"
+    },
+    {
+      "key": "page.bati.search.placeholder",
+      "fr": "Aegon, Balerion, Harrenhal…",
+      "en": "Aegon, Balerion, Harrenhal…"
+    },
+    {
+      "key": "page.bati.search.idle",
+      "fr": "Tapez un nom, un lieu ou un mot valyrien. Les macrons sont facultatifs : « zaldrizes » trouve « zaldrīzes ».",
+      "en": "Type a name, a place or a Valyrian word. Macrons are optional: “zaldrizes” finds “zaldrīzes”."
+    },
+    {
+      "key": "page.bati.search.none",
+      "fr": "Rien ne répond à « {q} ». Vérifiez l’orthographe, ou cherchez un seul mot.",
+      "en": "Nothing answers to “{q}”. Check the spelling, or search for a single word."
+    },
+    {
+      "key": "page.bati.search.count.one",
+      "fr": "Une réponse",
+      "en": "One result"
+    },
+    {
+      "key": "page.bati.search.count.many",
+      "fr": "{n} réponses",
+      "en": "{n} results"
+    },
+    {
+      "key": "page.bati.search.more",
+      "fr": "et {n} de plus : précisez la recherche",
+      "en": "and {n} more: narrow the search"
+    },
+    {
+      "key": "page.bati.search.keys",
+      "fr": "Flèches pour parcourir, Entrée pour ouvrir, Échap pour fermer",
+      "en": "Arrows to move, Enter to open, Escape to close"
+    },
+    {
+      "key": "page.bati.search.kind.person",
+      "fr": "Personnes",
+      "en": "People"
+    },
+    {
+      "key": "page.bati.search.kind.dragon",
+      "fr": "Dragons",
+      "en": "Dragons"
+    },
+    {
+      "key": "page.bati.search.kind.event",
+      "fr": "Événements",
+      "en": "Events"
+    },
+    {
+      "key": "page.bati.search.kind.period",
+      "fr": "Volumes",
+      "en": "Volumes"
+    },
+    {
+      "key": "page.bati.search.kind.war",
+      "fr": "Guerres",
+      "en": "Wars"
+    },
+    {
+      "key": "page.bati.search.kind.battle",
+      "fr": "Batailles",
+      "en": "Battles"
+    },
+    {
+      "key": "page.bati.search.kind.place",
+      "fr": "Lieux",
+      "en": "Places"
+    },
+    {
+      "key": "page.bati.search.kind.word",
+      "fr": "Mots valyriens",
+      "en": "Valyrian words"
+    },
+    {
+      "key": "page.bati.search.kind.path",
+      "fr": "Parcours",
+      "en": "Learning paths"
+    },
+    {
+      "key": "page.bati.folio.leaf",
+      "fr": "volume {volume}, feuillet {leaf}",
+      "en": "volume {volume}, leaf {leaf}"
+    },
+    {
+      "key": "page.bati.folio.volume",
+      "fr": "volume {volume}",
+      "en": "volume {volume}"
+    },
+    {
+      "key": "page.bati.colophon.unofficial",
+      "fr": "Bibliothèque d’amateur, non officielle et non commerciale. Elle n’est liée ni à l’auteur, ni à ses éditeurs, ni aux producteurs des adaptations.",
+      "en": "An amateur library, unofficial and non-commercial. It is not affiliated with the author, his publishers or the producers of the adaptations."
+    },
+    {
+      "key": "page.bati.colophon.credits",
+      "fr": "L’univers est celui de George R. R. Martin ; le haut valyrien, celui de David J. Peterson.",
+      "en": "The world is George R. R. Martin’s; High Valyrian is David J. Peterson’s."
+    },
+    {
+      "key": "page.bati.colophon.type",
+      "fr": "Composé en Texturina, Grenze Gotisch, Alegreya et Alegreya Sans.",
+      "en": "Set in Texturina, Grenze Gotisch, Alegreya and Alegreya Sans."
+    },
+    {
+      "key": "page.bati.colophon.hallmark",
+      "fr": "Poinçon du relieur",
+      "en": "The binder’s hallmark"
+    },
+    {
+      "key": "page.bati.note.ref",
+      "fr": "Note {n}",
+      "en": "Note {n}"
+    },
+    {
+      "key": "page.bati.sources.unlisted",
+      "fr": "source non répertoriée",
+      "en": "unlisted source"
+    },
+    {
+      "key": "page.bati.time.label",
+      "fr": "Règle du temps, de {from} à {to}",
+      "en": "Time rule, from {from} to {to}"
+    },
+    {
+      "key": "page.bati.time.zone.legend",
+      "fr": "temps des légendes, échelle resserrée",
+      "en": "age of legend, compressed scale"
+    },
+    {
+      "key": "page.bati.time.zone.approach",
+      "fr": "avant la Conquête",
+      "en": "before the Conquest"
+    },
+    {
+      "key": "page.bati.time.zone.dynasty",
+      "fr": "la dynastie",
+      "en": "the dynasty"
+    },
+    {
+      "key": "page.bati.figure.number",
+      "fr": "Fig. {n}",
+      "en": "Fig. {n}"
+    },
+    {
+      "key": "page.bati.filter.label",
+      "fr": "Filtrer",
+      "en": "Filter"
+    },
+    {
+      "key": "page.bati.filter.count",
+      "fr": "{n} sur {total}",
+      "en": "{n} of {total}"
+    },
+    {
+      "key": "page.bati.filter.clear",
+      "fr": "Tout afficher",
+      "en": "Show all"
+    },
+    {
+      "key": "page.bati.filter.text",
+      "fr": "Filtrer par mot",
+      "en": "Filter by word"
+    },
+    {
+      "key": "page.bati.lang.short.hv",
+      "fr": "HV",
+      "en": "HV"
+    },
+    {
+      "key": "page.bati.lang.short.fr",
+      "fr": "FR",
+      "en": "FR"
+    },
+    {
+      "key": "page.bati.lang.short.en",
+      "fr": "EN",
+      "en": "EN"
+    },
+    {
+      "key": "page.bati.support.label",
+      "fr": "Gloses",
+      "en": "Glosses"
+    },
+    {
+      "key": "page.bati.title.lexicon",
+      "fr": "Lexique",
+      "en": "Lexicon"
+    },
+    {
+      "key": "page.bati.title.grammar",
+      "fr": "Grammaire",
+      "en": "Grammar"
+    },
+    {
+      "key": "page.bati.title.phrases",
+      "fr": "Expressions",
+      "en": "Phrases"
+    },
+    {
+      "key": "page.portal.open_first",
+      "fr": "Ouvrir le premier volume",
+      "en": "Open the first volume"
+    },
+    {
+      "key": "page.portal.all_volumes",
+      "fr": "Les huit volumes sur le ruban du temps",
+      "en": "The eight volumes on the ribbon of time"
+    },
+    {
+      "key": "page.portal.skip",
+      "fr": "Passer l’ouverture",
+      "en": "Skip the opening"
+    },
+    {
+      "key": "page.portal.curve.title",
+      "fr": "Dragons vivants",
+      "en": "Living dragons"
+    },
+    {
+      "key": "page.portal.curve.span",
+      "fr": "de {from} à {to}",
+      "en": "from {from} to {to}"
+    },
+    {
+      "key": "page.portal.curve.lead",
+      "fr": "La courbe compte, année après année, les dragons dont les livres attestent la vie. Elle monte lentement pendant plus de deux siècles, culmine à {peak} en {peakYear}, au plus fort de la Danse, et s’effondre en un an. Après {extinction}, les livres ne connaissent plus aucun dragon vivant ; en {return}, trois naissent en Essos.",
+      "en": "The curve counts, year after year, the dragons whose lives the books attest. It rises slowly for more than two centuries, peaks at {peak} in {peakYear}, at the height of the Dance, and collapses within a year. After {extinction}, the books know of no living dragon; in {return}, three are born in Essos."
+    },
+    {
+      "key": "page.portal.curve.label",
+      "fr": "Nombre de dragons vivants par année. Choisir une année",
+      "en": "Number of living dragons by year. Choose a year"
+    },
+    {
+      "key": "page.portal.curve.axis",
+      "fr": "dragons vivants",
+      "en": "living dragons"
+    },
+    {
+      "key": "page.portal.curve.caption",
+      "fr": "Trait plein : chaque dragon compte de sa naissance, ou à défaut de sa première monte ou de sa première mention dans les annales, jusqu’à sa mort. Pointillé : dragons dont la fin n’est pas datée, comptés après leur dernière mention et au plus tard jusqu’en {extinction}, année où meurt le dernier dragon.",
+      "en": "Solid line: each dragon counts from its birth, or failing that its first ride or first mention in the annals, until its death. Dotted line: dragons whose end is not dated, counted after their last mention and at most until {extinction}, the year the last dragon dies."
+    },
+    {
+      "key": "page.portal.curve.uncounted",
+      "fr": "Non comptés, faute de toute date : {names}.",
+      "en": "Not counted, for lack of any date: {names}."
+    },
+    {
+      "key": "page.portal.curve.hint",
+      "fr": "Touchez ou survolez la courbe ; au clavier, les flèches la parcourent année par année.",
+      "en": "Touch or hover over the curve; with the keyboard, the arrow keys step through it year by year."
+    },
+    {
+      "key": "page.portal.curve.readout.none",
+      "fr": "aucun dragon dont la vie soit datée",
+      "en": "no dragon whose life is dated"
+    },
+    {
+      "key": "page.portal.curve.readout.one",
+      "fr": "un dragon",
+      "en": "one dragon"
+    },
+    {
+      "key": "page.portal.curve.readout.many",
+      "fr": "{n} dragons",
+      "en": "{n} dragons"
+    },
+    {
+      "key": "page.portal.curve.readout.doubt",
+      "fr": "et peut-être {names}, dont la fin n’est pas datée",
+      "en": "and perhaps {names}, whose end is not dated"
+    },
+    {
+      "key": "page.portal.curve.annot.departure",
+      "fr": "départ pour Peyredragon",
+      "en": "departure for Dragonstone"
+    },
+    {
+      "key": "page.portal.curve.annot.conquest",
+      "fr": "la Conquête",
+      "en": "the Conquest"
+    },
+    {
+      "key": "page.portal.curve.annot.dance",
+      "fr": "la Danse des Dragons",
+      "en": "the Dance of the Dragons"
+    },
+    {
+      "key": "page.portal.curve.annot.last",
+      "fr": "mort du dernier dragon",
+      "en": "death of the last dragon"
+    },
+    {
+      "key": "page.portal.curve.annot.return",
+      "fr": "trois dragons naissent",
+      "en": "three dragons are born"
+    },
+    {
+      "key": "page.portal.curve.valyria",
+      "fr": "Valyria : dragons jamais dénombrés",
+      "en": "Valyria: dragons never counted"
+    },
+    {
+      "key": "page.portal.volumes.title",
+      "fr": "Les huit volumes",
+      "en": "The eight volumes"
+    },
+    {
+      "key": "page.portal.registers.title",
+      "fr": "Les registres",
+      "en": "The registers"
+    },
+    {
+      "key": "page.portal.reg.lignee",
+      "fr": "L’arbre du sang, d’Aenar à Daenerys : filiations, unions, et ces mariages entre frère et sœur qui referment les branches sur elles-mêmes.",
+      "en": "The tree of blood, from Aenar to Daenerys: descent, unions, and the marriages of brother and sister that fold the branches back on themselves."
+    },
+    {
+      "key": "page.portal.reg.personnages",
+      "fr": "Une notice par personne : rois et reines, prétendants, cavaliers de dragon, bâtards légitimés ou non.",
+      "en": "One entry per person: kings and queens, claimants, dragonriders, bastards legitimised or not."
+    },
+    {
+      "key": "page.portal.reg.dragons",
+      "fr": "{n} dragons, dessinés d’après ce que les livres en disent, et marqués là où ils se taisent.",
+      "en": "{n} dragons, drawn from what the books say of them, and marked where they fall silent."
+    },
+    {
+      "key": "page.portal.reg.guerres",
+      "fr": "Les conflits de la dynastie, leurs camps, leurs batailles, et les dragons qu’ils ont coûtés.",
+      "en": "The dynasty’s conflicts, their sides, their battles, and the dragons they cost."
+    },
+    {
+      "key": "page.portal.reg.lieux",
+      "fr": "La carte gravée de Westeros et de l’ouest d’Essos, et les lieux où la dynastie a laissé sa trace.",
+      "en": "The engraved map of Westeros and western Essos, and the places where the dynasty left its mark."
+    },
+    {
+      "key": "page.portal.reg.langue",
+      "fr": "Le haut valyrien de David J. Peterson : lexique, grammaire, formules, et le statut de chaque forme.",
+      "en": "David J. Peterson’s High Valyrian: lexicon, grammar, formulas, and the status of every form."
+    },
+    {
+      "key": "page.portal.reg.apprendre",
+      "fr": "Des parcours pour apprendre la dynastie dans l’ordre, et des questions pour s’en souvenir.",
+      "en": "Paths for learning the dynasty in order, and questions to remember it by."
+    },
+    {
+      "key": "page.portal.reg.sources",
+      "fr": "Les ouvrages cités, ce que vaut chacun, et les cinq degrés de certitude.",
+      "en": "The works cited, what each is worth, and the five degrees of certainty."
+    },
+    {
+      "key": "page.chronicles.lead",
+      "fr": "Huit volumes, du temps où Valyria domptait ses premiers dragons à l’an 300 après la Conquête. Sur la règle, les siècles d’avant le départ pour Peyredragon sont resserrés : on en sait trop peu pour leur rendre leur longueur.",
+      "en": "Eight volumes, from the time when Valyria tamed its first dragons to the year 300 after the Conquest. On the rule, the centuries before the departure for Dragonstone are compressed: too little is known of them to give them their full length."
+    },
+    {
+      "key": "page.chronicles.ribbon.label",
+      "fr": "Ruban du temps : dragons vivants, volumes et règnes, de {from} à {to}",
+      "en": "Ribbon of time: living dragons, volumes and reigns, from {from} to {to}"
+    },
+    {
+      "key": "page.chronicles.ribbon.caption",
+      "fr": "En haut, les dragons vivants ; au milieu, les huit volumes, qui se chevauchent là où deux récits se recouvrent ; en bas, les règnes, à l’or, et sur un second rang la reine que les listes officielles ne comptent pas. Avant {pivot}, l’échelle est resserrée.",
+      "en": "At the top, the living dragons; in the middle, the eight volumes, overlapping where two narratives cover the same years; at the bottom, the reigns, in gold, with the queen the official lists do not count on a second row. Before {pivot}, the scale is compressed."
+    },
+    {
+      "key": "page.chronicles.ribbon.dragons",
+      "fr": "dragons",
+      "en": "dragons"
+    },
+    {
+      "key": "page.chronicles.ribbon.volumes",
+      "fr": "volumes",
+      "en": "volumes"
+    },
+    {
+      "key": "page.chronicles.ribbon.reigns",
+      "fr": "règnes",
+      "en": "reigns"
+    },
+    {
+      "key": "page.chronicles.list.title",
+      "fr": "Table des volumes",
+      "en": "Table of volumes"
+    },
+    {
+      "key": "page.chronicles.volume.events",
+      "fr": "{n} événements",
+      "en": "{n} events"
+    },
+    {
+      "key": "page.chronicles.volume.essay",
+      "fr": "récit en {n} sections",
+      "en": "narrative in {n} sections"
+    },
+    {
+      "key": "page.chronicles.volume.annals",
+      "fr": "annales seules",
+      "en": "annals only"
+    },
+    {
+      "key": "page.period.essay.pending",
+      "fr": "Le récit suivi de ce volume n’est pas encore écrit. Les annales en donnent déjà la trame, événement par événement, chacun daté, situé et sourcé.",
+      "en": "The continuous narrative of this volume is not yet written. The annals already give its outline, event by event, each dated, placed and sourced."
+    },
+    {
+      "key": "page.period.rule.label",
+      "fr": "Les événements du volume sur la règle du temps",
+      "en": "The volume’s events on the time rule"
+    },
+    {
+      "key": "page.period.annals.title",
+      "fr": "Annales",
+      "en": "Annals"
+    },
+    {
+      "key": "page.period.annals.lead",
+      "fr": "Les événements du volume dans l’ordre du temps. Chaque entrée porte la marque de sa certitude ; le titre ouvre la notice entière.",
+      "en": "The volume’s events in order of time. Each entry bears the mark of its certainty; the title opens the full entry."
+    },
+    {
+      "key": "page.period.filter.label",
+      "fr": "Filtrer les annales",
+      "en": "Filter the annals"
+    },
+    {
+      "key": "page.period.filter.people",
+      "fr": "Personnes",
+      "en": "People"
+    },
+    {
+      "key": "page.period.filter.dragons",
+      "fr": "Dragons",
+      "en": "Dragons"
+    },
+    {
+      "key": "page.period.filter.reliability",
+      "fr": "Certitude",
+      "en": "Certainty"
+    },
+    {
+      "key": "page.period.annals.empty",
+      "fr": "Aucun événement ne répond à ces filtres",
+      "en": "No event matches these filters"
+    },
+    {
+      "key": "page.period.annals.emptyBody",
+      "fr": "Retirez un filtre, ou cherchez un autre mot.",
+      "en": "Remove a filter, or search for another word."
+    },
+    {
+      "key": "page.period.consequence",
+      "fr": "Ce que cela change",
+      "en": "What it changed"
+    },
+    {
+      "key": "page.period.questions.title",
+      "fr": "Questions ouvertes",
+      "en": "Open questions"
+    },
+    {
+      "key": "page.period.questions.lead",
+      "fr": "Ce que les livres parus ne tranchent pas. Ce qui est établi, ce que supposent les lecteurs et ce qu’affirme l’adaptation sont tenus séparés.",
+      "en": "What the published books leave unresolved. What is established, what readers suppose and what the adaptation asserts are kept apart."
+    },
+    {
+      "key": "page.period.q.established",
+      "fr": "Ce qui est établi",
+      "en": "What is established"
+    },
+    {
+      "key": "page.period.q.hypothesis",
+      "fr": "Ce que supposent les lecteurs",
+      "en": "What readers suppose"
+    },
+    {
+      "key": "page.period.q.adaptation",
+      "fr": "Ce qu’affirme l’adaptation",
+      "en": "What the adaptation asserts"
+    },
+    {
+      "key": "page.period.nav.label",
+      "fr": "Volumes voisins",
+      "en": "Neighbouring volumes"
+    },
+    {
+      "key": "page.period.prev",
+      "fr": "Volume précédent",
+      "en": "Previous volume"
+    },
+    {
+      "key": "page.period.next",
+      "fr": "Volume suivant",
+      "en": "Next volume"
+    },
+    {
+      "key": "page.period.adaptation",
+      "fr": "adaptation",
+      "en": "adaptation"
+    },
+    {
+      "key": "page.event.in_volume",
+      "fr": "Volume {n}",
+      "en": "Volume {n}"
+    },
+    {
+      "key": "page.event.approx",
+      "fr": "vers",
+      "en": "c."
+    },
+    {
+      "key": "page.event.date.approximative",
+      "fr": "date approchée",
+      "en": "approximate date"
+    },
+    {
+      "key": "page.event.date.inconnue",
+      "fr": "les sources ne donnent pas d’année",
+      "en": "the sources give no year"
+    },
+    {
+      "key": "page.event.people",
+      "fr": "Personnes",
+      "en": "People"
+    },
+    {
+      "key": "page.event.dragons",
+      "fr": "Dragons",
+      "en": "Dragons"
+    },
+    {
+      "key": "page.event.places",
+      "fr": "Lieux",
+      "en": "Places"
+    },
+    {
+      "key": "page.event.reliability",
+      "fr": "Certitude",
+      "en": "Certainty"
+    },
+    {
+      "key": "page.event.sources",
+      "fr": "Sources",
+      "en": "Sources"
+    },
+    {
+      "key": "page.event.continuity.adaptation",
+      "fr": "Cet événement n’appartient qu’à l’adaptation télévisée ; les livres ne le racontent pas.",
+      "en": "This event belongs only to the television adaptation; the books do not tell it."
+    },
+    {
+      "key": "page.event.rule.label",
+      "fr": "L’événement parmi ceux de son volume",
+      "en": "The event among those of its volume"
+    },
+    {
+      "key": "page.event.nav.label",
+      "fr": "Événements voisins",
+      "en": "Neighbouring events"
+    },
+    {
+      "key": "page.event.prev",
+      "fr": "Événement précédent",
+      "en": "Previous event"
+    },
+    {
+      "key": "page.event.next",
+      "fr": "Événement suivant",
+      "en": "Next event"
+    },
+    {
+      "key": "page.lignee.intro",
+      "fr": "{n} personnes sur {generations} générations, d’Aenar l’Exilé à Daenerys du Typhon.",
+      "en": "{n} people across {generations} generations, from Aenar the Exile to Daenerys Stormborn."
+    },
+    {
+      "key": "page.lignee.stage.label",
+      "fr": "Arbre de la Maison Targaryen : glisser pour déplacer, molette ou pincement pour agrandir.",
+      "en": "Tree of House Targaryen: drag to move, scroll or pinch to zoom."
+    },
+    {
+      "key": "page.lignee.stage.role",
+      "fr": "rouleau généalogique",
+      "en": "genealogical roll"
+    },
+    {
+      "key": "page.lignee.rail.circa",
+      "fr": "v. {year}",
+      "en": "c. {year}"
+    },
+    {
+      "key": "page.lignee.zoom.in",
+      "fr": "Agrandir",
+      "en": "Zoom in"
+    },
+    {
+      "key": "page.lignee.zoom.out",
+      "fr": "Réduire",
+      "en": "Zoom out"
+    },
+    {
+      "key": "page.lignee.zoom.recenter",
+      "fr": "Recentrer",
+      "en": "Recentre"
+    },
+    {
+      "key": "page.lignee.zoom.all",
+      "fr": "Tout l’arbre",
+      "en": "Whole tree"
+    },
+    {
+      "key": "page.lignee.loops",
+      "fr": "Boucles du sang",
+      "en": "Loops of blood"
+    },
+    {
+      "key": "page.lignee.mode.label",
+      "fr": "Présentation de la lignée",
+      "en": "Lineage view"
+    },
+    {
+      "key": "page.lignee.mode.thread",
+      "fr": "Le fil",
+      "en": "The thread"
+    },
+    {
+      "key": "page.lignee.mode.tree",
+      "fr": "L’arbre entier",
+      "en": "The whole tree"
+    },
+    {
+      "key": "page.lignee.thread.label",
+      "fr": "Le fil de la filiation directe, d’Aenar à Daenerys",
+      "en": "The direct line of descent, from Aenar to Daenerys"
+    },
+    {
+      "key": "page.lignee.crowned",
+      "fr": "a porté la couronne",
+      "en": "wore the crown"
+    },
+    {
+      "key": "page.lignee.search.label",
+      "fr": "Chercher une personne",
+      "en": "Find a person"
+    },
+    {
+      "key": "page.lignee.search.placeholder",
+      "fr": "Un nom, un surnom",
+      "en": "A name, an epithet"
+    },
+    {
+      "key": "page.lignee.search.none",
+      "fr": "Personne de ce nom dans l’arbre.",
+      "en": "No one by that name in the tree."
+    },
+    {
+      "key": "page.lignee.search.count",
+      "fr": "{n} personnes trouvées.",
+      "en": "{n} people found."
+    },
+    {
+      "key": "page.lignee.panel.close",
+      "fr": "Fermer le volet",
+      "en": "Close the panel"
+    },
+    {
+      "key": "page.lignee.panel.reign",
+      "fr": "règne {span}",
+      "en": "reigned {span}"
+    },
+    {
+      "key": "page.lignee.panel.parents",
+      "fr": "Parents",
+      "en": "Parents"
+    },
+    {
+      "key": "page.lignee.panel.noParents",
+      "fr": "Les sources ne nomment pas ses parents.",
+      "en": "The sources do not name the parents."
+    },
+    {
+      "key": "page.lignee.panel.parentsKin",
+      "fr": "Ses parents sont liés par le sang : l’un est pour l’autre {kin}.",
+      "en": "The parents were kin by blood: one was the other’s {kin}."
+    },
+    {
+      "key": "page.lignee.panel.alleged",
+      "fr": "Filiation discutée : certains lui donnent pour père {name}.",
+      "en": "Disputed parentage: some name {name} as the father."
+    },
+    {
+      "key": "page.lignee.panel.unions",
+      "fr": "Unions et enfants",
+      "en": "Unions and children"
+    },
+    {
+      "key": "page.lignee.panel.unknownPartner",
+      "fr": "conjoint inconnu",
+      "en": "unknown partner"
+    },
+    {
+      "key": "page.lignee.panel.childrenOf",
+      "fr": "Enfants nés de cette union {name}",
+      "en": "Children of this union {name}"
+    },
+    {
+      "key": "page.lignee.panel.noChildren",
+      "fr": "Aucun enfant connu.",
+      "en": "No known children."
+    },
+    {
+      "key": "page.lignee.panel.siblings",
+      "fr": "Fratrie",
+      "en": "Siblings"
+    },
+    {
+      "key": "page.lignee.panel.read",
+      "fr": "Lire la fiche de {name}",
+      "en": "Read the entry on {name}"
+    },
+    {
+      "key": "page.lignee.panel.centerOn",
+      "fr": "Centrer l’arbre sur {name}",
+      "en": "Centre the tree on {name}"
+    },
+    {
+      "key": "page.lignee.and",
+      "fr": "et",
+      "en": "and"
+    },
+    {
+      "key": "page.lignee.union.mariage",
+      "fr": "x",
+      "en": "m."
+    },
+    {
+      "key": "page.lignee.union.liaison",
+      "fr": "liaison",
+      "en": "liaison"
+    },
+    {
+      "key": "page.lignee.union.fiancailles",
+      "fr": "fiançailles",
+      "en": "betrothed"
+    },
+    {
+      "key": "page.lignee.union.none",
+      "fr": "avec",
+      "en": "with"
+    },
+    {
+      "key": "page.lignee.coefficient",
+      "fr": "coefficient de parenté {value}",
+      "en": "coefficient of relationship {value}"
+    },
+    {
+      "key": "page.lignee.sonOf",
+      "fr": "fils de",
+      "en": "son of"
+    },
+    {
+      "key": "page.lignee.daughterOf",
+      "fr": "fille de",
+      "en": "daughter of"
+    },
+    {
+      "key": "page.lignee.key.title",
+      "fr": "Clé du rouleau",
+      "en": "Key to the roll"
+    },
+    {
+      "key": "page.lignee.key.ruling",
+      "fr": "Le sang de la couronne : la filiation par laquelle le trône passe d’un souverain à l’autre",
+      "en": "The blood of the crown: the line through which the throne passes from one sovereign to the next"
+    },
+    {
+      "key": "page.lignee.key.filiation",
+      "fr": "Filiation",
+      "en": "Descent"
+    },
+    {
+      "key": "page.lignee.key.doubt",
+      "fr": "Filiation contestée ou légendaire",
+      "en": "Disputed or legendary descent"
+    },
+    {
+      "key": "page.lignee.key.union",
+      "fr": "Mariage",
+      "en": "Marriage"
+    },
+    {
+      "key": "page.lignee.key.liaison",
+      "fr": "Liaison",
+      "en": "Liaison"
+    },
+    {
+      "key": "page.lignee.key.blood",
+      "fr": "Union entre parents par le sang : le nœud referme une boucle de filiation",
+      "en": "Union between blood kin: the knot closes a loop of descent"
+    },
+    {
+      "key": "page.lignee.key.crowned",
+      "fr": "A porté la couronne",
+      "en": "Wore the crown"
+    },
+    {
+      "key": "page.lignee.key.alliance",
+      "fr": "Entré dans la famille par alliance",
+      "en": "Joined the family by marriage"
+    },
+    {
+      "key": "page.lignee.key.allianceSample",
+      "fr": "Alicent",
+      "en": "Alicent"
+    },
+    {
+      "key": "page.lignee.kin.self",
+      "fr": "la personne même",
+      "en": "the same person"
+    },
+    {
+      "key": "page.lignee.kin.none",
+      "fr": "aucun lien de sang connu",
+      "en": "no known blood tie"
+    },
+    {
+      "key": "page.lignee.kin.parent.m",
+      "fr": "père",
+      "en": "father"
+    },
+    {
+      "key": "page.lignee.kin.parent.f",
+      "fr": "mère",
+      "en": "mother"
+    },
+    {
+      "key": "page.lignee.kin.child.m",
+      "fr": "fils",
+      "en": "son"
+    },
+    {
+      "key": "page.lignee.kin.child.f",
+      "fr": "fille",
+      "en": "daughter"
+    },
+    {
+      "key": "page.lignee.kin.grandparent.m",
+      "fr": "grand-père",
+      "en": "grandfather"
+    },
+    {
+      "key": "page.lignee.kin.grandparent.f",
+      "fr": "grand-mère",
+      "en": "grandmother"
+    },
+    {
+      "key": "page.lignee.kin.grandchild.m",
+      "fr": "petit-fils",
+      "en": "grandson"
+    },
+    {
+      "key": "page.lignee.kin.grandchild.f",
+      "fr": "petite-fille",
+      "en": "granddaughter"
+    },
+    {
+      "key": "page.lignee.kin.greatGrandparent.m",
+      "fr": "arrière-grand-père",
+      "en": "great-grandfather"
+    },
+    {
+      "key": "page.lignee.kin.greatGrandparent.f",
+      "fr": "arrière-grand-mère",
+      "en": "great-grandmother"
+    },
+    {
+      "key": "page.lignee.kin.greatGrandchild.m",
+      "fr": "arrière-petit-fils",
+      "en": "great-grandson"
+    },
+    {
+      "key": "page.lignee.kin.greatGrandchild.f",
+      "fr": "arrière-petite-fille",
+      "en": "great-granddaughter"
+    },
+    {
+      "key": "page.lignee.kin.ancestor.m",
+      "fr": "ancêtre",
+      "en": "ancestor"
+    },
+    {
+      "key": "page.lignee.kin.ancestor.f",
+      "fr": "ancêtre",
+      "en": "ancestor"
+    },
+    {
+      "key": "page.lignee.kin.descendant.m",
+      "fr": "descendant",
+      "en": "descendant"
+    },
+    {
+      "key": "page.lignee.kin.descendant.f",
+      "fr": "descendante",
+      "en": "descendant"
+    },
+    {
+      "key": "page.lignee.kin.sibling.m",
+      "fr": "frère",
+      "en": "brother"
+    },
+    {
+      "key": "page.lignee.kin.sibling.f",
+      "fr": "sœur",
+      "en": "sister"
+    },
+    {
+      "key": "page.lignee.kin.halfSibling.m",
+      "fr": "demi-frère",
+      "en": "half-brother"
+    },
+    {
+      "key": "page.lignee.kin.halfSibling.f",
+      "fr": "demi-sœur",
+      "en": "half-sister"
+    },
+    {
+      "key": "page.lignee.kin.uncleAunt.m",
+      "fr": "oncle",
+      "en": "uncle"
+    },
+    {
+      "key": "page.lignee.kin.uncleAunt.f",
+      "fr": "tante",
+      "en": "aunt"
+    },
+    {
+      "key": "page.lignee.kin.nephewNiece.m",
+      "fr": "neveu",
+      "en": "nephew"
+    },
+    {
+      "key": "page.lignee.kin.nephewNiece.f",
+      "fr": "nièce",
+      "en": "niece"
+    },
+    {
+      "key": "page.lignee.kin.grandUncleAunt.m",
+      "fr": "grand-oncle",
+      "en": "great-uncle"
+    },
+    {
+      "key": "page.lignee.kin.grandUncleAunt.f",
+      "fr": "grand-tante",
+      "en": "great-aunt"
+    },
+    {
+      "key": "page.lignee.kin.grandNephewNiece.m",
+      "fr": "petit-neveu",
+      "en": "great-nephew"
+    },
+    {
+      "key": "page.lignee.kin.grandNephewNiece.f",
+      "fr": "petite-nièce",
+      "en": "great-niece"
+    },
+    {
+      "key": "page.lignee.kin.firstCousin.m",
+      "fr": "cousin germain",
+      "en": "first cousin"
+    },
+    {
+      "key": "page.lignee.kin.firstCousin.f",
+      "fr": "cousine germaine",
+      "en": "first cousin"
+    },
+    {
+      "key": "page.lignee.kin.secondCousin.m",
+      "fr": "cousin issu de germain",
+      "en": "second cousin"
+    },
+    {
+      "key": "page.lignee.kin.secondCousin.f",
+      "fr": "cousine issue de germaine",
+      "en": "second cousin"
+    },
+    {
+      "key": "page.lignee.kin.cousin.m",
+      "fr": "cousin éloigné",
+      "en": "distant cousin"
+    },
+    {
+      "key": "page.lignee.kin.cousin.f",
+      "fr": "cousine éloignée",
+      "en": "distant cousin"
+    },
+    {
+      "key": "page.lignee.kin.relative.m",
+      "fr": "parent par le sang",
+      "en": "blood relative"
+    },
+    {
+      "key": "page.lignee.kin.relative.f",
+      "fr": "parente par le sang",
+      "en": "blood relative"
+    },
+    {
+      "key": "page.lignee.kin.spouse.m",
+      "fr": "époux",
+      "en": "husband"
+    },
+    {
+      "key": "page.lignee.kin.spouse.f",
+      "fr": "épouse",
+      "en": "wife"
+    },
+    {
+      "key": "page.lignee.kin.lover.m",
+      "fr": "amant",
+      "en": "lover"
+    },
+    {
+      "key": "page.lignee.kin.lover.f",
+      "fr": "maîtresse",
+      "en": "lover"
+    },
+    {
+      "key": "page.lignee.kin.betrothed.m",
+      "fr": "fiancé",
+      "en": "betrothed"
+    },
+    {
+      "key": "page.lignee.kin.betrothed.f",
+      "fr": "fiancée",
+      "en": "betrothed"
+    },
+    {
+      "key": "page.lignee.zoom.label",
+      "fr": "Commandes du rouleau",
+      "en": "Roll controls"
+    },
+    {
+      "key": "page.lignee.key.loop",
+      "fr": "Boucle du sang : la filiation commune aux deux conjoints, montrée à la demande",
+      "en": "Loop of blood: the descent the two spouses share, shown on request"
+    },
+    {
+      "key": "page.people.lead",
+      "fr": "Les {n} personnes de la généalogie, de la Valyria d’avant le Fléau à la fin du récit. Chaque nom mène à sa fiche.",
+      "en": "The {n} people of the genealogy, from Valyria before the Doom to the end of the story. Each name leads to its entry."
+    },
+    {
+      "key": "page.people.legend",
+      "fr": "Signes de l’index",
+      "en": "Signs used in the index"
+    },
+    {
+      "key": "page.people.sign.crowned",
+      "fr": "a porté la couronne",
+      "en": "wore the crown"
+    },
+    {
+      "key": "page.people.sign.rider",
+      "fr": "a monté un dragon",
+      "en": "rode a dragon"
+    },
+    {
+      "key": "page.people.sign.biography",
+      "fr": "biographie rédigée",
+      "en": "full biography"
+    },
+    {
+      "key": "page.people.ribbon.label",
+      "fr": "Ruban des règnes, de la Conquête à la chute d’Aerys II",
+      "en": "Ribbon of reigns, from the Conquest to the fall of Aerys II"
+    },
+    {
+      "key": "page.people.ribbon.caption",
+      "fr": "Les dix-sept rois comptés et Rhaenyra, chacun sur la durée de son règne. Le chiffre gothique donne le rang dans la suite officielle ; le règne de Rhaenyra, disputé, court en rouge sous celui d’Aegon II.",
+      "en": "The seventeen counted kings and Rhaenyra, each across the length of the reign. The blackletter numeral gives the place in the official succession; Rhaenyra’s disputed reign runs in red beneath that of Aegon II."
+    },
+    {
+      "key": "page.people.sort.label",
+      "fr": "Classer",
+      "en": "Order"
+    },
+    {
+      "key": "page.people.sort.alpha",
+      "fr": "par nom",
+      "en": "by name"
+    },
+    {
+      "key": "page.people.sort.generation",
+      "fr": "par génération",
+      "en": "by generation"
+    },
+    {
+      "key": "page.people.sort.house",
+      "fr": "par maison",
+      "en": "by house"
+    },
+    {
+      "key": "page.people.filter.roles",
+      "fr": "Rôle",
+      "en": "Role"
+    },
+    {
+      "key": "page.people.filter.houses",
+      "fr": "Maison",
+      "en": "House"
+    },
+    {
+      "key": "page.people.role.crowned",
+      "fr": "souverains",
+      "en": "sovereigns"
+    },
+    {
+      "key": "page.people.role.queens",
+      "fr": "reines",
+      "en": "queens"
+    },
+    {
+      "key": "page.people.role.pretenders",
+      "fr": "prétendants",
+      "en": "claimants"
+    },
+    {
+      "key": "page.people.role.riders",
+      "fr": "cavaliers de dragon",
+      "en": "dragonriders"
+    },
+    {
+      "key": "page.people.role.bastards",
+      "fr": "bâtards",
+      "en": "bastards"
+    },
+    {
+      "key": "page.people.generation",
+      "fr": "Génération {n}",
+      "en": "Generation {n}"
+    },
+    {
+      "key": "page.people.empty.title",
+      "fr": "Personne ne répond à ces filtres.",
+      "en": "No one matches these filters."
+    },
+    {
+      "key": "page.people.empty.body",
+      "fr": "Retirez un filtre de rôle ou de maison pour élargir l’index.",
+      "en": "Remove a role or house filter to widen the index."
+    },
+    {
+      "key": "page.people.house.targaryen",
+      "fr": "Targaryen",
+      "en": "Targaryen"
+    },
+    {
+      "key": "page.people.house.velaryon",
+      "fr": "Velaryon",
+      "en": "Velaryon"
+    },
+    {
+      "key": "page.people.house.baratheon",
+      "fr": "Baratheon",
+      "en": "Baratheon"
+    },
+    {
+      "key": "page.people.house.hightower",
+      "fr": "Hightower",
+      "en": "Hightower"
+    },
+    {
+      "key": "page.people.house.harroway",
+      "fr": "Harroway",
+      "en": "Harroway"
+    },
+    {
+      "key": "page.people.house.aucune",
+      "fr": "sans maison",
+      "en": "no house"
+    },
+    {
+      "key": "page.people.house.costayne",
+      "fr": "Costayne",
+      "en": "Costayne"
+    },
+    {
+      "key": "page.people.house.westerling",
+      "fr": "Westerling",
+      "en": "Westerling"
+    },
+    {
+      "key": "page.people.house.farman",
+      "fr": "Farman",
+      "en": "Farman"
+    },
+    {
+      "key": "page.people.house.arryn",
+      "fr": "Arryn",
+      "en": "Arryn"
+    },
+    {
+      "key": "page.people.house.strong",
+      "fr": "Strong",
+      "en": "Strong"
+    },
+    {
+      "key": "page.people.house.royce",
+      "fr": "Royce",
+      "en": "Royce"
+    },
+    {
+      "key": "page.people.house.corbray",
+      "fr": "Corbray",
+      "en": "Corbray"
+    },
+    {
+      "key": "page.people.house.rogare",
+      "fr": "Rogare",
+      "en": "Rogare"
+    },
+    {
+      "key": "page.people.house.plumm",
+      "fr": "Plumm",
+      "en": "Plumm"
+    },
+    {
+      "key": "page.people.house.penrose",
+      "fr": "Penrose",
+      "en": "Penrose"
+    },
+    {
+      "key": "page.people.house.manwoody",
+      "fr": "Manwoody",
+      "en": "Manwoody"
+    },
+    {
+      "key": "page.people.house.martell",
+      "fr": "Martell",
+      "en": "Martell"
+    },
+    {
+      "key": "page.people.house.blackfyre",
+      "fr": "Feunoyr",
+      "en": "Blackfyre"
+    },
+    {
+      "key": "page.people.house.bracken",
+      "fr": "Bracken",
+      "en": "Bracken"
+    },
+    {
+      "key": "page.people.house.blackwood",
+      "fr": "Nerbosc",
+      "en": "Blackwood"
+    },
+    {
+      "key": "page.people.house.dondarrion",
+      "fr": "Dondarrion",
+      "en": "Dondarrion"
+    },
+    {
+      "key": "page.people.house.dayne",
+      "fr": "Dayne",
+      "en": "Dayne"
+    },
+    {
+      "key": "page.people.house.stark",
+      "fr": "Stark",
+      "en": "Stark"
+    },
+    {
+      "key": "page.people.house.loraq",
+      "fr": "Loraq",
+      "en": "Loraq"
+    },
+    {
+      "key": "page.people.house.others",
+      "fr": "autres maisons",
+      "en": "other houses"
+    },
+    {
+      "key": "page.person.house",
+      "fr": "Maison {house}",
+      "en": "House {house}"
+    },
+    {
+      "key": "page.person.alive.m",
+      "fr": "vivant à la fin du récit",
+      "en": "alive at the end of the story"
+    },
+    {
+      "key": "page.person.alive.f",
+      "fr": "vivante à la fin du récit",
+      "en": "alive at the end of the story"
+    },
+    {
+      "key": "page.person.datesUnknown",
+      "fr": "Les sources ne datent ni sa naissance ni sa mort.",
+      "en": "The sources date neither the birth nor the death."
+    },
+    {
+      "key": "page.person.reign",
+      "fr": "règne {span}",
+      "en": "reigned {span}"
+    },
+    {
+      "key": "page.person.claim",
+      "fr": "Prétention : {span}",
+      "en": "Claim: {span}"
+    },
+    {
+      "key": "page.person.inTree",
+      "fr": "Voir dans l’arbre",
+      "en": "See in the tree"
+    },
+    {
+      "key": "page.person.life.heading",
+      "fr": "Ligne de vie",
+      "en": "Lifeline"
+    },
+    {
+      "key": "page.person.life.label",
+      "fr": "Ligne de vie de {name} : naissance, règne, mort et événements des annales",
+      "en": "Lifeline of {name}: birth, reign, death and events from the annals"
+    },
+    {
+      "key": "page.person.life.noEvents",
+      "fr": "Les annales ne la font paraître dans aucun événement.",
+      "en": "The annals place this person in no event."
+    },
+    {
+      "key": "page.person.rule.born",
+      "fr": "naissance",
+      "en": "birth"
+    },
+    {
+      "key": "page.person.rule.died",
+      "fr": "mort",
+      "en": "death"
+    },
+    {
+      "key": "page.person.rule.crowned",
+      "fr": "couronnement",
+      "en": "crowning"
+    },
+    {
+      "key": "page.person.rule.reign",
+      "fr": "règne",
+      "en": "reign"
+    },
+    {
+      "key": "page.person.rule.claim",
+      "fr": "prétention",
+      "en": "claim"
+    },
+    {
+      "key": "page.person.kin.heading",
+      "fr": "Parenté",
+      "en": "Kinship"
+    },
+    {
+      "key": "page.person.kin.issue",
+      "fr": "d’où",
+      "en": "issue"
+    },
+    {
+      "key": "page.person.kin.siblings",
+      "fr": "fratrie",
+      "en": "siblings"
+    },
+    {
+      "key": "page.person.kin.alleged",
+      "fr": "père selon d’autres témoins :",
+      "en": "father according to other witnesses:"
+    },
+    {
+      "key": "page.person.notice.heading",
+      "fr": "Notice",
+      "en": "Notice"
+    },
+    {
+      "key": "page.person.notice.body",
+      "fr": "La biographie de {name} n’est pas encore rédigée. Ce que le registre établit tient dans la parenté et les annales ci-dessus.",
+      "en": "The biography of {name} has not yet been written. What the register establishes is in the kinship and the annals above."
+    },
+    {
+      "key": "page.person.dragons.one",
+      "fr": "Dragon monté",
+      "en": "Dragon ridden"
+    },
+    {
+      "key": "page.person.dragons.many",
+      "fr": "Dragons montés",
+      "en": "Dragons ridden"
+    },
+    {
+      "key": "page.person.doubt.heading",
+      "fr": "Ce que les sources ne tranchent pas",
+      "en": "What the sources leave open"
+    },
+    {
+      "key": "page.person.doubt.datesApprox",
+      "fr": "Les dates données ici sont approximatives : les sources ne les fixent qu’à quelques années près.",
+      "en": "The dates given here are approximate: the sources fix them only to within a few years."
+    },
+    {
+      "key": "page.person.doubt.datesUnknown",
+      "fr": "Les sources ne fixent pas ses dates.",
+      "en": "The sources do not fix the dates."
+    },
+    {
+      "key": "page.person.adaptation.heading",
+      "fr": "Ce que l’adaptation change",
+      "en": "What the adaptation changes"
+    },
+    {
+      "key": "page.dragons.lead",
+      "fr": "{n} dragons nommés par les chroniques, de Balerion, venu de Valyria, aux trois dragons de Daenerys. Les livres ne donnent aucune mesure : chaque envergure est rapportée à celle de Balerion.",
+      "en": "{n} dragons named by the chronicles, from Balerion, who came out of Valyria, to the three dragons of Daenerys. The books give no measurements: every wingspan is reckoned against Balerion’s."
+    },
+    {
+      "key": "page.dragons.scale.region",
+      "fr": "Échelle comparée des dragons, à faire défiler",
+      "en": "Comparative scale of the dragons, scrollable"
+    },
+    {
+      "key": "page.dragons.scale.title",
+      "fr": "Les dragons du registre à l’échelle de leur envergure, du plus grand au plus petit",
+      "en": "The dragons of the register drawn to the scale of their wingspans, largest to smallest"
+    },
+    {
+      "key": "page.dragons.scale.human",
+      "fr": "Un homme debout, pour l’échelle",
+      "en": "A standing man, for scale"
+    },
+    {
+      "key": "page.dragons.scale.caption",
+      "fr": "Les dragons vus du dessus, ailes ouvertes, rangés par envergure. L’homme debout, au bout de la bande, suppose quelque quatre-vingt-dix mètres d’envergure pour Balerion : c’est une hypothèse du musée, les livres n’en donnent aucune. Chaque nom mène à la planche du dragon.",
+      "en": "The dragons seen from above, wings open, ranked by wingspan. The standing man at the end of the strip assumes a wingspan of some ninety metres for Balerion: that is the museum’s hypothesis, the books give none. Each name leads to the dragon’s plate."
+    },
+    {
+      "key": "page.dragons.order",
+      "fr": "Le registre range chaque dragon à l’époque où les chroniques le nomment pour la première fois.",
+      "en": "The register places each dragon in the age when the chronicles first name it."
+    },
+    {
+      "key": "page.dragons.epoch.count",
+      "fr": "{n} dragons",
+      "en": "{n} dragons"
+    },
+    {
+      "key": "page.dragons.epoch.one",
+      "fr": "un dragon",
+      "en": "one dragon"
+    },
+    {
+      "key": "page.dragons.years.unknownAlive",
+      "fr": "éclosion et fin inconnues",
+      "en": "hatching and end unknown"
+    },
+    {
+      "key": "page.dragons.years.since",
+      "fr": "éclos en {year}",
+      "en": "hatched {year}"
+    },
+    {
+      "key": "page.dragons.years.until",
+      "fr": "mort en {year}",
+      "en": "died {year}"
+    },
+    {
+      "key": "page.dragons.riders.one",
+      "fr": "Cavalier :",
+      "en": "Rider:"
+    },
+    {
+      "key": "page.dragons.riders.many",
+      "fr": "Cavaliers :",
+      "en": "Riders:"
+    },
+    {
+      "key": "page.dragons.riders.and",
+      "fr": "et",
+      "en": "and"
+    },
+    {
+      "key": "page.dragons.riders.none",
+      "fr": "Jamais monté.",
+      "en": "Never ridden."
+    },
+    {
+      "key": "page.dragon.plate.title",
+      "fr": "{name}, vu du dessus, ailes ouvertes",
+      "en": "{name}, seen from above, wings open"
+    },
+    {
+      "key": "page.dragon.plate.caption",
+      "fr": "Planche coloriée d’après le texte des livres. Ce qu’ils ne décrivent pas reste au trait, comme la partie inconnue d’un spécimen ; les numéros renvoient à la légende.",
+      "en": "Plate coloured from the text of the books. What they do not describe is left in outline, like the unknown part of a specimen; the numbers refer to the key."
+    },
+    {
+      "key": "page.dragon.part.body",
+      "fr": "Écailles du corps",
+      "en": "Body scales"
+    },
+    {
+      "key": "page.dragon.part.wing",
+      "fr": "Membranes des ailes",
+      "en": "Wing membranes"
+    },
+    {
+      "key": "page.dragon.part.crest",
+      "fr": "Cornes et crête",
+      "en": "Horns and crest"
+    },
+    {
+      "key": "page.dragon.part.flame",
+      "fr": "Flamme",
+      "en": "Flame"
+    },
+    {
+      "key": "page.dragon.described",
+      "fr": "teinte décrite par les livres",
+      "en": "colour described in the books"
+    },
+    {
+      "key": "page.dragon.undescribed",
+      "fr": "non décrite par les livres",
+      "en": "not described in the books"
+    },
+    {
+      "key": "page.dragon.fly",
+      "fr": "Voir voler",
+      "en": "See it fly"
+    },
+    {
+      "key": "page.dragon.flying",
+      "fr": "En vol",
+      "en": "In flight"
+    },
+    {
+      "key": "page.dragon.span.heading",
+      "fr": "Envergure",
+      "en": "Wingspan"
+    },
+    {
+      "key": "page.dragon.span.ruler",
+      "fr": "Envergure de {name} : {value} de celle de Balerion",
+      "en": "Wingspan of {name}: {value} of Balerion’s"
+    },
+    {
+      "key": "page.dragon.span.balerion",
+      "fr": "Balerion",
+      "en": "Balerion"
+    },
+    {
+      "key": "page.dragon.span.value",
+      "fr": "L’envergure retenue vaut {value} de celle de Balerion.",
+      "en": "The wingspan shown is {value} of Balerion’s."
+    },
+    {
+      "key": "page.dragon.span.standard",
+      "fr": "L’étalon du registre : toutes les envergures se mesurent à la sienne.",
+      "en": "The standard of the register: every wingspan is measured against his."
+    },
+    {
+      "key": "page.dragon.span.attested",
+      "fr": "Les livres en disent la taille.",
+      "en": "The books speak of its size."
+    },
+    {
+      "key": "page.dragon.span.estimated",
+      "fr": "Les livres n’en disent pas la taille : l’ordre de grandeur est une estimation du musée.",
+      "en": "The books do not give its size: the order of magnitude is the museum’s estimate."
+    },
+    {
+      "key": "page.dragon.compare.title",
+      "fr": "{name} et Balerion à la même échelle, avec un homme debout",
+      "en": "{name} and Balerion to the same scale, with a standing man"
+    },
+    {
+      "key": "page.dragon.riders.heading",
+      "fr": "Cavaliers",
+      "en": "Riders"
+    },
+    {
+      "key": "page.dragon.riders.rule",
+      "fr": "Les cavaliers de {name} sur la règle du temps",
+      "en": "The riders of {name} on the rule of time"
+    },
+    {
+      "key": "page.dragon.rule.hatched",
+      "fr": "éclosion",
+      "en": "hatched"
+    },
+    {
+      "key": "page.dragon.rule.died",
+      "fr": "mort",
+      "en": "death"
+    },
+    {
+      "key": "page.dragon.origin.heading",
+      "fr": "Origine",
+      "en": "Origin"
+    },
+    {
+      "key": "page.dragon.appearance.heading",
+      "fr": "Robe",
+      "en": "Colouring"
+    },
+    {
+      "key": "page.dragon.appearance.none",
+      "fr": "Les livres ne décrivent pas sa robe.",
+      "en": "The books do not describe its colouring."
+    },
+    {
+      "key": "page.dragon.extra",
+      "fr": "Hors des livres : ce qu’en disent une illustration ou une indication de l’auteur.",
+      "en": "Outside the books: what an illustration or a remark by the author adds."
+    },
+    {
+      "key": "page.dragon.battles.heading",
+      "fr": "Batailles",
+      "en": "Battles"
+    },
+    {
+      "key": "page.dragon.fate.heading",
+      "fr": "Sort",
+      "en": "Fate"
+    },
+    {
+      "key": "page.dragon.adaptation.heading",
+      "fr": "Ce que l’adaptation change",
+      "en": "What the adaptation changes"
+    },
+    {
+      "key": "page.dragon.pager",
+      "fr": "D’une planche à l’autre",
+      "en": "From plate to plate"
+    },
+    {
+      "key": "page.dragon.previous",
+      "fr": "Planche précédente",
+      "en": "Previous plate"
+    },
+    {
+      "key": "page.dragon.next",
+      "fr": "Planche suivante",
+      "en": "Next plate"
+    },
+    {
+      "key": "page.dragon.back",
+      "fr": "Retour au registre",
+      "en": "Back to the register"
+    },
+    {
+      "key": "page.map.zoomIn",
+      "fr": "Approcher",
+      "en": "Zoom in"
+    },
+    {
+      "key": "page.map.zoomOut",
+      "fr": "Éloigner",
+      "en": "Zoom out"
+    },
+    {
+      "key": "page.map.reset",
+      "fr": "Recadrer",
+      "en": "Reset view"
+    },
+    {
+      "key": "page.map.help",
+      "fr": "Glisser pour se déplacer, pincer ou Ctrl et molette pour approcher. Au clavier : les flèches déplacent la carte, plus et moins changent l’échelle, zéro recadre. Chaque lieu est un lien.",
+      "en": "Drag to move, pinch or use Ctrl and the wheel to zoom. With the keyboard: the arrows move the map, plus and minus change the scale, zero resets it. Each place is a link."
+    },
+    {
+      "key": "page.places.lead",
+      "fr": "Westeros et l’ouest d’Essos, gravés d’après les livres. Les lieux portés sont ceux où la dynastie naît, règne, combat ou se perd ; chacun ouvre sa notice.",
+      "en": "Westeros and western Essos, engraved after the books. The places marked are those where the dynasty was born, ruled, fought or came undone; each opens its own entry."
+    },
+    {
+      "key": "page.places.filter.kind",
+      "fr": "Genre",
+      "en": "Kind"
+    },
+    {
+      "key": "page.places.map.title",
+      "fr": "Carte de Westeros et de l’ouest d’Essos",
+      "en": "Map of Westeros and western Essos"
+    },
+    {
+      "key": "page.places.map.caption",
+      "fr": "Tracé original, sans échelle : les livres ne donnent pas de distances sûres. Un rond plein marque une cité, un carré une forteresse, un rond cerclé une cité libre, un carré barré une ruine, une croix un champ de bataille.",
+      "en": "Original drawing, not to scale: the books give no reliable distances. A solid dot marks a city, a square a stronghold, a ringed dot a free city, a struck-through square a ruin, a cross a battlefield."
+    },
+    {
+      "key": "page.places.map.missing",
+      "fr": "La carte n’est pas encore gravée.",
+      "en": "The map has not been engraved yet."
+    },
+    {
+      "key": "page.places.map.missingBody",
+      "fr": "L’index des lieux reste consultable à côté.",
+      "en": "The index of places can still be read alongside."
+    },
+    {
+      "key": "page.places.index.label",
+      "fr": "Index des lieux",
+      "en": "Index of places"
+    },
+    {
+      "key": "page.places.empty",
+      "fr": "Aucun lieu de ce genre.",
+      "en": "No place of that kind."
+    },
+    {
+      "key": "page.places.registryMissing",
+      "fr": "Le registre des lieux n’est pas encore établi.",
+      "en": "The register of places has not been drawn up yet."
+    },
+    {
+      "key": "page.places.registryMissingBody",
+      "fr": "Voici les lieux que nomment les batailles, sans position sur la carte.",
+      "en": "Here are the places named by the battles, without a position on the map."
+    },
+    {
+      "key": "page.places.kind.cite",
+      "fr": "cité",
+      "en": "city"
+    },
+    {
+      "key": "page.places.kind.cite_libre",
+      "fr": "cité libre",
+      "en": "free city"
+    },
+    {
+      "key": "page.places.kind.forteresse",
+      "fr": "forteresse",
+      "en": "stronghold"
+    },
+    {
+      "key": "page.places.kind.ile",
+      "fr": "île",
+      "en": "island"
+    },
+    {
+      "key": "page.places.kind.ruine",
+      "fr": "ruine",
+      "en": "ruin"
+    },
+    {
+      "key": "page.places.kind.champ_de_bataille",
+      "fr": "champ de bataille",
+      "en": "battlefield"
+    },
+    {
+      "key": "page.places.kind.region",
+      "fr": "contrée",
+      "en": "land"
+    },
+    {
+      "key": "page.places.kinds.cite",
+      "fr": "Cités",
+      "en": "Cities"
+    },
+    {
+      "key": "page.places.kinds.cite_libre",
+      "fr": "Cités libres",
+      "en": "Free cities"
+    },
+    {
+      "key": "page.places.kinds.forteresse",
+      "fr": "Forteresses",
+      "en": "Strongholds"
+    },
+    {
+      "key": "page.places.kinds.ile",
+      "fr": "Îles",
+      "en": "Islands"
+    },
+    {
+      "key": "page.places.kinds.ruine",
+      "fr": "Ruines",
+      "en": "Ruins"
+    },
+    {
+      "key": "page.places.kinds.champ_de_bataille",
+      "fr": "Champs de bataille",
+      "en": "Battlefields"
+    },
+    {
+      "key": "page.places.kinds.region",
+      "fr": "Contrées",
+      "en": "Lands"
+    },
+    {
+      "key": "page.place.map.title",
+      "fr": "{name} sur la carte",
+      "en": "{name} on the map"
+    },
+    {
+      "key": "page.place.map.caption",
+      "fr": "La carte est recadrée sur {name} ; les lieux voisins y mènent aussi.",
+      "en": "The map is centred on {name}; the neighbouring places lead on as well."
+    },
+    {
+      "key": "page.place.role.heading",
+      "fr": "Ce que la dynastie lui doit",
+      "en": "What the dynasty owes it"
+    },
+    {
+      "key": "page.place.events.heading",
+      "fr": "Ce qui s’y passe",
+      "en": "What happened there"
+    },
+    {
+      "key": "page.place.battles.heading",
+      "fr": "Batailles livrées ici",
+      "en": "Battles fought here"
+    },
+    {
+      "key": "page.place.near",
+      "fr": "Lieux voisins",
+      "en": "Nearby places"
+    },
+    {
+      "key": "page.place.back",
+      "fr": "Retour à la carte",
+      "en": "Back to the map"
+    },
+    {
+      "key": "page.place.nothing",
+      "fr": "La chronique n’y place aucun événement daté.",
+      "en": "The chronicle sets no dated event here."
+    },
+    {
+      "key": "page.wars.lead",
+      "fr": "{n} guerres où la Maison Targaryen se bat pour conquérir, pour régner ou contre elle-même, de la Conquête aux campagnes de Daenerys en Essos.",
+      "en": "{n} wars in which House Targaryen fought to conquer, to rule or against itself, from the Conquest to the campaigns of Daenerys in Essos."
+    },
+    {
+      "key": "page.wars.chart.label",
+      "fr": "Les guerres dans l’ordre du temps",
+      "en": "The wars in order of time"
+    },
+    {
+      "key": "page.wars.chart.caption",
+      "fr": "Chaque barre couvre la durée d’une guerre, année de fin comprise ; derrière, les bandes des volumes de la chronique. L’échelle est celle de toute la bibliothèque : une guerre d’un an y tient sur un trait.",
+      "en": "Each bar spans the length of a war, final year included; behind them, the bands of the chronicle’s volumes. The scale is the one used across the library: a war of a single year takes a single stroke."
+    },
+    {
+      "key": "page.wars.volume",
+      "fr": "volume {n}",
+      "en": "volume {n}"
+    },
+    {
+      "key": "page.wars.sides",
+      "fr": "{a} contre {b}",
+      "en": "{a} against {b}"
+    },
+    {
+      "key": "page.wars.moreSides",
+      "fr": "et {n} autres camps",
+      "en": "and {n} other sides"
+    },
+    {
+      "key": "page.wars.battles",
+      "fr": "{n} batailles",
+      "en": "{n} battles"
+    },
+    {
+      "key": "page.wars.battle",
+      "fr": "une bataille",
+      "en": "one battle"
+    },
+    {
+      "key": "page.war.versus",
+      "fr": "contre",
+      "en": "against"
+    },
+    {
+      "key": "page.war.camps.heading",
+      "fr": "Les camps",
+      "en": "The sides"
+    },
+    {
+      "key": "page.war.causes.heading",
+      "fr": "Les causes",
+      "en": "The causes"
+    },
+    {
+      "key": "page.war.map.title",
+      "fr": "Carte de situation des batailles : {name}",
+      "en": "Map of the battles: {name}"
+    },
+    {
+      "key": "page.war.map.caption",
+      "fr": "Carte de situation. Chaque rond porte le numéro des batailles livrées en ce lieu, dans l’ordre de la guerre ; il mène à leur récit. Les batailles sans lieu sûr n’y figurent pas et portent un numéro au pointillé.",
+      "en": "Map of the battles. Each ring bears the numbers of the battles fought there, in the order of the war, and leads to their account. Battles without a sure location are left off and carry a dotted number."
+    },
+    {
+      "key": "page.war.battles.heading",
+      "fr": "Les batailles",
+      "en": "The battles"
+    },
+    {
+      "key": "page.war.consequences.heading",
+      "fr": "Ce qui en reste",
+      "en": "What remained"
+    },
+    {
+      "key": "page.war.between",
+      "fr": "{a} contre {b}",
+      "en": "{a} against {b}"
+    },
+    {
+      "key": "page.war.victor",
+      "fr": "Vainqueur : {side}",
+      "en": "Victor: {side}"
+    },
+    {
+      "key": "page.war.undecided",
+      "fr": "Issue indécise",
+      "en": "Outcome undecided"
+    },
+    {
+      "key": "page.war.losses",
+      "fr": "Pertes :",
+      "en": "Losses:"
+    },
+    {
+      "key": "page.war.dragons",
+      "fr": "Dragons engagés",
+      "en": "Dragons engaged"
+    },
+    {
+      "key": "page.war.date.approximative",
+      "fr": "année approchée",
+      "en": "approximate year"
+    },
+    {
+      "key": "page.war.date.inconnue",
+      "fr": "année inconnue",
+      "en": "year unknown"
+    },
+    {
+      "key": "page.war.pager",
+      "fr": "D’une guerre à l’autre",
+      "en": "From war to war"
+    },
+    {
+      "key": "page.war.previous",
+      "fr": "Guerre précédente",
+      "en": "Previous war"
+    },
+    {
+      "key": "page.war.next",
+      "fr": "Guerre suivante",
+      "en": "Next war"
+    },
+    {
+      "key": "page.war.back",
+      "fr": "Retour aux guerres",
+      "en": "Back to the wars"
+    },
+    {
+      "key": "page.savoirs.status.label",
+      "fr": "Statut",
+      "en": "Status"
+    },
+    {
+      "key": "page.savoirs.status.atteste",
+      "fr": "Attestée",
+      "en": "Attested"
+    },
+    {
+      "key": "page.savoirs.status.derive",
+      "fr": "Dérivée",
+      "en": "Derived"
+    },
+    {
+      "key": "page.savoirs.status.editorial",
+      "fr": "Éditoriale",
+      "en": "Editorial"
+    },
+    {
+      "key": "page.savoirs.status.adaptation",
+      "fr": "Reprise",
+      "en": "Borrowed"
+    },
+    {
+      "key": "page.savoirs.status.atteste.def",
+      "fr": "La forme figure telle quelle dans les publications de David J. Peterson ou dans les dialogues des séries.",
+      "en": "The form appears as it stands in David J. Peterson’s published material or in the dialogue of the series."
+    },
+    {
+      "key": "page.savoirs.status.derive.def",
+      "fr": "La forme est construite par les règles publiées (déclinaison, conjugaison) à partir de mots attestés. La grammaire la garantit ; aucun texte ne la montre.",
+      "en": "The form is built by the published rules (declension, conjugation) from attested words. The grammar vouches for it; no text shows it."
+    },
+    {
+      "key": "page.savoirs.status.editorial.def",
+      "fr": "Aucune forme n’existe : la bibliothèque en compose une à partir d’éléments attestés. Plausible, signalée, révisable ; sa note dit où elle s’écarte des sources.",
+      "en": "No form exists, so the library composes one from attested elements. Plausible, flagged, open to revision; its note says where it departs from the sources."
+    },
+    {
+      "key": "page.savoirs.status.adaptation.def",
+      "fr": "Faute de forme valyrienne confirmée, le nom garde la graphie de l’auteur ou des séries. On évite de le décliner.",
+      "en": "With no confirmed Valyrian form, the name keeps the spelling of the author or the series. It is best left undeclined."
+    },
+    {
+      "key": "page.language.lead",
+      "fr": "Le haut valyrien était la langue de la Possession de Valyria, la cité des seigneurs dragons. Après le Fléau, il ne vit plus que dans les livres, les formules, les noms, et dans les parlers abâtardis des Cités libres. La Maison Targaryen en vient : ses noms et ceux de ses dragons sont valyriens.",
+      "en": "High Valyrian was the tongue of the Valyrian Freehold, the city of the dragonlords. After the Doom it lives on only in books, formulas and names, and in the bastard dialects of the Free Cities. House Targaryen comes from it: its names, and those of its dragons, are Valyrian."
+    },
+    {
+      "key": "page.language.origin.title",
+      "fr": "D’où vient cette langue",
+      "en": "Where the language comes from"
+    },
+    {
+      "key": "page.language.origin.martin",
+      "fr": "George R. R. Martin n’en a écrit que quelques mots : deux formules, valar morghulis et valar dohaeris, un ordre donné aux dragons, dracarys, et des noms. Il suffisait aux romans que la langue existe ; ils ne la font presque jamais entendre.",
+      "en": "George R. R. Martin wrote only a few words of it: two formulas, valar morghulis and valar dohaeris, a command given to dragons, dracarys, and names. The novels needed the language to exist; they almost never let it be heard."
+    },
+    {
+      "key": "page.language.origin.peterson",
+      "fr": "Pour la troisième saison de Game of Thrones, diffusée en 2013, le linguiste David J. Peterson a fait de ces fragments une langue entière : ses sons, sa grammaire, son vocabulaire. Il l’a enrichie depuis, notamment pour House of the Dragon, et en publie les formes au fil de son travail.",
+      "en": "For the third season of Game of Thrones, broadcast in 2013, the linguist David J. Peterson turned these fragments into a whole language: its sounds, its grammar, its vocabulary. He has enlarged it since, notably for House of the Dragon, and publishes its forms as his work goes on."
+    },
+    {
+      "key": "page.language.origin.shape",
+      "fr": "C’est une langue à flexion : la fin du mot dit sa fonction. Le nom porte l’un de quatre genres, l’un de quatre nombres et l’un de huit cas ; le verbe se conjugue en personne, en temps et en mode. La grammaire en donne le cadre.",
+      "en": "It is an inflected language: the end of a word tells its role. A noun carries one of four genders, one of four numbers and one of eight cases; a verb inflects for person, tense and mood. The grammar sets out the framework."
+    },
+    {
+      "key": "page.language.note.martin",
+      "fr": "Graphie de Martin : valar morghulis. Le macron de morghūlis appartient à la transcription de Peterson.",
+      "en": "Martin’s spelling: valar morghulis. The macron in morghūlis belongs to Peterson’s transcription."
+    },
+    {
+      "key": "page.language.note.peterson",
+      "fr": "Peterson avait déjà construit le dothraki pour la première saison, en 2011.",
+      "en": "Peterson had already built Dothraki for the first season, in 2011."
+    },
+    {
+      "key": "page.language.note.refs",
+      "fr": "Les formes citées renvoient au wiki qui recense les publications de Peterson. Chaque notice du lexique donne ses liens.",
+      "en": "The forms cited refer to the wiki that records Peterson’s published material. Each lexicon entry gives its links."
+    },
+    {
+      "key": "page.language.specimen.caption",
+      "fr": "La formule la plus connue, analysée mot à mot. Le collectif commande l’accord au singulier et l’aoriste dit les vérités générales : littéralement « tous les hommes meurent ». L’obligation n’est portée par aucun mot.",
+      "en": "The best-known formula, analysed word by word. The collective takes a singular verb and the aorist states general truths: literally “all men die”. No word carries the obligation."
+    },
+    {
+      "key": "page.language.specimen.valar.lemma",
+      "fr": "vala, « homme »",
+      "en": "vala, “man”"
+    },
+    {
+      "key": "page.language.specimen.valar.grammar",
+      "fr": "nominatif collectif",
+      "en": "collective nominative"
+    },
+    {
+      "key": "page.language.specimen.valar.sense",
+      "fr": "tous les hommes",
+      "en": "all men"
+    },
+    {
+      "key": "page.language.specimen.morghulis.lemma",
+      "fr": "morghūljagon, « mourir »",
+      "en": "morghūljagon, “to die”"
+    },
+    {
+      "key": "page.language.specimen.morghulis.grammar",
+      "fr": "aoriste actif, 3e personne du singulier",
+      "en": "active aorist, third person singular"
+    },
+    {
+      "key": "page.language.specimen.morghulis.sense",
+      "fr": "meurent",
+      "en": "die"
+    },
+    {
+      "key": "page.language.wall.caption",
+      "fr": "Les {n} formes du lexique, dans l’ordre alphabétique, chacune selon son statut. Chaque forme ouvre sa notice.",
+      "en": "The {n} forms of the lexicon, in alphabetical order, each set according to its status. Each form opens its entry."
+    },
+    {
+      "key": "page.language.wall.label",
+      "fr": "Toutes les formes du lexique",
+      "en": "Every form in the lexicon"
+    },
+    {
+      "key": "page.language.forbid.title",
+      "fr": "Ce que la bibliothèque s’interdit",
+      "en": "What the library will not do"
+    },
+    {
+      "key": "page.language.forbid.script.head",
+      "fr": "Aucune écriture inventée.",
+      "en": "No invented script."
+    },
+    {
+      "key": "page.language.forbid.script.body",
+      "fr": "Les livres ne donnent aucun alphabet valyrien, et la bibliothèque n’en dessine pas. Le valyrien s’écrit ici en lettres latines, avec les macrons de la transcription de Peterson, qui marquent les voyelles longues : ā, ē, ī, ō, ū, ȳ.",
+      "en": "The books give no Valyrian alphabet, and the library draws none. Valyrian is written here in Latin letters, with the macrons of Peterson’s transcription, which mark long vowels: ā, ē, ī, ō, ū, ȳ."
+    },
+    {
+      "key": "page.language.forbid.words.head",
+      "fr": "Aucun mot forgé en silence.",
+      "en": "No word coined in silence."
+    },
+    {
+      "key": "page.language.forbid.words.body",
+      "fr": "Quand un mot manque, la bibliothèque compose une forme à partir d’éléments attestés et la déclare éditoriale, avec une note qui dit où elle s’écarte des sources. Elle ne crée aucune racine.",
+      "en": "When a word is missing, the library composes a form from attested elements and declares it editorial, with a note on where it departs from the sources. It creates no new root."
+    },
+    {
+      "key": "page.language.forbid.prose.head",
+      "fr": "Le récit reste dans votre langue.",
+      "en": "The narrative stays in your language."
+    },
+    {
+      "key": "page.language.forbid.prose.body",
+      "fr": "Le vocabulaire publié ne suffit pas à raconter l’histoire sans inventer la langue. Le valyrien nomme les salles, les volumes et les formules ; l’histoire se lit en français ou en anglais.",
+      "en": "The published vocabulary cannot tell the history without inventing the language. Valyrian names the rooms, the volumes and the formulas; the history is read in French or in English."
+    },
+    {
+      "key": "page.language.status.title",
+      "fr": "Lire les statuts",
+      "en": "Reading the statuses"
+    },
+    {
+      "key": "page.language.status.intro",
+      "fr": "Chaque forme valyrienne porte une marque carrée. Comme pour la certitude des faits, moins il y a d’encre, moins la forme est sûre.",
+      "en": "Every Valyrian form carries a square mark. As with the certainty of facts, the less ink, the less sure the form."
+    },
+    {
+      "key": "page.language.status.count",
+      "fr": "{n} formes dans le lexique",
+      "en": "{n} forms in the lexicon"
+    },
+    {
+      "key": "page.language.status.count.one",
+      "fr": "Une forme dans le lexique",
+      "en": "One form in the lexicon"
+    },
+    {
+      "key": "page.language.status.example",
+      "fr": "Par exemple",
+      "en": "For instance"
+    },
+    {
+      "key": "page.language.rooms.title",
+      "fr": "Les trois salles",
+      "en": "The three rooms"
+    },
+    {
+      "key": "page.language.rooms.lexicon",
+      "fr": "{n} formes, par thème et par statut, chacune avec la note qui la justifie.",
+      "en": "{n} forms, by theme and by status, each with the note that justifies it."
+    },
+    {
+      "key": "page.language.rooms.grammar",
+      "fr": "Le cadre de la langue : genres, nombres, cas. Puis les leçons, dans l’ordre.",
+      "en": "The framework of the language: genders, numbers, cases. Then the lessons, in order."
+    },
+    {
+      "key": "page.language.rooms.phrases",
+      "fr": "Les formules, mot à mot, avec leur sens et leur contexte.",
+      "en": "The formulas, word for word, with their meaning and context."
+    },
+    {
+      "key": "page.language.rooms.pending",
+      "fr": "En préparation",
+      "en": "In preparation"
+    },
+    {
+      "key": "page.lexicon.lead",
+      "fr": "Les mots qu’emploie la bibliothèque, chacun avec sa forme, son sens, son statut et la note qui le justifie. Dans la recherche, les macrons sont facultatifs : « zaldrizes » trouve « zaldrīzes ».",
+      "en": "The words the library uses, each with its form, its meaning, its status and the note that justifies it. Macrons are optional in the search: “zaldrizes” finds “zaldrīzes”."
+    },
+    {
+      "key": "page.lexicon.tally.caption",
+      "fr": "Les {n} formes, un carré par forme, rangées par statut. Celles que les filtres écartent pâlissent.",
+      "en": "The {n} forms, one square per form, ranked by status. Those the filters set aside fade."
+    },
+    {
+      "key": "page.lexicon.filter.label",
+      "fr": "Filtrer le lexique",
+      "en": "Filter the lexicon"
+    },
+    {
+      "key": "page.lexicon.filter.theme",
+      "fr": "Thème",
+      "en": "Theme"
+    },
+    {
+      "key": "page.lexicon.filter.status",
+      "fr": "Statut",
+      "en": "Status"
+    },
+    {
+      "key": "page.lexicon.col.form",
+      "fr": "Forme",
+      "en": "Form"
+    },
+    {
+      "key": "page.lexicon.col.meaning",
+      "fr": "Sens",
+      "en": "Meaning"
+    },
+    {
+      "key": "page.lexicon.col.theme",
+      "fr": "Thème",
+      "en": "Theme"
+    },
+    {
+      "key": "page.lexicon.entry.grammar",
+      "fr": "Grammaire",
+      "en": "Grammar"
+    },
+    {
+      "key": "page.lexicon.entry.note",
+      "fr": "Note",
+      "en": "Note"
+    },
+    {
+      "key": "page.lexicon.entry.refs",
+      "fr": "Références",
+      "en": "References"
+    },
+    {
+      "key": "page.lexicon.entry.unverified",
+      "fr": "Forme encore à vérifier.",
+      "en": "Form still to be checked."
+    },
+    {
+      "key": "page.lexicon.entry.link",
+      "fr": "Lien vers cette notice",
+      "en": "Link to this entry"
+    },
+    {
+      "key": "page.lexicon.empty.title",
+      "fr": "Aucun mot ne répond à ces filtres.",
+      "en": "No word matches these filters."
+    },
+    {
+      "key": "page.lexicon.empty.body",
+      "fr": "Retirez un filtre, ou cherchez un seul mot, sans macron.",
+      "en": "Remove a filter, or search for a single word, without macrons."
+    },
+    {
+      "key": "page.lexicon.none.title",
+      "fr": "Le lexique est vide pour l’instant.",
+      "en": "The lexicon is empty for now."
+    },
+    {
+      "key": "page.lexicon.none.body",
+      "fr": "Les notices paraîtront ici dès qu’elles seront vérifiées.",
+      "en": "Entries will appear here once they have been checked."
+    },
+    {
+      "key": "page.lexicon.theme.interface",
+      "fr": "Mots de la bibliothèque",
+      "en": "Words of the library"
+    },
+    {
+      "key": "page.lexicon.theme.formules",
+      "fr": "Formules",
+      "en": "Formulas"
+    },
+    {
+      "key": "page.lexicon.theme.temps",
+      "fr": "Temps et volumes",
+      "en": "Time and volumes"
+    },
+    {
+      "key": "page.lexicon.theme.noms",
+      "fr": "Noms propres",
+      "en": "Proper names"
+    },
+    {
+      "key": "page.lexicon.theme.parente",
+      "fr": "Parenté",
+      "en": "Kinship"
+    },
+    {
+      "key": "page.lexicon.theme.royaute",
+      "fr": "Royauté",
+      "en": "Kingship"
+    },
+    {
+      "key": "page.lexicon.theme.guerre",
+      "fr": "Guerre",
+      "en": "War"
+    },
+    {
+      "key": "page.lexicon.theme.feu",
+      "fr": "Feu",
+      "en": "Fire"
+    },
+    {
+      "key": "page.lexicon.theme.nature",
+      "fr": "Nature",
+      "en": "Nature"
+    },
+    {
+      "key": "page.lexicon.theme.corps",
+      "fr": "Corps",
+      "en": "Body"
+    },
+    {
+      "key": "page.lexicon.theme.nombres",
+      "fr": "Nombres",
+      "en": "Numbers"
+    },
+    {
+      "key": "page.grammar.lead",
+      "fr": "La grammaire du haut valyrien tient en peu de catégories, mais chacune se marque à la fin du mot. Voici d’abord le cadre du nom, tel que Peterson l’a décrit, puis les leçons.",
+      "en": "High Valyrian grammar rests on few categories, but each is marked at the end of the word. First the framework of the noun, as Peterson has described it, then the lessons."
+    },
+    {
+      "key": "page.grammar.frame.title",
+      "fr": "Le cadre du nom",
+      "en": "The framework of the noun"
+    },
+    {
+      "key": "page.grammar.frame.caption",
+      "fr": "Les catégories du nom. Sous chaque genre, les mots du lexique dont la déclinaison est documentée.",
+      "en": "The categories of the noun. Under each gender, the lexicon words whose declension is documented."
+    },
+    {
+      "key": "page.grammar.genders.title",
+      "fr": "Quatre genres",
+      "en": "Four genders"
+    },
+    {
+      "key": "page.grammar.genders.note",
+      "fr": "Le genre ne suit pas le sexe : kepa, « père », est lunaire, comme muña, « mère ».",
+      "en": "Gender does not follow sex: kepa, “father”, is lunar, like muña, “mother”."
+    },
+    {
+      "key": "page.grammar.gender.lunaire",
+      "fr": "lunaire",
+      "en": "lunar"
+    },
+    {
+      "key": "page.grammar.gender.solaire",
+      "fr": "solaire",
+      "en": "solar"
+    },
+    {
+      "key": "page.grammar.gender.terrestre",
+      "fr": "terrestre",
+      "en": "terrestrial"
+    },
+    {
+      "key": "page.grammar.gender.aquatique",
+      "fr": "aquatique",
+      "en": "aquatic"
+    },
+    {
+      "key": "page.grammar.gender.none",
+      "fr": "aucun mot documenté dans le lexique",
+      "en": "no documented word in the lexicon"
+    },
+    {
+      "key": "page.grammar.decl",
+      "fr": "décl. {n}",
+      "en": "decl. {n}"
+    },
+    {
+      "key": "page.grammar.numbers.title",
+      "fr": "Quatre nombres",
+      "en": "Four numbers"
+    },
+    {
+      "key": "page.grammar.number.singulier",
+      "fr": "singulier",
+      "en": "singular"
+    },
+    {
+      "key": "page.grammar.number.singulier.role",
+      "fr": "un seul",
+      "en": "one"
+    },
+    {
+      "key": "page.grammar.number.pluriel",
+      "fr": "pluriel",
+      "en": "plural"
+    },
+    {
+      "key": "page.grammar.number.pluriel.role",
+      "fr": "plusieurs",
+      "en": "many"
+    },
+    {
+      "key": "page.grammar.number.paucal",
+      "fr": "paucal",
+      "en": "paucal"
+    },
+    {
+      "key": "page.grammar.number.paucal.role",
+      "fr": "quelques-uns",
+      "en": "a few"
+    },
+    {
+      "key": "page.grammar.number.collectif",
+      "fr": "collectif",
+      "en": "collective"
+    },
+    {
+      "key": "page.grammar.number.collectif.role",
+      "fr": "tous, pris ensemble",
+      "en": "all, taken together"
+    },
+    {
+      "key": "page.grammar.numbers.note",
+      "fr": "Le collectif désigne l’ensemble : valar, « tous les hommes ».",
+      "en": "The collective names the whole: valar, “all men”."
+    },
+    {
+      "key": "page.grammar.cases.title",
+      "fr": "Huit cas",
+      "en": "Eight cases"
+    },
+    {
+      "key": "page.grammar.case.nominatif",
+      "fr": "nominatif",
+      "en": "nominative"
+    },
+    {
+      "key": "page.grammar.case.nominatif.role",
+      "fr": "le sujet",
+      "en": "the subject"
+    },
+    {
+      "key": "page.grammar.case.accusatif",
+      "fr": "accusatif",
+      "en": "accusative"
+    },
+    {
+      "key": "page.grammar.case.accusatif.role",
+      "fr": "l’objet",
+      "en": "the object"
+    },
+    {
+      "key": "page.grammar.case.genitif",
+      "fr": "génitif",
+      "en": "genitive"
+    },
+    {
+      "key": "page.grammar.case.genitif.role",
+      "fr": "le possesseur : « de »",
+      "en": "the possessor: “of”"
+    },
+    {
+      "key": "page.grammar.case.datif",
+      "fr": "datif",
+      "en": "dative"
+    },
+    {
+      "key": "page.grammar.case.datif.role",
+      "fr": "le destinataire : « à »",
+      "en": "the recipient: “to”"
+    },
+    {
+      "key": "page.grammar.case.locatif",
+      "fr": "locatif",
+      "en": "locative"
+    },
+    {
+      "key": "page.grammar.case.locatif.role",
+      "fr": "le lieu : « dans, en »",
+      "en": "the place: “in, at”"
+    },
+    {
+      "key": "page.grammar.case.instrumental",
+      "fr": "instrumental",
+      "en": "instrumental"
+    },
+    {
+      "key": "page.grammar.case.instrumental.role",
+      "fr": "le moyen : « par »",
+      "en": "the means: “by”"
+    },
+    {
+      "key": "page.grammar.case.comitatif",
+      "fr": "comitatif",
+      "en": "comitative"
+    },
+    {
+      "key": "page.grammar.case.comitatif.role",
+      "fr": "la compagnie : « avec »",
+      "en": "company: “with”"
+    },
+    {
+      "key": "page.grammar.case.vocatif",
+      "fr": "vocatif",
+      "en": "vocative"
+    },
+    {
+      "key": "page.grammar.case.vocatif.role",
+      "fr": "l’appel",
+      "en": "address"
+    },
+    {
+      "key": "page.grammar.lessons.title",
+      "fr": "Les leçons",
+      "en": "The lessons"
+    },
+    {
+      "key": "page.grammar.lesson.number",
+      "fr": "Leçon {n}",
+      "en": "Lesson {n}"
+    },
+    {
+      "key": "page.grammar.lessons.empty.title",
+      "fr": "Les leçons sont en cours de rédaction.",
+      "en": "The lessons are being written."
+    },
+    {
+      "key": "page.grammar.lessons.empty.body",
+      "fr": "Elles paraîtront ici dans l’ordre de lecture, avec leurs tableaux. En attendant, chaque notice du lexique décrit la flexion de son mot.",
+      "en": "They will appear here in reading order, with their tables. Meanwhile, each lexicon entry describes how its word inflects."
+    },
+    {
+      "key": "page.grammar.lessons.empty.action",
+      "fr": "Ouvrir le lexique",
+      "en": "Open the lexicon"
+    },
+    {
+      "key": "page.phrases.lead",
+      "fr": "Les formules du haut valyrien, telles que les livres et les séries les font dire, puis mot à mot, avec ce qu’elles veulent dire et le moment où on les prononce.",
+      "en": "The formulas of High Valyrian, as the books and the series have them spoken, then word for word, with what they mean and when they are said."
+    },
+    {
+      "key": "page.phrases.literal",
+      "fr": "Mot à mot",
+      "en": "Word for word"
+    },
+    {
+      "key": "page.phrases.meaning",
+      "fr": "Sens",
+      "en": "Meaning"
+    },
+    {
+      "key": "page.phrases.context",
+      "fr": "Contexte",
+      "en": "Context"
+    },
+    {
+      "key": "page.phrases.analysis",
+      "fr": "Analyse",
+      "en": "Analysis"
+    },
+    {
+      "key": "page.phrases.interim.title",
+      "fr": "Le recueil commenté est en préparation.",
+      "en": "The annotated collection is in preparation."
+    },
+    {
+      "key": "page.phrases.interim.body",
+      "fr": "En attendant, voici les formules que le lexique documente déjà, avec leur analyse.",
+      "en": "Meanwhile, here are the formulas the lexicon already documents, with their analysis."
+    },
+    {
+      "key": "page.phrases.empty.title",
+      "fr": "Aucune formule pour l’instant.",
+      "en": "No formula yet."
+    },
+    {
+      "key": "page.phrases.empty.body",
+      "fr": "Les formules paraîtront ici dès qu’elles seront vérifiées.",
+      "en": "Formulas will appear here once they have been checked."
+    },
+    {
+      "key": "page.sources.lead",
+      "fr": "Chaque fait de cette bibliothèque renvoie à un ouvrage. Les ouvrages ne se valent pas : certains racontent ce qu’un personnage voit, d’autres compilent longtemps après des témoins partiaux, d’autres encore sont des adaptations. Voici comment on les lit.",
+      "en": "Every fact in this library points to a work. The works are not equal: some tell what a character sees, others gather biased witnesses long after the events, others again are adaptations. Here is how they are read."
+    },
+    {
+      "key": "page.sources.levels.title",
+      "fr": "Cinq degrés de certitude",
+      "en": "Five degrees of certainty"
+    },
+    {
+      "key": "page.sources.levels.intro",
+      "fr": "Chaque événement, chaque dragon, chaque bataille porte l’une de ces marques, partout la même. Moins il y a d’encre, moins le fait est sûr.",
+      "en": "Every event, dragon and battle carries one of these marks, the same everywhere. The less ink, the less sure the fact."
+    },
+    {
+      "key": "page.sources.levels.caption",
+      "fr": "Les {n} événements de la chronique, un signe par événement, rangés par degré de certitude.",
+      "en": "The {n} events of the chronicle, one sign per event, ranked by degree of certainty."
+    },
+    {
+      "key": "page.sources.levels.count",
+      "fr": "{n} événements",
+      "en": "{n} events"
+    },
+    {
+      "key": "page.sources.levels.count.one",
+      "fr": "un événement",
+      "en": "one event"
+    },
+    {
+      "key": "page.sources.register.title",
+      "fr": "Le registre",
+      "en": "The register"
+    },
+    {
+      "key": "page.sources.register.intro",
+      "fr": "Les ouvrages des livres, classés selon la nature de leur témoignage. Le nombre de renvois compte les événements, dragons, guerres et batailles qui les citent.",
+      "en": "The works of the books, sorted by the nature of their testimony. The count of references covers the events, dragons, wars and battles that cite them."
+    },
+    {
+      "key": "page.sources.entry.cited",
+      "fr": "{n} renvois",
+      "en": "{n} references"
+    },
+    {
+      "key": "page.sources.entry.cited.one",
+      "fr": "un renvoi",
+      "en": "one reference"
+    },
+    {
+      "key": "page.sources.entry.cited.none",
+      "fr": "aucun renvoi direct",
+      "en": "no direct reference"
+    },
+    {
+      "key": "page.sources.entry.members",
+      "fr": "Réunit",
+      "en": "Collects"
+    },
+    {
+      "key": "page.sources.entry.titleFr",
+      "fr": "en français : {t}",
+      "en": "in French: {t}"
+    },
+    {
+      "key": "page.sources.entry.span",
+      "fr": "{from} à {to}",
+      "en": "{from} to {to}"
+    },
+    {
+      "key": "page.sources.entry.since",
+      "fr": "depuis {from}",
+      "en": "since {from}"
+    },
+    {
+      "key": "page.sources.type.livre",
+      "fr": "roman",
+      "en": "novel"
+    },
+    {
+      "key": "page.sources.type.nouvelle",
+      "fr": "nouvelle",
+      "en": "novella"
+    },
+    {
+      "key": "page.sources.type.encyclopedie",
+      "fr": "histoire illustrée",
+      "en": "illustrated history"
+    },
+    {
+      "key": "page.sources.type.serie",
+      "fr": "série télévisée",
+      "en": "television series"
+    },
+    {
+      "key": "page.sources.type.outil",
+      "fr": "outil de vérification",
+      "en": "reference tool"
+    },
+    {
+      "key": "page.sources.separate.title",
+      "fr": "Livres et adaptation, tenus séparés",
+      "en": "Books and adaptation, kept apart"
+    },
+    {
+      "key": "page.sources.separate.body",
+      "fr": "Les séries changent des noms, des âges, des morts. La bibliothèque les cite, jamais pour établir un fait des livres : ce qui n’existe qu’à l’écran porte la marque de l’adaptation et reste dans des blocs à part. Quand les livres se taisent, l’écran ne parle pas à leur place.",
+      "en": "The series change names, ages, deaths. The library cites them, never to establish a fact of the books: what exists only on screen carries the adaptation mark and stays in separate blocks. When the books are silent, the screen does not speak in their place."
+    },
+    {
+      "key": "page.sources.separate.caption",
+      "fr": "Les ouvrages dans l’ordre de leur parution. Au-dessus du trait, les livres ; au-dessous, les séries.",
+      "en": "The works in order of publication. Above the line, the books; below it, the series."
+    },
+    {
+      "key": "page.sources.separate.books",
+      "fr": "livres",
+      "en": "books"
+    },
+    {
+      "key": "page.sources.separate.screen",
+      "fr": "écran",
+      "en": "screen"
+    },
+    {
+      "key": "page.sources.separate.figure",
+      "fr": "Frise des parutions, de {from} à {to}",
+      "en": "Publication timeline, from {from} to {to}"
+    },
+    {
+      "key": "page.learn.lead",
+      "fr": "Cinq parcours, à suivre dans l’ordre. Chacun traverse les salles de la bibliothèque, dit ce qu’il faut en retenir, puis interroge la mémoire, une question à la fois.",
+      "en": "Five paths, to be followed in order. Each one crosses the rooms of the library, says what to remember, then tests the memory, one question at a time."
+    },
+    {
+      "key": "page.learn.meta",
+      "fr": "{steps} étapes, {questions} questions, environ {minutes} minutes de lecture",
+      "en": "{steps} steps, {questions} questions, about {minutes} minutes of reading"
+    },
+    {
+      "key": "page.learn.progress.none",
+      "fr": "Pas encore commencé",
+      "en": "Not started yet"
+    },
+    {
+      "key": "page.learn.progress.ongoing",
+      "fr": "Questionnaire commencé : question {n} sur {total}",
+      "en": "Questions under way: question {n} of {total}"
+    },
+    {
+      "key": "page.learn.progress.done",
+      "fr": "Questionnaire achevé : {correct} réponses justes sur {total}",
+      "en": "Questions completed: {correct} correct answers out of {total}"
+    },
+    {
+      "key": "page.learn.empty.title",
+      "fr": "Les parcours sont en cours de rédaction.",
+      "en": "The paths are being written."
+    },
+    {
+      "key": "page.learn.empty.body",
+      "fr": "Ils paraîtront ici, numérotés dans l’ordre où les lire. En attendant, la chronique se lit d’un volume à l’autre.",
+      "en": "They will appear here, numbered in the order in which to read them. Meanwhile, the chronicle can be read from one volume to the next."
+    },
+    {
+      "key": "page.learn.volumes.title",
+      "fr": "Lire la chronique dans l’ordre",
+      "en": "Reading the chronicle in order"
+    },
+    {
+      "key": "page.path.number",
+      "fr": "Parcours {n}",
+      "en": "Path {n}"
+    },
+    {
+      "key": "page.path.steps.title",
+      "fr": "Les étapes",
+      "en": "The steps"
+    },
+    {
+      "key": "page.path.retain",
+      "fr": "À retenir",
+      "en": "To remember"
+    },
+    {
+      "key": "page.path.links",
+      "fr": "Dans la bibliothèque",
+      "en": "In the library"
+    },
+    {
+      "key": "page.path.quiz.title",
+      "fr": "Questions",
+      "en": "Questions"
+    },
+    {
+      "key": "page.path.quiz.intro",
+      "fr": "{n} questions, une à la fois. Chaque réponse est expliquée et sourcée. La progression reste sur cet appareil.",
+      "en": "{n} questions, one at a time. Each answer is explained and sourced. Progress stays on this device."
+    },
+    {
+      "key": "page.path.quiz.counter",
+      "fr": "Question {n} sur {total}",
+      "en": "Question {n} of {total}"
+    },
+    {
+      "key": "page.path.quiz.round",
+      "fr": "Reprise des erreurs de la manche précédente",
+      "en": "Going over the mistakes of the previous round"
+    },
+    {
+      "key": "page.path.quiz.choices",
+      "fr": "Réponses possibles",
+      "en": "Possible answers"
+    },
+    {
+      "key": "page.path.quiz.right",
+      "fr": "Juste.",
+      "en": "Correct."
+    },
+    {
+      "key": "page.path.quiz.wrong",
+      "fr": "Ce n’est pas cela. La réponse était : {a}.",
+      "en": "Not quite. The answer was: {a}."
+    },
+    {
+      "key": "page.path.quiz.yours",
+      "fr": "votre réponse",
+      "en": "your answer"
+    },
+    {
+      "key": "page.path.quiz.correct",
+      "fr": "la bonne réponse",
+      "en": "the right answer"
+    },
+    {
+      "key": "page.path.quiz.next",
+      "fr": "Question suivante",
+      "en": "Next question"
+    },
+    {
+      "key": "page.path.quiz.finish",
+      "fr": "Voir le bilan",
+      "en": "See the summary"
+    },
+    {
+      "key": "page.path.quiz.result",
+      "fr": "{correct} réponses justes sur {total}.",
+      "en": "{correct} correct answers out of {total}."
+    },
+    {
+      "key": "page.path.quiz.perfect",
+      "fr": "Aucune erreur à revoir.",
+      "en": "No mistakes to go over."
+    },
+    {
+      "key": "page.path.quiz.mistakes",
+      "fr": "À revoir",
+      "en": "To go over"
+    },
+    {
+      "key": "page.path.quiz.given",
+      "fr": "Votre réponse : {a}",
+      "en": "Your answer: {a}"
+    },
+    {
+      "key": "page.path.quiz.answer",
+      "fr": "Réponse : {a}",
+      "en": "Answer: {a}"
+    },
+    {
+      "key": "page.path.quiz.retryMistakes",
+      "fr": "Reprendre les erreurs",
+      "en": "Retry the mistakes"
+    },
+    {
+      "key": "page.path.quiz.restart",
+      "fr": "Tout recommencer",
+      "en": "Start again"
+    },
+    {
+      "key": "page.path.quiz.empty",
+      "fr": "Les questions de ce parcours ne sont pas encore rédigées.",
+      "en": "The questions for this path have not been written yet."
+    },
+    {
+      "key": "page.path.next",
+      "fr": "Parcours suivant",
+      "en": "Next path"
+    },
+    {
+      "key": "page.path.previous",
+      "fr": "Parcours précédent",
+      "en": "Previous path"
+    },
+    {
+      "key": "page.path.all",
+      "fr": "Tous les parcours",
+      "en": "All paths"
+    },
+    {
+      "key": "page.about.lead",
+      "fr": "Une chronique de la Maison Targaryen en huit volumes, tenue comme un manuscrit : datée, sourcée, et prudente là où les sources le sont.",
+      "en": "A chronicle of House Targaryen in eight volumes, kept like a manuscript: dated, sourced, and cautious wherever the sources are."
+    },
+    {
+      "key": "page.about.why.title",
+      "fr": "Pourquoi",
+      "en": "Why"
+    },
+    {
+      "key": "page.about.why.body",
+      "fr": "Les romans racontent la dynastie par fragments, d’un livre à l’autre, à travers des témoins qui se contredisent. Les séries en donnent une autre version. Il manquait un lieu où lire toute la Maison dans l’ordre, de l’ancienne Valyria à l’héritage, en sachant à chaque ligne d’où vient ce qu’on lit et ce que l’on en sait vraiment.",
+      "en": "The novels tell the dynasty in fragments, from one book to the next, through witnesses who contradict each other. The series give another version. What was missing was a place to read the whole House in order, from Old Valyria to the legacy, knowing at every line where it comes from and how much is truly known."
+    },
+    {
+      "key": "page.about.how.title",
+      "fr": "Comment elle est faite",
+      "en": "How it is made"
+    },
+    {
+      "key": "page.about.how.data",
+      "fr": "Les faits vivent dans des fichiers de données. Chaque date, chaque filiation, chaque bataille renvoie à ses sources et porte son degré de certitude. Avant chaque publication, un programme les relit : années impossibles, enfants nés après la mort de leur mère, sources absentes. Ce qui est incertain est dit incertain ; rien n’est comblé par l’imagination.",
+      "en": "The facts live in data files. Every date, every parentage, every battle points to its sources and carries its degree of certainty. Before each publication, a program reads them through: impossible years, children born after their mother’s death, missing sources. What is uncertain is said to be uncertain; nothing is filled in by imagination."
+    },
+    {
+      "key": "page.about.how.figures",
+      "fr": "Aucune image n’est empruntée. Les dragons sont calculés : quatre nombres et les couleurs que décrivent les livres suffisent à tracer chaque spécimen, et ce que les livres taisent reste au trait. L’emblème, la carte, les courbes et les marques sont dessinés de la même façon.",
+      "en": "No image is borrowed. The dragons are computed: four numbers and the colours the books describe are enough to draw each specimen, and what the books leave unsaid stays as bare line. The emblem, the map, the curves and the marks are drawn the same way."
+    },
+    {
+      "key": "page.about.figure.caption",
+      "fr": "{name}, tracé à partir de quatre nombres : envergure {span}, cou {neck}, queue {tail}, cornes {horns}. L’envergure se mesure à Balerion, qui vaut 1.",
+      "en": "{name}, drawn from four numbers: wingspan {span}, neck {neck}, tail {tail}, horns {horns}. Wingspan is measured against Balerion, who counts as 1."
+    },
+    {
+      "key": "page.about.figure.title",
+      "fr": "{name} en gravure",
+      "en": "{name}, engraved"
+    },
+    {
+      "key": "page.about.type.title",
+      "fr": "Polices et licences",
+      "en": "Typefaces and licences"
+    },
+    {
+      "key": "page.about.type.intro",
+      "fr": "Quatre familles, quatre rôles, sans permutation. Toutes sont publiées sous la licence SIL Open Font License 1.1 et hébergées avec la bibliothèque.",
+      "en": "Four families, four roles, never swapped. All are published under the SIL Open Font License 1.1 and hosted with the library."
+    },
+    {
+      "key": "page.about.type.texturina.role",
+      "fr": "La chronique : titres et mots valyriens. Ses terminaisons en lame tiennent du verre-dragon.",
+      "en": "The chronicle: headings and Valyrian words. Its blade-like terminals recall dragonglass."
+    },
+    {
+      "key": "page.about.type.texturina.credit",
+      "fr": "Omnibus-Type, 2020, licence SIL Open Font License 1.1",
+      "en": "Omnibus-Type, 2020, SIL Open Font License 1.1"
+    },
+    {
+      "key": "page.about.type.grenze.role",
+      "fr": "Les lettrines, les numéros de volume et les grands nombres. Jamais une phrase.",
+      "en": "Initials, volume numbers and large numerals. Never a sentence."
+    },
+    {
+      "key": "page.about.type.grenze.credit",
+      "fr": "Omnibus-Type, 2020, licence SIL Open Font License 1.1",
+      "en": "Omnibus-Type, 2020, SIL Open Font License 1.1"
+    },
+    {
+      "key": "page.about.type.alegreya.role",
+      "fr": "Le récit, les gloses, les citations.",
+      "en": "The narrative, the glosses, the quotations."
+    },
+    {
+      "key": "page.about.type.alegreya.credit",
+      "fr": "Huerta Tipográfica, 2011, licence SIL Open Font License 1.1",
+      "en": "Huerta Tipográfica, 2011, SIL Open Font License 1.1"
+    },
+    {
+      "key": "page.about.type.alegreyaSans.role",
+      "fr": "L’appareil du musée : notes, sources, légendes, commandes.",
+      "en": "The museum’s apparatus: notes, sources, captions, controls."
+    },
+    {
+      "key": "page.about.type.alegreyaSans.credit",
+      "fr": "Huerta Tipográfica, 2013, licence SIL Open Font License 1.1",
+      "en": "Huerta Tipográfica, 2013, SIL Open Font License 1.1"
+    },
+    {
+      "key": "page.about.debt.title",
+      "fr": "Ce que la bibliothèque doit",
+      "en": "What the library owes"
+    },
+    {
+      "key": "page.about.debt.martin",
+      "fr": "À George R. R. Martin, l’univers : ses rois, ses dragons, et ses chroniqueurs de fiction, dont les doutes sont repris ici tels qu’ils les expriment.",
+      "en": "To George R. R. Martin, the world: its kings, its dragons, and its in-world chroniclers, whose doubts are kept here as they express them."
+    },
+    {
+      "key": "page.about.debt.peterson",
+      "fr": "À David J. Peterson, le haut valyrien. Chaque forme valyrienne de ces pages vient de ses publications, ou s’y appuie et le dit.",
+      "en": "To David J. Peterson, High Valyrian. Every Valyrian form on these pages comes from his published work, or rests on it and says so."
+    },
+    {
+      "key": "page.about.mark.title",
+      "fr": "Le poinçon",
+      "en": "The hallmark"
+    },
+    {
+      "key": "page.about.mark.body",
+      "fr": "Un relieur frappait sa marque au dos de ses reliures. Celle-ci, un J et un D qui partagent le même fût, signe la fabrication de la bibliothèque. On la retrouve au pied de chaque feuillet.",
+      "en": "A binder struck his mark on the back of his bindings. This one, a J and a D sharing a single stem, signs the making of the library. It recurs at the foot of every leaf."
+    },
+    {
+      "key": "page.about.justification",
+      "fr": "Cette édition compte huit volumes, {events} événements, {people} personnes, {dragons} dragons, {wars} guerres, {places} lieux, {words} mots valyriens et {sources} sources.",
+      "en": "This edition holds eight volumes, {events} events, {people} people, {dragons} dragons, {wars} wars, {places} places, {words} Valyrian words and {sources} sources."
+    }
+  ]
+}

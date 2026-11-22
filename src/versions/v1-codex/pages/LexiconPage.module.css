@@ -1,0 +1,78 @@
+/* Le lexique : chapeau et figure des statuts côte à côte, filtres, puis la table par lettres. */
+.title {
+  margin-block-end: var(--e5);
+}
+
+.lead {
+  max-inline-size: 34em;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  hyphens: manual;
+  text-wrap: pretty;
+}
+
+.tally {
+  margin-block: var(--e5) 0;
+}
+
+@media (min-width: 1024px) {
+  .tally {
+    margin-block-start: 0.4rem;
+  }
+}
+
+.table {
+  --lexique-colonnes: minmax(0, 2.3fr) minmax(0, 2.3fr) minmax(0, 1.5fr) minmax(0, 1.2fr);
+
+  margin-block-start: var(--e4);
+}
+
+/* En-tête de table : une seule rangée, filet d'encre épais dessous (tableau d'édition savante). */
+.columns {
+  display: none;
+}
+
+@media (min-width: 720px) {
+  .columns {
+    display: grid;
+    grid-template-columns: var(--lexique-colonnes);
+    column-gap: var(--e4);
+    padding: 0 var(--e3) var(--e2);
+    border-block-end: 2px solid var(--v1-texte);
+    font-family: var(--f-recit);
+    font-size: 0.95rem;
+    font-style: italic;
+    color: var(--v1-texte-2);
+  }
+}
+
+.group {
+  scroll-margin-block-start: 6rem;
+}
+
+.initial {
+  padding: var(--e5) var(--e2) var(--e1);
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--v1-rubrique);
+}
+
+@media (min-width: 720px) {
+  .initial {
+    padding-inline: var(--e3);
+  }
+}
+
+.rows {
+  display: grid;
+  margin: 0;
+  padding: 0;
+}
+
+.wideOnly {
+  display: block;
+}

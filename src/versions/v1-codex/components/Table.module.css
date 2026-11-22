@@ -1,0 +1,17 @@
+/* La table : obsidienne, grain de pierre fixe, lueur cramoisie très faible depuis le coin bas gauche. */
+.table {
+  position: relative;
+  min-height: 100svh;
+}
+
+/* Couche fixe : la pierre ne défile pas avec la feuille, comme une table sous un livre. */
+.table::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-color: var(--obsidienne);
+  background-image: var(--v1-lumiere), var(--v1-grain), var(--v1-marbre);
+  background-size: 100% 100%, 280px 280px, 1000px 1000px;
+  pointer-events: none;
+}

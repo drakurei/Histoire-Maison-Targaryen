@@ -1,0 +1,57 @@
+/* Note de marge : cartel du musée, numéro suspendu à l'encre rouge. */
+.note {
+  display: none;
+  grid-template-columns: 1.4rem minmax(0, 1fr);
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+  color: var(--v1-texte-2);
+  font-variant-numeric: lining-nums proportional-nums;
+  hyphens: auto;
+}
+
+/* Étroit : dépliée sous le passage, sur un vélin plus sombre, sans cadre. */
+.note[data-open] {
+  display: grid;
+  padding: var(--e3) var(--e4) var(--e3) var(--e2);
+  background: var(--velin-ombre);
+}
+
+@media (min-width: 1024px) {
+  .note,
+  .note[data-open] {
+    display: grid;
+    padding: 0;
+    background: none;
+    transition: color var(--d-geste) var(--c-expo);
+  }
+
+  .note[data-flash] {
+    color: var(--v1-texte);
+  }
+
+  .note[data-flash] .number {
+    background: var(--v1-rubrique);
+    color: var(--velin);
+  }
+}
+
+.number {
+  align-self: start;
+  justify-self: start;
+  min-inline-size: 1.1rem;
+  padding-inline: 0.1rem;
+  font-family: var(--f-musee);
+  font-weight: 700;
+  line-height: inherit;
+  color: var(--v1-rubrique);
+  transition: background-color var(--d-geste) var(--c-expo), color var(--d-geste) var(--c-expo);
+}
+
+.body > * + * {
+  margin-block-start: var(--e2);
+}
+
+.body cite {
+  font-style: italic;
+}

@@ -1,0 +1,16 @@
+/*
+  Le dragon occupe la largeur qu'on lui donne ; sa hauteur suit son cadre.
+  Jetons facultatifs, à poser sur un ancêtre : --dragon-ink (encre du trait, défaut : couleur
+  du texte), --dragon-paper (papier sous le trait), --dragon-paper-dark, --dragon-shadow.
+*/
+.figure {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+
+/* Sur fond sombre, le « papier » du trait est la pierre, sauf si la version en décide autrement. */
+.figure[data-ground='dark'] {
+  --dragon-paper: var(--dragon-paper-dark, var(--obsidienne, oklch(0.14 0.012 25)));
+}

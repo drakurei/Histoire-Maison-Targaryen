@@ -1,0 +1,32 @@
+/* Appel de note : chiffre rouge en exposant ; la zone de pression dépasse le chiffre sans déranger la ligne. */
+.ref {
+  position: relative;
+  font-size: 0.68em;
+  line-height: 0;
+  vertical-align: super;
+}
+
+.button {
+  position: relative;
+  padding-inline: 0.12em;
+  font-family: var(--f-musee);
+  font-weight: 700;
+  line-height: 1;
+  color: var(--v1-rubrique);
+  font-variant-numeric: lining-nums;
+}
+
+/* Cible tactile de 44 px autour d'un chiffre qui en mesure 10. */
+.button::before {
+  content: '';
+  position: absolute;
+  inset: 50% auto auto 50%;
+  inline-size: var(--cible);
+  block-size: var(--cible);
+  transform: translate(-50%, -50%);
+}
+
+.button[aria-expanded='true'] {
+  background: var(--v1-rubrique);
+  color: var(--velin);
+}

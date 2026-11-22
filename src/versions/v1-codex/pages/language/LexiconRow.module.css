@@ -1,0 +1,161 @@
+/*
+ * Ligne du lexique. Étroit : la forme et son statut, puis le sens. Large : quatre colonnes
+ * alignées sur l'en-tête de la table (forme, sens, thème, statut). La notice se déplie dessous,
+ * sur un vélin plus sombre, sans cadre.
+ */
+.row {
+  scroll-margin-block-start: 6rem;
+}
+
+.row:focus {
+  outline: none;
+}
+
+.head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-areas:
+    'form status'
+    'meaning meaning';
+  column-gap: var(--e4);
+  row-gap: 0.1rem;
+  align-items: baseline;
+  inline-size: 100%;
+  min-block-size: var(--cible);
+  padding: var(--e3) var(--e2);
+  text-align: start;
+  color: var(--v1-texte);
+  transition: background-color var(--d-geste-court) var(--c-expo);
+}
+
+.head:hover {
+  background-color: oklch(0.86 0.04 82 / 0.6);
+}
+
+.row[data-open] .head {
+  background-color: var(--velin-ombre);
+}
+
+@media (min-width: 720px) {
+  .head {
+    grid-template-columns: var(--lexique-colonnes);
+    grid-template-areas: 'form meaning theme status';
+    padding-inline: var(--e3);
+  }
+}
+
+.form {
+  grid-area: form;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 540;
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  font-optical-sizing: auto;
+  overflow-wrap: anywhere;
+}
+
+.row[data-open] .form {
+  color: var(--v1-rubrique);
+}
+
+.meaning {
+  grid-area: meaning;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.35;
+  font-style: italic;
+}
+
+.same {
+  color: var(--v1-texte-2);
+}
+
+.theme {
+  display: none;
+  grid-area: theme;
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+  color: var(--v1-texte-2);
+}
+
+@media (min-width: 720px) {
+  .theme {
+    display: block;
+  }
+}
+
+.status {
+  grid-area: status;
+}
+
+/* ------------------------------------------------------------ Notice dépliée */
+.panel {
+  display: grid;
+  gap: var(--e4);
+  padding: var(--e2) var(--e3) var(--e5);
+  background: var(--velin-ombre);
+}
+
+.panel[hidden] {
+  display: none;
+}
+
+@media (min-width: 1024px) {
+  .panel {
+    grid-template-columns: minmax(0, 7fr) minmax(0, 3fr);
+    column-gap: var(--gouttiere);
+    padding-inline: var(--e3);
+  }
+}
+
+.body {
+  display: grid;
+  gap: var(--e3);
+  max-inline-size: var(--mesure);
+}
+
+.term {
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--v1-texte-2);
+}
+
+.grammar,
+.note {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--v1-texte);
+  hyphens: auto;
+}
+
+.unverified {
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--v1-rubrique);
+}
+
+.refs {
+  display: grid;
+  align-content: start;
+  gap: var(--e1);
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+}
+
+.refList {
+  display: grid;
+  gap: var(--e1);
+  margin: 0;
+  padding: 0;
+}
+
+.ref {
+  display: inline-block;
+  padding-block: 0.3rem;
+  color: var(--v1-texte);
+  overflow-wrap: anywhere;
+}

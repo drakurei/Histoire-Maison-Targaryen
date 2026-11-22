@@ -1,0 +1,30 @@
+/* Tour de page : un verso de vélin qui pivote sur la reliure, et l'ombre qu'il jette sur la page découverte. */
+.turn {
+  position: relative;
+}
+
+.leaf,
+.cast {
+  position: absolute;
+  z-index: 15;
+  display: none;
+  pointer-events: none;
+}
+
+.leaf {
+  --ombre: 0;
+
+  background-color: var(--velin-ombre);
+  /* Le verso s'assombrit à mesure qu'il se lève : la lumière vient d'en bas à gauche. */
+  background-image: linear-gradient(
+    90deg,
+    oklch(0.84 0.045 80 / 0),
+    oklch(0.2 0.03 40 / calc(var(--ombre) * 0.9)) 100%
+  );
+  backface-visibility: hidden;
+  will-change: transform;
+}
+
+.cast {
+  background: linear-gradient(90deg, oklch(0.1 0.012 25 / 0.7), oklch(0.1 0.012 25 / 0) 45%);
+}

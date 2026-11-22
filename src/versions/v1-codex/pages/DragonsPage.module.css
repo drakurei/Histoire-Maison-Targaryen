@@ -1,0 +1,122 @@
+/* Registre des dragons : titre, échelle comparée, puis les époques. */
+.head {
+  display: grid;
+  gap: var(--e5);
+  margin-block-end: var(--e6);
+}
+
+.title {
+  margin: 0;
+}
+
+.lead {
+  max-inline-size: 34em;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.42;
+  color: var(--encre);
+  text-wrap: pretty;
+  font-variant-numeric: oldstyle-nums;
+}
+
+@media (min-width: 1024px) {
+  .head {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+    column-gap: var(--gouttiere);
+    align-items: end;
+  }
+
+  .lead {
+    grid-column: 1 / 7;
+  }
+}
+
+.scaleFigure {
+  margin-block: 0 var(--e7);
+}
+
+.order {
+  max-inline-size: 36em;
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--encre-pale);
+}
+
+/* ------------------------------------------------------------ époques */
+.epoch {
+  margin-block-start: var(--e7);
+}
+
+.epochHead {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: start;
+  margin-block-end: var(--e3);
+}
+
+/* Le chiffre du volume, comme au dos du livre : Grenze Gotisch, encre rouge. */
+.numeral {
+  min-inline-size: 2.4ch;
+  font-family: var(--f-lettrine);
+  font-size: var(--t4);
+  font-weight: 600;
+  line-height: 0.82;
+  color: var(--rubrique);
+  font-variant-numeric: lining-nums;
+}
+
+.epochTitle {
+  margin: 0;
+}
+
+.epochLink {
+  color: inherit;
+  text-decoration-line: underline;
+  text-decoration-color: transparent;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+  transition: text-decoration-color var(--d-geste-court) var(--c-power4);
+}
+
+.epochLink:hover,
+.epochLink:focus-visible {
+  text-decoration-color: var(--rubrique);
+}
+
+.epochYears {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--e4);
+  margin-block-start: var(--e2);
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  line-height: var(--il-cartel);
+  color: var(--encre-pale);
+  font-variant-numeric: lining-nums;
+}
+
+.count {
+  font-style: italic;
+  font-family: var(--f-recit);
+}
+
+.rows {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@media (min-width: 1024px) {
+  .epochHead {
+    column-gap: var(--e5);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .epochLink {
+    transition: none;
+  }
+}

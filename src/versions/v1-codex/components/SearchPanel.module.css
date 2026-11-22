@@ -1,0 +1,215 @@
+/*
+ * Panneau de recherche : un feuillet de vélin qui descend de la barre haute, à droite du
+ * rayon des volumes. L'index se lit comme celui d'un livre savant : genres en rubrique,
+ * réponses en récit, dates en cartel.
+ */
+.panel {
+  inline-size: 100%;
+  max-inline-size: none;
+  block-size: 100%;
+  max-block-size: none;
+  margin: 0;
+  padding: var(--e4) var(--e4) var(--e5);
+  border: 0;
+  background: var(--velin);
+  color: var(--encre);
+  overflow: hidden;
+  opacity: 1;
+  transform: none;
+  transition:
+    transform var(--d-geste) var(--c-expo),
+    opacity var(--d-geste) var(--c-expo),
+    overlay var(--d-geste) allow-discrete,
+    display var(--d-geste) allow-discrete;
+}
+
+.panel[open] {
+  display: flex;
+  flex-direction: column;
+}
+
+@starting-style {
+  .panel[open] {
+    opacity: 0;
+    transform: translateY(-1rem);
+  }
+}
+
+@media (min-width: 1024px) {
+  .panel {
+    inline-size: min(46rem, calc(100vw - 22rem));
+    block-size: fit-content;
+    max-block-size: calc(100svh - var(--v1-barre) - 2.5rem);
+    margin-block-start: var(--v1-barre);
+    margin-inline: auto var(--e5);
+    padding: var(--e5) var(--e6) var(--e4);
+    box-shadow: 7px 9px 0 var(--v1-ombre-portee);
+  }
+}
+
+.panel::backdrop {
+  background: oklch(0.14 0.012 25 / 0.72);
+}
+
+.head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--e4);
+}
+
+.title {
+  font-size: var(--t2);
+  color: var(--rubrique);
+}
+
+.close {
+  flex: none;
+  min-block-size: var(--cible);
+  padding-inline: var(--e4);
+  background: var(--encre);
+  color: var(--velin);
+  font-family: var(--f-musee);
+  font-weight: 500;
+}
+
+.closeLabel :global(.gloss__tr) {
+  color: inherit;
+  opacity: 0.8;
+}
+
+.close:hover {
+  background: var(--sang);
+  color: var(--ivoire);
+}
+
+/* Champ : une ligne d'écriture, un trait d'encre dessous ; la braise ne se voit pas sur vélin. */
+.input {
+  inline-size: 100%;
+  min-block-size: 3.25rem;
+  margin-block-start: var(--e4);
+  padding: 0 0 0 0.1rem;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--encre);
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  box-shadow: inset 0 -2px 0 var(--encre);
+}
+
+.input::placeholder {
+  color: var(--encre-pale);
+  font-style: italic;
+}
+
+.input:focus-visible {
+  outline: none;
+  box-shadow: inset 0 -3px 0 var(--rubrique);
+}
+
+.status {
+  margin-block: var(--e3) var(--e2);
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+  color: var(--encre-pale);
+}
+
+.results {
+  flex: 1 1 auto;
+  min-block-size: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  margin-inline: calc(-1 * var(--e2));
+  padding-inline: var(--e2);
+}
+
+.group + .group {
+  margin-block-start: var(--e5);
+}
+
+.kind {
+  margin-block-end: var(--e1);
+  font-size: var(--t1);
+  color: var(--rubrique);
+}
+
+.hits {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.option {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: baseline;
+  column-gap: var(--e4);
+  min-block-size: var(--cible);
+  padding: 0.45rem var(--e2);
+  cursor: pointer;
+}
+
+.option[aria-selected='true'] {
+  background: var(--velin-ombre);
+}
+
+.option[aria-selected='true'] .label {
+  color: var(--rubrique);
+}
+
+.label {
+  font-family: var(--f-recit);
+  font-size: 1.05rem;
+  line-height: 1.3;
+}
+
+.gloss {
+  grid-column: 1;
+  font-family: var(--f-recit);
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--encre-pale);
+}
+
+.hint {
+  grid-column: 2;
+  grid-row: 1;
+  font-family: var(--f-musee);
+  font-size: 0.85rem;
+  color: var(--encre-pale);
+  text-align: end;
+  font-variant-numeric: lining-nums;
+}
+
+.hit {
+  background: none;
+  color: inherit;
+  text-decoration-line: underline;
+  text-decoration-color: var(--rubrique);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+.more {
+  padding-inline: var(--e2);
+  font-family: var(--f-musee);
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--encre-pale);
+}
+
+.keys {
+  display: none;
+  margin-block-start: var(--e3);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--encre-pale);
+}
+
+@media (min-width: 1024px) {
+  .keys {
+    display: block;
+  }
+}

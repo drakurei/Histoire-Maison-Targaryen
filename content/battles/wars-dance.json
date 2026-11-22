@@ -1,0 +1,880 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-02",
+  "items": [
+    {
+      "id": "danse-des-dragons",
+      "title": {
+        "fr": "La Danse des Dragons",
+        "en": "The Dance of the Dragons"
+      },
+      "from": 129,
+      "to": 131,
+      "periodId": "p5",
+      "summary": {
+        "fr": "Viserys Ier meurt le troisième jour de la troisième lune de 129. Il avait désigné sa fille Rhaenyra en 105 et ne s’était jamais dédit ; le conseil restreint couronne pourtant Aegon, fils aîné de son second lit, et Rhaenyra est couronnée à son tour à Peyredragon. Pendant un peu plus de deux ans, les deux moitiés de la maison Targaryen se font la guerre, chacune avec ses dragons. Depuis la Conquête, deux dragons ne s’étaient combattus qu’une fois, sous l’Œildieu, en 43 ; cela devient ordinaire. Lamarck et sa flotte, la plupart des seigneurs du Conflans, le Val et le Nord se déclarent pour Rhaenyra ; la capitale, Villevieille, Castral Roc et Accalmie pour Aegon. Les noirs ont plus de dragons, mais plusieurs sont jeunes, sans cavalier ou sauvages ; les verts n’en ont que quatre en âge de se battre, dont Vhagar, la plus grande de toutes, avec le Trône de Fer et le trésor. Rhaenyra prend Port-Réal au début de 130, la perd dans l’année devant une émeute et meurt à Peyredragon le vingt-deuxième jour de la dixième lune. Aegon II lui survit moins d’un an : ses armées sont détruites, et il meurt empoisonné en 131. La couronne revient au fils de Rhaenyra, marié à la fille d’Aegon. Presque tout ce que l’on sait de cette guerre vient de trois témoins partiaux, le Grand Mestre Orwyle (à travers le récit de Munkun), le septon Eustace et le bouffon Champignon, que l’archimestre Gyldayn confronte sans toujours trancher. Il jugeait le mot « danse » mal choisi et aurait préféré parler de la mort des dragons.",
+        "en": "Viserys I died on the third day of the third moon of 129 AC. He had named his daughter Rhaenyra heir in 105 and never withdrew the choice; his small council nonetheless crowned Aegon, the eldest son of his second marriage, and Rhaenyra was crowned in her turn on Dragonstone. For a little over two years the two halves of House Targaryen made war on each other, each with dragons of its own. Since the Conquest dragon had fought dragon only once, beneath the Gods Eye in 43 AC; now it became commonplace. Driftmark and its fleet, most of the river lords, the Vale and the North declared for Rhaenyra; the capital, Oldtown, Casterly Rock and Storm’s End for Aegon. The blacks had more dragons, though several were young, riderless or wild; the greens had only four of fighting size, Vhagar, the largest alive, among them, together with the Iron Throne and the treasury. Rhaenyra took King’s Landing early in 130, lost it to a riot within the year, and died on Dragonstone on the twenty-second day of the tenth moon. Aegon II outlived her by less than a year: his armies were destroyed, and in 131 he was poisoned. The crown went to Rhaenyra’s son, wed to Aegon’s daughter. Nearly everything known of the war comes from three partial witnesses, Grand Maester Orwyle (through Munkun’s account), Septon Eustace and the fool Mushroom, whom Archmaester Gyldayn sets against one another without always deciding between them. He thought “dance” a poor word for it and would have preferred to speak of the dying of the dragons."
+      },
+      "causes": {
+        "fr": "La querelle est ancienne. En 101, le Grand Conseil de Harrenhal avait préféré Viserys, héritier par les mâles, à la descendance de la princesse Rhaenys : beaucoup y virent une règle. En 105, à la mort de la reine Aemma Arryn, Viserys désigne pourtant sa fille Rhaenyra, âgée de huit ans, et des centaines de seigneurs lui prêtent serment. Il se remarie en 106 ; Alicent Hightower, fille de sa Main, lui donne quatre enfants, dont trois fils. Deux partis se forment à la cour. Depuis le tournoi de 111, où la reine parut en vert et la princesse aux couleurs rouge et noir de sa maison, on les nomme les verts et les noirs. S’y ajoutent la rumeur qui fait des trois premiers fils de Rhaenyra des bâtards de ser Harwin Strong, son remariage avec son oncle Daemon, que les Hightower redoutent, et l’œil que le jeune Aemond perd en 120 dans une rixe avec ses neveux. Le roi ne règle rien et maintient sa fille. À sa mort, le conseil vert invoque le précédent de 101 et des serments vieux de vingt-quatre ans. Lord Beesbury, le grand argentier, s’y oppose et n’y survit pas, et les trois témoins ne s’accordent pas sur sa fin : mort d’un refroidissement au cachot selon le récit tiré d’Orwyle, égorgé par Criston Cole selon le septon Eustace, jeté par une fenêtre selon Champignon. Aucun des deux derniers n’était dans la pièce.",
+        "en": "The quarrel was an old one. In 101 AC the Great Council at Harrenhal preferred Viserys, heir through the male line, to the descendants of Princess Rhaenys, and many took that for a rule. In 105, when Queen Aemma Arryn died, Viserys nonetheless named his eight-year-old daughter Rhaenyra as heir, and hundreds of lords swore to her. He married again in 106; Alicent Hightower, his Hand’s daughter, bore him four children, three of them sons. Two parties formed at court. Since the tourney of 111, where the queen wore green and the princess the red and black of her house, they have been called the greens and the blacks. To this were added the rumour that Rhaenyra’s first three sons were bastards of Ser Harwin Strong, her second marriage, to her uncle Daemon, whom the Hightowers feared, and the eye young Aemond lost in 120 in a brawl with his nephews. The king settled nothing and kept his daughter as heir. When he died, the green council argued from the precedent of 101 and from oaths twenty-four years old. Lord Beesbury, the master of coin, objected and did not survive it, and the three witnesses disagree about his end: dead of a chill in the black cells according to the account drawn from Orwyle, his throat cut by Criston Cole according to Septon Eustace, thrown from a window according to Mushroom. Neither of the last two was in the room."
+      },
+      "belligerents": [
+        {
+          "id": "noirs",
+          "name": {
+            "fr": "Les noirs : le parti de la reine Rhaenyra",
+            "en": "The blacks: Queen Rhaenyra’s party"
+          },
+          "tone": "noir",
+          "leaders": [
+            { "id": "rhaenyra", "name": { "fr": "Rhaenyra Targaryen", "en": "Rhaenyra Targaryen" } },
+            { "id": "daemon", "name": { "fr": "Daemon Targaryen", "en": "Daemon Targaryen" } },
+            { "id": "rhaenys-fille-aemon", "name": { "fr": "Rhaenys Targaryen", "en": "Rhaenys Targaryen" } },
+            { "id": "jacaerys-velaryon", "name": { "fr": "Jacaerys Velaryon", "en": "Jacaerys Velaryon" } },
+            { "id": "corlys-velaryon", "name": { "fr": "Corlys Velaryon", "en": "Corlys Velaryon" } },
+            { "id": "addam-velaryon", "name": { "fr": "Addam Velaryon", "en": "Addam Velaryon" } },
+            { "name": { "fr": "Cregan Stark", "en": "Cregan Stark" } },
+            { "name": { "fr": "Roderick Dustin", "en": "Roderick Dustin" } },
+            { "name": { "fr": "Kermit Tully", "en": "Kermit Tully" } },
+            { "name": { "fr": "Benjicot Nerbosc", "en": "Benjicot Blackwood" } }
+          ]
+        },
+        {
+          "id": "verts",
+          "name": {
+            "fr": "Les verts : le parti du roi Aegon II",
+            "en": "The greens: King Aegon II’s party"
+          },
+          "tone": "vert",
+          "leaders": [
+            { "id": "aegon-ii", "name": { "fr": "Aegon II Targaryen", "en": "Aegon II Targaryen" } },
+            { "id": "alicent-hightower", "name": { "fr": "Alicent Hightower", "en": "Alicent Hightower" } },
+            { "name": { "fr": "Otto Hightower", "en": "Otto Hightower" } },
+            { "name": { "fr": "Criston Cole", "en": "Criston Cole" } },
+            { "id": "aemond", "name": { "fr": "Aemond Targaryen", "en": "Aemond Targaryen" } },
+            { "id": "daeron-fils-viserys-i", "name": { "fr": "Daeron Targaryen", "en": "Daeron Targaryen" } },
+            { "name": { "fr": "Ormund Hightower", "en": "Ormund Hightower" } },
+            { "name": { "fr": "Jason Lannister", "en": "Jason Lannister" } },
+            { "name": { "fr": "Borros Baratheon", "en": "Borros Baratheon" } },
+            { "name": { "fr": "Sharako Lohar, amiral de la Triarchie", "en": "Sharako Lohar, admiral of the Triarchy" } }
+          ]
+        },
+        {
+          "id": "emeutiers",
+          "name": {
+            "fr": "La foule de Port-Réal",
+            "en": "The mob of King’s Landing"
+          },
+          "tone": "neutre",
+          "leaders": [
+            { "name": { "fr": "Le Berger", "en": "The Shepherd" } }
+          ]
+        }
+      ],
+      "battles": [
+        {
+          "id": "baie-des-naufrageurs",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "La mort de Lucerys au-dessus de la baie des Naufrageurs",
+            "en": "The Death of Lucerys over Shipbreaker Bay"
+          },
+          "year": 129,
+          "dateCertainty": "exacte",
+          "placeId": "accalmie",
+          "placeName": {
+            "fr": "Au-dessus de la baie des Naufrageurs, devant Accalmie",
+            "en": "Above Shipbreaker Bay, off Storm’s End"
+          },
+          "sides": ["noirs", "verts"],
+          "victor": "verts",
+          "dragons": [
+            {
+              "dragonId": "arrax",
+              "side": "noirs",
+              "fate": {
+                "fr": "Tué. Rattrapé dans l’orage par Vhagar, il tombe à la mer ; sa tête et son cou s’échouent trois jours plus tard sous Accalmie.",
+                "en": "Killed. Overtaken in the storm by Vhagar, he fell into the sea; his head and neck washed up below Storm’s End three days later."
+              }
+            },
+            {
+              "dragonId": "vhagar",
+              "side": "verts",
+              "fate": {
+                "fr": "Indemne. Cinq fois plus grosse que son adversaire, selon la chronique.",
+                "en": "Unharmed. Five times the size of her opponent, by the chronicle’s reckoning."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Rhaenyra envoie ses fils aînés en messagers, après leur avoir fait jurer de ne pas combattre. Lucerys, treize ans, se pose à Accalmie sur Arrax et y trouve son oncle Aemond, arrivé avant lui : lord Borros Baratheon négocie déjà le mariage du prince avec une de ses filles. Borros repousse la lettre de la reine. Aemond réclame à son neveu un œil pour celui qu’il a perdu en 120 ; les hommes de Borros l’empêchent de frapper sous ce toit. Lucerys repart dans l’orage, et Aemond le poursuit sur Vhagar. Du château, on ne distingue que des lueurs dans l’orage, puis Arrax tombe. Munkun, que suit Gyldayn, tient que le prince est mort avec son dragon ; Champignon prétend que son corps s’est échoué et qu’Aemond lui a pris les yeux, et d’autres récits, que la chronique écarte, le font survivre.",
+            "en": "Rhaenyra sent her elder sons out as envoys, sworn on the Seven-Pointed Star to carry messages and not to fight. Lucerys, thirteen, landed Arrax at Storm’s End and found his uncle Aemond there before him: Lord Borros Baratheon was already bargaining over a betrothal between the prince and one of his daughters. Borros would not have the queen’s letter. Aemond demanded an eye from his nephew for the one he had lost in 120; Borros’s men would not let him strike under that roof. Lucerys flew off into the storm, and Aemond went after him on Vhagar. From the castle only flashes could be made out in the storm, and then Arrax fell. Munkun, whom Gyldayn follows, holds that the prince died with his dragon; Mushroom has the body wash ashore and Aemond cut out its eyes, and other tales, which the chronicle dismisses, let the boy live."
+          },
+          "outcome": {
+            "fr": "Premier dragon tué de la guerre. Borros Baratheon se déclare pour les verts, sans prendre part aux combats avant la fin. À Port-Réal, Alicent et Otto Hightower s’alarment, Aegon II fête son frère. Chaque camp a désormais un mort à venger : Daemon répond par le meurtre du prince Jaehaerys, fils aîné d’Aegon II, dans le Donjon Rouge.",
+            "en": "The first dragon killed in the war. Borros Baratheon declared for the greens, though he took no part in the fighting until near the end. In King’s Landing Alicent and Otto Hightower were dismayed and Aegon II feasted his brother. Each side now had a death to avenge: Daemon answered with the murder of Prince Jaehaerys, Aegon II’s eldest son, inside the Red Keep."
+          },
+          "losses": {
+            "fr": "Le prince Lucerys Velaryon et Arrax. Aucune perte du côté d’Aemond.",
+            "en": "Prince Lucerys Velaryon and Arrax. None on Aemond’s side."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: The Blacks and the Greens" },
+            { "id": "fab", "locator": "The Dying of the Dragons: A Son for a Son" },
+            { "id": "tpatq" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon II" }
+          ]
+        },
+        {
+          "id": "moulin-brule",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "La bataille du Moulin brûlé",
+            "en": "The Battle of the Burning Mill"
+          },
+          "year": 129,
+          "dateCertainty": "exacte",
+          "placeName": {
+            "fr": "Un moulin au bord d’une rivière du Conflans ; les sources ne le situent pas davantage",
+            "en": "A riverside mill in the riverlands; the sources place it no more exactly"
+          },
+          "sides": ["noirs", "verts"],
+          "victor": "noirs",
+          "dragons": [],
+          "summary": {
+            "fr": "Daemon avait pris Harrenhal sans coup férir : c’est ici que deux armées se rencontrent pour la première fois. Les Nerbosc de Corneilla se sont déclarés pour Rhaenyra, les Bracken de La Haye-Pierre pour Aegon, et leur haine est bien plus vieille que la querelle. Lord Samwell Nerbosc fait ravager les terres de ses voisins. Ser Amos Bracken marche pour riposter ; il est surpris dans son camp, près d’un moulin, au bord d’une rivière. Il tue lord Samwell en combat singulier, puis tombe d’une flèche de barral que l’on attribue à Alysanne, sœur du mort. Le moulin brûle pendant le combat, qui dure des heures. Les Bracken, conduits par un bâtard de la maison, se replient vers leur château et le trouvent pris : Daemon s’en est emparé en leur absence, avec leur seigneur. Aucun dragon n’a paru sur le champ de bataille.",
+            "en": "Daemon had taken Harrenhal without a blow; this was the first time two armies met in the field. The Blackwoods of Raventree Hall had declared for Rhaenyra and the Brackens of Stone Hedge for Aegon, and their hatred was far older than the quarrel. Lord Samwell Blackwood sent raiders into his neighbours’ lands. Ser Amos Bracken marched to answer him and was surprised in camp, beside a mill on a river. He killed Lord Samwell in single combat and then fell to a weirwood arrow, loosed, it is said, by the dead man’s sister Alysanne. The mill burned during the fighting, which went on for hours. The Brackens, led off by a bastard of the house, fell back on their castle and found it taken: Daemon had seized it, and their lord with it, while they were away. No dragon appeared over the field."
+          },
+          "outcome": {
+            "fr": "Les Bracken se rendent, et les seigneurs riverains se rassemblent à Harrenhal autour de Daemon. Aegon II n’a plus de partisan en armes dans le Conflans.",
+            "en": "The Brackens yielded, and the river lords gathered to Daemon at Harrenhal. Aegon II had no supporter left under arms in the riverlands."
+          },
+          "losses": {
+            "fr": "Lord Samwell Nerbosc et ser Amos Bracken. Aucun chiffre n’est donné.",
+            "en": "Lord Samwell Blackwood and Ser Amos Bracken. No figures are given."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: The Red Dragon and the Gold" },
+            { "id": "tpatq" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon II" }
+          ]
+        },
+        {
+          "id": "repos-des-freux",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "La bataille de Repos-des-Freux",
+            "en": "The Battle at Rook’s Rest"
+          },
+          "year": 129,
+          "dateCertainty": "exacte",
+          "placeId": "repos-du-freux",
+          "placeName": {
+            "fr": "Repos-des-Freux, dans les terres de la Couronne, au nord de Sombreval",
+            "en": "Rook’s Rest, in the crownlands, north of Duskendale"
+          },
+          "sides": ["noirs", "verts"],
+          "victor": "verts",
+          "dragons": [
+            {
+              "dragonId": "meleys",
+              "side": "noirs",
+              "fate": {
+                "fr": "Tuée. Elle tient le cou de Sunfyre dans ses mâchoires quand Vhagar s’abat sur eux ; les trois dragons tombent ensemble et elle ne se relève pas.",
+                "en": "Killed. She had Sunfyre’s neck in her jaws when Vhagar fell on them both; all three dragons came down together and she did not rise."
+              }
+            },
+            {
+              "dragonId": "sunfyre",
+              "side": "verts",
+              "fate": {
+                "fr": "Mutilé. Une aile à demi arrachée ; incapable de voler et trop lourd pour être déplacé, il reste dans les champs autour du château.",
+                "en": "Maimed. One wing half torn away; unable to fly and too heavy to move, he was left in the fields around the castle."
+              }
+            },
+            {
+              "dragonId": "vhagar",
+              "side": "verts",
+              "fate": {
+                "fr": "Indemne. Seule des trois à se relever.",
+                "en": "Unharmed. The only one of the three to rise."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Devenu Main, ser Criston Cole veut une guerre plus rude que celle d’Otto Hightower. Il sort de Port-Réal avec cent chevaliers, cinq cents hommes d’armes et trois fois autant de mercenaires, met Sombreval à sac, fait décapiter lord Sombrelyn, puis assiège Repos-des-Freux. Lord Staunton demande secours à Peyredragon. Rhaenyra retient ses fils ; neuf jours plus tard, c’est la princesse Rhaenys, cinquante-cinq ans, qui paraît seule sur Meleys. Les scorpions et les archers de Cole ne l’arrêtent pas. Alors Aegon II sur Sunfyre et Aemond sur Vhagar se montrent : le siège était un appât. Rhaenys ne se dérobe pas. Les trois dragons se battent à mille pieds du sol et tombent ensemble. Près du cadavre de Meleys, on trouve un corps calciné que l’on tient pour celui de la princesse, sans pouvoir le reconnaître. Le roi, grièvement brûlé, plusieurs os brisés, reste des mois hors d’état de régner.",
+            "en": "As the new Hand, Ser Criston Cole wanted a harder war than Otto Hightower had fought. He left King’s Landing with a hundred knights, five hundred men-at-arms and three times as many sellswords, sacked Duskendale, beheaded Lord Darklyn, and laid siege to Rook’s Rest. Lord Staunton sent to Dragonstone for help. Rhaenyra kept her sons back; nine days later it was Princess Rhaenys, fifty-five years old, who came alone on Meleys. Cole’s scorpions and archers could not stop her. Then Aegon II on Sunfyre and Aemond on Vhagar showed themselves: the siege had been bait. Rhaenys did not turn away. The three dragons fought a thousand feet up and came down together. Beside the carcass of Meleys lay a body burned past knowing, taken to be the princess. The king, badly burned and with several bones broken, was unfit to rule for months."
+          },
+          "outcome": {
+            "fr": "Le château est pris, lord Staunton et sa garnison mis à mort ; la tête de Meleys est promenée dans Port-Réal. Aemond gouverne à la place de son frère avec le titre de Protecteur du royaume. Lord Corlys Velaryon reproche à Rhaenyra la mort de sa femme : la reine n’y est pas allée et a retenu ses fils.",
+            "en": "The castle was taken and Lord Staunton and his garrison put to death; the head of Meleys was drawn through King’s Landing. Aemond ruled in his brother’s place as Protector of the Realm. Lord Corlys Velaryon blamed Rhaenyra for his wife’s death: the queen had not gone herself and had held back her sons."
+          },
+          "losses": {
+            "fr": "Chez les noirs : la princesse Rhaenys, Meleys, lord Staunton et la centaine d’hommes de sa garnison. Chez les verts : huit cents hommes, selon la chronique ; le roi et Sunfyre sont hors de combat.",
+            "en": "On the black side: Princess Rhaenys, Meleys, Lord Staunton and the hundred men of his garrison. On the green side: eight hundred men, by the chronicle’s count; the king and Sunfyre were out of the war."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: The Red Dragon and the Gold" },
+            { "id": "tpatq" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon II" }
+          ]
+        },
+        {
+          "id": "gosier",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "La bataille du Gosier",
+            "en": "The Battle of the Gullet"
+          },
+          "year": 130,
+          "dateCertainty": "exacte",
+          "placeId": "le-gosier",
+          "placeName": {
+            "fr": "Le Gosier, autour de Peyredragon et de Lamarck",
+            "en": "The Gullet, around Dragonstone and Driftmark"
+          },
+          "sides": ["noirs", "verts"],
+          "victor": "noirs",
+          "dragons": [
+            {
+              "dragonId": "vermax",
+              "side": "noirs",
+              "fate": {
+                "fr": "Tué. Volant trop bas, il s’abat dans une galère en flammes et coule avec elle ; un carreau dans l’œil ou un grappin, la chronique hésite.",
+                "en": "Killed. Flying too low, he came down into a burning galley and sank with it; a quarrel in the eye or a grapnel, the chronicle is unsure."
+              }
+            },
+            {
+              "dragonId": "stormcloud",
+              "side": "noirs",
+              "fate": {
+                "fr": "Mort avant la bataille proprement dite. Criblé de flèches, un trait de scorpion dans le cou, il porte le prince Aegon jusqu’à Peyredragon et y meurt dans l’heure.",
+                "en": "Dead before the battle proper. Wounded by arrows and by a scorpion bolt in the neck, he brought Prince Aegon back to Dragonstone and did not outlive the hour."
+              }
+            },
+            {
+              "dragonId": "vermithor",
+              "side": "noirs",
+              "fate": {
+                "fr": "Indemne. Monté par Hugh Marteau.",
+                "en": "Unharmed. Ridden by Hugh Hammer."
+              }
+            },
+            {
+              "dragonId": "silverwing",
+              "side": "noirs",
+              "fate": {
+                "fr": "Indemne. Montée par Ulf le Blanc.",
+                "en": "Unharmed. Ridden by Ulf White."
+              }
+            },
+            {
+              "dragonId": "seasmoke",
+              "side": "noirs",
+              "fate": {
+                "fr": "Indemne. Monté par Addam Velaryon.",
+                "en": "Unharmed. Ridden by Addam Velaryon."
+              }
+            },
+            {
+              "dragonId": "sheepstealer",
+              "side": "noirs",
+              "fate": {
+                "fr": "Indemne. Monté par Orties.",
+                "en": "Unharmed. Ridden by Nettles."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Otto Hightower avait obtenu l’alliance de la Triarchie pour briser le blocus des Velaryon. Quatre-vingt-dix navires de guerre, menés par le Lysien Sharako Lohar, remontent des Degrés de Pierre. Ils prennent d’abord la cogue qui emmenait à Pentos les deux plus jeunes fils de Rhaenyra : Viserys est capturé ; Aegon, neuf ans, s’échappe sur Stormcloud et donne l’alerte. Le cinquième jour de l’an 130, la flotte attaque à l’aube, au nord et au sud de Peyredragon. Jacaerys fond sur les galères avec Vermax, rejoint par les quatre dragons des Semailles, et la ligne ennemie se disloque. Mais Vermax vole trop bas et s’abat. Le prince saute, s’accroche à une épave et meurt sous les carreaux des arbalétriers de Myr. L’escadre du sud incendie le port de Lamarck et le château des Velaryon. The World of Ice & Fire range la bataille en 129 ; Fire & Blood la date de 130.",
+            "en": "Otto Hightower had secured the alliance of the Triarchy, Daemon’s old enemy, to break the Velaryon blockade. Ninety warships under the Lysene admiral Sharako Lohar came up from the Stepstones. They first took the cog carrying Rhaenyra’s two youngest sons to Pentos: Viserys was captured; Aegon, nine years old, escaped on Stormcloud and raised the alarm. On the fifth day of 130 AC the fleet attacked at sunrise, north and south of Dragonstone. Jacaerys fell on the galleys with Vermax, joined by the four dragons claimed in the Sowing, and the enemy line broke apart. But Vermax flew too low and went down. The prince leapt clear, clung to wreckage, and died under Myrish crossbow bolts. Meanwhile the southern squadron burned Driftmark’s port and the Velaryon seat. The World of Ice & Fire lists the battle under 129; Fire & Blood, the later book, dates it to 130."
+          },
+          "outcome": {
+            "fr": "Les noirs gardent le Gosier, et l’on parle de victoire : la Triarchie ne ramène que vingt-huit navires et ne reparaît plus dans la guerre ; le blocus tient. Mais Rhaenyra a perdu son héritier, lord Corlys son port et son château, et le jeune Viserys passe pour mort. Le vainqueur indiqué ici est donc celui du champ de bataille, non celui du bilan.",
+            "en": "The blacks kept the Gullet, and it was called a victory: the Triarchy brought home only twenty-eight ships and took no further part in the war; the blockade held. But Rhaenyra had lost her heir, Lord Corlys his port and his castle, and young Viserys was given up for dead. The victor recorded here is the side that held the water, not the side that came out ahead."
+          },
+          "losses": {
+            "fr": "Chez les noirs : le prince Jacaerys, Vermax, Stormcloud, près du tiers de la flotte Velaryon, les habitants du port de Lamarck. Chez les verts : soixante-deux des quatre-vingt-dix navires de la Triarchie. La chronique parle de milliers de morts sans les dénombrer.",
+            "en": "On the black side: Prince Jacaerys, Vermax, Stormcloud, nearly a third of the Velaryon fleet, and the people of Driftmark’s port. On the green side: sixty-two of the Triarchy’s ninety ships. The chronicle speaks of thousands dead and does not count them."
+          },
+          "reliability": "contradictoire",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: The Red Dragon and the Gold" },
+            { "id": "tpatq" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon II" }
+          ]
+        },
+        {
+          "id": "hydromel",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "La bataille de l’Hydromel",
+            "en": "The Battle of the Honeywine"
+          },
+          "year": 130,
+          "dateCertainty": "exacte",
+          "placeName": {
+            "fr": "Rives de l’Hydromel, dans le Bief",
+            "en": "The banks of the Honeywine, in the Reach"
+          },
+          "sides": ["noirs", "verts"],
+          "victor": "verts",
+          "dragons": [
+            {
+              "dragonId": "tessarion",
+              "side": "verts",
+              "fate": {
+                "fr": "Indemne. Son arrivée, en pleine bataille, décide de la journée.",
+                "en": "Unharmed. Her arrival in mid-battle decided the day."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Les verts croyaient le Bief acquis. Or plusieurs maisons s’y déclarent pour Rhaenyra, jusque parmi les vassaux des Hightower, et Hautjardin, dont le seigneur est un enfant en bas âge, reste neutre. Lord Ormund Hightower sort de Villevieille avec mille chevaliers, mille archers, trois mille hommes d’armes et une foule de mercenaires et de suiveurs que personne n’a comptée. Lord Alan Tarly, ser Alan Beesbury et lord Owen Costayne le harcèlent sans se laisser saisir. Puis lord Thaddeus Rowan descend du nord avec une armée égale à la sienne. Ormund s’arrête sur l’Hydromel et réclame un dragon à Port-Réal, qui n’en envoie pas. Une quinzaine de jours après le Gosier, il est attaqué de front et à revers. Ses lignes cèdent quand paraît Tessarion, montée par le prince Daeron, le plus jeune frère du roi, écuyer de lord Ormund. Les assaillants se débandent.",
+            "en": "The greens had counted on the Reach. Instead several houses there declared for Rhaenyra, some of them sworn to the Hightowers, and Highgarden, whose lord was an infant, stayed neutral. Lord Ormund Hightower marched from Oldtown with a thousand knights, a thousand archers, three thousand men-at-arms and a train of sellswords and followers that no one counted. Lord Alan Tarly, Ser Alan Beesbury and Lord Owen Costayne harried him and would not be pinned down. Then Lord Thaddeus Rowan came south with a host as large as his own. Ormund halted on the Honeywine and asked King’s Landing for a dragon; none was sent. A fortnight after the Gullet he was attacked in front and rear. His lines were giving way when Tessarion appeared overhead, ridden by Prince Daeron, the king’s youngest brother and Ormund’s squire. The attackers broke and fled."
+          },
+          "outcome": {
+            "fr": "Seul lord Rowan parvient à se replier vers le nord. Ormund Hightower arme Daeron chevalier après la bataille, et l’armée de Villevieille reprend sa marche vers la capitale, éclairée par un dragon.",
+            "en": "Only Lord Rowan got away, northward. Ormund Hightower knighted Daeron after the battle, and the Oldtown host resumed its march on the capital with a dragon scouting ahead."
+          },
+          "losses": {
+            "fr": "Aucun chiffre. Parmi les chefs noirs : Tom Flowers, bâtard de Pont-l’Amer, tué ; lord Owen Costayne blessé à mort ; lord Alan Tarly et ser Alan Beesbury capturés.",
+            "en": "No figures. Among the black commanders: Tom Flowers, the Bastard of Bitterbridge, killed; Lord Owen Costayne mortally wounded; Lord Alan Tarly and Ser Alan Beesbury taken."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: The Red Dragon and the Gold" },
+            { "id": "tpatq" }
+          ]
+        },
+        {
+          "id": "chute-de-port-real",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "La chute de Port-Réal",
+            "en": "The Fall of King’s Landing"
+          },
+          "year": 130,
+          "dateCertainty": "exacte",
+          "placeId": "port-real",
+          "placeName": {
+            "fr": "Port-Réal",
+            "en": "King’s Landing"
+          },
+          "sides": ["noirs", "verts"],
+          "victor": "noirs",
+          "dragons": [
+            {
+              "dragonId": "syrax",
+              "side": "noirs",
+              "fate": {
+                "fr": "Indemne. Montée par Rhaenyra, elle tourne au-dessus de la colline d’Aegon pendant que la ville change de mains.",
+                "en": "Unharmed. Ridden by Rhaenyra, she circled above Aegon’s High Hill while the city changed hands."
+              }
+            },
+            {
+              "dragonId": "caraxes",
+              "side": "noirs",
+              "fate": {
+                "fr": "Indemne. Monté par Daemon, venu de Harrenhal en évitant la colonne d’Aemond.",
+                "en": "Unharmed. Ridden by Daemon, who had come from Harrenhal by a route clear of Aemond’s column."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Aemond et Criston Cole ont quitté la capitale avec quatre mille hommes et Vhagar pour écraser Daemon à Harrenhal. C’est ce que Daemon attendait : averti de leur approche, il abandonne le château, passe au large de leur colonne et rejoint Rhaenyra dans le ciel de Port-Réal, tandis que la flotte de lord Corlys entre dans la baie. Le guet, que Daemon a jadis commandé, lui est resté fidèle. Les manteaux d’or arrêtent ou tuent les sept capitaines des portes choisis par les verts ; ser Luthor Largent tue son second, ser Gwayne Hightower, et fait ouvrir aux hommes débarqués. Seule la porte de la Rivière résiste : treize chevaliers Hightower et cent hommes d’armes y tiennent près de huit heures. La ville tombe en moins d’une journée, et la reine Alicent fait déposer les armes. Aegon II a disparu : lord Larys Strong l’a fait sortir par un passage secret.",
+            "en": "Aemond and Criston Cole had marched out with four thousand men and Vhagar to crush Daemon at Harrenhal. That was what Daemon wanted. Forewarned of their march, he abandoned the castle, flew wide of their line of march and joined Rhaenyra in the sky over King’s Landing while Lord Corlys’s fleet entered the bay. The City Watch, which Daemon had once commanded, was still his. Gold cloaks seized or killed the seven gate captains the greens had chosen; Ser Luthor Largent killed his own second, Ser Gwayne Hightower, and had the gates opened to the men from the ships. Only the River Gate was held: thirteen Hightower knights and a hundred men-at-arms kept it for close to eight hours. The city fell in under a day, and Queen Alicent ordered her men to yield. Aegon II was gone, smuggled out by Lord Larys Strong through a secret passage."
+          },
+          "outcome": {
+            "fr": "Rhaenyra s’assied sur le Trône de Fer. Otto Hightower et lord Jasper Wylde sont décapités, ainsi que les lords Rosby et Castelfoyer, qui s’étaient soumis à Aegon ; ser Tyland Lannister est mis à la question pour l’or de la couronne ; Alicent et Helaena sont captives. Le septon Eustace, favorable à Aegon, écrit que le trône entailla la reine, signe qu’il la rejetait.",
+            "en": "Rhaenyra took her seat on the Iron Throne. Otto Hightower and Lord Jasper Wylde were beheaded, as were Lords Rosby and Stokeworth, who had submitted to Aegon; Ser Tyland Lannister was put to the question for the crown’s gold; Alicent and Helaena were made captive. Septon Eustace, who favoured Aegon, writes that the throne cut the queen, a sign that it refused her."
+          },
+          "losses": {
+            "fr": "Aucun chiffre. La ville change de mains presque sans combat ; les morts nommés sont ser Gwayne Hightower, tué par son propre chef, puis les exécutés des jours suivants.",
+            "en": "No figures. The city changed hands almost without a fight; the named dead are Ser Gwayne Hightower, killed by his own commander, and then those executed in the days that followed."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: The Red Dragon and the Gold" },
+            { "id": "fab", "locator": "The Dying of the Dragons: Rhaenyra Triumphant" },
+            { "id": "tpatq" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon II" }
+          ]
+        },
+        {
+          "id": "berge-du-lac",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "La bataille de la Berge du Lac (la Curée des Poissons)",
+            "en": "The Battle by the Lakeshore (the Fishfeed)"
+          },
+          "year": 130,
+          "dateCertainty": "exacte",
+          "placeId": "oeildieu",
+          "placeName": {
+            "fr": "Rive ouest de l’Œildieu",
+            "en": "Western shore of the Gods Eye"
+          },
+          "sides": ["noirs", "verts"],
+          "victor": "noirs",
+          "dragons": [],
+          "summary": {
+            "fr": "L’armée de l’Ouest, partie avec mille chevaliers et sept fois autant d’archers et d’hommes d’armes, a déjà perdu deux chefs : lord Jason Lannister, tué au passage de la Ruffurque, puis ser Adrian Tarbeck. Le vieux lord Humfrey Lefford, lui-même blessé, la conduit lentement vers Harrenhal. Sur la rive ouest de l’Œildieu, il trouve devant lui lord Roderick Dustin et deux mille hommes du Nord, lord Forrest Frey et les archers de Corneilla ; d’autres seigneurs riverains arrivent par le sud, d’autres encore le lendemain. Lefford s’adosse au lac et appelle Aemond : ses corbeaux sont abattus. Les noirs attaquent à l’aube, avant que Vhagar ne vienne. Les gens du Nord chargent cinq fois les piques. Pressés de trois côtés, les hommes de l’Ouest sont repoussés dans les roseaux et dans l’eau. Ceux qui en sont revenus ont nommé la journée « la Curée des Poissons » (the Fishfeed dans l’original).",
+            "en": "The host of the west had set out with a thousand knights and seven times as many archers and men-at-arms, and had already lost two commanders: Lord Jason Lannister, killed at the crossing of the Red Fork, then Ser Adrian Tarbeck. Old Lord Humfrey Lefford, wounded, led it slowly toward Harrenhal. On the western shore of the Gods Eye he found Lord Roderick Dustin in his path with two thousand northmen, Lord Forrest Frey, and the archers of Raventree; more river lords came up from the south, and others the next day. Lefford set his back to the lake and sent to Aemond for help; his ravens were shot down. The blacks attacked at dawn, before Vhagar could come. The northmen charged the pikes five times. With enemies on three sides, the westermen gave ground until they stood in the reeds, and then in the lake. Its survivors knew the day only as the Fishfeed."
+          },
+          "outcome": {
+            "fr": "L’armée de l’Ouest n’existe plus, et les côtes des Lannister restent sans défense devant les Fer-nés de Dalton Greyjoy. À Harrenhal, Aemond et Criston Cole se séparent : le premier part brûler le Conflans sur Vhagar, le second emmène l’armée vers le sud. La chronique y voit la bataille terrestre la plus sanglante de la guerre.",
+            "en": "The host of the west had ceased to exist, and the Lannister coasts lay open to Dalton Greyjoy’s ironborn. At Harrenhal Aemond and Criston Cole parted: the one went off to burn the riverlands on Vhagar, the other took the army south. The chronicle calls it the bloodiest land battle of the war."
+          },
+          "losses": {
+            "fr": "Deux mille morts à la tombée du jour, selon la chronique, qui ne les répartit pas entre les camps. Chez les noirs : les lords Frey, Bigglestone et Charlton, et plus des deux tiers des hommes du Nord, tués ou blessés. Chez les verts : lord Lefford, les lords Swyft et Reyne, ser Clarent Crakehall et ser Emory Hill, le Bâtard de Port-Lannis (ser Tyler Hill dans les premiers tirages, nom corrigé par un erratum).",
+            "en": "Two thousand dead by nightfall, according to the chronicle, which does not divide them between the sides. On the black side: Lords Frey, Bigglestone and Charlton, and more than two thirds of the northmen killed or wounded. On the green side: Lord Lefford, Lords Swyft and Reyne, Ser Clarent Crakehall and Ser Emory Hill, the Bastard of Lannisport (Ser Tyler Hill in the first printings, a name later corrected by erratum)."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: Rhaenyra Triumphant" },
+            { "id": "tpatq" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon II" }
+          ]
+        },
+        {
+          "id": "bal-du-boucher",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "Le Bal du Boucher",
+            "en": "The Butcher’s Ball"
+          },
+          "year": 130,
+          "dateCertainty": "exacte",
+          "placeName": {
+            "fr": "Une crête rocheuse au sud de l’Œildieu",
+            "en": "A stony ridge south of the Gods Eye"
+          },
+          "sides": ["noirs", "verts"],
+          "victor": "noirs",
+          "dragons": [],
+          "summary": {
+            "fr": "Ser Criston Cole quitte Harrenhal avec trois mille six cents hommes pour rejoindre l’armée des Hightower dans le Bief, sans Aemond ni Vhagar. Devant la colonne, les seigneurs riverains ont tout brûlé : ni vivres ni fourrage, et des désertions chaque jour. Les éclaireurs trouvent des morts de la Berge du Lac assis sous les arbres, comme à un festin ; plus loin, dans un village, ce sont des vivants qui jouent les morts, et douze hommes sont tués avant qu’on ait compris. Au sud du lac, une crête lui barre la route : trois cents chevaliers, autant d’archers au grand arc, trois mille archers, trois mille piquiers et des centaines d’hommes du Nord. Cole parlemente avec trois de leurs chefs, dont lord Roderick Dustin et ser Garibald Gris ; il demande la vie sauve pour ses hommes s’il se rend, puis offre de combattre les trois à la fois : ils refusent l’un et l’autre. Robb Rivers et deux de ses archers l’abattent. La charge qui suit disperse son armée.",
+            "en": "Ser Criston Cole left Harrenhal with thirty-six hundred men to join the Hightower host in the Reach, without Aemond or Vhagar. Ahead of the column the river lords had burned everything: no food, no fodder, desertions every day. His scouts found dead men from the Lakeshore seated under the trees as if at a feast; further on, at the village of Crossed Elms, living men played the dead, and twelve of his were killed before anyone understood. South of the lake a stony ridge barred his way, held by three hundred mounted knights, as many longbowmen, three thousand archers, three thousand rivermen with spears and hundreds of northmen. He parleyed with Lord Roderick Dustin, Ser Garibald Grey and Ser Pate of Longleaf, asked for his men’s lives if he yielded, then offered to fight all three at once; they refused him both. Red Robb Rivers and two of his bowmen shot him down. The charge that followed scattered his host."
+          },
+          "outcome": {
+            "fr": "Les hommes de Cole sont tués par centaines dans la fuite. Le nom vient de Champignon, d’après un mot de ser Garibald Gris, qui aurait dit n’avoir vu là qu’une boucherie.",
+            "en": "Cole’s men were cut down in their hundreds as they ran. The name is Mushroom’s, taken from a remark of Ser Garibald Grey, who is said to have seen nothing there but butchery."
+          },
+          "losses": {
+            "fr": "Ser Criston Cole, Main du Roi et lord Commandant de la Garde Royale, et des centaines de ses hommes. Les pertes des noirs ne sont pas données.",
+            "en": "Ser Criston Cole, Hand of the King and Lord Commander of the Kingsguard, and hundreds of his men. Black losses are not given."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: Rhaenyra Triumphant" },
+            { "id": "tpatq" }
+          ]
+        },
+        {
+          "id": "tumbleton-1",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "La première bataille de Chutebourg",
+            "en": "The First Battle of Tumbleton"
+          },
+          "year": 130,
+          "dateCertainty": "exacte",
+          "placeId": "tumbleton",
+          "placeName": {
+            "fr": "Chutebourg (Tumbleton), sur la Mander",
+            "en": "Tumbleton, on the Mander"
+          },
+          "sides": ["noirs", "verts"],
+          "victor": "verts",
+          "dragons": [
+            {
+              "dragonId": "tessarion",
+              "side": "verts",
+              "fate": {
+                "fr": "Indemne. Montée par le prince Daeron ; ser Garibald Gris périt dans ses flammes.",
+                "en": "Unharmed. Ridden by Prince Daeron; Ser Garibald Grey died in her flames."
+              }
+            },
+            {
+              "dragonId": "vermithor",
+              "side": "verts",
+              "fate": {
+                "fr": "Indemne. Envoyé défendre la ville pour Rhaenyra ; son cavalier, Hugh Marteau, le retourne contre elle en pleine bataille.",
+                "en": "Unharmed. Sent to defend the town for Rhaenyra; his rider, Hugh Hammer, turned him against it in mid-battle."
+              }
+            },
+            {
+              "dragonId": "silverwing",
+              "side": "verts",
+              "fate": {
+                "fr": "Indemne. Même trahison : Ulf le Blanc la lance sur la ville qu’il devait couvrir.",
+                "en": "Unharmed. The same betrayal: Ulf White loosed her on the town he had been sent to shield."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Chutebourg (Tumbleton dans le texte original), bourg de marché sur la Mander, est la dernière place tenue pour Rhaenyra entre l’armée des Hightower et Port-Réal. La reine y envoie deux dragons des Semailles, Vermithor et Silverwing, avec leurs cavaliers Hugh Marteau et Ulf le Blanc. Les défenseurs sont six mille à douze mille selon les récits ; Munkun en retient près de neuf mille. Lord Ormund Hightower en amène bien davantage, et Tessarion. Ser Garibald Gris sort attaquer avec le gros des défenseurs, et les archers de lord Ormund éclaircissent ses rangs. Lord Roderick Dustin mène alors ses derniers cavaliers du Nord par une poterne, à un contre dix, jusqu’à lord Ormund : il le tue, ainsi que son cousin ser Bryndon, et meurt de ses blessures. La ville croit la journée gagnée. C’est le moment où Hugh et Ulf tournent leurs dragons contre elle, et où des traîtres ouvrent les portes.",
+            "en": "Tumbleton, a market town on the Mander, was the last place held for Rhaenyra between the Hightower host and King’s Landing. The queen sent it two of the dragons claimed in the Sowing, Vermithor and Silverwing, with their riders Hugh Hammer and Ulf White. The defenders numbered anywhere from six to twelve thousand, depending on the account; Munkun settles on nearly nine. Lord Ormund Hightower brought far more, and Tessarion. Ser Garibald Grey went out to attack with the greater part of the defenders, and Lord Ormund’s archers thinned his ranks. Lord Roderick Dustin then led the last of his northern riders out through a postern, one against ten, and cut his way to Lord Ormund: he killed him, and his cousin Ser Bryndon, and died of his wounds. The town thought the day won. It was then that Hugh and Ulf turned their dragons on it, and that traitors opened the gates."
+          },
+          "outcome": {
+            "fr": "La ville brûle, puis est mise à sac ; les hommes de son seigneur, lord Footly, qui s’étaient rendus, sont décapités. La chronique nomme Hugh et Ulf les Deux Traîtres. L’armée verte, sans chef depuis la mort d’Ormund, ne marche pourtant pas sur la capitale : elle fond de jour en jour par les désertions. À Port-Réal, Rhaenyra ne se fie plus aux dragonniers des Semailles et fait arrêter Addam Velaryon, qui s’enfuit.",
+            "en": "The town burned and was then sacked; Lord Footly’s men, who had yielded, were beheaded. The chronicle names Hugh and Ulf the Two Betrayers. Leaderless since Ormund’s death, the green host nonetheless did not march on the capital: it melted day by day through desertion. In King’s Landing Rhaenyra no longer trusted the riders of the Sowing and ordered the arrest of Addam Velaryon, who fled."
+          },
+          "losses": {
+            "fr": "Chez les noirs : lord Roderick Dustin, ser Garibald Gris, lord Footly et sa garnison, et des milliers d’habitants brûlés ou noyés dans la Mander. Chez les verts : lord Ormund Hightower et ser Bryndon Hightower. Aucun total n’est donné.",
+            "en": "On the black side: Lord Roderick Dustin, Ser Garibald Grey, Lord Footly and his garrison, and thousands of townsfolk burned or drowned in the Mander. On the green side: Lord Ormund Hightower and Ser Bryndon Hightower. No total is given."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: Rhaenyra Triumphant" },
+            { "id": "tpatq" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon II" }
+          ]
+        },
+        {
+          "id": "au-dessus-de-l-oeildieu",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "La bataille au-dessus de l’Œildieu",
+            "en": "The Battle Above the Gods Eye"
+          },
+          "year": 130,
+          "dateCertainty": "exacte",
+          "placeId": "oeildieu",
+          "placeName": {
+            "fr": "Au-dessus de l’Œildieu, en vue de Harrenhal",
+            "en": "Above the Gods Eye, within sight of Harrenhal"
+          },
+          "sides": ["noirs", "verts"],
+          "victor": "indecis",
+          "dragons": [
+            {
+              "dragonId": "caraxes",
+              "side": "noirs",
+              "fate": {
+                "fr": "Tué. Une aile arrachée, le ventre ouvert, il ne lâche pas la gorge de Vhagar ; il se traîne hors de l’eau et meurt sous les murs de Harrenhal.",
+                "en": "Killed. With a wing torn away and his belly opened he kept his grip on Vhagar’s throat; he dragged himself out of the water and died beneath the walls of Harrenhal."
+              }
+            },
+            {
+              "dragonId": "vhagar",
+              "side": "verts",
+              "fate": {
+                "fr": "Tuée. La gorge arrachée par Caraxes, elle sombre dans le lac ; sa carcasse est retrouvée des années plus tard.",
+                "en": "Killed. Her throat torn out by Caraxes, she sank in the lake; her carcass was found years afterwards."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Depuis le Bal du Boucher, Aemond brûle seul le Conflans, et ni Caraxes ni Sheepstealer, partis chaque jour de Viergétang, ne trouvent Vhagar. Quand Rhaenyra réclame la tête d’Orties, Daemon la laisse fuir, puis fait savoir qu’il attendra à Harrenhal. Il y reste treize jours. Le quatorzième, Aemond se pose avec Alys Rivers ; les deux hommes échangent quelques mots et montent en selle au coucher du soleil. Daemon a quarante-neuf ans et le plus petit des deux dragons. Caraxes se jette sur Vhagar et lui prend la gorge ; elle lui ouvre le ventre et lui arrache une aile. Ils tombent enlacés. Les récits veulent que Daemon ait alors sauté d’une selle à l’autre pour planter Noire Sœur dans l’œil aveugle de son neveu. L’épée, retrouvée plus tard dans l’orbite d’Aemond, s’accorde avec eux. C’était le vingt-deuxième jour de la cinquième lune de 130.",
+            "en": "Since the Butcher’s Ball Aemond had been burning the riverlands alone, and neither Caraxes nor Sheepstealer, flying out of Maidenpool each day, could find Vhagar. When Rhaenyra demanded Nettles’s head, Daemon let the girl go, then let it be known that he would wait at Harrenhal. He waited thirteen days. On the fourteenth Aemond landed with Alys Rivers; the two men exchanged a few words and mounted at sunset. Daemon was forty-nine and had the smaller dragon. Caraxes threw himself on Vhagar and took her by the throat; she opened his belly and tore away a wing. They fell locked together. The tales have Daemon leap from one saddle to the other and drive Dark Sister through his nephew’s blind eye. The sword, found years later in Aemond’s eye socket, bears them out. It was the twenty-second day of the fifth moon of 130 AC."
+          },
+          "outcome": {
+            "fr": "Aucun des quatre ne survit. Chaque camp perd son meilleur capitaine et un dragon qu’il ne remplacera pas ; Vhagar était le dernier dragon vivant de la Conquête. Le corps de Daemon n’est jamais retrouvé : des chansons le font survivre auprès d’Orties, ce que la chronique ne retient pas.",
+            "en": "None of the four survived. Each side lost its best captain and a dragon it could not replace; Vhagar was the last living dragon of the Conquest. Daemon’s body was never found: songs have him live on with Nettles, which the chronicle does not accept."
+          },
+          "losses": {
+            "fr": "Les quatre combattants : Daemon Targaryen et Caraxes, Aemond Targaryen et Vhagar.",
+            "en": "All four combatants: Daemon Targaryen and Caraxes, Aemond Targaryen and Vhagar."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: Rhaenyra Triumphant" },
+            { "id": "tpatq" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon II" }
+          ]
+        },
+        {
+          "id": "fossedragon",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "L’assaut de Fossedragon",
+            "en": "The Storming of the Dragonpit"
+          },
+          "year": 130,
+          "dateCertainty": "exacte",
+          "placeId": "fossedragon",
+          "placeName": {
+            "fr": "Fossedragon, sur la colline de Rhaenys, à Port-Réal",
+            "en": "The Dragonpit, on the Hill of Rhaenys, King’s Landing"
+          },
+          "sides": ["emeutiers", "noirs"],
+          "victor": "emeutiers",
+          "dragons": [
+            {
+              "dragonId": "shrykos",
+              "side": "noirs",
+              "fate": {
+                "fr": "Premier dragon tué. Promis au prince Jaehaerys, fils d’Aegon II, sans maître depuis sa mort et enchaîné dans une ville tenue par les noirs. Un bûcheron, Hobb le Trancheur, lui grimpe sur le cou et lui fend le crâne à la hache : en sept coups, selon le septon Eustace.",
+                "en": "The first to die. The dragon meant for Prince Jaehaerys, Aegon II’s son, masterless since his death and chained in a city the blacks held. A woodsman, Hobb the Hewer, climbed onto her neck and split her skull with an axe: in seven blows, according to Septon Eustace."
+              }
+            },
+            {
+              "dragonId": "morghul",
+              "side": "noirs",
+              "fate": {
+                "fr": "Tué. Dragon de la princesse Jaehaera, fille d’Aegon II. Un chevalier dont on ignore le nom, resté « le Chevalier Ardent », se jette dans ses flammes et lui plante sa lance dans l’œil, coup après coup, en brûlant lui-même.",
+                "en": "Killed. The dragon of Princess Jaehaera, Aegon II’s daughter. A knight whose name is lost, remembered as “the Burning Knight”, ran into his flame and drove a spear into his eye, again and again, burning as he did it."
+              }
+            },
+            {
+              "dragonId": "tyraxes",
+              "side": "noirs",
+              "fate": {
+                "fr": "Tué. Dragon du prince Joffrey. Il brûle les assaillants jusqu’à boucher de cadavres l’entrée de son antre, puis s’empêtre dans ses chaînes quand la foule entre par l’arrière.",
+                "en": "Killed. Prince Joffrey’s dragon. He burned his attackers until their bodies choked the mouth of his lair, then tangled himself in his chains when the mob came in from behind."
+              }
+            },
+            {
+              "dragonId": "dreamfyre",
+              "side": "noirs",
+              "fate": {
+                "fr": "Tuée. Dragon de la reine Helaena. Elle rompt ses chaînes, tue plus d’hommes que les trois autres réunis, puis, un œil touché par un carreau, heurte la coupole, qui s’effondre sur elle.",
+                "en": "Killed. Queen Helaena’s dragon. She broke her chains and killed more men than the other three together; then, with a quarrel in one eye, she flew into the dome, which came down on her."
+              }
+            },
+            {
+              "dragonId": "syrax",
+              "side": "noirs",
+              "fate": {
+                "fr": "Tuée hors de la fosse, après avoir désarçonné le prince Joffrey. Elle descend sur la foule au lieu de la brûler d’en haut ; la chronique rapporte plusieurs récits de sa mort et n’en retient aucun.",
+                "en": "Killed outside the pit, after throwing Prince Joffrey. She came down among the mob instead of burning it from above; the chronicle reports several accounts of her death and settles on none."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Depuis Chutebourg, Port-Réal attend les dragons des verts. Un prédicateur manchot, le Berger, prêche que la ville ne sera sauvée que purgée de tous les dragons. La reine Helaena meurt, tombée d’une fenêtre de la citadelle de Maegor ; la rue la croit assassinée et se soulève. La seconde nuit, la foule monte à Fossedragon, tue les Gardiens des dragons, moins de cinquante, force les petites portes et se jette sur quatre bêtes enchaînées, qui ne peuvent s’envoler. Toutes meurent, et la coupole s’effondre sur leurs tueurs. Au Donjon Rouge, le prince Joffrey, craignant pour Tyraxes, a pris Syrax, le dragon de sa mère : elle le désarçonne au-dessus de Culpucier, puis descend sur la foule et y meurt. Munkun attribue sa mort au bûcheron Hobb, ce que Gyldayn écarte ; d’autres nomment un lancier, un chevalier, un arbalétrier qui s’en vanta ; le récit le plus répandu dans la ville fait paraître le Guerrier en personne, à l’appel du Berger.",
+            "en": "Since Tumbleton, King’s Landing had been waiting for the greens’ dragons. A one-handed preacher, the Shepherd, told the crowds the city could be saved only by ridding it of dragons. Queen Helaena died in a fall from a window of Maegor’s Holdfast; the streets believed her murdered and rose. On the second night the mob climbed to the Dragonpit, killed the Dragonkeepers, fewer than fifty, broke in through the lesser doors and fell on four chained dragons. All four died, and the dome came down on their killers. Prince Joffrey, afraid for his own Tyraxes, had taken his mother’s dragon Syrax; she threw him over Flea Bottom, then came down among the mob and died there. Munkun gives the kill to Hobb the Hewer, which Gyldayn rejects; others name a spearman, a knight, a crossbowman who boasted of it; the tale most often told in the city has the Warrior himself appear at the Shepherd’s call."
+          },
+          "outcome": {
+            "fr": "Cinq dragons meurent en une nuit, plus qu’en aucune bataille de la guerre. Trois des quatre bêtes enchaînées appartenaient à la famille d’Aegon II : la foule n’a pas choisi de camp. Rhaenyra, qui a vu tomber Syrax du haut de la citadelle de Maegor, quitte la ville le lendemain par la porte du Dragon, avec le seul fils qu’elle ait encore auprès d’elle.",
+            "en": "Five dragons died in one night, more than in any battle of the war. Three of the four chained beasts belonged to Aegon II’s own family: the mob took no side. Rhaenyra, who had watched Syrax fall from the roof of Maegor’s Holdfast, left the city the next day by the Dragon Gate with the one son still at her side."
+          },
+          "losses": {
+            "fr": "Le prince Joffrey Velaryon, tous les Gardiens des dragons, cinq dragons. Chez les assaillants, personne n’a compté : des centaines de morts, peut-être des milliers.",
+            "en": "Prince Joffrey Velaryon, every one of the Dragonkeepers, five dragons. Among the attackers no one counted: hundreds dead, perhaps thousands."
+          },
+          "reliability": "contradictoire",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: Rhaenyra Overthrown" },
+            { "id": "tpatq" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon II" }
+          ]
+        },
+        {
+          "id": "tumbleton-2",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "La seconde bataille de Chutebourg",
+            "en": "The Second Battle of Tumbleton"
+          },
+          "year": 130,
+          "dateCertainty": "exacte",
+          "placeId": "tumbleton",
+          "placeName": {
+            "fr": "Chutebourg (Tumbleton) et les camps autour de la ville",
+            "en": "Tumbleton and the camps around the town"
+          },
+          "sides": ["noirs", "verts"],
+          "victor": "noirs",
+          "dragons": [
+            {
+              "dragonId": "seasmoke",
+              "side": "noirs",
+              "fate": {
+                "fr": "Tué. Après avoir incendié les camps et affronté Tessarion, il se jette sur Vermithor, qui lui arrache la tête.",
+                "en": "Killed. Having fired the camps and fought Tessarion, he flew at Vermithor, who tore off his head."
+              }
+            },
+            {
+              "dragonId": "vermithor",
+              "side": "verts",
+              "fate": {
+                "fr": "Mort de ses blessures. Sans cavalier depuis la mort de Hugh, attaqué au sol, il tue ses assaillants, s’envole et frappe sans distinguer les camps ; il s’effondre peu après avoir tué Seasmoke.",
+                "en": "Died of his wounds. Riderless once Hugh was dead and attacked on the ground, he killed the men who came at him, took wing and struck at both sides alike; he collapsed soon after killing Seasmoke."
+              }
+            },
+            {
+              "dragonId": "tessarion",
+              "side": "verts",
+              "fate": {
+                "fr": "Achevée. Sans cavalier, elle se bat contre Seasmoke puis se jette dans la mêlée des trois dragons ; trop blessée pour reprendre son vol après trois essais, elle reçoit trois flèches dans l’œil, sur l’ordre de lord Nerbosc.",
+                "en": "Put down. Riderless, she fought Seasmoke and then joined the struggle of the three dragons; too badly hurt to fly after three attempts, she took three arrows in the eye on Lord Blackwood’s order."
+              }
+            },
+            {
+              "dragonId": "silverwing",
+              "side": "verts",
+              "fate": {
+                "fr": "Indemne. Sans cavalier, elle ne se mêle pas au combat des trois autres ; seule survivante des quatre.",
+                "en": "Unharmed. Riderless, she kept out of the struggle of the other three; the only one of the four to survive."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Après la trahison de Chutebourg, Rhaenyra a ordonné l’arrestation d’Addam Velaryon. Il s’enfuit sur Seasmoke et, pour prouver sa loyauté, lève dans le Conflans près de quatre mille hommes, dont les Tully, enfin entrés en guerre. Dans la ville, l’armée verte se défait : Hugh Marteau veut une couronne, et treize seigneurs et chevaliers complotent sa mort et celle d’Ulf. La nuit prévue pour le complot, Addam attaque. Seasmoke met le feu aux camps. Hugh, qui court vers Vermithor, est tué par Jon Roxton, l’un des conjurés ; Ulf dort. Le prince Daeron meurt dans le camp, et l’on en donne trois versions : abattu par un mercenaire de Myr alors qu’il sortait en flammes de sa tente, tué par un soldat qui ne le reconnut pas, ou, selon Munkun, écrasé sous son pavillon embrasé. Les dragons se battent ensuite entre eux, deux des trois sans cavalier.",
+            "en": "After the treasons at Tumbleton Rhaenyra ordered Addam Velaryon arrested. He escaped on Seasmoke and, to prove his loyalty, raised nearly four thousand men in the riverlands, the Tullys among them at last. Inside the town the green host was coming apart: Hugh Hammer wanted a crown, and thirteen lords and knights were plotting his death and Ulf’s. On the night chosen for the plot, Addam struck. Seasmoke set the camps alight. Hugh, running for Vermithor, was cut down by Jon Roxton, one of the plotters; Ulf slept through it. Prince Daeron died in the camp, and there are three versions: struck down by a Myrish sellsword as he came out of his tent on fire, killed by a soldier who did not know him, or, as Munkun has it, crushed when his burning pavilion fell in. Then the dragons fought one another, two of the three without riders."
+          },
+          "outcome": {
+            "fr": "Les riverains l’emportent sur le terrain mais ne peuvent reprendre la ville : sans engins de siège ni dragon, ils se retirent dans la nuit. Les conjurés se débarrassent d’Ulf par du vin empoisonné, que ser Hobert Hightower boit avec lui. L’armée de Villevieille, sans prince, sans chef et sans dragon monté, repart vers le sud. Port-Réal ne sera pas attaquée ; Rhaenyra l’a déjà perdue.",
+            "en": "The rivermen won the field but could not retake the town: with neither siege engines nor a dragon, they withdrew in the night. The plotters rid themselves of Ulf with poisoned wine, which Ser Hobert Hightower drank with him. The Oldtown host, without a prince, a commander or a ridden dragon, went back south. King’s Landing would not be attacked; Rhaenyra had already lost it."
+          },
+          "losses": {
+            "fr": "Chez les noirs : moins de cent hommes, dont ser Addam Velaryon, ainsi que les lords Piper et Deddings, brûlés tous deux par Vermithor ; Seasmoke. Chez les verts : plus de mille hommes, le prince Daeron, Hugh Marteau, Jon Roxton ; Vermithor et Tessarion.",
+            "en": "On the black side: fewer than a hundred men, among them Ser Addam Velaryon and Lords Piper and Deddings, the last two burned by Vermithor; Seasmoke. On the green side: more than a thousand men, Prince Daeron, Hugh Hammer, Jon Roxton; Vermithor and Tessarion."
+          },
+          "reliability": "contradictoire",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: Rhaenyra Overthrown" },
+            { "id": "tpatq" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon II" }
+          ]
+        },
+        {
+          "id": "chute-de-peyredragon",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "La chute de Peyredragon : Sunfyre contre Moondancer",
+            "en": "The Fall of Dragonstone: Sunfyre against Moondancer"
+          },
+          "year": 130,
+          "dateCertainty": "exacte",
+          "placeId": "peyredragon",
+          "placeName": {
+            "fr": "Peyredragon, le château et le ciel au-dessus de la cour",
+            "en": "Dragonstone, the castle and the sky above its yard"
+          },
+          "sides": ["noirs", "verts"],
+          "victor": "verts",
+          "dragons": [
+            {
+              "dragonId": "moondancer",
+              "side": "noirs",
+              "fate": {
+                "fr": "Tuée. Plus vive que Sunfyre, elle le déchire au dos et à l’aile avant d’être aveuglée par ses flammes ; au sol, le poids de l’autre l’emporte.",
+                "en": "Killed. Quicker than Sunfyre, she tore his back and wing before his flame blinded her; on the ground his weight told."
+              }
+            },
+            {
+              "dragonId": "sunfyre",
+              "side": "verts",
+              "fate": {
+                "fr": "Vainqueur, mais blessé à mort : un œil perdu, le cou et le dos ouverts. Il ne vole plus et meurt le neuvième jour de la douzième lune de 130.",
+                "en": "The victor, but mortally hurt: one eye gone, neck and back laid open. He never flew again and died on the ninth day of the twelfth moon of 130 AC."
+              }
+            }
+          ],
+          "summary": {
+            "fr": "Sorti de Port-Réal par les soins de lord Larys Strong, Aegon II s’est caché à Peyredragon même, dans un village de pêcheurs. Sunfyre, disparu de Repos-des-Freux, y revient de son côté, l’aile mal ressoudée ; c’est lui, et non le Cannibale comme on le crut d’abord, qui tue le dragon sauvage Grey Ghost. Le roi le retrouve, vole de nouveau, et gagne des hommes de la garnison : ser Alfred Broome, à qui l’on avait refusé le commandement du château, tue le gouverneur, ser Robert Quince. Baela, fille de Daemon, échappe à ceux qui forcent sa porte, selle Moondancer et monte au-devant de Sunfyre avant l’aube. Les deux dragons s’agrippent et s’écrasent dans la cour. Aegon saute à vingt pieds du sol et se brise les deux jambes ; Baela, brûlée, reste en selle jusqu’à terre. La chronique raconte l’affaire après coup et ne la date pas au jour près.",
+            "en": "Smuggled out of King’s Landing by Lord Larys Strong, Aegon II had gone to ground on Dragonstone itself, in a fishing village. Sunfyre, vanished from Rook’s Rest, made his own way there, his wing knit crooked; it was he, and not the Cannibal as was first believed, who killed the wild dragon Grey Ghost. The king found him, flew again, and won over men of the garrison: Ser Alfred Broome, passed over for command of the castle, killed its castellan, Ser Robert Quince. Baela, Daemon’s daughter, slipped the men breaking down her door, saddled Moondancer and rose to meet Sunfyre before dawn. The dragons closed and crashed into the yard. Aegon jumped from twenty feet up and broke both legs; Baela, burned, stayed in the saddle to the ground. The chronicle tells the story in retrospect and does not date it to the day."
+          },
+          "outcome": {
+            "fr": "Peyredragon est aux verts sans que Rhaenyra le sache. Quand elle y aborde, chassée de la capitale, elle est prise et donnée à Sunfyre, le vingt-deuxième jour de la dixième lune de 130, sous les yeux de son fils. Baela reste prisonnière.",
+            "en": "Dragonstone was in green hands without Rhaenyra knowing it. When she landed there, driven from the capital, she was seized and given to Sunfyre on the twenty-second day of the tenth moon of 130 AC, before her son’s eyes. Baela remained a prisoner."
+          },
+          "losses": {
+            "fr": "Ser Robert Quince, le Grand Mestre Gerardys, que le roi fait mettre à mort, et Moondancer. Les pertes des verts ne sont pas données ; le roi a les deux jambes brisées et Sunfyre ne volera plus.",
+            "en": "Ser Robert Quince, Grand Maester Gerardys, whom the king had put to death, and Moondancer. Green losses are not given; the king had both legs broken, and Sunfyre would not fly again."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: Rhaenyra Overthrown" },
+            { "id": "tpatq" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon II" }
+          ]
+        },
+        {
+          "id": "route-royale",
+          "warId": "danse-des-dragons",
+          "name": {
+            "fr": "La bataille de la route Royale (le Chaos de Boue)",
+            "en": "The Battle of the Kingsroad (the Muddy Mess)"
+          },
+          "year": 131,
+          "dateCertainty": "exacte",
+          "placeName": {
+            "fr": "Sur la route Royale, à deux jours de Port-Réal",
+            "en": "On the kingsroad, two days from King’s Landing"
+          },
+          "sides": ["noirs", "verts"],
+          "victor": "noirs",
+          "dragons": [],
+          "summary": {
+            "fr": "Rhaenyra est morte, mais ses partisans se battent pour son fils, prisonnier d’Aegon II. Lord Borros Baratheon, resté à l’écart jusque-là, a repris Port-Réal pour le roi. Il marche au-devant des riverains avec six cents chevaliers et quatre mille hommes d’armes de l’Orage, des levées des terres de la Couronne et deux mille hommes ramassés à Culpucier. En face, près de six mille hommes aguerris, menés par le jeune lord Kermit Tully, Benjicot Nerbosc et sa tante Alysanne. La rencontre a lieu entre un bois et une colline, sur un sol détrempé par la pluie. Borros charge au crépuscule. Les archers d’Alysanne brisent sa cavalerie, la boue fait le reste ; son infanterie est prise de flanc depuis le bois. Les levées refusent de se battre ou s’enfuient, et les chevaliers de Sombreval changent de camp. Ceux qui y étaient ont appelé l’affaire « le Chaos de Boue » (the Muddy Mess).",
+            "en": "Rhaenyra was dead, but her partisans now fought for her son, a prisoner of Aegon II. Lord Borros Baratheon, who had kept out of the war, had retaken King’s Landing for the king. He marched to meet the rivermen with six hundred knights and four thousand men-at-arms of the stormlands, levies from the crownlands, and two thousand men swept up in Flea Bottom. Against him stood close to six thousand veterans under the young Lord Kermit Tully, Benjicot Blackwood and his aunt Alysanne. They met where the road ran between a wood and a hill, on ground soaked by rain. Borros charged at dusk. Alysanne’s archers broke his horse and the mud did the rest; his foot was taken in flank from the wood. The levies would not fight or ran, and the knights of Duskendale changed sides. The men who fought there called it the Muddy Mess."
+          },
+          "outcome": {
+            "fr": "Dernière bataille de la guerre. Borros Baratheon, déjà blessé, tue les lords Darry et Mallister avant de tomber sous le fléau d’armes de Kermit Tully, à qui il a refusé de se rendre. Il ne reste plus d’armée entre les riverains et la capitale, et Cregan Stark descend du Nord. Aegon II refuse de céder ; il est trouvé mort peu après, empoisonné.",
+            "en": "The last battle of the war. Borros Baratheon, already wounded, killed Lords Darry and Mallister before he fell to the morningstar of Kermit Tully, to whom he had refused to yield. No army stood between the rivermen and the capital, and Cregan Stark was coming down from the North. Aegon II would not give way; he was found dead soon afterwards, poisoned."
+          },
+          "losses": {
+            "fr": "Lord Borros Baratheon chez les verts ; les lords Roland Darry et Jorah Mallister chez les noirs. Aucun chiffre n’est donné.",
+            "en": "Lord Borros Baratheon on the green side; Lords Roland Darry and Jorah Mallister on the black. No figures are given."
+          },
+          "reliability": "etabli",
+          "sources": [
+            { "id": "fab", "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon II" },
+            { "id": "twoiaf", "locator": "The Riverlands: House Tully" },
+            { "id": "twoiaf", "locator": "The Stormlands: House Baratheon" }
+          ]
+        }
+      ],
+      "consequences": {
+        "fr": "Les deux prétendants sont morts, et la plupart des leurs avec eux : des fils de Rhaenyra ne restent qu’Aegon le Jeune et Viserys, que l’on croit perdu ; des enfants d’Alicent, aucun. Aegon III est couronné en 131 et marié à Jaehaera, fille d’Aegon II, pour réunir les deux branches ; sept régents gouvernent jusqu’à sa majorité, en 136. Cregan Stark, arrivé trop tard pour combattre, tient la capitale le temps de juger ceux que l’on accuse d’avoir empoisonné le roi. La maison a perdu ce qui faisait sa force. Dix-sept dragons nommés par la chronique meurent en 129 et 130, quatre sont en vie à la paix, et le dernier s’éteint en 153. La guerre a aussi montré qu’une foule pouvait tuer des dragons enchaînés. Le Conflans est brûlé, l’armée de l’Ouest détruite, ses côtes livrées aux Fer-nés, et l’hiver commencé en 130 dure jusqu’en 135. Aegon II avait ordonné que sa demi-sœur soit dite princesse, et non reine, dans les chroniques : elle n’est pas comptée parmi les souverains. En 171, à la mort de Baelor Ier, le souvenir de la guerre pèse contre ses sœurs, écartées au profit de leur oncle Viserys.",
+        "en": "Both claimants were dead, and most of their kin with them: of Rhaenyra’s sons only Aegon the Younger was left, with Viserys, who was thought lost; of Alicent’s children, none. Aegon III was crowned in 131 and married to Jaehaera, Aegon II’s daughter, to join the two lines; seven regents ruled until he came of age in 136. Cregan Stark, arriving too late to fight, held the capital long enough to try the men accused of poisoning the king. The house had lost what made it strong. Seventeen dragons named by the chronicle died in 129 and 130, four were alive at the peace, and the last died in 153. The war had also shown that a mob could kill dragons in chains. The riverlands were burned, the host of the west destroyed, its coasts left to the ironborn, and the winter that began in 130 lasted until 135. Aegon II had ordered that his half-sister be styled princess, not queen, in the chronicles; she is not counted among the monarchs. In 171, at the death of Baelor I, the memory of the war weighed against his sisters, who were passed over for their uncle Viserys."
+      },
+      "eventIds": [
+        "p4-grand-conseil-101",
+        "p5-rhaenyra-heritiere",
+        "p5-alicent",
+        "p5-verts-noirs",
+        "p5-mariage-laenor",
+        "p5-printemps-rouge",
+        "p5-mort-viserys",
+        "p5-deux-couronnements",
+        "p5-accalmie",
+        "p5-sang-et-fromage",
+        "p5-harrenhal-conflans",
+        "p5-repos-des-freux",
+        "p5-semailles",
+        "p5-gosier",
+        "p5-conflans-130",
+        "p5-chute-port-real",
+        "p5-tumbleton-1",
+        "p5-peyredragon-reprise",
+        "p5-oeildieu",
+        "p5-fossedragon",
+        "p5-tumbleton-2",
+        "p5-mort-rhaenyra",
+        "p5-trois-rois",
+        "p5-mort-aegon-ii",
+        "p5-heure-du-loup",
+        "p5-bilan-dragons"
+      ],
+      "continuity": "livres",
+      "reliability": "contradictoire",
+      "sources": [
+        { "id": "fab", "locator": "Heirs of the Dragon: A Question of Succession" },
+        { "id": "fab", "locator": "The Dying of the Dragons: The Blacks and the Greens" },
+        { "id": "fab", "locator": "The Dying of the Dragons: A Son for a Son" },
+        { "id": "fab", "locator": "The Dying of the Dragons: The Red Dragon and the Gold" },
+        { "id": "fab", "locator": "The Dying of the Dragons: Rhaenyra Triumphant" },
+        { "id": "fab", "locator": "The Dying of the Dragons: Rhaenyra Overthrown" },
+        { "id": "fab", "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II" },
+        { "id": "fab", "locator": "Aftermath: The Hour of the Wolf" },
+        { "id": "tpatq" },
+        { "id": "trp" },
+        { "id": "trotd" },
+        { "id": "twoiaf", "locator": "The Targaryen Kings: Viserys I" },
+        { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon II" },
+        { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon III" }
+      ]
+    }
+  ]
+}

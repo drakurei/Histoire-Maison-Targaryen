@@ -1,0 +1,3137 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-04",
+  "items": [
+    {
+      "id": "sons-et-romanisation",
+      "order": 1,
+      "title": {
+        "fr": "Sons et romanisation",
+        "en": "Sounds and romanization"
+      },
+      "summary": {
+        "fr": "Six voyelles, chacune brève ou longue, quelques consonnes inhabituelles, un accent qui se calcule ; et une langue qui s'écrit ici dans l'alphabet latin.",
+        "en": "Six vowels, each short or long, a few unusual consonants, a stress that can be worked out; and a language written here in the Latin alphabet."
+      },
+      "blocks": [
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Le haut valyrien que l'on entend à l'écran est l'œuvre du linguiste David J. Peterson. Il l'a construit à partir du peu que George R. R. Martin avait laissé : valar morghulis, valar dohaeris, dracarys, valonqar, et une foule de noms propres. Martin a lui-même reconnu n'avoir jamais inventé la langue ; il en avait seulement esquissé le son et l'orthographe. Ce qui suit décrit donc la langue de Peterson, la seule qui possède une grammaire.",
+            "en": "The High Valyrian heard on screen is the work of the linguist David J. Peterson. He built it from the little George R. R. Martin had left: valar morghulis, valar dohaeris, dracarys, valonqar, and a host of proper names. Martin himself acknowledged that he never invented the language; he only sketched its sound and spelling. What follows therefore describes Peterson's language, the only one that has a grammar."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Six timbres vocaliques : a, e, i, o, u et y, ce dernier prononcé comme le u de « lune ». Chacun existe bref ou long, et la longueur s'écrit par un macron : ā, ē, ī, ō, ū, ȳ. Elle distingue des mots et des formes : ānogar est « le sang » au nominatif, ānogār le même mot au locatif, ou au terme d'une coordination. Négliger le macron, c'est souvent changer de cas.",
+            "en": "Six vowel qualities: a, e, i, o, u and y, the last pronounced like the German ü. Each exists short or long, and length is written with a macron: ā, ē, ī, ō, ū, ȳ. Length tells words and forms apart: ānogar is “blood” in the nominative, ānogār the same word in the locative, or at the end of a coordination. Dropping the macron often means changing the case."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "S'y ajoutent quatre diphtongues descendantes, ae, āe, ao et āo, et des diphtongues montantes qui commencent par i ou u (ia, io, ue…). Le mot daor, « ne pas », devrait former une seule syllabe ; on l'entend pourtant presque toujours en deux, parce que Peterson le prononce ainsi.",
+            "en": "There are also four falling diphthongs, ae, āe, ao and āo, and rising diphthongs that begin with i or u (ia, io, ue…). The word daor, “not”, should form a single syllable; it is nevertheless almost always heard as two, because that is how Peterson says it."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Graphie",
+                "en": "Spelling"
+              },
+              {
+                "fr": "Son",
+                "en": "Sound"
+              },
+              {
+                "fr": "Exemple",
+                "en": "Example"
+              }
+            ],
+            [
+              {
+                "fr": "gh",
+                "en": "gh"
+              },
+              {
+                "fr": "fricative vélaire sonore, proche du r grasseyé",
+                "en": "voiced velar fricative, close to a French r"
+              },
+              {
+                "fr": "morghūlis",
+                "en": "morghūlis"
+              }
+            ],
+            [
+              {
+                "fr": "q",
+                "en": "q"
+              },
+              {
+                "fr": "occlusive uvulaire, articulée plus en arrière que k",
+                "en": "uvular stop, made further back than k"
+              },
+              {
+                "fr": "valonqar, « petit frère »",
+                "en": "valonqar, “little brother”"
+              }
+            ],
+            [
+              {
+                "fr": "rh",
+                "en": "rh"
+              },
+              {
+                "fr": "r sourd",
+                "en": "voiceless r"
+              },
+              {
+                "fr": "Rhaenyra",
+                "en": "Rhaenyra"
+              }
+            ],
+            [
+              {
+                "fr": "ñ",
+                "en": "ñ"
+              },
+              {
+                "fr": "comme gn dans « agneau »",
+                "en": "like ny in “canyon”"
+              },
+              {
+                "fr": "muña, « mère »",
+                "en": "muña, “mother”"
+              }
+            ],
+            [
+              {
+                "fr": "lj",
+                "en": "lj"
+              },
+              {
+                "fr": "l mouillé",
+                "en": "palatal l, as in “million”"
+              },
+              {
+                "fr": "morghūljagon, « mourir »",
+                "en": "morghūljagon, “to die”"
+              }
+            ],
+            [
+              {
+                "fr": "j",
+                "en": "j"
+              },
+              {
+                "fr": "occlusive palatale à l’époque classique, plus tard [j], [ʒ] ou [dʒ] selon le lieu et le temps",
+                "en": "palatal stop in the classical period, later [j], [ʒ] or [dʒ] by place and time"
+              },
+              {
+                "fr": "jaelagon, « vouloir »",
+                "en": "jaelagon, “to want”"
+              }
+            ],
+            [
+              {
+                "fr": "v",
+                "en": "v"
+              },
+              {
+                "fr": "v ; parfois w",
+                "en": "v; sometimes w"
+              },
+              {
+                "fr": "vala, « homme »",
+                "en": "vala, “man”"
+              }
+            ],
+            [
+              {
+                "fr": "kh, th, sh, f",
+                "en": "kh, th, sh, f"
+              },
+              {
+                "fr": "seulement dans les mots empruntés",
+                "en": "only in borrowed words"
+              },
+              {
+                "fr": "Khalēsi",
+                "en": "Khalēsi"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "L'accent se calcule. Une syllabe est légère si elle se termine par une voyelle brève, lourde dans tous les autres cas. L'accent frappe l'avant-dernière syllabe, sauf quand celle-ci est légère et que la précédente est lourde : il remonte alors d'un rang. Deux exceptions : les impératifs sont accentués sur la dernière syllabe (dohaerās, « sers »), comme le mot allongé qui clôt une coordination.",
+            "en": "Stress can be worked out. A syllable is light if it ends in a short vowel, heavy in every other case. Stress falls on the next-to-last syllable, unless that syllable is light and the one before it heavy: it then moves back one place. Two exceptions: imperatives are stressed on the last syllable (dohaerās, “serve”), as is the lengthened word that closes a coordination."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Peterson écrit k et ks là où Martin écrit c et x : drakarys pour dracarys, Syraks pour Syrax, Karaksys pour Caraxès, Arraks pour Arrax. Le Vhagar des livres devient chez lui Vagar, et l'on entend dans House of the Dragon son vocatif, Vagus. Le site garde la graphie des livres quand il raconte l'histoire et celle de Peterson quand il cite la langue.",
+            "en": "Peterson writes k and ks where Martin writes c and x: drakarys for dracarys, Syraks for Syrax, Karaksys for Caraxes, Arraks for Arrax. The Vhagar of the books becomes Vagar, and House of the Dragon lets us hear its vocative, Vagus. The site keeps the books’ spelling when it tells the history and Peterson’s when it quotes the language."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Aucun système d'écriture valyrien complet n'a été publié. Les livres parlent de glyphes, sur des rouleaux ou gravés sur un cor de dragon, sans jamais en reproduire un seul. Pour House of the Dragon, Peterson a conçu une écriture mixte, à la fois idéographique, alphabétique et grammaticale ; elle relève de l'adaptation, et il la tient pour inachevée tant que la série se poursuit. Ce site n'en reproduit aucun glyphe et n'en invente aucun : tout le valyrien y est donné dans la romanisation latine de Peterson.",
+            "en": "No complete Valyrian writing system has been published. The books speak of glyphs, on scrolls or carved on a dragon horn, without ever reproducing one. For House of the Dragon, Peterson designed a mixed script, at once ideographic, alphabetic and grammatical; it belongs to the adaptation, and he regards it as unfinished while the series continues. This site reproduces none of its glyphs and invents none: all Valyrian here is given in Peterson’s Latin romanization."
+          }
+        }
+      ],
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Appendix:High_Valyrian_pronunciation",
+        "https://wiki.languageinvention.com/index.php?title=Appendix:Nekesse_Valyrio_script",
+        "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Corpus",
+        "https://awoiaf.westeros.org/index.php/High_Valyrian",
+        "https://dothraki.com/?p=1227"
+      ]
+    },
+    {
+      "id": "quatre-genres",
+      "order": 2,
+      "title": {
+        "fr": "Les quatre genres",
+        "en": "The four genders"
+      },
+      "summary": {
+        "fr": "Lunaire, solaire, terrestre, aquatique : quatre classes de noms qui ne disent rien du sexe.",
+        "en": "Lunar, solar, terrestrial, aquatic: four classes of nouns that say nothing about sex."
+      },
+      "blocks": [
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Chaque nom appartient à l'un de quatre genres, que la langue nomme elle-même : hūrenkon qogror, le lunaire ; vēzenkon qogror, le solaire ; tegōñor qogror, le terrestre ; embōñor qogror, l'aquatique. Ils n'ont aucun rapport avec le sexe : vala, « homme », et ābra, « femme », sont tous deux lunaires.",
+            "en": "Every noun belongs to one of four genders, which the language names itself: hūrenkon qogror, lunar; vēzenkon qogror, solar; tegōñor qogror, terrestrial; embōñor qogror, aquatic. They have nothing to do with sex: vala, “man”, and ābra, “woman”, are both lunar."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Genre",
+                "en": "Gender"
+              },
+              {
+                "fr": "Finale fréquente",
+                "en": "Usual ending"
+              },
+              {
+                "fr": "Domaines fréquents",
+                "en": "Usual domains"
+              },
+              {
+                "fr": "Exemples",
+                "en": "Examples"
+              }
+            ],
+            [
+              {
+                "fr": "lunaire",
+                "en": "lunar"
+              },
+              {
+                "fr": "voyelle",
+                "en": "vowel"
+              },
+              {
+                "fr": "humains, animaux nocturnes, fruits, outils, armes",
+                "en": "humans, nocturnal animals, fruit, tools, weapons"
+              },
+              {
+                "fr": "vala « homme », muña « mère », zokla « loup », gelte « casque »",
+                "en": "vala “man”, muña “mother”, zokla “wolf”, gelte “helmet”"
+              }
+            ],
+            [
+              {
+                "fr": "solaire",
+                "en": "solar"
+              },
+              {
+                "fr": "-s",
+                "en": "-s"
+              },
+              {
+                "fr": "humains, métiers, animaux diurnes, parties du corps",
+                "en": "humans, occupations, diurnal animals, body parts"
+              },
+              {
+                "fr": "dārys « roi », voktys « prêtre », zaldrīzes « dragon », ēngos « langue »",
+                "en": "dārys “king”, voktys “priest”, zaldrīzes “dragon”, ēngos “tongue”"
+              }
+            ],
+            [
+              {
+                "fr": "terrestre",
+                "en": "terrestrial"
+              },
+              {
+                "fr": "-n",
+                "en": "-n"
+              },
+              {
+                "fr": "aliments, plantes, métaux",
+                "en": "foodstuffs, plants, metals"
+              },
+              {
+                "fr": "havon « pain », gēlion « argent », glaeson « vie », morghon « mort »",
+                "en": "havon “bread”, gēlion “silver”, glaeson “life”, morghon “death”"
+              }
+            ],
+            [
+              {
+                "fr": "aquatique",
+                "en": "aquatic"
+              },
+              {
+                "fr": "-r",
+                "en": "-r"
+              },
+              {
+                "fr": "liquides, étendues d’eau, gaz",
+                "en": "liquids, bodies of water, gases"
+              },
+              {
+                "fr": "ānogar « sang », iēdar « eau », embar « mer », lentor « maison »",
+                "en": "ānogar “blood”, iēdar “water”, embar “sea”, lentor “house”"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Ces correspondances ne sont que des tendances, et les exceptions abondent. Trois règles, en revanche, ne connaissent pas d'exception relevée : tout paucal se termine en -n, tout collectif en -r, quel que soit le genre du mot, et les noms formés avec le suffixe -(i)lla sont aquatiques.",
+            "en": "These correspondences are only tendencies, and exceptions abound. Three rules, however, have no recorded exception: every paucal ends in -n, every collective in -r, whatever the gender of the word, and nouns formed with the suffix -(i)lla are aquatic."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Peterson a expliqué d'où viennent ces classes. Il a croisé deux oppositions, les noms qui se comptent et les noms de masse d'une part, deux voyelles de thème d'autre part, puis il a cherché des noms qui rendent compte des parentés entre les quatre cases : le soleil et la lune se comptent, la terre et l'eau non ; la lune règle les marées ; le soleil fait croître ce qui vit sur la terre. Il voulait aussi éviter toute confusion entre genre grammatical et sexe.",
+            "en": "Peterson has explained where these classes come from. He crossed two oppositions, count nouns against mass nouns on one side and two theme vowels on the other, then looked for names that would account for the kinship between the four cells: sun and moon can be counted, earth and water cannot; the moon governs the tides; the sun makes things grow on the land. He also wanted to avoid any confusion between grammatical gender and sex."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Le genre commande l'accord : l'adjectif et le pronom de troisième personne changent de forme selon le genre du nom. Il n'existe pas d'article : dārys signifie « roi », « un roi » ou « le roi » selon le contexte.",
+            "en": "Gender governs agreement: the adjective and the third-person pronoun change form with the gender of the noun. There is no article: dārys means “king”, “a king” or “the king” depending on context."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Zaldrīzes buzdari iksos daor.",
+          "gloss": {
+            "fr": "« Un dragon n'est pas un esclave » (Game of Thrones, saison 3, épisode 4). Zaldrīzes est solaire ; buzdari, mot emprunté au parler de la baie des Serfs, est lunaire ; aucun article n'apparaît.",
+            "en": "“A dragon is not a slave” (Game of Thrones, season 3, episode 4). Zaldrīzes is solar; buzdari, a word borrowed from the speech of Slaver’s Bay, is lunar; no article appears."
+          }
+        }
+      ],
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Grammar",
+        "https://wiki.languageinvention.com/index.php?title=Valar"
+      ]
+    },
+    {
+      "id": "quatre-nombres",
+      "order": 3,
+      "title": {
+        "fr": "Les quatre nombres",
+        "en": "The four numbers"
+      },
+      "summary": {
+        "fr": "Singulier, pluriel, paucal et collectif ; mais l'accord ne connaît que deux nombres.",
+        "en": "Singular, plural, paucal and collective; but agreement knows only two numbers."
+      },
+      "blocks": [
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Le nom possède quatre nombres. Le singulier et le pluriel fonctionnent à peu près comme en français. Le paucal, qui se termine en -n, désigne un petit nombre indéterminé : « quelques ». Le collectif, qui se termine en -r, désigne un ensemble pris comme un tout ; pour les êtres humains, il vaut souvent « tous les ».",
+            "en": "The noun has four numbers. Singular and plural work roughly as in English. The paucal, ending in -n, denotes a small, unspecified number: “a few”. The collective, ending in -r, denotes a group taken as a whole; for human beings it often means “all the”."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Nombre",
+                "en": "Number"
+              },
+              {
+                "fr": "Forme",
+                "en": "Form"
+              },
+              {
+                "fr": "Sens",
+                "en": "Meaning"
+              }
+            ],
+            [
+              {
+                "fr": "singulier",
+                "en": "singular"
+              },
+              {
+                "fr": "vala",
+                "en": "vala"
+              },
+              {
+                "fr": "un homme",
+                "en": "a man"
+              }
+            ],
+            [
+              {
+                "fr": "pluriel",
+                "en": "plural"
+              },
+              {
+                "fr": "vali",
+                "en": "vali"
+              },
+              {
+                "fr": "des hommes",
+                "en": "men"
+              }
+            ],
+            [
+              {
+                "fr": "paucal",
+                "en": "paucal"
+              },
+              {
+                "fr": "valun",
+                "en": "valun"
+              },
+              {
+                "fr": "quelques hommes",
+                "en": "a few men"
+              }
+            ],
+            [
+              {
+                "fr": "collectif",
+                "en": "collective"
+              },
+              {
+                "fr": "valar",
+                "en": "valar"
+              },
+              {
+                "fr": "tous les hommes",
+                "en": "all men"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Tout ce système est né de valar morghulis. Peterson voulait que valar soit une forme fléchie ; il a alors conçu les nombres valyriens comme la rencontre de la quantité et de la détermination. Un seul être, déterminé : le singulier. Plusieurs, déterminés, c'est-à-dire tous : le collectif. Plusieurs, sans précision : le pluriel. Un petit nombre, sans précision : le paucal.",
+            "en": "The whole system was born of valar morghulis. Peterson wanted valar to be an inflected form; he therefore conceived Valyrian number as the meeting of quantity and definiteness. One being, definite: the singular. Several, definite, that is all of them: the collective. Several, unspecified: the plural. A small number, unspecified: the paucal."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Beaucoup de collectifs et de paucals ont pris un sens propre, jusqu'à devenir des mots autonomes dotés de leur propre pluriel : muña, « mère », donne muñar, « les parents » ; riña, « fille, enfant », donne riñar, « les enfants » ; azantys, « soldat », donne azantyr, « armée » ; tīkos, « plume », donne le paucal tīkun, « aile ».",
+            "en": "Many collectives and paucals have taken on a meaning of their own, to the point of becoming independent words with their own plural: muña, “mother”, gives muñar, “parents”; riña, “girl, child”, gives riñar, “children”; azantys, “soldier”, gives azantyr, “army”; tīkos, “feather”, gives the paucal tīkun, “wing”."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Verbes, adjectifs et pronoms n'ont que deux nombres. Le collectif s'accorde au singulier, le paucal au pluriel. Plusieurs répliques des séries reposent sur cette règle.",
+            "en": "Verbs, adjectives and pronouns have only two numbers. The collective takes singular agreement, the paucal plural agreement. Several lines from the series rest on this rule."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Targārior hae jaehorro issa, hae valarra daor, vestretiks.",
+          "gloss": {
+            "fr": "« On a dit des Targaryen qu'ils sont plus proches des dieux que des hommes » (House of the Dragon, saison 2, épisode 4). Targārior est le collectif de Targārien : le verbe issa, « est », reste au singulier.",
+            "en": "“It has been said that the Targaryens are closer to gods than to men” (House of the Dragon, season 2, episode 4). Targārior is the collective of Targārien: the verb issa, “is”, stays singular."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Bōsys bantis amāzis, se morghor zijomy amāzis.",
+          "gloss": {
+            "fr": "« La longue nuit vient, et les morts viennent avec elle » (Game of Thrones, saison 7, épisode 2). Morghor, collectif de morghon, « mort », prend un verbe au singulier, amāzis.",
+            "en": "“The long night is coming, and the dead come with it” (Game of Thrones, season 7, episode 2). Morghor, the collective of morghon, “death”, takes a singular verb, amāzis."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Sōnar amāzis.",
+          "gloss": {
+            "fr": "« L'hiver vient » (House of the Dragon, saison 2, épisode 8). Sōnar, collectif de sōna, « neige », sert à dire l'hiver ; le verbe est au singulier.",
+            "en": "“Winter is coming” (House of the Dragon, season 2, episode 8). Sōnar, the collective of sōna, “snow”, is the word for winter; the verb is singular."
+          }
+        }
+      ],
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Grammar",
+        "https://wiki.languageinvention.com/index.php?title=Valar",
+        "https://wiki.languageinvention.com/index.php?title=S%C5%8Dnar",
+        "https://wiki.languageinvention.com/index.php?title=Targ%C4%81rior"
+      ]
+    },
+    {
+      "id": "huit-cas",
+      "order": 4,
+      "title": {
+        "fr": "Les huit cas",
+        "en": "The eight cases"
+      },
+      "summary": {
+        "fr": "La terminaison du nom indique sa fonction ; trois prépositions et une série de postpositions régissent certains cas.",
+        "en": "The ending of a noun shows its function; three prepositions and a set of postpositions govern particular cases."
+      },
+      "blocks": [
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Le rôle d'un nom dans la phrase se lit à sa terminaison. Huit cas sont décrits : nominatif, accusatif, génitif, datif, locatif, instrumental, comitatif et vocatif. Aucune déclinaison ne les distingue tous à tous les nombres ; selon la classe du nom, plusieurs formes se confondent (voir la leçon suivante).",
+            "en": "A noun’s role in the sentence is read from its ending. Eight cases are described: nominative, accusative, genitive, dative, locative, instrumental, comitative and vocative. No declension keeps them all apart in every number; depending on the class of the noun, several forms coincide (see the next lesson)."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Cas",
+                "en": "Case"
+              },
+              {
+                "fr": "Emploi principal",
+                "en": "Main use"
+              },
+              {
+                "fr": "Exemple tiré des séries",
+                "en": "Example from the series"
+              }
+            ],
+            [
+              {
+                "fr": "nominatif",
+                "en": "nominative"
+              },
+              {
+                "fr": "sujet, attribut",
+                "en": "subject, complement"
+              },
+              {
+                "fr": "Zaldrīzes buzdari iksos daor. « Un dragon n’est pas un esclave. »",
+                "en": "Zaldrīzes buzdari iksos daor. “A dragon is not a slave.”"
+              }
+            ],
+            [
+              {
+                "fr": "accusatif",
+                "en": "accusative"
+              },
+              {
+                "fr": "objet direct",
+                "en": "direct object"
+              },
+              {
+                "fr": "Geltī aōhe nādīnās. « Ôte ton casque. » (geltī, de gelte)",
+                "en": "Geltī aōhe nādīnās. “Take off your helmet.” (geltī, from gelte)"
+              }
+            ],
+            [
+              {
+                "fr": "génitif",
+                "en": "genitive"
+              },
+              {
+                "fr": "possession, matière, complément des postpositions",
+                "en": "possession, material, object of postpositions"
+              },
+              {
+                "fr": "Valyrio muño ēngos ñuhys issa. « Le valyrien est ma langue maternelle. » (muño, « de la mère »)",
+                "en": "Valyrio muño ēngos ñuhys issa. “Valyrian is my mother tongue.” (muño, “of the mother”)"
+              }
+            ],
+            [
+              {
+                "fr": "datif",
+                "en": "dative"
+              },
+              {
+                "fr": "destinataire, direction",
+                "en": "recipient, direction"
+              },
+              {
+                "fr": "Jemot kīvio ñuhe tepan. « Je vous donne ma parole. » (jemot, « à vous »)",
+                "en": "Jemot kīvio ñuhe tepan. “I give you my word.” (jemot, “to you”)"
+              }
+            ],
+            [
+              {
+                "fr": "locatif",
+                "en": "locative"
+              },
+              {
+                "fr": "lieu, moment",
+                "en": "place, time"
+              },
+              {
+                "fr": "Kesȳ tubī jemot dāervī tepan. « Aujourd’hui je vous donne la liberté. » (kesȳ tubī, « en ce jour »)",
+                "en": "Kesȳ tubī jemot dāervī tepan. “Today I give you freedom.” (kesȳ tubī, “on this day”)"
+              }
+            ],
+            [
+              {
+                "fr": "instrumental",
+                "en": "instrumental"
+              },
+              {
+                "fr": "moyen, manière, terme d’une comparaison",
+                "en": "means, manner, standard of comparison"
+              },
+              {
+                "fr": "Skoroso jemēle brōzā? « Comment t’appelles-tu ? » (skoroso, « par quoi »)",
+                "en": "Skoroso jemēle brōzā? “What is your name?” (skoroso, “by what”)"
+              }
+            ],
+            [
+              {
+                "fr": "comitatif",
+                "en": "comitative"
+              },
+              {
+                "fr": "accompagnement",
+                "en": "accompaniment"
+              },
+              {
+                "fr": "Se morghor zijomy amāzis. « Et les morts viennent avec elle. » (zijomy)",
+                "en": "Se morghor zijomy amāzis. “And the dead come with it.” (zijomy)"
+              }
+            ],
+            [
+              {
+                "fr": "vocatif",
+                "en": "vocative"
+              },
+              {
+                "fr": "apostrophe",
+                "en": "direct address"
+              },
+              {
+                "fr": "Āeksios Ōño, aōhos ōñoso īlōn jehikās. « Seigneur de Lumière, répands ta lumière sur nous. » (Āeksios)",
+                "en": "Āeksios Ōño, aōhos ōñoso īlōn jehikās. “Lord of Light, cast your light upon us.” (Āeksios)"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "La langue n'a que trois prépositions : hae, « comme », avec le locatif ; hen, « de, depuis », avec le locatif, ou « hors de », avec le datif ; va, « vers, auprès de », avec le locatif, ou « jusqu'à, dans », avec le datif. Toutes les postpositions connues régissent le génitif : syt, « pour » ; naejot, « devant » ; bē, « sur, au sujet de » ; toliot, « après, au-dessus de ».",
+            "en": "The language has only three prepositions: hae, “as, like”, with the locative; hen, “from, since”, with the locative, or “out of”, with the dative; va, “towards, near”, with the locative, or “up to, into”, with the dative. Every known postposition governs the genitive: syt, “for”; naejot, “in front of”; bē, “on, about”; toliot, “after, over”."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Thoros hen Mȳrot iksā.",
+          "gloss": {
+            "fr": "« Tu es Thoros de Myr » (Game of Thrones, saison 3, épisode 6) : hen, suivi du locatif Mȳrot, marque la provenance.",
+            "en": "“You are Thoros of Myr” (Game of Thrones, season 3, episode 6): hen, followed by the locative Mȳrot, marks origin."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Hen embār masti. Va embrot āmāzīli.",
+          "gloss": {
+            "fr": "« De la mer nous sommes venus. À la mer nous retournerons » (House of the Dragon, saison 1, épisode 7) : hen avec le locatif embār, puis va avec le datif embrot.",
+            "en": "“From the sea we came. To the sea we shall return” (House of the Dragon, season 1, episode 7): hen with the locative embār, then va with the dative embrot."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "L'instrumental entre aussi dans des tours figés. Kirimvose, « merci », est l'instrumental de kirimves, « joie » ; dans Melisandrose brōziks, « on m'appelle Melisandre », c'est le nom lui-même qui se met à l'instrumental.",
+            "en": "The instrumental also appears in fixed turns of phrase. Kirimvose, “thank you”, is the instrumental of kirimves, “joy”; in Melisandrose brōziks, “I am called Melisandre”, it is the name itself that takes the instrumental."
+          }
+        }
+      ],
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=User:Najahho%2FHigh_Valyrian_Noun_Cases",
+        "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Grammar",
+        "https://wiki.languageinvention.com/index.php?title=Hen",
+        "https://wiki.languageinvention.com/index.php?title=Va",
+        "https://wiki.languageinvention.com/index.php?title=Kirimvose"
+      ]
+    },
+    {
+      "id": "declinaisons",
+      "order": 5,
+      "title": {
+        "fr": "Les déclinaisons",
+        "en": "The declensions"
+      },
+      "summary": {
+        "fr": "Cinq déclinaisons documentées, reconnaissables à leur voyelle et aux cas qu’elles confondent ; un paradigme complet pour chacune.",
+        "en": "Five documented declensions, recognizable by their vowel and by the cases they merge; a full paradigm for each."
+      },
+      "blocks": [
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Les noms se répartissent en déclinaisons d'après leur voyelle de thème (a, y, o, e, i) et d'après les cas qu'ils confondent. Une sixième déclinaison réunit les emprunts, comme buzdari, « esclave », et des collectifs ou des paucals devenus des mots autonomes ; elle n'a pas de paradigme unique. Les tableaux qui suivent reprennent les paradigmes publiés par Peterson ou établis à partir de ses indications ; chaque modèle est un nom employé dans les séries ou par Peterson lui-même. Paucal et collectif se déclinent presque de la même façon dans toutes les classes.",
+            "en": "Nouns fall into declensions according to their theme vowel (a, y, o, e, i) and the cases they merge. A sixth declension gathers loanwords, such as buzdari, “slave”, and collectives or paucals that have become independent words; it has no single paradigm. The tables below follow the paradigms published by Peterson or worked out from his statements; each model is a noun used in the series or by Peterson himself. Paucal and collective decline almost identically in every class."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Première déclinaison, voyelle a, type lunaire : vala, « homme ». Le génitif, le datif et le locatif pluriels se confondent, comme dans presque tous les noms ; les autres cas restent distincts.",
+            "en": "First declension, vowel a, lunar type: vala, “man”. Genitive, dative and locative plural coincide, as in nearly all nouns; the other cases stay distinct."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Cas",
+                "en": "Case"
+              },
+              {
+                "fr": "Singulier",
+                "en": "Singular"
+              },
+              {
+                "fr": "Pluriel",
+                "en": "Plural"
+              },
+              {
+                "fr": "Paucal",
+                "en": "Paucal"
+              },
+              {
+                "fr": "Collectif",
+                "en": "Collective"
+              }
+            ],
+            [
+              {
+                "fr": "nominatif",
+                "en": "nominative"
+              },
+              {
+                "fr": "vala",
+                "en": "vala"
+              },
+              {
+                "fr": "vali",
+                "en": "vali"
+              },
+              {
+                "fr": "valun",
+                "en": "valun"
+              },
+              {
+                "fr": "valar",
+                "en": "valar"
+              }
+            ],
+            [
+              {
+                "fr": "accusatif",
+                "en": "accusative"
+              },
+              {
+                "fr": "vale",
+                "en": "vale"
+              },
+              {
+                "fr": "valī",
+                "en": "valī"
+              },
+              {
+                "fr": "valuni",
+                "en": "valuni"
+              },
+              {
+                "fr": "valari",
+                "en": "valari"
+              }
+            ],
+            [
+              {
+                "fr": "génitif",
+                "en": "genitive"
+              },
+              {
+                "fr": "valo",
+                "en": "valo"
+              },
+              {
+                "fr": "valoti",
+                "en": "valoti"
+              },
+              {
+                "fr": "valuno",
+                "en": "valuno"
+              },
+              {
+                "fr": "valaro",
+                "en": "valaro"
+              }
+            ],
+            [
+              {
+                "fr": "datif",
+                "en": "dative"
+              },
+              {
+                "fr": "valot",
+                "en": "valot"
+              },
+              {
+                "fr": "valoti",
+                "en": "valoti"
+              },
+              {
+                "fr": "valunta",
+                "en": "valunta"
+              },
+              {
+                "fr": "valarta",
+                "en": "valarta"
+              }
+            ],
+            [
+              {
+                "fr": "locatif",
+                "en": "locative"
+              },
+              {
+                "fr": "valā",
+                "en": "valā"
+              },
+              {
+                "fr": "valoti",
+                "en": "valoti"
+              },
+              {
+                "fr": "valunna",
+                "en": "valunna"
+              },
+              {
+                "fr": "valarra",
+                "en": "valarra"
+              }
+            ],
+            [
+              {
+                "fr": "instrumental",
+                "en": "instrumental"
+              },
+              {
+                "fr": "valosa",
+                "en": "valosa"
+              },
+              {
+                "fr": "valossi",
+                "en": "valossi"
+              },
+              {
+                "fr": "valussa",
+                "en": "valussa"
+              },
+              {
+                "fr": "valarza",
+                "en": "valarza"
+              }
+            ],
+            [
+              {
+                "fr": "comitatif",
+                "en": "comitative"
+              },
+              {
+                "fr": "valoma",
+                "en": "valoma"
+              },
+              {
+                "fr": "valommi",
+                "en": "valommi"
+              },
+              {
+                "fr": "valumma",
+                "en": "valumma"
+              },
+              {
+                "fr": "valarma",
+                "en": "valarma"
+              }
+            ],
+            [
+              {
+                "fr": "vocatif",
+                "en": "vocative"
+              },
+              {
+                "fr": "valus",
+                "en": "valus"
+              },
+              {
+                "fr": "valis",
+                "en": "valis"
+              },
+              {
+                "fr": "valussa",
+                "en": "valussa"
+              },
+              {
+                "fr": "valarza",
+                "en": "valarza"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Deuxième déclinaison, voyelle y, type solaire : loktys, « marin », paradigme publié par Peterson en 2013. L'instrumental et le comitatif se confondent au singulier comme au pluriel ; le locatif pluriel, loktī, se distingue du génitif et du datif, ce qu'aucune autre déclinaison ne fait. Les noms en -ys, comme dārys « roi » ou Daenerys, suivent ce modèle.",
+            "en": "Second declension, vowel y, solar type: loktys, “sailor”, a paradigm published by Peterson in 2013. Instrumental and comitative coincide in both singular and plural; the locative plural, loktī, is distinct from the genitive and dative, which no other declension does. Nouns in -ys, such as dārys “king” or Daenerys, follow this model."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Cas",
+                "en": "Case"
+              },
+              {
+                "fr": "Singulier",
+                "en": "Singular"
+              },
+              {
+                "fr": "Pluriel",
+                "en": "Plural"
+              },
+              {
+                "fr": "Paucal",
+                "en": "Paucal"
+              },
+              {
+                "fr": "Collectif",
+                "en": "Collective"
+              }
+            ],
+            [
+              {
+                "fr": "nominatif",
+                "en": "nominative"
+              },
+              {
+                "fr": "loktys",
+                "en": "loktys"
+              },
+              {
+                "fr": "loktyssy",
+                "en": "loktyssy"
+              },
+              {
+                "fr": "loktyn",
+                "en": "loktyn"
+              },
+              {
+                "fr": "loktyr",
+                "en": "loktyr"
+              }
+            ],
+            [
+              {
+                "fr": "accusatif",
+                "en": "accusative"
+              },
+              {
+                "fr": "lokti",
+                "en": "lokti"
+              },
+              {
+                "fr": "loktī",
+                "en": "loktī"
+              },
+              {
+                "fr": "loktyni",
+                "en": "loktyni"
+              },
+              {
+                "fr": "loktyri",
+                "en": "loktyri"
+              }
+            ],
+            [
+              {
+                "fr": "génitif",
+                "en": "genitive"
+              },
+              {
+                "fr": "lokto",
+                "en": "lokto"
+              },
+              {
+                "fr": "loktoti",
+                "en": "loktoti"
+              },
+              {
+                "fr": "loktyno",
+                "en": "loktyno"
+              },
+              {
+                "fr": "loktyro",
+                "en": "loktyro"
+              }
+            ],
+            [
+              {
+                "fr": "datif",
+                "en": "dative"
+              },
+              {
+                "fr": "loktot",
+                "en": "loktot"
+              },
+              {
+                "fr": "loktoti",
+                "en": "loktoti"
+              },
+              {
+                "fr": "loktynty",
+                "en": "loktynty"
+              },
+              {
+                "fr": "loktyrty",
+                "en": "loktyrty"
+              }
+            ],
+            [
+              {
+                "fr": "locatif",
+                "en": "locative"
+              },
+              {
+                "fr": "loktȳ",
+                "en": "loktȳ"
+              },
+              {
+                "fr": "loktī",
+                "en": "loktī"
+              },
+              {
+                "fr": "loktynny",
+                "en": "loktynny"
+              },
+              {
+                "fr": "loktyrry",
+                "en": "loktyrry"
+              }
+            ],
+            [
+              {
+                "fr": "instrumental",
+                "en": "instrumental"
+              },
+              {
+                "fr": "loktomy",
+                "en": "loktomy"
+              },
+              {
+                "fr": "loktommi",
+                "en": "loktommi"
+              },
+              {
+                "fr": "loktyssy",
+                "en": "loktyssy"
+              },
+              {
+                "fr": "loktyrzy",
+                "en": "loktyrzy"
+              }
+            ],
+            [
+              {
+                "fr": "comitatif",
+                "en": "comitative"
+              },
+              {
+                "fr": "loktomy",
+                "en": "loktomy"
+              },
+              {
+                "fr": "loktommi",
+                "en": "loktommi"
+              },
+              {
+                "fr": "loktymmy",
+                "en": "loktymmy"
+              },
+              {
+                "fr": "loktyrmy",
+                "en": "loktyrmy"
+              }
+            ],
+            [
+              {
+                "fr": "vocatif",
+                "en": "vocative"
+              },
+              {
+                "fr": "loktys",
+                "en": "loktys"
+              },
+              {
+                "fr": "loktyssys",
+                "en": "loktyssys"
+              },
+              {
+                "fr": "loktyssy",
+                "en": "loktyssy"
+              },
+              {
+                "fr": "loktyrzy",
+                "en": "loktyrzy"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Troisième déclinaison, voyelle o, type aquatique : lentor, « maison, lignée », le mot du titre de ce site. Le nominatif et l'accusatif se confondent au singulier et au pluriel, de même que le datif et le locatif singuliers, l'instrumental et le comitatif singuliers. C'est pourquoi la formule hen Targārio Lentrot, « de la Maison Targaryen », emploie la forme lentrot.",
+            "en": "Third declension, vowel o, aquatic type: lentor, “house, lineage”, the word in this site’s title. Nominative and accusative coincide in singular and plural, as do dative and locative singular, and instrumental and comitative singular. That is why the formula hen Targārio Lentrot, “of House Targaryen”, uses the form lentrot."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Cas",
+                "en": "Case"
+              },
+              {
+                "fr": "Singulier",
+                "en": "Singular"
+              },
+              {
+                "fr": "Pluriel",
+                "en": "Plural"
+              },
+              {
+                "fr": "Paucal",
+                "en": "Paucal"
+              },
+              {
+                "fr": "Collectif",
+                "en": "Collective"
+              }
+            ],
+            [
+              {
+                "fr": "nominatif",
+                "en": "nominative"
+              },
+              {
+                "fr": "lentor",
+                "en": "lentor"
+              },
+              {
+                "fr": "lentra",
+                "en": "lentra"
+              },
+              {
+                "fr": "lentrun",
+                "en": "lentrun"
+              },
+              {
+                "fr": "lentror",
+                "en": "lentror"
+              }
+            ],
+            [
+              {
+                "fr": "accusatif",
+                "en": "accusative"
+              },
+              {
+                "fr": "lentor",
+                "en": "lentor"
+              },
+              {
+                "fr": "lentra",
+                "en": "lentra"
+              },
+              {
+                "fr": "lentruni",
+                "en": "lentruni"
+              },
+              {
+                "fr": "lentrori",
+                "en": "lentrori"
+              }
+            ],
+            [
+              {
+                "fr": "génitif",
+                "en": "genitive"
+              },
+              {
+                "fr": "lentro",
+                "en": "lentro"
+              },
+              {
+                "fr": "lentroti",
+                "en": "lentroti"
+              },
+              {
+                "fr": "lentruno",
+                "en": "lentruno"
+              },
+              {
+                "fr": "lentroro",
+                "en": "lentroro"
+              }
+            ],
+            [
+              {
+                "fr": "datif",
+                "en": "dative"
+              },
+              {
+                "fr": "lentrot",
+                "en": "lentrot"
+              },
+              {
+                "fr": "lentroti",
+                "en": "lentroti"
+              },
+              {
+                "fr": "lentrunto",
+                "en": "lentrunto"
+              },
+              {
+                "fr": "lentrorto",
+                "en": "lentrorto"
+              }
+            ],
+            [
+              {
+                "fr": "locatif",
+                "en": "locative"
+              },
+              {
+                "fr": "lentrot",
+                "en": "lentrot"
+              },
+              {
+                "fr": "lentroti",
+                "en": "lentroti"
+              },
+              {
+                "fr": "lentrunno",
+                "en": "lentrunno"
+              },
+              {
+                "fr": "lentrorro",
+                "en": "lentrorro"
+              }
+            ],
+            [
+              {
+                "fr": "instrumental",
+                "en": "instrumental"
+              },
+              {
+                "fr": "lentroso",
+                "en": "lentroso"
+              },
+              {
+                "fr": "lentrossi",
+                "en": "lentrossi"
+              },
+              {
+                "fr": "lentrusso",
+                "en": "lentrusso"
+              },
+              {
+                "fr": "lentrorzo",
+                "en": "lentrorzo"
+              }
+            ],
+            [
+              {
+                "fr": "comitatif",
+                "en": "comitative"
+              },
+              {
+                "fr": "lentroso",
+                "en": "lentroso"
+              },
+              {
+                "fr": "lentrossi",
+                "en": "lentrossi"
+              },
+              {
+                "fr": "lentrummo",
+                "en": "lentrummo"
+              },
+              {
+                "fr": "lentrormo",
+                "en": "lentrormo"
+              }
+            ],
+            [
+              {
+                "fr": "vocatif",
+                "en": "vocative"
+              },
+              {
+                "fr": "lentos",
+                "en": "lentos"
+              },
+              {
+                "fr": "lentas",
+                "en": "lentas"
+              },
+              {
+                "fr": "lentrusso",
+                "en": "lentrusso"
+              },
+              {
+                "fr": "lentrorzo",
+                "en": "lentrorzo"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Quatrième déclinaison, voyelle e, type solaire : zaldrīzes, « dragon ». Elle ne confond guère que le génitif, le datif et le locatif pluriels. Targārien appartient à un type ancien et rare de cette déclinaison, réservé pour l'essentiel aux noms propres.",
+            "en": "Fourth declension, vowel e, solar type: zaldrīzes, “dragon”. It merges little beyond the genitive, dative and locative plural. Targārien belongs to an old and rare type of this declension, kept mostly for proper names."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Cas",
+                "en": "Case"
+              },
+              {
+                "fr": "Singulier",
+                "en": "Singular"
+              },
+              {
+                "fr": "Pluriel",
+                "en": "Plural"
+              },
+              {
+                "fr": "Paucal",
+                "en": "Paucal"
+              },
+              {
+                "fr": "Collectif",
+                "en": "Collective"
+              }
+            ],
+            [
+              {
+                "fr": "nominatif",
+                "en": "nominative"
+              },
+              {
+                "fr": "zaldrīzes",
+                "en": "zaldrīzes"
+              },
+              {
+                "fr": "zaldrīzesse",
+                "en": "zaldrīzesse"
+              },
+              {
+                "fr": "zaldrīzin",
+                "en": "zaldrīzin"
+              },
+              {
+                "fr": "zaldrīzer",
+                "en": "zaldrīzer"
+              }
+            ],
+            [
+              {
+                "fr": "accusatif",
+                "en": "accusative"
+              },
+              {
+                "fr": "zaldrīzī",
+                "en": "zaldrīzī"
+              },
+              {
+                "fr": "zaldrīzī",
+                "en": "zaldrīzī"
+              },
+              {
+                "fr": "zaldrīzini",
+                "en": "zaldrīzini"
+              },
+              {
+                "fr": "zaldrīzeri",
+                "en": "zaldrīzeri"
+              }
+            ],
+            [
+              {
+                "fr": "génitif",
+                "en": "genitive"
+              },
+              {
+                "fr": "zaldrīzo",
+                "en": "zaldrīzo"
+              },
+              {
+                "fr": "zaldrīzoti",
+                "en": "zaldrīzoti"
+              },
+              {
+                "fr": "zaldrīzino",
+                "en": "zaldrīzino"
+              },
+              {
+                "fr": "zaldrīzero",
+                "en": "zaldrīzero"
+              }
+            ],
+            [
+              {
+                "fr": "datif",
+                "en": "dative"
+              },
+              {
+                "fr": "zaldrīzot",
+                "en": "zaldrīzot"
+              },
+              {
+                "fr": "zaldrīzoti",
+                "en": "zaldrīzoti"
+              },
+              {
+                "fr": "zaldrīzinte",
+                "en": "zaldrīzinte"
+              },
+              {
+                "fr": "zaldrīzerte",
+                "en": "zaldrīzerte"
+              }
+            ],
+            [
+              {
+                "fr": "locatif",
+                "en": "locative"
+              },
+              {
+                "fr": "zaldrīzē",
+                "en": "zaldrīzē"
+              },
+              {
+                "fr": "zaldrīzoti",
+                "en": "zaldrīzoti"
+              },
+              {
+                "fr": "zaldrīzinne",
+                "en": "zaldrīzinne"
+              },
+              {
+                "fr": "zaldrīzerre",
+                "en": "zaldrīzerre"
+              }
+            ],
+            [
+              {
+                "fr": "instrumental",
+                "en": "instrumental"
+              },
+              {
+                "fr": "zaldrīzose",
+                "en": "zaldrīzose"
+              },
+              {
+                "fr": "zaldrīzossi",
+                "en": "zaldrīzossi"
+              },
+              {
+                "fr": "zaldrīzisse",
+                "en": "zaldrīzisse"
+              },
+              {
+                "fr": "zaldrīzerze",
+                "en": "zaldrīzerze"
+              }
+            ],
+            [
+              {
+                "fr": "comitatif",
+                "en": "comitative"
+              },
+              {
+                "fr": "zaldrīzome",
+                "en": "zaldrīzome"
+              },
+              {
+                "fr": "zaldrīzommi",
+                "en": "zaldrīzommi"
+              },
+              {
+                "fr": "zaldrīzimme",
+                "en": "zaldrīzimme"
+              },
+              {
+                "fr": "zaldrīzerme",
+                "en": "zaldrīzerme"
+              }
+            ],
+            [
+              {
+                "fr": "vocatif",
+                "en": "vocative"
+              },
+              {
+                "fr": "zaldrīzys",
+                "en": "zaldrīzys"
+              },
+              {
+                "fr": "zaldrīzesses",
+                "en": "zaldrīzesses"
+              },
+              {
+                "fr": "zaldrīzisse",
+                "en": "zaldrīzisse"
+              },
+              {
+                "fr": "zaldrīzerze",
+                "en": "zaldrīzerze"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Cinquième déclinaison, voyelle i, type solaire : tubis, « jour ». Le nominatif et l'accusatif se confondent au singulier et au pluriel. Le locatif tubī s'emploie seul comme adverbe : « aujourd'hui ».",
+            "en": "Fifth declension, vowel i, solar type: tubis, “day”. Nominative and accusative coincide in singular and plural. The locative tubī is used on its own as an adverb: “today”."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Cas",
+                "en": "Case"
+              },
+              {
+                "fr": "Singulier",
+                "en": "Singular"
+              },
+              {
+                "fr": "Pluriel",
+                "en": "Plural"
+              },
+              {
+                "fr": "Paucal",
+                "en": "Paucal"
+              },
+              {
+                "fr": "Collectif",
+                "en": "Collective"
+              }
+            ],
+            [
+              {
+                "fr": "nominatif",
+                "en": "nominative"
+              },
+              {
+                "fr": "tubis",
+                "en": "tubis"
+              },
+              {
+                "fr": "tubissa",
+                "en": "tubissa"
+              },
+              {
+                "fr": "tubin",
+                "en": "tubin"
+              },
+              {
+                "fr": "tubir",
+                "en": "tubir"
+              }
+            ],
+            [
+              {
+                "fr": "accusatif",
+                "en": "accusative"
+              },
+              {
+                "fr": "tubis",
+                "en": "tubis"
+              },
+              {
+                "fr": "tubissa",
+                "en": "tubissa"
+              },
+              {
+                "fr": "tubini",
+                "en": "tubini"
+              },
+              {
+                "fr": "tubiri",
+                "en": "tubiri"
+              }
+            ],
+            [
+              {
+                "fr": "génitif",
+                "en": "genitive"
+              },
+              {
+                "fr": "tubio",
+                "en": "tubio"
+              },
+              {
+                "fr": "tubȳti",
+                "en": "tubȳti"
+              },
+              {
+                "fr": "tubino",
+                "en": "tubino"
+              },
+              {
+                "fr": "tubiro",
+                "en": "tubiro"
+              }
+            ],
+            [
+              {
+                "fr": "datif",
+                "en": "dative"
+              },
+              {
+                "fr": "tubiot",
+                "en": "tubiot"
+              },
+              {
+                "fr": "tubȳti",
+                "en": "tubȳti"
+              },
+              {
+                "fr": "tubinti",
+                "en": "tubinti"
+              },
+              {
+                "fr": "tubirti",
+                "en": "tubirti"
+              }
+            ],
+            [
+              {
+                "fr": "locatif",
+                "en": "locative"
+              },
+              {
+                "fr": "tubī",
+                "en": "tubī"
+              },
+              {
+                "fr": "tubȳti",
+                "en": "tubȳti"
+              },
+              {
+                "fr": "tubinni",
+                "en": "tubinni"
+              },
+              {
+                "fr": "tubirri",
+                "en": "tubirri"
+              }
+            ],
+            [
+              {
+                "fr": "instrumental",
+                "en": "instrumental"
+              },
+              {
+                "fr": "tubȳsi",
+                "en": "tubȳsi"
+              },
+              {
+                "fr": "tubȳssi",
+                "en": "tubȳssi"
+              },
+              {
+                "fr": "tubissi",
+                "en": "tubissi"
+              },
+              {
+                "fr": "tubirzi",
+                "en": "tubirzi"
+              }
+            ],
+            [
+              {
+                "fr": "comitatif",
+                "en": "comitative"
+              },
+              {
+                "fr": "tubȳmi",
+                "en": "tubȳmi"
+              },
+              {
+                "fr": "tubȳmmi",
+                "en": "tubȳmmi"
+              },
+              {
+                "fr": "tubimmi",
+                "en": "tubimmi"
+              },
+              {
+                "fr": "tubirmi",
+                "en": "tubirmi"
+              }
+            ],
+            [
+              {
+                "fr": "vocatif",
+                "en": "vocative"
+              },
+              {
+                "fr": "tubys",
+                "en": "tubys"
+              },
+              {
+                "fr": "tubissas",
+                "en": "tubissas"
+              },
+              {
+                "fr": "tubissi",
+                "en": "tubissi"
+              },
+              {
+                "fr": "tubirzi",
+                "en": "tubirzi"
+              }
+            ]
+          ]
+        }
+      ],
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=User:Najahho%2FHigh_Valyrian_Noun_Declensions",
+        "https://dothraki.com/?p=1227",
+        "https://wiki.languageinvention.com/index.php?title=Lentrot",
+        "https://wiki.languageinvention.com/index.php?title=Tub%C4%AB"
+      ]
+    },
+    {
+      "id": "adjectif-accord",
+      "order": 6,
+      "title": {
+        "fr": "L'adjectif et l'accord",
+        "en": "The adjective and agreement"
+      },
+      "summary": {
+        "fr": "L'adjectif s'accorde en genre, en nombre et en cas ; sa place, avant ou après le nom, change sa forme et son ton.",
+        "en": "The adjective agrees in gender, number and case; its position, before or after the noun, changes its form and tone."
+      },
+      "blocks": [
+        {
+          "kind": "p",
+          "text": {
+            "fr": "L'adjectif prend le genre, le nombre et le cas du nom qu'il qualifie. Il n'a que deux nombres : devant un collectif il se met au singulier, devant un paucal au pluriel. Trois classes se reconnaissent à leurs terminaisons de nominatif singulier.",
+            "en": "The adjective takes the gender, number and case of the noun it describes. It has only two numbers: with a collective it is singular, with a paucal plural. Three classes can be recognized by their nominative singular endings."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Classe",
+                "en": "Class"
+              },
+              {
+                "fr": "Lunaire",
+                "en": "Lunar"
+              },
+              {
+                "fr": "Solaire",
+                "en": "Solar"
+              },
+              {
+                "fr": "Terrestre",
+                "en": "Terrestrial"
+              },
+              {
+                "fr": "Aquatique",
+                "en": "Aquatic"
+              },
+              {
+                "fr": "Exemples",
+                "en": "Examples"
+              }
+            ],
+            [
+              {
+                "fr": "I",
+                "en": "I"
+              },
+              {
+                "fr": "-a",
+                "en": "-a"
+              },
+              {
+                "fr": "-ys",
+                "en": "-ys"
+              },
+              {
+                "fr": "-on",
+                "en": "-on"
+              },
+              {
+                "fr": "-or",
+                "en": "-or"
+              },
+              {
+                "fr": "ñuha, ñuhys, ñuhon, ñuhor « mon » ; bōsa « long »",
+                "en": "ñuha, ñuhys, ñuhon, ñuhor “my”; bōsa “long”"
+              }
+            ],
+            [
+              {
+                "fr": "II",
+                "en": "II"
+              },
+              {
+                "fr": "-e",
+                "en": "-e"
+              },
+              {
+                "fr": "-e",
+                "en": "-e"
+              },
+              {
+                "fr": "-ior (-or après ñ)",
+                "en": "-ior (-or after ñ)"
+              },
+              {
+                "fr": "-ior (-or après ñ)",
+                "en": "-ior (-or after ñ)"
+              },
+              {
+                "fr": "kirine, kirinior « heureux » ; embōñe, embōñor « de la mer »",
+                "en": "kirine, kirinior “happy”; embōñe, embōñor “of the sea”"
+              }
+            ],
+            [
+              {
+                "fr": "III",
+                "en": "III"
+              },
+              {
+                "fr": "-ie",
+                "en": "-ie"
+              },
+              {
+                "fr": "-ie",
+                "en": "-ie"
+              },
+              {
+                "fr": "-ior",
+                "en": "-ior"
+              },
+              {
+                "fr": "-ior",
+                "en": "-ior"
+              },
+              {
+                "fr": "zōbrie, zōbrior « noir, sombre » ; eglie, eglior « haut »",
+                "en": "zōbrie, zōbrior “black, dark”; eglie, eglior “high”"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "L'adjectif se place d'ordinaire devant le nom, sous une forme abrégée dite prépositive. Placé après, il garde des terminaisons plus pleines et donne à l'expression un tour officiel ou solennel ; c'est l'ordre des titres. Les démonstratifs et les déterminants restent presque toujours devant.",
+            "en": "The adjective usually stands before the noun, in a shortened form called prepositive. Placed after, it keeps fuller endings and gives the phrase an official or solemn turn; this is the order of titles. Demonstratives and determiners nearly always stay in front."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Bōsys bantis amāzis.",
+          "gloss": {
+            "fr": "« La longue nuit vient » (Game of Thrones, saison 7, épisode 2) : bōsa, « long », se met devant bantis et prend la forme solaire bōsys.",
+            "en": "“The long night is coming” (Game of Thrones, season 7, episode 2): bōsa, “long”, stands before bantis and takes the solar form bōsys."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Voktys Eglie aōt gaomilaksir teptas.",
+          "gloss": {
+            "fr": "« Le Grand Prêtre t'a confié une mission » (Game of Thrones, saison 3, épisode 6) : eglie, « haut », suit le nom, comme dans un titre.",
+            "en": "“The High Priest gave you a mission” (Game of Thrones, season 3, episode 6): eglie, “high”, follows the noun, as in a title."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Kesrio syt bantis zōbrie issa se ossȳngnoti lēdys.",
+          "gloss": {
+            "fr": "« Car la nuit est sombre et pleine de terreurs » (Game of Thrones, saison 5, épisode 3). Zōbrie et lēdys sont attributs et s'accordent avec bantis, nom solaire ; le génitif pluriel ossȳngnoti complète lēdys.",
+            "en": "“For the night is dark and full of terrors” (Game of Thrones, season 5, episode 3). Zōbrie and lēdys are predicates agreeing with bantis, a solar noun; the genitive plural ossȳngnoti completes lēdys."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Aōhor jaqiarzir ivīlībin imorghūlīn, jaqiarzus Dārȳs.",
+          "gloss": {
+            "fr": "« Pour ta gloire je combats et je meurs, ô reine glorieuse » (Game of Thrones, saison 5, épisode 9) : dans jaqiarzus Dārȳs, l'adjectif prend le vocatif comme le nom.",
+            "en": "“For your glory I fight and die, O glorious queen” (Game of Thrones, season 5, episode 9): in jaqiarzus Dārȳs, the adjective takes the vocative like the noun."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Les possessifs sont des adjectifs de la classe I : ñuha « mon », aōha « ton », īlva « notre », jeva « votre ». Ils suivent souvent le nom : kīvio ñuhe, « ma parole » ; geltī aōhe, « ton casque », tous deux à l'accusatif lunaire.",
+            "en": "Possessives are class I adjectives: ñuha “my”, aōha “your” (singular), īlva “our”, jeva “your” (plural). They often follow the noun: kīvio ñuhe, “my word”; geltī aōhe, “your helmet”, both in the lunar accusative."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "L'adjectif connaît quatre degrés : le positif, le comparatif en -kta, le superlatif en -je et l'équatif en -pa, « aussi … que ». Le terme de la comparaison se met à l'instrumental. Pour bōsa, « long », les formes données sont bōsykta, bōsāje et bōsāpa.",
+            "en": "The adjective has four degrees: positive, comparative in -kta, superlative in -je and equative in -pa, “as … as”. The standard of comparison takes the instrumental. For bōsa, “long”, the forms given are bōsykta, bōsāje and bōsāpa."
+          }
+        }
+      ],
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=User:Najahho%2FHigh_Valyrian_Adjectives",
+        "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Grammar",
+        "https://wiki.languageinvention.com/index.php?title=B%C5%8Dsa",
+        "https://wiki.languageinvention.com/index.php?title=%C3%91uha"
+      ]
+    },
+    {
+      "id": "verbe",
+      "order": 7,
+      "title": {
+        "fr": "Le verbe",
+        "en": "The verb"
+      },
+      "summary": {
+        "fr": "Trois personnes, deux nombres, sept temps, deux voix, trois modes ; et ce que disent exactement « Valar morghūlis » et « Valar dohaeris ».",
+        "en": "Three persons, two numbers, seven tenses, two voices, three moods; and what “Valar morghūlis” and “Valar dohaeris” say exactly."
+      },
+      "blocks": [
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Le verbe s'accorde avec son sujet en personne et en nombre ; le collectif compte comme un singulier, le paucal comme un pluriel. La terminaison suffisant à dire qui agit, le pronom sujet est d'ordinaire omis : iksan, « je suis ». La forme du dictionnaire est l'infinitif, en -agon, plus rarement -egon, -igon ou -ugon ; il peut aussi servir de nom.",
+            "en": "The verb agrees with its subject in person and number; the collective counts as singular, the paucal as plural. Since the ending is enough to show who acts, the subject pronoun is usually left out: iksan, “I am”. The dictionary form is the infinitive, in -agon, more rarely -egon, -igon or -ugon; it can also serve as a noun."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "On distingue les verbes à radical consonantique, comme manaeragon, « lever », et à radical vocalique, comme sōvegon, « voler ». Voici le présent de manaeragon tel que Peterson l'a publié, à l'indicatif et au subjonctif.",
+            "en": "Verbs divide into consonant stems, such as manaeragon, “to raise”, and vowel stems, such as sōvegon, “to fly”. Here is the present of manaeragon as Peterson published it, in the indicative and the subjunctive."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Personne",
+                "en": "Person"
+              },
+              {
+                "fr": "Indicatif",
+                "en": "Indicative"
+              },
+              {
+                "fr": "Subjonctif",
+                "en": "Subjunctive"
+              }
+            ],
+            [
+              {
+                "fr": "1re du singulier",
+                "en": "1st singular"
+              },
+              {
+                "fr": "manaeran",
+                "en": "manaeran"
+              },
+              {
+                "fr": "manaeron",
+                "en": "manaeron"
+              }
+            ],
+            [
+              {
+                "fr": "2e du singulier",
+                "en": "2nd singular"
+              },
+              {
+                "fr": "manaerā",
+                "en": "manaerā"
+              },
+              {
+                "fr": "manaerō",
+                "en": "manaerō"
+              }
+            ],
+            [
+              {
+                "fr": "3e du singulier",
+                "en": "3rd singular"
+              },
+              {
+                "fr": "manaerza",
+                "en": "manaerza"
+              },
+              {
+                "fr": "manaeros",
+                "en": "manaeros"
+              }
+            ],
+            [
+              {
+                "fr": "1re du pluriel",
+                "en": "1st plural"
+              },
+              {
+                "fr": "manaeri",
+                "en": "manaeri"
+              },
+              {
+                "fr": "manaeroty",
+                "en": "manaeroty"
+              }
+            ],
+            [
+              {
+                "fr": "2e du pluriel",
+                "en": "2nd plural"
+              },
+              {
+                "fr": "manaerāt",
+                "en": "manaerāt"
+              },
+              {
+                "fr": "manaerōt",
+                "en": "manaerōt"
+              }
+            ],
+            [
+              {
+                "fr": "3e du pluriel",
+                "en": "3rd plural"
+              },
+              {
+                "fr": "manaerzi",
+                "en": "manaerzi"
+              },
+              {
+                "fr": "manaerosy",
+                "en": "manaerosy"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Sept temps : le présent, pour ce qui a lieu maintenant ; l'aoriste, pour les vérités générales et les faits habituels ; le futur ; l'imparfait ; le parfait, pour l'action achevée ; le plus-que-parfait ; le passé d'habitude. Chaque temps dit à la fois un moment et un aspect, c'est-à-dire la manière dont l'action est envisagée. On peut les ranger ainsi, à la troisième personne du singulier de jaelagon, « vouloir » ; ce classement est une commodité de description plus qu'une règle de la langue.",
+            "en": "Seven tenses: the present, for what is happening now; the aorist, for general truths and habitual facts; the future; the imperfect; the perfect, for completed action; the pluperfect; the past habitual. Each tense expresses both a time and an aspect, that is, the way the action is viewed. They can be arranged as follows, in the third person singular of jaelagon, “to want”; this arrangement is a convenience of description rather than a rule of the language."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Moment",
+                "en": "Time"
+              },
+              {
+                "fr": "Aspect simple",
+                "en": "Simple aspect"
+              },
+              {
+                "fr": "Aspect imperfectif",
+                "en": "Imperfective aspect"
+              },
+              {
+                "fr": "Aspect perfectif",
+                "en": "Perfective aspect"
+              }
+            ],
+            [
+              {
+                "fr": "présent",
+                "en": "present"
+              },
+              {
+                "fr": "jaelza (présent)",
+                "en": "jaelza (present)"
+              },
+              {
+                "fr": "jaelilza (futur)",
+                "en": "jaelilza (future)"
+              },
+              {
+                "fr": "jēldas (parfait)",
+                "en": "jēldas (perfect)"
+              }
+            ],
+            [
+              {
+                "fr": "passé",
+                "en": "past"
+              },
+              {
+                "fr": "aucune forme",
+                "en": "no form"
+              },
+              {
+                "fr": "jaeliles (imparfait)",
+                "en": "jaeliles (imperfect)"
+              },
+              {
+                "fr": "jēldes (plus-que-parfait)",
+                "en": "jēldes (pluperfect)"
+              }
+            ],
+            [
+              {
+                "fr": "hors du temps",
+                "en": "timeless"
+              },
+              {
+                "fr": "jaelis (aoriste)",
+                "en": "jaelis (aorist)"
+              },
+              {
+                "fr": "aucune forme",
+                "en": "no form"
+              },
+              {
+                "fr": "jēldis (passé d’habitude)",
+                "en": "jēldis (past habitual)"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Le parfait se forme sur un radical propre, qu'il vaut mieux apprendre avec le verbe. Formes entendues dans les séries : mastan, « je suis venue », parfait de māzigon, « venir » ; qringōntan, « j'ai échoué » ; āmāzīli, « nous reviendrons », futur de āmāzigon ; jaelinna, « je souhaiterai » ; kesan, « je serai », futur de sagon, « être », qui change de radical.",
+            "en": "The perfect is built on a stem of its own, best learned together with the verb. Forms heard in the series: mastan, “I have come”, perfect of māzigon, “to come”; qringōntan, “I failed”; āmāzīli, “we shall return”, future of āmāzigon; jaelinna, “I shall want”; kesan, “I shall be”, future of sagon, “to be”, which changes its stem."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Le passif se marque le plus souvent par -ks : brōziks, « je suis appelée » ; jiōrilāks, « tu seras reçue », dans Kesīr drējī jiōrilāks, « tu es la bienvenue ici », littéralement « ici tu seras vraiment reçue ».",
+            "en": "The passive is usually marked by -ks: brōziks, “I am called”; jiōrilāks, “you will be received”, in Kesīr drējī jiōrilāks, “you are very welcome here”, literally “here you will truly be received”."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "L'impératif n'existe qu'à la deuxième personne et porte l'accent sur sa dernière syllabe. Radical consonantique : -ās au singulier, -ātās au pluriel (dohaerās, « sers » ; nābēmātās, « tirez »). Radical vocalique : la voyelle du radical s'allonge (sōvēs, « vole » ; sōvētēs, « volez »). Les ordres donnés aux dragons dans House of the Dragon en fournissent une série : umbās « attends », rȳbās « obéis », māzīs « viens », kelīs « arrête », sīmās « monte », angōs « mords ». L'ordre négatif n'emploie pas l'impératif (voir la leçon sur la négation).",
+            "en": "The imperative exists only in the second person and is stressed on its last syllable. Consonant stems: -ās in the singular, -ātās in the plural (dohaerās, “serve”; nābēmātās, “loose”). Vowel stems: the stem vowel lengthens (sōvēs, “fly”, to one; sōvētēs, “fly”, to several). The commands given to dragons in House of the Dragon supply a whole series: umbās “wait”, rȳbās “obey”, māzīs “come”, kelīs “stop”, sīmās “rise”, angōs “bite”. Negative commands do not use the imperative (see the lesson on negation)."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Valar morghūlis. Les deux formules laissées par Martin sont devenues le point de départ de la grammaire. Valar est le nominatif collectif de vala, « homme » : « tous les hommes ». Morghūlis appartient à morghūljagon, « mourir » : le radical morghūlj- reçoit la voyelle -i- de l'aoriste et la terminaison -s de la troisième personne, et le l perd sa mouillure devant i. La même forme pourrait être un présent pluriel ; mais un sujet collectif demande un verbe au singulier, ce qui fait de morghūlis un aoriste singulier.",
+            "en": "Valar morghūlis. The two formulas Martin left became the starting point of the grammar. Valar is the nominative collective of vala, “man”: “all men”. Morghūlis belongs to morghūljagon, “to die”: the stem morghūlj- takes the aorist vowel -i- and the third-person ending -s, and the l loses its palatal quality before i. The same form could be a present plural; but a collective subject requires a singular verb, which makes morghūlis a singular aorist."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Le sens. L'aoriste dit ce qui vaut toujours : mot à mot, la phrase signifie « tous les hommes meurent ». Aucun mot ne porte le « doivent » de la traduction reçue. Peterson a précisé que l'aoriste, joint au collectif d'un nom désignant des individus, prend une valeur d'obligation ; il a dit aussi avoir voulu, dès l'origine, un sens littéral distinct du sens courant.",
+            "en": "The meaning. The aorist states what always holds: word for word, the sentence means “all men die”. No word carries the “must” of the received translation. Peterson has stated that the aorist, combined with the collective of a noun denoting individuals, takes on the force of obligation; he has also said that he wanted, from the start, a literal sense distinct from the everyday one."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Valar dohaeris. La réponse suit le même modèle : dohaeris est la troisième personne du singulier de l'aoriste de dohaeragon, « servir ». « Tous les hommes servent », compris comme « tous les hommes doivent servir ». Martin écrit morghulis et dohaeris ; le macron de morghūlis appartient à la romanisation de Peterson.",
+            "en": "Valar dohaeris. The reply follows the same pattern: dohaeris is the third person singular aorist of dohaeragon, “to serve”. “All men serve”, understood as “all men must serve”. Martin writes morghulis and dohaeris; the macron of morghūlis belongs to Peterson’s romanization."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Valar morghūlis.",
+          "gloss": {
+            "fr": "Valar : tous les hommes (nominatif collectif de vala) ; morghūlis : meurt (aoriste, 3e personne du singulier, de morghūljagon). « Tous les hommes doivent mourir. »",
+            "en": "Valar: all men (nominative collective of vala); morghūlis: dies (aorist, 3rd person singular, of morghūljagon). “All men must die.”"
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Valar dohaeris.",
+          "gloss": {
+            "fr": "Valar : tous les hommes ; dohaeris : sert (aoriste, 3e personne du singulier, de dohaeragon). « Tous les hommes doivent servir. »",
+            "en": "Valar: all men; dohaeris: serves (aorist, 3rd person singular, of dohaeragon). “All men must serve.”"
+          }
+        }
+      ],
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=User:Najahho%2FHigh_Valyrian_Verb_Conjugation",
+        "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Grammar",
+        "https://dothraki.com/?p=1227",
+        "https://wiki.languageinvention.com/index.php?title=Valar",
+        "https://wiki.languageinvention.com/index.php?title=Morgh%C5%ABlis",
+        "https://wiki.languageinvention.com/index.php?title=Dohaeris"
+      ]
+    },
+    {
+      "id": "ordre-des-mots",
+      "order": 8,
+      "title": {
+        "fr": "L'ordre des mots",
+        "en": "Word order"
+      },
+      "summary": {
+        "fr": "Le verbe en dernier, ce qui détermine avant ce qui est déterminé ; et deux manières de dire « et ».",
+        "en": "The verb last, the modifier before what it modifies; and two ways of saying “and”."
+      },
+      "blocks": [
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Le haut valyrien place le verbe à la fin de la proposition : sujet, objet, verbe. Plus généralement, ce qui détermine précède ce qui est déterminé : l'adjectif, le démonstratif et le génitif se mettent avant le nom, l'adverbe avant le verbe, le nom avant sa postposition.",
+            "en": "High Valyrian puts the verb at the end of the clause: subject, object, verb. More generally, the modifier comes before what it modifies: adjective, demonstrative and genitive before the noun, adverb before the verb, noun before its postposition."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Temps ou lieu",
+                "en": "Time or place"
+              },
+              {
+                "fr": "Sujet",
+                "en": "Subject"
+              },
+              {
+                "fr": "Objet indirect",
+                "en": "Indirect object"
+              },
+              {
+                "fr": "Objet direct",
+                "en": "Direct object"
+              },
+              {
+                "fr": "Verbe",
+                "en": "Verb"
+              }
+            ],
+            [
+              {
+                "fr": "Kesȳ tubī (en ce jour)",
+                "en": "Kesȳ tubī (on this day)"
+              },
+              {
+                "fr": "omis",
+                "en": "omitted"
+              },
+              {
+                "fr": "jemot (à vous)",
+                "en": "jemot (to you)"
+              },
+              {
+                "fr": "dāervī (la liberté)",
+                "en": "dāervī (freedom)"
+              },
+              {
+                "fr": "tepan (je donne)",
+                "en": "tepan (I give)"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "example",
+          "hv": "Kesȳ tubī jemot dāervī tepan.",
+          "gloss": {
+            "fr": "« Aujourd'hui je vous donne la liberté » (Game of Thrones, saison 3, épisode 4) : en ce jour, à vous, la liberté, je donne.",
+            "en": "“Today I give you freedom” (Game of Thrones, season 3, episode 4): on this day, to you, freedom, I give."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Le génitif précède d'ordinaire son nom : Zaldrīzdōro Dārilaros, « princesse de Peyredragon » ; muño ēngos, « langue de la mère », c'est-à-dire langue maternelle. Dans les titulatures solennelles, il peut suivre : Muña Zaldrīzoti, « Mère des Dragons ».",
+            "en": "The genitive usually precedes its noun: Zaldrīzdōro Dārilaros, “princess of Dragonstone”; muño ēngos, “the mother’s tongue”, that is, mother tongue. In solemn titles it may follow: Muña Zaldrīzoti, “Mother of Dragons”."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Le pronom sujet n'apparaît que pour insister : quand Daenerys commence par Nyke, « moi », elle affirme son identité devant celui qui l'a méprisée. Une question fermée garde l'ordre de l'affirmation, seule l'intonation monte ; le mot interrogatif, lui, se place en tête : Skoros otāpā?, « qu'en penses-tu ? ».",
+            "en": "The subject pronoun appears only for emphasis: when Daenerys begins with Nyke, “I”, she asserts who she is before the man who scorned her. A yes-or-no question keeps the order of a statement, only the intonation rises; a question word, on the other hand, goes first: Skoros otāpā?, “what do you think?”."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Pour dire « et », la langue préfère souvent à la conjonction se un procédé sans équivalent en français : elle allonge la dernière voyelle du dernier terme, qui reçoit alors l'accent. La conjonction se reste de règle entre adjectifs, entre propositions, ou quand on veut insister sur le lien.",
+            "en": "To say “and”, the language often prefers to the conjunction se a device with no English equivalent: it lengthens the last vowel of the last item, which then takes the stress. The conjunction se remains the rule between adjectives, between clauses, or when the link is to be stressed."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Yn ao nykē perzōñi iksi.",
+          "gloss": {
+            "fr": "« Mais toi et moi sommes faits de feu » (House of the Dragon, saison 1, épisode 7) : nyke, « moi », s'allonge en nykē pour signifier « et moi ».",
+            "en": "“But you and I are made of fire” (House of the Dragon, season 1, episode 7): nyke, “I”, lengthens to nykē to mean “and I”."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Aōhor jaqiarzir ivīlībin imorghūlīn, jaqiarzus Dārȳs.",
+          "gloss": {
+            "fr": "« Pour ta gloire je combats et je meurs, ô reine glorieuse » (Game of Thrones, saison 5, épisode 9) : le second verbe, imorghūlin, s'allonge en imorghūlīn.",
+            "en": "“For your glory I fight and die, O glorious queen” (Game of Thrones, season 5, episode 9): the second verb, imorghūlin, lengthens to imorghūlīn."
+          }
+        }
+      ],
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Grammar",
+        "https://wiki.languageinvention.com/index.php?title=Nyk%C4%93",
+        "https://wiki.languageinvention.com/index.php?title=Imorgh%C5%ABl%C4%ABn"
+      ]
+    },
+    {
+      "id": "negation",
+      "order": 9,
+      "title": {
+        "fr": "La négation",
+        "en": "Negation"
+      },
+      "summary": {
+        "fr": "Daor après le verbe, le verbe au subjonctif ; l’infinitif pour défendre ; des mots négatifs qui se suffisent.",
+        "en": "Daor after the verb, the verb in the subjunctive; the infinitive for prohibitions; negative words that stand alone."
+      },
+      "blocks": [
+        {
+          "kind": "p",
+          "text": {
+            "fr": "La négation se dit daor, placé après le verbe. Dans les phrases des séries, le verbe nié passe au subjonctif : on entend iksos daor, « n'est pas », et non issa daor.",
+            "en": "Negation is expressed by daor, placed after the verb. In the lines of the series, the negated verb goes into the subjunctive: one hears iksos daor, “is not”, not issa daor."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Forme",
+                "en": "Form"
+              },
+              {
+                "fr": "Analyse",
+                "en": "Analysis"
+              },
+              {
+                "fr": "Sens",
+                "en": "Meaning"
+              }
+            ],
+            [
+              {
+                "fr": "iksos daor",
+                "en": "iksos daor"
+              },
+              {
+                "fr": "subjonctif présent, 3e personne du singulier, de sagon « être »",
+                "en": "present subjunctive, 3rd person singular, of sagon “to be”"
+              },
+              {
+                "fr": "n'est pas",
+                "en": "is not"
+              }
+            ],
+            [
+              {
+                "fr": "ikson daor",
+                "en": "ikson daor"
+              },
+              {
+                "fr": "subjonctif présent, 1re personne du singulier, de sagon",
+                "en": "present subjunctive, 1st person singular, of sagon"
+              },
+              {
+                "fr": "je ne suis pas",
+                "en": "I am not"
+              }
+            ],
+            [
+              {
+                "fr": "ūndessun daor",
+                "en": "ūndessun daor"
+              },
+              {
+                "fr": "subjonctif aoriste, 1re personne du singulier, de ūndegon « voir »",
+                "en": "aorist subjunctive, 1st person singular, of ūndegon “to see”"
+              },
+              {
+                "fr": "je ne vois pas",
+                "en": "I do not see"
+              }
+            ],
+            [
+              {
+                "fr": "ilusy daor",
+                "en": "ilusy daor"
+              },
+              {
+                "fr": "subjonctif aoriste, 3e personne du pluriel, de ilagon « se trouver, exister »",
+                "en": "aorist subjunctive, 3rd person plural, of ilagon “to lie, to exist”"
+              },
+              {
+                "fr": "il n'y a pas",
+                "en": "there are not"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "example",
+          "hv": "Jevys qrinuntys ikson daor.",
+          "gloss": {
+            "fr": "« Je ne suis pas votre ennemie » (Game of Thrones, saison 4, épisode 3).",
+            "en": "“I am not your enemy” (Game of Thrones, season 4, episode 3)."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Buzdari hēzīr ilusy daor. Āeksia hēzīr ilusy daor.",
+          "gloss": {
+            "fr": "« Il n'y a plus d'esclaves. Il n'y a plus de maîtres » (Game of Thrones, saison 5, épisode 4) : hēzīr, « désormais », joint à daor, signifie « ne … plus ».",
+            "en": "“There are no more slaves. There are no more masters” (Game of Thrones, season 5, episode 4): hēzīr, “henceforth”, combined with daor, means “no longer”."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Pour défendre, on n'emploie pas l'impératif : on met l'infinitif, suivi de daor.",
+            "en": "To forbid, the imperative is not used: one uses the infinitive, followed by daor."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Zūgagon daor, ñuhys raqiros.",
+          "gloss": {
+            "fr": "« N'aie pas peur, mon ami » (Game of Thrones, saison 4, épisode 6) : zūgagon, « craindre », est à l'infinitif.",
+            "en": "“Do not be afraid, my friend” (Game of Thrones, season 4, episode 6): zūgagon, “to fear”, is in the infinitive."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Jaehossa itymagon daor.",
+          "gloss": {
+            "fr": "« Ne te joue pas des dieux » (House of the Dragon, saison 1, épisode 6).",
+            "en": "“Do not trifle with the gods” (House of the Dragon, season 1, episode 6)."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Les mots négatifs comme dōrī, « jamais », ou daorys, « personne », se passent de daor : Trēsy dōrī kesan, « je ne serai jamais un fils » ; Daorys ziry ōdrikilza, « personne ne lui fera de mal ». Employé seul, daor signifie « non », comme dans les ordres criés aux dragons : Daor. Dohaerās. « Non. Sers. »",
+            "en": "Negative words such as dōrī, “never”, or daorys, “no one”, do without daor: Trēsy dōrī kesan, “I shall never be a son”; Daorys ziry ōdrikilza, “no one will harm him”. On its own, daor means “no”, as in the commands shouted at dragons: Daor. Dohaerās. “No. Serve.”"
+          }
+        }
+      ],
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Grammar",
+        "https://wiki.languageinvention.com/index.php?title=User:Najahho%2FHigh_Valyrian_Verb_Conjugation",
+        "https://wiki.languageinvention.com/index.php?title=Daor",
+        "https://wiki.languageinvention.com/index.php?title=Daorys",
+        "https://wiki.languageinvention.com/index.php?title=H%C4%93z%C4%ABr"
+      ]
+    },
+    {
+      "id": "numeraux",
+      "order": 10,
+      "title": {
+        "fr": "Les nombres",
+        "en": "Numerals"
+      },
+      "summary": {
+        "fr": "Des nombres qui se déclinent ou non selon leur forme, et des composés qui se coordonnent par allongement.",
+        "en": "Numbers that decline or not according to their form, and compounds joined by lengthening."
+      },
+      "blocks": [
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Les cardinaux n'ont pas tous la même nature. Certains se déclinent comme des adjectifs : lanta, « deux », de la classe I ; hāre, « trois », de la classe II. D'autres sont invariables, comme ampa, « dix », et gār, « cent ». Pyrys, « mille », est un nom. Les ordinaux sont tous des adjectifs de la classe III.",
+            "en": "Cardinals are not all of one kind. Some decline like adjectives: lanta, “two”, of class I; hāre, “three”, of class II. Others are invariable, such as ampa, “ten”, and gār, “hundred”. Pyrys, “thousand”, is a noun. Ordinals are all class III adjectives."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Nombre",
+                "en": "Number"
+              },
+              {
+                "fr": "Cardinal",
+                "en": "Cardinal"
+              },
+              {
+                "fr": "Ordinal",
+                "en": "Ordinal"
+              }
+            ],
+            [
+              {
+                "fr": "1",
+                "en": "1"
+              },
+              {
+                "fr": "mēre",
+                "en": "mēre"
+              },
+              {
+                "fr": "ēlie",
+                "en": "ēlie"
+              }
+            ],
+            [
+              {
+                "fr": "2",
+                "en": "2"
+              },
+              {
+                "fr": "lanta",
+                "en": "lanta"
+              },
+              {
+                "fr": "tȳne",
+                "en": "tȳne"
+              }
+            ],
+            [
+              {
+                "fr": "3",
+                "en": "3"
+              },
+              {
+                "fr": "hāre",
+                "en": "hāre"
+              },
+              {
+                "fr": "saelie",
+                "en": "saelie"
+              }
+            ],
+            [
+              {
+                "fr": "4",
+                "en": "4"
+              },
+              {
+                "fr": "izula",
+                "en": "izula"
+              },
+              {
+                "fr": "izunnie",
+                "en": "izunnie"
+              }
+            ],
+            [
+              {
+                "fr": "5",
+                "en": "5"
+              },
+              {
+                "fr": "tōma",
+                "en": "tōma"
+              },
+              {
+                "fr": "tōmelie",
+                "en": "tōmelie"
+              }
+            ],
+            [
+              {
+                "fr": "6",
+                "en": "6"
+              },
+              {
+                "fr": "bȳre",
+                "en": "bȳre"
+              },
+              {
+                "fr": "byllie",
+                "en": "byllie"
+              }
+            ],
+            [
+              {
+                "fr": "7",
+                "en": "7"
+              },
+              {
+                "fr": "sīkuda",
+                "en": "sīkuda"
+              },
+              {
+                "fr": "sīglie",
+                "en": "sīglie"
+              }
+            ],
+            [
+              {
+                "fr": "8",
+                "en": "8"
+              },
+              {
+                "fr": "jēnqa",
+                "en": "jēnqa"
+              },
+              {
+                "fr": "jēnqelie",
+                "en": "jēnqelie"
+              }
+            ],
+            [
+              {
+                "fr": "9",
+                "en": "9"
+              },
+              {
+                "fr": "vōre",
+                "en": "vōre"
+              },
+              {
+                "fr": "vollie",
+                "en": "vollie"
+              }
+            ],
+            [
+              {
+                "fr": "10",
+                "en": "10"
+              },
+              {
+                "fr": "ampa",
+                "en": "ampa"
+              },
+              {
+                "fr": "amplie",
+                "en": "amplie"
+              }
+            ],
+            [
+              {
+                "fr": "11",
+                "en": "11"
+              },
+              {
+                "fr": "mēre ampā",
+                "en": "mēre ampā"
+              },
+              {
+                "fr": "kūrie",
+                "en": "kūrie"
+              }
+            ],
+            [
+              {
+                "fr": "12",
+                "en": "12"
+              },
+              {
+                "fr": "lanta ampā",
+                "en": "lanta ampā"
+              },
+              {
+                "fr": "ñallie",
+                "en": "ñallie"
+              }
+            ],
+            [
+              {
+                "fr": "20",
+                "en": "20"
+              },
+              {
+                "fr": "lantēpsa",
+                "en": "lantēpsa"
+              },
+              {
+                "fr": "lantīblie",
+                "en": "lantīblie"
+              }
+            ],
+            [
+              {
+                "fr": "100",
+                "en": "100"
+              },
+              {
+                "fr": "gār",
+                "en": "gār"
+              },
+              {
+                "fr": "gallie",
+                "en": "gallie"
+              }
+            ],
+            [
+              {
+                "fr": "1000",
+                "en": "1000"
+              },
+              {
+                "fr": "pyrys",
+                "en": "pyrys"
+              },
+              {
+                "fr": "pyrȳzlie",
+                "en": "pyrȳzlie"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Les nombres composés se construisent par coordination : l'unité précède la dizaine, et le dernier élément s'allonge. Mēre ampā, « onze », se lit littéralement « un et dix ». Les dizaines se forment en -ēpsa : lantēpsa, « vingt » ; tōmēpsa, « cinquante ».",
+            "en": "Compound numbers are built by coordination: the unit precedes the ten, and the last element lengthens. Mēre ampā, “eleven”, reads literally “one and ten”. Tens are formed in -ēpsa: lantēpsa, “twenty”; tōmēpsa, “fifty”."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Gār hāri bȳrēpsā.",
+          "gloss": {
+            "fr": "« Cent soixante-trois » (Game of Thrones, saison 4, épisode 4) : cent, trois et soixante. Hāri porte la marque du pluriel ; bȳrēpsa s'allonge parce qu'il clôt la coordination.",
+            "en": "“One hundred and sixty-three” (Game of Thrones, season 4, episode 4): hundred, three and sixty. Hāri carries the plural ending; bȳrēpsa lengthens because it closes the coordination."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Un nombre adjectival s'accorde avec le nom compté : lanti vali, « deux hommes ». Après pyrys, qui est un nom, il passe au génitif pluriel : lantys pyryssy valoti, « deux mille hommes ». Le zéro se dit daorys, le même mot que « personne », suivi d'un génitif singulier.",
+            "en": "An adjectival numeral agrees with the counted noun: lanti vali, “two men”. After pyrys, which is a noun, it goes into the genitive plural: lantys pyryssy valoti, “two thousand men”. Zero is daorys, the same word as “no one”, followed by a genitive singular."
+          }
+        }
+      ],
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Appendix:High_Valyrian_numerals",
+        "https://dothraki.com/2013/08/valyrian-numerals",
+        "https://wiki.languageinvention.com/index.php?title=Daorys",
+        "https://wiki.languageinvention.com/index.php?title=B%C8%B3r%C4%93ps%C4%81"
+      ]
+    },
+    {
+      "id": "phrase-simple",
+      "order": 11,
+      "title": {
+        "fr": "Former une phrase simple",
+        "en": "Building a simple sentence"
+      },
+      "summary": {
+        "fr": "Le verbe « être », un ordre, une question : de quoi lire, pas à pas, des phrases attestées.",
+        "en": "The verb “to be”, a command, a question: enough to read attested sentences, step by step."
+      },
+      "blocks": [
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Le verbe sagon, « être », est irrégulier et le plus fréquent de tous. Les six formes de son présent ont toutes été entendues dans les séries.",
+            "en": "The verb sagon, “to be”, is irregular and the most frequent of all. All six forms of its present have been heard in the series."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Personne",
+                "en": "Person"
+              },
+              {
+                "fr": "Forme",
+                "en": "Form"
+              },
+              {
+                "fr": "Exemple",
+                "en": "Example"
+              }
+            ],
+            [
+              {
+                "fr": "je",
+                "en": "I"
+              },
+              {
+                "fr": "iksan",
+                "en": "iksan"
+              },
+              {
+                "fr": "Daenerys Jelmāzmo iksan. « Je suis Daenerys du Typhon. »",
+                "en": "Daenerys Jelmāzmo iksan. “I am Daenerys Stormborn.”"
+              }
+            ],
+            [
+              {
+                "fr": "tu",
+                "en": "you (singular)"
+              },
+              {
+                "fr": "iksā",
+                "en": "iksā"
+              },
+              {
+                "fr": "Thoros hen Mȳrot iksā. « Tu es Thoros de Myr. »",
+                "en": "Thoros hen Mȳrot iksā. “You are Thoros of Myr.”"
+              }
+            ],
+            [
+              {
+                "fr": "il, elle",
+                "en": "he, she, it"
+              },
+              {
+                "fr": "issa",
+                "en": "issa"
+              },
+              {
+                "fr": "Vēttrir vēttrir issa. « La loi est la loi. »",
+                "en": "Vēttrir vēttrir issa. “The law is the law.”"
+              }
+            ],
+            [
+              {
+                "fr": "nous",
+                "en": "we"
+              },
+              {
+                "fr": "iksi",
+                "en": "iksi"
+              },
+              {
+                "fr": "Yn ao nykē perzōñi iksi. « Mais toi et moi sommes faits de feu. »",
+                "en": "Yn ao nykē perzōñi iksi. “But you and I are made of fire.”"
+              }
+            ],
+            [
+              {
+                "fr": "vous",
+                "en": "you (plural)"
+              },
+              {
+                "fr": "iksāt",
+                "en": "iksāt"
+              },
+              {
+                "fr": "Sīr dāeremirossa iksāt. « Vous êtes maintenant des libérateurs. »",
+                "en": "Sīr dāeremirossa iksāt. “Now you are liberators.”"
+              }
+            ],
+            [
+              {
+                "fr": "ils, elles",
+                "en": "they"
+              },
+              {
+                "fr": "issi",
+                "en": "issi"
+              },
+              {
+                "fr": "Bisi vali īlvyz zentyssy issi. « Ces hommes sont nos hôtes. »",
+                "en": "Bisi vali īlvyz zentyssy issi. “These men are our guests.”"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Premier geste : dire qui l'on est. Le nom, puis le verbe ; le pronom n'est pas nécessaire.",
+            "en": "First step: saying who one is. The name, then the verb; the pronoun is not needed."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Daenerys Jelmāzmo iksan.",
+          "gloss": {
+            "fr": "« Je suis Daenerys du Typhon » (Game of Thrones, saison 4, épisode 3).",
+            "en": "“I am Daenerys Stormborn” (Game of Thrones, season 4, episode 3)."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Deuxième geste : nier. Daor après le verbe, et le verbe au subjonctif.",
+            "en": "Second step: negating. Daor after the verb, and the verb in the subjunctive."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Zaldrīzes buzdari iksos daor.",
+          "gloss": {
+            "fr": "« Un dragon n'est pas un esclave » (Game of Thrones, saison 3, épisode 4, et saison 7, épisode 7).",
+            "en": "“A dragon is not a slave” (Game of Thrones, season 3, episode 4, and season 7, episode 7)."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Troisième geste : agir sur quelque chose. L'objet à l'accusatif, le destinataire au datif, le verbe à la fin.",
+            "en": "Third step: acting on something. The object in the accusative, the recipient in the dative, the verb at the end."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Jemot kīvio ñuhe tepan.",
+          "gloss": {
+            "fr": "« Je vous donne ma parole » (Game of Thrones, saison 3, épisode 4) : à vous (datif), parole (accusatif), mienne, je donne.",
+            "en": "“I give you my word” (Game of Thrones, season 3, episode 4): to you (dative), word (accusative), mine, I give."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Quatrième geste : ordonner. L'impératif, et celui qu'on appelle au vocatif.",
+            "en": "Fourth step: commanding. The imperative, and the one addressed in the vocative."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Dohaerās, Syraks.",
+          "gloss": {
+            "fr": "« Sers, Syrax » (House of the Dragon, saison 1, épisode 1).",
+            "en": "“Serve, Syrax” (House of the Dragon, season 1, episode 1)."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Cinquième geste : interroger. Même ordre qu'une affirmation, ou mot interrogatif en tête.",
+            "en": "Fifth step: asking. The same order as a statement, or the question word first."
+          }
+        },
+        {
+          "kind": "example",
+          "hv": "Skoros otāpā?",
+          "gloss": {
+            "fr": "« Qu'en penses-tu ? » (Game of Thrones, saison 3, épisode 9) : skoros, « quoi », en tête ; otāpā, « tu penses ».",
+            "en": "“What do you think?” (Game of Thrones, season 3, episode 9): skoros, “what”, first; otāpā, “you think”."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Ces gestes suffisent à lire la plupart des expressions réunies sur ce site. Ils ne suffisent pas à écrire librement : le lexique publié reste trop étroit pour qu'on compose sans inventer, et le site s'en tient aux phrases attestées.",
+            "en": "These steps are enough to read most of the expressions gathered on this site. They are not enough to write freely: the published vocabulary is still too narrow to compose without inventing, and the site keeps to attested sentences."
+          }
+        }
+      ],
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Grammar",
+        "https://wiki.languageinvention.com/index.php?title=Iksan",
+        "https://wiki.languageinvention.com/index.php?title=Iksi",
+        "https://wiki.languageinvention.com/index.php?title=Iks%C4%81t",
+        "https://wiki.languageinvention.com/index.php?title=Issi"
+      ]
+    },
+    {
+      "id": "bas-valyrien-heritage",
+      "order": 12,
+      "title": {
+        "fr": "Bas valyrien et héritage",
+        "en": "Low Valyrian and legacy"
+      },
+      "summary": {
+        "fr": "Ce que la langue est devenue après le Fléau, dans les livres et à l’écran.",
+        "en": "What became of the language after the Doom, in the books and on screen."
+      },
+      "blocks": [
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Dans les livres, le haut valyrien cesse d'être une langue d'usage avec le Fléau de Valyria, qui emporte aussi la plupart des archives valyriennes. Il survit comme langue savante. À Westeros, des enfants de haute naissance apprennent encore à le lire, des chansons et des rouleaux se transmettent, mais à la fin du cycle la plupart des nobles ne le comprennent plus. Les Targaryen, venus de Valyria, en ont gardé les noms : Aegon, Rhaenys, Visenya, Daenerys, et ceux de leurs dragons.",
+            "en": "In the books, High Valyrian ceases to be a living language with the Doom of Valyria, which also destroys most Valyrian records. It survives as a learned tongue. In Westeros, highborn children are still taught to read it, songs and scrolls are handed down, but by the end of the cycle most nobles no longer understand it. The Targaryens, who came from Valyria, kept its names: Aegon, Rhaenys, Visenya, Daenerys, and those of their dragons."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Les cités libres parlent des dialectes issus du haut valyrien ; chacune a le sien, et ces parlers s'éloignent un peu plus de leur origine à chaque siècle. Autour de la baie des Serfs, à Astapor, Yunkai et Meereen, le valyrien s'est mêlé au vieux ghiscari, la langue de l'ancien empire de Ghis. Martin décrit ces parlers par leur son et par quelques mots ; il n'en donne pas la grammaire.",
+            "en": "The Free Cities speak dialects descended from High Valyrian, often called bastard Valyrian; each city has its own, and these tongues drift a little further from their origin with every century. Around Slaver’s Bay, in Astapor, Yunkai and Meereen, Valyrian has mingled with Old Ghiscari, the language of the old empire of Ghis. Martin describes these tongues by their sound and a few words; he gives no grammar for them."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Pour Game of Thrones, Peterson a développé deux de ces langues filles, l'astapori et sa variante meereenienne. Il range les descendants du haut valyrien en trois groupes : au nord, les parlers de Braavos, Lorath, Pentos, Norvos et Qohor ; au sud, ceux de Myr, Tyrosh, Lys et Volantis ; enfin le groupe ghiscari, Astapor, Yunkai et Meereen. Le groupe ghiscari a réduit les quatre genres à deux, simplifié les cas et créé des articles, que le haut valyrien ignorait.",
+            "en": "For Game of Thrones, Peterson developed two of these daughter languages, Astapori and its Meereenese variety. He sorts the descendants of High Valyrian into three groups: in the north, the tongues of Braavos, Lorath, Pentos, Norvos and Qohor; in the south, those of Myr, Tyrosh, Lys and Volantis; and the Ghiscari group, Astapor, Yunkai and Meereen. The Ghiscari group has reduced the four genders to two, simplified the cases and created articles, which High Valyrian lacked."
+          }
+        },
+        {
+          "kind": "table",
+          "rows": [
+            [
+              {
+                "fr": "Haut valyrien",
+                "en": "High Valyrian"
+              },
+              {
+                "fr": "Astapori",
+                "en": "Astapori"
+              },
+              {
+                "fr": "Sens",
+                "en": "Meaning"
+              }
+            ],
+            [
+              {
+                "fr": "morghūljagon",
+                "en": "morghūljagon"
+              },
+              {
+                "fr": "morghúlegho",
+                "en": "morghúlegho"
+              },
+              {
+                "fr": "mourir",
+                "en": "to die"
+              }
+            ],
+            [
+              {
+                "fr": "dohaeragon",
+                "en": "dohaeragon"
+              },
+              {
+                "fr": "doéragho",
+                "en": "doéragho"
+              },
+              {
+                "fr": "servir",
+                "en": "to serve"
+              }
+            ],
+            [
+              {
+                "fr": "māzigon",
+                "en": "māzigon"
+              },
+              {
+                "fr": "majigho",
+                "en": "majigho"
+              },
+              {
+                "fr": "venir",
+                "en": "to come"
+              }
+            ],
+            [
+              {
+                "fr": "kepa",
+                "en": "kepa"
+              },
+              {
+                "fr": "kiba",
+                "en": "kiba"
+              },
+              {
+                "fr": "père",
+                "en": "father"
+              }
+            ],
+            [
+              {
+                "fr": "Dovaogēdy",
+                "en": "Dovaogēdy"
+              },
+              {
+                "fr": "Dovoghedhy",
+                "en": "Dovoghedhy"
+              },
+              {
+                "fr": "Immaculé",
+                "en": "Unsullied"
+              }
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Ces correspondances suivent des règles : entre deux voyelles, l'astapori adoucit les consonnes (p devient b, t devient d, k devient g) et il perd les consonnes mouillées. La différence s'entend dès la troisième saison, quand Kraznys mo Nakloz parle astapori et que Daenerys lui répond en haut valyrien : la scène oppose la langue ancienne au dialecte de la cité.",
+            "en": "These correspondences follow rules: between vowels Astapori softens consonants (p becomes b, t becomes d, k becomes g) and it loses palatal consonants. The difference can be heard from the third season, when Kraznys mo Nakloz speaks Astapori and Daenerys answers him in High Valyrian: the scene sets the old language against the city’s dialect."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "fr": "Peterson dit avoir conçu le haut valyrien comme Martin l'envisageait : l'équivalent, dans ce monde, du latin ou du grec, une langue à déclinaisons dont sont nées des langues filles. Le titre de ce site, Targārio Lentro Vestriarja, « les récits de la Maison Targaryen », suit ses règles, avec des génitifs emboîtés devant le nom ; c'est une composition du site, qui n'apparaît dans aucune source.",
+            "en": "Peterson says he designed High Valyrian as Martin envisaged it: the equivalent, in that world, of Latin or Greek, an inflected language that gave birth to daughter languages. The title of this site, Targārio Lentro Vestriarja, “the stories of House Targaryen”, follows its rules, with genitives stacked before the noun; it is a composition of the site and appears in no source."
+          }
+        }
+      ],
+      "refs": [
+        "https://wiki.languageinvention.com/index.php?title=Low_Valyrian_languages",
+        "https://wiki.languageinvention.com/index.php?title=Valyrian_Historical_Linguistics",
+        "https://awoiaf.westeros.org/index.php/High_Valyrian",
+        "https://wiki.languageinvention.com/index.php?title=Valar",
+        "https://wiki.languageinvention.com/index.php?title=Dohaeragon"
+      ]
+    }
+  ]
+}

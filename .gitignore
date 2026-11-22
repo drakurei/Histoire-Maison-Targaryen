@@ -1,0 +1,20 @@
+# Dépendances et sorties de build (régénérables)
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Captures produites par les tests visuels (régénérables, plusieurs centaines de Mo)
+tests/visual/out/
+
+# Sauvegardes locales
+_sauvegardes/
+
+# Journaux, fichiers système
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Variables d'environnement locales (le projet n'en utilise pas, par précaution)
+.env
+.env.*

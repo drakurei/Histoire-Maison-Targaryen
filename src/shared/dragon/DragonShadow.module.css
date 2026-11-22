@@ -1,0 +1,34 @@
+/*
+  Voile fixe sur toute la fenêtre. Il ne reçoit aucun clic et ne déborde jamais.
+  Le mélange « multiply » est posé sur le voile lui-même : c'est lui qui assombrit la page.
+  Jetons facultatifs : --dragon-shadow (teinte), --dragon-shadow-strength (opacité, 0 à 1),
+  --dragon-shadow-size (largeur), --dragon-shadow-blur, --z-dragon-shadow.
+*/
+.veil {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-dragon-shadow, 40);
+  overflow: hidden;
+  pointer-events: none;
+  mix-blend-mode: multiply;
+  opacity: var(--dragon-shadow-strength, 0.46);
+}
+
+.shadow {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: var(--dragon-shadow-size, clamp(22rem, 78vmin, 62rem));
+  height: auto;
+  overflow: visible;
+  visibility: hidden;
+  opacity: 0;
+  filter: blur(var(--dragon-shadow-blur, 0.55vmin));
+  will-change: transform, opacity;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .veil {
+    display: none;
+  }
+}

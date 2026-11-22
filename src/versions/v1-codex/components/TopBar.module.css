@@ -1,0 +1,113 @@
+/*
+ * Barre haute. Même pierre que la table (fond fixe, donc raccord parfait) : la feuille
+ * passe dessous sans qu'aucun filet ne marque la limite.
+ */
+.bar {
+  position: relative;
+  z-index: 30;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--e4);
+  block-size: var(--v1-barre);
+  padding-inline: var(--e4) var(--e4);
+}
+
+@media (min-width: 1024px) {
+  .bar {
+    position: sticky;
+    inset-block-start: 0;
+    padding-inline: 0.75rem var(--e5);
+    background-color: var(--obsidienne);
+    background-image: var(--v1-lumiere), var(--v1-grain), var(--v1-marbre);
+    background-size: 100vw 100vh, 280px 280px, 1000px 1000px;
+    background-attachment: fixed;
+  }
+}
+
+.home {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  min-block-size: var(--cible);
+  color: var(--ivoire);
+  text-decoration: none;
+}
+
+.emblem {
+  flex: none;
+  inline-size: 28px;
+  block-size: 28px;
+  color: var(--sang);
+}
+
+.name {
+  font-family: var(--f-chronique);
+  font-size: 1.12rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.015em;
+  white-space: nowrap;
+}
+
+.home:hover .name {
+  text-decoration: underline;
+  text-decoration-color: var(--braise);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+}
+
+.tools {
+  display: none;
+  align-items: center;
+  gap: var(--e4);
+}
+
+@media (min-width: 1024px) {
+  .tools {
+    display: flex;
+  }
+}
+
+/* Déclencheur : une dalle creusée dans la pierre, pas une boîte à bordure. */
+.search {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--e3);
+  inline-size: clamp(13rem, 26vw, 21rem);
+  min-block-size: 2.5rem;
+  padding: 0 var(--e3) 0 var(--e4);
+  background: oklch(0.105 0.011 25);
+  color: var(--cendre);
+  font-family: var(--f-musee);
+  font-size: 0.92rem;
+  line-height: 1.2;
+  text-align: start;
+  box-shadow: inset 0 2px 0 oklch(0.07 0.01 25 / 0.8);
+  transition: color var(--d-geste-court) var(--c-expo), background-color var(--d-geste-court) var(--c-expo);
+}
+
+.search:hover {
+  color: var(--ivoire);
+  background: oklch(0.12 0.012 25);
+}
+
+.searchText {
+  flex: 1;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.key {
+  flex: none;
+  font-family: var(--f-musee);
+  font-size: 0.85rem;
+  color: var(--braise);
+}
+
+@media (max-width: 1279.98px) {
+  .key {
+    display: none;
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-10",
+  "items": [
+    {
+      "key": "page.dragons.lead",
+      "fr": "{n} dragons nommés par les chroniques, de Balerion, venu de Valyria, aux trois dragons de Daenerys. Les livres ne donnent aucune mesure : chaque envergure est rapportée à celle de Balerion.",
+      "en": "{n} dragons named by the chronicles, from Balerion, who came out of Valyria, to the three dragons of Daenerys. The books give no measurements: every wingspan is reckoned against Balerion’s."
+    },
+    {
+      "key": "page.dragons.scale.region",
+      "fr": "Échelle comparée des dragons, à faire défiler",
+      "en": "Comparative scale of the dragons, scrollable"
+    },
+    {
+      "key": "page.dragons.scale.title",
+      "fr": "Les dragons du registre à l’échelle de leur envergure, du plus grand au plus petit",
+      "en": "The dragons of the register drawn to the scale of their wingspans, largest to smallest"
+    },
+    {
+      "key": "page.dragons.scale.human",
+      "fr": "Un homme debout, pour l’échelle",
+      "en": "A standing man, for scale"
+    },
+    {
+      "key": "page.dragons.scale.caption",
+      "fr": "Les dragons vus du dessus, ailes ouvertes, rangés par envergure. L’homme debout, au bout de la bande, suppose quelque quatre-vingt-dix mètres d’envergure pour Balerion : c’est une hypothèse du musée, les livres n’en donnent aucune. Chaque nom mène à la planche du dragon.",
+      "en": "The dragons seen from above, wings open, ranked by wingspan. The standing man at the end of the strip assumes a wingspan of some ninety metres for Balerion: that is the museum’s hypothesis, the books give none. Each name leads to the dragon’s plate."
+    },
+    {
+      "key": "page.dragons.order",
+      "fr": "Le registre range chaque dragon à l’époque où les chroniques le nomment pour la première fois.",
+      "en": "The register places each dragon in the age when the chronicles first name it."
+    },
+    {
+      "key": "page.dragons.epoch.count",
+      "fr": "{n} dragons",
+      "en": "{n} dragons"
+    },
+    {
+      "key": "page.dragons.epoch.one",
+      "fr": "un dragon",
+      "en": "one dragon"
+    },
+    {
+      "key": "page.dragons.years.unknownAlive",
+      "fr": "éclosion et fin inconnues",
+      "en": "hatching and end unknown"
+    },
+    {
+      "key": "page.dragons.years.since",
+      "fr": "éclos en {year}",
+      "en": "hatched {year}"
+    },
+    {
+      "key": "page.dragons.years.until",
+      "fr": "mort en {year}",
+      "en": "died {year}"
+    },
+    {
+      "key": "page.dragons.riders.one",
+      "fr": "Cavalier :",
+      "en": "Rider:"
+    },
+    {
+      "key": "page.dragons.riders.many",
+      "fr": "Cavaliers :",
+      "en": "Riders:"
+    },
+    {
+      "key": "page.dragons.riders.and",
+      "fr": "et",
+      "en": "and"
+    },
+    {
+      "key": "page.dragons.riders.none",
+      "fr": "Jamais monté.",
+      "en": "Never ridden."
+    },
+    {
+      "key": "page.dragon.plate.title",
+      "fr": "{name}, vu du dessus, ailes ouvertes",
+      "en": "{name}, seen from above, wings open"
+    },
+    {
+      "key": "page.dragon.plate.caption",
+      "fr": "Planche coloriée d’après le texte des livres. Ce qu’ils ne décrivent pas reste au trait, comme la partie inconnue d’un spécimen ; les numéros renvoient à la légende.",
+      "en": "Plate coloured from the text of the books. What they do not describe is left in outline, like the unknown part of a specimen; the numbers refer to the key."
+    },
+    {
+      "key": "page.dragon.part.body",
+      "fr": "Écailles du corps",
+      "en": "Body scales"
+    },
+    {
+      "key": "page.dragon.part.wing",
+      "fr": "Membranes des ailes",
+      "en": "Wing membranes"
+    },
+    {
+      "key": "page.dragon.part.crest",
+      "fr": "Cornes et crête",
+      "en": "Horns and crest"
+    },
+    {
+      "key": "page.dragon.part.flame",
+      "fr": "Flamme",
+      "en": "Flame"
+    },
+    {
+      "key": "page.dragon.described",
+      "fr": "teinte décrite par les livres",
+      "en": "colour described in the books"
+    },
+    {
+      "key": "page.dragon.undescribed",
+      "fr": "non décrite par les livres",
+      "en": "not described in the books"
+    },
+    {
+      "key": "page.dragon.fly",
+      "fr": "Voir voler",
+      "en": "See it fly"
+    },
+    {
+      "key": "page.dragon.flying",
+      "fr": "En vol",
+      "en": "In flight"
+    },
+    {
+      "key": "page.dragon.span.heading",
+      "fr": "Envergure",
+      "en": "Wingspan"
+    },
+    {
+      "key": "page.dragon.span.ruler",
+      "fr": "Envergure de {name} : {value} de celle de Balerion",
+      "en": "Wingspan of {name}: {value} of Balerion’s"
+    },
+    {
+      "key": "page.dragon.span.balerion",
+      "fr": "Balerion",
+      "en": "Balerion"
+    },
+    {
+      "key": "page.dragon.span.value",
+      "fr": "L’envergure retenue vaut {value} de celle de Balerion.",
+      "en": "The wingspan shown is {value} of Balerion’s."
+    },
+    {
+      "key": "page.dragon.span.standard",
+      "fr": "L’étalon du registre : toutes les envergures se mesurent à la sienne.",
+      "en": "The standard of the register: every wingspan is measured against his."
+    },
+    {
+      "key": "page.dragon.span.attested",
+      "fr": "Les livres en disent la taille.",
+      "en": "The books speak of its size."
+    },
+    {
+      "key": "page.dragon.span.estimated",
+      "fr": "Les livres n’en disent pas la taille : l’ordre de grandeur est une estimation du musée.",
+      "en": "The books do not give its size: the order of magnitude is the museum’s estimate."
+    },
+    {
+      "key": "page.dragon.compare.title",
+      "fr": "{name} et Balerion à la même échelle, avec un homme debout",
+      "en": "{name} and Balerion to the same scale, with a standing man"
+    },
+    {
+      "key": "page.dragon.riders.heading",
+      "fr": "Cavaliers",
+      "en": "Riders"
+    },
+    {
+      "key": "page.dragon.riders.rule",
+      "fr": "Les cavaliers de {name} sur la règle du temps",
+      "en": "The riders of {name} on the rule of time"
+    },
+    {
+      "key": "page.dragon.rule.hatched",
+      "fr": "éclosion",
+      "en": "hatched"
+    },
+    {
+      "key": "page.dragon.rule.died",
+      "fr": "mort",
+      "en": "death"
+    },
+    {
+      "key": "page.dragon.origin.heading",
+      "fr": "Origine",
+      "en": "Origin"
+    },
+    {
+      "key": "page.dragon.appearance.heading",
+      "fr": "Robe",
+      "en": "Colouring"
+    },
+    {
+      "key": "page.dragon.appearance.none",
+      "fr": "Les livres ne décrivent pas sa robe.",
+      "en": "The books do not describe its colouring."
+    },
+    {
+      "key": "page.dragon.extra",
+      "fr": "Hors des livres : ce qu’en disent une illustration ou une indication de l’auteur.",
+      "en": "Outside the books: what an illustration or a remark by the author adds."
+    },
+    {
+      "key": "page.dragon.battles.heading",
+      "fr": "Batailles",
+      "en": "Battles"
+    },
+    {
+      "key": "page.dragon.fate.heading",
+      "fr": "Sort",
+      "en": "Fate"
+    },
+    {
+      "key": "page.dragon.adaptation.heading",
+      "fr": "Ce que l’adaptation change",
+      "en": "What the adaptation changes"
+    },
+    {
+      "key": "page.dragon.pager",
+      "fr": "D’une planche à l’autre",
+      "en": "From plate to plate"
+    },
+    {
+      "key": "page.dragon.previous",
+      "fr": "Planche précédente",
+      "en": "Previous plate"
+    },
+    {
+      "key": "page.dragon.next",
+      "fr": "Planche suivante",
+      "en": "Next plate"
+    },
+    {
+      "key": "page.dragon.back",
+      "fr": "Retour au registre",
+      "en": "Back to the register"
+    },
+    {
+      "key": "page.map.zoomIn",
+      "fr": "Approcher",
+      "en": "Zoom in"
+    },
+    {
+      "key": "page.map.zoomOut",
+      "fr": "Éloigner",
+      "en": "Zoom out"
+    },
+    {
+      "key": "page.map.reset",
+      "fr": "Recadrer",
+      "en": "Reset view"
+    },
+    {
+      "key": "page.map.help",
+      "fr": "Glisser pour se déplacer, pincer ou Ctrl et molette pour approcher. Au clavier : les flèches déplacent la carte, plus et moins changent l’échelle, zéro recadre. Chaque lieu est un lien.",
+      "en": "Drag to move, pinch or use Ctrl and the wheel to zoom. With the keyboard: the arrows move the map, plus and minus change the scale, zero resets it. Each place is a link."
+    },
+    {
+      "key": "page.places.lead",
+      "fr": "Westeros et l’ouest d’Essos, gravés d’après les livres. Les lieux portés sont ceux où la dynastie naît, règne, combat ou se perd ; chacun ouvre sa notice.",
+      "en": "Westeros and western Essos, engraved after the books. The places marked are those where the dynasty was born, ruled, fought or came undone; each opens its own entry."
+    },
+    {
+      "key": "page.places.filter.kind",
+      "fr": "Genre",
+      "en": "Kind"
+    },
+    {
+      "key": "page.places.map.title",
+      "fr": "Carte de Westeros et de l’ouest d’Essos",
+      "en": "Map of Westeros and western Essos"
+    },
+    {
+      "key": "page.places.map.caption",
+      "fr": "Tracé original, sans échelle : les livres ne donnent pas de distances sûres. Un rond plein marque une cité, un carré une forteresse, un rond cerclé une cité libre, un carré barré une ruine, une croix un champ de bataille.",
+      "en": "Original drawing, not to scale: the books give no reliable distances. A solid dot marks a city, a square a stronghold, a ringed dot a free city, a struck-through square a ruin, a cross a battlefield."
+    },
+    {
+      "key": "page.places.map.missing",
+      "fr": "La carte n’est pas encore gravée.",
+      "en": "The map has not been engraved yet."
+    },
+    {
+      "key": "page.places.map.missingBody",
+      "fr": "L’index des lieux reste consultable à côté.",
+      "en": "The index of places can still be read alongside."
+    },
+    {
+      "key": "page.places.index.label",
+      "fr": "Index des lieux",
+      "en": "Index of places"
+    },
+    {
+      "key": "page.places.empty",
+      "fr": "Aucun lieu de ce genre.",
+      "en": "No place of that kind."
+    },
+    {
+      "key": "page.places.registryMissing",
+      "fr": "Le registre des lieux n’est pas encore établi.",
+      "en": "The register of places has not been drawn up yet."
+    },
+    {
+      "key": "page.places.registryMissingBody",
+      "fr": "Voici les lieux que nomment les batailles, sans position sur la carte.",
+      "en": "Here are the places named by the battles, without a position on the map."
+    },
+    {
+      "key": "page.places.kind.cite",
+      "fr": "cité",
+      "en": "city"
+    },
+    {
+      "key": "page.places.kind.cite_libre",
+      "fr": "cité libre",
+      "en": "free city"
+    },
+    {
+      "key": "page.places.kind.forteresse",
+      "fr": "forteresse",
+      "en": "stronghold"
+    },
+    {
+      "key": "page.places.kind.ile",
+      "fr": "île",
+      "en": "island"
+    },
+    {
+      "key": "page.places.kind.ruine",
+      "fr": "ruine",
+      "en": "ruin"
+    },
+    {
+      "key": "page.places.kind.champ_de_bataille",
+      "fr": "champ de bataille",
+      "en": "battlefield"
+    },
+    {
+      "key": "page.places.kind.region",
+      "fr": "contrée",
+      "en": "land"
+    },
+    {
+      "key": "page.places.kinds.cite",
+      "fr": "Cités",
+      "en": "Cities"
+    },
+    {
+      "key": "page.places.kinds.cite_libre",
+      "fr": "Cités libres",
+      "en": "Free cities"
+    },
+    {
+      "key": "page.places.kinds.forteresse",
+      "fr": "Forteresses",
+      "en": "Strongholds"
+    },
+    {
+      "key": "page.places.kinds.ile",
+      "fr": "Îles",
+      "en": "Islands"
+    },
+    {
+      "key": "page.places.kinds.ruine",
+      "fr": "Ruines",
+      "en": "Ruins"
+    },
+    {
+      "key": "page.places.kinds.champ_de_bataille",
+      "fr": "Champs de bataille",
+      "en": "Battlefields"
+    },
+    {
+      "key": "page.places.kinds.region",
+      "fr": "Contrées",
+      "en": "Lands"
+    },
+    {
+      "key": "page.place.map.title",
+      "fr": "{name} sur la carte",
+      "en": "{name} on the map"
+    },
+    {
+      "key": "page.place.map.caption",
+      "fr": "La carte est recadrée sur {name} ; les lieux voisins y mènent aussi.",
+      "en": "The map is centred on {name}; the neighbouring places lead on as well."
+    },
+    {
+      "key": "page.place.role.heading",
+      "fr": "Ce que la dynastie lui doit",
+      "en": "What the dynasty owes it"
+    },
+    {
+      "key": "page.place.events.heading",
+      "fr": "Ce qui s’y passe",
+      "en": "What happened there"
+    },
+    {
+      "key": "page.place.battles.heading",
+      "fr": "Batailles livrées ici",
+      "en": "Battles fought here"
+    },
+    {
+      "key": "page.place.near",
+      "fr": "Lieux voisins",
+      "en": "Nearby places"
+    },
+    {
+      "key": "page.place.back",
+      "fr": "Retour à la carte",
+      "en": "Back to the map"
+    },
+    {
+      "key": "page.place.nothing",
+      "fr": "La chronique n’y place aucun événement daté.",
+      "en": "The chronicle sets no dated event here."
+    },
+    {
+      "key": "page.wars.lead",
+      "fr": "{n} guerres où la Maison Targaryen se bat pour conquérir, pour régner ou contre elle-même, de la Conquête aux campagnes de Daenerys en Essos.",
+      "en": "{n} wars in which House Targaryen fought to conquer, to rule or against itself, from the Conquest to the campaigns of Daenerys in Essos."
+    },
+    {
+      "key": "page.wars.chart.label",
+      "fr": "Les guerres dans l’ordre du temps",
+      "en": "The wars in order of time"
+    },
+    {
+      "key": "page.wars.chart.caption",
+      "fr": "Chaque barre couvre la durée d’une guerre, année de fin comprise ; derrière, les bandes des volumes de la chronique. L’échelle est celle de toute la bibliothèque : une guerre d’un an y tient sur un trait.",
+      "en": "Each bar spans the length of a war, final year included; behind them, the bands of the chronicle’s volumes. The scale is the one used across the library: a war of a single year takes a single stroke."
+    },
+    {
+      "key": "page.wars.volume",
+      "fr": "volume {n}",
+      "en": "volume {n}"
+    },
+    {
+      "key": "page.wars.sides",
+      "fr": "{a} contre {b}",
+      "en": "{a} against {b}"
+    },
+    {
+      "key": "page.wars.moreSides",
+      "fr": "et {n} autres camps",
+      "en": "and {n} other sides"
+    },
+    {
+      "key": "page.wars.battles",
+      "fr": "{n} batailles",
+      "en": "{n} battles"
+    },
+    {
+      "key": "page.wars.battle",
+      "fr": "une bataille",
+      "en": "one battle"
+    },
+    {
+      "key": "page.war.versus",
+      "fr": "contre",
+      "en": "against"
+    },
+    {
+      "key": "page.war.camps.heading",
+      "fr": "Les camps",
+      "en": "The sides"
+    },
+    {
+      "key": "page.war.causes.heading",
+      "fr": "Les causes",
+      "en": "The causes"
+    },
+    {
+      "key": "page.war.map.title",
+      "fr": "Carte de situation des batailles : {name}",
+      "en": "Map of the battles: {name}"
+    },
+    {
+      "key": "page.war.map.caption",
+      "fr": "Carte de situation. Chaque rond porte le numéro des batailles livrées en ce lieu, dans l’ordre de la guerre ; il mène à leur récit. Les batailles sans lieu sûr n’y figurent pas et portent un numéro au pointillé.",
+      "en": "Map of the battles. Each ring bears the numbers of the battles fought there, in the order of the war, and leads to their account. Battles without a sure location are left off and carry a dotted number."
+    },
+    {
+      "key": "page.war.battles.heading",
+      "fr": "Les batailles",
+      "en": "The battles"
+    },
+    {
+      "key": "page.war.consequences.heading",
+      "fr": "Ce qui en reste",
+      "en": "What remained"
+    },
+    {
+      "key": "page.war.between",
+      "fr": "{a} contre {b}",
+      "en": "{a} against {b}"
+    },
+    {
+      "key": "page.war.victor",
+      "fr": "Vainqueur : {side}",
+      "en": "Victor: {side}"
+    },
+    {
+      "key": "page.war.undecided",
+      "fr": "Issue indécise",
+      "en": "Outcome undecided"
+    },
+    {
+      "key": "page.war.losses",
+      "fr": "Pertes :",
+      "en": "Losses:"
+    },
+    {
+      "key": "page.war.dragons",
+      "fr": "Dragons engagés",
+      "en": "Dragons engaged"
+    },
+    {
+      "key": "page.war.date.approximative",
+      "fr": "année approchée",
+      "en": "approximate year"
+    },
+    {
+      "key": "page.war.date.inconnue",
+      "fr": "année inconnue",
+      "en": "year unknown"
+    },
+    {
+      "key": "page.war.pager",
+      "fr": "D’une guerre à l’autre",
+      "en": "From war to war"
+    },
+    {
+      "key": "page.war.previous",
+      "fr": "Guerre précédente",
+      "en": "Previous war"
+    },
+    {
+      "key": "page.war.next",
+      "fr": "Guerre suivante",
+      "en": "Next war"
+    },
+    {
+      "key": "page.war.back",
+      "fr": "Retour aux guerres",
+      "en": "Back to the wars"
+    }
+  ]
+}

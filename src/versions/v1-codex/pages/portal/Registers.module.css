@@ -1,0 +1,81 @@
+/* Index des registres : le nom suspendu à gauche, ce qu'on y trouve à droite. */
+.list {
+  grid-column: 1 / -1;
+  display: grid;
+  row-gap: var(--e4);
+  margin: var(--e5) 0 0;
+}
+
+.row {
+  display: grid;
+  gap: var(--e1);
+}
+
+.name {
+  justify-self: start;
+  min-block-size: var(--cible);
+  padding-block: 0.35rem;
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 540;
+  line-height: 1;
+  letter-spacing: -0.015em;
+  color: var(--v1-rubrique);
+  text-decoration: none;
+}
+
+.nameMain {
+  text-decoration-line: underline;
+  text-decoration-color: transparent;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.14em;
+  transition: text-decoration-color var(--d-geste-court) var(--c-expo);
+}
+
+.name:hover .nameMain,
+.name:focus-visible .nameMain {
+  text-decoration-color: currentColor;
+}
+
+.nameTr {
+  display: block;
+  margin-block-start: 0.25em;
+  font-family: var(--f-recit);
+  font-size: 0.95rem;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: var(--v1-texte-2);
+}
+
+.text {
+  max-inline-size: 34em;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--v1-texte);
+  font-variant-numeric: oldstyle-nums;
+}
+
+@media (min-width: 1024px) {
+  .list {
+    grid-template-columns: subgrid;
+    row-gap: var(--e5);
+  }
+
+  .row {
+    grid-column: 1 / -1;
+    grid-template-columns: subgrid;
+    column-gap: var(--gouttiere);
+    align-items: baseline;
+  }
+
+  .name {
+    grid-column: 1 / 4;
+    padding-block: 0;
+  }
+
+  .text {
+    grid-column: 4 / 10;
+  }
+}

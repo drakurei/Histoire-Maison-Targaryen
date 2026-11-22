@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="theme-color" content="#0e0707" />
+    <title>Targārio Lentro Vestriarja</title>
+    <meta
+      name="description"
+      content="Musée numérique consacré à la Maison Targaryen : huit périodes, de l'ancienne Valyria à l'héritage, en haut valyrien, en français et en anglais. Œuvre de passionné, non officielle."
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <!-- Fond d'obsidienne posé avant toute feuille de style : aucun éclair blanc au chargement. -->
+    <style>
+      html {
+        background: #0e0707;
+        background: oklch(0.14 0.012 25);
+        color-scheme: dark;
+      }
+      noscript {
+        display: block;
+        max-width: 34rem;
+        padding: 2.5rem 1.25rem;
+        color: #f0e7d6;
+        font: 1.1rem/1.6 Georgia, serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>
+      <p lang="fr">Ce musée a besoin de JavaScript pour s'ouvrir. Activez-le dans votre navigateur, puis rechargez la page.</p>
+      <p lang="en">This museum needs JavaScript to open. Turn it on in your browser, then reload the page.</p>
+    </noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

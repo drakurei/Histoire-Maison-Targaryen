@@ -1,0 +1,331 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-02",
+  "generatedOn": "2026-11-13",
+  "noteFr": "Deux continuités sont tenues séparées : « livres » (ouvrages de George R. R. Martin) et « adaptation » (séries HBO). Le champ reliability d'une source qualifie la NATURE du témoignage ; le niveau de fiabilité d'un fait donné figure, lui, sur chaque événement (voir reliabilityLevels). Les titres français sont ceux des éditions publiées quand ils sont connus de l'agent ; ils n'ont pas été vérifiés en ligne (titleFrVerified).",
+  "sources": [
+    {
+      "id": "fab",
+      "title": "Fire & Blood",
+      "titleFr": "Feu et Sang",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 2018,
+      "type": "livre",
+      "continuity": "livres",
+      "reliability": "chronique-fictive",
+      "reliabilityNote": "Source principale pour les années 114 av. C. – 136 apr. C.. Fiabilité interne limitée par construction : le livre se présente comme l'œuvre de l'archimestre Gyldayn, qui écrit bien après les faits et compile des témoins partiaux (le septon Eustace, le Grand Mestre Munkun d'après Orwyle, le bouffon Champignon). Il signale lui-même ses doutes et laisse plusieurs morts sans version arrêtée. Fiabilité externe : c'est l'ouvrage le plus récent et le plus détaillé de l'auteur sur la période ; en cas de désaccord de date avec The World of Ice & Fire, on le suit en signalant l'écart."
+    },
+    {
+      "id": "twoiaf",
+      "title": "The World of Ice & Fire",
+      "titleFr": "Game of Thrones : Les Origines de la saga",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin, Elio M. García Jr., Linda Antonsson",
+      "year": 2014,
+      "type": "encyclopedie-univers",
+      "continuity": "livres",
+      "reliability": "chronique-fictive",
+      "reliabilityNote": "Seule source suivie pour Valyria, les Cités libres et les règnes postérieurs à 136 apr. C.. Fiabilité interne : écrit par le mestre Yandel pour plaire au roi Robert puis à ses successeurs, donc prudent ou complaisant sur la fin de la dynastie ; les temps anciens y sont donnés comme traditions. Fiabilité externe : abrège des textes que Fire & Blood développe ; contient des dates corrigées d'une impression à l'autre (par exemple la bataille du Trident)."
+    },
+    {
+      "id": "trotd",
+      "title": "The Rise of the Dragon",
+      "titleFr": "L'Ascension du dragon",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin, Elio M. García Jr., Linda Antonsson",
+      "year": 2022,
+      "type": "encyclopedie-univers",
+      "continuity": "livres",
+      "reliability": "chronique-fictive",
+      "reliabilityNote": "Version abrégée et illustrée de Fire & Blood. N'ajoute presque rien au texte ; ses illustrations ne sont pas des descriptions écrites et ne servent pas à établir une couleur de dragon (elles sont signalées à part)."
+    },
+    {
+      "id": "agot",
+      "title": "A Game of Thrones",
+      "titleFr": "Le Trône de fer (intégrale 1)",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 1996,
+      "type": "livre",
+      "continuity": "livres",
+      "reliability": "recit-direct",
+      "reliabilityNote": "Roman à points de vue. Ce qu'un personnage voit est fiable ; ce qu'il raconte du passé (rébellion de Robert, Tour de la Joie) est un souvenir partial, parfois un rêve. Le texte ne donne aucune année : les dates des romans sont des reconstitutions."
+    },
+    {
+      "id": "acok",
+      "title": "A Clash of Kings",
+      "titleFr": "Le Trône de fer (intégrale 2)",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 1998,
+      "type": "livre",
+      "continuity": "livres",
+      "reliability": "recit-direct",
+      "reliabilityNote": "Mêmes réserves que pour le premier tome. Les visions de la Maison des Nonmourants sont des visions, non des faits."
+    },
+    {
+      "id": "asos",
+      "title": "A Storm of Swords",
+      "titleFr": "Le Trône de fer (intégrale 3)",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 2000,
+      "type": "livre",
+      "continuity": "livres",
+      "reliability": "recit-direct",
+      "reliabilityNote": "Mêmes réserves. Contient le récit de la mort d'Aerys II par celui qui l'a tué, témoin direct mais intéressé."
+    },
+    {
+      "id": "affc",
+      "title": "A Feast for Crows",
+      "titleFr": "Le Trône de fer (intégrale 4)",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 2005,
+      "type": "livre",
+      "continuity": "livres",
+      "reliability": "recit-direct",
+      "reliabilityNote": "Mêmes réserves. Source principale sur les chandelles de verre : ce qui s'y dit de leurs pouvoirs est la parole d'un seul personnage, l'archimestre Marwyn."
+    },
+    {
+      "id": "adwd",
+      "title": "A Dance with Dragons",
+      "titleFr": "Le Trône de fer (intégrale 5)",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 2011,
+      "type": "livre",
+      "continuity": "livres",
+      "reliability": "recit-direct",
+      "reliabilityNote": "Dernier état publié du récit. L'identité du jeune « Aegon » y est affirmée par des personnages, sans preuve."
+    },
+    {
+      "id": "thk",
+      "title": "The Hedge Knight",
+      "titleFr": "Le Chevalier errant",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 1998,
+      "type": "nouvelle",
+      "continuity": "livres",
+      "reliability": "recit-direct",
+      "reliabilityNote": "Première nouvelle de Dunk et l'Œuf (209 apr. C.), reprise dans le recueil A Knight of the Seven Kingdoms (2015). Récit direct à point de vue unique ; les propos sur le dernier dragon y sont des souvenirs et des on-dit."
+    },
+    {
+      "id": "tss",
+      "title": "The Sworn Sword",
+      "titleFr": "L'Épée lige",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 2003,
+      "type": "nouvelle",
+      "continuity": "livres",
+      "reliability": "recit-direct",
+      "reliabilityNote": "Deuxième nouvelle de Dunk et l'Œuf (211 apr. C.). Le Champ d'Herberouge y est raconté par des vétérans des deux camps, qui ne s'accordent pas sur le bon droit."
+    },
+    {
+      "id": "tmk",
+      "title": "The Mystery Knight",
+      "titleFr": "L'Œuf de dragon",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 2010,
+      "type": "nouvelle",
+      "continuity": "livres",
+      "reliability": "recit-direct",
+      "reliabilityNote": "Troisième nouvelle de Dunk et l'Œuf (212 apr. C.). Seul récit détaillé de la deuxième rébellion Feunoyr."
+    },
+    {
+      "id": "tpatq",
+      "title": "The Princess and the Queen",
+      "titleFr": "La Princesse et la Reine",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 2013,
+      "type": "nouvelle",
+      "continuity": "livres",
+      "reliability": "chronique-fictive",
+      "reliabilityNote": "Première version, abrégée, du récit de la Danse (anthologie Dangerous Women), attribuée au même Gyldayn. Fire & Blood la reprend et la complète ; en cas d'écart, on suit Fire & Blood."
+    },
+    {
+      "id": "trp",
+      "title": "The Rogue Prince",
+      "titleFr": "Le Prince vaurien",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 2014,
+      "type": "nouvelle",
+      "continuity": "livres",
+      "reliability": "chronique-fictive",
+      "reliabilityNote": "Récit du règne de Viserys Ier et de la jeunesse de Daemon (anthologie Rogues). Mêmes témoins contradictoires que la Danse ; repris dans Fire & Blood."
+    },
+    {
+      "id": "tsotd",
+      "title": "The Sons of the Dragon",
+      "titleFr": null,
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 2017,
+      "type": "nouvelle",
+      "continuity": "livres",
+      "reliability": "chronique-fictive",
+      "reliabilityNote": "Récit des règnes d'Aenys Ier et de Maegor Ier (anthologie The Book of Swords), repris dans Fire & Blood. Titre français non établi par l'agent."
+    },
+    {
+      "id": "asoiaf",
+      "title": "A Song of Ice and Fire (cycle, five volumes published)",
+      "titleFr": "Le Trône de fer (cycle, cinq tomes parus)",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 1996,
+      "yearEnd": 2011,
+      "type": "livre",
+      "continuity": "livres",
+      "reliability": "recit-direct",
+      "collective": true,
+      "members": [
+        "agot",
+        "acok",
+        "asos",
+        "affc",
+        "adwd"
+      ],
+      "reliabilityNote": "Entrée collective pour les cinq romans parus, à employer seulement quand le tome précis n'est pas identifié (elle sert aux fichiers de généalogie). Préférer l'identifiant du tome et le chapitre. Mêmes réserves que pour chaque tome : récit à points de vue, souvenirs partiaux, aucune année dans le texte. Les deux derniers romans annoncés ne sont pas parus."
+    },
+    {
+      "id": "dunk-egg",
+      "title": "Tales of Dunk and Egg (A Knight of the Seven Kingdoms, 2015 collection)",
+      "titleFr": "Nouvelles de Dunk et l'Œuf (recueil Chroniques du chevalier errant)",
+      "titleFrVerified": false,
+      "author": "George R. R. Martin",
+      "year": 1998,
+      "yearEnd": 2010,
+      "type": "nouvelle",
+      "continuity": "livres",
+      "reliability": "recit-direct",
+      "collective": true,
+      "members": [
+        "thk",
+        "tss",
+        "tmk"
+      ],
+      "reliabilityNote": "Entrée collective pour les trois nouvelles parues (1998, 2003, 2010), réunies en recueil en 2015. À employer quand la nouvelle précise n'est pas identifiée (elle sert aux fichiers de généalogie). Récit direct à point de vue unique ; les événements antérieurs à 209 apr. C. y sont rapportés par des personnages."
+    },
+    {
+      "id": "got",
+      "title": "Game of Thrones",
+      "titleFr": "Game of Thrones",
+      "titleFrVerified": true,
+      "author": "HBO (David Benioff, D. B. Weiss)",
+      "year": 2011,
+      "yearEnd": 2019,
+      "type": "serie",
+      "continuity": "adaptation",
+      "reliability": "adaptation",
+      "reliabilityNote": "Adaptation télévisée. À partir de la saison 5 environ, elle dépasse les livres parus et suit son propre récit jusqu'à une fin qui lui est propre. Rien de ce qu'elle montre ne vaut preuve pour la continuité des livres."
+    },
+    {
+      "id": "hotd",
+      "title": "House of the Dragon",
+      "titleFr": "House of the Dragon",
+      "titleFrVerified": true,
+      "author": "HBO (Ryan Condal ; George R. R. Martin, cocréateur)",
+      "year": 2022,
+      "yearEnd": null,
+      "type": "serie",
+      "continuity": "adaptation",
+      "reliability": "adaptation",
+      "reliabilityNote": "Adaptation de la partie de Fire & Blood consacrée à la Danse. Elle tranche là où la chronique laisse plusieurs versions, resserre les âges et les délais, et ajoute des éléments absents des livres (le rêve d'Aegon, la survie de Laenor). Les couleurs de dragons qu'elle montre ne sont pas celles du texte quand le texte n'en donne pas."
+    },
+    {
+      "id": "akotsk-serie",
+      "title": "A Knight of the Seven Kingdoms",
+      "titleFr": "A Knight of the Seven Kingdoms",
+      "titleFrVerified": false,
+      "author": "HBO (Ira Parker ; George R. R. Martin)",
+      "year": 2026,
+      "yearEnd": null,
+      "type": "serie",
+      "continuity": "adaptation",
+      "reliability": "adaptation",
+      "reliabilityNote": "Adaptation des nouvelles de Dunk et l'Œuf. Non utilisée comme source dans cette chronologie ; inscrite au registre pour que toute donnée qui en viendrait soit rangée en continuité « adaptation »."
+    },
+    {
+      "id": "awoiaf",
+      "title": "A Wiki of Ice and Fire (awoiaf.westeros.org)",
+      "titleFr": null,
+      "titleFrVerified": false,
+      "author": "Contributeurs de Westeros.org",
+      "year": null,
+      "type": "outil-de-verification",
+      "continuity": "livres",
+      "reliability": "outil",
+      "reliabilityNote": "Wiki de lecteurs qui cite les ouvrages chapitre par chapitre. Utilisé pour contrôler dates et localisations, jamais cité comme source d'un fait. Ses années pour les romans principaux et certaines naissances sont des calculs de contributeurs, signalés comme tels ; quelques champs de ses fiches étaient illisibles lors du contrôle."
+    }
+  ],
+  "sourceReliabilityScale": [
+    {
+      "id": "recit-direct",
+      "label": "Récit direct",
+      "definition": "Roman ou nouvelle raconté à hauteur de personnage : fiable pour ce qui est vu, partial pour ce qui est rapporté."
+    },
+    {
+      "id": "chronique-fictive",
+      "label": "Chronique fictive",
+      "definition": "Ouvrage présenté comme écrit par un mestre de l'univers, à distance des faits et d'après des témoins : fiable pour la trame, incertain pour les détails et les motifs."
+    },
+    {
+      "id": "adaptation",
+      "label": "Adaptation",
+      "definition": "Série télévisée : continuité distincte, sans autorité sur les livres."
+    },
+    {
+      "id": "outil",
+      "label": "Outil de vérification",
+      "definition": "Source secondaire servant au contrôle, jamais à la preuve."
+    }
+  ],
+  "reliabilityLevels": [
+    {
+      "id": "etabli",
+      "order": 1,
+      "label": "Établi",
+      "labelEn": "Established",
+      "definition": "Fait donné sans contradiction par les ouvrages, le plus souvent par plusieurs d'entre eux. Un fait peut être établi alors que sa date reste approximative ou que son motif reste inconnu : la date porte alors sa propre marque de certitude, et la note de fiabilité le précise.",
+      "definitionEn": "A fact given without contradiction by the books, most often by several of them. A fact may be established while its date remains approximate or its motive unknown: the date then carries its own mark of certainty, and the reliability note says so."
+    },
+    {
+      "id": "recit-unique",
+      "order": 2,
+      "label": "Récit unique",
+      "labelEn": "Single account",
+      "definition": "Fait qui ne repose que sur un seul ouvrage, un seul témoin ou la parole d'un seul personnage, sans contradiction mais sans recoupement.",
+      "definitionEn": "A fact resting on a single work, a single witness or one character's word, uncontradicted but uncorroborated."
+    },
+    {
+      "id": "contradictoire",
+      "order": 3,
+      "label": "Récits contradictoires",
+      "labelEn": "Conflicting accounts",
+      "definition": "Les sources ou les témoins divergent sur le fait, sa date, ses auteurs ou ses causes. Le musée expose les versions et ne tranche pas.",
+      "definitionEn": "Sources or witnesses differ on the fact, its date, its authors or its causes. The museum sets out the versions and does not decide."
+    },
+    {
+      "id": "legende",
+      "order": 4,
+      "label": "Tradition ou légende",
+      "labelEn": "Tradition or legend",
+      "definition": "Passé lointain, tradition orale, prophétie, rumeur ou spéculation d'un auteur de l'univers. À lire comme ce que l'on raconte, non comme ce qui fut.",
+      "definitionEn": "Remote past, oral tradition, prophecy, rumour or the speculation of an in-world author. To be read as what is told, not as what was."
+    },
+    {
+      "id": "adaptation",
+      "order": 5,
+      "label": "Propre à une adaptation",
+      "labelEn": "Adaptation only",
+      "definition": "N'existe que dans une série télévisée. Continuité séparée : jamais fusionné avec les faits des livres.",
+      "definitionEn": "Exists only in a television series. A separate continuity: never merged with the facts of the books."
+    }
+  ]
+}

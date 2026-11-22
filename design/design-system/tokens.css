@@ -1,0 +1,340 @@
+/* ==========================================================================
+   TARGARYEN CHRONICLES — jetons de design (agent 07, direction artistique)
+   Référence : documentation/design/cahier-artistique.md
+   Convention : préfixe de catégorie en anglais (aligné sur --font-display,
+   --font-text, --font-label), nom de valeur en français (matière ou usage).
+   Les rapports de contraste cités sont calculés (WCAG 2.x, luminance relative).
+   ========================================================================== */
+
+:root {
+  color-scheme: dark;
+
+  /* ------------------------------------------------------------------------
+     1. COULEURS PRIMITIVES — ne pas utiliser directement dans les composants,
+        passer par les jetons sémantiques (section 2).
+     ------------------------------------------------------------------------ */
+
+  /* Pierre : structure. Noirs chauds, jamais #000. */
+  --color-obsidienne: #0B0A0A;      /* fond de page */
+  --color-basalte: #141211;         /* surface 1 */
+  --color-scorie: #1E1A18;          /* surface 2 */
+  --color-cendre: #2B2622;          /* surface 3, limite haute du texte secondaire */
+  --color-tuf: #3D3631;             /* filets décoratifs uniquement (1,67:1) */
+  --color-fumee: #6F675F;           /* texte éteint ≥ 24 px, jamais de texte courant (3,56:1) */
+  --color-ponce: #9A9289;           /* texte secondaire (6,45:1 sur obsidienne) */
+  --color-pierre-claire: #B9B1A6;   /* texte courant atténué (9,32:1) */
+
+  /* Sang : identité. Jamais en aplat pleine page. */
+  --color-sang-caille: #3A0A0E;     /* surface identitaire profonde */
+  --color-cramoisi: #6B0D17;        /* surface identitaire, sélection, cire */
+  --color-rouge-targaryen: #C42230; /* aplat, grand titre (3,41:1 sur obsidienne) */
+  --color-braise: #E8634C;          /* seul rouge lisible en petit sur sombre (5,95:1) */
+  --color-rubrique: #8E1420;        /* encre rouge sur parchemin (6,44:1) */
+
+  /* Métal : mise en valeur. */
+  --color-bronze-sombre: #5E4826;   /* filets sur sombre, jamais de texte (2,29:1) */
+  --color-bronze: #A8854D;          /* étiquettes sur sombre (5,77:1 ; 4,37:1 sur cendre : interdit) */
+  --color-or-ancien: #C8A45A;       /* accent, liens sur sombre (8,39:1) */
+  --color-or-pale: #E6CE96;         /* rehaut, focus (12,84:1) */
+
+  /* Documents : surfaces claires et encres. */
+  --color-ivoire: #EFE7D6;          /* texte principal sur sombre (16,07:1) */
+  --color-velin: #F3ECDC;           /* document le plus clair */
+  --color-parchemin: #E5D6B5;       /* surface de lecture */
+  --color-parchemin-ombre: #D2BF98; /* tranche, encart, marge */
+  --color-encre: #1B1511;           /* texte sur parchemin (12,58:1) */
+  --color-sepia: #4B3A29;           /* texte secondaire sur parchemin (7,55:1) */
+  --color-bistre: #624A30;          /* gloses sur parchemin (5,75:1 ; 4,58:1 sur parchemin ombré) */
+  --color-bronze-encre: #6B4C1C;    /* « or » imprimé sur parchemin (5,46:1) */
+
+  /* ------------------------------------------------------------------------
+     2. COULEURS SÉMANTIQUES — contexte sombre (défaut).
+        Le contexte parchemin les redéfinit plus bas : un composant écrit avec
+        ces jetons fonctionne sur les deux surfaces sans variante.
+     ------------------------------------------------------------------------ */
+  --surface-fond: var(--color-obsidienne);
+  --surface-1: var(--color-basalte);
+  --surface-2: var(--color-scorie);
+  --surface-3: var(--color-cendre);
+  --surface-identite: var(--color-cramoisi);
+  --surface-identite-profonde: var(--color-sang-caille);
+
+  --ink-principal: var(--color-ivoire);
+  --ink-courant: var(--color-pierre-claire);
+  --ink-second: var(--color-ponce);          /* pas au-dessus de --surface-3 */
+  --ink-accent: var(--color-or-ancien);
+  --ink-rehaut: var(--color-or-pale);
+  --ink-etiquette: var(--color-bronze);      /* jusqu'à --surface-2 ; interdit sur --surface-3 */
+  --ink-identite: var(--color-rouge-targaryen); /* ≥ 24 px (ou 19 px gras), fond/surface-1 seulement */
+  --ink-alerte: var(--color-braise);         /* erreur : toujours doublée d'un signe et d'un mot */
+  --ink-sur-identite: var(--color-ivoire);   /* sur cramoisi 10,07:1 ; sur rouge Targaryen 4,72:1 */
+
+  --line-decor: var(--color-tuf);             /* ornement pur, aucune information */
+  --line-metal: var(--color-bronze-sombre);   /* ornement pur */
+  --line-forte: var(--color-bronze);          /* séparations porteuses de sens (≥ 3:1) */
+  --line-champ: var(--color-bronze);          /* contour de contrôle (≥ 3:1 sur toutes les surfaces sombres) */
+  --line-accent: var(--color-or-ancien);
+
+  --focus-ring: var(--color-or-pale);
+  --selection-fond: var(--color-cramoisi);
+  --selection-texte: var(--color-ivoire);
+
+  /* ------------------------------------------------------------------------
+     3. TYPOGRAPHIE — domaine de l'agent 08.
+        Les familles ne sont pas fixées ici : replis génériques seulement.
+        Piles recommandées par l'étude typographique (assets/fonts/fonts.css,
+        documentation/design/typographie.md) : Cormorant Garamond (affichage),
+        Alegreya (lecture), Alegreya SC (étiquettes). À déclarer à l'intégration.
+        L'échelle des corps est celle de l'agent 08 (jetons --fs-*) : elle n'est
+        pas dupliquée ici.
+     ------------------------------------------------------------------------ */
+  --font-display: serif; /* intention : capitales lapidaires romaines (inscriptions, seuils, titres de volume) */
+  --font-text: serif;    /* intention : garalde de lecture, vraies italiques, chiffres elzéviriens, macrons Ā Ē Ī Ō Ū Ȳ */
+  --font-label: serif;   /* intention : petites capitales de la garalde ou incise à faible contraste (étiquettes, folios) */
+
+  /* Seul corps propre à la direction artistique : les chiffres d'ère de V2. */
+  --fs-monument: clamp(4rem, 1rem + 15vw, 15rem);
+
+  --tracking-inscription: 0.24em;  /* capitales gravées ; plage de l'agent 08 : 0,2 à 0,3 em */
+  --tracking-etiquette: 0.09em;    /* petites capitales ; plage de l'agent 08 : 0,08 à 0,14 em */
+
+  /* ------------------------------------------------------------------------
+     4. MESURES ET GABARITS
+     ------------------------------------------------------------------------ */
+  --measure-inscription: 22ch;  /* titres lapidaires : lignes courtes, centrées ou ferrées */
+  --measure-etroite: 44ch;      /* gloses, légendes, stèles */
+  --measure-lecture: 64ch;      /* corps des chroniques */
+  --measure-large: 78ch;        /* tableaux d'annales */
+
+  --width-folio: 46rem;         /* une page de parchemin */
+  --width-planche: 72rem;       /* planche dépliante, arbre */
+  --width-site: 96rem;          /* au-delà, la pierre continue, pas le contenu */
+
+  --ratio-page: 2 / 3;          /* canon de page médiéval (V1, V3) */
+
+  /* ------------------------------------------------------------------------
+     5. ESPACEMENTS — base 4 px, progression irrégulière assumée
+        (pas de 20 ni de 40 : chaque palier doit se distinguer à l'œil).
+     ------------------------------------------------------------------------ */
+  --space-1: 0.25rem;   /*   4 px */
+  --space-2: 0.5rem;    /*   8 px */
+  --space-3: 0.75rem;   /*  12 px */
+  --space-4: 1rem;      /*  16 px */
+  --space-5: 1.5rem;    /*  24 px */
+  --space-6: 2rem;      /*  32 px */
+  --space-7: 3rem;      /*  48 px */
+  --space-8: 4rem;      /*  64 px */
+  --space-9: 6rem;      /*  96 px */
+  --space-10: 8rem;     /* 128 px */
+  --space-11: 12rem;    /* 192 px */
+
+  --space-marge: clamp(1.25rem, 0.5rem + 4vw, 6rem);      /* marge extérieure de page */
+  --space-gouttiere: clamp(1rem, 0.5rem + 2.5vw, 3rem);   /* entre colonnes */
+  --space-volume: clamp(4rem, 2rem + 8vw, 10rem);         /* entre deux volumes ou sections majeures */
+  --space-alinea: 1.5em;                                  /* retrait d'alinéa, pas de ligne blanche */
+
+  --target-min: 2.75rem; /* 44 px : cible tactile minimale */
+
+  /* ------------------------------------------------------------------------
+     6. ANGLES — la pierre se taille, le parchemin se coupe : rien ne s'arrondit.
+        Rayon nul partout. Seule exception : ce qui est rond est un cercle
+        (sceaux, cire, cadran). Le coin adouci des gabarits est remplacé par
+        le pan coupé.
+     ------------------------------------------------------------------------ */
+  --radius-none: 0;
+  --radius-sceau: 50%;
+
+  --chamfer-1: 4px;   /* étiquettes, contrôles */
+  --chamfer-2: 10px;  /* cartouches */
+  --clip-chamfer-1: polygon(
+    var(--chamfer-1) 0, calc(100% - var(--chamfer-1)) 0, 100% var(--chamfer-1),
+    100% calc(100% - var(--chamfer-1)), calc(100% - var(--chamfer-1)) 100%,
+    var(--chamfer-1) 100%, 0 calc(100% - var(--chamfer-1)), 0 var(--chamfer-1));
+  --clip-chamfer-2: polygon(
+    var(--chamfer-2) 0, calc(100% - var(--chamfer-2)) 0, 100% var(--chamfer-2),
+    100% calc(100% - var(--chamfer-2)), calc(100% - var(--chamfer-2)) 100%,
+    var(--chamfer-2) 100%, 0 calc(100% - var(--chamfer-2)), 0 var(--chamfer-2));
+  /* clip-path rogne aussi le contour de focus : l'appliquer à un pseudo-élément
+     de fond, jamais à l'élément interactif lui-même. */
+
+  /* ------------------------------------------------------------------------
+     7. FILETS
+     ------------------------------------------------------------------------ */
+  --rule-maigre: 1px;
+  --rule-demi-gras: 2px;
+  --rule-gras: 3px;
+  --rule-ecart: 3px;
+
+  --rule-color: var(--line-metal);
+
+  /* Filets composés : à poser en background-image sur un élément de la hauteur
+     indiquée. Arrêts nets : ce sont des traits, pas des dégradés. */
+  --rule-double-height: 5px;
+  --rule-double: linear-gradient(to bottom,
+    var(--rule-color) 0 1px, transparent 1px 4px, var(--rule-color) 4px 5px);
+  --rule-gras-maigre-height: 7px;
+  --rule-gras-maigre: linear-gradient(to bottom,
+    var(--rule-color) 0 3px, transparent 3px 6px, var(--rule-color) 6px 7px);
+
+  /* Graduation d'annales : un trait tous les --rule-graduation-pas. */
+  --rule-graduation-pas: 8px;
+  --rule-graduation: repeating-linear-gradient(to bottom,
+    var(--rule-color) 0 1px, transparent 1px var(--rule-graduation-pas));
+
+  /* ------------------------------------------------------------------------
+     8. OMBRES ET LUEURS
+        Sur fond noir une ombre portée ne se voit pas : elles sont réservées
+        aux documents posés sur la pierre. La lueur est réservée à ce qui brûle.
+     ------------------------------------------------------------------------ */
+  --shadow-document: 0 1px 0 rgb(0 0 0 / 0.6), 0 18px 40px -12px rgb(0 0 0 / 0.75);
+  --shadow-document-leve: 0 2px 0 rgb(0 0 0 / 0.6), 0 32px 64px -16px rgb(0 0 0 / 0.85);
+  --shadow-bord-parchemin: inset 0 0 72px rgb(107 76 28 / 0.16);  /* assombrissement des marges, statique */
+  --shadow-relief: inset 0 1px 0 rgb(230 206 150 / 0.22), inset 0 -1px 0 rgb(0 0 0 / 0.6); /* métal : arête haute éclairée */
+  --shadow-creux: inset 0 2px 6px rgb(0 0 0 / 0.7);                                       /* champ de saisie, niche */
+  --shadow-intaille: 0 -1px 0 rgb(0 0 0 / 0.9), 0 1px 0 rgb(230 206 150 / 0.14);          /* text-shadow : lettre gravée en creux */
+
+  --glow-flamme: 0 0 32px 4px rgb(230 206 150 / 0.22);  /* chandelle allumée, élément actif unique */
+  --glow-braise: 0 0 28px 2px rgb(196 34 48 / 0.35);    /* cire chaude, volume en cours */
+
+  /* ------------------------------------------------------------------------
+     9. MATIÈRES — tuiles SVG statiques, rastérisées une fois.
+        Ne jamais animer ces fonds ni leur appliquer de filtre en direct.
+     ------------------------------------------------------------------------ */
+  --texture-pierre-opacity: 0.22;    /* mesuré : au-delà, bronze et braise passent sous 4,5:1 sur basalte */
+  --texture-pierre: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n' x='0' y='0' width='100%25' height='100%25'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' seed='14' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .73 0 0 0 0 .69 0 0 0 0 .65 0 0 0 .9 -.4'/%3E%3C/filter%3E%3Crect width='240' height='240' filter='url(%23n)'/%3E%3C/svg%3E");
+
+  --texture-parchemin-opacity: 0.35; /* à poser en mix-blend-mode: multiply */
+  --texture-parchemin: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='320' height='320'%3E%3Cfilter id='f' x='0' y='0' width='100%25' height='100%25'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.022 .034' numOctaves='4' seed='4' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .42 0 0 0 0 .3 0 0 0 0 .11 0 0 0 .7 -.26'/%3E%3C/filter%3E%3Crect width='320' height='320' filter='url(%23f)'/%3E%3C/svg%3E");
+
+  /* Écailles ogivales : réservées à ce qui concerne les dragons. */
+  --texture-ecailles-size: 28px 24px;
+  --texture-ecailles: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='24'%3E%3Cpath fill='none' stroke='%23A8854D' stroke-width='1' d='M0 0Q2 14 14 20Q26 14 28 0M-14 12Q-12 26 0 32Q12 26 14 12M14 12Q16 26 28 32Q40 26 42 12M-14-12Q-12 2 0 8Q12 2 14-12M14-12Q16 2 28 8Q40 2 42-12'/%3E%3C/svg%3E");
+
+  /* Hachures de gravure : la couleur vient de currentColor.
+     Pas de 3√2 px le long de l'axe, soit 6 px exacts à l'horizontale :
+     un pas « rond » (5 px) produit un moiré visible à 45°. */
+  --hachure-pas: 4.243px;
+  --hachure-trait: 0.8px;
+  --hachure: repeating-linear-gradient(135deg,
+    currentColor 0 var(--hachure-trait), transparent var(--hachure-trait) var(--hachure-pas));
+  --hachure-croisee: repeating-linear-gradient(135deg,
+      currentColor 0 var(--hachure-trait), transparent var(--hachure-trait) var(--hachure-pas)),
+    repeating-linear-gradient(45deg,
+      currentColor 0 var(--hachure-trait), transparent var(--hachure-trait) var(--hachure-pas));
+
+  /* ------------------------------------------------------------------------
+     10. ICONOGRAPHIE
+     ------------------------------------------------------------------------ */
+  --icon-size: 1.5rem;      /* grille 24, zone vive 20 */
+  --icon-size-sm: 1rem;     /* dessin optique 16 distinct, trait 1.25 */
+  --icon-stroke: 1.5;
+  --icon-stroke-sm: 1.25;
+
+  /* ------------------------------------------------------------------------
+     11. MOUVEMENT
+     ------------------------------------------------------------------------ */
+  --duration-instant: 90ms;     /* retour d'état : pression, bascule */
+  --duration-bref: 160ms;       /* survol, focus, encre d'un soulignement */
+  --duration-court: 240ms;      /* apparition d'un petit élément, glose */
+  --duration-moyen: 420ms;      /* feuillet qui se pose, panneau */
+  --duration-long: 700ms;       /* page tournée, ouverture de l'amande */
+  --duration-ceremonie: 1200ms; /* passage d'un volume à l'autre */
+  --duration-rituel: 2400ms;    /* séquence d'ouverture, une seule fois par session */
+  --duration-souffle: 4800ms;   /* boucle d'ambiance (flamme au repos) */
+  --duration-fondu: 160ms;      /* seul mouvement conservé en mouvement réduit */
+
+  --stagger-fin: 18ms;    /* écailles, hachures */
+  --stagger: 40ms;        /* lignes d'une table */
+  --stagger-large: 70ms;  /* quatorze flammes */
+
+  --ease-pierre: cubic-bezier(0.7, 0, 0.2, 1);       /* masse : part lentement, s'arrête net. Volumes, vantaux, amande */
+  --ease-page: cubic-bezier(0.22, 0.61, 0.21, 1);    /* feuille : se lève vite, se pose longuement */
+  --ease-braise: cubic-bezier(0.16, 1, 0.3, 1);      /* allumage : jaillit puis se stabilise */
+  --ease-encre: cubic-bezier(0.65, 0, 0.35, 1);      /* tracé : filets, fil de lignée, soulignements */
+  --ease-souffle: cubic-bezier(0.37, 0, 0.63, 1);    /* boucles d'ambiance, aller-retour */
+  --ease-chute: cubic-bezier(0.55, 0, 1, 0.45);      /* sorties : ce qui part accélère */
+  --ease-sceau: cubic-bezier(0.34, 1.4, 0.64, 1);    /* frappe : léger dépassement. Sceaux et confirmations uniquement */
+
+  /* ------------------------------------------------------------------------
+     12. PLANS (z-index)
+     ------------------------------------------------------------------------ */
+  --z-pierre: 0;        /* fond et matières */
+  --z-ornement: 1;      /* filets, fil de lignée derrière le contenu */
+  --z-contenu: 10;
+  --z-marge: 100;       /* éléments collants : titre courant, jauge */
+  --z-navigation: 200;
+  --z-voile: 300;       /* assombrissement derrière un feuillet */
+  --z-feuillet: 400;    /* dialogues, documents levés */
+  --z-avis: 500;        /* messages d'état */
+  --z-seuil: 900;       /* écran d'ouverture */
+  --z-evitement: 1000;  /* lien d'évitement, toujours au-dessus */
+}
+
+/* --------------------------------------------------------------------------
+   CONTEXTE PARCHEMIN — à poser sur tout conteneur de document clair.
+   Les mêmes noms sémantiques prennent les valeurs d'encre.
+   -------------------------------------------------------------------------- */
+[data-surface="parchemin"],
+[data-surface="velin"] {
+  color-scheme: light;
+
+  --surface-fond: var(--color-parchemin);
+  --surface-1: var(--color-velin);
+  --surface-2: var(--color-parchemin-ombre);
+  --surface-3: var(--color-parchemin-ombre);
+  --surface-identite: var(--color-cramoisi);
+  --surface-identite-profonde: var(--color-sang-caille);
+
+  --ink-principal: var(--color-encre);
+  --ink-courant: var(--color-encre);
+  --ink-second: var(--color-sepia);
+  --ink-accent: var(--color-rubrique);        /* sur parchemin, l'accent est rouge : l'or ne s'y lit pas */
+  --ink-rehaut: var(--color-bronze-encre);    /* interdit en texte courant sur parchemin ombré (4,35:1) */
+  --ink-etiquette: var(--color-bistre);       /* 4,58:1 sur parchemin ombré : jamais sous 16 px à cet endroit */
+  --ink-identite: var(--color-rubrique);
+  --ink-alerte: var(--color-rubrique);
+  --ink-sur-identite: var(--color-ivoire);
+
+  --line-decor: var(--color-parchemin-ombre);
+  --line-metal: var(--color-bronze);           /* 2,39:1 : ornement pur */
+  --line-forte: var(--color-bistre);
+  --line-champ: var(--color-bistre);
+  --line-accent: var(--color-rubrique);
+
+  --focus-ring: var(--color-encre);
+  --selection-fond: var(--color-encre);
+  --selection-texte: var(--color-parchemin);
+
+  --rule-color: var(--color-bistre);
+  --shadow-intaille: none;                     /* on n'entaille pas le parchemin : on y écrit */
+}
+
+[data-surface="velin"] {
+  --surface-fond: var(--color-velin);
+  --surface-1: var(--color-parchemin);
+}
+
+/* --------------------------------------------------------------------------
+   MOUVEMENT RÉDUIT — les déplacements deviennent des changements d'état ;
+   seul un fondu court subsiste. Les boucles d'ambiance s'arrêtent.
+   -------------------------------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --duration-instant: 1ms;
+    --duration-bref: 1ms;
+    --duration-court: 1ms;
+    --duration-moyen: 1ms;
+    --duration-long: 1ms;
+    --duration-ceremonie: 1ms;
+    --duration-rituel: 1ms;
+    --duration-souffle: 0s;
+    --stagger-fin: 0ms;
+    --stagger: 0ms;
+    --stagger-large: 0ms;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Points de rupture (rappel : une custom property ne peut pas servir dans
+   une requête @media). 360 · 600 · 900 · 1200 · 1600 px.
+   -------------------------------------------------------------------------- */

@@ -1,0 +1,83 @@
+/* Règle du temps : un instrument, tracé à l'encre de la surface. Le temps resserré est en tirets. */
+.rule {
+  inline-size: 100%;
+  min-block-size: 3.5rem;
+}
+
+.rule svg {
+  display: block;
+  overflow: visible;
+}
+
+.line {
+  stroke: var(--v1-texte);
+  stroke-width: 1.5;
+}
+
+.line[data-zone='legend'] {
+  stroke-dasharray: 5 4;
+}
+
+.line[data-zone='approach'] {
+  stroke-dasharray: 14 3;
+}
+
+.minor {
+  stroke: var(--v1-texte-2);
+  stroke-width: 1;
+}
+
+.major {
+  stroke: var(--v1-texte);
+  stroke-width: 1.5;
+}
+
+.year,
+.mark text,
+.zone {
+  font-family: var(--f-musee);
+  font-size: 12px;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.year {
+  fill: var(--v1-texte-2);
+}
+
+.zone {
+  font-family: var(--f-recit);
+  font-style: italic;
+  fill: var(--v1-texte-2);
+}
+
+.span {
+  fill: var(--v1-texte);
+}
+
+.span[data-tone='or'] {
+  fill: var(--v1-or);
+}
+
+.span[data-tone='rubrique'] {
+  fill: var(--v1-rubrique);
+}
+
+.mark line {
+  stroke: var(--v1-texte);
+  stroke-width: 1;
+}
+
+.mark text {
+  fill: var(--v1-texte);
+  font-weight: 500;
+}
+
+.mark[data-strong] line {
+  stroke: var(--v1-rubrique);
+  stroke-width: 2;
+}
+
+.mark[data-strong] text {
+  fill: var(--v1-rubrique);
+  font-weight: 700;
+}

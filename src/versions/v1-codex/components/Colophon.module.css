@@ -1,0 +1,97 @@
+/*
+ * Feuillet de garde : un vélin plus sombre, un peu plus étroit que le folio et décalé
+ * vers la droite, comme la feuille suivante de la pile qui dépasse dessous.
+ */
+.colophon {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: var(--e4) var(--e5);
+  margin-block-start: var(--e2);
+  padding: var(--e5) 1.25rem var(--e5);
+  background: var(--velin-ombre);
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+  color: var(--encre-pale);
+}
+
+@media (min-width: 1024px) {
+  .colophon {
+    grid-template-columns: auto minmax(0, 34rem) auto;
+    align-items: start;
+    max-inline-size: min(calc(var(--v1-folio-max) - 2.5rem), calc(100% - 2.5rem));
+    margin-inline-start: 1.25rem;
+    padding: var(--e5) var(--v1-folio-pad) var(--e6);
+    clip-path: polygon(0 0, 100% 0, calc(100% - 1.5px) 40%, 100% 100%, 63% calc(100% - 2px), 21% 100%, 0 calc(100% - 1px), 1px 55%);
+  }
+}
+
+.hallmark {
+  color: var(--encre);
+}
+
+.text {
+  display: grid;
+  gap: var(--e2);
+  max-inline-size: 36rem;
+}
+
+.credits {
+  font-family: var(--f-recit);
+  font-size: 1rem;
+  font-style: italic;
+  color: var(--encre);
+}
+
+.type {
+  font-size: var(--t-1);
+}
+
+.links {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 var(--e5);
+  margin: 0;
+}
+
+@media (min-width: 1024px) {
+  .links {
+    grid-column: auto;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+.link {
+  display: inline-flex;
+  align-items: center;
+  min-block-size: var(--cible);
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.2;
+  color: var(--encre);
+  text-align: start;
+  text-decoration: none;
+}
+
+/* Le bouton sans glose porte son soulignement lui-même. */
+.plain {
+  text-decoration-line: underline;
+  text-decoration-color: var(--rubrique);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
+/* Une glose est un bloc en ligne : le soulignement du lien ne la traverse pas, on le porte sur la ligne principale. */
+.link :global(.gloss__main) {
+  text-decoration-line: underline;
+  text-decoration-color: var(--rubrique);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
+.link :global(.gloss__tr) {
+  font-size: 0.8rem;
+}

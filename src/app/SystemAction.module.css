@@ -1,0 +1,45 @@
+/* Commandes des écrans de l'enveloppe. Voix du musée, cible d'au moins 44 px. */
+.link,
+.button {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  line-height: var(--il-cartel);
+}
+
+/* Le soulignement porte sur la première ligne seule : la glose n'est pas le lien. */
+.link {
+  text-decoration: none;
+}
+
+.link .primary {
+  text-decoration-line: underline;
+  text-decoration-thickness: max(2px, 0.09em);
+  text-underline-offset: 0.22em;
+}
+
+.link:hover .primary {
+  text-decoration-thickness: max(3px, 0.16em);
+}
+
+/* L'action principale est un aplat rouge, sans cadre ni arrondi. */
+.button {
+  padding: var(--e2) var(--e5);
+  background: var(--sang);
+  color: var(--ivoire);
+}
+
+.button:hover {
+  background: var(--cramoisi);
+}
+
+.button:active {
+  transform: translateY(1px);
+}
+
+.translation {
+  font-weight: 400;
+  font-style: italic;
+}

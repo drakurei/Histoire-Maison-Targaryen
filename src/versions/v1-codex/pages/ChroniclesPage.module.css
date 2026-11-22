@@ -1,0 +1,31 @@
+.title {
+  margin-block-end: var(--e5);
+}
+
+.lead {
+  max-inline-size: var(--mesure);
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  color: var(--v1-texte);
+  text-wrap: pretty;
+  font-variant-numeric: oldstyle-nums;
+}
+
+.figure {
+  margin-block: var(--e7) var(--e6);
+}
+
+.section {
+  margin-block-start: var(--e7);
+}
+
+.sectionTitle {
+  grid-column: 1 / -1;
+}
+
+@media (min-width: 1024px) {
+  .sectionTitle {
+    grid-column: 1 / 8;
+  }
+}

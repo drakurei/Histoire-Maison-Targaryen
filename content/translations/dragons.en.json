@@ -1,0 +1,154 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-05",
+  "items": {
+    "balerion": {
+      "colorFr": "Black scales and wings; black flame, at times shot with red.",
+      "hatchedOrFirstKnown": "Hatched in Valyria before 114 BC; the exact date is unknown.",
+      "fateFr": "The only one of Aenar's five dragons to live into Aegon's time, he burned Harrenhal and his fire forged the Iron Throne. He died of old age in King's Landing, some two hundred years old."
+    },
+    "vhagar": {
+      "extraTextualNoteFr": "The books describe neither her scales nor her flame. Guidance given outside the text by the author's team to the artist of the official 2021 calendar speaks of bronze with blue-green highlights and green eyes: it is not a published text.",
+      "hatchedOrFirstKnown": "Hatched on Dragonstone during the Century of Blood, around 52 BC (a calculated year, not one stated in the text).",
+      "fateFr": "The oldest and largest dragon alive at the time of the Dance, she killed Arrax and then Meleys. She died with Aemond above the Gods Eye on the 22nd day of the 5th moon of 130 AC, killing Caraxes as she fell."
+    },
+    "meraxes": {
+      "colorFr": "Silver scales, golden eyes.",
+      "hatchedOrFirstKnown": "Hatched on Dragonstone during the Century of Blood; year unknown.",
+      "fateFr": "Brought down at the Hellholt during the First Dornish War by a scorpion bolt through the eye. Her skull was returned to Aegon with the peace of 13 AC."
+    },
+    "quicksilver": {
+      "colorFr": "Scales not described; pale white flame.",
+      "hatchedOrFirstKnown": "Hatched on Dragonstone in 7 AC.",
+      "fateFr": "Ridden by Prince Aegon against his uncle Maegor, she was killed by Balerion at the Battle Beneath the Gods Eye. She was the first Targaryen dragon to be slain by another."
+    },
+    "dreamfyre": {
+      "colorFr": "Pale blue marked with silver; silver crests, pale blue wings.",
+      "hatchedOrFirstKnown": "Hatched in the reign of Aegon I, around 32 AC or shortly before.",
+      "fateFr": "Chained in the Dragonpit when it was stormed in 130 AC, she broke her chains, killed more of the attackers than the other three dragons together, and died when the dome fell in."
+    },
+    "vermithor": {
+      "colorFr": "Bronze, with great tawny wings.",
+      "hatchedOrFirstKnown": "Hatched in 34 AC from an egg placed, by custom, in Jaehaerys's cradle.",
+      "fateFr": "Riderless from 103 to 129 AC, he was tamed by Hugh Hammer during the Sowing. He killed Seasmoke at the Second Battle of Tumbleton and died of his wounds."
+    },
+    "silverwing": {
+      "colorFr": "Silver.",
+      "hatchedOrFirstKnown": "Hatched in 36 AC from an egg placed, by custom, in Alysanne's cradle.",
+      "fateFr": "The only dragon to survive the Second Battle of Tumbleton. Gone wild again, she settled on an island in the Red Lake, in the Reach; the date of her death is not known."
+    },
+    "caraxes": {
+      "colorFr": "Red.",
+      "hatchedOrFirstKnown": "Hatching undated; already a young dragon large enough to be ridden in 72 AC.",
+      "fateFr": "Daemon's mount in the Stepstones and then in the Dance. He tore out Vhagar's throat above the Gods Eye, fell with her, and died on the shore beneath the walls of Harrenhal."
+    },
+    "meleys": {
+      "colorFr": "Scarlet scales, pink wing membranes; crest, horns and claws the colour of copper.",
+      "hatchedOrFirstKnown": "Hatching undated; first ridden in 75 AC.",
+      "fateFr": "Caught between Sunfyre and Vhagar at Rook's Rest, she died with Princess Rhaenys after half tearing away one of Sunfyre's wings."
+    },
+    "syrax": {
+      "colorFr": "Yellow scales.",
+      "hatchedOrFirstKnown": "A young dragon ridden by Rhaenyra from 104 AC; hatching undated.",
+      "fateFr": "She threw Prince Joffrey, who had tried to ride her, then came down upon the crowd after the fall of the Dragonpit and was killed there. The chronicle preserves several conflicting accounts of her death."
+    },
+    "seasmoke": {
+      "colorFr": "Pale silver-grey.",
+      "hatchedOrFirstKnown": "Hatched in 101 AC at the latest.",
+      "fateFr": "Without a rider for nearly ten years after Laenor's death, he accepted Addam of Hull during the Sowing. Vermithor tore his head from his body at the Second Battle of Tumbleton."
+    },
+    "sunfyre": {
+      "colorFr": "Golden scales, pale pink wing membranes; golden flame. Held to be the most beautiful dragon ever seen.",
+      "hatchedOrFirstKnown": "Hatched on Dragonstone; described as “young” in 120 AC.",
+      "fateFr": "Maimed at Rook's Rest, he nonetheless killed Grey Ghost and Moondancer on Dragonstone, then devoured Rhaenyra at the command of Aegon II. He died of his wounds on the 9th day of the 12th moon of 130 AC."
+    },
+    "tessarion": {
+      "colorFr": "Dark cobalt-blue wings; claws, crest and belly scales the colour of hammered copper; cobalt-blue flame.",
+      "hatchedOrFirstKnown": "Hatched in 120 AC at the latest.",
+      "fateFr": "Deprived of her rider at the very outset of the Second Battle of Tumbleton, she fought Seasmoke and Vermithor. Too badly hurt to take wing again, she was finished off with three arrows to the eye."
+    },
+    "vermax": {
+      "hatchedOrFirstKnown": "Hatched between 114 and 120 AC from an egg placed in Jacaerys's cradle.",
+      "fateFr": "He plunged into the midst of the enemy fleet at the Battle of the Gullet and went down with the wreckage; the exact cause of his fall is uncertain. The fool Mushroom claims that he left eggs at Winterfell, which the chronicle considers most doubtful.",
+      "adaptationNoteFr": "In House of the Dragon: olive-green scales, pale orange wing membranes (HBO's official dragon index)."
+    },
+    "arrax": {
+      "extraTextualNoteFr": "The books do not give his colour. Guidance given outside the text by the author's team to the artist of the official 2021 calendar speaks of pearly white, yellow flame, and golden eyes and breast: it is not a published text.",
+      "hatchedOrFirstKnown": "Hatched between 115 and 120 AC from an egg placed in Lucerys's cradle.",
+      "fateFr": "Overtaken by Vhagar in the storm above Shipbreaker Bay, he fell into the sea with Prince Lucerys. His head and neck washed ashore three days later."
+    },
+    "tyraxes": {
+      "hatchedOrFirstKnown": "Hatched between 117 and 120 AC from an egg placed in Joffrey's cradle.",
+      "fateFr": "Chained in the Dragonpit, he burned his attackers until their bodies choked the mouth of his lair, then became entangled in his chains when the crowd broke in from behind."
+    },
+    "moondancer": {
+      "colorFr": "Pale green; horns, crest and wing bones the colour of pearl.",
+      "hatchedOrFirstKnown": "Hatching undated; still too small to be ridden in 129 AC.",
+      "fateFr": "Ridden by Baela against Sunfyre when Dragonstone fell, she wounded him gravely before she was killed."
+    },
+    "stormcloud": {
+      "hatchedOrFirstKnown": "Hatched from an egg placed in the cradle of Aegon the Younger (born 120 AC).",
+      "fateFr": "He bore his young master only once, to carry him out of the Battle of the Gullet, and died within the hour on Dragonstone, pierced by arrows, with a scorpion bolt in his neck."
+    },
+    "morghul": {
+      "extraTextualNoteFr": "His colour is not given in the text. An illustration in The Rise of the Dragon shows him black, on the illustrator's own authority; it is not a written description.",
+      "ridersNoteFr": "Bound to Princess Jaehaera, he was never ridden.",
+      "hatchedOrFirstKnown": "Year of hatching unknown; a young dragon in 130 AC.",
+      "fateFr": "Chained in the Dragonpit, he was killed during the storming by a burning knight who drove a spear into his eye."
+    },
+    "shrykos": {
+      "extraTextualNoteFr": "Her colour is not given in the text. An illustration in The Rise of the Dragon shows her coppery, on the illustrator's own authority; it is not a written description.",
+      "ridersNoteFr": "Bound to Prince Jaehaerys, son of Aegon II, she was never ridden.",
+      "hatchedOrFirstKnown": "Year of hatching unknown; a young she-dragon in 130 AC.",
+      "fateFr": "The first dragon killed in the storming of the Dragonpit: a man the chronicle calls Hobb the Hewer split her skull with an axe."
+    },
+    "sheepstealer": {
+      "colorFr": "Dull brown, the colour of mud.",
+      "hatchedOrFirstKnown": "A wild dragon of Dragonstone, hatched in the youth of Jaehaerys I; year unknown.",
+      "fateFr": "Won over by Nettles with a sheep brought to him every morning. After the girl's flight, the two were last seen in 134 AC in the Mountains of the Moon; what became of them is unknown."
+    },
+    "grey-ghost": {
+      "colorFr": "Pale grey-white, the colour of morning mist.",
+      "ridersNoteFr": "A wild dragon, never ridden.",
+      "hatchedOrFirstKnown": "A wild dragon of Dragonstone; age unknown.",
+      "fateFr": "Shy and a fish-eater, he eluded everyone who sought him during the Sowing. He was killed and partly devoured by Sunfyre in 130 AC; the Cannibal was blamed at first."
+    },
+    "cannibal": {
+      "colorFr": "Coal black, with green eyes.",
+      "ridersNoteFr": "A wild dragon, never ridden.",
+      "hatchedOrFirstKnown": "Unknown. The people of Dragonstone held that he was there before the Targaryens came; the chroniclers doubt it.",
+      "fateFr": "The oldest and largest of the wild dragons, named for his habit of feeding on dead dragons, hatchlings and eggs. He outlived the Dance, then disappeared; nothing is known of his end."
+    },
+    "morning": {
+      "colorFr": "Pale pink; black crest and horns.",
+      "hatchedOrFirstKnown": "Hatched in the Vale in late 130 or early 131 AC, from an egg laid by Syrax.",
+      "fateFr": "The only dragon born during the Dance, and one of the four still alive when the war ended. The date and cause of her death are not recorded; she had died before 153 AC."
+    },
+    "dernier-dragon": {
+      "colorFr": "Green; small and sickly, with stunted wings.",
+      "ridersNoteFr": "Never ridden; her name is not known.",
+      "hatchedOrFirstKnown": "Hatched in the reign of Aegon III; year unknown.",
+      "fateFr": "She died in King's Landing in 153 AC, having laid five eggs that never hatched. Rumour accused Aegon III of poisoning her; Archmaester Marwyn lays the blame on the maesters; nothing is proven."
+    },
+    "drogon": {
+      "colorFr": "Black scales; blood-red horns and spines; red eyes. Black flame shot through with red. (When young: black streaked with scarlet, with scarlet wings.)",
+      "hatchedOrFirstKnown": "Hatched on Drogo's pyre, in the Dothraki sea, around 299 AC (a reconstructed year).",
+      "fateFr": "The largest and wildest of the three. He escaped confinement in Meereen, returned to Daznak's Pit and carried Daenerys away. Alive at the end of the fifth volume.",
+      "adaptationNoteFr": "In Game of Thrones he burns King's Landing, melts the Iron Throne and carries off the body of Daenerys: an ending peculiar to the series."
+    },
+    "rhaegal": {
+      "colorFr": "Dark green, with jade-green wings; bronze eyes. Orange and yellow flame veined with green.",
+      "ridersNoteFr": "No rider in the published books.",
+      "hatchedOrFirstKnown": "Hatched on Drogo's pyre, around 299 AC (a reconstructed year). Named after Rhaegar.",
+      "fateFr": "Shut away beneath the Great Pyramid of Meereen, he gave Prince Quentyn Martell fatal burns, then broke free. Alive and at large at the end of the fifth volume.",
+      "adaptationNoteFr": "In Game of Thrones he is ridden by Jon Snow, then killed by Euron Greyjoy's fleet: elements peculiar to the series."
+    },
+    "viserion": {
+      "colorFr": "Cream; golden horns, wing bones and crest; eyes of molten gold. Pale gold flame mingled with red and orange.",
+      "ridersNoteFr": "No rider in the published books.",
+      "hatchedOrFirstKnown": "Hatched on Drogo's pyre, around 299 AC (a reconstructed year). Named after Viserys.",
+      "fateFr": "Shut away with Rhaegal beneath the Great Pyramid, he broke and melted his chains, then escaped after Quentyn Martell's attempt. Alive and at large at the end of the fifth volume.",
+      "adaptationNoteFr": "In Game of Thrones he is killed beyond the Wall, raised by the Night King, then destroyed: elements peculiar to the series."
+    }
+  }
+}

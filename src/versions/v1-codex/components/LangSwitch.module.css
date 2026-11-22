@@ -1,0 +1,63 @@
+/* Choix de langue : du texte, pas de pastilles. L'actif porte un soulignement épais. */
+.switch {
+  display: flex;
+  align-items: stretch;
+}
+
+.switch[data-variant='drawer'] {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--e1);
+}
+
+.option {
+  position: relative;
+  min-inline-size: var(--cible);
+  min-block-size: var(--cible);
+  padding-inline: 0.5rem;
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1;
+  color: var(--v1-texte-2);
+  font-variant-numeric: lining-nums;
+  transition: color var(--d-geste-court) var(--c-expo);
+}
+
+.switch[data-variant='drawer'] .option {
+  min-block-size: 3.25rem;
+  padding-inline: 0;
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  text-align: start;
+}
+
+.option:hover {
+  color: var(--v1-texte);
+}
+
+.option[aria-pressed='true'] {
+  color: var(--v1-texte);
+}
+
+/* Le soulignement : 3 px de braise sous le sigle, décalé, sans changer la couleur du fond. */
+.option::after {
+  content: '';
+  position: absolute;
+  inset-inline: 0.5rem;
+  inset-block-end: 0.55rem;
+  block-size: 3px;
+  background: var(--v1-actif);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform var(--d-geste) var(--c-expo);
+}
+
+.switch[data-variant='drawer'] .option::after {
+  inset-inline: 0;
+  inset-block-end: 0.2rem;
+}
+
+.option[aria-pressed='true']::after {
+  transform: scaleX(1);
+}

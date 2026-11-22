@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Icône provisoire : trois éclats de verre-dragon, en attendant l'emblème de src/shared/emblem. -->
+  <rect width="32" height="32" fill="#0e0707" />
+  <g fill="#b71824">
+    <path d="M16 3.5 19.2 19.6 16 28.5 12.8 19.6Z" />
+    <path d="M6.2 8.4 12 19.4 11.2 27 6.6 19.2Z" />
+    <path d="M25.8 8.4 25.4 19.2 20.8 27 20 19.4Z" />
+  </g>
+</svg>

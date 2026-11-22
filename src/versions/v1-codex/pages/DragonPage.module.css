@@ -1,0 +1,252 @@
+/* Planche d'un dragon. */
+.head {
+  display: grid;
+  gap: var(--e4);
+  margin-block-end: var(--e5);
+}
+
+.meta {
+  display: grid;
+  gap: var(--e2);
+}
+
+.alias {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t2);
+  line-height: 1.1;
+  color: var(--encre);
+}
+
+.facts {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e5);
+  row-gap: var(--e2);
+  font-family: var(--f-musee);
+  font-size: 0.95rem;
+  line-height: var(--il-cartel);
+  color: var(--encre-pale);
+  font-variant-numeric: lining-nums;
+}
+
+.plateFigure {
+  margin-block: var(--e5) var(--e7);
+}
+
+.section {
+  margin-block-start: var(--e7);
+}
+
+.subhead {
+  margin-block-start: var(--e6);
+}
+
+.section h2 + * {
+  margin-block-start: var(--e4);
+}
+
+.sentence {
+  max-inline-size: var(--mesure);
+  margin-block-start: var(--e3);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--encre);
+  font-variant-numeric: oldstyle-nums;
+}
+
+.compare {
+  --dragon-ink: var(--encre);
+  --dragon-paper: var(--velin);
+
+  max-inline-size: 30rem;
+  margin-block-start: var(--e5);
+  color: var(--encre);
+}
+
+/* Notes de marge : Alegreya Sans, à l'encre pâle, à hauteur du texte qu'elles éclairent. */
+.note,
+.sources {
+  margin-block-start: var(--e5);
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--encre-pale);
+  font-variant-numeric: lining-nums;
+}
+
+.marginHead {
+  margin-block-end: var(--e2);
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  color: var(--encre);
+}
+
+.rule {
+  margin-block: var(--e4) var(--e3);
+}
+
+.riders {
+  display: grid;
+  gap: var(--e2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.rider {
+  display: grid;
+  grid-template-columns: minmax(8.5rem, auto) minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: baseline;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.45;
+}
+
+.riderYears {
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  color: var(--rubrique);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.extra {
+  margin-block-start: var(--e5);
+  padding: var(--e4) var(--e5);
+  background: var(--velin-ombre);
+}
+
+.extraLabel {
+  margin-block-end: var(--e2);
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--encre-pale);
+}
+
+/* ------------------------------------------------------------ batailles : année en marge suspendue */
+.battles {
+  display: grid;
+  gap: var(--e5);
+  margin: var(--e4) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.battle {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr);
+  column-gap: var(--e4);
+}
+
+.battleYear {
+  padding-block-start: 0.3rem;
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--rubrique);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.battleName {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 520;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+}
+
+.battlePlace {
+  margin-block-start: 0.2rem;
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  color: var(--encre-pale);
+}
+
+.battleFate {
+  max-inline-size: var(--mesure);
+  margin-block-start: var(--e2);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--encre);
+  font-variant-numeric: oldstyle-nums;
+}
+
+/* ------------------------------------------------------------ adaptation : tenue à part, sur la marge du vélin */
+.adaptation {
+  margin-block-start: var(--e7);
+  padding: var(--e5);
+  background: var(--velin-ombre);
+}
+
+.continuity {
+  margin-block: var(--e2) var(--e3);
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  color: var(--encre-pale);
+}
+
+/* ------------------------------------------------------------ d'une planche à l'autre */
+.pager {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--e4);
+  margin-block-start: var(--e8);
+}
+
+.pagerLink,
+.pagerHome {
+  display: grid;
+  align-content: center;
+  min-block-size: var(--cible);
+  color: var(--encre);
+  text-decoration: none;
+}
+
+.pagerLabel {
+  font-family: var(--f-musee);
+  font-size: 0.85rem;
+  color: var(--encre-pale);
+}
+
+.pagerName {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 540;
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  color: var(--rubrique);
+  text-decoration-line: underline;
+  text-decoration-color: transparent;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+}
+
+.pagerLink:hover .pagerName,
+.pagerLink:focus-visible .pagerName {
+  text-decoration-color: var(--rubrique);
+}
+
+.pagerHome {
+  font-family: var(--f-musee);
+  font-size: 0.95rem;
+  text-decoration-line: underline;
+  text-decoration-color: var(--rubrique);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+@media (min-width: 720px) {
+  .pager {
+    grid-template-columns: 1fr auto 1fr;
+    align-items: end;
+  }
+
+  .pagerNext {
+    text-align: end;
+  }
+}

@@ -1,0 +1,1805 @@
+{
+ "schema": 1,
+ "generatedBy": "agent-07",
+ "items": [
+  {
+   "id": "port-real",
+   "name": {
+    "fr": "Port-Réal",
+    "en": "King's Landing",
+    "hv": "Dāro Vilinion"
+   },
+   "hvStatus": "atteste",
+   "kind": "cite",
+   "region": {
+    "fr": "terres de la Couronne",
+    "en": "the Crownlands"
+   },
+   "coord": [
+    464,
+    740.5
+   ],
+   "description": {
+    "fr": "La ville naît du camp d'Aegon : un fort de bois et de terre dressé en 2 av. C. sur la plus haute des trois collines qui dominent l'embouchure de la Néra. En quelques décennies, le camp devient une capitale et, avec le temps, la plus grande ville du royaume, serrée derrière ses murailles entre la colline d'Aegon, où s'élève le Donjon Rouge, celle de Visenya et celle de Rhaenys. Le Donjon Rouge, commencé sous Aegon Ier, est achevé sous Maegor. La ville est sale, surpeuplée, prompte à l'émeute, et c'est là que se trouve le Trône de Fer.",
+    "en": "The city grew out of Aegon's camp: a fort of timber and earth raised in 2 BC on the highest of the three hills above the mouth of the Blackwater Rush. Within a few decades the camp had become a capital and, in time, the largest city in the realm, packed behind its walls between Aegon's High Hill, crowned by the Red Keep, Visenya's Hill and the Hill of Rhaenys. The Red Keep, begun under Aegon I, was finished under Maegor. The city is foul, crowded and quick to riot, and it holds the Iron Throne."
+   },
+   "role": {
+    "fr": "Port-Réal est la création propre des Targaryen, sans passé avant eux. Ils y gouvernent, s'y déchirent pendant la Danse, y voient mourir leurs derniers dragons. La dynastie y finit en 283, quand l'armée de l'Ouest met la ville à sac et qu'Aerys II est tué au pied du trône.",
+    "en": "King's Landing is the Targaryens' own creation, with no history before them. Here they governed, here they tore one another apart during the Dance, and here their last dragons died. The dynasty ended in the city in 283, when the westermen sacked it and Aerys II was killed at the foot of the throne."
+   },
+   "eventIds": [
+    "p3-debarquement",
+    "p3-trone-de-fer",
+    "p4-mort-aegon",
+    "p4-soulevement-foi",
+    "p4-maegor-roi",
+    "p4-mort-maegor",
+    "p4-jaehaerys-alysanne",
+    "p4-aerea-balerion",
+    "p4-mort-aemon",
+    "p4-mort-balerion",
+    "p4-avenement-viserys",
+    "p5-rhaenyra-heritiere",
+    "p5-alicent",
+    "p5-verts-noirs",
+    "p5-mariage-laenor",
+    "p5-mort-viserys",
+    "p5-deux-couronnements",
+    "p5-sang-et-fromage",
+    "p5-chute-port-real",
+    "p5-fossedragon",
+    "p5-trois-rois",
+    "p5-mort-aegon-ii",
+    "p5-heure-du-loup",
+    "p5-dernier-dragon",
+    "tv-p5-rhaenyra-alicent",
+    "p6-regence",
+    "p6-baelor",
+    "p6-viserys-ii",
+    "p6-aegon-iv",
+    "p6-union-dorne",
+    "p6-cendregue-209",
+    "p6-grand-conseil-233",
+    "p6-duncan-jenny",
+    "p7-avenement-aerys",
+    "p7-rhaegar-elia",
+    "p7-stark-executes",
+    "p7-sac"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "fab",
+     "locator": "The Sons of the Dragon"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Fall of the Dragons: The End"
+    }
+   ]
+  },
+  {
+   "id": "fossedragon",
+   "name": {
+    "fr": "Fossedragon",
+    "en": "the Dragonpit"
+   },
+   "kind": "ruine",
+   "region": {
+    "fr": "terres de la Couronne, Port-Réal",
+    "en": "the Crownlands, King's Landing"
+   },
+   "coord": [
+    467.5,
+    737.5
+   ],
+   "description": {
+    "fr": "Vaste édifice à coupole au sommet de la colline de Rhaenys, à Port-Réal. Il s'élève sur les ruines du septuaire du Souvenir, que Maegor avait fait incendier par Balerion en 42 avec les Fils du Guerrier retranchés à l'intérieur. Maegor en ordonne la construction en 45 ; les travaux ne s'achèvent qu'en 55, sous Jaehaerys Ier, qui confie les dragons de la Maison à un ordre de gardiens créé pour eux. On y tient aussi des cérémonies : Aegon II y est couronné en 129. La coupole s'effondre lors de l'émeute de 130. À la fin du troisième siècle, il n'en reste que des murs noircis et des portes de bronze condamnées.",
+    "en": "A vast domed building on top of the Hill of Rhaenys in King's Landing. It stands on the ruins of the Sept of Remembrance, which Maegor had Balerion burn in 42 with the Warrior's Sons barricaded inside. Maegor ordered it built in 45; the work was finished only in 55, under Jaehaerys I, who gave the dragons of the House into the charge of an order of keepers founded for the purpose. Ceremonies were held here too: Aegon II was crowned in it in 129. The dome collapsed during the riot of 130. By the end of the third century only blackened walls and sealed bronze doors remain."
+   },
+   "role": {
+    "fr": "La dynastie y enferme sa force, et c'est là qu'elle la perd. En 130, une foule soulevée par un prédicateur force les portes et tue les quatre dragons qui s'y trouvent enchaînés : Shrykos, Morghul, Tyraxes et Dreamfyre. Syrax meurt la même nuit, au-dehors. Les dragons nés ensuite sont plus petits à chaque génération, et certains mestres mettent en cause la captivité. Le dernier meurt en 153.",
+    "en": "The dynasty locked its strength in here, and here it lost it. In 130 a mob roused by a preacher forced the doors and killed the four dragons chained inside: Shrykos, Morghul, Tyraxes and Dreamfyre. Syrax died the same night, outside. The dragons hatched afterwards were smaller with each generation, and some maesters blamed captivity. The last one died in 153."
+   },
+   "eventIds": [
+    "p5-deux-couronnements",
+    "p5-fossedragon",
+    "tv-p5-rhaenys-fossedragon"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "The Sons of the Dragon"
+    },
+    {
+     "id": "fab",
+     "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+    },
+    {
+     "id": "fab",
+     "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+    },
+    {
+     "id": "acok"
+    }
+   ]
+  },
+  {
+   "id": "peyredragon",
+   "name": {
+    "fr": "Peyredragon",
+    "en": "Dragonstone",
+    "hv": "Zaldrīzdōron"
+   },
+   "hvStatus": "atteste",
+   "kind": "ile",
+   "region": {
+    "fr": "mer Étroite, baie de la Néra",
+    "en": "the Narrow Sea, Blackwater Bay"
+   },
+   "coord": [
+    606.5,
+    698.5
+   ],
+   "description": {
+    "fr": "Île volcanique à l'entrée de la baie de la Néra, dominée par le Montdragon, qui fume encore. Les Valyriens s'y établissent environ deux siècles avant le Fléau et y élèvent une citadelle dont les tours, les portes et les cuisines ont la forme de dragons, par un art de la pierre perdu depuis. C'est le poste le plus occidental que les Possessions aient tenu. L'île est pauvre : un village de pêcheurs, de l'obsidienne, peu de terres. On y conserve la Table peinte, la carte de Westeros qu'Aegon fit tailler avant la Conquête.",
+    "en": "A volcanic island at the mouth of Blackwater Bay, beneath the still-smoking Dragonmont. The Valyrians settled it some two centuries before the Doom and raised a citadel whose towers, gates and kitchens take the shapes of dragons, worked by an art of stone since lost. It was the westernmost outpost the Freehold ever held. The island is poor: a fishing village, obsidian, little arable land. It keeps the Painted Table, the map of Westeros that Aegon had carved before the Conquest."
+   },
+   "role": {
+    "fr": "Aenar Targaryen s'y installe en 114 av. C., douze ans avant le Fléau, avec cinq dragons : la Maison lui doit sa survie. Pendant un siècle, l'île est tout son domaine. Aegon y naît et y meurt ; elle devient ensuite le fief des héritiers. Rhaenyra y est couronnée, puis tuée. Daenerys y voit le jour pendant une tempête, vers 284.",
+    "en": "Aenar Targaryen settled here in 114 BC, twelve years before the Doom, with five dragons: the House owes its survival to that move. For a century the island was its whole domain. Aegon was born and died here, and it later became the seat of the heirs. Rhaenyra was crowned here, then killed. Daenerys was born here during a storm, around 284."
+   },
+   "eventIds": [
+    "p1-peyredragon-avant-poste",
+    "p2-reve-daenys",
+    "p2-signes-et-presages",
+    "p2-gaemon-et-successeurs",
+    "p2-dragons-de-peyredragon",
+    "p2-naissance-aegon",
+    "p2-double-mariage",
+    "p2-table-peinte",
+    "p2-offre-argilac",
+    "p3-proclamation",
+    "p4-mort-aegon",
+    "p4-soulevement-foi",
+    "p4-maegor-roi",
+    "p4-jaehaerys-alysanne",
+    "p4-aerea-balerion",
+    "p5-printemps-rouge",
+    "p5-deux-couronnements",
+    "p5-semailles",
+    "p5-gosier",
+    "p5-peyredragon-reprise",
+    "p5-mort-rhaenyra",
+    "p5-bilan-dragons",
+    "p7-rhaegar-elia",
+    "p7-naissance-daenerys"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Reign of the Dragons: The Conquest"
+    },
+    {
+     "id": "acok",
+     "locator": "Prologue"
+    }
+   ]
+  },
+  {
+   "id": "lamarck",
+   "name": {
+    "fr": "Lamarck",
+    "en": "Driftmark"
+   },
+   "kind": "ile",
+   "region": {
+    "fr": "mer Étroite, baie de la Néra",
+    "en": "the Narrow Sea, Blackwater Bay"
+   },
+   "coord": [
+    575,
+    705
+   ],
+   "description": {
+    "fr": "Île de la baie de la Néra, à l'ouest de Peyredragon. C'est le domaine des Velaryon, maison de sang valyrien établie dans la mer Étroite avant même les Targaryen ; elle ne comptait pas parmi les seigneurs dragons, et sa puissance est navale. Leur vieux château garde un trône de bois flotté que la légende dit offert par le roi Triton. Corlys Velaryon, le Serpent de mer, enrichi par neuf voyages lointains, fait bâtir un château neuf et prospérer les ports de l'île, dont la Carène. La flotte de la Triarchie en ravage une partie pendant la bataille du Gosier, en 130.",
+    "en": "An island in Blackwater Bay, west of Dragonstone. It is the domain of the Velaryons, a house of Valyrian blood settled in the narrow sea even before the Targaryens; they were never dragonlords, and their power lay in ships. Their old castle keeps a driftwood throne that legend says was a gift of the Merling King. Corlys Velaryon, the Sea Snake, made rich by nine great voyages, built a new castle and made the island's ports thrive, Hull among them. The Triarchy's fleet laid part of it waste during the Battle of the Gullet, in 130."
+   },
+   "role": {
+    "fr": "Les Velaryon sont les alliés les plus anciens de la Maison : ils lui donnent des épouses, des amiraux et sa flotte. Valaena Velaryon est la mère du Conquérant. En 114, Rhaenyra épouse Laenor, et ses fils portent le nom de Velaryon. Pendant la Danse, la flotte de Corlys fait la force des noirs, et Addam de la Carène, bâtard de l'île, monte Seasmoke.",
+    "en": "The Velaryons are the House's oldest allies: they gave it wives, admirals and its fleet. Valaena Velaryon was the Conqueror's mother. In 114 Rhaenyra married Laenor, and her sons bore the Velaryon name. During the Dance Corlys's fleet was the strength of the blacks, and Addam of Hull, a bastard of the island, rode Seasmoke."
+   },
+   "eventIds": [
+    "p5-mariage-laenor",
+    "p5-printemps-rouge",
+    "p5-gosier",
+    "tv-p5-laenor"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+     "id": "fab",
+     "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    }
+   ]
+  },
+  {
+   "id": "le-gosier",
+   "name": {
+    "fr": "le Gosier",
+    "en": "the Gullet"
+   },
+   "kind": "region",
+   "region": {
+    "fr": "mer Étroite, baie de la Néra",
+    "en": "the Narrow Sea, Blackwater Bay"
+   },
+   "coord": [
+    572.5,
+    721
+   ],
+   "description": {
+    "fr": "Chenal qui ferme la baie de la Néra, entre Lamarck et Peyredragon au nord et le Bec de Massey au sud. Tout navire à destination de Port-Réal doit y passer. Avant la Conquête, les Targaryen et les Velaryon ont tiré leur richesse du contrôle de ce passage, et une flotte qui s'y poste suffit à couper la capitale de la mer. La bataille qui s'y livre le cinquième jour de l'an 130 coûte aux Velaryon près du tiers de leurs navires et à la Triarchie soixante-deux des quatre-vingt-dix siens ; un autre ouvrage la range parmi les combats de 129.",
+    "en": "The channel that closes Blackwater Bay, between Driftmark and Dragonstone to the north and Massey's Hook to the south. Every ship bound for King's Landing must pass through it. Before the Conquest the Targaryens and the Velaryons grew rich on their control of the passage, and a fleet posted here is enough to cut the capital off from the sea. The battle fought here on the fifth day of 130 cost the Velaryons almost a third of their ships and the Triarchy sixty-two of its ninety; another book lists it among the fights of 129."
+   },
+   "role": {
+    "fr": "Au début de 130, une flotte de la Triarchie, alliée aux verts, tente de briser le blocus des Velaryon. En route, elle prend le navire qui emportait vers Pentos les deux plus jeunes fils de Rhaenyra : Aegon s'enfuit sur Stormcloud, qui meurt de ses blessures ; Viserys est capturé et finit à Lys. Jacaerys, l'héritier, tombe avec Vermax parmi les navires. Le blocus tient et la Triarchie ne reparaît plus dans la guerre, mais une partie de Lamarck est mise à sac. Rhaenyra y perd un fils et en croit deux morts.",
+    "en": "Early in 130 a fleet of the Triarchy, allied with the greens, tried to break the Velaryon blockade. On its way it took the ship carrying Rhaenyra's two youngest sons to Pentos: Aegon escaped on Stormcloud, who died of his wounds; Viserys was captured and ended up in Lys. Jacaerys, the heir, went down with Vermax among the ships. The blockade held and the Triarchy took no further part in the war, but part of Driftmark was sacked. Rhaenyra lost one son here and believed she had lost two."
+   },
+   "eventIds": [
+    "p5-gosier"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    },
+    {
+     "id": "tpatq"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Aegon II"
+    }
+   ]
+  },
+  {
+   "id": "blackwater",
+   "name": {
+    "fr": "baie de la Néra",
+    "en": "Blackwater Bay"
+   },
+   "kind": "region",
+   "region": {
+    "fr": "terres de la Couronne",
+    "en": "the Crownlands"
+   },
+   "coord": [
+    520,
+    744
+   ],
+   "description": {
+    "fr": "Grande baie de la côte est, entre la presqu'île de Claquepince au nord et le Bec de Massey au sud. La Néra s'y jette à Port-Réal ; Peyredragon et Lamarck en gardent l'entrée, et le chenal qui sépare ces îles du Bec s'appelle le Gosier. Qui tient les deux îles tient donc le commerce de la capitale. Avant la Conquête, ces rivages, que se disputaient les rois de l'Orage, ceux des Îles et du Conflans et de petits rois locaux, n'appartenaient vraiment à personne.",
+    "en": "A broad bay on the east coast, between Crackclaw Point to the north and Massey's Hook to the south. The Blackwater Rush enters it at King's Landing; Dragonstone and Driftmark guard its mouth, and the channel between those islands and the Hook is called the Gullet. Whoever holds the two islands therefore holds the capital's trade. Before the Conquest these shores, contested by the Storm Kings, the Kings of the Isles and the Rivers and lesser local kings, truly belonged to no one."
+   },
+   "role": {
+    "fr": "Pendant un siècle, la baie sépare les Targaryen de Westeros ; en 2 av. C., Aegon la traverse et débarque à l'embouchure de la Néra. Elle devient le cœur de leur domaine propre, les terres de la Couronne. Pendant la Danse, la flotte Velaryon en ferme l'entrée pour couper Port-Réal de son commerce, et la bataille du Gosier ne parvient pas à l'en déloger.",
+    "en": "For a century the bay lay between the Targaryens and Westeros; in 2 BC Aegon crossed it and landed at the mouth of the Blackwater Rush. It became the heart of their own domain, the crownlands. During the Dance the Velaryon fleet closed its mouth to cut King's Landing off from its trade, and the Battle of the Gullet failed to dislodge it."
+   },
+   "eventIds": [
+    "p3-debarquement",
+    "p5-gosier"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "fab",
+     "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    }
+   ]
+  },
+  {
+   "id": "repos-du-freux",
+   "name": {
+    "fr": "Repos-des-Freux",
+    "en": "Rook's Rest"
+   },
+   "kind": "forteresse",
+   "region": {
+    "fr": "terres de la Couronne",
+    "en": "the Crownlands"
+   },
+   "coord": [
+    534,
+    685.5
+   ],
+   "description": {
+    "fr": "Petit château de la maison Staunton, sur la rive nord de la baie de la Néra, au pied de la presqu'île de Claquepince. Rien ne le distingue des autres places des terres de la Couronne, sinon sa position : à portée de vol de Peyredragon et sur la route qui longe la baie vers Sombreval et Port-Réal. En 129, lord Staunton tient pour Rhaenyra. Quand ser Criston Cole vient l'assiéger, il envoie un corbeau à Peyredragon pour demander du secours.",
+    "en": "A small castle of House Staunton on the north shore of Blackwater Bay, at the foot of Crackclaw Point. Nothing sets it apart from the other holdfasts of the crownlands except its position: within a dragon's flight of Dragonstone and on the road that follows the bay towards Duskendale and King's Landing. In 129 Lord Staunton held for Rhaenyra. When Ser Criston Cole came to besiege him, he sent a raven to Dragonstone asking for help."
+   },
+   "role": {
+    "fr": "Le siège est un piège. Rhaenys, « la reine qui ne le fut jamais », arrive sur Meleys ; Aegon II sur Sunfyre et Aemond sur Vhagar fondent sur elle. Elle meurt avec son dragon. Mais Sunfyre est estropié et le roi, brûlé, reste des mois hors d'état de régner. C'est la première bataille de la Danse où des dragons se combattent au-dessus d'une armée.",
+    "en": "The siege was a trap. Rhaenys, “the Queen Who Never Was”, came on Meleys; Aegon II on Sunfyre and Aemond on Vhagar fell upon her. She died with her dragon. But Sunfyre was crippled and the king, burned, was unfit to rule for months. It was the first battle of the Dance in which dragons fought one another above an army."
+   },
+   "eventIds": [
+    "p5-repos-des-freux"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    },
+    {
+     "id": "tpatq"
+    }
+   ]
+  },
+  {
+   "id": "sombreval",
+   "name": {
+    "fr": "Sombreval",
+    "en": "Duskendale"
+   },
+   "kind": "cite",
+   "region": {
+    "fr": "terres de la Couronne",
+    "en": "the Crownlands"
+   },
+   "coord": [
+    490.5,
+    714
+   ],
+   "description": {
+    "fr": "Port des terres de la Couronne, sur la baie de la Néra, au nord de Port-Réal. Avant la Conquête, c'était la ville principale de ces rivages, et ses seigneurs, les Darklyn, y avaient régné en petits rois. La croissance de la capitale la ruine peu à peu : le commerce passe à Port-Réal. En 277, lord Denys Darklyn, qui réclamait une charte et des franchises pour sa ville, retient le roi prisonnier. La maison est exterminée, et la ville passe aux Rykker.",
+    "en": "A port of the crownlands on Blackwater Bay, north of King's Landing. Before the Conquest it was the chief town of these shores, and its lords, the Darklyns, had ruled there as petty kings. The growth of the capital slowly ruined it: trade went to King's Landing. In 277 Lord Denys Darklyn, who wanted a charter and privileges for his town, held the king prisoner. The house was wiped out, and the town passed to the Rykkers."
+   },
+   "role": {
+    "fr": "Les six mois de captivité d'Aerys II à Sombreval marquent le tournant de son règne. Délivré par ser Barristan Selmy, le roi en sort convaincu d'être entouré de traîtres, à commencer par sa Main, Tywin Lannister, qu'il soupçonne d'avoir souhaité sa mort. Il ne quitte plus le Donjon Rouge pendant quatre ans, et sa cruauté ne cesse de croître.",
+    "en": "The six months Aerys II spent captive in Duskendale were the turning point of his reign. Freed by Ser Barristan Selmy, the king came out convinced that he was surrounded by traitors, beginning with his Hand, Tywin Lannister, whom he suspected of having wished him dead. He did not leave the Red Keep for four years, and his cruelty kept growing."
+   },
+   "eventIds": [
+    "p7-sombreval"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Aerys II"
+    }
+   ]
+  },
+  {
+   "id": "herberouge",
+   "name": {
+    "fr": "Champ d'Herberouge",
+    "en": "the Redgrass Field"
+   },
+   "kind": "champ-de-bataille",
+   "region": {
+    "fr": "près de Port-Réal, sans localisation précise dans les sources",
+    "en": "near King's Landing, not precisely located by the sources"
+   },
+   "coord": [
+    440,
+    722
+   ],
+   "description": {
+    "fr": "Le champ où s'achève, en 196, la première rébellion Feunoyr. Il doit son nom au sang versé ce jour-là : on a dit que l'herbe en était restée rouge. Les textes parus ne le situent pas ; ils laissent seulement entendre qu'une victoire aurait ouvert à Daemon Feunoyr la route de Port-Réal. Le point porté sur la carte, près de la capitale, est donc une convention et non une localisation. On sait que l'armée de Daemon y affronte celle du roi Daeron II, et que des renforts venus des terres de l'Orage et de Dorne, menés par le prince Baelor, la prennent à revers.",
+    "en": "The field where the first Blackfyre Rebellion ended in 196. It takes its name from the blood shed that day: the grass was said to have stayed red. The published texts do not locate it; they only suggest that a victory would have opened the road to King's Landing for Daemon Blackfyre. The point marked on the map, near the capital, is therefore a convention and not a location. What is known is that Daemon's host met King Daeron II's army there, and that reinforcements from the stormlands and Dorne, led by Prince Baelor, took it in the rear."
+   },
+   "role": {
+    "fr": "C'est la bataille où la Maison manque de changer de branche. Daemon Feunoyr, bâtard légitimé d'Aegon IV et porteur de l'épée des rois, est près de l'emporter quand les archers de Freuxsanglant l'abattent avec ses deux fils aînés. Les survivants s'exilent derrière Aigracier. Quatre autres rébellions suivront, la dernière en 260.",
+    "en": "This is the battle in which the House nearly changed branches. Daemon Blackfyre, a legitimised bastard of Aegon IV and bearer of the sword of kings, was close to winning when Bloodraven's archers shot him down with his two eldest sons. The survivors went into exile behind Bittersteel. Four more rebellions followed, the last in 260."
+   },
+   "eventIds": [
+    "p6-herberouge"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "tss"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Daeron II"
+    }
+   ]
+  },
+  {
+   "id": "champ-de-feu",
+   "name": {
+    "fr": "Champ de Feu",
+    "en": "the Field of Fire"
+   },
+   "kind": "champ-de-bataille",
+   "region": {
+    "fr": "le Bief, au sud de la Néra",
+    "en": "the Reach, south of the Blackwater Rush"
+   },
+   "coord": [
+    372,
+    752
+   ],
+   "description": {
+    "fr": "Une plaine ouverte au sud de la Néra, près de l'endroit où passera plus tard la route de l'Or. Les ouvrages ne la situent pas plus précisément, et le point porté sur la carte est une approximation. C'est là que Mern IX du Bief et Loren Lannister du Roc, à la tête de quelque cinquante-cinq mille hommes, rencontrent l'armée d'Aegon, cinq fois moins nombreuse. Leurs chevaliers commencent à enfoncer les lignes ; puis les trois dragons mettent le feu au champ desséché, au vent de l'ennemi. Environ quatre mille hommes brûlent, et la maison Jardinier s'éteint avec son roi.",
+    "en": "An open plain south of the Blackwater Rush, near where the goldroad would later run. The books place it no more exactly, and the point marked on the map is an approximation. Here Mern IX of the Reach and Loren Lannister of the Rock, leading some fifty-five thousand men, met Aegon's host, a fifth their number. Their knights had begun to break the lines when the three dragons set the dry field alight, upwind of the enemy. About four thousand men burned, and House Gardener ended with its king."
+   },
+   "role": {
+    "fr": "C'est la seule bataille où Aegon, Visenya et Rhaenys engagent ensemble Balerion, Vhagar et Meraxes. Elle donne d'un coup aux Targaryen le Bief et l'Ouest : Loren Lannister plie le genou, Hautjardin est livré par son intendant. Le roi du Nord, venu ensuite jusqu'au Trident, renonce à livrer bataille.",
+    "en": "It is the only battle in which Aegon, Visenya and Rhaenys flew Balerion, Vhagar and Meraxes together. It gave the Targaryens the Reach and the West at a stroke: Loren Lannister bent the knee, and Highgarden was yielded by its steward. The King in the North, who afterwards marched as far as the Trident, chose not to give battle."
+   },
+   "eventIds": [
+    "p3-champ-de-feu"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Reign of the Dragons: The Conquest"
+    }
+   ]
+  },
+  {
+   "id": "harrenhal",
+   "name": {
+    "fr": "Harrenhal",
+    "en": "Harrenhal"
+   },
+   "kind": "forteresse",
+   "region": {
+    "fr": "le Conflans",
+    "en": "the Riverlands"
+   },
+   "coord": [
+    417,
+    658
+   ],
+   "description": {
+    "fr": "La plus grande forteresse de Westeros, sur la rive nord de l'Œildieu. Harren le Noir, roi des Îles et du Conflans, y consacre quarante ans et les ressources de deux royaumes : cinq tours démesurées derrière des murailles d'une épaisseur sans exemple. Il s'y installe le jour même où Aegon prend pied à l'embouchure de la Néra. Balerion l'embrase peu après, et la pierre de ses tours, fondue par le feu, en est restée déformée. Trop vaste pour être tenue ou entretenue, elle passe pour maudite : les maisons qui la reçoivent s'éteignent l'une après l'autre.",
+    "en": "The largest castle in Westeros, on the northern shore of the Gods Eye. Harren the Black, King of the Isles and the Rivers, spent forty years and the wealth of two kingdoms on it: five monstrous towers behind walls of unmatched thickness. He took up residence on the very day Aegon came ashore at the mouth of the Blackwater Rush. Balerion set it alight soon after, and the stone of its towers, melted by the fire, has stayed misshapen ever since. Too vast to garrison or repair, it is held to be cursed: the houses that receive it die out one after another."
+   },
+   "role": {
+    "fr": "Harrenhal montre ce qu'un dragon fait d'une muraille, et les rois qui restent à soumettre le savent. Les Targaryen s'en servent ensuite comme d'un lieu d'assemblée : le Grand Conseil de 101 y écarte la lignée féminine. Daemon en fait sa base en 129. Le tournoi de 281, où Rhaegar couronne Lyanna Stark, prépare la chute.",
+    "en": "Harrenhal showed what a dragon does to a wall, and the kings still to be subdued took note. The Targaryens later used it as a meeting ground: the Great Council of 101 set the female line aside there. Daemon made it his base in 129. The tourney of 281, where Rhaegar crowned Lyanna Stark, opened the road to the fall."
+   },
+   "eventIds": [
+    "p3-harrenhal",
+    "p4-grand-conseil-101",
+    "p5-printemps-rouge",
+    "p5-harrenhal-conflans",
+    "p5-conflans-130",
+    "p5-oeildieu",
+    "p7-harrenhal-281"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "fab",
+     "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Fall of the Dragons: The Year of the False Spring"
+    }
+   ]
+  },
+  {
+   "id": "oeildieu",
+   "name": {
+    "fr": "l'Œildieu",
+    "en": "the Gods Eye"
+   },
+   "kind": "region",
+   "region": {
+    "fr": "le Conflans",
+    "en": "the Riverlands"
+   },
+   "coord": [
+    426,
+    678.5
+   ],
+   "description": {
+    "fr": "Le plus grand lac du Conflans, au sud de Harrenhal. En son centre se trouve l'Île-aux-Faces, où les Premiers Hommes et les enfants de la forêt auraient conclu leur Pacte, et où chaque barral aurait alors reçu un visage sculpté. Un ordre d'hommes verts garderait encore l'île, que presque personne ne visite. Une rivière en sort vers le sud et rejoint la Néra. Ses rives, entre la capitale et le Trident, sont un passage ordinaire des armées qui traversent le Conflans.",
+    "en": "The largest lake in the riverlands, south of Harrenhal. At its centre lies the Isle of Faces, where the First Men and the children of the forest are said to have made their Pact, and where every weirwood was then given a carved face. An order of green men is said to guard the isle still, and almost no one visits it. A river leaves the lake to the south and joins the Blackwater Rush. Its shores, between the capital and the Trident, are a common road for armies crossing the riverlands."
+   },
+   "role": {
+    "fr": "Deux fois des Targaryen se sont entretués au-dessus ou auprès de ce lac. En 43, Maegor sur Balerion y abat son neveu Aegon et le dragon Quicksilver. En 130, Daemon sur Caraxes y défie Aemond sur Vhagar : les deux dragons tombent ensemble dans le lac, les deux princes meurent, et le corps de Daemon n'est jamais retrouvé. La même année, l'armée de l'Ouest est détruite sur la rive.",
+    "en": "Twice Targaryens have killed one another above or beside this lake. In 43 Maegor on Balerion brought down his nephew Aegon and the dragon Quicksilver. In 130 Daemon on Caraxes challenged Aemond on Vhagar: both dragons fell into the lake together, both princes died, and Daemon's body was never found. That same year the western host was destroyed on the shore."
+   },
+   "eventIds": [
+    "p4-sous-oeildieu",
+    "p5-conflans-130",
+    "p5-oeildieu"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "The Sons of the Dragon"
+    },
+    {
+     "id": "fab",
+     "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+    },
+    {
+     "id": "tpatq"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Riverlands"
+    }
+   ]
+  },
+  {
+   "id": "le-trident",
+   "name": {
+    "fr": "le Trident",
+    "en": "the Trident"
+   },
+   "kind": "region",
+   "region": {
+    "fr": "le Conflans",
+    "en": "the Riverlands"
+   },
+   "coord": [
+    426,
+    634
+   ],
+   "description": {
+    "fr": "Le grand fleuve du Conflans, formé de trois bras : la Verfurque, qui descend du Neck, la Bleufurque et la Ruffurque, venue des collines de l'Ouest. Ils se rejoignent en amont de Salins, puis le fleuve se jette dans la baie des Crabes. La route Royale le franchit à gué en aval du confluent. Ses vallées sont fertiles, ouvertes et sans défense naturelle, de sorte que les guerres du royaume y passent souvent. Le point porté sur la carte est le gué, qu'on appelle depuis 283 le gué des Rubis.",
+    "en": "The great river of the riverlands, made of three forks: the Green Fork, flowing down from the Neck, the Blue Fork, and the Red Fork, out of the western hills. They join upstream of Saltpans, and the river then empties into the Bay of Crabs. The kingsroad fords it below the confluence. Its valleys are fertile, open and without natural defences, so that the realm's wars often pass through them. The point marked on the map is the ford, known since 283 as the ruby ford."
+   },
+   "role": {
+    "fr": "Le fleuve borne la dynastie à ses deux extrémités. Vers 2 ou 1 av. C., Torrhen Stark dépose sa couronne sur sa rive sud, devant l'armée d'Aegon et les trois dragons : le Nord entre dans le royaume sans bataille. En 283, Robert Baratheon y tue le prince Rhaegar en combat singulier, et les rubis de l'armure se perdent dans le courant.",
+    "en": "The river marks the dynasty at both ends. Around 2 or 1 BC Torrhen Stark laid down his crown on its south bank, before Aegon's host and the three dragons: the North entered the realm without a battle. In 283 Robert Baratheon killed Prince Rhaegar here in single combat, and the rubies from his armour were lost in the current."
+   },
+   "eventIds": [
+    "p3-torrhen-stark",
+    "p7-trident"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "agot"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Fall of the Dragons: Robert's Rebellion"
+    }
+   ]
+  },
+  {
+   "id": "vivesaigues",
+   "name": {
+    "fr": "Vivesaigues",
+    "en": "Riverrun"
+   },
+   "kind": "forteresse",
+   "region": {
+    "fr": "le Conflans",
+    "en": "the Riverlands"
+   },
+   "coord": [
+    343.9,
+    627.2
+   ],
+   "description": {
+    "fr": "Château des Tully, bâti à la pointe où la Culbute rejoint la Ruffurque. Il est triangulaire : deux côtés donnent sur les rivières, et un fossé creusé sur le troisième permet, en ouvrant les vannes, d'en faire une île. Il est de taille modeste, mais difficile à investir, car il faut trois camps séparés par l'eau pour l'encercler. Avant la Conquête, les Tully n'étaient pas rois : le Conflans obéissait à Harren le Noir, venu des îles de Fer, qui le tenait par la crainte.",
+    "en": "The castle of the Tullys, built on the point where the Tumblestone meets the Red Fork. It is three-sided: two sides face the rivers, and a moat dug along the third lets the garrison open the sluices and turn it into an island. It is modest in size but hard to invest, since a besieger needs three camps divided by water to surround it. Before the Conquest the Tullys were no kings: the riverlands obeyed Harren the Black, from the Iron Islands, who ruled them by fear."
+   },
+   "role": {
+    "fr": "Edmyn Tully est le premier seigneur du Conflans à passer à Aegon contre Harren. Après l'incendie de Harrenhal, le roi lui donne la suzeraineté du Trident : les Tully doivent leur rang à la Conquête. Pendant la rébellion de Robert, les mariages conclus à Vivesaigues avec les Stark et les Arryn rangent la maison parmi ceux qui renversent Aerys II.",
+    "en": "Edmyn Tully was the first river lord to go over to Aegon against Harren. After Harrenhal burned, the king gave him dominion over the Trident: the Tullys owe their rank to the Conquest. During Robert's Rebellion the marriages made at Riverrun with the Starks and the Arryns placed the house among those who overthrew Aerys II."
+   },
+   "eventIds": [],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Riverlands"
+    },
+    {
+     "id": "asos"
+    }
+   ]
+  },
+  {
+   "id": "tumbleton",
+   "name": {
+    "fr": "Chutebourg",
+    "en": "Tumbleton"
+   },
+   "kind": "cite",
+   "region": {
+    "fr": "le Bief",
+    "en": "the Reach"
+   },
+   "coord": [
+    411.3,
+    784.8
+   ],
+   "description": {
+    "fr": "Bourg marchand prospère aux sources de la Mander, aux confins du Bief et des terres de la Couronne (Tumbleton dans le texte original). En 130, c'est la dernière place fidèle à Rhaenyra entre l'armée Hightower, qui remonte du sud, et la capitale. Deux batailles s'y livrent la même année. La première s'achève par un sac dont le bourg ne se relève pas vraiment : les chroniques parlent de milliers de morts, de femmes livrées aux soldats et d'une ville réduite en cendres.",
+    "en": "A prosperous market town at the headwaters of the Mander, where the Reach meets the crownlands. In 130 it was the last place loyal to Rhaenyra between the Hightower host, marching up from the south, and the capital. Two battles were fought there within the year. The first ended in a sack from which the town never truly recovered: the chronicles speak of thousands dead, of women given over to the soldiery and of a town reduced to ash."
+   },
+   "role": {
+    "fr": "Chutebourg est le lieu de la grande trahison de la Danse. À la première bataille, deux dragonniers recrutés parmi les « semences de dragon », Hugh le Marteau et Ulf le Blanc, se retournent contre Rhaenyra avec Vermithor et Silverwing. À la seconde, Seasmoke, Vermithor et Tessarion s'entretuent, et le prince Daeron meurt. Silverwing, sans cavalier, redevient sauvage.",
+    "en": "Tumbleton is where the great betrayal of the Dance took place. In the first battle two dragonseeds who had won mounts in the Sowing, Hugh Hammer and Ulf White, turned on Rhaenyra with Vermithor and Silverwing. In the second, Seasmoke, Vermithor and Tessarion killed one another, and Prince Daeron died. Silverwing, riderless, went wild."
+   },
+   "eventIds": [
+    "p5-tumbleton-1",
+    "p5-tumbleton-2"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+    },
+    {
+     "id": "fab",
+     "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+    },
+    {
+     "id": "tpatq"
+    }
+   ]
+  },
+  {
+   "id": "accalmie",
+   "name": {
+    "fr": "Accalmie",
+    "en": "Storm's End"
+   },
+   "kind": "forteresse",
+   "region": {
+    "fr": "terres de l'Orage",
+    "en": "the Stormlands"
+   },
+   "coord": [
+    517.5,
+    851
+   ],
+   "description": {
+    "fr": "Forteresse des rois de l'Orage, dressée sur un promontoire au-dessus de la baie des Naufrageurs : une seule tour ronde, énorme, derrière une enceinte lisse qui n'offre aucune prise au vent. La légende l'attribue au premier roi de l'Orage, Durran, à qui la mer et le vent auraient détruit six châteaux avant que le septième ne tienne. Ni siège ni assaut ne l'ont prise. En 2 ou 1 av. C., le roi Argilac préfère en sortir pour combattre et meurt en rase campagne, sous l'orage ; Orys Baratheon épouse sa fille et garde le château, les armes et la devise.",
+    "en": "The seat of the Storm Kings, set on a headland above Shipbreaker Bay: a single huge round tower behind a smooth curtain wall that gives the wind nothing to grip. Legend credits it to Durran, the first Storm King, who is said to have lost six castles to sea and wind before the seventh stood. It has never fallen to siege or storm. In 2 or 1 BC King Argilac chose to march out and fight, and died in the open field, in a storm; Orys Baratheon wed his daughter and kept the castle, the arms and the words."
+   },
+   "role": {
+    "fr": "Accalmie donne aux Targaryen leur plus proche alliée, la maison Baratheon, née d'un compagnon d'Aegon que la rumeur disait son demi-frère. Le lien se retourne deux fois : en 129, Lucerys Velaryon est tué au-dessus de la baie avec son dragon, premier prince perdu dans la Danse ; en 282, c'est le seigneur du lieu, Robert, qui se soulève et renverse la dynastie.",
+    "en": "Storm's End gave the Targaryens their closest ally, House Baratheon, founded by a companion of Aegon whom rumour called his half-brother. The bond turned against them twice: in 129 Lucerys Velaryon was killed above the bay with his dragon, the first prince lost in the Dance; in 282 it was the castle's own lord, Robert, who rose and brought the dynasty down."
+   },
+   "eventIds": [
+    "p2-offre-argilac",
+    "p3-derniere-tempete",
+    "p5-accalmie",
+    "p6-duncan-jenny",
+    "p7-premieres-batailles"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "fab",
+     "locator": "The Dying of the Dragons: A Son for a Son"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Stormlands: Storm's End"
+    }
+   ]
+  },
+  {
+   "id": "lestival",
+   "name": {
+    "fr": "Lestival",
+    "en": "Summerhall"
+   },
+   "kind": "ruine",
+   "region": {
+    "fr": "marches de Dorne",
+    "en": "the Dornish Marches"
+   },
+   "coord": [
+    425,
+    916
+   ],
+   "description": {
+    "fr": "Résidence d'été des Targaryen, bâtie par Daeron II là où se rejoignent le Bief, les terres de l'Orage et Dorne. Ce n'est pas une forteresse : un château léger, sans grande muraille, fait pour la saison chaude. Il donne son titre à une branche cadette, celle du prince Maekar. En 259, un incendie le détruit. Il n'en reste que des pierres noircies envahies par l'herbe, où Rhaegar, né le jour du désastre, revenait seul avec sa harpe, selon ser Barristan Selmy.",
+    "en": "The Targaryens' summer residence, built by Daeron II where the Reach, the stormlands and Dorne meet. It was no fortress: a light castle without strong walls, made for the warm season. It gave its title to a cadet branch, that of Prince Maekar. In 259 a fire destroyed it. Nothing remains but blackened stones overgrown with grass, where Rhaegar, born on the day of the disaster, used to return alone with his harp, according to Ser Barristan Selmy."
+   },
+   "role": {
+    "fr": "Lestival est le lieu d'un mystère que les ouvrages n'ont pas levé. Aegon V y réunit les siens en 259, apparemment pour faire éclore des œufs de dragon ; le feu tue le roi, son fils Duncan et le lord Commandant de sa garde. Le témoignage que citent les ouvrages est en grande partie couvert d'une tache d'encre. Vers 282, au début de sa rébellion, Robert Baratheon y gagne trois combats en un jour.",
+    "en": "Summerhall is the site of a mystery the books have not solved. Aegon V gathered his family here in 259, apparently to hatch dragon eggs; the fire killed the king, his son Duncan and the Lord Commander of his Kingsguard. The account the books quote is largely blotted out by spilled ink. Around 282, early in his rebellion, Robert Baratheon won three fights here in a single day."
+   },
+   "eventIds": [
+    "p6-lestival",
+    "p7-premieres-batailles"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Aegon V"
+    },
+    {
+     "id": "asos",
+     "locator": "Daenerys IV"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Fall of the Dragons: Robert's Rebellion"
+    }
+   ]
+  },
+  {
+   "id": "tour-de-la-joie",
+   "name": {
+    "fr": "tour de la Joie",
+    "en": "the Tower of Joy"
+   },
+   "kind": "ruine",
+   "region": {
+    "fr": "Dorne, montagnes Rouges",
+    "en": "Dorne, the Red Mountains"
+   },
+   "coord": [
+    388.4,
+    972
+   ],
+   "description": {
+    "fr": "Une tour ronde isolée dans le nord des montagnes Rouges, à l'entrée de la passe du Prince, entre les marches de Dorne et Dorne. Le nom lui vient, dit-on, du prince Rhaegar. Elle n'existe plus : après le combat de 283, Eddard Stark la fait abattre et se sert de ses pierres pour élever huit cairns sur la crête. Presque tout ce que l'on en sait vient d'un rêve fiévreux d'Eddard, que l'auteur lui-même invite à ne pas lire comme un récit exact.",
+    "en": "A lone round tower in the northern Red Mountains, at the mouth of the Prince's Pass, between the Dornish Marches and Dorne. Its name is said to come from Prince Rhaegar. It no longer stands: after the fight of 283 Eddard Stark had it pulled down and used its stones to raise eight cairns on the ridge. Almost all that is known of it comes from a fever dream of Eddard's, which the author himself warns should not be read as an exact account."
+   },
+   "role": {
+    "fr": "Trois chevaliers de la Garde Royale tiennent la tour alors que leur roi et leur prince sont déjà morts. Ils y affrontent Eddard Stark et six compagnons ; seuls Eddard et Howland Reed en réchappent. Dans les souvenirs d'Eddard, ce combat est lié à la mort de sa sœur Lyanna et à la promesse qu'elle lui arrache. Les livres parus ne disent ni ce que gardaient ces chevaliers, ni ce qui fut promis.",
+    "en": "Three knights of the Kingsguard held the tower when their king and their prince were already dead. There they fought Eddard Stark and six companions; only Eddard and Howland Reed came away alive. In Eddard's memories the fight is bound up with the death of his sister Lyanna and the promise she drew from him. The published books do not say what those knights were guarding, nor what was promised."
+   },
+   "eventIds": [
+    "p7-tour-de-la-joie"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "agot",
+     "locator": "Eddard X"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Fall of the Dragons: Robert's Rebellion"
+    }
+   ]
+  },
+  {
+   "id": "hautjardin",
+   "name": {
+    "fr": "Hautjardin",
+    "en": "Highgarden"
+   },
+   "kind": "forteresse",
+   "region": {
+    "fr": "le Bief",
+    "en": "the Reach"
+   },
+   "coord": [
+    306.3,
+    890
+   ],
+   "description": {
+    "fr": "Siège des rois Jardinier, puis des Tyrell, sur une colline au-dessus de la Mander. Trois enceintes de pierre blanche s'y étagent, la plus basse séparée de la suivante par un labyrinthe de ronces ; au sommet, des tours fines, des jardins, des fontaines et des bosquets. Le château est au centre du Bief, le plus peuplé et le plus fertile des royaumes. Les Jardinier disaient descendre de Garth Mainverte, premier roi légendaire du pays.",
+    "en": "The seat of the Gardener kings and then of the Tyrells, on a hill above the Mander. Three rings of white stone climb the slope, the lowest parted from the next by a briar maze; at the top stand slender towers, gardens, fountains and groves. It stands at the heart of the Reach, the most populous and fertile of the kingdoms. The Gardeners claimed descent from Garth Greenhand, the legendary first king of the land."
+   },
+   "role": {
+    "fr": "Le Champ de Feu éteint d'un coup la lignée des Jardinier. L'intendant du château, Harlan Tyrell, le remet à Aegon et reçoit en échange Hautjardin et la suzeraineté du Bief. Les Tyrell doivent donc tout aux Targaryen : en 283 encore, ils combattent pour eux, et leur armée assiège Accalmie pendant que la dynastie tombe.",
+    "en": "The Field of Fire ended the Gardener line at a stroke. The castle's steward, Harlan Tyrell, yielded it to Aegon and received in return Highgarden and dominion over the Reach. The Tyrells therefore owed everything to the Targaryens: in 283 they were still fighting for them, and their host was besieging Storm's End while the dynasty fell."
+   },
+   "eventIds": [
+    "p3-champ-de-feu"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Reach: Highgarden"
+    }
+   ]
+  },
+  {
+   "id": "cendregue",
+   "name": {
+    "fr": "Cendregué",
+    "en": "Ashford"
+   },
+   "kind": "cite",
+   "region": {
+    "fr": "le Bief",
+    "en": "the Reach"
+   },
+   "coord": [
+    381.9,
+    892
+   ],
+   "description": {
+    "fr": "Bourg et château du Bief, tenus par la maison du même nom, sur un affluent de la Mander. Le pré qui s'étend sous ses murs accueille en 209 un tournoi resté fameux grâce au récit d'un chevalier errant, ser Duncan le Grand. La place est modeste, à l'écart des grandes routes. Elle revient dans les chroniques vers 282, quand l'avant-garde du Bief y repousse Robert Baratheon, seule défaite qu'il subisse pendant sa rébellion.",
+    "en": "A town and castle of House Ashford in the Reach, on the Cockleswhent, a tributary of the Mander. The meadow beneath its walls hosted in 209 a tourney made famous by the tale of a hedge knight, Ser Duncan the Tall. The place is modest and off the great roads. It returns to the chronicles around 282, when the vanguard of the Reach threw back Robert Baratheon there, the only defeat he suffered during his rebellion."
+   },
+   "role": {
+    "fr": "Le tournoi de 209 coûte à la Maison l'héritier du trône. Le prince Baelor Briselance, Main du roi, prend le parti d'un chevalier errant dans un duel judiciaire à sept et meurt d'un coup de masse porté par son frère Maekar. La couronne passera à la branche de Maekar, et le jeune prince Aegon, futur Aegon V, y devient l'écuyer de ser Duncan.",
+    "en": "The tourney of 209 cost the House the heir to the throne. Prince Baelor Breakspear, Hand of the King, took a hedge knight's side in a trial of seven and died of a mace blow struck by his brother Maekar. The crown would pass to Maekar's branch, and the young Prince Aegon, the future Aegon V, became Ser Duncan's squire here."
+   },
+   "eventIds": [
+    "p6-cendregue-209",
+    "p7-premieres-batailles"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "thk"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Fall of the Dragons: Robert's Rebellion"
+    }
+   ]
+  },
+  {
+   "id": "villevieille",
+   "name": {
+    "fr": "Villevieille",
+    "en": "Oldtown"
+   },
+   "kind": "cite",
+   "region": {
+    "fr": "le Bief",
+    "en": "the Reach"
+   },
+   "coord": [
+    270.9,
+    1050.4
+   ],
+   "description": {
+    "fr": "La plus ancienne cité de Westeros, à l'embouchure de l'Hydromel, sur le Murmure. La Grand-Tour des Hightower y porte un fanal visible de très loin en mer. La ville abrite la Citadelle, où se forment les mestres, et le Septuaire étoilé, siège de la Foi jusqu'à la construction du Grand Septuaire de Port-Réal. Les mestres y gardent quatre chandelles d'obsidienne venues de Valyria, dit-on, mille ans avant le Fléau. Riche, savante et prudente, Villevieille a préféré ouvrir ses portes aux dragons plutôt que de les affronter.",
+    "en": "The oldest city in Westeros, at the mouth of the Honeywine on Whispering Sound. The Hightower carries a beacon that can be seen far out to sea. The city houses the Citadel, where maesters are trained, and the Starry Sept, seat of the Faith until the Great Sept was built in King's Landing. The maesters keep four obsidian candles said to have come from Valyria a thousand years before the Doom. Rich, learned and cautious, Oldtown chose to open its gates to the dragons rather than face them."
+   },
+   "role": {
+    "fr": "En ouvrant ses portes sur le conseil du Grand Septon, Villevieille donne à Aegon ce que les dragons ne pouvaient lui donner : l'onction de la Foi, reçue au Septuaire étoilé. Les mestres comptent les années à partir de ce jour. La Foi et la Citadelle resteront les deux pouvoirs que la dynastie n'a jamais tout à fait tenus.",
+    "en": "By opening its gates on the High Septon's advice, Oldtown gave Aegon what dragons could not: the blessing of the Faith, received in the Starry Sept. The maesters count the years from that day. The Faith and the Citadel remained the two powers the dynasty never wholly mastered."
+   },
+   "eventIds": [
+    "p1-chandelles-villevieille",
+    "p2-table-peinte",
+    "p3-sacre-villevieille",
+    "p4-jaehaerys-alysanne",
+    "p8-chandelles-brulent"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Reach: Oldtown"
+    },
+    {
+     "id": "affc"
+    }
+   ]
+  },
+  {
+   "id": "castral-roc",
+   "name": {
+    "fr": "Castral Roc",
+    "en": "Casterly Rock"
+   },
+   "kind": "forteresse",
+   "region": {
+    "fr": "terres de l'Ouest",
+    "en": "the Westerlands"
+   },
+   "coord": [
+    231.6,
+    663
+   ],
+   "description": {
+    "fr": "Un rocher colossal au-dessus de la mer du Crépuscule, creusé de galeries, de salles et de mines depuis des millénaires, et jamais pris par la force. Les Lannister en tirent l'or qui fait d'eux la maison la plus riche de Westeros ; Port-Lannis, à ses pieds, est l'un des grands ports du royaume. Rois du Roc avant la Conquête, ils disent tenir la place de Lann le Futé, qui l'aurait soufflée aux Castral par la ruse. Le septon Barth, citant un texte valyrien aujourd'hui perdu, rapporte qu'une prophétie aurait détourné les Valyriens de cet or.",
+    "en": "A colossal rock above the Sunset Sea, tunnelled with galleries, halls and mines for thousands of years, and never taken by force. From it the Lannisters draw the gold that makes them the richest house in Westeros; Lannisport, at its foot, is one of the realm's great harbours. Kings of the Rock before the Conquest, they say they hold it from Lann the Clever, who tricked the Casterlys out of it. Septon Barth, citing a Valyrian text now lost, reports that a prophecy turned the Valyrians away from this gold."
+   },
+   "role": {
+    "fr": "Loren Lannister survit au Champ de Feu, plie le genou et garde le Roc avec le titre de gouverneur de l'Ouest. Deux siècles et demi plus tard, Tywin Lannister gouverne près de vingt ans comme Main d'Aerys II, rompt avec lui, reste neutre pendant la rébellion, puis met Port-Réal à sac en 283.",
+    "en": "Loren Lannister survived the Field of Fire, bent the knee and kept the Rock with the title of Warden of the West. Two and a half centuries later Tywin Lannister governed for nearly twenty years as Hand to Aerys II, broke with him, stayed neutral during the rebellion, then sacked King's Landing in 283."
+   },
+   "eventIds": [
+    "p1-prophetie-or-roc"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Westerlands"
+    },
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Aerys II"
+    }
+   ]
+  },
+  {
+   "id": "port-lannis",
+   "name": {
+    "fr": "Port-Lannis",
+    "en": "Lannisport"
+   },
+   "kind": "cite",
+   "region": {
+    "fr": "terres de l'Ouest",
+    "en": "the Westerlands"
+   },
+   "coord": [
+    240,
+    678.5
+   ],
+   "description": {
+    "fr": "Grand port des terres de l'Ouest, au pied de Castral Roc, sur la mer du Crépuscule. Une branche cadette des Lannister y est établie ; ses orfèvres travaillent l'or du Roc et sa flotte protège la côte contre les Fer-nés, qui l'ont attaquée plus d'une fois. C'est l'une des cinq villes de Westeros, plus petite que Port-Réal et Villevieille. Selon certains récits, que d'autres contredisent, Aegon y serait venu dans sa jeunesse, avant la Conquête.",
+    "en": "The great port of the westerlands, at the foot of Casterly Rock on the Sunset Sea. A cadet branch of the Lannisters is settled there; its goldsmiths work the gold of the Rock and its fleet guards the coast against the ironborn, who have attacked it more than once. It is one of the five cities of Westeros, smaller than King's Landing and Oldtown. According to some accounts, contradicted by others, Aegon came here in his youth, before the Conquest."
+   },
+   "role": {
+    "fr": "En 276, Tywin Lannister y donne un tournoi pour la naissance du prince Viserys et propose sa fille Cersei pour le prince Rhaegar. Aerys II refuse sèchement, en rappelant à sa Main qu'il n'est qu'un serviteur. L'affront, après des années de rivalité, prépare la rupture entre le roi et la maison qui mettra sa capitale à sac en 283.",
+    "en": "In 276 Tywin Lannister held a tourney here for the birth of Prince Viserys and offered his daughter Cersei for Prince Rhaegar. Aerys II refused curtly, reminding his Hand that he was only a servant. The slight, after years of rivalry, prepared the break between the king and the house that would sack his capital in 283."
+   },
+   "eventIds": [
+    "p7-port-lannis"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Aerys II"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Westerlands"
+    }
+   ]
+  },
+  {
+   "id": "les-eyrie",
+   "name": {
+    "fr": "les Eyrié",
+    "en": "the Eyrie"
+   },
+   "kind": "forteresse",
+   "region": {
+    "fr": "le Val d'Arryn",
+    "en": "the Vale of Arryn"
+   },
+   "coord": [
+    475,
+    576
+   ],
+   "description": {
+    "fr": "Le plus petit et le plus haut des grands châteaux : sept tours blanches accrochées à l'épaule de la Lance du Géant, au-dessus du Val d'Arryn. On n'y monte que par un sentier de mules coupé de trois fortins, puis dans une nacelle hissée au treuil. La Porte Sanglante ferme l'accès au Val par la montagne. Les Arryn, rois de la Montagne et du Val avant la Conquête, y passent la belle saison et redescendent l'hiver. Aucune armée n'a jamais forcé ces défenses.",
+    "en": "The smallest and highest of the great castles: seven white towers clinging to the shoulder of the Giant's Lance, above the Vale of Arryn. The only way up is a mule track broken by three waycastles, then a basket hauled by winch. The Bloody Gate bars the mountain road into the Vale. The Arryns, Kings of Mountain and Vale before the Conquest, live here in the warm seasons and go down for winter. No army has ever forced these defences."
+   },
+   "role": {
+    "fr": "Ces défenses ne valent rien contre un dragon. Pendant que l'armée du Val garde la Porte Sanglante, Visenya pose Vhagar dans la cour, et la régente se soumet sans combat. En 129, Jacaerys y obtient pour sa mère l'appui de lady Jeyne Arryn. En 282, c'est de là que Jon Arryn refuse de livrer ses pupilles à Aerys II.",
+    "en": "Those defences count for nothing against a dragon. While the host of the Vale held the Bloody Gate, Visenya set Vhagar down in the courtyard, and the regent yielded without a fight. In 129 Jacaerys won Lady Jeyne Arryn's support for his mother here. In 282 it was from the Eyrie that Jon Arryn refused to hand his wards over to Aerys II."
+   },
+   "eventIds": [
+    "p3-eyrie",
+    "p5-harrenhal-conflans",
+    "p7-stark-executes"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "fab",
+     "locator": "The Dying of the Dragons: A Son for a Son"
+    },
+    {
+     "id": "agot"
+    }
+   ]
+  },
+  {
+   "id": "goeville",
+   "name": {
+    "fr": "Goëville",
+    "en": "Gulltown"
+   },
+   "kind": "cite",
+   "region": {
+    "fr": "le Val d'Arryn",
+    "en": "the Vale of Arryn"
+   },
+   "coord": [
+    558.2,
+    618.4
+   ],
+   "description": {
+    "fr": "Le grand port du Val d'Arryn, sur une baie de sa côte sud-est, et l'une des cinq vraies villes de Westeros. Elle appartient à la maison Grafton, sous la suzeraineté des Arryn, et commerce avec Braavos et Pentos. Pour qui vient de la mer, c'est la porte du Val, que ses montagnes ferment de tous les autres côtés. Qui veut soumettre les Arryn sans franchir la Porte Sanglante doit donc commencer par là, et c'est ce que tente Aegon pendant la Conquête.",
+    "en": "The great port of the Vale of Arryn, on a bay of its south-eastern coast, and one of the five true cities of Westeros. It belongs to House Grafton, under the Arryns, and trades with Braavos and Pentos. For anyone coming by sea it is the gate of the Vale, which its mountains close on every other side. Whoever means to subdue the Arryns without forcing the Bloody Gate must therefore begin here, and that is what Aegon attempted during the Conquest."
+   },
+   "role": {
+    "fr": "La flotte d'Aegon y subit un revers pendant la Conquête : les navires du Val, renforcés de vaisseaux de Braavos, la battent et tuent son amiral, Daemon Velaryon. Visenya incendie ensuite les vainqueurs avec Vhagar. En 282, les rebelles prennent la ville : c'est la première bataille de la rébellion de Robert.",
+    "en": "Aegon's fleet met a reverse here during the Conquest: the ships of the Vale, reinforced by Braavosi vessels, beat it and killed its admiral, Daemon Velaryon. Visenya then burned the victors with Vhagar. In 282 the rebels took the town, in the first battle of Robert's Rebellion."
+   },
+   "eventIds": [
+    "p3-goeville",
+    "p7-premieres-batailles"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Fall of the Dragons: Robert's Rebellion"
+    }
+   ]
+  },
+  {
+   "id": "winterfell",
+   "name": {
+    "fr": "Winterfell",
+    "en": "Winterfell"
+   },
+   "kind": "forteresse",
+   "region": {
+    "fr": "le Nord",
+    "en": "the North"
+   },
+   "coord": [
+    364.6,
+    280
+   ],
+   "description": {
+    "fr": "Siège des Stark, rois du Nord pendant des millénaires puis gouverneurs du Nord pour le Trône de Fer. Le château, bâti sur un terrain que l'on n'a jamais nivelé, s'étend derrière deux enceintes de granit ; des sources chaudes courent dans ses murs et le gardent habitable en hiver. Il enferme un bois sacré et, sous terre, les cryptes où reposent les seigneurs de la maison. La légende en attribue la fondation à Brandon le Bâtisseur. C'est le centre d'un pays presque aussi vaste que les six autres royaumes réunis, et le plus éloigné de Port-Réal.",
+    "en": "The seat of the Starks, Kings in the North for thousands of years and afterwards Wardens of the North for the Iron Throne. The castle, raised on ground that was never levelled, sprawls behind two granite walls; hot springs run through its stones and keep it habitable in winter. It encloses a godswood and, underground, the crypts where the lords of the house lie. Legend credits its founding to Brandon the Builder. It is the centre of a country almost as large as the other six kingdoms together, and the farthest from King's Landing."
+   },
+   "role": {
+    "fr": "Winterfell n'a jamais été conquis par les dragons : Torrhen Stark se soumet au Trident sans combattre. Les Targaryen y viennent en visiteurs. Alysanne y précède Jaehaerys en 58, sur Silverwing. En 129, le prince Jacaerys y gagne Cregan Stark à la cause de Rhaenyra ; l'armée du Nord n'atteint la capitale qu'après la guerre, à temps pour juger les vaincus.",
+    "en": "Winterfell was never taken by dragons: Torrhen Stark submitted at the Trident without a fight. The Targaryens came here as guests. Alysanne arrived ahead of Jaehaerys in 58, on Silverwing. In 129 Prince Jacaerys won Cregan Stark to Rhaenyra's cause; the northern host reached the capital only after the war, in time to judge the losers."
+   },
+   "eventIds": [
+    "p4-voyage-nord",
+    "p5-harrenhal-conflans"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+    },
+    {
+     "id": "fab",
+     "locator": "The Dying of the Dragons: A Son for a Son"
+    },
+    {
+     "id": "agot"
+    }
+   ]
+  },
+  {
+   "id": "le-mur",
+   "name": {
+    "fr": "le Mur",
+    "en": "the Wall"
+   },
+   "kind": "forteresse",
+   "region": {
+    "fr": "le Nord",
+    "en": "the North"
+   },
+   "coord": [
+    390.6,
+    40
+   ],
+   "description": {
+    "fr": "Une muraille de glace haute de sept cents pieds et longue de cent lieues, qui ferme Westeros au nord, de la Gorge à la baie des Phoques. La Garde de Nuit la tient depuis des millénaires ; ses frères jurés renoncent à leurs terres, à leur famille et à toute descendance. Dix-neuf forts la jalonnent, dont la plupart sont abandonnés. La Garde reste hors des querelles du royaume, ce qui fait du Mur une prison honorable : on y envoie les vaincus, les gêneurs et les prétendants que l'on ne veut pas tuer.",
+    "en": "A wall of ice seven hundred feet high and a hundred leagues long that closes Westeros to the north, from the Gorge to the Bay of Seals. The Night's Watch has held it for thousands of years; its sworn brothers give up lands, family and any heirs. Nineteen castles stand along it, most of them abandoned. The Watch takes no part in the realm's quarrels, which makes the Wall an honourable prison: the defeated, the inconvenient and the claimants no one wishes to kill are sent there."
+   },
+   "role": {
+    "fr": "La reine Alysanne s'y rend en 58 sur Silverwing, qui refuse par trois fois de voler plus au nord ; elle obtient pour la Garde le Nouveau Don et finance un fort neuf. En 233, mestre Aemon, qui vient de refuser la couronne, s'y retire pour ne pas servir de prétexte ; Freuxsanglant y est envoyé la même année. Aemon y sert jusqu'à sa centième année passée.",
+    "en": "Queen Alysanne came here in 58 on Silverwing, who three times refused to fly farther north; she secured the New Gift for the Watch and paid for a new castle. In 233 Maester Aemon, who had just refused the crown, withdrew to the Wall so as not to serve as a pretext; Bloodraven was sent there the same year. Aemon served past his hundredth year."
+   },
+   "eventIds": [
+    "p4-voyage-nord",
+    "p6-grand-conseil-233"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Maekar I"
+    },
+    {
+     "id": "affc"
+    }
+   ]
+  },
+  {
+   "id": "lancehelion",
+   "name": {
+    "fr": "Lancehélion",
+    "en": "Sunspear"
+   },
+   "kind": "forteresse",
+   "region": {
+    "fr": "Dorne",
+    "en": "Dorne"
+   },
+   "coord": [
+    588.4,
+    1120
+   ],
+   "description": {
+    "fr": "Siège des Martell, à la pointe orientale de Dorne, sur la mer. Le château réunit deux tours et un vieux donjon en forme de navire, derrière trois enceintes sinueuses ; une ville basse de briques crues s'étend à ses pieds. Les Martell descendent de Nymeria, la princesse rhoynar venue par la mer avec ses navires après la défaite de son peuple devant Valyria ; ils portent le titre de prince, non celui de roi. Dorne est le seul des sept royaumes que les dragons d'Aegon n'ont pas soumis.",
+    "en": "The seat of the Martells, on the sea at the eastern tip of Dorne. The castle joins two towers and an old keep shaped like a ship, behind three winding walls; the shadow city, a huddle of mud-brick houses, spreads at its feet. The Martells descend from Nymeria, the Rhoynish princess who came by sea with her ships after her people's defeat by Valyria; they bear the title of prince, not king. Dorne is the only one of the Seven Kingdoms that Aegon's dragons failed to subdue."
+   },
+   "role": {
+    "fr": "Lancehélion est la limite de la puissance des dragons. Rhaenys y essuie un refus pendant la Conquête ; neuf ans de guerre, de 4 à 13, n'y changent rien, et la reine meurt à Denfert. Daeron Ier prend Dorne en 157 et la perd avec sa vie. Dorne n'entre dans le royaume qu'en 187, par deux mariages.",
+    "en": "Sunspear marks the limit of dragon power. Rhaenys met a refusal here during the Conquest; nine years of war, from 4 to 13, changed nothing, and cost the queen her life at Hellholt. Daeron I took Dorne in 157 and lost it along with his life. Dorne entered the realm only in 187, through two marriages."
+   },
+   "eventIds": [
+    "p3-rhaenys-dorne",
+    "p4-guerre-dornienne",
+    "p6-daeron-dorne",
+    "p6-union-dorne"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Reign of the Dragon: The Wars of King Aegon I"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "Dorne: Sunspear"
+    },
+    {
+     "id": "affc"
+    }
+   ]
+  },
+  {
+   "id": "hellholt",
+   "name": {
+    "fr": "Denfert",
+    "en": "Hellholt"
+   },
+   "kind": "forteresse",
+   "region": {
+    "fr": "Dorne",
+    "en": "Dorne"
+   },
+   "coord": [
+    430.3,
+    1108.8
+   ],
+   "description": {
+    "fr": "Château de la maison Uller, dans le désert de Dorne, près des sources de la Soufre, une rivière aux eaux sulfureuses et malodorantes. Le pays alentour est l'un des plus arides de Westeros, et un dicton dornien veut que la moitié des Uller soient à moitié fous. La place doit son rang dans l'histoire à un seul jour de l'an 10, pendant la Première Guerre dornienne.",
+    "en": "The castle of House Uller, in the Dornish desert, near the source of the Brimstone, a river of sulphurous, foul-smelling water. The country around it is among the driest in Westeros, and a Dornish saying has it that half the Ullers are half mad. The place owes its standing in history to a single day in the year 10, during the First Dornish War."
+   },
+   "role": {
+    "fr": "Meraxes est le seul des trois dragons de la Conquête à mourir au combat, et c'est ici. Un trait de scorpion l'atteint à l'œil ; la bête s'écrase sur le château et la reine Rhaenys disparaît avec elle, sans que l'on sache comment elle est morte. Les représailles d'Aegon et de Visenya durent deux ans. Le crâne de Meraxes n'est rendu qu'à la paix de 13.",
+    "en": "Meraxes was the only one of the three dragons of the Conquest to die in battle, and it happened here. A scorpion bolt took her through the eye; the beast crashed onto the castle and Queen Rhaenys was lost with her, and no one knows how she died. The reprisals of Aegon and Visenya lasted two years. The skull of Meraxes was returned only with the peace of 13."
+   },
+   "eventIds": [
+    "p4-denfert"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Reign of the Dragon: The Wars of King Aegon I"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "Dorne: Dorne Against the Dragons"
+    }
+   ]
+  },
+  {
+   "id": "degres-de-pierre",
+   "name": {
+    "fr": "les Degrés de Pierre",
+    "en": "the Stepstones"
+   },
+   "kind": "ile",
+   "region": {
+    "fr": "mer Étroite",
+    "en": "the Narrow Sea"
+   },
+   "coord": [
+    660,
+    1019
+   ],
+   "description": {
+    "fr": "Chapelet d'îles rocheuses entre le bras de Dorne et la côte des Terres Disputées, à l'endroit où la mer Étroite s'ouvre sur la mer d'Été. La légende y voit les restes d'une terre qui reliait jadis les deux continents et que les enfants de la forêt auraient brisée. Ces îles ne nourrissent presque personne, mais elles commandent la route maritime entre les Cités libres et Westeros : les pirates s'y installent sans cesse, et Tyrosh, Lys et Myr se les disputent. Aucune puissance ne les a tenues longtemps.",
+    "en": "A chain of rocky islands between the arm of Dorne and the coast of the Disputed Lands, where the narrow sea opens onto the Summer Sea. Legend sees in them the remains of a land that once joined the two continents, broken by the children of the forest. The islands feed almost no one, but they command the sea road between the Free Cities and Westeros: pirates settle there again and again, and Tyrosh, Lys and Myr fight over them. No power has held them for long."
+   },
+   "role": {
+    "fr": "Deux guerres de la dynastie s'y jouent. De 106 à 115, le prince Daemon et Corlys Velaryon y combattent la Triarchie, et Daemon s'y proclame roi, sans lendemain. En 260, Maelys Feunoyr s'en empare avec les Rois à Neuf Sous ; ser Barristan Selmy le tue, et la lignée mâle des Feunoyr s'éteint avec lui.",
+    "en": "Two of the dynasty's wars were fought here. From 106 to 115 Prince Daemon and Corlys Velaryon fought the Triarchy in these islands, and Daemon proclaimed himself king, to no lasting effect. In 260 Maelys Blackfyre seized them with the Ninepenny Kings; Ser Barristan Selmy killed him, and the male line of the Blackfyres ended with him."
+   },
+   "eventIds": [
+    "p4-degres-de-pierre",
+    "p6-neuf-sous"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "fab",
+     "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+     "id": "trp"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Jaehaerys II"
+    }
+   ]
+  },
+  {
+   "id": "braavos",
+   "name": {
+    "fr": "Braavos",
+    "en": "Braavos"
+   },
+   "kind": "cite-libre",
+   "region": {
+    "fr": "Essos, Cités libres",
+    "en": "Essos, the Free Cities"
+   },
+   "coord": [
+    724,
+    486
+   ],
+   "description": {
+    "fr": "Cité de cent îles dans une lagune du nord-ouest d'Essos, cachée derrière une ceinture d'îlots rocheux. Elle est fondée par des esclaves révoltés qui s'emparent de la flotte qui les emportait, et reste secrète pendant plus d'un siècle : c'est la seule des Cités libres qui ne soit pas une fille de Valyria. Le Titan, forteresse en forme de guerrier, en garde l'entrée. Braavos est gouvernée par un Seigneur de la Mer élu ; sa flotte, son arsenal et sa Banque de Fer en font la plus riche et sans doute la plus puissante des Cités libres. Elle interdit l'esclavage.",
+    "en": "A city of a hundred islands in a lagoon in the north-west of Essos, hidden behind a ring of rocky islets. It was founded by rebel slaves who seized the fleet carrying them, and stayed secret for more than a century: it is the only Free City that is not a daughter of Valyria. The Titan, a fortress shaped like a warrior, guards its entrance. Braavos is ruled by an elected Sealord; its fleet, its Arsenal and its Iron Bank make it the richest and probably the most powerful of the Free Cities. It forbids slavery."
+   },
+   "role": {
+    "fr": "Braavos est née contre Valyria et n'a jamais aimé les dragons, mais elle traite avec leurs maîtres. Des navires de guerre braaviens, loués par les Arryn, combattent la flotte d'Aegon devant Goëville pendant la Conquête. Vers 284, ser Willem Darry y cache les deux derniers enfants d'Aerys II, dans une maison à la porte rouge dont Daenerys garde le souvenir. À sa mort, ils en sont chassés.",
+    "en": "Braavos was born against Valyria and never loved dragons, yet it deals with their masters. Braavosi warships hired by the Arryns fought Aegon's fleet off Gulltown during the Conquest. Around 284 Ser Willem Darry hid the last two children of Aerys II here, in a house with a red door that Daenerys still remembers. When he died they were turned out."
+   },
+   "eventIds": [
+    "p1-braavos",
+    "p2-siecle-de-sang",
+    "p7-naissance-daenerys",
+    "p7-exil"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Free Cities: Braavos"
+    },
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "agot"
+    }
+   ]
+  },
+  {
+   "id": "pentos",
+   "name": {
+    "fr": "Pentos",
+    "en": "Pentos"
+   },
+   "kind": "cite-libre",
+   "region": {
+    "fr": "Essos, Cités libres",
+    "en": "Essos, the Free Cities"
+   },
+   "coord": [
+    760.5,
+    715
+   ],
+   "description": {
+    "fr": "Grand port de la côte ouest d'Essos, sur une baie de la mer Étroite, face aux terres de la Couronne. Fondée par des marchands valyriens, la ville est gouvernée par ses magistrats, qui se choisissent un prince chargé des cérémonies et que l'on sacrifie quand les récoltes ou les guerres tournent mal. Vaincue par Braavos, Pentos a dû renoncer à l'esclavage et ne garder qu'une vingtaine de navires de guerre ; elle contourne l'interdit en appelant ses esclaves des serviteurs. Ses terres, plates et riches, sont ouvertes aux khalasars dothrakis, qu'elle paie pour passer leur chemin.",
+    "en": "A great port on the west coast of Essos, on a bay of the narrow sea facing the crownlands. Founded by Valyrian merchants, the city is governed by its magisters, who choose a prince for the ceremonies and sacrifice him when harvests or wars go badly. Beaten by Braavos, Pentos had to give up slavery and keep no more than twenty warships; it gets round the ban by calling its slaves servants. Its flat, rich lands lie open to Dothraki khalasars, which it pays to ride on."
+   },
+   "role": {
+    "fr": "C'est la Cité libre la plus proche de Peyredragon, et la Maison y a plus d'une fois cherché refuge. Aegon répond à son appel contre Volantis. Maegor y vit en exil de 40 à 42. Vers 297, le magistrat Illyrio Mopatis y recueille Viserys et Daenerys ; c'est près de ses murs que Daenerys épouse le khal Drogo et reçoit trois œufs de dragon.",
+    "en": "It is the Free City closest to Dragonstone, and the House more than once sought shelter there. Aegon answered its call against Volantis. Maegor lived there in exile from 40 to 42. Around 297 the magister Illyrio Mopatis took in Viserys and Daenerys; it was outside its walls that Daenerys married Khal Drogo and received three dragon eggs."
+   },
+   "eventIds": [
+    "p1-cites-filles",
+    "p2-siecle-de-sang",
+    "p2-aegon-contre-volantis",
+    "p4-soulevement-foi",
+    "p7-exil",
+    "p8-noces-oeufs"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Free Cities: Pentos"
+    },
+    {
+     "id": "fab",
+     "locator": "The Sons of the Dragon"
+    },
+    {
+     "id": "agot"
+    }
+   ]
+  },
+  {
+   "id": "myr",
+   "name": {
+    "fr": "Myr",
+    "en": "Myr"
+   },
+   "kind": "cite-libre",
+   "region": {
+    "fr": "Essos, Cités libres",
+    "en": "Essos, the Free Cities"
+   },
+   "coord": [
+    811.5,
+    930
+   ],
+   "description": {
+    "fr": "Cité libre au fond d'un golfe de la côte ouest d'Essos. Fondée par des marchands valyriens, elle est la ville des artisans : ses verriers taillent les meilleures lentilles du monde, ses ateliers produisent dentelles, tapis et arbalètes. Ses magistrats achètent des esclaves et louent des mercenaires. Myr dispute sans fin les Terres Disputées à Lys et à Tyrosh ; en 96, les trois villes s'unissent pourtant, le temps d'une génération, dans une alliance que Westeros appelle la Triarchie.",
+    "en": "A Free City at the head of a gulf on the west coast of Essos, the Sea of Myrth. Founded by Valyrian merchants, it is the city of craftsmen: its glassmakers grind the finest lenses in the world, and its workshops turn out lace, carpets and crossbows. Its magisters buy slaves and hire sellswords. Myr fights Lys and Tyrosh without end over the Disputed Lands; yet in 96 the three cities united for a generation in an alliance that Westeros calls the Triarchy."
+   },
+   "role": {
+    "fr": "En 92, le prince héritier Aemon est tué à Torth par un carreau d'arbalète de pirates de Myr. Sous Viserys Ier, la Triarchie est l'adversaire extérieur de la Maison, et Daemon la combat dans les Degrés de Pierre. En 130, la flotte des trois cités, alliée aux verts, attaque le Gosier, et ce sont des arbalétriers de Myr qui tuent l'héritier de Rhaenyra.",
+    "en": "In 92 Prince Aemon, the heir, was killed on Tarth by a crossbow bolt from Myrish pirates. Under Viserys I the Triarchy was the House's foreign enemy, and Daemon fought it in the Stepstones. In 130 the fleet of the three cities, allied with the greens, attacked the Gullet, and it was Myrish crossbowmen who killed Rhaenyra's heir."
+   },
+   "eventIds": [
+    "p1-cites-filles",
+    "p2-siecle-de-sang",
+    "p7-exil"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Free Cities: The Quarrelsome Daughters: Myr, Lys, and Tyrosh"
+    },
+    {
+     "id": "fab",
+     "locator": "Heirs of the Dragon: A Question of Succession"
+    },
+    {
+     "id": "fab",
+     "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+    }
+   ]
+  },
+  {
+   "id": "tyrosh",
+   "name": {
+    "fr": "Tyrosh",
+    "en": "Tyrosh"
+   },
+   "kind": "cite-libre",
+   "region": {
+    "fr": "Essos, Cités libres",
+    "en": "Essos, the Free Cities"
+   },
+   "coord": [
+    685,
+    977
+   ],
+   "description": {
+    "fr": "Cité-forteresse sur une île à l'extrémité nord des Degrés de Pierre, au large des Terres Disputées. Valyria l'établit comme poste militaire pour surveiller le passage ; la découverte d'un coquillage dont on tire des teintures en fait une ville de teinturiers et de marchands. Les Tyroshis se teignent la barbe et les cheveux de couleurs vives. Un archonte les gouverne. La ville est avide et querelleuse, toujours en guerre avec Lys ou Myr pour les Terres Disputées et les îles.",
+    "en": "A fortress city on an island at the northern end of the Stepstones, off the Disputed Lands. Valyria set it up as a military outpost to watch the passage; the discovery of a sea snail that yields dyes turned it into a city of dyers and traders. Tyroshi dye their beards and hair in bright colours. An archon governs them. The city is grasping and quarrelsome, forever at war with Lys or Myr over the Disputed Lands and the islands."
+   },
+   "role": {
+    "fr": "Tyrosh est le refuge des Feunoyr. Daemon Feunoyr avait épousé Rohanne de Tyrosh ; après le Champ d'Herberouge, Aigracier y emmène sa veuve et ses enfants. C'est en exil qu'il fonde la Compagnie Dorée, qui portera plusieurs des rébellions suivantes. Viserys et Daenerys y passent pendant leurs années d'errance.",
+    "en": "Tyrosh was the refuge of the Blackfyres. Daemon Blackfyre had married Rohanne of Tyrosh; after the Redgrass Field Bittersteel took his widow and children there. In exile he founded the Golden Company, which carried several of the later rebellions. Viserys and Daenerys passed through during their wandering years."
+   },
+   "eventIds": [
+    "p1-cites-filles",
+    "p2-siecle-de-sang",
+    "p2-aurion",
+    "p2-aegon-contre-volantis",
+    "p7-exil"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Free Cities: The Quarrelsome Daughters: Myr, Lys, and Tyrosh"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Daeron II"
+    }
+   ]
+  },
+  {
+   "id": "lys",
+   "name": {
+    "fr": "Lys",
+    "en": "Lys"
+   },
+   "kind": "cite-libre",
+   "region": {
+    "fr": "Essos, Cités libres",
+    "en": "Essos, the Free Cities"
+   },
+   "coord": [
+    788,
+    1147
+   ],
+   "description": {
+    "fr": "Cité insulaire de la mer d'Été, au large des Terres Disputées. Les seigneurs dragons en avaient fait un lieu de plaisance, et le sang valyrien y est resté plus pur que partout ailleurs : cheveux d'argent et yeux violets y sont communs. Lys vit du commerce des esclaves de plaisir, des tapisseries, des vins doux et des poisons, pour lesquels ses alchimistes sont réputés. Ses magistrats sont des marchands, et la ville préfère acheter des mercenaires que lever des armées.",
+    "en": "An island city in the Summer Sea, off the Disputed Lands. The dragonlords had made it a place of leisure, and Valyrian blood has stayed purer there than anywhere else: silver hair and purple eyes are common. Lys lives by the trade in pleasure slaves, tapestries, sweet wines and poisons, for which its alchemists are known. Its magisters are merchants, and the city would sooner hire sellswords than raise armies."
+   },
+   "role": {
+    "fr": "Lys entre dans le sang de la Maison par un hasard de guerre. Le prince Viserys, capturé au Gosier en 130 et cru mort, y est retenu des années et y épouse Larra Rogare, fille d'une famille de banquiers ; il en revient pendant la régence de son frère Aegon III. Aegon IV et tous les rois qui suivent descendent de ce mariage.",
+    "en": "Lys entered the blood of the House through a chance of war. Prince Viserys, captured at the Gullet in 130 and believed dead, was held there for years and married Larra Rogare, the daughter of a banking family; he came home during the regency of his brother Aegon III. Aegon IV and every king after him descend from that marriage."
+   },
+   "eventIds": [
+    "p2-siecle-de-sang",
+    "p2-aurion",
+    "p2-aegon-contre-volantis",
+    "p6-regence",
+    "p7-exil"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Free Cities: The Quarrelsome Daughters: Myr, Lys, and Tyrosh"
+    },
+    {
+     "id": "fab",
+     "locator": "The Lysene Spring and the End of Regency"
+    }
+   ]
+  },
+  {
+   "id": "volantis",
+   "name": {
+    "fr": "Volantis",
+    "en": "Volantis"
+   },
+   "kind": "cite-libre",
+   "region": {
+    "fr": "Essos, Cités libres",
+    "en": "Essos, the Free Cities"
+   },
+   "coord": [
+    986,
+    1120
+   ],
+   "description": {
+    "fr": "La plus ancienne et la plus peuplée des Cités libres, à l'embouchure de la Rhoyne. Née comme poste militaire de Valyria, elle garde dans sa vieille ville, derrière les Murs noirs, les familles qui peuvent prouver leur ascendance valyrienne. Deux partis s'y disputent les trois charges de triarque : les tigres, qui veulent la guerre, et les éléphants, qui veulent le commerce. Les esclaves y sont cinq fois plus nombreux que les hommes libres, et chacun porte sur le visage la marque de son métier.",
+    "en": "The oldest and most populous of the Free Cities, at the mouth of the Rhoyne. Founded as a military outpost of Valyria, it keeps in its old town, behind the Black Walls, the families that can prove Valyrian descent. Two parties contend for the three offices of triarch: the tigers, who want war, and the elephants, who want trade. Slaves outnumber free men five to one, and each bears on the face the mark of a trade."
+   },
+   "role": {
+    "fr": "Après le Fléau, Volantis se dit héritière des Possessions et tente de soumettre ses sœurs. C'est contre elle qu'Aegon, encore seigneur de Peyredragon, mène sa seule campagne en Essos : monté sur Balerion, il brûle une flotte volantaine devant Lys. La ville renonce à l'empire. Trois siècles plus tard, le prétendant « Aegon » descend la Rhoyne jusqu'à ses abords.",
+    "en": "After the Doom Volantis called itself heir to the Freehold and tried to subdue its sister cities. It was against Volantis that Aegon, still only Lord of Dragonstone, fought his one campaign in Essos: mounted on Balerion, he burned a Volantene fleet off Lys. The city gave up its empire. Three centuries later the claimant “Aegon” came down the Rhoyne to its outskirts."
+   },
+   "eventIds": [
+    "p1-cites-filles",
+    "p1-guerres-rhoynares",
+    "p2-siecle-de-sang",
+    "p2-aegon-contre-volantis",
+    "p7-exil",
+    "p8-jeune-griff"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Free Cities: Volantis"
+    },
+    {
+     "id": "fab",
+     "locator": "Aegon's Conquest"
+    },
+    {
+     "id": "adwd"
+    }
+   ]
+  },
+  {
+   "id": "valyria",
+   "name": {
+    "fr": "Valyria",
+    "en": "Valyria",
+    "hv": "Valyria"
+   },
+   "hvStatus": "atteste",
+   "kind": "ruine",
+   "region": {
+    "fr": "Essos, péninsule de Valyria",
+    "en": "Essos, the Valyrian peninsula"
+   },
+   "coord": [
+    1372,
+    1312
+   ],
+   "description": {
+    "fr": "Capitale des Possessions, sur la péninsule qui porte son nom. Pendant près de cinq mille ans, les seigneurs dragons y règnent sur le plus grand empire du monde connu, bâti par le feu des dragons, la sorcellerie et le travail des esclaves. Une quarantaine de familles s'y disputent le pouvoir, et les Targaryen n'y sont pas des plus puissantes. En 102 av. C., le Fléau détruit la ville en un jour : la péninsule se brise et la mer s'engouffre dans les terres. Les ruines passent pour mortelles, et presque aucun de ceux qui s'y risquent n'en revient.",
+    "en": "The capital of the Freehold, on the peninsula that bears its name. For close to five thousand years the dragonlords ruled from it the greatest empire of the known world, built on dragonfire, sorcery and slave labour. Some forty families contended for power, and the Targaryens were far from the mightiest of them. In 102 BC the Doom destroyed the city in a day: the peninsula shattered and the sea rushed in. The ruins are held to be deadly, and almost none who venture there come back."
+   },
+   "role": {
+    "fr": "Tout ce qui distingue la Maison vient d'ici : les dragons, la langue, l'acier, le mariage entre frère et sœur, la certitude d'être d'un autre sang. Les Targaryen sont la seule famille de seigneurs dragons qui survive durablement au Fléau avec ses dragons, parce qu'Aenar en est parti douze ans plus tôt. Selon le septon Barth, c'est là que Balerion aurait emporté la princesse Aerea, entre 54 et 56.",
+    "en": "Everything that sets the House apart comes from here: the dragons, the language, the steel, marriage between brother and sister, the certainty of being of another blood. The Targaryens were the only dragonlord family to outlast the Doom with their dragons, because Aenar had left twelve years earlier. According to Septon Barth, it was here that Balerion carried Princess Aerea, between 54 and 56."
+   },
+   "eventIds": [
+    "p1-dragons-quatorze-flammes",
+    "p1-guerres-ghiscaries",
+    "p1-regime-possessions",
+    "p1-mines-esclaves",
+    "p1-chandelles-villevieille",
+    "p1-prophetie-or-roc",
+    "p1-fleau",
+    "p2-reve-daenys",
+    "p2-aurion",
+    "p4-aerea-balerion"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "Ancient History: The Rise of Valyria"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "Ancient History: The Doom of Valyria"
+    },
+    {
+     "id": "fab",
+     "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+    }
+   ]
+  },
+  {
+   "id": "quatorze-flammes",
+   "name": {
+    "fr": "les Quatorze Flammes",
+    "en": "the Fourteen Flames"
+   },
+   "kind": "region",
+   "region": {
+    "fr": "Essos, péninsule de Valyria",
+    "en": "Essos, the Valyrian peninsula"
+   },
+   "coord": [
+    1350,
+    1086
+   ],
+   "description": {
+    "fr": "Chaîne de quatorze volcans qui traversait la péninsule de Valyria à sa naissance. Selon la tradition valyrienne, c'est dans leurs cratères que des bergers découvrent les dragons et apprennent à les dompter ; d'autres récits donnent une autre origine. Sous les montagnes, des esclaves venus de tout l'empire extraient l'or et l'argent dans des galeries brûlantes, et y meurent en grand nombre. Le jour du Fléau, toutes les Flammes entrent en éruption à la fois. On ne sait pas ce qu'il en reste : la carte en indique la position d'après les descriptions, sans certitude.",
+    "en": "A chain of fourteen volcanoes that crossed the Valyrian peninsula at its root. According to Valyrian tradition, it was in their craters that shepherds found the dragons and learned to tame them; other accounts give a different origin. Beneath the mountains, slaves from every part of the empire dug gold and silver out of burning galleries, and died there in great numbers. On the day of the Doom all the Flames erupted at once. No one knows what is left of them: the map marks their position from descriptions, without certainty."
+   },
+   "role": {
+    "fr": "Les dragons des Targaryen descendent de ceux de ces volcans, et la puissance de Valyria reposait sur eux. Leur éruption simultanée, en 102 av. C., supprime d'un coup tous les rivaux de la Maison. Quelques mestres, d'après des fragments du septon Barth, pensent que des sortilèges contenaient les Flammes et qu'ils ont cédé ; la plupart parlent d'une catastrophe naturelle.",
+    "en": "The Targaryen dragons descend from those of these volcanoes, and Valyria's power rested on them. Their simultaneous eruption in 102 BC removed every rival of the House at a stroke. A few maesters, following fragments of Septon Barth, hold that spells had kept the Flames in check and failed; most speak of a natural catastrophe."
+   },
+   "eventIds": [
+    "p1-dragons-quatorze-flammes",
+    "p1-mines-esclaves",
+    "p1-fleau"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "Ancient History: The Rise of Valyria"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "Ancient History: The Doom of Valyria"
+    }
+   ]
+  },
+  {
+   "id": "meereen",
+   "name": {
+    "fr": "Meereen",
+    "en": "Meereen"
+   },
+   "kind": "cite",
+   "region": {
+    "fr": "Essos, baie des Serfs",
+    "en": "Essos, Slaver's Bay"
+   },
+   "coord": [
+    1661,
+    1009.5
+   ],
+   "description": {
+    "fr": "La plus grande des trois cités esclavagistes de la baie des Serfs, à l'embouchure de la Skahazadhan. Elle est bâtie de briques de toutes les couleurs et dominée par des pyramides à degrés, dont la plus haute, la Grande Pyramide, s'élève à huit cents pieds. Ses maîtres, les Grands Maîtres, se disent héritiers de l'antique empire de Ghis, détruit par Valyria cinq mille ans plus tôt ; la harpie est leur emblème. La ville vit de la traite et des arènes de combat.",
+    "en": "The largest of the three slaver cities of Slaver's Bay, at the mouth of the Skahazadhan. It is built of bricks of many colours and dominated by stepped pyramids, the tallest of which, the Great Pyramid, rises eight hundred feet. Its rulers, the Great Masters, call themselves heirs to the ancient empire of Ghis, destroyed by Valyria five thousand years earlier; the harpy is their emblem. The city lives by the slave trade and the fighting pits."
+   },
+   "role": {
+    "fr": "Daenerys prend Meereen vers 299 et choisit d'y régner plutôt que de marcher vers Westeros. C'est son apprentissage du pouvoir, et il est amer : assassinats, siège, épidémie, un mariage de raison. Elle y fait enfermer Viserion et Rhaegal après la mort d'une enfant, perd Drogon, puis s'envole sur lui de l'arène de Daznak.",
+    "en": "Daenerys took Meereen around 299 and chose to rule there rather than march on Westeros. It was her schooling in power, and a bitter one: murders, siege, plague, a marriage of policy. Here she had Viserion and Rhaegal locked away after a child's death, lost Drogon, then flew off on his back from Daznak's Pit."
+   },
+   "eventIds": [
+    "p8-meereen",
+    "p8-chandelles-brulent",
+    "p8-dragons-enchaines",
+    "p8-arene-daznak",
+    "p8-quentyn"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "asos"
+    },
+    {
+     "id": "adwd"
+    }
+   ]
+  },
+  {
+   "id": "yunkai",
+   "name": {
+    "fr": "Yunkaï",
+    "en": "Yunkai"
+   },
+   "kind": "cite",
+   "region": {
+    "fr": "Essos, baie des Serfs",
+    "en": "Essos, Slaver's Bay"
+   },
+   "coord": [
+    1676,
+    1064
+   ],
+   "description": {
+    "fr": "La « cité jaune », sur la côte orientale de la baie des Serfs, entre Astapor et Meereen. Ses murs et ses pyramides sont de brique jaune. Yunkaï ne forme pas de soldats mais des esclaves de lit, instruits dans les arts du plaisir ; ses maîtres, les Judicieux, la défendent avec des soldats esclaves et des mercenaires. C'est pourtant elle qui, plus tard, réunit la coalition qui assiège Meereen.",
+    "en": "The “Yellow City”, on the eastern shore of Slaver's Bay, between Astapor and Meereen. Its walls and pyramids are of yellow brick. Yunkai trains not soldiers but bed slaves, schooled in the arts of pleasure; its rulers, the Wise Masters, defend it with slave soldiers and sellswords. Yet it is Yunkai that later gathers the coalition which besieges Meereen."
+   },
+   "role": {
+    "fr": "Daenerys bat l'armée de Yunkaï de nuit, après avoir retourné une partie de ses mercenaires, et exige la libération de tous les esclaves. Ceux-ci la saluent d'un mot ghiscari qui veut dire « mère ». Mais elle ne prend pas la ville, et les maîtres y rétablissent l'esclavage dès son départ : Yunkaï est la première limite de sa conquête.",
+    "en": "Daenerys beat Yunkai's army by night, after turning some of its sellswords, and demanded that every slave be freed. They greeted her with a Ghiscari word meaning “mother”. But she did not take the city, and the masters restored slavery as soon as she had gone: Yunkai is the first limit of her conquest."
+   },
+   "eventIds": [
+    "p8-meereen"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "asos"
+    },
+    {
+     "id": "adwd"
+    }
+   ]
+  },
+  {
+   "id": "astapor",
+   "name": {
+    "fr": "Astapor",
+    "en": "Astapor"
+   },
+   "kind": "cite",
+   "region": {
+    "fr": "Essos, baie des Serfs",
+    "en": "Essos, Slaver's Bay"
+   },
+   "coord": [
+    1657,
+    1200
+   ],
+   "description": {
+    "fr": "La plus méridionale des cités de la baie des Serfs, bâtie de briques rouges qui s'effritent, sur une rivière que ses habitants appellent le Ver. Sa seule richesse est une marchandise : les Immaculés, soldats-eunuques dressés dès l'enfance à obéir sans crainte ni douleur, vendus par milliers aux cités d'Essos. Ses maîtres, les Bons Maîtres, se réclament eux aussi de l'antique Ghis. Après le passage de Daenerys, la ville tombe aux mains d'un boucher couronné, puis d'une armée venue de Yunkaï, et la dysenterie achève de la vider.",
+    "en": "The southernmost city of Slaver's Bay, built of crumbling red brick on a river its people call the Worm. Its one source of wealth is a commodity: the Unsullied, eunuch soldiers trained from childhood to obey without fear or pain, sold by the thousand to the cities of Essos. Its rulers, the Good Masters, also claim descent from ancient Ghis. After Daenerys passed through, the city fell to a crowned butcher, then to an army from Yunkai, and the bloody flux finished emptying it."
+   },
+   "role": {
+    "fr": "C'est à Astapor que Daenerys cesse d'être une fugitive. Elle achète tous les Immaculés en offrant Drogon, puis donne en valyrien l'ordre de feu : le dragon brûle le marchand et les soldats tuent leurs maîtres. Elle affranchit ensuite son armée. C'est la première fois depuis la Danse qu'un Targaryen fait la guerre avec un dragon.",
+    "en": "Astapor is where Daenerys stopped being a fugitive. She bought every Unsullied by offering Drogon, then gave the order to burn in Valyrian: the dragon burned the slaver and the soldiers killed their masters. She then freed her army. It was the first time since the Dance that a Targaryen made war with a dragon."
+   },
+   "eventIds": [
+    "p8-astapor"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "asos"
+    },
+    {
+     "id": "adwd"
+    }
+   ]
+  },
+  {
+   "id": "vaes-dothrak",
+   "name": {
+    "fr": "Vaes Dothrak",
+    "en": "Vaes Dothrak"
+   },
+   "kind": "cite",
+   "region": {
+    "fr": "Essos, mer Dothrak",
+    "en": "Essos, the Dothraki Sea"
+   },
+   "coord": [
+    1870,
+    690
+   ],
+   "description": {
+    "fr": "La seule ville des Dothrakis, au nord-est de leur mer d'herbe, au pied de la montagne qu'ils appellent la Mère des Montagnes. Elle n'a ni murs ni habitants permanents, hormis des esclaves et les veuves des khals, qui y forment un conseil respecté de tous les khalasars. On y entre par une avenue bordée de statues et de dieux pris aux peuples vaincus. Il est interdit d'y porter une lame et d'y verser le sang. Les marchands de l'est et de l'ouest s'y rencontrent sur deux marchés.",
+    "en": "The only city of the Dothraki, in the north-east of their sea of grass, beneath the mountain they call the Mother of Mountains. It has no walls and no permanent inhabitants except slaves and the widows of khals, who form a council respected by every khalasar. It is entered by an avenue lined with statues and gods taken from conquered peoples. To carry a blade there or to shed blood is forbidden. Traders from east and west meet in its two markets."
+   },
+   "role": {
+    "fr": "Viserys Targaryen, dernier fils d'Aerys II, y meurt vers 298. Ivre, il tire l'épée dans la ville et menace sa sœur enceinte ; le khal Drogo lui donne la couronne qu'il réclamait, en or fondu, sans verser de sang. À partir de ce jour, Daenerys porte seule les prétentions de la Maison.",
+    "en": "Viserys Targaryen, the last son of Aerys II, died here around 298. Drunk, he drew a sword in the city and threatened his pregnant sister; Khal Drogo gave him the crown he had demanded, in molten gold, without shedding blood. From that day Daenerys alone carried the claims of the House."
+   },
+   "eventIds": [
+    "p8-mort-viserys"
+   ],
+   "battleIds": [],
+   "sources": [
+    {
+     "id": "agot"
+    }
+   ]
+  }
+ ]
+}

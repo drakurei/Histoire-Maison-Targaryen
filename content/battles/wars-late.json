@@ -1,0 +1,2316 @@
+{
+ "schema": 1,
+ "generatedBy": "agent-02",
+ "items": [
+  {
+   "id": "conquete-de-dorne",
+   "title": {
+    "fr": "La conquête de Dorne",
+    "en": "The Conquest of Dorne"
+   },
+   "from": 157,
+   "to": 161,
+   "periodId": "p6",
+   "summary": {
+    "fr": "Daeron Ier monte sur le trône en 157, à quatorze ans, et décide d’achever ce que le Conquérant avait laissé en suspens. Aux conseillers qui lui rappellent qu’il n’a plus de dragons, il répond qu’il est lui-même le dragon. Trois armées entrent en Dorne : le roi par les Osseux, lord Lyonel Tyrell par la Passe du Prince, lord Alyn Velaryon par la mer et la Sang-vert. En 158, le prince de Dorne et quarante seigneurs plient le genou à Lancehélion. La soumission ne tient pas. Le peuple harcèle l’occupant, le gouverneur laissé par le roi est assassiné au Grès, et le pays entier se soulève. Daeron revient en 160, remporte encore des victoires, puis est tué en 161 au cours de pourparlers, sous une bannière de paix. Il avait dix-huit ans. Son frère Baelor renonce à la conquête.",
+    "en": "Daeron I came to the throne in 157 at the age of fourteen and resolved to finish what the Conqueror had left undone. When his councillors reminded him that the dragons were gone, he answered that he was the dragon himself. Three hosts entered Dorne: the king by the Boneway, Lord Lyonel Tyrell by the Prince’s Pass, Lord Alyn Velaryon by sea and up the Greenblood. In 158 the Prince of Dorne and forty of his lords bent the knee at Sunspear. The submission did not hold. The smallfolk harried the occupier, the governor the king had left behind was murdered at Sandstone, and the whole country rose. Daeron came back in 160, won further victories, and was killed in 161 during a parley, under a peace banner. He was eighteen. His brother Baelor gave up the conquest."
+   },
+   "causes": {
+    "fr": "Dorne était restée hors du royaume depuis la Conquête. Rhaenys n’y avait trouvé personne à combattre, et la guerre de 4 à 13 avait coûté à Aegon sa sœur et le dragon Meraxès. La paix signée en 13 laissait aux Martell leur indépendance. Un siècle et demi plus tard, la chronique ne donne à la guerre de Daeron aucun motif immédiat, ni offense ni frontière violée : seulement la volonté d’un roi de quatorze ans, qui tenait cette indépendance pour une affaire inachevée de sa maison. Le plan, préparé avec Alyn Velaryon, tire les leçons de la première guerre : éviter les pièges des cols où Orys Baratheon avait été pris, et couper Dorne en deux par son fleuve.",
+    "en": "Dorne had stayed outside the realm since the Conquest. Rhaenys had found no one there to fight, and the war of 4 to 13 AC had cost Aegon his sister and the dragon Meraxes. The peace signed in 13 AC left the Martells their independence. A century and a half later the chronicle gives Daeron’s war no immediate cause, neither an insult nor a violated border: only the will of a king of fourteen who regarded that independence as his house’s unfinished business. The plan, drawn up with Alyn Velaryon, applied the lessons of the first war: avoid the traps in the passes where Orys Baratheon had been taken, and cut Dorne in two along its river."
+   },
+   "belligerents": [
+    {
+     "id": "couronne",
+     "name": {
+      "fr": "Le Trône de Fer : Daeron Ier et ses bannerets",
+      "en": "The Iron Throne: Daeron I and his bannermen"
+     },
+     "tone": "rouge",
+     "leaders": [
+      {
+       "id": "daeron-i",
+       "name": {
+        "fr": "Daeron Ier Targaryen, le Jeune Dragon",
+        "en": "Daeron I Targaryen, the Young Dragon"
+       }
+      },
+      {
+       "id": "alyn-velaryon",
+       "name": {
+        "fr": "Alyn Velaryon, dit Poing-de-Chêne",
+        "en": "Alyn Velaryon, called Oakenfist"
+       }
+      },
+      {
+       "name": {
+        "fr": "Lyonel Tyrell",
+        "en": "Lyonel Tyrell"
+       }
+      },
+      {
+       "id": "aemon-fils-viserys-ii",
+       "name": {
+        "fr": "Aemon Targaryen, le Chevalier-Dragon",
+        "en": "Aemon Targaryen, the Dragonknight"
+       }
+      }
+     ]
+    },
+    {
+     "id": "dorne",
+     "name": {
+      "fr": "Dorne : les Martell, leurs seigneurs et le peuple",
+      "en": "Dorne: the Martells, their lords and the smallfolk"
+     },
+     "tone": "neutre",
+     "leaders": [
+      {
+       "name": {
+        "fr": "Le prince de Dorne (les sources ne donnent pas son nom)",
+        "en": "The Prince of Dorne (unnamed in the sources)"
+       }
+      },
+      {
+       "name": {
+        "fr": "Lord Qorgyle du Grès",
+        "en": "Lord Qorgyle of Sandstone"
+       }
+      }
+     ]
+    }
+   ],
+   "battles": [
+    {
+     "id": "invasion-de-dorne",
+     "warId": "conquete-de-dorne",
+     "name": {
+      "fr": "La triple invasion de Dorne",
+      "en": "The Three-Pronged Invasion of Dorne"
+     },
+     "year": 157,
+     "dateCertainty": "approximative",
+     "placeName": {
+      "fr": "Les Osseux, la Passe du Prince, Bourg-Cabanes et la Sang-vert",
+      "en": "The Boneway, the Prince’s Pass, the Planky Town and the Greenblood"
+     },
+     "sides": [
+      "couronne",
+      "dorne"
+     ],
+     "victor": "couronne",
+     "dragons": [],
+     "summary": {
+      "fr": "Daeron partage son armée en trois. Lord Lyonel Tyrell descend la Passe du Prince, à l’extrémité occidentale des montagnes Rouges. Le roi prend les Osseux, où Orys Baratheon s’était fait prendre un siècle et demi plus tôt, et contourne les tours de guet dorniennes par des sentiers de chèvres que l’on jugeait impraticables. La troisième force vient par mer : Alyn Velaryon, dit Poing-de-Chêne, force Bourg-Cabanes à l’embouchure de la Sang-vert et remonte le fleuve. Dorne est coupée en deux, et ses armées de l’est et de l’ouest ne peuvent plus se porter secours. Une série de combats suit, que la chronique ne détaille pas : ni leurs noms, ni leurs lieux, ni leurs effectifs ne sont donnés. Le récit le plus connu de la campagne est celui du roi lui-même, qui avait intérêt à grandir ses adversaires.",
+      "en": "Daeron divided his host in three. Lord Lyonel Tyrell came down the Prince’s Pass at the western end of the Red Mountains. The king took the Boneway, where Orys Baratheon had been trapped a century and a half before, and slipped past the Dornish watchtowers by goat tracks that were thought impassable. The third force came by sea: Alyn Velaryon, called Oakenfist, broke the Planky Town at the mouth of the Greenblood and sailed upriver. Dorne was cut in two, and its eastern and western armies could no longer support each other. A series of engagements followed which the chronicle does not describe: neither their names, their sites nor their numbers are given. The best-known account of the campaign is the king’s own, and he had reason to magnify his opponents."
+     },
+     "outcome": {
+      "fr": "Les défenses de Dorne sont tournées par les cols et par le fleuve ; les armées royales convergent vers Lancehélion.",
+      "en": "Dorne’s defences were turned by the passes and by the river; the royal hosts converged on Sunspear."
+     },
+     "losses": {
+      "fr": "Dix mille hommes seraient morts pour prendre Dorne : le chiffre vaut pour l’ensemble de la conquête, non pour un combat précis. Les pertes dorniennes ne sont pas connues. Selon le prince Doran Martell, Daeron a gonflé dans son livre le nombre des Dorniens pour rehausser ses victoires.",
+      "en": "Ten thousand men are said to have died taking Dorne: the figure covers the conquest as a whole, not any one engagement. Dornish losses are not known. According to Prince Doran Martell, Daeron inflated the number of Dornishmen in his book to heighten his victories."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "twoiaf",
+       "locator": "The Targaryen Kings: Daeron I"
+      },
+      {
+       "id": "adwd",
+       "locator": "Jon IV (ch. 17)"
+      },
+      {
+       "id": "agot",
+       "locator": "Jon I (ch. 5)"
+      },
+      {
+       "id": "affc",
+       "locator": "The Princess in the Tower (ch. 40)"
+      }
+     ]
+    },
+    {
+     "id": "soumission-de-lancehelion",
+     "warId": "conquete-de-dorne",
+     "name": {
+      "fr": "La soumission de Lancehélion",
+      "en": "The Submission of Sunspear"
+     },
+     "year": 158,
+     "dateCertainty": "exacte",
+     "placeId": "lancehelion",
+     "placeName": {
+      "fr": "Lancehélion et sa ville ombreuse",
+      "en": "Sunspear and its shadow city"
+     },
+     "sides": [
+      "couronne",
+      "dorne"
+     ],
+     "victor": "couronne",
+     "dragons": [],
+     "summary": {
+      "fr": "Moins d’un an après l’entrée en campagne, les armées royales arrivent devant Lancehélion et se frayent un passage en combattant à travers la ville ombreuse, le faubourg serré contre ses murailles. En 158, le prince de Dorne et quarante des plus puissants seigneurs dorniens plient le genou devant Daeron. Pour la première fois, les sept royaumes obéissent au même trône, en fait et plus seulement en titre. Le roi reste quelque temps pour réduire les derniers rebelles ; une flèche empoisonnée qui lui était destinée atteint son cousin Aemon, le Chevalier-Dragon, qu’il faut renvoyer se soigner. Daeron regagne Port-Réal en 159. Quatorze otages de haute naissance sont conduits dans la capitale, lord Tyrell reste pour gouverner le pays, et le roi écrit La Conquête de Dorne, récit dont on loue la simplicité.",
+      "en": "Less than a year after the campaign opened, the royal hosts reached Sunspear and fought their way through the shadow city, the settlement pressed against its walls. In 158 the Prince of Dorne and forty of the most powerful Dornish lords bent the knee to Daeron. For the first time all seven kingdoms answered to one throne in fact and not only in style. The king stayed for a while to put down the last rebels; a poisoned arrow meant for him struck his cousin Aemon the Dragonknight instead, who had to be sent home to recover. Daeron returned to King’s Landing in 159. Fourteen highborn hostages were taken to the capital, Lord Tyrell stayed behind to govern the country, and the king wrote The Conquest of Dorne, an account praised for its plainness."
+     },
+     "outcome": {
+      "fr": "Dorne est soumise et gouvernée au nom du roi par lord Lyonel Tyrell. Les otages tiennent les seigneurs ; rien ne tient le peuple.",
+      "en": "Dorne submitted and was governed in the king’s name by Lord Lyonel Tyrell. The hostages bound the lords; nothing bound the smallfolk."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "twoiaf",
+       "locator": "The Targaryen Kings: Daeron I"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Targaryen Kings: Aegon IV"
+      },
+      {
+       "id": "asos",
+       "locator": "Tyrion IX (ch. 66)"
+      }
+     ]
+    },
+    {
+     "id": "soulevement-de-dorne",
+     "warId": "conquete-de-dorne",
+     "name": {
+      "fr": "L’assassinat du Grès et la seconde campagne",
+      "en": "The Murder at Sandstone and the Second Campaign"
+     },
+     "year": 160,
+     "dateCertainty": "approximative",
+     "placeName": {
+      "fr": "Le Grès, puis les Osseux, Bourg-Cabanes et la Sang-vert",
+      "en": "Sandstone, then the Boneway, the Planky Town and the Greenblood"
+     },
+     "sides": [
+      "couronne",
+      "dorne"
+     ],
+     "victor": "indecis",
+     "dragons": [],
+     "summary": {
+      "fr": "Lord Tyrell passe d’un château à l’autre, pourchasse les rebelles et punit ceux qui les aident ; son convoi est attaqué, ses vivres volés, ses camps brûlés. Il a coutume de prendre le lit du seigneur qui le reçoit. Au Grès, chez les Qorgyle, le lit a un baldaquin de velours et un cordon censé appeler une servante : il tire, et une centaine de scorpions rouges lui tombent dessus. En quinze jours, l’œuvre du Jeune Dragon est défaite dans tout le pays. Des lettres citées par un mestre désignent lord Qorgyle lui-même ; on ne sait s’il se vengeait d’un affront ou si sa loyauté avait toujours été feinte. Lys et Pentos aident les insurgés. Daeron revient en 160 et gagne plusieurs combats dans les Osseux, tandis qu’Alyn Velaryon s’abat de nouveau sur Bourg-Cabanes et la Sang-vert.",
+      "en": "Lord Tyrell moved from castle to castle, hunting rebels and punishing those who helped them; his train was attacked, his supplies stolen, his camps burned. It was his habit to take the bed of whichever lord was his host. At Sandstone, seat of the Qorgyles, the bed had a velvet canopy and a sash said to summon a girl: he pulled it, and a hundred red scorpions dropped on him. Within a fortnight the Young Dragon’s work was undone across the country. Letters cited by a maester point to Lord Qorgyle himself; whether he was repaying a slight or had feigned his loyalty from the start is not known. Lys and Pentos lent the rebels aid. Daeron returned in 160 and won several fights along the Boneway, while Alyn Velaryon descended once more on the Planky Town and the Greenblood."
+     },
+     "outcome": {
+      "fr": "Le gouverneur est mort et Dorne soulevée. Les victoires de 160 amènent les Dorniens à proposer des pourparlers, qui seront un piège. La date de l’assassinat n’est pas donnée : il précède le retour du roi.",
+      "en": "The governor was dead and Dorne in revolt. The victories of 160 brought the Dornish to propose a parley, which proved to be a trap. The murder itself is not dated: it preceded the king’s return."
+     },
+     "losses": {
+      "fr": "Lord Lyonel Tyrell. Pour les trois années qui suivent la soumission, mestre Yandel compte quarante mille morts dans le camp du roi ; Benjen Stark, dans A Game of Thrones, en dit cinquante mille. Aucun chiffre n’est donné pour les Dorniens.",
+      "en": "Lord Lyonel Tyrell. For the three years that followed the submission Maester Yandel counts forty thousand dead on the king’s side; Benjen Stark, in A Game of Thrones, says fifty thousand. No figure is given for the Dornish."
+     },
+     "reliability": "contradictoire",
+     "sources": [
+      {
+       "id": "twoiaf",
+       "locator": "The Targaryen Kings: Daeron I"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Reach: House Tyrell"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Free Cities: The Quarrelsome Daughters: Myr, Lys, and Tyrosh"
+      },
+      {
+       "id": "asos",
+       "locator": "Tyrion IX (ch. 66)"
+      },
+      {
+       "id": "agot",
+       "locator": "Jon I (ch. 5)"
+      }
+     ]
+    },
+    {
+     "id": "mort-de-daeron-i",
+     "warId": "conquete-de-dorne",
+     "name": {
+      "fr": "La mort du Jeune Dragon",
+      "en": "The Death of the Young Dragon"
+     },
+     "year": 161,
+     "dateCertainty": "exacte",
+     "placeName": {
+      "fr": "Dorne, lieu non précisé par les sources",
+      "en": "Dorne, site not given in the sources"
+     },
+     "sides": [
+      "couronne",
+      "dorne"
+     ],
+     "victor": "dorne",
+     "dragons": [],
+     "summary": {
+      "fr": "En 161, les Dorniens font savoir qu’ils sont prêts à renouveler leur hommage et à discuter des conditions. Daeron se rend à la rencontre sous une bannière de paix. C’est un guet-apens : son escorte est assaillie pendant les pourparlers. Le roi meurt l’épée Feunoyr à la main, entouré, dit la chronique, d’une douzaine d’adversaires. Trois chevaliers de la Garde Royale tombent en le défendant, un quatrième se rend ; son cousin Aemon, le Chevalier-Dragon, tue deux des assaillants avant d’être pris. Ser Olyvar Oakheart, de la Garde, est mort aux côtés de Daeron, sans que l’on sache s’il compte parmi ces trois. Le lieu de l’embuscade n’est pas indiqué. Le corps du roi rentre par un port des terres de l’Orage que l’on appelle depuis la Ville-en-Pleurs.",
+      "en": "In 161 the Dornish let it be known that they were ready to renew their fealty and to discuss terms. Daeron went to the meeting under a peace banner. It was an ambush: his party was attacked during the talks. The king died with the sword Blackfyre in his hand, ringed, the chronicle says, by a dozen enemies. Three knights of the Kingsguard fell defending him and a fourth yielded; his cousin Aemon the Dragonknight killed two of the attackers before he was taken. Ser Olyvar Oakheart of the Kingsguard died at Daeron’s side, though it is not known whether he was one of those three. The site of the ambush is not recorded. The king’s body came home through a port in the stormlands known ever since as the Weeping Town."
+     },
+     "outcome": {
+      "fr": "Le roi est mort sans enfant ; son frère Baelor lui succède et choisit la paix. La conquête n’a pas duré quatre ans.",
+      "en": "The king died childless; his brother Baelor succeeded him and chose peace. The conquest had lasted less than four years."
+     },
+     "losses": {
+      "fr": "Daeron Ier et trois chevaliers de la Garde Royale. Aemon le Chevalier-Dragon est fait prisonnier.",
+      "en": "Daeron I and three knights of the Kingsguard. Aemon the Dragonknight was taken prisoner."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "twoiaf",
+       "locator": "The Targaryen Kings: Daeron I"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Stormlands"
+      },
+      {
+       "id": "affc",
+       "locator": "The Soiled Knight (ch. 13)"
+      }
+     ]
+    }
+   ],
+   "consequences": {
+    "fr": "Baelor Ier refuse que l’on exécute les quatorze otages, comme le voulait son oncle Viserys, Main du Roi. Il les rend, gagne Lancehélion pieds nus par les Osseux et conclut la paix avec le prince de Dorne. Elle est scellée par les fiançailles de son cousin Daeron, le futur Daeron II, avec la princesse Myriah Martell. Il obtient aussi la délivrance d’Aemon, que lord Wyl tenait dans une cage suspendue au-dessus d’une fosse à vipères ; les chansons disent que les serpents épargnèrent le roi, la chronique qu’il fut mordu à maintes reprises et faillit en mourir. Parmi les morts de la guerre figure Rickon Stark, héritier de Winterfell, tombé devant Lancehélion. Dorne n’entre dans le royaume qu’en 187, par mariage et par traité. Les avantages alors consentis aux Dorniens nourriront le ressentiment dont la cause Feunoyr tirera ses partisans.",
+    "en": "Baelor I would not have the fourteen hostages put to death, as his uncle Viserys, the King’s Hand, wished. He gave them back, walked the Boneway barefoot to Sunspear and made peace with the Prince of Dorne. It was sealed by the betrothal of his cousin Daeron, the future Daeron II, to Princess Myriah Martell. He also secured the release of Aemon, whom Lord Wyl kept in a cage hung above a pit of vipers; the songs say the snakes spared the king, the chronicle that he was bitten many times and nearly died of it. Among the dead of the war was Rickon Stark, heir to Winterfell, who fell outside Sunspear. Dorne entered the realm only in 187, by marriage and by treaty. The concessions then granted to the Dornish fed the resentment from which the Blackfyre cause would draw its followers."
+   },
+   "eventIds": [
+    "p6-daeron-dorne",
+    "p6-baelor",
+    "p6-union-dorne"
+   ],
+   "continuity": "livres",
+   "reliability": "etabli",
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Daeron I"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Baelor I"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "Dorne: Dorne Against the Dragons"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The North: The Lords of Winterfell"
+    },
+    {
+     "id": "agot",
+     "locator": "Jon I (ch. 5)"
+    },
+    {
+     "id": "asos",
+     "locator": "Tyrion IX (ch. 66)"
+    },
+    {
+     "id": "affc",
+     "locator": "The Princess in the Tower (ch. 40)"
+    },
+    {
+     "id": "adwd",
+     "locator": "Jon IV (ch. 17)"
+    }
+   ]
+  },
+  {
+   "id": "rebellion-feunoyr-1",
+   "title": {
+    "fr": "La première rébellion Feunoyr",
+    "en": "The First Blackfyre Rebellion"
+   },
+   "from": 196,
+   "to": 196,
+   "periodId": "p6",
+   "summary": {
+    "fr": "En 196, Daemon Feunoyr, bâtard légitimé d’Aegon IV, revendique le trône de son demi-frère Daeron II. Il inverse les couleurs de sa maison : un dragon noir sur champ rouge. La guerre dure près d’un an et partage le royaume ; on se bat dans le Val, dans l’Ouest, dans le Conflans et dans le Bief. Daeron a pour lui les Arryn, les Lannister, les Tyrell et Dorne ; Daemon rallie des seigneurs des Marches et du Bief hostiles à la paix dornienne, et plusieurs maisons envoient des fils dans les deux camps. Tout se décide alors que l’armée rebelle marche sur Port-Réal, sur un terrain que l’on appellera le Champ d’Herberouge : Daemon et ses deux fils aînés y meurent sous les flèches de son demi-frère Brynden Rivers, dit Freuxsanglant. Aegor Rivers emporte l’épée Feunoyr et les enfants survivants au-delà de la mer Étroite.",
+    "en": "In 196 Daemon Blackfyre, a legitimised bastard of Aegon IV, claimed the throne of his half-brother Daeron II. He reversed the colours of his house: a black dragon on a red field. The war lasted close to a year and split the realm; there was fighting in the Vale, the westerlands, the riverlands and the Reach. Daeron had the Arryns, the Lannisters, the Tyrells and Dorne; Daemon drew lords of the Marches and the Reach who hated the Dornish peace, and several houses sent sons to both sides. The issue was settled as the rebel host marched on King’s Landing, on ground later called the Redgrass Field: Daemon and his two eldest sons died there under the arrows of his half-brother Brynden Rivers, called Bloodraven. Aegor Rivers carried the sword Blackfyre and the surviving children across the narrow sea."
+   },
+   "causes": {
+    "fr": "Les mestres n’isolent aucune offense décisive ; ils énumèrent des griefs accumulés pendant douze ans. Aegon IV avait armé Daemon chevalier à douze ans et lui avait remis en public Feunoyr, l’épée du Conquérant, que les rois se transmettaient ; sur son lit de mort, en 184, il légitima tous ses bâtards. Il avait aussi, selon la chronique, répandu lui-même le bruit que Daeron était né de la reine Naerys et du Chevalier-Dragon. Daeron II, lettré plus que guerrier, épousa une Martell, fit entrer Dorne dans le royaume en 187 à des conditions jugées trop douces, et s’entoura de Dorniens. Les partisans de Daemon ajoutent qu’il aimait sa demi-sœur Daenerys, donnée au prince de Dorne ; rien ne prouve qu’elle l’ait aimé. Mestre Yandel pense qu’Aegor Rivers emporta la décision ; le prince Maekar, tel que son fils le cite, nomme aussi ser Quentyn Boule, maître d’armes du Donjon Rouge.",
+    "en": "The maesters single out no decisive insult; they list grievances gathered over twelve years. Aegon IV had knighted Daemon at twelve and publicly given him Blackfyre, the Conqueror’s sword, handed down from king to king; on his deathbed in 184 he legitimised all his bastards. He had also, by the chronicle’s account, himself put about the rumour that Daeron was the son of Queen Naerys and the Dragonknight. Daeron II, more scholar than soldier, married a Martell, brought Dorne into the realm in 187 on terms many thought too generous, and filled his court with Dornishmen. Daemon’s partisans add that he loved his half-sister Daenerys, who was given to the Prince of Dorne; nothing shows that she loved him. Maester Yandel believes Aegor Rivers tipped the decision; Prince Maekar, as his son reports him, also names Ser Quentyn Ball, master-at-arms of the Red Keep."
+   },
+   "belligerents": [
+    {
+     "id": "couronne",
+     "name": {
+      "fr": "Le dragon rouge : Daeron II et les loyalistes",
+      "en": "The red dragon: Daeron II and the loyalists"
+     },
+     "tone": "rouge",
+     "leaders": [
+      {
+       "id": "daeron-ii",
+       "name": {
+        "fr": "Daeron II Targaryen",
+        "en": "Daeron II Targaryen"
+       }
+      },
+      {
+       "id": "baelor-fils-daeron-ii",
+       "name": {
+        "fr": "Baelor Targaryen, dit Briselance",
+        "en": "Baelor Targaryen, called Breakspear"
+       }
+      },
+      {
+       "id": "maekar-i",
+       "name": {
+        "fr": "Maekar Targaryen",
+        "en": "Maekar Targaryen"
+       }
+      },
+      {
+       "id": "brynden-rivers",
+       "name": {
+        "fr": "Brynden Rivers, dit Freuxsanglant",
+        "en": "Brynden Rivers, called Bloodraven"
+       }
+      },
+      {
+       "name": {
+        "fr": "Lord Hayford, Main du Roi",
+        "en": "Lord Hayford, Hand of the King"
+       }
+      },
+      {
+       "name": {
+        "fr": "Donnel Arryn",
+        "en": "Donnel Arryn"
+       }
+      },
+      {
+       "name": {
+        "fr": "Gwayne Corbray, de la Garde Royale",
+        "en": "Gwayne Corbray of the Kingsguard"
+       }
+      }
+     ]
+    },
+    {
+     "id": "feunoyr",
+     "name": {
+      "fr": "Le dragon noir : Daemon Feunoyr et ses partisans",
+      "en": "The black dragon: Daemon Blackfyre and his supporters"
+     },
+     "tone": "noir",
+     "leaders": [
+      {
+       "id": "daemon-i-blackfyre",
+       "name": {
+        "fr": "Daemon Ier Feunoyr",
+        "en": "Daemon I Blackfyre"
+       }
+      },
+      {
+       "id": "aegor-rivers",
+       "name": {
+        "fr": "Aegor Rivers, dit Aigracier",
+        "en": "Aegor Rivers, called Bittersteel"
+       }
+      },
+      {
+       "name": {
+        "fr": "Quentyn Boule, dit Boule-de-Feu",
+        "en": "Quentyn Ball, called Fireball"
+       }
+      },
+      {
+       "id": "aegon-blackfyre",
+       "name": {
+        "fr": "Aegon Feunoyr",
+        "en": "Aegon Blackfyre"
+       }
+      },
+      {
+       "id": "aemon-blackfyre",
+       "name": {
+        "fr": "Aemon Feunoyr",
+        "en": "Aemon Blackfyre"
+       }
+      }
+     ]
+    }
+   ],
+   "battles": [
+    {
+     "id": "port-lannis-196",
+     "warId": "rebellion-feunoyr-1",
+     "name": {
+      "fr": "La campagne de Quentyn Boule dans l’Ouest",
+      "en": "Quentyn Ball’s Campaign in the West"
+     },
+     "year": 196,
+     "dateCertainty": "approximative",
+     "placeId": "port-lannis",
+     "placeName": {
+      "fr": "Les portes de Port-Lannis, dans l’Ouest",
+      "en": "The gates of Lannisport, in the westerlands"
+     },
+     "sides": [
+      "feunoyr",
+      "couronne"
+     ],
+     "victor": "feunoyr",
+     "dragons": [],
+     "summary": {
+      "fr": "Avant Herberouge, la guerre se joue en campagnes dispersées, connues par des allusions plus que par des récits. La plus nette concerne l’Ouest. Ser Quentyn Boule, dit Boule-de-Feu (Fireball dans le texte original), ancien maître d’armes du Donjon Rouge et l’un des meilleurs capitaines de Daemon, y bat les loyalistes : il tue lord Lefford aux portes de Port-Lannis, puis met en fuite lord Damon Lannister, le Lion Gris, qui se retire dans Castral Roc. Au passage de la Mander, il abat l’un après l’autre les fils de lady Penrose et n’épargne que le plus jeune. Ces faits ne sont connus que par des propos tenus seize ans plus tard dans The Mystery Knight : ni date, ni effectifs. Dans le Bief, à l’inverse, lord Leo Tyrell l’emporte sur les partisans du dragon noir.",
+      "en": "Before the Redgrass Field the war was fought in scattered campaigns, known from allusions more than from narratives. The clearest concerns the west. Ser Quentyn Ball, called Fireball, formerly master-at-arms of the Red Keep and one of Daemon’s ablest captains, beat the loyalists there: he killed Lord Lefford at the gates of Lannisport, then put Lord Damon Lannister, the Grey Lion, to flight and drove him back inside Casterly Rock. At the crossing of the Mander he cut down the sons of Lady Penrose one after another and spared only the youngest. These deeds are known only from talk reported sixteen years later in The Mystery Knight, with no date and no numbers. In the Reach, by contrast, Lord Leo Tyrell had the better of the black dragon’s supporters."
+     },
+     "outcome": {
+      "fr": "L’Ouest est tenu en respect pour un temps. Quentyn Boule ne verra pas la fin de la guerre : la veille d’Herberouge, un archer l’abat alors qu’il s’était arrêté pour boire.",
+      "en": "The west was held in check for a time. Ball did not see the end of the war: on the eve of the Redgrass Field an archer shot him down when he had stopped to drink."
+     },
+     "losses": {
+      "fr": "Lord Lefford et plusieurs fils de lady Penrose. Aucun chiffre n’est donné.",
+      "en": "Lord Lefford and several sons of Lady Penrose. No figure is given."
+     },
+     "reliability": "recit-unique",
+     "sources": [
+      {
+       "id": "tmk"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Westerlands: House Lannister Under the Dragons"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Reach: House Tyrell"
+      }
+     ]
+    },
+    {
+     "id": "champ-d-herberouge",
+     "warId": "rebellion-feunoyr-1",
+     "name": {
+      "fr": "La bataille du Champ d’Herberouge",
+      "en": "The Battle of the Redgrass Field"
+     },
+     "year": 196,
+     "dateCertainty": "exacte",
+     "placeId": "herberouge",
+     "placeName": {
+      "fr": "Le Champ d’Herberouge (emplacement exact non donné)",
+      "en": "The Redgrass Field (exact site not given)"
+     },
+     "sides": [
+      "couronne",
+      "feunoyr"
+     ],
+     "victor": "couronne",
+     "dragons": [],
+     "summary": {
+      "fr": "Daemon marche sur Port-Réal. L’avant-garde royale de lord Donnel Arryn est taillée en pièces ; Daemon tue Wyl Waynwood, puis affronte ser Gwayne Corbray, de la Garde Royale, acier valyrien contre acier valyrien, près d’une heure dit-on. Corbray tombe, aveuglé. Daemon s’arrête pour le faire porter aux mestres. Pendant ce répit, Brynden Rivers et ses archers, les Dents de Freux, prennent la Crête-en-Pleurs : ils abattent Aegon, l’aîné des jumeaux, puis Daemon, de sept flèches, puis Aemon qui avait ramassé l’épée. La déroute commence. Aegor Rivers la retourne en charge et crève un œil à Brynden. Le prince Baelor survient alors sur les arrières avec les seigneurs de l’Orage et les Dorniens et écrase les rebelles contre le mur de boucliers de Maekar : le marteau et l’enclume.",
+      "en": "Daemon was marching on King’s Landing. Lord Donnel Arryn’s royal vanguard was cut to pieces; Daemon killed Wyl Waynwood, then met Ser Gwayne Corbray of the Kingsguard, Valyrian steel against Valyrian steel, for close to an hour by report. Corbray went down blinded. Daemon halted to have him carried to the maesters. In that pause Brynden Rivers and his archers, the Raven’s Teeth, took the Weeping Ridge: they shot Aegon, the elder twin, then Daemon, with seven arrows, then Aemon, who had picked up the sword. The rout began. Aegor Rivers turned it into a charge and put out Brynden’s eye. Prince Baelor then came up in the rear with the stormlords and the Dornishmen and crushed the rebels against Maekar’s shield wall: the hammer and the anvil."
+     },
+     "outcome": {
+      "fr": "La rébellion s’effondre avec son prétendant. Les récits viennent surtout de vétérans : dans The Sworn Sword, un ancien partisan du dragon noir soutient que sans la halte auprès de Corbray, Daemon aurait enfoncé la gauche de Maekar avant l’arrivée de Brynden et de Baelor, puis pris la capitale. C’est le regret d’un vaincu, non un fait.",
+      "en": "The rebellion collapsed with its claimant. The accounts come mostly from veterans: in The Sworn Sword a former follower of the black dragon holds that but for the halt over Corbray, Daemon would have broken Maekar’s left before Brynden and Baelor arrived, and then taken the capital. That is a beaten man’s regret, not a fact."
+     },
+     "losses": {
+      "fr": "Dix mille morts, selon les récits. Chez les rebelles : Daemon Feunoyr et ses fils Aegon et Aemon. Chez les loyalistes : lord Hayford, Main du Roi ; Brynden Rivers y laisse un œil.",
+      "en": "Ten thousand dead, by the accounts. On the rebel side: Daemon Blackfyre and his sons Aegon and Aemon. On the loyalist side: Lord Hayford, the King’s Hand; Brynden Rivers lost an eye."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "tss"
+      },
+      {
+       "id": "tmk"
+      },
+      {
+       "id": "thk"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Targaryen Kings: Daeron II"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Vale: House Arryn"
+      }
+     ]
+    }
+   ],
+   "consequences": {
+    "fr": "Daeron II punit plus durement qu’on ne l’attendait : terres, titres ou fortune confisqués, otages exigés de toutes les maisons rebelles. Lord Gormon Peake perd deux de ses trois châteaux. Aegor Rivers gagne Tyrosh avec la veuve de Daemon, ses cinq fils survivants, ses filles et l’épée ; il fondera plus tard la Compagnie Dorée, et la cause reviendra quatre fois. Brynden Rivers y gagne la réputation de tueur de parents, qui le suivra jusqu’à la charge de Main. Pendant des années, demander à un homme s’il a servi le dragon rouge ou le noir reste une question dangereuse. Le Fléau de Printemps, en 209, tue le roi, deux de ses petits-fils et la plupart des otages : les maisons vaincues n’ont plus rien qui les retienne.",
+    "en": "Daeron II punished more harshly than had been expected of him: lands, titles or wealth forfeited, hostages demanded of every rebel house. Lord Gormon Peake lost two of his three castles. Aegor Rivers reached Tyrosh with Daemon’s widow, his five surviving sons, his daughters and the sword; he would later found the Golden Company, and the cause would return four times. Brynden Rivers came away with the name of kinslayer, which followed him to the Handship. For years, asking a man whether he had served the red dragon or the black remained a dangerous question. The Great Spring Sickness of 209 killed the king, two of his grandsons and most of the hostages: the defeated houses had nothing left to restrain them."
+   },
+   "eventIds": [
+    "p6-aegon-iv",
+    "p6-union-dorne",
+    "p6-herberouge"
+   ],
+   "continuity": "livres",
+   "reliability": "etabli",
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Aegon IV"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Daeron II"
+    },
+    {
+     "id": "tss"
+    },
+    {
+     "id": "tmk"
+    },
+    {
+     "id": "thk"
+    }
+   ]
+  },
+  {
+   "id": "rebellion-feunoyr-2",
+   "title": {
+    "fr": "La deuxième rébellion Feunoyr",
+    "en": "The Second Blackfyre Rebellion"
+   },
+   "from": 212,
+   "to": 212,
+   "periodId": "p6",
+   "summary": {
+    "fr": "En 212, un tournoi de noces à Murs-Blancs, château de lord Ambrose Butterwell dans le Conflans, sert de rendez-vous à d’anciens partisans du dragon noir. Parmi les jouteurs figure Daemon II Feunoyr, fils aîné survivant du premier prétendant, venu sous un faux nom, en chevalier errant et ménestrel. Lord Gormon Peake, qui mène le complot, compte sur un œuf de dragon offert en prix du tournoi et sur les rêves du jeune homme, qui a vu un dragon éclore. Rien ne se passe comme prévu : l’œuf disparaît, le prétendant est démasqué, les invités s’éclipsent. Brynden Rivers, Main du Roi, arrive devant le château avec une armée. Il n’y a pas de bataille rangée, ni même de combat : la garnison refuse de se battre et Daemon est arrêté. La rébellion finit avant d’avoir commencé.",
+    "en": "In 212 a wedding tourney at Whitewalls, Lord Ambrose Butterwell’s castle in the riverlands, served as a gathering for old followers of the black dragon. Among the jousters rode Daemon II Blackfyre, eldest surviving son of the first claimant, disguised as a hedge knight under the name of John the Fiddler. Lord Gormon Peake, who led the plot, was counting on a dragon’s egg offered as the tourney prize and on the young man’s dreams, in which a dragon hatched. Nothing went as planned: the egg vanished, the claimant was unmasked, the guests slipped away. Brynden Rivers, the King’s Hand, appeared before the castle with an army. There was no pitched battle, nor any fighting at all: the garrison declined to fight and Daemon was arrested. The rebellion ended before it had begun."
+   },
+   "causes": {
+    "fr": "Le Fléau de Printemps de 209 avait emporté Daeron II, deux de ses petits-fils et la plupart des enfants pris en otages après Herberouge. Aerys Ier, roi par défaut, préférait ses livres au gouvernement et laissait régner sa Main, Brynden Rivers, bâtard, tueur de parents et réputé sorcier, que beaucoup haïssaient. À ces rancunes s’ajoutaient celles des vaincus de 196 : Gormon Peake voulait ses châteaux. Le mariage de lord Butterwell avec une fille Frey offrait un prétexte honnête pour réunir des hommes du même avis. Aegor Rivers n’en était pas. Resté de l’autre côté de la mer avec l’épée Feunoyr, il ne soutint pas l’entreprise, et l’un des conjurés s’en inquiétait. Le complot reposait donc sur un rêve et sur un œuf.",
+    "en": "The Great Spring Sickness of 209 had carried off Daeron II, two of his grandsons and most of the children taken hostage after the Redgrass Field. Aerys I, king by default, preferred his books to government and left the realm to his Hand, Brynden Rivers, a bastard, a kinslayer and a reputed sorcerer whom many hated. To these resentments were added those of the losers of 196: Gormon Peake wanted his castles back. Lord Butterwell’s marriage to a Frey daughter gave like-minded men an honest pretext to meet. Aegor Rivers was not among them. He stayed across the sea with the sword Blackfyre and gave the venture no support, and one of the plotters was uneasy about it. The plot therefore rested on a dream and an egg."
+   },
+   "belligerents": [
+    {
+     "id": "couronne",
+     "name": {
+      "fr": "Le Trône de Fer : la Main du Roi et son armée",
+      "en": "The Iron Throne: the King’s Hand and his host"
+     },
+     "tone": "rouge",
+     "leaders": [
+      {
+       "id": "brynden-rivers",
+       "name": {
+        "fr": "Brynden Rivers, dit Freuxsanglant",
+        "en": "Brynden Rivers, called Bloodraven"
+       }
+      },
+      {
+       "id": "aerys-i",
+       "name": {
+        "fr": "Aerys Ier Targaryen",
+        "en": "Aerys I Targaryen"
+       }
+      }
+     ]
+    },
+    {
+     "id": "feunoyr",
+     "name": {
+      "fr": "Les conjurés de Murs-Blancs",
+      "en": "The Whitewalls conspirators"
+     },
+     "tone": "noir",
+     "leaders": [
+      {
+       "id": "daemon-ii-blackfyre",
+       "name": {
+        "fr": "Daemon II Feunoyr",
+        "en": "Daemon II Blackfyre"
+       }
+      },
+      {
+       "name": {
+        "fr": "Gormon Peake",
+        "en": "Gormon Peake"
+       }
+      },
+      {
+       "name": {
+        "fr": "Ambrose Butterwell",
+        "en": "Ambrose Butterwell"
+       }
+      }
+     ]
+    }
+   ],
+   "battles": [
+    {
+     "id": "murs-blancs",
+     "warId": "rebellion-feunoyr-2",
+     "name": {
+      "fr": "La reddition de Murs-Blancs",
+      "en": "The Surrender at Whitewalls"
+     },
+     "year": 212,
+     "dateCertainty": "exacte",
+     "placeName": {
+      "fr": "Murs-Blancs, dans le Conflans",
+      "en": "Whitewalls, in the riverlands"
+     },
+     "sides": [
+      "couronne",
+      "feunoyr"
+     ],
+     "victor": "couronne",
+     "dragons": [],
+     "summary": {
+      "fr": "Ce n’est pas une bataille, et le musée ne la range ici que pour le dire. Démasqué par ser Duncan le Grand, le prétendant veut prouver son droit en joutant contre ser Glendon, que lord Peake avait fait accuser du vol de l’œuf ; il est désarçonné à la première passe. Au même moment, Brynden Rivers paraît sous les murs avec trois chevaliers de la Garde Royale, ses trois cents archers, cinq cents chevaliers et cinq mille piques des terres de la Couronne et du Conflans. Daemon appelle la garnison à mourir pour lui ; on lui rit au nez. Il sort proposer un combat singulier et se fait arrêter. Face à l’armée, un seul homme meurt : un serviteur de lord Vyrwel, qui se révèle espion de la Main et qu’un chevalier Costayne abat aussitôt.",
+      "en": "This was not a battle, and the museum lists it here only to say so. Unmasked by Ser Duncan the Tall, the claimant sought to prove his right by jousting against Ser Glendon, whom Lord Peake had had accused of stealing the egg; he was unhorsed at the first pass. At that moment Brynden Rivers appeared beneath the walls with three knights of the Kingsguard, his three hundred archers, five hundred knights and five thousand spears from the crownlands and the riverlands. Daemon called on the garrison to die for him and was laughed at. He rode out to offer single combat and was taken. In the face of the army one man died: a servant of Lord Vyrwel who revealed himself as the Hand’s spy and was cut down at once by a Costayne knight."
+     },
+     "outcome": {
+      "fr": "Daemon II est gardé en otage au Donjon Rouge, pour qu’Aegor Rivers ne puisse couronner son cadet Haegon. Gormon Peake est décapité ; lord Butterwell ne conserve qu’un dixième de sa fortune ; Murs-Blancs, confisqué, doit être rasé pour ne pas devenir un lieu de pèlerinage comme Herberouge. Quant à l’œuf, ser Duncan comprend qu’il a été subtilisé pour le compte de la Main.",
+      "en": "Daemon II was kept as a hostage in the Red Keep so that Aegor Rivers could not crown his younger brother Haegon. Gormon Peake was beheaded; Lord Butterwell kept only a tenth of his fortune; Whitewalls, forfeit, was to be razed so that it would not become a place of pilgrimage like the Redgrass Field. As for the egg, Ser Duncan came to understand that it had been spirited away on the Hand’s behalf."
+     },
+     "losses": {
+      "fr": "Avant l’arrivée de l’armée, ser Duncan avait tué ser Tommard Heddle en combat singulier et jeté lord Alyn Cockshaw dans un puits. Gormon Peake et d’autres conjurés sont exécutés ensuite.",
+      "en": "Before the army arrived Ser Duncan had killed Ser Tommard Heddle in single combat and thrown Lord Alyn Cockshaw down a well. Gormon Peake and other plotters were executed afterwards."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "tmk"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Targaryen Kings: Aerys I"
+      }
+     ]
+    }
+   ],
+   "consequences": {
+    "fr": "Le soulèvement n’a coûté presque aucune vie et a montré deux choses : que la cause gardait des fidèles parmi les seigneurs, seize ans après Herberouge, et qu’elle ne pouvait rien sans Aegor Rivers ni sans armée. Les conjurés doivent être jugés à Port-Réal ; selon ce qu’on annonce alors à ser Duncan, ceux qui avaient déjà été graciés après 196 perdront leurs biens ou leur liberté, les autres s’en tireront en livrant un otage. La détention de Daemon devait empêcher qu’un frère fût couronné à sa place. Le calcul ne tient que quelques années : en 219, Aegor Rivers débarque avec Haegon. Les deux témoins de Murs-Blancs que l’histoire retiendra sont un chevalier errant et son écuyer, le futur Aegon V.",
+    "en": "The rising cost almost no lives and showed two things: that the cause still had friends among the lords sixteen years after the Redgrass Field, and that it could do nothing without Aegor Rivers or without an army. The plotters were to be tried in King’s Landing; by what Ser Duncan was told at the time, those already pardoned after 196 would lose their goods or their freedom, and the rest would escape by giving a hostage. Holding Daemon was meant to prevent a brother being crowned in his place. The reckoning held for only a few years: in 219 Aegor Rivers landed with Haegon. The two witnesses of Whitewalls whom history would remember were a hedge knight and his squire, the future Aegon V."
+   },
+   "eventIds": [
+    "p6-cendregue-209",
+    "p6-murs-blancs"
+   ],
+   "continuity": "livres",
+   "reliability": "etabli",
+   "sources": [
+    {
+     "id": "tmk"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Aerys I"
+    }
+   ]
+  },
+  {
+   "id": "rebellion-feunoyr-3",
+   "title": {
+    "fr": "La troisième rébellion Feunoyr",
+    "en": "The Third Blackfyre Rebellion"
+   },
+   "from": 219,
+   "to": 219,
+   "periodId": "p6",
+   "summary": {
+    "fr": "En 219, Aegor Rivers couronne Haegon Feunoyr, quatrième fils de Daemon, et débarque en Westeros avec la Compagnie Dorée. C’est la moins connue des rébellions : un seul ouvrage en parle, en quelques lignes, sans nommer un champ de bataille ni indiquer où les exilés ont pris terre. On sait que le prince Maekar y commande avec autorité quand son frère le roi Aerys s’en remet aux autres, que ses fils Aerion et Aegon y combattent, et qu’Aegor et Brynden Rivers s’y affrontent une seconde fois. On sait surtout comment elle finit : Haegon est tué après avoir rendu son épée, et Aegor Rivers, pris vivant, est mené enchaîné au Donjon Rouge.",
+    "en": "In 219 Aegor Rivers crowned Haegon Blackfyre, the fourth son of Daemon, and landed in Westeros with the Golden Company. It is the least known of the rebellions: a single work mentions it, in a few lines, naming no battlefield and not saying where the exiles came ashore. We know that Prince Maekar commanded with authority while his brother King Aerys left matters to others, that his sons Aerion and Aegon fought in it, and that Aegor and Brynden Rivers met in combat a second time. Above all we know how it ended: Haegon was killed after giving up his sword, and Aegor Rivers, taken alive, was brought in chains to the Red Keep."
+   },
+   "causes": {
+    "fr": "La source ne donne aucune cause prochaine. On peut seulement replacer l’entreprise dans sa suite. Sept ans après Murs-Blancs, c’est Haegon, et non Daemon II, que les exilés couronnent : le prisonnier du Donjon Rouge est sans doute mort, à une date que les sources ne donnent pas. Aegor Rivers dispose désormais d’un instrument que la cause n’avait pas en 212, la Compagnie Dorée, qu’il a fondée pour empêcher les exilés de se disperser dans d’autres compagnies. Aerys Ier règne toujours de loin et sa Main reste haïe. Le reste serait conjecture, et le musée s’en abstient.",
+    "en": "The source gives no immediate cause. The venture can only be set in its sequence. Seven years after Whitewalls it was Haegon, not Daemon II, whom the exiles crowned: the prisoner of the Red Keep was in all likelihood dead, at a date the sources do not give. Aegor Rivers now had a tool the cause had lacked in 212, the Golden Company, which he had founded to keep the exiles from drifting off into other companies. Aerys I still reigned from a distance and his Hand was still hated. The rest would be conjecture, and the museum refrains from it."
+   },
+   "belligerents": [
+    {
+     "id": "couronne",
+     "name": {
+      "fr": "Le Trône de Fer : Aerys Ier et les siens",
+      "en": "The Iron Throne: Aerys I and his kin"
+     },
+     "tone": "rouge",
+     "leaders": [
+      {
+       "id": "aerys-i",
+       "name": {
+        "fr": "Aerys Ier Targaryen",
+        "en": "Aerys I Targaryen"
+       }
+      },
+      {
+       "id": "maekar-i",
+       "name": {
+        "fr": "Maekar Targaryen",
+        "en": "Maekar Targaryen"
+       }
+      },
+      {
+       "id": "brynden-rivers",
+       "name": {
+        "fr": "Brynden Rivers, dit Freuxsanglant",
+        "en": "Brynden Rivers, called Bloodraven"
+       }
+      },
+      {
+       "id": "aerion-fils-maekar-i",
+       "name": {
+        "fr": "Aerion Targaryen",
+        "en": "Aerion Targaryen"
+       }
+      },
+      {
+       "id": "aegon-v",
+       "name": {
+        "fr": "Aegon Targaryen, futur Aegon V",
+        "en": "Aegon Targaryen, the future Aegon V"
+       }
+      }
+     ]
+    },
+    {
+     "id": "feunoyr",
+     "name": {
+      "fr": "Haegon Feunoyr et la Compagnie Dorée",
+      "en": "Haegon Blackfyre and the Golden Company"
+     },
+     "tone": "noir",
+     "leaders": [
+      {
+       "id": "haegon-blackfyre",
+       "name": {
+        "fr": "Haegon Ier Feunoyr",
+        "en": "Haegon I Blackfyre"
+       }
+      },
+      {
+       "id": "aegor-rivers",
+       "name": {
+        "fr": "Aegor Rivers, dit Aigracier",
+        "en": "Aegor Rivers, called Bittersteel"
+       }
+      }
+     ]
+    }
+   ],
+   "battles": [
+    {
+     "id": "derniere-bataille-219",
+     "warId": "rebellion-feunoyr-3",
+     "name": {
+      "fr": "La dernière bataille de la troisième rébellion",
+      "en": "The Final Battle of the Third Rebellion"
+     },
+     "year": 219,
+     "dateCertainty": "exacte",
+     "placeName": {
+      "fr": "Lieu inconnu : la source ne le nomme pas",
+      "en": "Site unknown: the source does not name it"
+     },
+     "sides": [
+      "couronne",
+      "feunoyr"
+     ],
+     "victor": "couronne",
+     "dragons": [],
+     "summary": {
+      "fr": "La bataille n’a pas de nom, et le titre que lui donne le musée n’est qu’une étiquette. Mestre Yandel, seule source, n’en indique ni le lieu, ni le jour, ni les effectifs, ni le déroulement. Trois faits surnagent. Aegor et Brynden Rivers, demi-frères et ennemis jurés, s’y battent en duel pour la seconde fois, vingt-trois ans après Herberouge ; l’issue de ce duel n’est pas dite. La Compagnie Dorée est vaincue. Enfin Haegon Feunoyr, le prétendant, se rend et remet son épée, puis est tué quand même : la chronique parle d’une mort sans honneur et ne nomme pas le meurtrier. Tout ce que l’on ajouterait à ces lignes serait inventé.",
+      "en": "The battle has no name, and the title the museum gives it is only a label. Maester Yandel, the sole source, states neither its site, its day, its numbers nor its course. Three facts stand out. Aegor and Brynden Rivers, half-brothers and sworn enemies, fought their second duel there, twenty-three years after the Redgrass Field; how it ended is not said. The Golden Company was beaten. And Haegon Blackfyre, the claimant, surrendered and gave up his sword, and was killed all the same: the chronicle calls it a death without honour and does not name the killer. Anything added to these lines would be invention."
+     },
+     "outcome": {
+      "fr": "Le prétendant est mort, Aegor Rivers prisonnier. Jugé coupable de haute trahison, il est envoyé au Mur par le roi, contre l’avis du prince Aerion et de Brynden Rivers, qui voulaient sa tête.",
+      "en": "The claimant was dead and Aegor Rivers a prisoner. Found guilty of high treason, he was sent to the Wall by the king, against the advice of Prince Aerion and Brynden Rivers, who wanted his head."
+     },
+     "losses": {
+      "fr": "Haegon Feunoyr. Aucun chiffre n’est donné.",
+      "en": "Haegon Blackfyre. No figure is given."
+     },
+     "reliability": "recit-unique",
+     "sources": [
+      {
+       "id": "twoiaf",
+       "locator": "The Targaryen Kings: Aerys I"
+      }
+     ]
+    }
+   ],
+   "consequences": {
+    "fr": "La clémence d’Aerys coûte cher. La cour compte encore des amis des Feunoyr, qui font savoir aux exilés par quel navire Aegor Rivers gagne Fort-Levant : le bâtiment est pris en mer Étroite et le prisonnier libéré. Avant la fin de l’année, à Tyrosh, il couronne Daemon, fils aîné de Haegon. La troisième rébellion a tué un prétendant sans entamer ce qui fait durer la cause : un chef, une épée, une compagnie. Elle a aussi montré ce que valait Maekar, qui succédera à son frère deux ans plus tard.",
+    "en": "Aerys’s clemency proved costly. The court still held friends of the Blackfyres, who let the exiles know which ship was carrying Aegor Rivers to Eastwatch: the vessel was taken in the narrow sea and the prisoner freed. Before the year was out, in Tyrosh, he crowned Daemon, Haegon’s eldest son. The third rebellion killed a claimant without touching what kept the cause alive: a leader, a sword, a company. It had also shown the worth of Maekar, who succeeded his brother two years later."
+   },
+   "eventIds": [
+    "p6-troisieme-feunoyr"
+   ],
+   "continuity": "livres",
+   "reliability": "recit-unique",
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Aerys I"
+    },
+    {
+     "id": "adwd",
+     "locator": "Tyrion II (ch. 5)"
+    }
+   ]
+  },
+  {
+   "id": "rebellion-feunoyr-4",
+   "title": {
+    "fr": "La quatrième rébellion Feunoyr",
+    "en": "The Fourth Blackfyre Rebellion"
+   },
+   "from": 236,
+   "to": 236,
+   "periodId": "p6",
+   "summary": {
+    "fr": "En 236, alors que s’achève un hiver de six ans, Daemon III Feunoyr passe la mer Étroite avec Aegor Rivers et la Compagnie Dorée et prend terre au Bec de Massey, sur la rive sud de la baie de la Néra. Presque personne ne le rejoint : en Westeros, on tient les Feunoyr pour finis. Aegon V marche lui-même contre eux avec ses trois fils. Une seule bataille suffit, au pont de la Wend : l’armée des exilés est détruite et le prétendant tué par ser Duncan le Grand, de la Garde Royale. Aegor Rivers s’échappe une fois encore. La guerre n’est connue que par un abrégé de quelques lignes.",
+    "en": "In 236, as a six-year winter was ending, Daemon III Blackfyre crossed the narrow sea with Aegor Rivers and the Golden Company and landed on Massey’s Hook, on the southern shore of Blackwater Bay. Almost no one joined him: in Westeros the Blackfyres were thought to be finished. Aegon V rode against them in person with his three sons. One battle was enough, at Wendwater Bridge: the exiles’ army was destroyed and the claimant killed by Ser Duncan the Tall of the Kingsguard. Aegor Rivers escaped once more. The war is known only from a summary of a few lines."
+   },
+   "causes": {
+    "fr": "En 233, à la mort de Maekar, un Grand Conseil avait dû choisir le roi. Aenys Feunoyr, cinquième fils de Daemon, écrivit de son exil pour faire valoir ses droits ; Brynden Rivers lui promit un sauf-conduit, puis le fit saisir et décapiter à son arrivée à Port-Réal. Aegon V, une fois choisi, condamna Brynden Rivers pour cette parole trahie et le laissa prendre le noir. L’exécution, loin d’apaiser les exilés, les durcit. Trois ans plus tard, Daemon III, qu’Aegor Rivers avait couronné à Tyrosh dès 219, juge le moment venu. Il se trompe sur l’état du royaume : les seigneurs tiennent sa cause pour usée.",
+    "en": "In 233, on Maekar’s death, a Great Council had to choose the king. Aenys Blackfyre, the fifth son of Daemon, wrote from exile to put forward his claim; Brynden Rivers promised him safe conduct, then had him seized and beheaded on his arrival in King’s Landing. Aegon V, once chosen, condemned Brynden Rivers for that broken word and let him take the black. The execution did not calm the exiles; it hardened them. Three years later Daemon III, whom Aegor Rivers had crowned in Tyrosh back in 219, judged that his moment had come. He misread the realm: its lords regarded his cause as worn out."
+   },
+   "belligerents": [
+    {
+     "id": "couronne",
+     "name": {
+      "fr": "Le Trône de Fer : Aegon V et ses fils",
+      "en": "The Iron Throne: Aegon V and his sons"
+     },
+     "tone": "rouge",
+     "leaders": [
+      {
+       "id": "aegon-v",
+       "name": {
+        "fr": "Aegon V Targaryen",
+        "en": "Aegon V Targaryen"
+       }
+      },
+      {
+       "name": {
+        "fr": "Duncan le Grand, de la Garde Royale",
+        "en": "Duncan the Tall of the Kingsguard"
+       }
+      },
+      {
+       "id": "duncan",
+       "name": {
+        "fr": "Duncan Targaryen",
+        "en": "Duncan Targaryen"
+       }
+      },
+      {
+       "id": "jaehaerys-ii",
+       "name": {
+        "fr": "Jaehaerys Targaryen, futur Jaehaerys II",
+        "en": "Jaehaerys Targaryen, the future Jaehaerys II"
+       }
+      },
+      {
+       "id": "daeron-fils-aegon-v",
+       "name": {
+        "fr": "Daeron Targaryen",
+        "en": "Daeron Targaryen"
+       }
+      }
+     ]
+    },
+    {
+     "id": "feunoyr",
+     "name": {
+      "fr": "Daemon III Feunoyr et la Compagnie Dorée",
+      "en": "Daemon III Blackfyre and the Golden Company"
+     },
+     "tone": "noir",
+     "leaders": [
+      {
+       "id": "daemon-iii-blackfyre",
+       "name": {
+        "fr": "Daemon III Feunoyr",
+        "en": "Daemon III Blackfyre"
+       }
+      },
+      {
+       "id": "aegor-rivers",
+       "name": {
+        "fr": "Aegor Rivers, dit Aigracier",
+        "en": "Aegor Rivers, called Bittersteel"
+       }
+      }
+     ]
+    }
+   ],
+   "battles": [
+    {
+     "id": "pont-de-la-wend",
+     "warId": "rebellion-feunoyr-4",
+     "name": {
+      "fr": "La bataille du pont de la Wend",
+      "en": "The Battle of Wendwater Bridge"
+     },
+     "year": 236,
+     "dateCertainty": "exacte",
+     "placeName": {
+      "fr": "Le pont de la Wend (Wendwater), dans les terres de la Couronne",
+      "en": "Wendwater Bridge, in the crownlands"
+     },
+     "sides": [
+      "couronne",
+      "feunoyr"
+     ],
+     "victor": "couronne",
+     "dragons": [],
+     "summary": {
+      "fr": "Débarqués au Bec de Massey, les exilés trouvent l’armée royale sur la Wend, rivière des terres de la Couronne. Le roi Aegon V commande en personne, accompagné des princes Duncan, Jaehaerys et Daeron. La source ne décrit ni les positions ni les manœuvres ; elle donne le résultat. La Compagnie Dorée est écrasée et ses morts encombrent la rivière. Daemon III Feunoyr est tué par ser Duncan le Grand, l’ancien chevalier errant devenu frère juré de la Garde Royale. Les loyalistes perdent moins de cent hommes, dont ser Tion Lannister, héritier de Castral Roc : sa mort fait de son cadet Tytos le futur seigneur de l’Ouest, ce qui pèsera sur l’histoire de cette région. Aegor Rivers repasse la mer.",
+      "en": "Landed on Massey’s Hook, the exiles met the royal army on the Wendwater, a river of the crownlands. King Aegon V commanded in person, with the princes Duncan, Jaehaerys and Daeron beside him. The source describes neither positions nor manoeuvres; it gives the result. The Golden Company was shattered and its dead choked the river. Daemon III Blackfyre was killed by Ser Duncan the Tall, the former hedge knight now a sworn brother of the Kingsguard. The loyalists lost fewer than a hundred men, among them Ser Tion Lannister, heir to Casterly Rock: his death made his younger brother Tytos the future lord of the west, which was to weigh on that region’s history. Aegor Rivers went back across the sea."
+     },
+     "outcome": {
+      "fr": "Victoire complète du roi : le prétendant est mort, la Compagnie Dorée rembarque, la guerre s’arrête là.",
+      "en": "A complete royal victory: the claimant was dead, the Golden Company took ship, and the war ended there."
+     },
+     "losses": {
+      "fr": "Chez les Feunoyr : Daemon III et des morts nombreux, non comptés. Chez les loyalistes : moins de cent hommes, dont ser Tion Lannister.",
+      "en": "On the Blackfyre side: Daemon III and many dead, uncounted. On the loyalist side: fewer than a hundred men, among them Ser Tion Lannister."
+     },
+     "reliability": "recit-unique",
+     "sources": [
+      {
+       "id": "twoiaf",
+       "locator": "The Targaryen Kings: Aegon V"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Westerlands: House Lannister Under the Dragons"
+      }
+     ]
+    }
+   ],
+   "consequences": {
+    "fr": "Aegor Rivers reparaît quelques années plus tard dans les Terres Disputées, à la tête de ses mercenaires dans une querelle entre Tyrosh et Myr, et meurt en 241 sans avoir revu Westeros. La cause lui survit près de vingt ans, mais elle n’a plus d’appui dans le royaume : elle ne tient que par la Compagnie Dorée. Le dernier prétendant, Maelys, en prendra le commandement en tuant son propre cousin. Pour Aegon V, la victoire règle la question dynastique et laisse entière celle de ses réformes, que les seigneurs lui disputeront jusqu’à Lestival.",
+    "en": "Aegor Rivers reappeared a few years later in the Disputed Lands, leading his sellswords in a quarrel between Tyrosh and Myr, and died in 241 without seeing Westeros again. The cause outlived him by nearly twenty years, but it had no footing left in the realm: it survived only through the Golden Company. The last claimant, Maelys, would take its command by killing his own cousin. For Aegon V the victory settled the dynastic question and left open that of his reforms, which the lords contested until Summerhall."
+   },
+   "eventIds": [
+    "p6-grand-conseil-233",
+    "p6-quatrieme-feunoyr"
+   ],
+   "continuity": "livres",
+   "reliability": "recit-unique",
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Maekar I"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Aegon V"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Westerlands: House Lannister Under the Dragons"
+    }
+   ]
+  },
+  {
+   "id": "guerre-des-rois-a-neuf-sous",
+   "title": {
+    "fr": "La guerre des Rois à Neuf Sous",
+    "en": "The War of the Ninepenny Kings"
+   },
+   "from": 260,
+   "to": 260,
+   "periodId": "p6",
+   "summary": {
+    "fr": "En 258, neuf aventuriers d’Essos, capitaines de mercenaires, pirates et marchands, se jurent sous l’Arbre des Couronnes de s’aider à conquérir chacun un royaume. Celui de Maelys Feunoyr, capitaine de la Compagnie Dorée et dernier prétendant de sa lignée, est Westeros. La Bande des Neuf prend les Terres Disputées, s’empare de Tyrosh, puis des Degrés de Pierre. Jaehaerys II, roi depuis 259, n’attend pas le débarquement : en 260 il envoie l’armée du royaume dans l’archipel. On s’y bat sur terre et sur mer pendant la plus grande partie de l’année. Le jeune ser Barristan Selmy tue Maelys en combat singulier, et les huit autres, que Westeros n’intéressait guère, se replient. Les livres n’emploient pas l’expression de cinquième rébellion Feunoyr, qui vient des lecteurs.",
+    "en": "In 258 nine adventurers of Essos, sellsword captains, pirates and merchants, swore beneath the Tree of Crowns to help one another win a kingdom each. That of Maelys Blackfyre, captain of the Golden Company and the last claimant of his line, was Westeros. The Band of Nine took the Disputed Lands, seized Tyrosh, then the Stepstones. Jaehaerys II, king since 259, did not wait for a landing: in 260 he sent the host of the realm into the islands. There was fighting by land and sea for most of the year. The young Ser Barristan Selmy killed Maelys in single combat, and the other eight, who cared little for Westeros, fell back. The books never call this a fifth Blackfyre rebellion; that label comes from readers."
+   },
+   "causes": {
+    "fr": "La Compagnie Dorée était depuis 236 le seul bien des Feunoyr. Maelys, dit le Monstrueux, en avait pris le commandement en tuant son cousin Daemon, quelques années plus tôt. À Port-Réal, on ne prit d’abord pas l’alliance au sérieux : le prince Duncan dit que les couronnes se vendaient neuf pour un sou, et le surnom resta. Aegon V, puis Jaehaerys II, comptaient que les Cités libres régleraient l’affaire. La chute de Tyrosh, où la Bande installa l’un des siens, puis celle des Degrés de Pierre, à portée des côtes du royaume, changèrent ce jugement. Le roi voulut commander lui-même ; sa Main, lord Ormund Baratheon, l’en dissuada et prit sa place.",
+    "en": "Since 236 the Golden Company had been all the Blackfyres possessed. Maelys, called the Monstrous, had won its command by killing his cousin Daemon a few years before. In King’s Landing the alliance was not at first taken seriously: Prince Duncan remarked that crowns were going nine for a penny, and the nickname stuck. Aegon V, then Jaehaerys II, expected the Free Cities to deal with the matter. The fall of Tyrosh, where the Band set up one of its own, and then of the Stepstones, within reach of the realm’s coasts, changed that judgment. The king wished to command in person; his Hand, Lord Ormund Baratheon, talked him out of it and went in his place."
+   },
+   "belligerents": [
+    {
+     "id": "couronne",
+     "name": {
+      "fr": "Le Trône de Fer : l’armée de Jaehaerys II",
+      "en": "The Iron Throne: the host of Jaehaerys II"
+     },
+     "tone": "rouge",
+     "leaders": [
+      {
+       "id": "jaehaerys-ii",
+       "name": {
+        "fr": "Jaehaerys II Targaryen",
+        "en": "Jaehaerys II Targaryen"
+       }
+      },
+      {
+       "id": "ormund-baratheon",
+       "name": {
+        "fr": "Ormund Baratheon, Main du Roi",
+        "en": "Ormund Baratheon, Hand of the King"
+       }
+      },
+      {
+       "name": {
+        "fr": "Gerold Hightower, lord Commandant de la Garde Royale",
+        "en": "Gerold Hightower, Lord Commander of the Kingsguard"
+       }
+      },
+      {
+       "name": {
+        "fr": "Barristan Selmy",
+        "en": "Barristan Selmy"
+       }
+      },
+      {
+       "name": {
+        "fr": "Roger Reyne",
+        "en": "Roger Reyne"
+       }
+      },
+      {
+       "name": {
+        "fr": "Quellon Greyjoy",
+        "en": "Quellon Greyjoy"
+       }
+      }
+     ]
+    },
+    {
+     "id": "bande-des-neuf",
+     "name": {
+      "fr": "La Bande des Neuf",
+      "en": "The Band of Nine"
+     },
+     "tone": "neutre",
+     "leaders": [
+      {
+       "name": {
+        "fr": "Maelys Feunoyr, dit le Monstrueux",
+        "en": "Maelys Blackfyre, called the Monstrous"
+       }
+      },
+      {
+       "name": {
+        "fr": "Alequo Adarys, maître de Tyrosh",
+        "en": "Alequo Adarys, master of Tyrosh"
+       }
+      }
+     ]
+    }
+   ],
+   "battles": [
+    {
+     "id": "degres-de-pierre-260",
+     "warId": "guerre-des-rois-a-neuf-sous",
+     "name": {
+      "fr": "Les combats des Degrés de Pierre",
+      "en": "The Fighting on the Stepstones"
+     },
+     "year": 260,
+     "dateCertainty": "exacte",
+     "placeId": "degres-de-pierre",
+     "placeName": {
+      "fr": "Les Degrés de Pierre, dont l’île de Peyresang",
+      "en": "The Stepstones, including the isle of Bloodstone"
+     },
+     "sides": [
+      "couronne",
+      "bande-des-neuf"
+     ],
+     "victor": "couronne",
+     "dragons": [],
+     "summary": {
+      "fr": "L’armée débarque dans l’archipel en 260. Les Lannister ont envoyé mille chevaliers et dix mille hommes d’armes, les Greyjoy cent boutres, Dorne ses piques ; presque tout le royaume est représenté. Lord Ormund Baratheon tombe parmi les premiers et meurt dans les bras de son fils Steffon. Ser Gerold Hightower, lord Commandant de la Garde Royale, prend le commandement. À Peyresang, ser Jason Lannister est tué ; lord Roger Reyne mène alors les hommes de l’Ouest à plusieurs succès. La décision vient d’un seul homme : ser Barristan Selmy s’ouvre un chemin à travers les rangs de la Compagnie Dorée et tue Maelys en combat singulier. Aucune source parue ne donne la suite des engagements, leurs dates ni leurs lieux, Peyresang excepté.",
+      "en": "The host landed in the islands in 260. The Lannisters had sent a thousand knights and ten thousand men-at-arms, the Greyjoys a hundred longships, Dorne its spears; almost the whole realm was represented. Lord Ormund Baratheon fell among the first and died in the arms of his son Steffon. Ser Gerold Hightower, Lord Commander of the Kingsguard, took over the command. On Bloodstone Ser Jason Lannister was killed; Lord Roger Reyne then led the westermen to several successes. The decision came from one man: Ser Barristan Selmy cut his way through the ranks of the Golden Company and killed Maelys in single combat. No published source gives the sequence of the engagements, their dates or their sites, Bloodstone apart."
+     },
+     "outcome": {
+      "fr": "Maelys mort, la menace sur Westeros disparaît et la lignée masculine des Feunoyr s’éteint. Les huit autres membres de la Bande se replient sur leurs prises d’Essos, qu’ils perdent en six ans.",
+      "en": "With Maelys dead the threat to Westeros was gone and the male line of the Blackfyres ended. The eight other members of the Band fell back on their holdings in Essos, which they lost within six years."
+     },
+     "losses": {
+      "fr": "Lord Ormund Baratheon, Main du Roi, et ser Jason Lannister. Aucun total n’est donné. Un septon qui y prit part se souvient d’une guerre dont beaucoup d’hommes du commun revinrent brisés.",
+      "en": "Lord Ormund Baratheon, the King’s Hand, and Ser Jason Lannister. No total is given. A septon who took part in it remembers a war from which many common men came back broken."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "twoiaf",
+       "locator": "The Targaryen Kings: Jaehaerys II"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Westerlands: House Lannister Under the Dragons"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Iron Islands: The Old Way and the New"
+      },
+      {
+       "id": "asos",
+       "locator": "Jaime VIII (ch. 67)"
+      },
+      {
+       "id": "adwd",
+       "locator": "Tyrion II (ch. 5)"
+      },
+      {
+       "id": "affc",
+       "locator": "Brienne V (ch. 25)"
+      }
+     ]
+    }
+   ],
+   "consequences": {
+    "fr": "La guerre fait une génération. Aerys, prince héritier, y gagne ses éperons, que lui donne Tywin Lannister, lui-même chevalier de fraîche date ; Steffon Baratheon en revient seigneur d’Accalmie. Barristan Selmy entre ensuite dans la Garde Royale. Vingt-deux ans plus tard, ces hommes et leurs fils feront la rébellion de Robert, dans les deux camps. Dans l’Ouest, le contraste entre les capitaines revenus des îles et lord Tytos, resté chez lui, prépare la révolte des Reyne et des Tarbeck. À Tyrosh, Alequo Adarys finit empoisonné par sa reine, et l’archonte reprend le pouvoir. La Compagnie Dorée survit à ses prétendants ; dans A Dance with Dragons, elle débarque de nouveau en Westeros, derrière un jeune homme que l’on dit fils de Rhaegar.",
+    "en": "The war made a generation. Aerys, the crown prince, won his spurs there, and received them from Tywin Lannister, himself newly knighted; Steffon Baratheon came home Lord of Storm’s End. Barristan Selmy afterwards entered the Kingsguard. Twenty-two years later these men and their sons fought Robert’s Rebellion, on both sides. In the west the contrast between the captains back from the islands and Lord Tytos, who had stayed at home, prepared the revolt of the Reynes and the Tarbecks. In Tyrosh Alequo Adarys was in the end poisoned by his queen, and the archon returned to power. The Golden Company outlived its claimants; in A Dance with Dragons it lands in Westeros once more, behind a young man said to be Rhaegar’s son."
+   },
+   "eventIds": [
+    "p6-neuf-sous"
+   ],
+   "continuity": "livres",
+   "reliability": "etabli",
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Aegon V"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Jaehaerys II"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Targaryen Kings: Aerys II"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Westerlands: House Lannister Under the Dragons"
+    },
+    {
+     "id": "asos",
+     "locator": "Jaime VIII (ch. 67)"
+    },
+    {
+     "id": "adwd",
+     "locator": "Tyrion II (ch. 5)"
+    },
+    {
+     "id": "affc",
+     "locator": "Brienne V (ch. 25)"
+    }
+   ]
+  },
+  {
+   "id": "rebellion-de-robert",
+   "title": {
+    "fr": "La rébellion de Robert",
+    "en": "Robert’s Rebellion"
+   },
+   "from": 282,
+   "to": 283,
+   "periodId": "p7",
+   "summary": {
+    "fr": "En 282, Aerys II fait périr lord Rickard Stark et son héritier Brandon, puis réclame les têtes d’Eddard Stark et de Robert Baratheon à lord Jon Arryn, leur tuteur. Arryn lève ses bannières. Le Val, le Nord, les terres de l’Orage et une grande partie du Conflans se soulèvent ; le Bief et Dorne restent au roi ; l’Ouest attend. La guerre dure près d’un an. Robert gagne à Goëville et à Lestival, perd à Cendregué, échappe de peu à la capture à Pierremoûtier. Au Trident, il tue le prince Rhaegar. Tywin Lannister se déclare alors, entre dans Port-Réal en ami et la met à sac ; Aerys est tué par un chevalier de sa propre Garde. Robert monte sur le trône. Les romans racontent cette guerre par souvenirs, une quinzaine d’années après, sans donner aucune date.",
+    "en": "In 282 Aerys II put to death Lord Rickard Stark and his heir Brandon, then demanded the heads of Eddard Stark and Robert Baratheon from Lord Jon Arryn, their guardian. Arryn called his banners. The Vale, the North, the stormlands and much of the riverlands rose; the Reach and Dorne held to the king; the west waited. The war lasted close to a year. Robert won at Gulltown and Summerhall, lost at Ashford, and narrowly escaped capture at Stoney Sept. At the Trident he killed Prince Rhaegar. Tywin Lannister then declared himself, entered King’s Landing as a friend and sacked it; Aerys was killed by a knight of his own Kingsguard. Robert took the throne. The novels tell this war through memories, some fifteen years on, and give no dates."
+   },
+   "causes": {
+    "fr": "Au tournoi de Harrenhal, en 281, Rhaegar couronne Lyanna Stark, fiancée de Robert Baratheon, reine d’amour et de beauté, devant sa propre épouse. En 282, il l’emmène. Les Stark et Robert parlent de rapt ; les livres parus ne disent pas si elle le suivit de son plein gré. Brandon Stark court à Port-Réal réclamer la mort du prince : il est arrêté, son père convoqué, et tous deux meurent devant la cour, Rickard brûlé dans son armure, Brandon étranglé en cherchant à l’atteindre. Ce sont ces exécutions, et l’ordre envoyé aux Eyrié, qui font la guerre : Aerys, soupçonneux à l’extrême depuis sa captivité de Sombreval, voyait des complots partout. Les fiançailles et les tutelles qui liaient déjà Stark, Tully, Baratheon et Arryn ont fait supposer un dessein plus ancien ; les livres parus ne l’établissent pas.",
+    "en": "At the tourney of Harrenhal in 281 Rhaegar crowned Lyanna Stark, betrothed to Robert Baratheon, queen of love and beauty, in front of his own wife. In 282 he carried her off. The Starks and Robert spoke of abduction; the published books do not say whether she went with him of her own will. Brandon Stark rode to King’s Landing demanding the prince’s death: he was arrested, his father summoned, and both died before the court, Rickard burned in his armour, Brandon strangled as he strained to reach him. It was these executions, and the order sent to the Eyrie, that made the war: Aerys, suspicious in the extreme since his captivity at Duskendale, saw plots everywhere. The betrothals and wardships that already bound Stark, Tully, Baratheon and Arryn have prompted the suspicion of an older design; the published books do not establish one."
+   },
+   "belligerents": [
+    {
+     "id": "rebelles",
+     "name": {
+      "fr": "Les rebelles : Arryn, Baratheon, Stark et Tully",
+      "en": "The rebels: Arryn, Baratheon, Stark and Tully"
+     },
+     "tone": "neutre",
+     "leaders": [
+      {
+       "id": "robert-i-baratheon",
+       "name": {
+        "fr": "Robert Baratheon",
+        "en": "Robert Baratheon"
+       }
+      },
+      {
+       "name": {
+        "fr": "Jon Arryn",
+        "en": "Jon Arryn"
+       }
+      },
+      {
+       "name": {
+        "fr": "Eddard Stark",
+        "en": "Eddard Stark"
+       }
+      },
+      {
+       "name": {
+        "fr": "Hoster Tully",
+        "en": "Hoster Tully"
+       }
+      },
+      {
+       "name": {
+        "fr": "Stannis Baratheon",
+        "en": "Stannis Baratheon"
+       }
+      }
+     ]
+    },
+    {
+     "id": "royalistes",
+     "name": {
+      "fr": "Les royalistes : Aerys II et ceux qui lui restent fidèles",
+      "en": "The royalists: Aerys II and those who held to him"
+     },
+     "tone": "rouge",
+     "leaders": [
+      {
+       "id": "aerys-ii",
+       "name": {
+        "fr": "Aerys II Targaryen",
+        "en": "Aerys II Targaryen"
+       }
+      },
+      {
+       "id": "rhaegar",
+       "name": {
+        "fr": "Rhaegar Targaryen",
+        "en": "Rhaegar Targaryen"
+       }
+      },
+      {
+       "name": {
+        "fr": "Jon Connington, Main du Roi",
+        "en": "Jon Connington, Hand of the King"
+       }
+      },
+      {
+       "name": {
+        "fr": "Mace Tyrell",
+        "en": "Mace Tyrell"
+       }
+      },
+      {
+       "name": {
+        "fr": "Randyll Tarly",
+        "en": "Randyll Tarly"
+       }
+      },
+      {
+       "name": {
+        "fr": "Lewyn Martell, de la Garde Royale",
+        "en": "Lewyn Martell of the Kingsguard"
+       }
+      },
+      {
+       "name": {
+        "fr": "Barristan Selmy, de la Garde Royale",
+        "en": "Barristan Selmy of the Kingsguard"
+       }
+      },
+      {
+       "name": {
+        "fr": "Gerold Hightower, lord Commandant de la Garde Royale",
+        "en": "Gerold Hightower, Lord Commander of the Kingsguard"
+       }
+      }
+     ]
+    },
+    {
+     "id": "ouest",
+     "name": {
+      "fr": "L’Ouest : Tywin Lannister, déclaré après le Trident",
+      "en": "The west: Tywin Lannister, who declared after the Trident"
+     },
+     "tone": "neutre",
+     "leaders": [
+      {
+       "name": {
+        "fr": "Tywin Lannister",
+        "en": "Tywin Lannister"
+       }
+      },
+      {
+       "name": {
+        "fr": "Gregor Clegane",
+        "en": "Gregor Clegane"
+       }
+      },
+      {
+       "name": {
+        "fr": "Amory Lorch",
+        "en": "Amory Lorch"
+       }
+      }
+     ]
+    }
+   ],
+   "battles": [
+    {
+     "id": "prise-de-goeville",
+     "warId": "rebellion-de-robert",
+     "name": {
+      "fr": "La prise de Goëville",
+      "en": "The Taking of Gulltown"
+     },
+     "year": 282,
+     "dateCertainty": "approximative",
+     "placeId": "goeville",
+     "placeName": {
+      "fr": "Goëville, dans le Val",
+      "en": "Gulltown, in the Vale"
+     },
+     "sides": [
+      "rebelles",
+      "royalistes"
+     ],
+     "victor": "rebelles",
+     "dragons": [],
+     "summary": {
+      "fr": "Le Val ne suit pas tout entier son seigneur. Goëville, son grand port, reste au roi sous lord Marq Grafton, et d’autres bannerets hésitent ou résistent. Jon Arryn doit donc commencer la guerre chez lui. Il mène ses fidèles contre la ville ; Robert Baratheon, qui n’a pas encore regagné Accalmie, est le premier sur le rempart et tue Grafton de sa main. Eddard Stark, lui, ne peut s’embarquer dans un port tenu par l’ennemi : il rejoint le Nord par les montagnes de la Lune, les Quatre Doigts et les Trois Sœurs, puis à travers la Morsure. Le récit de l’assaut vient d’un seigneur des Sœurs, lord Godric Borrell, qui le rapporte bien des années plus tard à un visiteur ; aucun autre texte ne décrit le combat.",
+      "en": "The Vale did not follow its lord as one. Gulltown, its great port, stayed with the king under Lord Marq Grafton, and other bannermen wavered or resisted. Jon Arryn therefore had to begin the war at home. He led his loyal men against the town; Robert Baratheon, who had not yet returned to Storm’s End, was first onto the wall and killed Grafton with his own hand. Eddard Stark could not take ship from a port in enemy hands: he reached the North by way of the Mountains of the Moon, the Fingers and the Three Sisters, and then across the Bite. The account of the assault comes from a lord of the Sisters, Godric Borrell, who gives it to a visitor many years later; no other text describes the fighting."
+     },
+     "outcome": {
+      "fr": "Le Val est acquis à la rébellion et son port ouvert. Robert regagne Accalmie et convoque ses bannerets.",
+      "en": "The Vale was secured for the rebellion and its port opened. Robert went home to Storm’s End and summoned his bannermen."
+     },
+     "losses": {
+      "fr": "Lord Marq Grafton. Aucun chiffre n’est donné.",
+      "en": "Lord Marq Grafton. No figure is given."
+     },
+     "reliability": "recit-unique",
+     "sources": [
+      {
+       "id": "adwd",
+       "locator": "Davos I (ch. 9)"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Fall of the Dragons: Robert's Rebellion"
+      },
+      {
+       "id": "affc",
+       "locator": "Alayne I (ch. 23)"
+      }
+     ]
+    },
+    {
+     "id": "lestival-282",
+     "warId": "rebellion-de-robert",
+     "name": {
+      "fr": "Les trois batailles de Lestival",
+      "en": "The Battles at Summerhall"
+     },
+     "year": 282,
+     "dateCertainty": "approximative",
+     "placeId": "lestival",
+     "placeName": {
+      "fr": "Lestival, dans les Marches de Dorne",
+      "en": "Summerhall, in the Dornish Marches"
+     },
+     "sides": [
+      "rebelles",
+      "royalistes"
+     ],
+     "victor": "rebelles",
+     "dragons": [],
+     "summary": {
+      "fr": "Dans les terres de l’Orage, tous les bannerets ne répondent pas à l’appel de Robert. Encouragés par la Main du Roi, lord Owen Merryweather, les seigneurs Grandison, Cafferen et Fell conviennent de réunir leurs forces à Lestival, le château ruiné des Targaryen dans les Marches, pour marcher ensuite sur Accalmie. Robert l’apprend, part aussitôt et arrive le premier. Il bat les trois troupes l’une après l’autre, à mesure qu’elles se présentent : trois batailles en un jour. Il tue lord Fell en combat singulier et prend son fils, ainsi que Grandison et Cafferen. Ramenés à Accalmie, les prisonniers boivent bientôt à sa table et passent dans son camp. Le récit vient de Stannis Baratheon, des années plus tard ; il ne donne ni effectifs ni pertes.",
+      "en": "In the stormlands not every bannerman answered Robert’s summons. Encouraged by the King’s Hand, Lord Owen Merryweather, Lords Grandison, Cafferen and Fell agreed to join their strength at Summerhall, the ruined Targaryen castle in the Marches, and then march on Storm’s End. Robert learned of it, set out at once and arrived first. He beat the three forces one after another as they came up: three battles in a single day. He killed Lord Fell in single combat and took his son prisoner, together with Grandison and Cafferen. Brought back to Storm’s End, the captives were soon drinking at his table and went over to his side. The account is Stannis Baratheon’s, given years afterwards; it supplies neither numbers nor losses."
+     },
+     "outcome": {
+      "fr": "Les terres de l’Orage sont unies derrière Robert, qui peut marcher vers le Bief sans ennemi dans son dos.",
+      "en": "The stormlands were united behind Robert, who could march toward the Reach with no enemy at his back."
+     },
+     "losses": {
+      "fr": "Lord Fell, tué par Robert. Aucun chiffre n’est donné.",
+      "en": "Lord Fell, killed by Robert. No figure is given."
+     },
+     "reliability": "recit-unique",
+     "sources": [
+      {
+       "id": "asos",
+       "locator": "Davos IV (ch. 36)"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Fall of the Dragons: Robert's Rebellion"
+      }
+     ]
+    },
+    {
+     "id": "cendregue-282",
+     "warId": "rebellion-de-robert",
+     "name": {
+      "fr": "La bataille de Cendregué",
+      "en": "The Battle of Ashford"
+     },
+     "year": 282,
+     "dateCertainty": "approximative",
+     "placeId": "cendregue",
+     "placeName": {
+      "fr": "Cendregué, dans le Bief",
+      "en": "Ashford, in the Reach"
+     },
+     "sides": [
+      "rebelles",
+      "royalistes"
+     ],
+     "victor": "royalistes",
+     "dragons": [],
+     "summary": {
+      "fr": "Laissant Accalmie à son frère Stannis, Robert marche vers l’ouest et entre dans le Bief. À Cendregué, il rencontre l’avant-garde de l’armée Tyrell, commandée par lord Randyll Tarly. Tarly l’emporte à lui seul : Robert doit quitter le terrain avant même que lord Mace Tyrell soit arrivé, ce qui n’empêche pas celui-ci de s’attribuer la victoire. Lord Cafferen, rallié depuis Lestival, est tué par Tarly, qui envoie sa tête au roi. C’est la seule défaite que l’on prête à Robert en bataille. Elle ne détruit pas son armée : Tyrion Lannister, des années plus tard, la tient pour peu décisive. Elle le coupe pourtant de ses terres. Il remonte vers le nord pour rejoindre ses alliés, tandis que l’armée du Bief va mettre le siège devant Accalmie.",
+      "en": "Leaving Storm’s End to his brother Stannis, Robert marched west into the Reach. At Ashford he met the vanguard of the Tyrell host, commanded by Lord Randyll Tarly. Tarly won on his own: Robert had to quit the field before Lord Mace Tyrell had even come up, which did not stop Tyrell from claiming the victory. Lord Cafferen, who had joined Robert after Summerhall, was killed by Tarly, who sent his head to the king. It is the one defeat credited to Robert in battle. It did not destroy his army: Tyrion Lannister, years later, rates it as indecisive. Yet it cut him off from his own lands. He went north to join his allies, while the host of the Reach moved to besiege Storm’s End."
+     },
+     "outcome": {
+      "fr": "Victoire royaliste, due à Tarly. Robert se replie vers le Conflans ; la route d’Accalmie est ouverte à l’armée du Bief.",
+      "en": "A royalist victory, and Tarly’s doing. Robert fell back toward the riverlands; the road to Storm’s End lay open to the host of the Reach."
+     },
+     "losses": {
+      "fr": "Lord Cafferen, dans le camp de Robert. Aucun chiffre n’est donné.",
+      "en": "Lord Cafferen, on Robert’s side. No figure is given."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "asos",
+       "locator": "Tyrion III (ch. 19)"
+      },
+      {
+       "id": "asos",
+       "locator": "Davos IV (ch. 36)"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Fall of the Dragons: Robert's Rebellion"
+      }
+     ]
+    },
+    {
+     "id": "bataille-des-cloches",
+     "warId": "rebellion-de-robert",
+     "name": {
+      "fr": "La bataille des Cloches",
+      "en": "The Battle of the Bells"
+     },
+     "year": 283,
+     "dateCertainty": "approximative",
+     "placeName": {
+      "fr": "Pierremoûtier, dans le Conflans",
+      "en": "Stoney Sept, in the riverlands"
+     },
+     "sides": [
+      "rebelles",
+      "royalistes"
+     ],
+     "victor": "rebelles",
+     "dragons": [],
+     "summary": {
+      "fr": "Blessé, Robert se cache à Pierremoûtier, bourg du sud du Conflans. Lord Jon Connington, nouvelle Main du Roi, l’y suit avec une forte armée et fait fouiller la ville ; il promet des récompenses, expose des otages dans des cages, mais les habitants déplacent le fugitif de cachette en cachette. Avant qu’on l’ait trouvé, Eddard Stark et Hoster Tully forcent les murs. Les septons font sonner les cloches pour que chacun reste chez soi. On se bat dans les rues et sur les toits. Connington blesse Tully et tue ser Denys Arryn, héritier du Val ; Robert, sorti d’un bordel, tue ser Myles Mooton. La Main, voyant la journée perdue, se retire. Harwin, un ancien homme d’armes de Winterfell, assure que les deux chefs ne se croisèrent pas ; Connington, lui, se souvient d’avoir failli mourir de la main de Robert sur les marches du septuaire.",
+      "en": "Wounded, Robert hid at Stoney Sept, a town in the southern riverlands. Lord Jon Connington, the new King’s Hand, followed him there with a strong force and had the town searched; he promised rewards and hung hostages in cages, but the townsfolk moved the fugitive from one hiding place to the next. Before he was found, Eddard Stark and Hoster Tully stormed the walls. The septons rang the bells to keep everyone indoors. The fighting went on in the streets and across the rooftops. Connington wounded Tully and killed Ser Denys Arryn, heir to the Vale; Robert, coming out of a brothel, killed Ser Myles Mooton. The Hand, seeing the day lost, withdrew. Harwin, once a man-at-arms at Winterfell, maintains that the two leaders never met; Connington himself remembers nearly dying at Robert’s hand on the steps of the sept."
+     },
+     "outcome": {
+      "fr": "Victoire des rebelles, bien que l’armée royale se retire en ordre. Aerys comprend que la rébellion menace sa maison : il dépouille et exile Connington, envoie ser Barristan Selmy et ser Jonothor Darry rallier ses troupes, et Rhaegar revient du sud. Robert disait que la victoire revenait à Eddard. L’année 283 est une reconstitution ; les romans ne datent pas la bataille.",
+      "en": "A rebel victory, though the royal army withdrew in good order. Aerys understood that the rebellion threatened his house: he stripped and exiled Connington, sent Ser Barristan Selmy and Ser Jonothor Darry to rally his troops, and Rhaegar came back from the south. Robert used to say that the victory was Eddard’s. The year 283 is a reconstruction; the novels do not date the battle."
+     },
+     "losses": {
+      "fr": "Ser Denys Arryn chez les rebelles ; ser Myles Mooton chez les royalistes. Aucun chiffre n’est donné.",
+      "en": "Ser Denys Arryn on the rebel side; Ser Myles Mooton on the royalist side. No figure is given."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "asos",
+       "locator": "Arya V (ch. 29)"
+      },
+      {
+       "id": "asos",
+       "locator": "Jaime V (ch. 37)"
+      },
+      {
+       "id": "affc",
+       "locator": "Alayne II (ch. 41)"
+      },
+      {
+       "id": "adwd",
+       "locator": "The Lost Lord (ch. 24)"
+      },
+      {
+       "id": "adwd",
+       "locator": "The Griffin Reborn (ch. 61)"
+      }
+     ]
+    },
+    {
+     "id": "bataille-du-trident",
+     "warId": "rebellion-de-robert",
+     "name": {
+      "fr": "La bataille du Trident",
+      "en": "The Battle of the Trident"
+     },
+     "year": 283,
+     "dateCertainty": "exacte",
+     "placeId": "le-trident",
+     "placeName": {
+      "fr": "Le grand gué du Trident, depuis nommé Gué des Rubis",
+      "en": "The great ford of the Trident, since called the ruby ford"
+     },
+     "sides": [
+      "rebelles",
+      "royalistes"
+     ],
+     "victor": "rebelles",
+     "dragons": [],
+     "summary": {
+      "fr": "Rhaegar revient du sud et prend la tête de l’armée royale : près de quarante mille hommes, dont un dixième au plus de chevaliers ; ce total comprend les dix mille Dorniens que mène le prince Lewyn Martell et les débris de l’armée de Connington. Les rebelles, moins nombreux, sont plus aguerris. La rencontre a lieu au grand gué du Trident, que le prince tente de franchir. Sur la gauche de Robert, les Dorniens menacent de percer ; ser Lyn Corbray ramasse l’épée de son père blessé, charge, les rompt et tue Lewyn Martell. Ser Jonothor Darry est abattu, ser Barristan Selmy pris, couvert de blessures. La décision se fait dans le courant, à cheval : Robert enfonce la poitrine de Rhaegar d’un coup de son marteau de guerre, et les rubis de l’armure roulent dans l’eau. L’armée royale se débande.",
+      "en": "Rhaegar came back from the south and took command of the royal army: close to forty thousand men, at most a tenth of them knights; the total included the ten thousand Dornishmen under Prince Lewyn Martell and the remnants of Connington’s host. The rebels were fewer but more seasoned. The armies met at the great ford of the Trident, which the prince tried to cross. On Robert’s left the Dornish threatened to break through; Ser Lyn Corbray took up his wounded father’s sword, charged, broke them and killed Lewyn Martell. Ser Jonothor Darry was cut down and Ser Barristan Selmy taken, covered in wounds. The decision came in the stream, on horseback: Robert crushed Rhaegar’s chest with a blow of his warhammer, and the rubies of the prince’s armour spilled into the water. The royal army broke."
+     },
+     "outcome": {
+      "fr": "L’héritier du trône est mort et la route de Port-Réal ouverte. Robert, blessé, confie la poursuite à Eddard Stark ; il épargne Barristan Selmy et le fait soigner par son propre mestre. Aerys envoie la reine Rhaella et le prince Viserys à Peyredragon et garde Elia et ses enfants en otages.",
+      "en": "The heir to the throne was dead and the road to King’s Landing open. Robert, wounded, gave the pursuit to Eddard Stark; he spared Barristan Selmy and had his own maester tend him. Aerys sent Queen Rhaella and Prince Viserys to Dragonstone and kept Elia and her children as hostages."
+     },
+     "losses": {
+      "fr": "Chez les royalistes : Rhaegar, le prince Lewyn Martell et ser Jonothor Darry, tous deux de la Garde Royale. Chez les rebelles : aucun chef n’est nommé parmi les morts du jour ; lord Grandison mourra un an plus tard de ses blessures. Les totaux ne sont pas donnés.",
+      "en": "On the royalist side: Rhaegar, Prince Lewyn Martell and Ser Jonothor Darry, both of the Kingsguard. On the rebel side: no leader is named among the day’s dead; Lord Grandison died a year later of his wounds. No totals are given."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "twoiaf",
+       "locator": "The Fall of the Dragons: Robert's Rebellion"
+      },
+      {
+       "id": "agot",
+       "locator": "Eddard I (ch. 4)"
+      },
+      {
+       "id": "agot",
+       "locator": "Eddard VIII (ch. 33)"
+      },
+      {
+       "id": "agot",
+       "locator": "Daenerys IV (ch. 36)"
+      },
+      {
+       "id": "asos",
+       "locator": "Jaime V (ch. 37)"
+      },
+      {
+       "id": "affc",
+       "locator": "Alayne I (ch. 23)"
+      }
+     ]
+    },
+    {
+     "id": "sac-de-port-real",
+     "warId": "rebellion-de-robert",
+     "name": {
+      "fr": "Le sac de Port-Réal",
+      "en": "The Sack of King’s Landing"
+     },
+     "year": 283,
+     "dateCertainty": "exacte",
+     "placeId": "port-real",
+     "placeName": {
+      "fr": "Port-Réal et le Donjon Rouge",
+      "en": "King’s Landing and the Red Keep"
+     },
+     "sides": [
+      "ouest",
+      "royalistes"
+     ],
+     "victor": "ouest",
+     "dragons": [],
+     "summary": {
+      "fr": "Environ quinze jours après le Trident, alors qu’Eddard Stark approche avec l’avant-garde rebelle, lord Tywin Lannister paraît devant la capitale avec douze mille hommes et proteste de sa loyauté. Varys conseille de tenir les portes fermées, le Grand Mestre Pycelle de les ouvrir ; Aerys écoute Pycelle. L’armée de l’Ouest met la ville à sac. Le roi, qui avait fait cacher du feu grégeois sous la cité, ordonne de tout brûler. Ser Jaime Lannister, seul chevalier de la Garde présent, tue le pyromant Rossart, puis le roi au pied du Trône de Fer : c’est son propre récit, livré des années après. Dans la Citadelle de Maegor, ser Gregor Clegane et ser Amory Lorch tuent la princesse Elia et ses enfants, Rhaenys et Aegon.",
+      "en": "About a fortnight after the Trident, with Eddard Stark and the rebel vanguard drawing near, Lord Tywin Lannister appeared before the capital with twelve thousand men and professed his loyalty. Varys advised keeping the gates shut, Grand Maester Pycelle opening them; Aerys listened to Pycelle. The host of the west sacked the city. The king, who had had wildfire hidden beneath it, ordered everything burned. Ser Jaime Lannister, the only knight of the Kingsguard present, killed the pyromancer Rossart and then the king at the foot of the Iron Throne: that is his own account, given years later. In Maegor’s Holdfast Ser Gregor Clegane and Ser Amory Lorch killed Princess Elia and her children, Rhaenys and Aegon."
+     },
+     "outcome": {
+      "fr": "La ville est aux Lannister quand Eddard Stark y entre ; il trouve Jaime assis sur le trône. Tywin présente à Robert les corps des enfants enveloppés de manteaux écarlates, en gage de fidélité. Robert est roi. Eddard, révolté, le quitte pour aller lever le siège d’Accalmie.",
+      "en": "The city was in Lannister hands when Eddard Stark rode in; he found Jaime seated on the throne. Tywin laid before Robert the bodies of the children wrapped in crimson cloaks, as a token of fealty. Robert was king. Eddard, sickened, left him to go and raise the siege of Storm’s End."
+     },
+     "losses": {
+      "fr": "Aerys II ; Elia Martell, Rhaenys et Aegon ; la Main Rossart. Les morts de la ville ne sont pas dénombrés. Le visage de l’enfant présenté comme Aegon était méconnaissable : dans A Dance with Dragons, un personnage soutient qu’un autre nourrisson lui avait été substitué, sans en donner la preuve.",
+      "en": "Aerys II; Elia Martell, Rhaenys and Aegon; the Hand, Rossart. The city’s dead are not counted. The face of the child shown as Aegon was past recognition: in A Dance with Dragons a character maintains that another infant had been put in his place, and offers no proof."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "asos",
+       "locator": "Jaime II (ch. 11)"
+      },
+      {
+       "id": "asos",
+       "locator": "Jaime V (ch. 37)"
+      },
+      {
+       "id": "agot",
+       "locator": "Eddard II (ch. 12)"
+      },
+      {
+       "id": "acok",
+       "locator": "Tyrion VI (ch. 25)"
+      },
+      {
+       "id": "asos",
+       "locator": "Tyrion VI (ch. 53)"
+      },
+      {
+       "id": "asos",
+       "locator": "Tyrion X (ch. 70)"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Fall of the Dragons: The End"
+      },
+      {
+       "id": "adwd",
+       "locator": "Epilogue"
+      }
+     ]
+    },
+    {
+     "id": "siege-d-accalmie-283",
+     "warId": "rebellion-de-robert",
+     "name": {
+      "fr": "Le siège d’Accalmie",
+      "en": "The Siege of Storm’s End"
+     },
+     "year": 283,
+     "dateCertainty": "approximative",
+     "placeId": "accalmie",
+     "placeName": {
+      "fr": "Accalmie et la baie des Naufrageurs",
+      "en": "Storm’s End and Shipbreaker Bay"
+     },
+     "sides": [
+      "rebelles",
+      "royalistes"
+     ],
+     "victor": "rebelles",
+     "dragons": [],
+     "summary": {
+      "fr": "Après Cendregué, lord Mace Tyrell conduit l’armée du Bief devant Accalmie, que Stannis Baratheon tient avec une faible garnison et des greniers à moitié pleins. Lord Paxter Redwyne ferme la baie des Naufrageurs avec la flotte de La Treille. Le siège, commencé en 282, dure près d’un an et l’on ne s’y bat guère : les assiégeants festoient en vue des murs, les assiégés mangent leurs chevaux, puis les chiens, les chats, les rats. Stannis veut faire catapulter quatre hommes pris à vouloir se rendre ; son mestre l’en dissuade, la garnison pouvant avoir besoin de leurs corps. Une nuit sans lune, un contrebandier nommé Davos franchit le blocus avec une cargaison d’oignons et de poisson salé. La place tient jusqu’à l’arrivée d’Eddard Stark, après le sac de Port-Réal : Tyrell abaisse ses bannières sans combattre.",
+      "en": "After Ashford Lord Mace Tyrell brought the host of the Reach before Storm’s End, which Stannis Baratheon held with a small garrison and granaries only half full. Lord Paxter Redwyne closed Shipbreaker Bay with the fleet of the Arbor. The siege, begun in 282, lasted most of a year and saw little fighting: the besiegers feasted within sight of the walls while the besieged ate their horses, then the dogs, the cats and the rats. Stannis meant to hurl from a catapult four men caught trying to surrender; his maester dissuaded him, since the garrison might come to need their bodies. On a moonless night a smuggler named Davos slipped through the blockade with a cargo of onions and salt fish. The castle held until Eddard Stark arrived after the Sack of King’s Landing: Tyrell dipped his banners without a fight."
+     },
+     "outcome": {
+      "fr": "Accalmie n’est pas tombée ; les deux frères de Robert ne sont pas devenus des otages, et le gros de l’armée du Bief a passé la guerre devant un mur. Stannis fait Davos chevalier, puis lui raccourcit lui-même d’une phalange les doigts de la main gauche pour ses années de contrebande. Robert pardonnera à la plupart des seigneurs du Bief.",
+      "en": "Storm’s End did not fall; Robert’s two brothers did not become hostages, and the bulk of the host of the Reach spent the war in front of a wall. Stannis knighted Davos, then with his own hand shortened the fingers of his left hand by a joint for his years of smuggling. Robert went on to pardon most of the lords of the Reach."
+     },
+     "losses": {
+      "fr": "Ser Gawen Wylde, maître d’armes du château, mort en cellule. Aucun chiffre ; les combats sont rares.",
+      "en": "Ser Gawen Wylde, the castle’s master-at-arms, who died in his cell. No figures; there was little fighting."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "acok",
+       "locator": "Prologue"
+      },
+      {
+       "id": "acok",
+       "locator": "Catelyn IV (ch. 33)"
+      },
+      {
+       "id": "agot",
+       "locator": "Eddard X (ch. 39)"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Fall of the Dragons: Robert's Rebellion"
+      },
+      {
+       "id": "twoiaf",
+       "locator": "The Stormlands: Storm's End"
+      }
+     ]
+    },
+    {
+     "id": "tour-de-la-joie",
+     "warId": "rebellion-de-robert",
+     "name": {
+      "fr": "Le combat de la tour de la Joie",
+      "en": "The Combat at the Tower of Joy"
+     },
+     "year": 283,
+     "dateCertainty": "approximative",
+     "placeId": "tour-de-la-joie",
+     "placeName": {
+      "fr": "La tour de la Joie, dans les montagnes Rouges de Dorne",
+      "en": "The tower of joy, in the Red Mountains of Dorne"
+     },
+     "sides": [
+      "rebelles",
+      "royalistes"
+     ],
+     "victor": "rebelles",
+     "dragons": [],
+     "summary": {
+      "fr": "Le siège d’Accalmie levé, Eddard Stark gagne les montagnes Rouges avec six compagnons : Howland Reed, lord Willam Dustin, Ethan Glover, Martyn Cassel, Theo Wull et ser Mark Ryswell. Devant une tour ronde que Rhaegar appelait la tour de la Joie, trois chevaliers de la Garde Royale les attendent : ser Gerold Hightower, leur lord Commandant, ser Arthur Dayne et ser Oswell Whent. Ils sont sept contre trois ; seuls Eddard et Reed en réchappent. Eddard dira plus tard à son fils que Dayne l’aurait tué sans Howland Reed. Dans la tour, Lyanna meurt après lui avoir arraché une promesse. Presque tout cela vient d’un rêve de fièvre d’Eddard, une quinzaine d’années après, sous lait de pavot. Ce que gardaient ces trois hommes, loin de leur roi et de leur prince, les livres parus ne le disent pas.",
+      "en": "With the siege of Storm’s End lifted, Eddard Stark rode into the Red Mountains with six companions: Howland Reed, Lord Willam Dustin, Ethan Glover, Martyn Cassel, Theo Wull and Ser Mark Ryswell. Before a round tower that Rhaegar had called the tower of joy, three knights of the Kingsguard were waiting: Ser Gerold Hightower, their Lord Commander, Ser Arthur Dayne and Ser Oswell Whent. It was seven against three; only Eddard and Reed came away alive. Eddard later told his son that Dayne would have killed him but for Howland Reed. Inside the tower Lyanna died after drawing a promise from him. Almost all of this comes from a fever dream of Eddard’s, some fifteen years later, under milk of the poppy. What those three men were guarding, far from their king and their prince, the published books do not say."
+     },
+     "outcome": {
+      "fr": "Eddard démolit la tour pour élever huit cairns, rapporte l’épée Aube aux Météores, chez les Dayne, et ramène à Winterfell les restes de sa sœur. Le deuil commun le réconcilie avec Robert.",
+      "en": "Eddard pulled down the tower to raise eight cairns, carried the sword Dawn back to the Daynes at Starfall, and brought his sister’s remains home to Winterfell. Shared grief reconciled him with Robert."
+     },
+     "losses": {
+      "fr": "Huit morts : cinq compagnons d’Eddard et les trois chevaliers de la Garde Royale. Lyanna Stark meurt dans la tour ; les livres ne disent pas de quoi.",
+      "en": "Eight dead: five of Eddard’s companions and the three knights of the Kingsguard. Lyanna Stark died in the tower; the books do not say of what."
+     },
+     "reliability": "recit-unique",
+     "sources": [
+      {
+       "id": "agot",
+       "locator": "Eddard X (ch. 39)"
+      },
+      {
+       "id": "agot",
+       "locator": "Eddard I (ch. 4)"
+      },
+      {
+       "id": "agot",
+       "locator": "Catelyn II (ch. 6)"
+      },
+      {
+       "id": "acok",
+       "locator": "Bran III (ch. 21)"
+      }
+     ]
+    }
+   ],
+   "consequences": {
+    "fr": "Robert Baratheon règne ; Jon Arryn, sa Main, lui fait épouser Cersei Lannister pour attacher l’Ouest au nouveau trône. Aerys, Rhaegar et les enfants de Rhaegar sont morts. La reine Rhaella meurt à Peyredragon en mettant au monde Daenerys, pendant la tempête qui détruit ce qui restait de la flotte royale ; avant que Stannis ne prenne l’île, ser Willem Darry emmène Viserys et l’enfant à Braavos. La maison n’existe plus qu’en exil. Dorne ne pardonne pas le meurtre d’Elia. Jaime Lannister garde le manteau blanc et le nom de Régicide. Les royalistes survivants plient le genou ou prennent le noir. Le droit du nouveau roi tient à une grand-mère Targaryen, Rhaelle, fille d’Aegon V : la rébellion a changé de dynastie sans sortir tout à fait du sang du dragon.",
+    "en": "Robert Baratheon reigned; Jon Arryn, his Hand, had him marry Cersei Lannister to bind the west to the new throne. Aerys, Rhaegar and Rhaegar’s children were dead. Queen Rhaella died on Dragonstone giving birth to Daenerys, during the storm that destroyed what was left of the royal fleet; before Stannis took the island, Ser Willem Darry carried Viserys and the infant to Braavos. The house now existed only in exile. Dorne did not forgive the murder of Elia. Jaime Lannister kept the white cloak and the name of Kingslayer. The surviving royalists bent the knee or took the black. The new king’s claim rested on a Targaryen grandmother, Rhaelle, daughter of Aegon V: the rebellion changed the dynasty without wholly leaving the blood of the dragon."
+   },
+   "eventIds": [
+    "p7-harrenhal-281",
+    "p7-lyanna",
+    "p7-stark-executes",
+    "p7-premieres-batailles",
+    "p7-trident",
+    "p7-sac",
+    "p7-tour-de-la-joie",
+    "p7-naissance-daenerys"
+   ],
+   "continuity": "livres",
+   "reliability": "etabli",
+   "sources": [
+    {
+     "id": "twoiaf",
+     "locator": "The Fall of the Dragons: The Year of the False Spring"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Fall of the Dragons: Robert's Rebellion"
+    },
+    {
+     "id": "twoiaf",
+     "locator": "The Fall of the Dragons: The End"
+    },
+    {
+     "id": "agot",
+     "locator": "Eddard I (ch. 4)"
+    },
+    {
+     "id": "agot",
+     "locator": "Eddard II (ch. 12)"
+    },
+    {
+     "id": "agot",
+     "locator": "Eddard X (ch. 39)"
+    },
+    {
+     "id": "acok",
+     "locator": "Catelyn VII (ch. 55)"
+    },
+    {
+     "id": "asos",
+     "locator": "Arya V (ch. 29)"
+    },
+    {
+     "id": "asos",
+     "locator": "Jaime V (ch. 37)"
+    },
+    {
+     "id": "adwd",
+     "locator": "Davos I (ch. 9)"
+    },
+    {
+     "id": "adwd",
+     "locator": "The Griffin Reborn (ch. 61)"
+    }
+   ]
+  },
+  {
+   "id": "guerres-de-daenerys",
+   "title": {
+    "fr": "Les guerres de Daenerys en Essos",
+    "en": "Daenerys’s Wars in Essos"
+   },
+   "from": 298,
+   "to": 300,
+   "periodId": "p8",
+   "summary": {
+    "fr": "De 298 à 300, selon la chronologie reconstituée par les lecteurs (les romans ne donnent aucune année), Daenerys Targaryen passe de l’état d’épouse vendue à celui de reine conquérante. Veuve du khal Drogo, mère de trois dragons éclos sur son bûcher, elle n’a d’abord ni armée ni terre. À Astapor, elle acquiert les Immaculés et les retourne contre leurs maîtres. Yunkaï cède après un combat de nuit. Meereen tombe par ses égouts. Elle décide alors de régner au lieu de faire voile vers Westeros, et la guerre change de nature : meurtres nocturnes dans la ville, coalition des cités esclavagistes sous les murs, épidémie. À la fin de A Dance with Dragons, la reine a disparu sur le dos de Drogon et la bataille pour Meereen n’a pas encore eu lieu.",
+    "en": "From 298 to 300, by the chronology readers have reconstructed (the novels give no years), Daenerys Targaryen passed from a bride who had been sold to a conquering queen. Widow of Khal Drogo and mother of three dragons hatched on his pyre, she had at first neither army nor land. At Astapor she acquired the Unsullied and turned them on their masters. Yunkai yielded after a night action. Meereen fell by way of its sewers. She then chose to rule instead of sailing for Westeros, and the war changed its nature: killings by night inside the city, a coalition of slaving cities beneath the walls, and plague. At the end of A Dance with Dragons the queen has vanished on Drogon’s back and the battle for Meereen has not yet been fought."
+   },
+   "causes": {
+    "fr": "En 298, à Pentos, Viserys donne sa sœur au khal Drogo contre la promesse d’une armée pour reprendre le trône de leur père. Viserys meurt à Vaes Dothrak, couronné d’or fondu ; Drogo ne jure de passer la mer qu’après une tentative d’empoisonnement ordonnée de Port-Réal. Il meurt à son tour, son khalasar se disperse, et Daenerys reste avec une poignée de fidèles et trois dragons trop jeunes pour combattre. C’est le besoin de soldats qui la conduit à Astapor, sur le conseil de ser Jorah Mormont. Ce qu’elle y voit ajoute à son but dynastique une cause qui n’y était pas : la fin de l’esclavage dans la baie des Serfs. Les deux se contrarieront. Les prophéties qu’elle a reçues à Qarth sont des visions, et le musée ne leur prête aucune valeur d’explication.",
+    "en": "In 298, in Pentos, Viserys gave his sister to Khal Drogo in exchange for the promise of an army to win back their father’s throne. Viserys died at Vaes Dothrak, crowned with molten gold; Drogo swore to cross the sea only after an attempt at poisoning ordered from King’s Landing. He died in his turn, his khalasar scattered, and Daenerys was left with a handful of followers and three dragons too young to fight. It was the need for soldiers that took her to Astapor, on the advice of Ser Jorah Mormont. What she saw there added to her dynastic aim a cause that had not been part of it: the end of slavery in Slaver’s Bay. The two would pull against each other. The prophecies she received in Qarth are visions, and the museum gives them no explanatory weight."
+   },
+   "belligerents": [
+    {
+     "id": "daenerys",
+     "name": {
+      "fr": "Daenerys Targaryen, ses Immaculés et ses affranchis",
+      "en": "Daenerys Targaryen, her Unsullied and her freedmen"
+     },
+     "tone": "rouge",
+     "leaders": [
+      {
+       "id": "daenerys-fille-aerys-ii",
+       "name": {
+        "fr": "Daenerys Targaryen",
+        "en": "Daenerys Targaryen"
+       }
+      },
+      {
+       "name": {
+        "fr": "Jorah Mormont",
+        "en": "Jorah Mormont"
+       }
+      },
+      {
+       "name": {
+        "fr": "Barristan Selmy",
+        "en": "Barristan Selmy"
+       }
+      },
+      {
+       "name": {
+        "fr": "Ver Gris, commandant des Immaculés",
+        "en": "Grey Worm, commander of the Unsullied"
+       }
+      },
+      {
+       "id": "daario-naharis",
+       "name": {
+        "fr": "Daario Naharis",
+        "en": "Daario Naharis"
+       }
+      }
+     ]
+    },
+    {
+     "id": "astapor",
+     "name": {
+      "fr": "Leurs Bontés d’Astapor",
+      "en": "The Good Masters of Astapor"
+     },
+     "tone": "neutre",
+     "leaders": [
+      {
+       "name": {
+        "fr": "Kraznys mo Nakloz",
+        "en": "Kraznys mo Nakloz"
+       }
+      }
+     ]
+    },
+    {
+     "id": "yunkai",
+     "name": {
+      "fr": "Les Judicieux de Yunkaï et leurs alliés",
+      "en": "The Wise Masters of Yunkai and their allies"
+     },
+     "tone": "neutre",
+     "leaders": [
+      {
+       "name": {
+        "fr": "Grazdan mo Eraz, envoyé des Judicieux en 299",
+        "en": "Grazdan mo Eraz, envoy of the Wise Masters in 299"
+       }
+      },
+      {
+       "name": {
+        "fr": "Mero, capitaine des Puînés en 299",
+        "en": "Mero, captain of the Second Sons in 299"
+       }
+      },
+      {
+       "name": {
+        "fr": "Yurkhaz zo Yunzak, commandant suprême en 300",
+        "en": "Yurkhaz zo Yunzak, supreme commander in 300"
+       }
+      }
+     ]
+    },
+    {
+     "id": "meereen",
+     "name": {
+      "fr": "Les Grands Maîtres de Meereen",
+      "en": "The Great Masters of Meereen"
+     },
+     "tone": "neutre",
+     "leaders": [
+      {
+       "name": {
+        "fr": "Oznak zo Pahl, champion de la cité (aucun chef n’est nommé)",
+        "en": "Oznak zo Pahl, the city’s champion (no commander is named)"
+       }
+      }
+     ]
+    }
+   ],
+   "battles": [
+    {
+     "id": "chute-d-astapor",
+     "warId": "guerres-de-daenerys",
+     "name": {
+      "fr": "La chute d’Astapor",
+      "en": "The Fall of Astapor"
+     },
+     "year": 299,
+     "dateCertainty": "approximative",
+     "placeId": "astapor",
+     "placeName": {
+      "fr": "Astapor, place du Châtiment",
+      "en": "Astapor, the Plaza of Punishment"
+     },
+     "sides": [
+      "daenerys",
+      "astapor"
+     ],
+     "victor": "daenerys",
+     "dragons": [
+      {
+       "dragonId": "drogon",
+       "side": "daenerys",
+       "fate": {
+        "fr": "Indemne. Remis en paiement à Kraznys mo Nakloz, il le brûle au commandement de la reine : « Dracarys ».",
+        "en": "Unharmed. Handed to Kraznys mo Nakloz as payment, he burned him at the queen’s command: “Dracarys.”"
+       }
+      },
+      {
+       "dragonId": "rhaegal",
+       "side": "daenerys",
+       "fate": {
+        "fr": "Indemne. Il prend part, avec Viserion, à l’attaque lancée sur la place.",
+        "en": "Unharmed. He joined Viserion in the attack loosed on the plaza."
+       }
+      },
+      {
+       "dragonId": "viserion",
+       "side": "daenerys",
+       "fate": {
+        "fr": "Indemne. Il prend part, avec Rhaegal, à l’attaque lancée sur la place.",
+        "en": "Unharmed. He joined Rhaegal in the attack loosed on the plaza."
+       }
+      }
+     ],
+     "summary": {
+      "fr": "Daenerys vient à Astapor acheter des Immaculés, les soldats-esclaves eunuques de la cité. Le marchand Kraznys mo Nakloz l’insulte en valyrien, croyant qu’elle ne le comprend pas. Elle offre pour tous les Immaculés disponibles, huit mille six cents formés et cinq mille garçons à l’instruction, ses navires, leurs marchandises et le plus grand de ses dragons. Leurs Bontés acceptent. Le lendemain, sur la place du Châtiment, elle reçoit le fouet qui fait d’elle leur propriétaire, remet la chaîne de Drogon, puis dit un mot en valyrien. Le dragon brûle Kraznys ; les Immaculés reçoivent l’ordre de tuer les maîtres et les soldats, d’épargner les enfants et de briser les chaînes. La ville, sans autre défense que ceux qu’elle vient de vendre, tombe le jour même. Elle n’avait jamais eu l’intention de livrer le dragon.",
+      "en": "Daenerys came to Astapor to buy Unsullied, the city’s eunuch slave soldiers. The trader Kraznys mo Nakloz insulted her in Valyrian, believing she could not follow it. For every Unsullied on offer, eight thousand six hundred trained men and five thousand boys still in training, she offered her ships, their cargo and the largest of her dragons. The Good Masters accepted. The next day, in the Plaza of Punishment, she was given the whip that made her their owner, handed over Drogon’s chain, then spoke a word in Valyrian. The dragon burned Kraznys; the Unsullied were ordered to kill the masters and the soldiers, to spare the children and to strike off every chain. The city, with no defence but the men it had just sold, fell the same day. She had never meant to hand over the dragon."
+     },
+     "outcome": {
+      "fr": "Daenerys affranchit les Immaculés, qui choisissent de la suivre, et confie la ville à un conseil de trois hommes : un guérisseur, un érudit et un prêtre. Il sera renversé par un ancien boucher, Cleon, qui se proclame roi.",
+      "en": "Daenerys freed the Unsullied, who chose to follow her, and left the city to a council of three men: a healer, a scholar and a priest. It was later overthrown by a former butcher, Cleon, who proclaimed himself king."
+     },
+     "losses": {
+      "fr": "Kraznys mo Nakloz et les maîtres d’Astapor. Aucun chiffre n’est donné.",
+      "en": "Kraznys mo Nakloz and the masters of Astapor. No figure is given."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "asos",
+       "locator": "Daenerys I (ch. 8)"
+      },
+      {
+       "id": "asos",
+       "locator": "Daenerys II (ch. 23)"
+      },
+      {
+       "id": "asos",
+       "locator": "Daenerys III (ch. 27)"
+      }
+     ]
+    },
+    {
+     "id": "bataille-de-yunkai",
+     "warId": "guerres-de-daenerys",
+     "name": {
+      "fr": "La bataille de Yunkaï",
+      "en": "The Battle near Yunkai"
+     },
+     "year": 299,
+     "dateCertainty": "approximative",
+     "placeId": "yunkai",
+     "placeName": {
+      "fr": "Devant les murs de Yunkaï",
+      "en": "Outside the walls of Yunkai"
+     },
+     "sides": [
+      "daenerys",
+      "yunkai"
+     ],
+     "victor": "daenerys",
+     "dragons": [],
+     "summary": {
+      "fr": "Yunkaï, prévenue par le sort d’Astapor, range devant ses murs quelque quatre mille soldats-esclaves et deux compagnies de mercenaires de cinq cents hommes, les Corbeaux Tornade et les Puînés. Daenerys pourrait vaincre de front ; elle veut vaincre sans user son armée. Elle reçoit séparément les trois partis, promet à l’envoyé des Judicieux trois jours de réflexion, fait porter du vin aux Puînés, et attaque la nuit même. Entre-temps Daario Naharis, capitaine des Corbeaux Tornade, lui a apporté les têtes de ses deux collègues et le ralliement de sa compagnie. Les Immaculés frappent les deux ailes dans l’obscurité, les Corbeaux prennent l’ennemi à revers, les Puînés sont trop ivres pour se battre. Les esclaves jettent leurs piques. Les dragons ne sont pas engagés.",
+      "en": "Yunkai, warned by the fate of Astapor, drew up before its walls some four thousand slave soldiers and two sellsword companies of five hundred men each, the Stormcrows and the Second Sons. Daenerys could have won head-on; she wanted to win without wearing down her army. She received the three parties separately, promised the Wise Masters’ envoy three days to consider, sent wine to the Second Sons, and attacked that same night. In the meantime Daario Naharis, a captain of the Stormcrows, had brought her the heads of his two fellow captains and the allegiance of his company. The Unsullied struck both wings in the dark, the Stormcrows took the enemy in the rear, and the Second Sons were too drunk to fight. The slaves threw down their spears. The dragons were not engaged."
+     },
+     "outcome": {
+      "fr": "Yunkaï capitule et libère ses esclaves, qui suivent Daenerys par dizaines de milliers et l’appellent « Mhysa », mère. La ville n’est ni occupée ni pillée : ses maîtres gardent leurs richesses, reviennent à la traite dès son départ et lèveront contre elle une coalition.",
+      "en": "Yunkai capitulated and freed its slaves, who followed Daenerys in their tens of thousands and called her “Mhysa,” mother. The city was neither occupied nor plundered: its masters kept their wealth, went back to slaving as soon as she had gone, and would raise a coalition against her."
+     },
+     "losses": {
+      "fr": "Une douzaine d’hommes pour Daenerys ; environ deux cents morts en face, Yunkaïis pour la plupart, et plusieurs milliers de prisonniers. Ces chiffres sont ceux que ser Jorah Mormont rapporte à la reine.",
+      "en": "A dozen men for Daenerys; some two hundred dead on the other side, Yunkai’i for the most part, and several thousand prisoners. These are the figures Ser Jorah Mormont reports to the queen."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "asos",
+       "locator": "Daenerys IV (ch. 42)"
+      },
+      {
+       "id": "adwd",
+       "locator": "Daenerys I (ch. 2)"
+      }
+     ]
+    },
+    {
+     "id": "prise-de-meereen",
+     "warId": "guerres-de-daenerys",
+     "name": {
+      "fr": "La prise de Meereen",
+      "en": "The Taking of Meereen"
+     },
+     "year": 299,
+     "dateCertainty": "approximative",
+     "placeId": "meereen",
+     "placeName": {
+      "fr": "Meereen",
+      "en": "Meereen"
+     },
+     "sides": [
+      "daenerys",
+      "meereen"
+     ],
+     "victor": "daenerys",
+     "dragons": [],
+     "summary": {
+      "fr": "Les Grands Maîtres ne sortent pas. Ils brûlent leurs champs, empoisonnent leurs puits et font clouer cent soixante-trois enfants esclaves sur les bornes de la route côtière, le bras tendu vers la ville. Daenerys arrive avec quelque quatre-vingt mille personnes, vingt mille soldats et soixante mille réfugiés d’Astapor et de Yunkaï, et rien pour les nourrir : elle ne peut pas assiéger. Belwas le Fort tue en combat singulier le champion de la cité, Oznak zo Pahl. Elle fait dépecer ses navires pour en tirer béliers, tortues et échelles, et donne l’assaut. La nuit venue, tandis qu’une diversion incendie le port, ser Jorah Mormont, ser Barristan Selmy, Belwas le Fort et une vingtaine d’hommes entrent par les égouts et libèrent les esclaves des arènes. La porte de l’est cède peu après. Les romans ne montrent aucun dragon dans l’assaut.",
+      "en": "The Great Masters would not come out. They burned their fields, poisoned their wells and had one hundred and sixty-three slave children nailed to the mileposts of the coast road, each with an arm pointing toward the city. Daenerys arrived with some eighty thousand people, twenty thousand soldiers and sixty thousand refugees from Astapor and Yunkai, and nothing to feed them with: she could not sit down to a siege. Strong Belwas killed the city’s champion, Oznak zo Pahl, in single combat. She had her ships broken up for rams, turtles and ladders, and ordered the assault. After dark, while a diversion set fire to the harbour, Ser Jorah Mormont, Ser Barristan Selmy, Strong Belwas and a score of men went in through the sewers and freed the slaves of the fighting pits. The eastern gate gave way soon afterwards. The novels show no dragon in the assault."
+     },
+     "outcome": {
+      "fr": "La ville est mise à sac par ses propres esclaves et par la foule qui suivait l’armée. Daenerys fait clouer cent soixante-trois Grands Maîtres en réponse aux enfants de la route, bannit Jorah Mormont, qui l’avait espionnée pour Port-Réal, et, apprenant ce qu’Astapor est devenue sans elle, décide de rester et de régner.",
+      "en": "The city was sacked by its own slaves and by the crowd that followed the army. Daenerys had one hundred and sixty-three Great Masters nailed up in answer to the children on the road, banished Jorah Mormont, who had spied on her for King’s Landing, and, learning what Astapor had become without her, decided to stay and rule."
+     },
+     "losses": {
+      "fr": "Non dénombrées. Cent soixante-trois Grands Maîtres sont exécutés après la prise.",
+      "en": "Not counted. One hundred and sixty-three Great Masters were executed after the city was taken."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "asos",
+       "locator": "Daenerys V (ch. 57)"
+      },
+      {
+       "id": "asos",
+       "locator": "Daenerys VI (ch. 71)"
+      },
+      {
+       "id": "adwd",
+       "locator": "Daenerys I (ch. 2)"
+      }
+     ]
+    },
+    {
+     "id": "siege-de-meereen-300",
+     "warId": "guerres-de-daenerys",
+     "name": {
+      "fr": "Le siège de Meereen par Yunkaï",
+      "en": "The Yunkish Siege of Meereen"
+     },
+     "year": 300,
+     "dateCertainty": "approximative",
+     "placeId": "meereen",
+     "placeName": {
+      "fr": "Meereen, ses murs et l’arène de Daznak",
+      "en": "Meereen, its walls and Daznak’s Pit"
+     },
+     "sides": [
+      "daenerys",
+      "yunkai"
+     ],
+     "victor": "indecis",
+     "dragons": [
+      {
+       "dragonId": "drogon",
+       "side": "daenerys",
+       "fate": {
+        "fr": "Vivant. Échappé à l’enfermement, il s’abat sur l’arène de Daznak, y est blessé d’une lance dans le dos et emporte Daenerys vers la mer Dothrak. Absent de la ville à la fin du récit.",
+        "en": "Alive. Having escaped confinement, he came down on Daznak’s Pit, took a spear in the back there and carried Daenerys off toward the Dothraki sea. Absent from the city when the account ends."
+       }
+      },
+      {
+       "dragonId": "rhaegal",
+       "side": "daenerys",
+       "fate": {
+        "fr": "Vivant. Enchaîné sous la Grande Pyramide, il brûle mortellement Quentyn Martell, qui tentait de dompter Viserion, puis s’échappe. Libre et sans cavalier au-dessus de la ville.",
+        "en": "Alive. Chained beneath the Great Pyramid, he fatally burned Quentyn Martell, who was trying to master Viserion, then escaped. Loose and riderless above the city."
+       }
+      },
+      {
+       "dragonId": "viserion",
+       "side": "daenerys",
+       "fate": {
+        "fr": "Vivant. Enchaîné avec Rhaegal, il s’échappe la même nuit et s’établit dans une pyramide de la ville. Libre et sans cavalier.",
+        "en": "Alive. Chained with Rhaegal, he escaped the same night and made his lair in one of the city’s pyramids. Loose and riderless."
+       }
+      }
+     ],
+     "summary": {
+      "fr": "Yunkaï a repris la traite, écrasé Astapor et réuni contre Daenerys des légions de la Nouvelle-Ghis, des compagnies libres, des contingents de Qarth et de Tolos. La caquesangue, la « jument pâle », arrive avec les réfugiés d’Astapor et gagne les deux camps. Dans la ville, les Fils de la Harpie tuent la nuit. La reine, qui a fait enchaîner deux de ses dragons après la mort d’une enfant, refuse de s’en servir ; les Puînés passent alors à l’ennemi. Elle achète la paix en épousant Hizdahr zo Loraq et en rouvrant les arènes. À celle de Daznak, Drogon paraît, et elle s’envole sur son dos. Ser Barristan Selmy fait arrêter le roi, que l’on soupçonne d’avoir voulu l’empoisonner ; Quentyn Martell, en voulant dompter un dragon, libère les deux captifs et en meurt. Le récit publié s’arrête à la veille de la bataille.",
+      "en": "Yunkai had gone back to slaving, crushed Astapor and gathered against Daenerys legions from New Ghis, free companies, and contingents from Qarth and Tolos. The bloody flux, the “pale mare,” came with the refugees from Astapor and spread through both camps. Inside the city the Sons of the Harpy killed by night. The queen, who had chained two of her dragons after the death of a child, refused to use them; the Second Sons then went over to the enemy. She bought peace by marrying Hizdahr zo Loraq and reopening the fighting pits. At Daznak’s Pit Drogon appeared, and she flew off on his back. Ser Barristan Selmy had the king arrested on suspicion of trying to poison her; Quentyn Martell, attempting to master a dragon, set both captives loose and died of it. The published account stops on the eve of the battle."
+     },
+     "outcome": {
+      "fr": "Indécis à la fin de A Dance with Dragons. Meereen est gouvernée par un conseil au nom de la reine absente, les Yunkaïis exigent la mort des dragons, deux dragons sans cavalier nichent dans la ville et une flotte fer-née approche. La bataille elle-même appartient à un volume non paru.",
+      "en": "Undecided at the end of A Dance with Dragons. Meereen is governed by a council in the absent queen’s name, the Yunkai’i demand the death of the dragons, two riderless dragons are lairing in the city and an ironborn fleet is approaching. The battle itself belongs to a volume not yet published."
+     },
+     "losses": {
+      "fr": "À l’arène de Daznak : deux cent quatorze morts et trois fois plus de blessés, selon le bilan donné dans le récit. Le commandant yunkaïi Yurkhaz zo Yunzak y périt, piétiné selon un témoin. Quentyn Martell meurt de ses brûlures. Les morts de l’épidémie ne sont pas dénombrés.",
+      "en": "At Daznak’s Pit: two hundred and fourteen dead and three times as many hurt, by the tally given in the narrative. The Yunkish commander Yurkhaz zo Yunzak perished there, trampled according to one witness. Quentyn Martell died of his burns. The dead of the epidemic are not counted."
+     },
+     "reliability": "etabli",
+     "sources": [
+      {
+       "id": "adwd",
+       "locator": "Daenerys II (ch. 11)"
+      },
+      {
+       "id": "adwd",
+       "locator": "The Windblown (ch. 25)"
+      },
+      {
+       "id": "adwd",
+       "locator": "Daenerys V (ch. 30)"
+      },
+      {
+       "id": "adwd",
+       "locator": "Daenerys VI (ch. 36)"
+      },
+      {
+       "id": "adwd",
+       "locator": "Daenerys IX (ch. 52)"
+      },
+      {
+       "id": "adwd",
+       "locator": "The Queensguard (ch. 55)"
+      },
+      {
+       "id": "adwd",
+       "locator": "The Discarded Knight (ch. 59)"
+      },
+      {
+       "id": "adwd",
+       "locator": "The Spurned Suitor (ch. 60)"
+      },
+      {
+       "id": "adwd",
+       "locator": "The Kingbreaker (ch. 67)"
+      },
+      {
+       "id": "adwd",
+       "locator": "The Dragontamer (ch. 68)"
+      },
+      {
+       "id": "adwd",
+       "locator": "The Queen's Hand (ch. 70)"
+      }
+     ]
+    }
+   ],
+   "consequences": {
+    "fr": "À la fin du récit publié, rien n’est réglé. Daenerys est dans la mer Dothrak, affaiblie, près de Drogon, quand le khalasar du khal Jhaqo la trouve. Elle a une armée, une ville qu’elle n’a pas su pacifier, et trois dragons dont un seul lui obéit à peu près. Astapor, libérée la première, est en ruine : son conseil renversé, ses rois successifs tués, sa population décimée par le siège yunkaïi et la caquesangue. Yunkaï, épargnée, est devenue l’âme de la coalition. Vers Meereen convergent des hommes qui veulent la reine ou ses dragons, des capitaines fer-nés à un archimestre de la Citadelle. Ce que les séries télévisées racontent ensuite n’appartient pas à cette continuité et n’est pas repris ici.",
+    "en": "At the end of the published story nothing is settled. Daenerys is in the Dothraki sea, weakened, close by Drogon, when the khalasar of Khal Jhaqo finds her. She has an army, a city she has not managed to pacify, and three dragons of which only one obeys her, more or less. Astapor, the first city freed, is a ruin: its council overthrown, its successive kings killed, its people cut down by the Yunkish siege and the bloody flux. Yunkai, which she spared, has become the soul of the coalition. Men who want the queen or her dragons are converging on Meereen, from ironborn captains to an archmaester of the Citadel. What the television series go on to tell does not belong to this continuity and is not taken up here."
+   },
+   "eventIds": [
+    "p8-noces-oeufs",
+    "p8-mort-viserys",
+    "p8-eclosion",
+    "p8-qarth",
+    "p8-astapor",
+    "p8-meereen",
+    "p8-dragons-enchaines",
+    "p8-arene-daznak",
+    "p8-quentyn",
+    "p8-mer-dothrak"
+   ],
+   "continuity": "livres",
+   "reliability": "etabli",
+   "sources": [
+    {
+     "id": "agot",
+     "locator": "Daenerys I (ch. 3)"
+    },
+    {
+     "id": "agot",
+     "locator": "Daenerys V (ch. 46)"
+    },
+    {
+     "id": "agot",
+     "locator": "Daenerys VI (ch. 54)"
+    },
+    {
+     "id": "asos",
+     "locator": "Daenerys I (ch. 8)"
+    },
+    {
+     "id": "asos",
+     "locator": "Daenerys III (ch. 27)"
+    },
+    {
+     "id": "asos",
+     "locator": "Daenerys IV (ch. 42)"
+    },
+    {
+     "id": "asos",
+     "locator": "Daenerys VI (ch. 71)"
+    },
+    {
+     "id": "affc",
+     "locator": "Samwell V (ch. 45)"
+    },
+    {
+     "id": "adwd",
+     "locator": "Daenerys I (ch. 2)"
+    },
+    {
+     "id": "adwd",
+     "locator": "The Queen's Hand (ch. 70)"
+    },
+    {
+     "id": "adwd",
+     "locator": "Daenerys X (ch. 71)"
+    }
+   ]
+  }
+ ]
+}

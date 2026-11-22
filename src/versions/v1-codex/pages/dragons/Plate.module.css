@@ -1,0 +1,167 @@
+/* La planche : la gravure à gauche, la légende des teintes à droite (dessous sur téléphone). */
+.plate {
+  --dragon-ink: var(--encre);
+  --dragon-paper: var(--velin);
+
+  display: grid;
+  gap: var(--e5);
+}
+
+.drawing {
+  position: relative;
+  color: var(--encre);
+}
+
+.figure {
+  max-block-size: min(72vh, 46rem);
+}
+
+.callouts {
+  position: absolute;
+  inset: 0;
+  inline-size: 100%;
+  block-size: 100%;
+  overflow: visible;
+  pointer-events: none;
+  transition: opacity var(--d-geste) var(--c-power4);
+}
+
+.callouts[data-hidden] {
+  opacity: 0;
+}
+
+.leader {
+  stroke: var(--encre);
+  stroke-width: 0.8px;
+}
+
+.dot {
+  fill: var(--encre);
+}
+
+.badge {
+  fill: var(--velin);
+  stroke: var(--encre);
+  stroke-width: 1px;
+}
+
+.number {
+  font-family: var(--f-musee);
+  font-weight: 700;
+  fill: var(--encre);
+  font-variant-numeric: lining-nums;
+}
+
+.legend {
+  display: grid;
+  align-content: start;
+  gap: var(--e5);
+}
+
+.parts {
+  display: grid;
+  gap: var(--e3);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.part {
+  display: grid;
+  grid-template-columns: 1.4rem 1.6rem minmax(0, 1fr);
+  column-gap: var(--e3);
+  align-items: center;
+}
+
+.partNumber {
+  font-family: var(--f-musee);
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--encre);
+  font-variant-numeric: lining-nums;
+}
+
+/* Teinte décrite : l'aplat. Non décrite : une case vide, hachurée à l'encre, comme la gravure. */
+.swatch {
+  inline-size: 1.6rem;
+  block-size: 1.6rem;
+  border: 1px solid var(--encre);
+  background: repeating-linear-gradient(135deg, transparent 0 3px, var(--encre-pale) 3px 4px);
+}
+
+.swatch[data-described] {
+  border-color: var(--encre);
+}
+
+.partText {
+  display: grid;
+}
+
+.partName {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.25;
+  color: var(--encre);
+}
+
+.partState {
+  font-family: var(--f-musee);
+  font-size: 0.85rem;
+  line-height: var(--il-cartel);
+  color: var(--encre-pale);
+}
+
+.note {
+  max-inline-size: 30em;
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--encre-pale);
+}
+
+.fly {
+  justify-self: start;
+  min-block-size: var(--cible);
+  padding: 0 var(--e5);
+  border: 0;
+  border-radius: 0;
+  background: var(--encre);
+  color: var(--velin);
+  font-family: var(--f-musee);
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color var(--d-geste-court) var(--c-power4);
+}
+
+.fly:hover {
+  background: var(--sang);
+}
+
+.fly:disabled {
+  cursor: default;
+  background: var(--encre-pale);
+}
+
+@media (min-width: 1024px) {
+  .plate {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+    column-gap: var(--gouttiere);
+    align-items: center;
+  }
+
+  .drawing {
+    grid-column: 1 / 8;
+  }
+
+  .legend {
+    grid-column: 8 / 11;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .callouts,
+  .fly {
+    transition: none;
+  }
+}

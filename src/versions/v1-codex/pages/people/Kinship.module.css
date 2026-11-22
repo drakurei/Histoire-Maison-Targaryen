@@ -1,0 +1,123 @@
+/*
+ * Table de parenté : le signe en marge suspendue (« fille de », « x 1 », « fratrie »), le
+ * contenu à sa droite. Lignes serrées dans un même article, blanc entre deux articles.
+ */
+.table {
+  display: grid;
+  gap: var(--e4);
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: baseline;
+}
+
+.sign {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: 0.98rem;
+  color: var(--encre-pale);
+  text-align: end;
+}
+
+.mark {
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--encre-pale);
+}
+
+.number {
+  margin-inline-start: 0.3em;
+  font-family: var(--f-lettrine);
+  font-style: normal;
+  font-size: 1.15rem;
+  color: var(--rubrique);
+}
+
+.cell {
+  display: grid;
+  gap: 0.15rem;
+}
+
+.line {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.5;
+}
+
+.name {
+  white-space: normal;
+}
+
+.years {
+  margin-inline-start: 0.4em;
+  font-family: var(--f-musee);
+  font-size: 0.8rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+  white-space: nowrap;
+}
+
+.when {
+  margin-inline-end: 0.6em;
+  font-family: var(--f-musee);
+  font-size: 0.86rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+}
+
+.kin {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 var(--e3);
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--rubrique);
+}
+
+.coefficient {
+  font-family: var(--f-musee);
+  font-style: normal;
+  font-size: 0.8rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+}
+
+.issue {
+  margin-block-start: var(--e1);
+  font-family: var(--f-recit);
+  font-size: 0.98rem;
+  line-height: 1.6;
+}
+
+.sep {
+  color: var(--encre-pale);
+}
+
+.half {
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--encre-pale);
+}
+
+.quiet {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--encre-pale);
+}
+
+@media (max-width: 599.98px) {
+  .row {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 0.1rem;
+  }
+
+  .sign {
+    text-align: start;
+  }
+}

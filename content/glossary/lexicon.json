@@ -1,0 +1,876 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-04",
+  "entries": [
+    {
+      "id": "nav.portal",
+      "hv": "Remio",
+      "fr": "Portail",
+      "en": "Gateway",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "remio, nom lunaire de la 3e déclinaison (pl. remia, gén. remiō) : « porte (de ville) ». Attesté dans Game of Thrones 504 (« jevī remia ynot drāñēdāt », « vous m'avez ouvert vos portes »). Variante possible : nerny (« porte, embouchure de grotte », dictionnaire).",
+      "refs": ["https://wiki.languageinvention.com/Remio", "https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "nav.chronicles",
+      "hv": "Vestriarja",
+      "fr": "Chroniques",
+      "en": "Chronicles",
+      "status": "derive",
+      "verifie_en_ligne": true,
+      "notes": "Littéralement « récits, histoires ». Nominatif pluriel de vestriarzir (« story »), 5e déclinaison, sous-type vestriarzir (le groupe zr devient j : vestriarja, vestriarjin), forme citée par la page des déclinaisons. LIMITE : aucun mot attesté pour « histoire (discipline) » ni « chronique » ; « récit » est le terme le plus proche.",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Noun_Declensions"]
+    },
+    {
+      "id": "nav.genealogy",
+      "hv": "Zaldrīzo Ānogar",
+      "fr": "La lignée",
+      "en": "The Bloodline",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Littéralement « le sang du dragon » : zaldrīzo (génitif singulier de zaldrīzes, 4e décl. solaire) + ānogar (« sang », 1re décl. aquatique). Syntagme donné tel quel comme exemple (« Blood of the dragon ») sur la fiche ānogar ; exemple « exégétique » du wiki, non tiré d'un épisode. Alternatives attestées plus neutres : Egliar (« ancêtres, ascendance ») ou Lentor (« maison, lignée, dynastie »).",
+      "refs": ["https://wiki.languageinvention.com/%C4%80nogar", "https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "nav.characters",
+      "hv": "Issarossa",
+      "fr": "Personnages",
+      "en": "People",
+      "status": "derive",
+      "verifie_en_ligne": false,
+      "notes": "Nominatif pluriel de issaros (« personne, individu, être humain », attesté au dictionnaire et dans « issaros kirine », « personne heureuse »). Dérivation : 3e déclinaison solaire en -os, pluriel en -ossa (modèle ēngos → ēngossa ; dārilaros → dārilarossa, forme vérifiée). La forme exacte issarossa n'a été relevée dans aucune source.",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/High_Valyrian_Noun_Declensions", "https://wiki.languageinvention.com/D%C4%81rilaros"]
+    },
+    {
+      "id": "nav.dragons",
+      "hv": "Zaldrīzesse",
+      "fr": "Dragons",
+      "en": "Dragons",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Nominatif pluriel de zaldrīzes (4e décl. solaire). Forme attestée en contexte (« … zaldrīzesse Daeneromy ēdrusi », « les dragons dorment avec Daenerys ») et dans le paradigme de référence.",
+      "refs": ["https://wiki.languageinvention.com/Zaldr%C4%ABzes", "https://wiki.languageinvention.com/High_Valyrian_Noun_Cases", "https://wiki.languageinvention.com/High_Valyrian_Noun_Declensions"]
+    },
+    {
+      "id": "nav.wars",
+      "hv": "Vīlībāzmi",
+      "fr": "Guerres",
+      "en": "Wars",
+      "status": "derive",
+      "verifie_en_ligne": true,
+      "notes": "Nominatif pluriel de vīlībāzma (1re décl. lunaire : « guerre ; bataille, combat »). Forme plurielle donnée par la fiche du mot ; le singulier est attesté dans Game of Thrones 307 et 504.",
+      "refs": ["https://wiki.languageinvention.com/V%C4%ABl%C4%ABb%C4%81zma"]
+    },
+    {
+      "id": "nav.places",
+      "hv": "Ālia",
+      "fr": "Lieux",
+      "en": "Places",
+      "status": "derive",
+      "verifie_en_ligne": false,
+      "notes": "Nominatif pluriel de ālion (« zone, parcelle de terre, lieu, emplacement », dictionnaire). Dérivation : 3e déclinaison terrestre, sous-type -ion (modèle dārion → dāria). Forme exacte non relevée dans les sources. Pour « terres » on dispose de tegon (« sol, terre ») dont le paucal tegun est employé par Peterson au sens de « terres » (Bōso Jaedo Tegun, « Terres du Long Été »).",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/High_Valyrian_Noun_Declensions", "https://dedalvs.com/work/house-of-the-dragon/misc/map_request.pdf"]
+    },
+    {
+      "id": "nav.language",
+      "hv": "Valyrio Ēngos",
+      "fr": "La langue valyrienne",
+      "en": "The Valyrian Tongue",
+      "status": "editorial",
+      "verifie_en_ligne": true,
+      "notes": "Littéralement « la langue de Valyria » : Valyrio (génitif de Valyria, 1re décl. lunaire) + ēngos (« langue [organe], langue, dialecte », 3e décl. solaire). Abrégé de la formule attestée « Valyrio muño ēngos ñuhys issa » (« le valyrien est ma langue maternelle », Game of Thrones 304). Le syntagme réduit n'est pas attesté tel quel. Autre mot attesté pour « langue » : udrir (collectif réanalysé de udir, « mot »).",
+      "refs": ["https://en.wikipedia.org/wiki/Valyrian_languages", "https://wiki.languageinvention.com/Valyria", "https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "nav.sources",
+      "hv": "Tembyri",
+      "fr": "Sources",
+      "en": "Sources",
+      "status": "editorial",
+      "verifie_en_ligne": true,
+      "notes": "Littéralement « livres » : pluriel de tembyr (« livre », collectif relexifié, 2e/6e décl. lunaire), forme attestée chez Peterson (« lanti tembyri », « deux livres »). LIMITE : aucun mot attesté pour « source (documentaire) » ; emploi éditorial par extension de sens. Alternative : bardunon (« écriture, écrit »).",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Tembyr", "https://dothraki.com/2013/08/valyrian-numerals", "https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "nav.learn",
+      "hv": "Gūrēñagon",
+      "fr": "Apprendre",
+      "en": "Learn",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Infinitif (forme de dictionnaire) : « apprendre, découvrir ». Radical consonantique, participe parfait gūrēnta. L'infinitif peut s'employer comme nom (« le fait d'apprendre »). Attesté dans Game of Thrones 501.",
+      "refs": ["https://wiki.languageinvention.com/G%C5%ABr%C4%93%C3%B1agon", "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Grammar"]
+    },
+    {
+      "id": "nav.about",
+      "hv": "Keso jāelio bē",
+      "fr": "À propos de cette bibliothèque",
+      "en": "About this library",
+      "status": "editorial",
+      "verifie_en_ligne": false,
+      "notes": "Littéralement « au sujet de ce dépôt ». keso : génitif prépositif du démonstratif kesa (attesté : « Keso glaesot », « cette vie ») ; jāelio : génitif singulier dérivé de jāelion (« trésorerie, dépôt », 3e décl. terrestre en -ion, modèle dārion → dārio) ; bē : postposition + génitif (« sur ; après »), employée au sens « au sujet de » dans « udir Drogo bē » (« des nouvelles de Drogon », Game of Thrones 410). LIMITES : « bibliothèque » n'existe pas (jāelion par approximation) ; la forme jāelio n'a pas été vue telle quelle ; le sens « à propos de » de bē repose sur un seul exemple. Variante plus sûre mais moins précise : Jāelion.",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/High_Valyrian_Noun_Cases", "https://wiki.languageinvention.com/index.php?title=Udir"]
+    },
+    {
+      "id": "action.enter",
+      "hv": "Majēbās",
+      "fr": "Entrer",
+      "en": "Enter",
+      "status": "derive",
+      "verifie_en_ligne": false,
+      "notes": "Impératif singulier de majēbagon (« entrer, traverser » ; radical consonantique, participe parfait majēpta ; attesté dans House of the Dragon 102). Dérivation : radical majēb- + -ās (pluriel : majēbātās), comme derēbagon → derēbās (attesté). Accent sur la dernière syllabe. La forme impérative elle-même n'a pas été vue.",
+      "refs": ["https://wiki.languageinvention.com/Maj%C4%93bagon", "https://wiki.languageinvention.com/High_Valyrian_Verb_Conjugation"]
+    },
+    {
+      "id": "action.explore",
+      "hv": "Jokorjās",
+      "fr": "Explorer",
+      "en": "Explore",
+      "status": "derive",
+      "verifie_en_ligne": false,
+      "notes": "Impératif singulier de jokorigon (« explorer ; enquêter », dictionnaire), verbe irrégulier bâti sur jagon. Dérivation par analogie avec korigon dont l'impératif korjās figure dans le tableau de conjugaison. La flexion de jokorigon n'est pas documentée : forme à confirmer.",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/Korigon", "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Grammar"]
+    },
+    {
+      "id": "action.read",
+      "hv": "Pikībās",
+      "fr": "Lire",
+      "en": "Read",
+      "status": "derive",
+      "verifie_en_ligne": false,
+      "notes": "Impératif singulier de pikībagon (« lire », dictionnaire). Dérivation : radical supposé consonantique pikīb- + -ās, comme les autres verbes en -bagon vérifiés (majēbagon, derēbagon → derēbās). La classe de conjugaison du verbe n'est pas documentée.",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/High_Valyrian_Verb_Conjugation"]
+    },
+    {
+      "id": "action.next",
+      "hv": "Hembār",
+      "fr": "Suivant",
+      "en": "Next",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Adverbe « ensuite, puis » (de hen + pār). Attesté : « Hembār Yunkaihot istan » (« Ensuite je suis allée à Yunkai », Game of Thrones 403). C'est un adverbe de succession, non un adjectif : convient à un bouton, pas à une épithète.",
+      "refs": ["https://wiki.languageinvention.com/Hemb%C4%81r"]
+    },
+    {
+      "id": "action.previous",
+      "hv": "Gōnka",
+      "fr": "Précédent",
+      "en": "Previous",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Adjectif « ancien, précédent, ex- » (entrée du dictionnaire ; forme lunaire de citation). La classe d'adjectif n'est pas documentée. Alternative attestée pour un retour en arrière : Inkot (« en arrière », ordre donné aux dragons).",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "action.close",
+      "hv": "Bēmās",
+      "fr": "Fermer",
+      "en": "Close",
+      "status": "derive",
+      "verifie_en_ligne": false,
+      "notes": "Impératif singulier de bēmagon (« verrouiller, sceller, attacher ; fermer [les yeux] » ; radical consonantique, participe parfait bēda). Dérivation : bēm- + -ās. LIMITE : pas de verbe attesté pour « fermer (une fenêtre, un panneau) » au sens général ; approximation retenue.",
+      "refs": ["https://wiki.languageinvention.com/B%C4%93magon", "https://wiki.languageinvention.com/High_Valyrian_Verb_Conjugation"]
+    },
+    {
+      "id": "action.search",
+      "hv": "Korjās",
+      "fr": "Chercher",
+      "en": "Search",
+      "status": "derive",
+      "verifie_en_ligne": true,
+      "notes": "Impératif présent singulier de korigon (« chercher », dictionnaire), verbe irrégulier dérivé de jagon ; forme donnée par le tableau de conjugaison de la fiche (pluriel : korjātās).",
+      "refs": ["https://wiki.languageinvention.com/Korigon", "https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "action.back",
+      "hv": "Āmāzīs",
+      "fr": "Retour",
+      "en": "Back",
+      "status": "derive",
+      "verifie_en_ligne": true,
+      "notes": "Impératif présent singulier de āmāzigon (« revenir, retourner » ; ā- + māzigon ; radical vocalique). Forme donnée par le tableau de conjugaison de la fiche (pluriel : āmāzītīs). Verbe attesté dans House of the Dragon 104 et 107.",
+      "refs": ["https://wiki.languageinvention.com/%C4%80m%C4%81zigon"]
+    },
+    {
+      "id": "action.more",
+      "hv": "Tolī",
+      "fr": "Davantage",
+      "en": "More",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Adverbe : « au-dessus ; après ; au-delà ; trop ; davantage ». Sens « plus, davantage » illustré par « Tolī rhūqo lōtinti, kostilus » (« Encore de la tourte au pigeon, s'il vous plaît »), exemple exégétique du wiki.",
+      "refs": ["https://wiki.languageinvention.com/Tol%C4%AB"]
+    },
+    {
+      "id": "action.open",
+      "hv": "Drāmmās",
+      "fr": "Ouvrir",
+      "en": "Open",
+      "status": "derive",
+      "verifie_en_ligne": false,
+      "notes": "Impératif singulier de drāmmagon (« ouvrir, mettre à découvert » ; de drāñe « large » + -emagon ; radical consonantique, participe parfait drāñēda). Dérivation : drāmm- + -ās (radical confirmé par l'infinitif passif attesté drāmmakson). Forme impérative non vue telle quelle.",
+      "refs": ["https://wiki.languageinvention.com/Dr%C4%81mmagon", "https://wiki.languageinvention.com/High_Valyrian_Verb_Conjugation"]
+    },
+    {
+      "id": "action.language",
+      "hv": "Ēngos",
+      "fr": "Langue",
+      "en": "Language",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "ēngos, 3e décl. solaire : « langue (organe), langue, dialecte ». Attesté (« Quptenkos Ēngoso ȳdrassia? », « Parles-tu la Langue commune ? »).",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/High_Valyrian_Noun_Cases"]
+    },
+    {
+      "id": "action.menu",
+      "hv": "Iderenna",
+      "fr": "Menu",
+      "en": "Menu",
+      "status": "editorial",
+      "verifie_en_ligne": true,
+      "notes": "Littéralement « choix » (pluriel de iderennon, « choix, décision, sélection », 3e décl. terrestre). Forme plurielle attestée dans « iderenna qopsa verdagon » (« faire des choix difficiles », Game of Thrones 309). LIMITE : aucun mot pour « menu » ; emploi éditorial par extension de sens.",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/N%C5%ABm%C4%81zma"]
+    },
+    {
+      "id": "label.king",
+      "hv": "Dārys",
+      "fr": "Roi",
+      "en": "King",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "2e décl. solaire (pl. dāryssy, gén. dāro) : « roi, monarque ».",
+      "refs": ["https://wiki.languageinvention.com/D%C4%81rys"]
+    },
+    {
+      "id": "label.queen",
+      "hv": "Dāria",
+      "fr": "Reine",
+      "en": "Queen",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "1re décl. lunaire, sous-type -ia (pl. dārī, gén. dārio). Attesté dans le titre de Daenerys : « Dāria Sīkudo Dārȳti Vestero ».",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Noun_Declensions", "https://wiki.languageinvention.com/Vesteros"]
+    },
+    {
+      "id": "label.prince",
+      "hv": "Dārilaros",
+      "fr": "Prince",
+      "en": "Prince",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "3e décl. solaire (pl. dārilarossa) : « héritier du trône ; prince ou princesse ». Le mot ne distingue pas le sexe (choix délibéré de Peterson).",
+      "refs": ["https://wiki.languageinvention.com/D%C4%81rilaros"]
+    },
+    {
+      "id": "label.princess",
+      "hv": "Dārilaros",
+      "fr": "Princesse",
+      "en": "Princess",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Même mot que pour « prince » (épicène). Attesté adressé à Rhaenyra : « Drōmon Ēdrurzo īles, Dārilaros » (House of the Dragon 102).",
+      "refs": ["https://wiki.languageinvention.com/D%C4%81rilaros"]
+    },
+    {
+      "id": "label.dragon",
+      "hv": "Zaldrīzes",
+      "fr": "Dragon",
+      "en": "Dragon",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "4e décl. solaire (pl. zaldrīzesse, gén. zaldrīzo). Attesté : « Zaldrīzes buzdari iksos daor » (Game of Thrones 304).",
+      "refs": ["https://wiki.languageinvention.com/Zaldr%C4%ABzes"]
+    },
+    {
+      "id": "label.rider",
+      "hv": "Kipio",
+      "fr": "Dragonnier",
+      "en": "Dragonrider",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "kipio : « cavalier » au sens littéral (les traductions d'affichage précisent « dragonnier » d'après le contexte du site) ; nom d'agent en -io de kipagon, « chevaucher ». Le mot attesté ne précise pas la monture. Pour « cavalier de dragon », le syntagme Zaldrīzo Kipio (génitif + nom) serait une construction éditoriale régulière mais non attestée. Déclinaison non documentée, supposée 3e lunaire en -io (modèle āeksio).",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "label.reign",
+      "hv": "Jemēbagon",
+      "fr": "Règne",
+      "en": "Reign",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Infinitif « régner, gouverner » employé comme nom verbal (usage nominal de l'infinitif documenté dans la grammaire). LIMITE : aucun nom « règne » trouvé ; dārion signifie « royaume, domaine ».",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Grammar"]
+    },
+    {
+      "id": "label.born",
+      "hv": "Sitta",
+      "fr": "Né(e)",
+      "en": "Born",
+      "status": "derive",
+      "verifie_en_ligne": true,
+      "notes": "Participe parfait de sikagon (« donner naissance à, enfanter ; allumer »), donné par la fiche du verbe : littéralement « enfanté(e) », donc « né(e) ». Adjectif de classe I : sitta (lunaire), sittys (solaire), sitton (terrestre), sittor (aquatique) ; en étiquette isolée on garde la forme de citation. INCERTITUDE : l'emploi du participe au sens « né » n'est pas attesté en contexte.",
+      "refs": ["https://wiki.languageinvention.com/Sikagon", "https://wiki.languageinvention.com/High_Valyrian_Verb_Conjugation"]
+    },
+    {
+      "id": "label.died",
+      "hv": "Morghūltas",
+      "fr": "Mort(e)",
+      "en": "Died",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "3e personne du singulier du parfait de morghūljagon (« mourir ») : « est mort(e) ». Attesté : « Dārys morghūltas » (« Le roi est mort »). Forme verbale, donc invariable en genre. Adjectif apparenté : morghe (« mort »).",
+      "refs": ["https://wiki.languageinvention.com/D%C4%81rys", "https://wiki.languageinvention.com/Morgh%C5%ABljagon"]
+    },
+    {
+      "id": "label.father",
+      "hv": "Kepa",
+      "fr": "Père",
+      "en": "Father",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "1re décl. lunaire : « père ; frère du père ». Attesté : « Kepa ñuha yne Zaldrīzdōro Dārilaroso brōstas » (House of the Dragon 102).",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/Zaldr%C4%ABzd%C5%8Dron"]
+    },
+    {
+      "id": "label.mother",
+      "hv": "Muña",
+      "fr": "Mère",
+      "en": "Mother",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "1re décl. lunaire : « mère ; sœur de la mère ». Attesté dans « Muña Zaldrīzoti » (« Mère des Dragons »).",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/Vesteros"]
+    },
+    {
+      "id": "label.children",
+      "hv": "Riñar",
+      "fr": "Enfants",
+      "en": "Children",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Collectif de riña (« fille ; enfant de l'un ou l'autre sexe », 1re décl. lunaire), glosé « children » dans la liste des termes de parenté. Pluriel simple : riñi. Pour distinguer : trēsy (« fils »), tala (« fille [de quelqu'un] »).",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=High_Valyrian_Word_Groups", "https://wiki.languageinvention.com/Ri%C3%B1a"]
+    },
+    {
+      "id": "label.spouse",
+      "hv": "Belmor",
+      "fr": "Époux / Épouse",
+      "en": "Spouse",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "belmor, 3e décl. aquatique : « conjoint d'un souverain ; consort ». Attesté dans House of the Dragon 107 (« valzȳrys belmōr », « époux et prince consort »). Terme épicène mais propre à la royauté (homonyme : belmor « servitude »). Termes sexués attestés : valzȳrys (« mari »), ābrazȳrys (« épouse »).",
+      "refs": ["https://wiki.languageinvention.com/Belmor", "https://wiki.languageinvention.com/Valz%C8%B3rys"]
+    },
+    {
+      "id": "label.brother",
+      "hv": "Lēkia",
+      "fr": "Frère",
+      "en": "Brother",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "1re décl. lunaire (pl. lēkī) : « frère aîné ; frère en général ». Exemple : « Viserys Daenero lēkia issa ». Le valyrien distingue l'âge relatif : frère cadet = valonqar ; frère ou sœur non jumeau = dubys.",
+      "refs": ["https://wiki.languageinvention.com/L%C4%93kia", "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Word_Groups"]
+    },
+    {
+      "id": "label.sister",
+      "hv": "Hāedar",
+      "fr": "Sœur",
+      "en": "Sister",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "1re décl. aquatique (pl. hāedri) : « sœur cadette ; sœur ». Sœur aînée = mandia. Choisir le terme selon l'âge relatif quand il est connu.",
+      "refs": ["https://wiki.languageinvention.com/H%C4%81edar", "https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "label.house",
+      "hv": "Lentor",
+      "fr": "Maison",
+      "en": "House",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "3e décl. aquatique (pl. lentra, gén. lentro, dat. lentrot) : « maison, famille, lignée noble, dynastie ». À distinguer de lenton (« maison [bâtiment], foyer »).",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Lentor"]
+    },
+    {
+      "id": "label.year",
+      "hv": "Jēda",
+      "fr": "Année",
+      "en": "Year",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "1re décl. lunaire (pl. jēdi) : « saison, cycle, temps, année ».",
+      "refs": ["https://wiki.languageinvention.com/J%C4%93da"]
+    },
+    {
+      "id": "label.age",
+      "hv": "Elēdris",
+      "fr": "Époque",
+      "en": "Era",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "« ère, époque, temps ; jour (générique) » (dictionnaire). Classe de déclinaison non documentée (probablement 5e solaire, comme tubis).",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "label.battle",
+      "hv": "Vīlībāzma",
+      "fr": "Bataille",
+      "en": "Battle",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Sens 2 de la fiche : « bataille, combat, affrontement ». LIMITE : le même mot signifie « guerre » ; aucun terme distinct pour « bataille » n'a été trouvé. L'interface devra s'appuyer sur le contexte (ou sur les traductions) pour distinguer les deux étiquettes.",
+      "refs": ["https://wiki.languageinvention.com/V%C4%ABl%C4%ABb%C4%81zma"]
+    },
+    {
+      "id": "label.war",
+      "hv": "Vīlībāzma",
+      "fr": "Guerre",
+      "en": "War",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "1re décl. lunaire (suffixe augmentatif -āzma). Attesté : « Vīlībāzma ajomemēbza » (« La guerre fait rage », Game of Thrones 307).",
+      "refs": ["https://wiki.languageinvention.com/V%C4%ABl%C4%ABb%C4%81zma"]
+    },
+    {
+      "id": "label.place",
+      "hv": "Ālion",
+      "fr": "Lieu",
+      "en": "Place",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "« zone, parcelle de terre, lieu, emplacement » (dictionnaire). Terrestre en -ion (3e décl.) d'après la terminaison ; la déclinaison n'est pas documentée.",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "label.word",
+      "hv": "Udir",
+      "fr": "Mot",
+      "en": "Word",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "5e décl. aquatique (pl. udra, collectif udrir « langue ») : « mot ; nouvelle ». Attesté dans Game of Thrones 410.",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Udir"]
+    },
+    {
+      "id": "label.meaning",
+      "hv": "Nūmāzma",
+      "fr": "Sens",
+      "en": "Meaning",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "1re décl. lunaire (nūmo + -āzma) : « sens, essence, intention, signification ». Attesté dans Game of Thrones 306 et 309.",
+      "refs": ["https://wiki.languageinvention.com/N%C5%ABm%C4%81zma"]
+    },
+    {
+      "id": "label.fire",
+      "hv": "Perzys",
+      "fr": "Feu",
+      "en": "Fire",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "2e décl. solaire (pl. perzyssy, gén. perzo) : « feu, flamme ». À distinguer de drakarys (« feu de dragon »).",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Perzys"]
+    },
+    {
+      "id": "label.blood",
+      "hv": "Ānogar",
+      "fr": "Sang",
+      "en": "Blood",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "1re décl. aquatique (gén. ānogro, loc. ānogār) : « sang ».",
+      "refs": ["https://wiki.languageinvention.com/%C4%80nogar"]
+    },
+    {
+      "id": "label.source",
+      "hv": "Tembyr",
+      "fr": "Source",
+      "en": "Source",
+      "status": "editorial",
+      "verifie_en_ligne": true,
+      "notes": "Littéralement « livre » (2e/6e décl. lunaire, pl. tembyri). LIMITE : aucun mot attesté pour « source (documentaire) » ; emploi éditorial par extension de sens.",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Tembyr"]
+    },
+    {
+      "id": "phrase.valar_morghulis",
+      "hv": "Valar morghūlis",
+      "fr": "Tous les hommes doivent mourir",
+      "en": "All men must die",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "valar : nominatif collectif de vala (« homme », 1re décl. lunaire) = « tous les hommes » ; morghūlis : 3e personne du singulier de l'aoriste actif de morghūljagon (« mourir », radical consonantique morghūlj- + -is). Le collectif commande l'accord au singulier ; l'aoriste exprime les vérités générales. Littéralement « tous les hommes meurent » : l'obligation (« doivent ») n'est portée par aucun mot ; selon Peterson (commentaires de son billet sur la flexion), l'aoriste avec un sujet collectif reçoit cette lecture déontique. Graphie de G. R. R. Martin : « valar morghulis » ; le macron (ū) relève de la romanisation de Peterson. Game of Thrones 306.",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Valar", "https://wiki.languageinvention.com/Morgh%C5%ABljagon", "https://wiki.languageinvention.com/High_Valyrian_Verb_Conjugation", "https://dothraki.com/?p=1227"]
+    },
+    {
+      "id": "phrase.valar_dohaeris",
+      "hv": "Valar dohaeris",
+      "fr": "Tous les hommes doivent servir",
+      "en": "All men must serve",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "valar : nominatif collectif de vala ; dohaeris : 3e personne du singulier de l'aoriste actif de dohaeragon (« servir » ; radical consonantique dohaer- + -is ; participe parfait dohaerta). Même structure que valar morghūlis : sujet collectif + verbe à l'aoriste singulier, littéralement « tous les hommes servent ».",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Valar", "https://wiki.languageinvention.com/index.php?title=Dohaeragon", "https://wiki.languageinvention.com/High_Valyrian_Verb_Conjugation"]
+    },
+    {
+      "id": "phrase.motto",
+      "hv": "Perzys Ānogār",
+      "fr": "Feu et Sang",
+      "en": "Fire and Blood",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Syntagme donné tel quel (« Fire and Blood ») sur la fiche perzys. Coordination par simple juxtaposition : la voyelle finale du dernier terme s'allonge (ānogar → ānogār) et l'accent passe sur la dernière syllabe, procédé décrit par Peterson (billet « Valyrian Numerals »). Ne pas confondre cet ānogār avec le locatif homographe de ānogar.",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Perzys", "https://dothraki.com/2013/08/valyrian-numerals", "https://wiki.languageinvention.com/High_Valyrian_Phonology"]
+    },
+    {
+      "id": "title.house",
+      "hv": "Targārio Lentor",
+      "fr": "La Maison Targaryen",
+      "en": "House Targaryen",
+      "status": "derive",
+      "verifie_en_ligne": true,
+      "notes": "Nominatif rétabli à partir de la formule attestée « hen Targārio Lentrot » (« de la Maison Targaryen », Game of Thrones 304) : Targārio (génitif singulier de Targārien, 4e décl. terrestre) + lentor (« maison, dynastie »). Littéralement « la Maison de Targaryen ».",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Lentor", "https://wiki.languageinvention.com/index.php?title=Targ%C4%81rien", "https://wiki.languageinvention.com/High_Valyrian_Noun_Declensions"]
+    },
+    {
+      "id": "title.site",
+      "hv": "Targārio Lentro Vestriarja",
+      "fr": "Les Chroniques de la Maison Targaryen",
+      "en": "The Chronicles of House Targaryen",
+      "status": "editorial",
+      "verifie_en_ligne": true,
+      "notes": "Littéralement « les récits de la Maison de Targaryen » : Targārio (gén. sg.) + Lentro (gén. sg. de lentor) + vestriarja (nom. pl. de vestriarzir, « récit »). Génitifs placés avant le nom-tête (ordre non marqué). Chaque forme est vérifiée ; l'ensemble est une composition éditoriale.",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Lentor", "https://wiki.languageinvention.com/High_Valyrian_Noun_Declensions", "https://wiki.languageinvention.com/High_Valyrian_Noun_Cases"]
+    },
+    {
+      "id": "title.library",
+      "hv": "Tembyroti Jāelion Valyrio",
+      "fr": "La Bibliothèque de Valyria",
+      "en": "The Library of Valyria",
+      "status": "editorial",
+      "verifie_en_ligne": true,
+      "notes": "Littéralement « le dépôt des livres de Valyria » : tembyroti (gén. pl. de tembyr, « livre ») + jāelion (« trésorerie, dépôt ») + Valyrio (gén. de Valyria, postposé comme dans les titres : cf. « Nekesse Valyrio », « Muña Zaldrīzoti »). LIMITE : aucun mot attesté pour « bibliothèque ». Un néologisme régulier du type tembyr + -lion (suffixe de lieu) a été écarté volontairement. Variante courte : Valyrio Jāelion.",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Tembyr", "https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/Valyria", "https://wiki.languageinvention.com/High_Valyrian_Noun_Cases"]
+    },
+    {
+      "id": "phrase.loading",
+      "hv": "Umbās",
+      "fr": "Patientez…",
+      "en": "Wait…",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Impératif singulier de umbagon (« rester, attendre, demeurer »). Attesté tel quel dans House of the Dragon : « Umbās… Rȳbās » (« Attends… Concentre-toi », épisode 101) et « Umbās » seul (épisode 106). Pluriel : umbātās.",
+      "refs": ["https://wiki.languageinvention.com/Umbagon"]
+    },
+    {
+      "id": "phrase.not_found",
+      "hv": "Kesir ilos daor.",
+      "fr": "Ceci n'existe pas.",
+      "en": "This does not exist.",
+      "status": "editorial",
+      "verifie_en_ligne": true,
+      "notes": "kesir (« ceci », pronom démonstratif pour les entités abstraites et les lieux) + ilos (3e pers. sg. du subjonctif présent de ilagon, « se trouver, exister ») + daor (« ne… pas »). La négation exige le subjonctif et daor se place après le verbe, sur le modèle attesté « Zaldrīzes buzdari iksos daor ». LIMITE : aucun mot pour « page » ; la phrase dit « ceci n'existe pas ». Phrase composée pour le site.",
+      "refs": ["https://wiki.languageinvention.com/Ilagon", "https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://dothraki.com/?p=1227", "https://wiki.languageinvention.com/Zaldr%C4%ABzes"]
+    },
+    {
+      "id": "phrase.welcome",
+      "hv": "Majēbās, se zaldrīzoti vestriarzir gūrēñās.",
+      "fr": "Entre, et apprends l'histoire des dragons.",
+      "en": "Enter, and learn the story of the dragons.",
+      "status": "editorial",
+      "verifie_en_ligne": false,
+      "notes": "Glose : majēbās (« entre », impératif sg. de majēbagon) · se (et) · zaldrīzoti (des dragons, gén. pl.) · vestriarzir (le récit, accusatif sg. = nominatif) · gūrēñās (« apprends », impératif sg. de gūrēñagon, forme attestée). Ordre objet-verbe. LIMITE : « seigneurs dragons » n'est pas attesté ; « dragons » le remplace (les Targaryen se disent eux-mêmes dragons). Seule majēbās n'a pas été vue telle quelle (impératif dérivé régulièrement). Interjection d'accueil attestée, utilisable seule : Jiōrna (« bienvenue »).",
+      "refs": ["https://wiki.languageinvention.com/Maj%C4%93bagon", "https://wiki.languageinvention.com/G%C5%ABr%C4%93%C3%B1agon", "https://wiki.languageinvention.com/High_Valyrian_Noun_Declensions", "https://wiki.languageinvention.com/Se"]
+    },
+    {
+      "id": "period.1",
+      "hv": "Valyria Uēpa",
+      "fr": "L'ancienne Valyria",
+      "en": "Old Valyria",
+      "status": "derive",
+      "verifie_en_ligne": true,
+      "notes": "Nominatif rétabli à partir du génitif attesté « hen Valyrio Uēpo ānogār » (« du sang de l'ancienne Valyria », Game of Thrones 304). uēpa : adjectif de classe I (« vieux, âgé »), postposé et accordé au lunaire singulier avec Valyria. Pour « la Possession » : Valyrio Ezīmillion (« Valyrian Freehold ») figure dans un document de travail de Peterson.",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Lentor", "https://wiki.languageinvention.com/U%C4%93pa", "https://dedalvs.com/work/house-of-the-dragon/misc/map_request.pdf"]
+    },
+    {
+      "id": "period.2",
+      "hv": "Lentro Prānon",
+      "fr": "Les origines de la Maison",
+      "en": "The Origins of the House",
+      "status": "editorial",
+      "verifie_en_ligne": true,
+      "notes": "Littéralement « le commencement de la Maison » : lentro (gén. sg. de lentor) + prānon (« commencement », nom d'action de pradagon ; cf. hen prānot, « depuis le début, toujours »). LIMITE : pas de mot « origine » ; singulier « commencement » retenu.",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Lentor", "https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "period.3",
+      "hv": "Āego Ērinnon",
+      "fr": "La Conquête",
+      "en": "The Conquest",
+      "status": "editorial",
+      "verifie_en_ligne": true,
+      "notes": "Littéralement « la victoire d'Aegon » : Āego (gén. sg. de Āegon, 3e décl. terrestre) + ērinnon (« victoire », nom d'action de ērinagon, « vaincre ; conquérir »). LIMITE : pas de nom attesté « conquête » ; ērinnon est le dérivé le plus proche (cf. ērintys, « conquérant, vainqueur »). Variante courte : Ērinnon.",
+      "refs": ["https://wiki.languageinvention.com/Aegon", "https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "period.4",
+      "hv": "Ēlī Dāryssy",
+      "fr": "Les premiers rois",
+      "en": "The First Kings",
+      "status": "derive",
+      "verifie_en_ligne": true,
+      "notes": "ēlī : nominatif pluriel lunaire/solaire de ēlie (« premier », adjectif de classe III), antéposé ; dāryssy : nominatif pluriel de dārys. Même schéma que « ēlī vali » (« les premiers hommes »), donné par Peterson.",
+      "refs": ["https://wiki.languageinvention.com/%C4%92lie", "https://wiki.languageinvention.com/D%C4%81rys", "https://dothraki.com/2013/08/valyrian-numerals"]
+    },
+    {
+      "id": "period.5",
+      "hv": "Zaldrīzoti Lilion",
+      "fr": "La Danse des Dragons",
+      "en": "The Dance of the Dragons",
+      "status": "editorial",
+      "verifie_en_ligne": true,
+      "notes": "zaldrīzoti (gén. pl. de zaldrīzes, attesté dans « Muña Zaldrīzoti ») + lilion (« danse, gala », dictionnaire). Aucune traduction officielle du nom de la guerre civile n'a été trouvée dans les sources consultées : composition éditoriale régulière.",
+      "refs": ["https://wiki.languageinvention.com/Vesteros", "https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/High_Valyrian_Noun_Declensions"]
+    },
+    {
+      "id": "period.6",
+      "hv": "Lilio Toliot",
+      "fr": "Après la Danse",
+      "en": "After the Dance",
+      "status": "editorial",
+      "verifie_en_ligne": false,
+      "notes": "lilio (gén. sg. dérivé de lilion, 3e décl. terrestre en -ion : modèle dārion → dārio) + toliot (postposition régissant le génitif : « au-dessus de ; après », cf. ono toliot, « enfin », littéralement « après l'aube »). LIMITE : « les rois d'après / générations suivantes » n'est pas exprimable sûrement (pas d'adjectif « suivant » vérifié) ; reformulation proposée. La forme lilio n'a pas été vue telle quelle.",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=High_Valyrian_Grammar", "https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/High_Valyrian_Noun_Declensions"]
+    },
+    {
+      "id": "period.7",
+      "hv": "Lentro Mōris",
+      "fr": "La chute",
+      "en": "The Fall",
+      "status": "editorial",
+      "verifie_en_ligne": true,
+      "notes": "Littéralement « la fin de la Maison » : lentro (gén. sg. de lentor) + mōris (« fin, conclusion » ; cf. va mōriot, « pour toujours »). LIMITE : le verbe ropagon (« tomber ») est attesté mais aucun nom « chute » n'en est dérivé dans les sources ; « fin » retenu plutôt qu'un néologisme.",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Lentor", "https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/Ropagon"]
+    },
+    {
+      "id": "period.8",
+      "hv": "Irūdion",
+      "fr": "L'héritage",
+      "en": "The Legacy",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "irūdion : « héritage » (dictionnaire ; apparenté à irūdy, « don, présent », et irughagon, « donner »). Terrestre en -ion d'après la terminaison.",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "name.targaryen",
+      "hv": "Targārien",
+      "fr": "Targaryen",
+      "en": "Targaryen",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Nom propre, 4e décl. terrestre (gén. Targārio, pl. Targārī, loc. Targāriēn). Nom créé par G. R. R. Martin ; forme valyrienne et flexion fixées par Peterson.",
+      "refs": ["https://wiki.languageinvention.com/index.php?title=Targ%C4%81rien", "https://wiki.languageinvention.com/High_Valyrian_Noun_Declensions"]
+    },
+    {
+      "id": "name.valyria",
+      "hv": "Valyria",
+      "fr": "Valyria",
+      "en": "Valyria",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Nom propre, 1re décl. lunaire (gén. Valyrio, loc. Valyriā). Désigne la cité, la Possession, la péninsule et aussi la langue.",
+      "refs": ["https://wiki.languageinvention.com/Valyria"]
+    },
+    {
+      "id": "name.aegon",
+      "hv": "Āegon",
+      "fr": "Aegon",
+      "en": "Aegon",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Graphie valyrienne avec ā long initial. 3e décl. terrestre (gén. Āego, voc. Āegos). Attesté dans House of the Dragon 108.",
+      "refs": ["https://wiki.languageinvention.com/Aegon", "https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "name.visenya",
+      "hv": "Visenia",
+      "fr": "Visenya",
+      "en": "Visenya",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Graphie valyrienne Visenia (la graphie « Visenya » y renvoie). 1re décl. lunaire, sous-type -ia (gén. Visenio).",
+      "refs": ["https://wiki.languageinvention.com/Visenya"]
+    },
+    {
+      "id": "name.rhaenys",
+      "hv": "Rhaenys",
+      "fr": "Rhaenys",
+      "en": "Rhaenys",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "2e décl. solaire (gén. Rhaeno). rh note un r sourd.",
+      "refs": ["https://wiki.languageinvention.com/Rhaenys"]
+    },
+    {
+      "id": "name.daenerys",
+      "hv": "Daenerys",
+      "fr": "Daenerys",
+      "en": "Daenerys",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "2e décl. solaire : génitif Daenero (« Viserys Daenero lēkia issa »), comitatif Daeneromy. Attesté dans Game of Thrones 304.",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/L%C4%93kia", "https://wiki.languageinvention.com/High_Valyrian_Noun_Cases"]
+    },
+    {
+      "id": "name.rhaenyra",
+      "hv": "Rhaenyra",
+      "fr": "Rhaenyra",
+      "en": "Rhaenyra",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "1re décl. lunaire (gén. Rhaenyro, voc. Rhaenyrus).",
+      "refs": ["https://wiki.languageinvention.com/Rhaenyra"]
+    },
+    {
+      "id": "name.daemon",
+      "hv": "Daemon",
+      "fr": "Daemon",
+      "en": "Daemon",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Entrée du dictionnaire (prénom masculin). Flexion non documentée ; par analogie avec Āegon, probablement 3e décl. terrestre (génitif Daemo, à confirmer).",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "name.viserys",
+      "hv": "Viserys",
+      "fr": "Viserys",
+      "en": "Viserys",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "2e décl. solaire (gén. Visero).",
+      "refs": ["https://wiki.languageinvention.com/Viserys"]
+    },
+    {
+      "id": "name.jaehaerys",
+      "hv": "Jaehaerys",
+      "fr": "Jaehaerys",
+      "en": "Jaehaerys",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Entrée du dictionnaire (prénom masculin). Flexion non documentée ; terminaison -ys, donc vraisemblablement 2e décl. solaire (génitif Jaehaero, à confirmer).",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "name.aemond",
+      "hv": "Aemond",
+      "fr": "Aemond",
+      "en": "Aemond",
+      "status": "adaptation",
+      "verifie_en_ligne": false,
+      "notes": "Aucune entrée dans le dictionnaire de référence, qui contient pourtant Aemon. Graphie de Martin conservée faute de forme valyrienne confirmée ; flexion inconnue : éviter de le décliner (ou le traiter comme emprunt de 6e déclinaison) tant qu'une source n'a pas été trouvée.",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "name.balerion",
+      "hv": "Balerion",
+      "fr": "Balerion",
+      "en": "Balerion",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Entrée du dictionnaire : divinité valyrienne et nom de dragon. Flexion non documentée (terminaison -ion : probablement 3e décl. terrestre).",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "name.vhagar",
+      "hv": "Vagar",
+      "fr": "Vhagar",
+      "en": "Vhagar",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Forme classique Vagar (1re décl. aquatique, gén. Vagro) ; « Vhagar » est la graphie de Martin, le digraphe vh notant peut-être un ancien /f/. Attesté : « Vagar zenturlion drakaromy zāltas ».",
+      "refs": ["https://wiki.languageinvention.com/Vagar", "https://wiki.languageinvention.com/High_Valyrian_Phonology"]
+    },
+    {
+      "id": "name.meraxes",
+      "hv": "Merakses",
+      "fr": "Meraxes",
+      "en": "Meraxes",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Entrée du dictionnaire : divinité valyrienne et nom de dragon. La romanisation de Peterson écrit ks pour x. Flexion non vérifiée (terminaison -es : 4e décl. solaire probable, comme zaldrīzes).",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "name.syrax",
+      "hv": "Syraks",
+      "fr": "Syrax",
+      "en": "Syrax",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "3e décl. solaire (gén. Syrako). Attesté dans House of the Dragon 108 (« Syraks drōmuni arliar mādas »).",
+      "refs": ["https://wiki.languageinvention.com/Syrax"]
+    },
+    {
+      "id": "name.caraxes",
+      "hv": "Karakses",
+      "fr": "Caraxes",
+      "en": "Caraxes",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Entrée du dictionnaire (nom de dragon) : k pour c, ks pour x. Flexion non vérifiée (4e décl. solaire probable).",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    },
+    {
+      "id": "name.drogon",
+      "hv": "Drogon",
+      "fr": "Drogon",
+      "en": "Drogon",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Entrée du dictionnaire (nom de dragon). Génitif attesté Drogo (« udir Drogo bē », Game of Thrones 410) : 3e décl. terrestre.",
+      "refs": ["https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://wiki.languageinvention.com/index.php?title=Udir"]
+    },
+    {
+      "id": "name.dragonstone",
+      "hv": "Zaldrīzdōron",
+      "fr": "Peyredragon",
+      "en": "Dragonstone",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Composé de zaldrīzes (« dragon ») + dōron (« pierre ») ; 3e décl. terrestre, gén. Zaldrīzdōro. Attesté : « Kepa ñuha yne Zaldrīzdōro Dārilaroso brōstas » (House of the Dragon 102).",
+      "refs": ["https://wiki.languageinvention.com/Zaldr%C4%ABzd%C5%8Dron", "https://dedalvs.com/work/house-of-the-dragon/misc/map_request.pdf"]
+    },
+    {
+      "id": "name.kings_landing",
+      "hv": "Dāro Vilinion",
+      "fr": "Port-Réal",
+      "en": "King's Landing",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "Entrée du dictionnaire et fiche dédiée. Littéralement « port du roi » : dāro (gén. sg. de dārys) + vilinion (« port », cf. Lāniso Vilinion, Port-Lannis). Seul le second élément se décline (gén. Dāro Vilinio).",
+      "refs": ["https://wiki.languageinvention.com/D%C4%81ro_Vilinion", "https://wiki.languageinvention.com/High_Valyrian_Dictionary", "https://dedalvs.com/work/house-of-the-dragon/misc/map_request.pdf"]
+    },
+    {
+      "id": "name.westeros",
+      "hv": "Vesteros",
+      "fr": "Westeros",
+      "en": "Westeros",
+      "status": "atteste",
+      "verifie_en_ligne": true,
+      "notes": "3e décl. solaire (gén. Vestero). Attesté dans le titre de Daenerys : « Dāria Sīkudo Dārȳti Vestero » (Game of Thrones 310). Le w de Martin est rendu par v.",
+      "refs": ["https://wiki.languageinvention.com/Vesteros"]
+    },
+    {
+      "id": "text.portal_intro",
+      "hv": "Kesīr Targārio Lentro vestriarzir ilza. Dāryssy se zaldrīzesse kesīr ilzi. Umbās, se gūrēñās.",
+      "fr": "Ici se trouve l'histoire de la Maison Targaryen. Des rois et des dragons sont ici. Reste, et apprends.",
+      "en": "Here lies the story of House Targaryen. Kings and dragons are here. Stay, and learn.",
+      "status": "editorial",
+      "verifie_en_ligne": true,
+      "notes": "Glose mot à mot. Phrase 1 : kesīr (ici) · Targārio (de Targaryen, gén. sg.) · Lentro (de la Maison, gén. sg.) · vestriarzir (récit, nom. sg., sujet) · ilza (se trouve, 3e sg. présent de ilagon). Phrase 2 : dāryssy (rois, nom. pl.) · se (et) · zaldrīzesse (dragons, nom. pl.) · kesīr (ici) · ilzi (se trouvent, 3e pl. présent). Phrase 3 : umbās (« reste », impératif sg. de umbagon, attesté) · se (et) · gūrēñās (« apprends », impératif sg. de gūrēñagon). Verbe en fin de proposition (ordre SOV), pas d'article. Toutes les formes ont été vues sur une source consultée ; les phrases elles-mêmes sont composées pour le site. se relie ici deux noms, comme dans l'exemple « Gryves se Riña Litse ».",
+      "refs": ["https://wiki.languageinvention.com/Ilagon", "https://wiki.languageinvention.com/index.php?title=Lentor", "https://wiki.languageinvention.com/High_Valyrian_Noun_Declensions", "https://wiki.languageinvention.com/D%C4%81rys", "https://wiki.languageinvention.com/Umbagon", "https://wiki.languageinvention.com/G%C5%ABr%C4%93%C3%B1agon", "https://wiki.languageinvention.com/Se", "https://wiki.languageinvention.com/High_Valyrian_Dictionary"]
+    }
+  ]
+}

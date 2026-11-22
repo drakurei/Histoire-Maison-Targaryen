@@ -1,0 +1,84 @@
+/* Le ruban des règnes : bandes d'or sombre sur le vélin, noms à l'encre, rang en gothique. */
+.scroller {
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+}
+
+.scroller:focus-visible {
+  outline: 2px solid var(--rubrique);
+  outline-offset: 3px;
+}
+
+.svg {
+  display: block;
+  inline-size: 100%;
+  min-inline-size: 46rem;
+  block-size: auto;
+}
+
+.axis,
+.tick {
+  stroke: var(--encre-pale);
+  stroke-width: 1;
+}
+
+.year {
+  font-family: var(--f-musee);
+  font-size: 11.5px;
+  font-variant-numeric: lining-nums tabular-nums;
+  fill: var(--encre-pale);
+}
+
+.reign {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.band {
+  fill: var(--v1-or-sombre);
+}
+
+.reign[data-tone='b'] .band {
+  fill: oklch(0.6 0.095 78);
+}
+
+/* Règne disputé (Rhaenyra) : un couloir à part, à l'encre rouge. */
+.reign[data-lane='1'] .band {
+  fill: var(--rubrique);
+}
+
+.leader {
+  stroke: var(--v1-trait);
+  stroke-width: 1;
+}
+
+.label {
+  font-family: var(--f-chronique);
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+  fill: var(--encre);
+}
+
+.ordinal {
+  font-family: var(--f-lettrine);
+  font-size: 16px;
+  fill: var(--velin);
+}
+
+.reign:hover .band,
+.reign:focus-visible .band {
+  fill: var(--rubrique);
+}
+
+.reign:hover .label,
+.reign:focus-visible .label {
+  fill: var(--rubrique);
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+}
+
+.reign:focus-visible {
+  outline: none;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<meta name="robots" content="noindex">
+<title>Targaryen Chronicles — maquette</title>
+<link rel="icon" href="{{FAVICON}}">
+<style>html{background:#0B0A0A}</style>
+<style>{{FONTS}}</style>
+<style>{{TOKENS}}</style>
+<style>{{CSS}}</style>
+</head>
+<body>
+<a class="evitement" id="evitement" href="#page"></a>
+<p class="bandeau-maquette" id="bandeau"></p>
+<header class="barre" id="barre">
+  <a class="marque" href="#/" aria-label="Targaryen Chronicles">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="11" fill="none" stroke="currentColor" stroke-width="1.5"/><path fill="none" stroke="currentColor" stroke-width="1.25" d="M12 1.5A12.19 12.19 0 0 1 12 22.5A12.19 12.19 0 0 1 12 1.5Z"/><path fill="currentColor" d="M12 5.5C12.6 7.3 14 8.4 14 10.2A2 2 0 0 1 10 10.2C10 8.4 11.4 7.3 12 5.5Z"/><path fill="currentColor" d="M11.25 13.75H12.75V19H11.25Z"/></svg>
+    <span class="marque__nom" id="marque-nom"></span>
+  </a>
+  <span class="barre__espace"></span>
+  <div id="outils" style="display:contents"></div>
+</header>
+<main class="page" id="page" tabindex="-1"></main>
+<footer class="pied" id="pied"></footer>
+
+<div class="seuil" id="seuil" tabindex="-1" role="dialog" aria-modal="true" aria-labelledby="seuil-salut">
+  {{SCEAU_INLINE}}
+  <div id="seuil-jauge" class="sr" role="progressbar" aria-valuemin="0" aria-valuemax="14" aria-valuenow="0"></div>
+  <p class="seuil__salut" id="seuil-salut" lang="art-x-valyrian"></p>
+  <p class="glose seuil__glose seuil__etat" id="seuil-glose"></p>
+  <div class="seuil__reponse">
+    <button type="button" class="bouton" id="seuil-reponse" lang="art-x-valyrian"></button>
+    <span class="glose seuil__glose" id="seuil-reponse-glose"></span>
+  </div>
+  <div id="seuil-langues"></div>
+</div>
+
+<dialog class="feuillet feuillet--plein" id="index" aria-label="Index"></dialog>
+<dialog class="feuillet" id="recherche" aria-label="Recherche"></dialog>
+<p class="sr" id="annonce" aria-live="polite"></p>
+
+<script type="application/json" id="donnees">{{DATA}}</script>
+<script>{{JS}}</script>
+</body>
+</html>

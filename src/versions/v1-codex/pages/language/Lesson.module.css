@@ -1,0 +1,132 @@
+/* Leçon : rang gothique suspendu dans la marge gauche, puis le corps de la leçon. */
+.lesson {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--e3);
+  margin-block: var(--e7);
+  scroll-margin-block-start: 6rem;
+}
+
+@media (min-width: 720px) {
+  .lesson {
+    grid-template-columns: 4.5rem minmax(0, 1fr);
+    gap: var(--e5);
+  }
+}
+
+.number {
+  font-family: var(--f-lettrine);
+  font-size: var(--t4);
+  line-height: 0.85;
+  color: var(--v1-rubrique);
+}
+
+.body {
+  display: grid;
+  gap: var(--e4);
+  min-inline-size: 0;
+}
+
+.title {
+  margin: 0;
+}
+
+.srOnly {
+  position: absolute;
+  inline-size: 1px;
+  block-size: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.summary {
+  margin-block-end: var(--e2);
+}
+
+.p {
+  margin: 0;
+}
+
+/* ------------------------------------------------------------ Tableau de déclinaison */
+.tableWrap {
+  max-inline-size: 100%;
+  overflow-x: auto;
+}
+
+.table {
+  min-inline-size: 22rem;
+  border-collapse: collapse;
+  font-family: var(--f-musee);
+  font-size: 0.95rem;
+  line-height: 1.3;
+  font-variant-numeric: lining-nums tabular-nums;
+  border-block: 2px solid var(--v1-texte);
+}
+
+.caption {
+  caption-side: bottom;
+  padding-block-start: var(--e2);
+  font-size: 0.875rem;
+  color: var(--v1-texte-2);
+  text-align: start;
+}
+
+.table thead th {
+  border-block-end: 1px solid var(--v1-texte);
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-weight: 400;
+  color: var(--v1-texte-2);
+}
+
+.table th,
+.table td {
+  padding: var(--e2) var(--e5) var(--e2) 0;
+  text-align: start;
+  vertical-align: baseline;
+}
+
+.table tbody th {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-weight: 400;
+  color: var(--v1-texte-2);
+}
+
+.table [lang='art-x-valyrian'] {
+  font-family: var(--f-chronique);
+  font-size: 1.08rem;
+  font-weight: 520;
+  color: var(--v1-texte);
+}
+
+/* ------------------------------------------------------------ Exemple */
+.example {
+  display: grid;
+  gap: var(--e1);
+  margin: var(--e2) 0;
+  padding-inline-start: var(--e5);
+}
+
+.exampleHv {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 540;
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  color: var(--v1-texte);
+}
+
+.exampleGloss {
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--v1-texte);
+}
+
+.exampleNote {
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+  color: var(--v1-texte-2);
+}

@@ -1,0 +1,86 @@
+/*
+ * Jetons de dessin. Source : DESIGN.md §2 (couleur), §3 (typographie), §5 (mouvement), §6 (composition).
+ * Les noms et les valeurs des tableaux de DESIGN.md sont repris tels quels : on ne les modifie qu'avec lui.
+ * Une version adapte un jeton en le redéfinissant sous sa classe racine (.v1, .v2, .v3), jamais ici.
+ */
+
+:root {
+  /* ---------------------------------------------------------------- Couleur (§2)
+     OKLCH, neutres teintés vers le rouge. Ni noir pur ni blanc pur. */
+  --obsidienne: oklch(0.14 0.012 25); /* fond d'architecture */
+  --suie: oklch(0.19 0.014 28); /* surface posée sur l'obsidienne */
+  --basalte: oklch(0.27 0.012 35); /* pierre, traits de structure sur fond sombre */
+  --cendre: oklch(0.62 0.012 55); /* texte secondaire sur sombre */
+  --ivoire: oklch(0.93 0.025 85); /* texte principal sur sombre */
+  --velin: oklch(0.90 0.035 84); /* surface de lecture claire (folio) */
+  --velin-ombre: oklch(0.84 0.045 80); /* marge, pli, verso */
+  --encre: oklch(0.24 0.02 40); /* texte sur vélin */
+  --encre-pale: oklch(0.42 0.025 45); /* texte secondaire sur vélin */
+  --sang: oklch(0.50 0.19 25); /* rouge Targaryen : aplats, rubriques */
+  --cramoisi: oklch(0.36 0.14 22); /* rouge profond : fonds de section */
+  --braise: oklch(0.68 0.20 40); /* point le plus chaud : feu, état actif sur sombre */
+  --rubrique: oklch(0.44 0.17 25); /* rouge d'encre sur vélin */
+  --or: oklch(0.76 0.11 84); /* ce qui est couronné, et rien d'autre */
+  --bronze: oklch(0.56 0.08 68); /* métal vieilli : instruments */
+
+  /* ---------------------------------------------------------------- Typographie (§3)
+     Quatre voix, quatre rôles, aucune permutation. */
+  --f-chronique: 'Texturina Variable', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
+  --f-lettrine: 'Grenze Gotisch Variable', 'Texturina Variable', Georgia, serif;
+  --f-recit: 'Alegreya Variable', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
+  --f-musee: 'Alegreya Sans', 'Gill Sans Nova', 'Gill Sans', Candara, 'Segoe UI', sans-serif;
+
+  /* Échelle fluide, rapport 1.333 à partir du récit (--t0). */
+  --t-1: 0.8rem; /* cartel */
+  --t0: clamp(1.06rem, 0.98rem + 0.3vw, 1.2rem); /* récit */
+  --t1: calc(var(--t0) * 1.333);
+  --t2: calc(var(--t0) * 1.777);
+  --t3: calc(var(--t0) * 2.369);
+  --t4: calc(var(--t0) * 3.157);
+  --t5: clamp(3.2rem, 2rem + 6vw, 7.5rem);
+  --t6: clamp(4rem, 1rem + 13vw, 15rem); /* un mot monumental par page, pas plus */
+
+  /* Interlignage, approche et mesure. Titres en bas de casse, serrés. */
+  --il-titre: 0.98; /* plage admise : 0.92 à 1.05 */
+  --il-recit: 1.6; /* encre sur vélin */
+  --il-recit-sombre: 1.68; /* clair sur sombre */
+  --il-cartel: 1.4;
+  --approche-titre: -0.02em; /* plage admise : -0.01em à -0.03em, jamais positive */
+  --mesure: 68ch; /* récit : 62 à 72 caractères par ligne */
+
+  /* ---------------------------------------------------------------- Composition (§6) */
+  --e1: 0.25rem;
+  --e2: 0.5rem;
+  --e3: 0.75rem;
+  --e4: 1rem;
+  --e5: 1.5rem;
+  --e6: 2.5rem;
+  --e7: 4rem;
+  --e8: 6.5rem;
+  --e9: 10.5rem;
+
+  --colonnes: 12;
+  --gouttiere: clamp(1rem, 2vw, 2rem);
+  --marge-page: clamp(1.25rem, 5vw, 6rem);
+
+  --cible: 2.75rem; /* cible tactile minimale : 44 px */
+
+  /* Focus visible : contour de 2 px, décalé de 3 px. Sur vélin, une version
+     redéfinit --focus-couleur (la braise n'y atteint pas 3:1). */
+  --focus-epaisseur: 2px;
+  --focus-decalage: 3px;
+  --focus-couleur: var(--braise);
+
+  /* ---------------------------------------------------------------- Mouvement (§5)
+     Deux courbes, sans élasticité ni rebond. Équivalents CSS des courbes GSAP
+     « expo.out » et « power4.out » ; les mêmes valeurs vivent dans src/core/motion/tokens.ts. */
+  --c-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --c-power4: cubic-bezier(0.22, 1, 0.36, 1);
+
+  --d-fondu: 150ms; /* ce qui reste quand le lecteur demande moins de mouvement */
+  --d-geste-court: 160ms; /* survol, pression, focus */
+  --d-geste: 220ms; /* ouvrir, filtrer, sélectionner */
+  --d-geste-long: 280ms; /* déplier un volet */
+  --d-passage: 700ms; /* d'une section à l'autre */
+  --d-scene: 1400ms; /* chorégraphie : seuil, ouverture */
+}

@@ -1,0 +1,106 @@
+/*
+ * Signets de tissu. Chaque ruban mesure toute sa longueur ; une fenêtre qui commence
+ * 14 px au-dessus du bord du folio n'en laisse voir que le bout. Tirer le ruban, c'est
+ * le faire descendre dans la fenêtre (translateY), rien d'autre.
+ */
+.ribbons {
+  --long: 15.5rem;
+  --dessus: 14px;
+
+  position: absolute;
+  inset-block-start: calc(-1 * var(--dessus));
+  inset-inline-end: var(--v1-folio-pad);
+  z-index: 5;
+  display: none;
+  block-size: calc(var(--long) + 0.5rem);
+  overflow: hidden;
+  pointer-events: none;
+}
+
+@media (min-width: 1024px) {
+  .ribbons {
+    display: block;
+  }
+}
+
+.row {
+  display: flex;
+  gap: 0.8rem;
+  margin: 0;
+}
+
+.item {
+  inline-size: 30px;
+}
+
+.ribbon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  block-size: var(--long);
+  padding-block: 0.7rem 0.95rem;
+  color: var(--ivoire);
+  text-decoration: none;
+  pointer-events: auto;
+  /* Gros-grain : fines côtes verticales, bords ombrés comme un ruban qui tourne. */
+  background-color: var(--sang);
+  background-image:
+    linear-gradient(90deg, oklch(0.2 0.08 22 / 0.45), transparent 22%, transparent 78%, oklch(0.2 0.08 22 / 0.4)),
+    repeating-linear-gradient(90deg, oklch(0.93 0.025 85 / 0.05) 0 1px, transparent 1px 3px);
+  /* Queue d'aronde. */
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 50% calc(100% - 10px), 0 100%);
+  transform: translateY(calc(-100% + var(--dessus) + var(--repos)));
+  transition: transform var(--d-geste) var(--c-expo), background-color var(--d-geste-court) var(--c-expo);
+}
+
+.ribbon[data-current] {
+  background-color: var(--cramoisi);
+  transform: translateY(calc(-100% + var(--dessus) + var(--repos) + 1.75rem));
+}
+
+.ribbon:hover,
+.ribbon:focus-visible {
+  transform: translateY(0);
+}
+
+/* Le contour serait coupé par la queue d'aronde : il se dessine à l'intérieur du ruban. */
+.ribbon:focus-visible {
+  outline: 2px solid var(--ivoire);
+  outline-offset: -5px;
+}
+
+.label {
+  /* Tous les signes couchés dans le même sens : l'apostrophe ne se redresse pas en point. */
+  text-orientation: sideways;
+  display: flex;
+  flex-direction: column;
+  writing-mode: vertical-rl;
+  max-block-size: calc(var(--long) - 4.5rem);
+  overflow: hidden;
+}
+
+.primary {
+  font-family: var(--f-chronique);
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+
+.gloss {
+  font-family: var(--f-recit);
+  font-size: 0.72rem;
+  font-style: italic;
+  line-height: 1.1;
+  color: oklch(0.88 0.04 70);
+  white-space: nowrap;
+}
+
+.initial {
+  font-family: var(--f-lettrine);
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1;
+}

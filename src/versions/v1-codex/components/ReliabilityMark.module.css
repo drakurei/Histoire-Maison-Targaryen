@@ -1,0 +1,29 @@
+/* Marque de fiabilité : glyphe de 16 sur la ligne de base, libellé de cartel. */
+.mark {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.2;
+  color: var(--v1-texte-2);
+  white-space: nowrap;
+}
+
+.glyph {
+  flex: none;
+  color: var(--v1-texte);
+}
+
+.mark[data-level='contradictoire'] .glyph {
+  color: var(--v1-rubrique);
+}
+
+.mark[data-level='legende'] .glyph {
+  color: var(--bronze);
+}
+
+.mark[data-level='adaptation'] .glyph {
+  color: var(--v1-texte-2);
+}

@@ -1,0 +1,267 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-05",
+  "items": {
+    "nav.portal": {
+      "notes": "remio, lunar noun of the 3rd declension (pl. remia, gen. remiō): “gate (of a city)”. Attested in Game of Thrones 504 (“jevī remia ynot drāñēdāt”, “you opened your gates to me”). Possible variant: nerny (“door, mouth of a cave”, dictionary)."
+    },
+    "nav.chronicles": {
+      "notes": "Literally “stories, tales”. Nominative plural of vestriarzir (“story”), 5th declension, vestriarzir subtype (the cluster zr becomes j: vestriarja, vestriarjin), a form cited on the declensions page. LIMITATION: no word is attested for “history” (the discipline) or for “chronicle”; “story” is the nearest term."
+    },
+    "nav.genealogy": {
+      "notes": "Literally “the blood of the dragon”: zaldrīzo (genitive singular of zaldrīzes, 4th solar declension) + ānogar (“blood”, 1st aquatic declension). The phrase is given as it stands, as an example (“Blood of the dragon”), on the ānogar entry; it is an “exegetical” example from the wiki, not one taken from an episode. More neutral attested alternatives: Egliar (“ancestors, ancestry”) or Lentor (“house, line, dynasty”)."
+    },
+    "nav.characters": {
+      "notes": "Nominative plural of issaros (“person, individual, human being”, attested in the dictionary and in “issaros kirine”, “happy person”). Derivation: 3rd solar declension in -os, plural in -ossa (pattern ēngos → ēngossa; dārilaros → dārilarossa, a checked form). The exact form issarossa has not been found in any source."
+    },
+    "nav.dragons": {
+      "notes": "Nominative plural of zaldrīzes (4th solar declension). The form is attested in context (“… zaldrīzesse Daeneromy ēdrusi”, “the dragons sleep with Daenerys”) and in the reference paradigm."
+    },
+    "nav.wars": {
+      "notes": "Nominative plural of vīlībāzma (1st lunar declension: “war; battle, fight”). The plural is given on the word's entry; the singular is attested in Game of Thrones 307 and 504."
+    },
+    "nav.places": {
+      "notes": "Nominative plural of ālion (“area, plot of land, place, location”, dictionary). Derivation: 3rd terrestrial declension, -ion subtype (pattern dārion → dāria). The exact form has not been found in the sources. For “lands” there is tegon (“ground, land”), whose paucal tegun Peterson uses in the sense of “lands” (Bōso Jaedo Tegun, “Lands of the Long Summer”)."
+    },
+    "nav.language": {
+      "notes": "Literally “the tongue of Valyria”: Valyrio (genitive of Valyria, 1st lunar declension) + ēngos (“tongue [the organ], language, dialect”, 3rd solar declension). Shortened from the attested sentence “Valyrio muño ēngos ñuhys issa” (“Valyrian is my mother tongue”, Game of Thrones 304). The shortened phrase is not attested as such. Another attested word for “language”: udrir (a reanalysed collective of udir, “word”)."
+    },
+    "nav.sources": {
+      "notes": "Literally “books”: plural of tembyr (“book”, a relexified collective, 2nd/6th lunar declension), a form attested in Peterson's usage (“lanti tembyri”, “two books”). LIMITATION: no word is attested for “source” in the documentary sense; this is an editorial use by extension of meaning. Alternative: bardunon (“writing, written work”)."
+    },
+    "nav.learn": {
+      "notes": "Infinitive (the dictionary form): “to learn, to discover”. Consonant stem, perfect participle gūrēnta. The infinitive can be used as a noun (“learning”). Attested in Game of Thrones 501."
+    },
+    "nav.about": {
+      "notes": "Literally “about this repository”. keso: prepositional genitive of the demonstrative kesa (attested: “Keso glaesot”, “this life”); jāelio: genitive singular derived from jāelion (“treasury, repository”, 3rd terrestrial declension in -ion, pattern dārion → dārio); bē: a postposition taking the genitive (“on; after”), used in the sense of “about” in “udir Drogo bē” (“news of Drogon”, Game of Thrones 410). LIMITATIONS: there is no word for “library” (jāelion is an approximation); the form jāelio has not been seen as such; the sense “about” for bē rests on a single example. A safer but less precise variant: Jāelion."
+    },
+    "action.enter": {
+      "notes": "Singular imperative of majēbagon (“to enter, to pass through”; consonant stem, perfect participle majēpta; attested in House of the Dragon 102). Derivation: stem majēb- + -ās (plural: majēbātās), as with derēbagon → derēbās (attested). Stress on the final syllable. The imperative itself has not been seen."
+    },
+    "action.explore": {
+      "notes": "Singular imperative of jokorigon (“to explore; to investigate”, dictionary), an irregular verb built on jagon. Derived by analogy with korigon, whose imperative korjās appears in the conjugation table. The inflection of jokorigon is not documented: the form awaits confirmation."
+    },
+    "action.read": {
+      "notes": "Singular imperative of pikībagon (“to read”, dictionary). Derivation: presumed consonant stem pikīb- + -ās, like the other verbs in -bagon that have been checked (majēbagon, derēbagon → derēbās). The verb's conjugation class is not documented."
+    },
+    "action.next": {
+      "notes": "Adverb “then, next” (from hen + pār). Attested: “Hembār Yunkaihot istan” (“Then I went to Yunkai”, Game of Thrones 403). It is an adverb of sequence, not an adjective: suitable for a button, not for an epithet."
+    },
+    "action.previous": {
+      "notes": "Adjective “old, previous, former” (dictionary entry; lunar citation form). The adjective class is not documented. An attested alternative for going back: Inkot (“back”, an order given to dragons)."
+    },
+    "action.close": {
+      "notes": "Singular imperative of bēmagon (“to lock, to seal, to fasten; to close [the eyes]”; consonant stem, perfect participle bēda). Derivation: bēm- + -ās. LIMITATION: no verb is attested for “close” in the general sense (a window, a panel); this approximation has been kept."
+    },
+    "action.search": {
+      "notes": "Present singular imperative of korigon (“to search”, dictionary), an irregular verb derived from jagon; the form is given in the conjugation table on the entry (plural: korjātās)."
+    },
+    "action.back": {
+      "notes": "Present singular imperative of āmāzigon (“to come back, to return”; ā- + māzigon; vowel stem). The form is given in the conjugation table on the entry (plural: āmāzītīs). The verb is attested in House of the Dragon 104 and 107."
+    },
+    "action.more": {
+      "notes": "Adverb: “above; after; beyond; too; more”. The sense “more, further” is illustrated by “Tolī rhūqo lōtinti, kostilus” (“More pigeon pie, please”), an exegetical example from the wiki."
+    },
+    "action.open": {
+      "notes": "Singular imperative of drāmmagon (“to open, to uncover”; from drāñe, “wide”, + -emagon; consonant stem, perfect participle drāñēda). Derivation: drāmm- + -ās (the stem is confirmed by the attested passive infinitive drāmmakson). The imperative has not been seen as such."
+    },
+    "action.language": {
+      "notes": "ēngos, 3rd solar declension: “tongue (the organ), language, dialect”. Attested (“Quptenkos Ēngoso ȳdrassia?”, “Do you speak the Common Tongue?”)."
+    },
+    "action.menu": {
+      "notes": "Literally “choices” (plural of iderennon, “choice, decision, selection”, 3rd terrestrial declension). The plural is attested in “iderenna qopsa verdagon” (“to make hard choices”, Game of Thrones 309). LIMITATION: there is no word for “menu”; this is an editorial use by extension of meaning."
+    },
+    "label.king": {
+      "notes": "2nd solar declension (pl. dāryssy, gen. dāro): “king, monarch”."
+    },
+    "label.queen": {
+      "notes": "1st lunar declension, -ia subtype (pl. dārī, gen. dārio). Attested in Daenerys's title: “Dāria Sīkudo Dārȳti Vestero”."
+    },
+    "label.prince": {
+      "notes": "3rd solar declension (pl. dārilarossa): “heir to the throne; prince or princess”. The word does not mark sex (a deliberate choice on Peterson's part)."
+    },
+    "label.princess": {
+      "notes": "The same word as for “prince” (epicene). Attested as a form of address to Rhaenyra: “Drōmon Ēdrurzo īles, Dārilaros” (House of the Dragon 102)."
+    },
+    "label.dragon": {
+      "notes": "4th solar declension (pl. zaldrīzesse, gen. zaldrīzo). Attested: “Zaldrīzes buzdari iksos daor” (Game of Thrones 304)."
+    },
+    "label.rider": {
+      "notes": "kipio: “rider” in the literal sense (the display translations specify “dragonrider” from the context of the site); an agent noun in -io from kipagon, “to ride”. The attested word does not specify the mount. For “dragon rider”, the phrase Zaldrīzo Kipio (genitive + noun) would be a regular editorial construction, but it is not attested. The declension is not documented; presumed 3rd lunar in -io (pattern āeksio)."
+    },
+    "label.reign": {
+      "notes": "Infinitive “to reign, to rule” used as a verbal noun (the nominal use of the infinitive is documented in the grammar). LIMITATION: no noun for “reign” has been found; dārion means “kingdom, realm”."
+    },
+    "label.born": {
+      "notes": "Perfect participle of sikagon (“to give birth to, to bear; to kindle”), given on the verb's entry: literally “borne”, hence “born”. Class I adjective: sitta (lunar), sittys (solar), sitton (terrestrial), sittor (aquatic); as a standalone label the citation form is kept. UNCERTAINTY: the use of the participle in the sense of “born” is not attested in context."
+    },
+    "label.died": {
+      "notes": "Third person singular perfect of morghūljagon (“to die”): “has died”. Attested: “Dārys morghūltas” (“The king is dead”). Being a verb form, it does not vary for gender. Related adjective: morghe (“dead”)."
+    },
+    "label.father": {
+      "notes": "1st lunar declension: “father; father's brother”. Attested: “Kepa ñuha yne Zaldrīzdōro Dārilaroso brōstas” (House of the Dragon 102)."
+    },
+    "label.mother": {
+      "notes": "1st lunar declension: “mother; mother's sister”. Attested in “Muña Zaldrīzoti” (“Mother of Dragons”)."
+    },
+    "label.children": {
+      "notes": "Collective of riña (“daughter; child of either sex”, 1st lunar declension), glossed “children” in the list of kinship terms. Simple plural: riñi. For greater precision: trēsy (“son”), tala (“daughter [of someone]”)."
+    },
+    "label.spouse": {
+      "notes": "belmor, 3rd aquatic declension: “spouse of a sovereign; consort”. Attested in House of the Dragon 107 (“valzȳrys belmōr”, “husband and prince consort”). The term is epicene but reserved to royalty (homonym: belmor, “servitude”). Attested gendered terms: valzȳrys (“husband”), ābrazȳrys (“wife”)."
+    },
+    "label.brother": {
+      "notes": "1st lunar declension (pl. lēkī): “elder brother; brother in general”. Example: “Viserys Daenero lēkia issa”. Valyrian marks relative age: younger brother = valonqar; non-twin brother or sister = dubys."
+    },
+    "label.sister": {
+      "notes": "1st aquatic declension (pl. hāedri): “younger sister; sister”. Elder sister = mandia. The term should be chosen by relative age when that is known."
+    },
+    "label.house": {
+      "notes": "3rd aquatic declension (pl. lentra, gen. lentro, dat. lentrot): “house, family, noble line, dynasty”. Not to be confused with lenton (“house [the building], home”)."
+    },
+    "label.year": {
+      "notes": "1st lunar declension (pl. jēdi): “season, cycle, time, year”."
+    },
+    "label.age": {
+      "notes": "“era, epoch, time; day (generic)” (dictionary). Declension class not documented (probably 5th solar, like tubis)."
+    },
+    "label.battle": {
+      "notes": "Second sense on the entry: “battle, fight, clash”. LIMITATION: the same word means “war”; no separate term for “battle” has been found. The interface will have to rely on context (or on the translations) to tell the two labels apart."
+    },
+    "label.war": {
+      "notes": "1st lunar declension (augmentative suffix -āzma). Attested: “Vīlībāzma ajomemēbza” (“War is raging”, Game of Thrones 307)."
+    },
+    "label.place": {
+      "notes": "“area, plot of land, place, location” (dictionary). Terrestrial in -ion (3rd declension) to judge by the ending; the declension is not documented."
+    },
+    "label.word": {
+      "notes": "5th aquatic declension (pl. udra, collective udrir, “language”): “word; news”. Attested in Game of Thrones 410."
+    },
+    "label.meaning": {
+      "notes": "1st lunar declension (nūmo + -āzma): “sense, essence, intention, meaning”. Attested in Game of Thrones 306 and 309."
+    },
+    "label.fire": {
+      "notes": "2nd solar declension (pl. perzyssy, gen. perzo): “fire, flame”. Not to be confused with drakarys (“dragonfire”)."
+    },
+    "label.blood": {
+      "notes": "1st aquatic declension (gen. ānogro, loc. ānogār): “blood”."
+    },
+    "label.source": {
+      "notes": "Literally “book” (2nd/6th lunar declension, pl. tembyri). LIMITATION: no word is attested for “source” in the documentary sense; this is an editorial use by extension of meaning."
+    },
+    "phrase.valar_morghulis": {
+      "notes": "valar: collective nominative of vala (“man”, 1st lunar declension) = “all men”; morghūlis: third person singular active aorist of morghūljagon (“to die”, consonant stem morghūlj- + -is). The collective takes singular agreement; the aorist expresses general truths. Literally “all men die”: no word carries the obligation (“must”); according to Peterson (in the comments on his post about inflection), the aorist with a collective subject receives this deontic reading. G. R. R. Martin's spelling: “valar morghulis”; the macron (ū) belongs to Peterson's romanization. Game of Thrones 306."
+    },
+    "phrase.valar_dohaeris": {
+      "notes": "valar: collective nominative of vala; dohaeris: third person singular active aorist of dohaeragon (“to serve”; consonant stem dohaer- + -is; perfect participle dohaerta). The same structure as valar morghūlis: collective subject + verb in the singular aorist, literally “all men serve”."
+    },
+    "phrase.motto": {
+      "notes": "The phrase is given as it stands (“Fire and Blood”) on the perzys entry. Coordination by simple juxtaposition: the final vowel of the last term is lengthened (ānogar → ānogār) and the stress moves to the final syllable, a process Peterson describes (in his post “Valyrian Numerals”). This ānogār should not be confused with the homographic locative of ānogar."
+    },
+    "title.house": {
+      "notes": "Nominative restored from the attested phrase “hen Targārio Lentrot” (“of House Targaryen”, Game of Thrones 304): Targārio (genitive singular of Targārien, 4th terrestrial declension) + lentor (“house, dynasty”). Literally “the House of Targaryen”."
+    },
+    "title.site": {
+      "notes": "Literally “the stories of the House of Targaryen”: Targārio (gen. sg.) + Lentro (gen. sg. of lentor) + vestriarja (nom. pl. of vestriarzir, “story”). The genitives stand before the head noun (the unmarked order). Each form is documented in the sources; the whole is an editorial composition."
+    },
+    "title.library": {
+      "notes": "Literally “the repository of the books of Valyria”: tembyroti (gen. pl. of tembyr, “book”) + jāelion (“treasury, repository”) + Valyrio (gen. of Valyria, placed after the noun as in titles: compare “Nekesse Valyrio”, “Muña Zaldrīzoti”). LIMITATION: no word is attested for “library”. A regular coinage of the type tembyr + -lion (a place suffix) was deliberately set aside. Short variant: Valyrio Jāelion."
+    },
+    "phrase.loading": {
+      "notes": "Singular imperative of umbagon (“to stay, to wait, to remain”). Attested as such in House of the Dragon: “Umbās… Rȳbās” (“Wait… Concentrate”, episode 101) and “Umbās” on its own (episode 106). Plural: umbātās."
+    },
+    "phrase.not_found": {
+      "notes": "kesir (“this”, a demonstrative pronoun for abstract entities and places) + ilos (3rd sg. present subjunctive of ilagon, “to be found, to exist”) + daor (“not”). Negation requires the subjunctive, and daor follows the verb, on the attested model “Zaldrīzes buzdari iksos daor”. LIMITATION: there is no word for “page”; the sentence says “this does not exist”. A sentence composed for the site."
+    },
+    "phrase.welcome": {
+      "notes": "Gloss: majēbās (“enter”, sg. imperative of majēbagon) · se (and) · zaldrīzoti (of the dragons, gen. pl.) · vestriarzir (the story, acc. sg. = nominative) · gūrēñās (“learn”, sg. imperative of gūrēñagon, an attested form). Object-verb order. LIMITATION: “dragonlords” is not attested; “dragons” takes its place (the Targaryens call themselves dragons). Only majēbās has not been seen as such (an imperative derived by the regular pattern). An attested word of welcome that can stand alone: Jiōrna (“welcome”)."
+    },
+    "period.1": {
+      "notes": "Nominative restored from the attested genitive “hen Valyrio Uēpo ānogār” (“of the blood of Old Valyria”, Game of Thrones 304). uēpa: class I adjective (“old, aged”), placed after the noun and agreeing with Valyria in the lunar singular. For “the Freehold”: Valyrio Ezīmillion (“Valyrian Freehold”) appears in one of Peterson's working documents."
+    },
+    "period.2": {
+      "notes": "Literally “the beginning of the House”: lentro (gen. sg. of lentor) + prānon (“beginning”, action noun of pradagon; compare hen prānot, “from the beginning, always”). LIMITATION: there is no word for “origin”; the singular “beginning” has been kept."
+    },
+    "period.3": {
+      "notes": "Literally “Aegon's victory”: Āego (gen. sg. of Āegon, 3rd terrestrial declension) + ērinnon (“victory”, action noun of ērinagon, “to defeat; to conquer”). LIMITATION: no noun meaning “conquest” is attested; ērinnon is the nearest derivative (compare ērintys, “conqueror, victor”). Short variant: Ērinnon."
+    },
+    "period.4": {
+      "notes": "ēlī: lunar/solar nominative plural of ēlie (“first”, class III adjective), placed before the noun; dāryssy: nominative plural of dārys. The same pattern as “ēlī vali” (“the First Men”), given by Peterson."
+    },
+    "period.5": {
+      "notes": "zaldrīzoti (gen. pl. of zaldrīzes, attested in “Muña Zaldrīzoti”) + lilion (“dance, gala”, dictionary). No official translation of the civil war's name has been found in the sources consulted: a regular editorial composition."
+    },
+    "period.6": {
+      "notes": "lilio (gen. sg. derived from lilion, 3rd terrestrial declension in -ion: pattern dārion → dārio) + toliot (a postposition governing the genitive: “above; after”; compare ono toliot, “at last”, literally “after the dawn”). LIMITATION: “the later kings” or “the following generations” cannot be expressed with confidence (no adjective meaning “following” has been confirmed); a rewording is offered instead. The form lilio has not been seen as such."
+    },
+    "period.7": {
+      "notes": "Literally “the end of the House”: lentro (gen. sg. of lentor) + mōris (“end, conclusion”; compare va mōriot, “forever”). LIMITATION: the verb ropagon (“to fall”) is attested, but no noun “fall” derived from it appears in the sources; “end” has been preferred to a coinage."
+    },
+    "period.8": {
+      "notes": "irūdion: “inheritance, legacy” (dictionary; related to irūdy, “gift, present”, and irughagon, “to give”). Terrestrial in -ion to judge by the ending."
+    },
+    "name.targaryen": {
+      "notes": "Proper noun, 4th terrestrial declension (gen. Targārio, pl. Targārī, loc. Targāriēn). The name was created by G. R. R. Martin; its Valyrian form and inflection were fixed by Peterson."
+    },
+    "name.valyria": {
+      "notes": "Proper noun, 1st lunar declension (gen. Valyrio, loc. Valyriā). It names the city, the Freehold, the peninsula, and also the language."
+    },
+    "name.aegon": {
+      "notes": "Valyrian spelling with a long initial ā. 3rd terrestrial declension (gen. Āego, voc. Āegos). Attested in House of the Dragon 108."
+    },
+    "name.visenya": {
+      "notes": "Valyrian spelling Visenia (the spelling “Visenya” refers to it). 1st lunar declension, -ia subtype (gen. Visenio)."
+    },
+    "name.rhaenys": {
+      "notes": "2nd solar declension (gen. Rhaeno). rh marks a voiceless r."
+    },
+    "name.daenerys": {
+      "notes": "2nd solar declension: genitive Daenero (“Viserys Daenero lēkia issa”), comitative Daeneromy. Attested in Game of Thrones 304."
+    },
+    "name.rhaenyra": {
+      "notes": "1st lunar declension (gen. Rhaenyro, voc. Rhaenyrus)."
+    },
+    "name.daemon": {
+      "notes": "Dictionary entry (masculine given name). The inflection is not documented; by analogy with Āegon, probably 3rd terrestrial declension (genitive Daemo, to be confirmed)."
+    },
+    "name.viserys": {
+      "notes": "2nd solar declension (gen. Visero)."
+    },
+    "name.jaehaerys": {
+      "notes": "Dictionary entry (masculine given name). The inflection is not documented; the ending -ys points to the 2nd solar declension (genitive Jaehaero, to be confirmed)."
+    },
+    "name.aemond": {
+      "notes": "No entry in the reference dictionary, which does contain Aemon. Martin's spelling is kept for want of a confirmed Valyrian form; the inflection is unknown: the name is best left undeclined (or treated as a 6th-declension loanword) until a source is found."
+    },
+    "name.balerion": {
+      "notes": "Dictionary entry: a Valyrian deity and the name of a dragon. The inflection is not documented (ending -ion: probably 3rd terrestrial declension)."
+    },
+    "name.vhagar": {
+      "notes": "Classical form Vagar (1st aquatic declension, gen. Vagro); “Vhagar” is Martin's spelling, the digraph vh perhaps marking an older /f/. Attested: “Vagar zenturlion drakaromy zāltas”."
+    },
+    "name.meraxes": {
+      "notes": "Dictionary entry: a Valyrian deity and the name of a dragon. Peterson's romanization writes ks for x. The inflection has not been confirmed (ending -es: probably 4th solar declension, like zaldrīzes)."
+    },
+    "name.syrax": {
+      "notes": "3rd solar declension (gen. Syrako). Attested in House of the Dragon 108 (“Syraks drōmuni arliar mādas”)."
+    },
+    "name.caraxes": {
+      "notes": "Dictionary entry (a dragon's name): k for c, ks for x. The inflection has not been confirmed (probably 4th solar declension)."
+    },
+    "name.drogon": {
+      "notes": "Dictionary entry (a dragon's name). The genitive Drogo is attested (“udir Drogo bē”, Game of Thrones 410): 3rd terrestrial declension."
+    },
+    "name.dragonstone": {
+      "notes": "A compound of zaldrīzes (“dragon”) + dōron (“stone”); 3rd terrestrial declension, gen. Zaldrīzdōro. Attested: “Kepa ñuha yne Zaldrīzdōro Dārilaroso brōstas” (House of the Dragon 102)."
+    },
+    "name.kings_landing": {
+      "notes": "Dictionary entry and dedicated page. Literally “the king's port”: dāro (gen. sg. of dārys) + vilinion (“port”; compare Lāniso Vilinion, Lannisport). Only the second element is declined (gen. Dāro Vilinio)."
+    },
+    "name.westeros": {
+      "notes": "3rd solar declension (gen. Vestero). Attested in Daenerys's title: “Dāria Sīkudo Dārȳti Vestero” (Game of Thrones 310). Martin's w is rendered as v."
+    },
+    "text.portal_intro": {
+      "notes": "Word-for-word gloss. Sentence 1: kesīr (here) · Targārio (of Targaryen, gen. sg.) · Lentro (of the House, gen. sg.) · vestriarzir (story, nom. sg., subject) · ilza (is found, 3rd sg. present of ilagon). Sentence 2: dāryssy (kings, nom. pl.) · se (and) · zaldrīzesse (dragons, nom. pl.) · kesīr (here) · ilzi (are found, 3rd pl. present). Sentence 3: umbās (“stay”, sg. imperative of umbagon, attested) · se (and) · gūrēñās (“learn”, sg. imperative of gūrēñagon). The verb ends the clause (SOV order); there is no article. Every form is found in a source; the sentences themselves are composed for the site. Here se links two nouns, as in the example “Gryves se Riña Litse”."
+    }
+  }
+}

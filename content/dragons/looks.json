@@ -1,0 +1,650 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-02",
+  "items": [
+    {
+      "dragonId": "balerion",
+      "look": {
+        "span": 1,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.16 0.008 270)",
+        "wing": "oklch(0.21 0.008 270)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.2 0.03 25)",
+        "attested": { "body": true, "wing": true, "crest": false, "flame": true, "size": true }
+      },
+      "hatched": -114,
+      "sizeNote": {
+        "fr": "Le plus grand dragon que les Targaryen aient monté : toutes les envergures de ce registre se mesurent à la sienne. Tyrion Lannister, qui a vu son crâne, juge qu'un aurochs y serait passé tout entier. En 93, selon la chronique, il avait cessé de grandir et peinait à quitter le sol. Il vivait déjà quand Aenar quitta Valyria, en 114 av. C. : l'année portée ici est une borne, non une date d'éclosion.",
+        "en": "The largest dragon the Targaryens ever rode, and the measure for every wingspan in this register. Tyrion Lannister, who has seen the skull, reckons an aurochs would have gone down those jaws in one piece. By 93 AC, the chronicle says, he had stopped growing and struggled to leave the ground. He was already alive when Aenar left Valyria in 114 BC: the year recorded here is a limit, not a hatching date."
+      },
+      "colorNote": {
+        "fr": "Écailles noires, ailes noires, flamme noire parfois mêlée de rouge : c'est l'un des rares dragons dont les livres décrivent à la fois la robe et le feu. Rien n'est dit de ses cornes ni de sa crête, laissées en gris neutre.",
+        "en": "Black scales, black wings, and black fire sometimes threaded with red: he is one of the few dragons whose hide and flame the books both describe. Nothing is said of his horns or crest, left in neutral grey."
+      }
+    },
+    {
+      "dragonId": "vhagar",
+      "look": {
+        "span": 0.92,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.56 0.008 85)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": false, "wing": false, "crest": false, "flame": false, "size": true }
+      },
+      "hatched": -52,
+      "sizeNote": {
+        "fr": "Au temps de la Danse, la chronique la dit presque aussi grande que Balerion l'avait été, et sans égale parmi les dragons vivants. À sa mort, en 130, elle a cent quatre-vingt-un ans, âge dont on déduit une éclosion vers 52 av. C. : l'année est calculée, non écrite. Les rapports de taille donnés pour Caraxes et pour Arrax se mesurent à elle.",
+        "en": "By the time of the Dance, the chronicle calls her almost as large as Balerion had been, with no equal among living dragons. At her death in 130 AC she was a hundred and eighty-one years old, the figure from which a hatching around 52 BC is worked out: the year is calculated, not written. The size ratios given for Caraxes and for Arrax are measured against her."
+      },
+      "colorNote": {
+        "fr": "Les livres ne décrivent ni ses écailles, ni ses ailes, ni son feu : la planche reste en gris neutre. Hors texte, l'artiste du calendrier officiel de 2021 rapporte que l'équipe de l'auteur lui a indiqué un bronze à reflets bleu-vert et des yeux d'un vert vif. Ce n'est pas une description publiée.",
+        "en": "The books describe neither her scales, her wings nor her fire, so the plate stays in neutral grey. Outside the text, the artist of the official 2021 calendar reports being told by the author's team that her hide was bronze shot with blue-green and her eyes a vivid green. It is not a published description."
+      }
+    },
+    {
+      "dragonId": "meraxes",
+      "look": {
+        "span": 0.6,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.8 0.012 250)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": false, "crest": false, "flame": false, "size": false }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Les sources se contredisent. Tyrion Lannister, qui a vu les crânes, la place entre Vhagar et Balerion ; la chronique ne dit que de Vhagar qu'elle approcha la taille de Balerion, et Meraxes est morte en 10, plus d'un siècle avant que Vhagar n'en arrive là. L'envergure retenue est un arbitrage, non une donnée du texte. Éclose à Peyredragon pendant le Siècle de sang, à une date que rien ne fixe, elle est comptée parmi les dragons vivants à partir de 2 av. C. : c'est la première année où Rhaenys la monte de façon datée, au début de la Conquête.",
+        "en": "The sources disagree. Tyrion Lannister, who has seen the skulls, ranks her between Vhagar and Balerion; the chronicle says of Vhagar alone that she neared Balerion's size, and Meraxes died in 10 AC, more than a century before Vhagar grew so large. The wingspan shown is a compromise, not a figure from the text. She hatched on Dragonstone during the Century of Blood, in a year nothing fixes, and is counted among the living dragons from 2 BC: the first dated year in which Rhaenys rides her, at the start of the Conquest."
+      },
+      "colorNote": {
+        "fr": "Écailles d'argent et yeux d'or, dit la chronique de la Conquête. Les ailes, les cornes et le feu ne sont pas décrits.",
+        "en": "Silver scales and golden eyes, says the chronicle of the Conquest. Her wings, horns and fire are not described."
+      }
+    },
+    {
+      "dragonId": "quicksilver",
+      "look": {
+        "span": 0.25,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.56 0.008 85)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.96 0.012 95)",
+        "attested": { "body": false, "wing": false, "crest": false, "flame": true, "size": true }
+      },
+      "hatched": 7,
+      "sizeNote": {
+        "fr": "À la bataille sous l'Œildieu, en 43, la chronique donne Balerion pour quatre fois plus grand qu'elle. Éclose en 7, elle avait alors trente-six ans.",
+        "en": "At the battle beneath the Gods Eye in 43 AC, the chronicle makes Balerion four times her size. Hatched in 7 AC, she was then thirty-six years old."
+      },
+      "colorNote": {
+        "fr": "Ses écailles ne sont décrites nulle part ; son nom et une illustration de The Rise of the Dragon suggèrent l'argent, sans que le texte le dise. Seul son feu est écrit : des boules de flamme d'un blanc pâle.",
+        "en": "Her scales are described nowhere; her name and an illustration in The Rise of the Dragon suggest silver, but the text never says so. Only her fire is written down: balls of pale white flame."
+      }
+    },
+    {
+      "dragonId": "dreamfyre",
+      "look": {
+        "span": 0.58,
+        "neck": 0.6,
+        "tail": 0.6,
+        "horns": 2,
+        "body": "oklch(0.8 0.06 235)",
+        "wing": "oklch(0.85 0.045 235)",
+        "crest": "oklch(0.84 0.012 250)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": true, "crest": true, "flame": false, "size": false }
+      },
+      "hatched": 32,
+      "sizeNote": {
+        "fr": "La chronique la dit élancée. En 43, elle est plus jeune et plus petite que Quicksilver ; aucune comparaison n'est donnée pour l'âge adulte. À sa mort, en 130, elle a près d'un siècle, mais c'est Vermithor, un peu plus jeune qu'elle, qui passe pour le plus grand après Vhagar : l'envergure retenue la place donc au-dessous de lui. Elle est encore un dragonneau en 32, année portée ici ; elle a pu éclore un peu plus tôt.",
+        "en": "The chronicle calls her slender. In 43 AC she was younger and smaller than Quicksilver; no comparison is given for her adult years. When she died in 130 AC she was close to a century old, yet it was Vermithor, slightly her junior, who was held the largest after Vhagar, so the wingspan shown places her below him. She was still a hatchling in 32 AC, the year recorded here; she may have hatched a little earlier."
+      },
+      "colorNote": {
+        "fr": "Bleu pâle marqué d'argent, crêtes d'argent, ailes bleu pâle : l'une des robes les plus précisément décrites de la chronique. Son feu n'est pas décrit.",
+        "en": "Pale blue marked with silver, silver crests, pale blue wings: one of the most precisely described hides in the chronicle. Her fire is not described."
+      }
+    },
+    {
+      "dragonId": "vermithor",
+      "look": {
+        "span": 0.69,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.55 0.09 70)",
+        "wing": "oklch(0.72 0.07 75)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": true, "crest": false, "flame": false, "size": true }
+      },
+      "hatched": 34,
+      "sizeNote": {
+        "fr": "Du vivant de Jaehaerys, seuls Balerion et Vhagar étaient plus grands que lui, selon les chroniques. À Tumbleton, en 130, il est donné pour trois fois plus grand que Tessarion, et pour aussi grand que Tessarion et Seasmoke réunis. La tradition veut qu'il soit né d'un œuf placé dans le berceau de Jaehaerys en 34 ; l'année d'éclosion elle-même n'est pas écrite.",
+        "en": "In Jaehaerys's day only Balerion and Vhagar were larger, the chronicles say. At Tumbleton in 130 AC he is said to be three times the size of Tessarion, and as large as Tessarion and Seasmoke together. Tradition has him born of an egg placed in Jaehaerys's cradle in 34 AC; the year of hatching itself is not recorded."
+      },
+      "colorNote": {
+        "fr": "Bronze, avec de grandes ailes fauves ; la chronique le surnomme « the Bronze Fury ». La couleur de son feu n'est pas donnée : au Gosier, le récit mêle les flammes de cinq dragons, bleues et orange, rouges et or, sans les attribuer.",
+        "en": "Bronze, with large tan wings; the chronicle calls him the Bronze Fury. The color of his fire is not given: at the Gullet, the account blends the flames of five dragons, blue and orange, red and gold, without assigning them."
+      }
+    },
+    {
+      "dragonId": "silverwing",
+      "look": {
+        "span": 0.66,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.84 0.01 250)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": false, "crest": false, "flame": false, "size": false }
+      },
+      "hatched": 36,
+      "sizeNote": {
+        "fr": "Aucun texte ne compare sa taille à celle d'un autre dragon. À la fin de la Danse, la chronique parle d'elle comme d'un dragon adulte. L'envergure retenue, un peu inférieure à celle de Vermithor, est une estimation. La tradition la fait naître d'un œuf placé dans le berceau d'Alysanne en 36 ; l'année d'éclosion elle-même n'est pas écrite.",
+        "en": "No text compares her size with another dragon's. At the end of the Dance the chronicle speaks of her as a grown dragon. The wingspan shown, a little below Vermithor's, is an estimate. Tradition has her born of an egg placed in Alysanne's cradle in 36 AC; the year of hatching itself is not recorded."
+      },
+      "colorNote": {
+        "fr": "La chronique la dit argentée, sans détailler. Ses ailes, malgré son nom, ne sont pas décrites à part, et son feu ne l'est pas davantage.",
+        "en": "The chronicle calls her silvery and says no more. Her wings, despite her name, are not described separately, and neither is her fire."
+      }
+    },
+    {
+      "dragonId": "caraxes",
+      "look": {
+        "span": 0.46,
+        "neck": 0.6,
+        "tail": 0.6,
+        "horns": 1,
+        "body": "oklch(0.46 0.17 27)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": false, "crest": false, "flame": false, "size": true }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Très grand et maigre, dit la chronique, qui lui donne au début de la Danse environ la moitié de la taille de Vhagar. La silhouette un peu allongée de la planche traduit cette maigreur ; les livres ne disent rien de la longueur de son cou. Son éclosion n'est pas datée : en 72, il est déjà assez grand pour être monté.",
+        "en": "Very large and lean, says the chronicle, which makes him about half the size of Vhagar at the start of the Dance. The slightly drawn-out outline on the plate renders that leanness; the books say nothing about the length of his neck. His hatching is undated: by 72 AC he was already big enough to ride."
+      },
+      "colorNote": {
+        "fr": "Rouge, sans autre précision ; les gardiens des dragons de Fossedragon l'avaient surnommé « the Blood Wyrm ». Ailes, cornes et feu ne sont pas décrits.",
+        "en": "Red, with no further detail; the Dragonkeepers had nicknamed him the Blood Wyrm. Wings, horns and fire are not described."
+      }
+    },
+    {
+      "dragonId": "meleys",
+      "look": {
+        "span": 0.48,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 2,
+        "body": "oklch(0.52 0.2 28)",
+        "wing": "oklch(0.76 0.1 5)",
+        "crest": "oklch(0.68 0.12 50)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": true, "crest": true, "flame": false, "size": false }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Sa taille n'est comparée à aucune autre. La chronique retient surtout sa vitesse : en 75, elle distançait sans peine Caraxes et Vhagar. En 129, vieille et devenue paresseuse, elle reste redoutable ; l'archimestre Gyldayn estime qu'elle aurait eu ses chances contre Vhagar seule. L'envergure retenue est une estimation.",
+        "en": "Her size is compared with no other dragon's. What the chronicle remembers is her speed: in 75 AC she easily outflew Caraxes and Vhagar. By 129 AC she was old and slow to stir, yet still dangerous; Archmaester Gyldayn reckons she would have stood a chance against Vhagar alone. The wingspan shown is an estimate."
+      },
+      "colorNote": {
+        "fr": "Écailles écarlates, membranes des ailes roses, crête, cornes et griffes d'un cuivre vif : la description donnée à Repos-du-Freux est complète, sauf pour le feu.",
+        "en": "Scarlet scales, pink wing membranes, and a crest, horns and claws of bright copper: the description given at Rook's Rest is complete, save for her fire."
+      }
+    },
+    {
+      "dragonId": "syrax",
+      "look": {
+        "span": 0.4,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.84 0.15 95)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": false, "crest": false, "flame": false, "size": false }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "La chronique la dit grande et redoutable, mais moins aguerrie que Caraxes. Jeune dragon en 104, quand Rhaenyra la monte pour la première fois, elle est ensuite tenue enchaînée et abondamment nourrie ; au temps de la Danse, elle n'avait plus chassé depuis des années. Aucun rapport de taille n'est donné.",
+        "en": "The chronicle calls her large and dangerous, though less seasoned in battle than Caraxes. A young dragon in 104 AC, when Rhaenyra first rode her, she was later kept chained and amply fed, and by the Dance had not hunted for years. No size ratio is given."
+      },
+      "colorNote": {
+        "fr": "Écailles jaunes : c'est tout ce que dit le texte.",
+        "en": "Yellow scales: that is all the text says."
+      }
+    },
+    {
+      "dragonId": "seasmoke",
+      "look": {
+        "span": 0.46,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.77 0.014 240)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": false, "crest": false, "flame": false, "size": true }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Dragon jeune pendant la Danse, de taille à se battre et plus agile en vol que les vieux dragons. À Tumbleton, la chronique donne Vermithor pour aussi grand que Seasmoke et Tessarion réunis ; elle rapporte aussi l'avis de lord Benjicot Nerbosc, pour qui Seasmoke n'avait ni la taille ni le poids nécessaires pour lui tenir tête. L'envergure retenue découle de cette comparaison : les deux tiers de celle de Vermithor. Son éclosion n'est pas datée. En 101, il est déjà le dragon du jeune Laenor, qui ne le monte pas encore : c'est la première année où il est attesté, et celle à partir de laquelle il est compté parmi les dragons vivants.",
+        "en": "A young dragon during the Dance, of a size to fight and more agile on the wing than the old ones. At Tumbleton the chronicle makes Vermithor as large as Seasmoke and Tessarion together, and reports the view of Lord Benjicot Blackwood that Seasmoke had neither the size nor the weight to stand against him. The wingspan shown follows from that comparison: two thirds of Vermithor's. His hatching is undated. By 101 AC he was already young Laenor's dragon, though not yet ridden: the first year in which he is attested, and the one from which he is counted among the living dragons."
+      },
+      "colorNote": {
+        "fr": "Gris argent pâle. Le reste n'est pas décrit, et les flammes du Gosier, où il combat, ne sont pas attribuées dragon par dragon.",
+        "en": "Pale silver-grey. The rest is not described, and the flames at the Gullet, where he fought, are not assigned dragon by dragon."
+      }
+    },
+    {
+      "dragonId": "sunfyre",
+      "look": {
+        "span": 0.34,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.8 0.14 88)",
+        "wing": "oklch(0.87 0.05 5)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.87 0.15 92)",
+        "attested": { "body": true, "wing": true, "crest": false, "flame": true, "size": false }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Jeune au début de la Danse, mais déjà trop grand et trop lourd pour être déplacé après sa chute à Repos-du-Freux. À Peyredragon, sa masse a raison de Moondancer, plus petite et plus vive. Aucun rapport avec les dragons plus âgés n'est donné : l'envergure retenue est une estimation. Son éclosion n'est pas datée ; il appartient déjà au prince Aegon en 120, première année où il est attesté et point de départ de sa vie sur la courbe des dragons vivants.",
+        "en": "Young when the Dance began, yet already too massive to be shifted after his fall at Rook's Rest. On Dragonstone his bulk overcame Moondancer, smaller and quicker than he. No ratio to the older dragons is given: the wingspan shown is an estimate. His hatching is undated; he already belonged to Prince Aegon in 120 AC, the first year in which he is attested and the starting point of his life on the curve of living dragons."
+      },
+      "colorNote": {
+        "fr": "Écailles d'or, membranes des ailes rose pâle, flammes dorées. Gyldayn le tient pour le plus beau dragon qu'on ait vu ; le dragon de la bannière d'Aegon II fut fait d'or en son honneur.",
+        "en": "Golden scales, pale pink wing membranes, golden flame. Gyldayn knows of no dragon more beautiful; the dragon on Aegon II's banner was made gold in his honor."
+      }
+    },
+    {
+      "dragonId": "tessarion",
+      "look": {
+        "span": 0.23,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 2,
+        "body": "oklch(0.45 0.14 262)",
+        "wing": "oklch(0.34 0.14 264)",
+        "crest": "oklch(0.68 0.12 52)",
+        "flame": "oklch(0.52 0.18 262)",
+        "attested": { "body": true, "wing": true, "crest": true, "flame": true, "size": true }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Parmi les dragons des verts en état de se battre, c'est la plus jeune. À Tumbleton, en 130, la chronique lui donne le tiers de la taille de Vermithor. Son éclosion n'est pas datée ; en 120, elle est déjà liée au prince Daeron, qui ne la monte pas encore : elle est comptée parmi les dragons vivants à partir de cette année-là.",
+        "en": "The youngest of the greens' dragons large enough to fight. At Tumbleton in 130 AC, the chronicle makes her a third the size of Vermithor. Her hatching is undated; by 120 AC she was already bound to Prince Daeron, who did not yet ride her, and she is counted among the living dragons from that year."
+      },
+      "colorNote": {
+        "fr": "Dragonne bleue, dit la chronique, aux ailes d'un cobalt sombre ; griffes, crête et écailles du ventre couleur de cuivre ; flammes bleu cobalt. La nuance du corps n'est pas précisée : elle est choisie ici dans la gamme des ailes.",
+        "en": "A blue she-dragon, the chronicle says, with wings of dark cobalt; claws, crest and belly scales the color of copper; cobalt-blue flame. The exact shade of the body is not specified: it is chosen here from the same range as the wings."
+      }
+    },
+    {
+      "dragonId": "vermax",
+      "look": {
+        "span": 0.2,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.56 0.008 85)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": false, "wing": false, "crest": false, "flame": false, "size": false }
+      },
+      "hatched": 114,
+      "sizeNote": {
+        "fr": "Jeune dragon qui grandit d'année en année, assez fort en 129 pour porter le prince Jacaerys jusqu'à Winterfell. Aucune mesure n'est donnée. L'œuf avait été placé dans le berceau du prince, né en 114 ; l'année d'éclosion n'est pas écrite, et celle qui est portée ici est la plus ancienne possible.",
+        "en": "A young dragon growing larger each year, strong enough in 129 AC to carry Prince Jacaerys as far as Winterfell. No measurement is given. The egg had been placed in the cradle of the prince, born in 114 AC; the year it hatched is not recorded, and the one given here is the earliest possible."
+      },
+      "colorNote": {
+        "fr": "Aucune couleur dans le texte : la planche reste en gris neutre. Hors texte, les illustrations de The Rise of the Dragon le montrent vert ; une image n'est pas une description.",
+        "en": "No color in the text, so the plate stays in neutral grey. Outside it, the illustrations of The Rise of the Dragon show him green; an image is not a description."
+      }
+    },
+    {
+      "dragonId": "arrax",
+      "look": {
+        "span": 0.18,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.56 0.008 85)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": false, "wing": false, "crest": false, "flame": false, "size": true }
+      },
+      "hatched": 115,
+      "sizeNote": {
+        "fr": "Au-dessus de la baie des Naufrageurs, la chronique donne Vhagar pour cinq fois plus grande que lui. Plus jeune et plus rapide, il lui aurait peut-être échappé par temps calme. Son œuf avait été placé dans le berceau du prince Lucerys, né en 115 : l'année d'éclosion n'est pas écrite, et celle qui est portée ici est la plus ancienne possible.",
+        "en": "Above Shipbreaker Bay, the chronicle makes Vhagar five times his size. The younger and faster of the two, he might have outrun her in still air. His egg had been placed in the cradle of Prince Lucerys, born in 115 AC: the year it hatched is not recorded, and the one given here is the earliest possible."
+      },
+      "colorNote": {
+        "fr": "Aucune couleur dans le texte. Hors texte, l'artiste du calendrier officiel de 2021 rapporte l'indication reçue de l'équipe de l'auteur : un blanc nacré, un poitrail et des yeux dorés, une flamme jaune. Ce n'est pas une description publiée.",
+        "en": "No color in the text. Outside it, the artist of the official 2021 calendar reports the guidance received from the author's team: a pearly white hide, golden chest and eyes, yellow flame. It is not a published description."
+      }
+    },
+    {
+      "dragonId": "tyraxes",
+      "look": {
+        "span": 0.16,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.56 0.008 85)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": false, "wing": false, "crest": false, "flame": false, "size": false }
+      },
+      "hatched": 117,
+      "sizeNote": {
+        "fr": "Dragon du plus jeune des trois fils aînés de Rhaenyra. Au début de la Danse, il porte depuis peu le prince Joffrey sur de longues distances et n'est pas compté parmi les dragons en état de se battre. Aucun rapport de taille n'est donné. Son œuf avait été placé dans le berceau du prince, né en 117 : l'année d'éclosion n'est pas écrite, et celle qui est portée ici est la plus ancienne possible.",
+        "en": "The dragon of the youngest of Rhaenyra's three elder sons. When the Dance began he had only lately become able to carry Prince Joffrey over long distances, and was not counted among the dragons fit for battle. No size ratio is given. His egg had been placed in the cradle of the prince, born in 117 AC: the year it hatched is not recorded, and the one given here is the earliest possible."
+      },
+      "colorNote": {
+        "fr": "Aucune couleur dans le texte. Hors texte, l'illustrateur chargé de le représenter en 2024, pour les dix ans de The World of Ice & Fire, rapporte une indication de l'auteur : violet pâle, cornes pourpre sombre, flammes pourpres. Ce n'est pas une description publiée.",
+        "en": "No color in the text. Outside it, the illustrator who drew him in 2024 for the tenth anniversary of The World of Ice & Fire reports the author's guidance: pale violet, dark purple horns, purple flame. It is not a published description."
+      }
+    },
+    {
+      "dragonId": "moondancer",
+      "look": {
+        "span": 0.14,
+        "neck": 0.6,
+        "tail": 0.6,
+        "horns": 2,
+        "body": "oklch(0.84 0.08 150)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.93 0.015 90)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": false, "crest": true, "flame": false, "size": true }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Trop petite en 129 pour porter Baela, elle la porte un an plus tard, alors qu'elle a tout juste la taille d'un cheval de guerre, pour un poids moindre. La chronique la dit mince et très rapide, au sol comme en vol.",
+        "en": "Too small in 129 AC to carry Baela, she bore her a year later, when she was about the size of a warhorse and lighter than one. The chronicle calls her slender and very quick, on the ground as in the air."
+      },
+      "colorNote": {
+        "fr": "Vert pâle ; cornes, crête et os des ailes couleur de perle. Les membranes et le feu ne sont pas décrits.",
+        "en": "Pale green; horns, crest and wing bones the color of pearl. The membranes and the fire are not described."
+      }
+    },
+    {
+      "dragonId": "stormcloud",
+      "look": {
+        "span": 0.13,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.56 0.008 85)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": false, "wing": false, "crest": false, "flame": false, "size": false }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Jeune dragon que le prince Aegon, neuf ans, n'avait jamais monté avant la bataille du Gosier. Il porte pourtant l'enfant jusqu'à Peyredragon. Aucune indication de taille n'est donnée.",
+        "en": "A young dragon whom Prince Aegon, nine years old, had never ridden before the battle of the Gullet. He nevertheless carried the boy to Dragonstone. No indication of size is given."
+      },
+      "colorNote": {
+        "fr": "Aucune couleur dans le texte. Hors texte, l'illustrateur chargé de le représenter en 2024, pour les dix ans de The World of Ice & Fire, rapporte une indication de l'auteur : turquoise, cornes et griffes noires. Ce n'est pas une description publiée.",
+        "en": "No color in the text. Outside it, the illustrator who drew him in 2024 for the tenth anniversary of The World of Ice & Fire reports the author's guidance: turquoise, with black horns and claws. It is not a published description."
+      }
+    },
+    {
+      "dragonId": "morghul",
+      "look": {
+        "span": 0.12,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.56 0.008 85)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": false, "wing": false, "crest": false, "flame": false, "size": false }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Jeune dragon lié à la princesse Jaehaera, jamais monté. Le texte ne dit rien de sa taille ; l'envergure retenue est la plus petite du registre, par défaut. Son éclosion n'est pas datée et aucun cavalier ne l'a monté : rien ne dit depuis quand il vivait, et la courbe des dragons vivants ne peut pas le placer avant sa mort, en 130.",
+        "en": "A young dragon bound to Princess Jaehaera and never ridden. The text says nothing of his size; the wingspan shown is the smallest in the register, by default. His hatching is undated and no rider ever flew him: nothing tells since when he had been alive, and the curve of living dragons cannot place him before his death in 130 AC."
+      },
+      "colorNote": {
+        "fr": "Aucune couleur dans le texte. Une illustration de The Rise of the Dragon le montre noir, ce que l'illustrateur a confirmé ; une image n'est pas une description.",
+        "en": "No color in the text. An illustration in The Rise of the Dragon shows him black, as its artist has confirmed; an image is not a description."
+      }
+    },
+    {
+      "dragonId": "shrykos",
+      "look": {
+        "span": 0.12,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.56 0.008 85)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": false, "wing": false, "crest": false, "flame": false, "size": false }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Jeune dragonne liée au prince Jaehaerys, fils d'Aegon II, jamais montée. Le texte ne dit rien de sa taille ; l'envergure retenue est la plus petite du registre, par défaut. Son éclosion n'est pas datée et aucun cavalier ne l'a montée : rien ne dit depuis quand elle vivait, et la courbe des dragons vivants ne peut pas la placer avant sa mort, en 130.",
+        "en": "A young she-dragon bound to Prince Jaehaerys, son of Aegon II, and never ridden. The text says nothing of her size; the wingspan shown is the smallest in the register, by default. Her hatching is undated and no rider ever flew her: nothing tells since when she had been alive, and the curve of living dragons cannot place her before her death in 130 AC."
+      },
+      "colorNote": {
+        "fr": "Aucune couleur dans le texte. Une illustration de The Rise of the Dragon la montre cuivrée, ce que l'illustrateur a confirmé ; une image n'est pas une description.",
+        "en": "No color in the text. An illustration in The Rise of the Dragon shows her copper-colored, as its artist has confirmed; an image is not a description."
+      }
+    },
+    {
+      "dragonId": "sheepstealer",
+      "look": {
+        "span": 0.48,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.42 0.05 65)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": false, "crest": false, "flame": false, "size": false }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Éclos quand Jaehaerys Ier était encore jeune, il a plusieurs dizaines d'années au temps de la Danse, et il a toujours vécu libre. Le Grand Mestre Munkun, qui n'a jamais vu sa cavalière, parle d'un dragon maigre : le témoignage est de seconde main. Aucune comparaison de taille n'est écrite : l'envergure retenue est une estimation.",
+        "en": "Hatched when Jaehaerys I was still young, he was several decades old by the Dance and had always lived free. Grand Maester Munkun, who never saw his rider, speaks of a skinny dragon: the testimony is second-hand. No size comparison is written down: the wingspan shown is an estimate."
+      },
+      "colorNote": {
+        "fr": "Brun terne, couleur de boue, que la chronique juge laid. Rien d'autre n'est décrit ; les flammes du Gosier, où il combat, ne sont pas attribuées dragon par dragon.",
+        "en": "A dull, muddy brown that the chronicle finds ugly. Nothing else is described; the flames at the Gullet, where he fought, are not assigned dragon by dragon."
+      }
+    },
+    {
+      "dragonId": "grey-ghost",
+      "look": {
+        "span": 0.3,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.9 0.006 240)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": false, "crest": false, "flame": false, "size": false }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Ni son âge ni sa taille ne sont connus. Il gîte haut sur le versant est du volcan de Peyredragon et fuit les hommes ; Sunfyre, pourtant mutilé, le tue en 130. L'envergure retenue est une estimation prudente. Dragon sauvage que personne n'a monté, il n'a ni éclosion ni première apparition datées : la courbe des dragons vivants ne peut pas le placer avant sa mort.",
+        "en": "Neither his age nor his size is known. He laired high on the eastern side of the Dragonmont and shunned men; Sunfyre, maimed as he was, killed him in 130 AC. The wingspan shown is a cautious estimate. A wild dragon whom no one ever rode, he has neither a dated hatching nor a dated first appearance, so the curve of living dragons cannot place him before his death."
+      },
+      "colorNote": {
+        "fr": "Gris-blanc pâle, que la chronique compare à la brume du matin. Son nom, donné par les gens de l'île, répond à cette teinte. Rien d'autre n'est décrit.",
+        "en": "A pale grey-white that the chronicle likens to morning mist. His name, given by the islanders, answers to that shade. Nothing else is described."
+      }
+    },
+    {
+      "dragonId": "cannibal",
+      "look": {
+        "span": 0.62,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.17 0.005 260)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": false, "crest": false, "flame": false, "size": false }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Le plus grand et le plus vieux des trois dragons sauvages de Peyredragon, dit la chronique, qui ne le compare à aucun dragon monté. L'envergure retenue le place sous Vermithor, tenu pour le plus grand après Vhagar ; ce placement est une déduction. Ni son éclosion ni sa fin ne sont connues : les gens de l'île le disaient plus ancien que l'arrivée des Targaryen, les chroniqueurs en doutent, et il disparaît après la Danse sans que l'on sache quand. La courbe des dragons vivants ne peut donc pas le placer.",
+        "en": "The largest and oldest of the three wild dragons of Dragonstone, says the chronicle, which compares him with no ridden dragon. The wingspan shown places him below Vermithor, held to be the largest after Vhagar; that placement is an inference. Neither his hatching nor his end is known: the islanders held him older than the coming of the Targaryens, the chroniclers doubt it, and he vanishes after the Dance at no known date. The curve of living dragons therefore cannot place him."
+      },
+      "colorNote": {
+        "fr": "Noir de charbon, les yeux verts. Ailes, cornes et feu ne sont pas décrits.",
+        "en": "Coal black, with green eyes. Wings, horns and fire are not described."
+      }
+    },
+    {
+      "dragonId": "morning",
+      "look": {
+        "span": 0.14,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 2,
+        "body": "oklch(0.85 0.06 5)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.17 0.005 300)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": false, "crest": true, "flame": false, "size": false }
+      },
+      "hatched": 130,
+      "sizeNote": {
+        "fr": "Éclose dans le Val à la fin de 130 ou au tout début de 131. Rhaena la porte un temps enroulée sur ses épaules, puis la monte pour la première fois en 135. La chronique ne dit pas quelle taille elle atteint ensuite.",
+        "en": "Hatched in the Vale at the end of 130 AC or the very start of 131. For a time Rhaena carried her coiled about her shoulders, then rode her for the first time in 135 AC. The chronicle does not say how large she grew afterward."
+      },
+      "colorNote": {
+        "fr": "Écailles rose pâle, cornes et crête noires. Les membranes des ailes et le feu ne sont pas décrits.",
+        "en": "Pale pink scales, black horns and crest. The wing membranes and the fire are not described."
+      }
+    },
+    {
+      "dragonId": "dernier-dragon",
+      "look": {
+        "span": 0.12,
+        "neck": 0.5,
+        "tail": 0.5,
+        "horns": 1,
+        "body": "oklch(0.55 0.11 145)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.01 85)",
+        "attested": { "body": true, "wing": false, "crest": false, "flame": false, "size": false }
+      },
+      "hatched": null,
+      "sizeNote": {
+        "fr": "Petite et chétive, les ailes atrophiées : c'est le souvenir de ser Arlan, le chevalier errant dont Dunk fut l'écuyer, qui, enfant, l'avait vue à Port-Réal, un an avant qu'elle ne meure. Aucune mesure, aucune comparaison. Elle est née sous Aegon III, à une date que les livres ne donnent pas, et personne ne l'a montée : la courbe des dragons vivants ne peut pas la placer avant sa mort, en 153.",
+        "en": "Small and ill-grown, with shrivelled wings: that is the memory of Ser Arlan of Pennytree, who saw her as a boy in King's Landing a year before she died. No measurement, no comparison. She was born under Aegon III, at a date the books do not give, and no one ever rode her: the curve of living dragons cannot place her before her death in 153 AC."
+      },
+      "colorNote": {
+        "fr": "Verte. Le texte ne distingue aucune partie du corps et ne dit rien de son feu.",
+        "en": "Green. The text singles out no part of her body and says nothing of her fire."
+      }
+    },
+    {
+      "dragonId": "drogon",
+      "look": {
+        "span": 0.16,
+        "neck": 0.6,
+        "tail": 0.6,
+        "horns": 2,
+        "body": "oklch(0.16 0.01 20)",
+        "wing": "oklch(0.2 0.012 20)",
+        "crest": "oklch(0.42 0.17 27)",
+        "flame": "oklch(0.26 0.09 27)",
+        "attested": { "body": true, "wing": true, "crest": true, "flame": true, "size": true }
+      },
+      "hatched": 299,
+      "sizeNote": {
+        "fr": "Le plus grand des trois dragons de Daenerys. Dans le cinquième tome, ses ailes atteignent vingt pieds d'envergure : l'une des rares mesures que donnent les livres, pour un dragon né moins de deux ans plus tôt si l'on suit la chronologie reconstituée. La mesure est écrite ; son rapport à Balerion ne l'est nulle part, et la proportion retenue ici est une estimation. Dans le deuxième tome, Daenerys voit ses trois dragons faits surtout de cou, de queue et d'ailes. L'année 299 est une reconstitution des lecteurs, non une date écrite.",
+        "en": "The largest of Daenerys's three dragons. In the fifth book his wingspan is put at twenty feet, one of the few measurements the books give, for a dragon hatched less than two years earlier if the reconstructed chronology holds. The figure is written; its relation to Balerion is not, anywhere, and the proportion shown here is an estimate. In the second book Daenerys sees her three dragons as little more than neck, tail and wing. The year 299 AC is a readers' reconstruction, not a written date."
+      },
+      "colorNote": {
+        "fr": "Écailles noires, cornes et plaques dorsales rouge sang, yeux rouges, ailes d'un noir de jais ; son feu est noir, traversé de rouge. Quand il était tout jeune, ses écailles étaient striées d'écarlate et ses ailes écarlates : la planche montre l'animal du cinquième tome.",
+        "en": "Black scales, blood-red horns and spinal plates, red eyes, jet-black wings; his fire is black shot with red. When very young his scales were streaked with scarlet and his wings were scarlet: the plate shows the animal of the fifth book."
+      }
+    },
+    {
+      "dragonId": "rhaegal",
+      "look": {
+        "span": 0.13,
+        "neck": 0.6,
+        "tail": 0.6,
+        "horns": 1,
+        "body": "oklch(0.4 0.09 158)",
+        "wing": "oklch(0.62 0.11 165)",
+        "crest": "oklch(0.46 0.008 85)",
+        "flame": "oklch(0.8 0.16 75)",
+        "attested": { "body": true, "wing": true, "crest": false, "flame": true, "size": false }
+      },
+      "hatched": 299,
+      "sizeNote": {
+        "fr": "Plus petit que Drogon. Il passe une bonne part du cinquième tome enfermé avec Viserion sous la Grande Pyramide de Meereen ; les romans rapportent l'opinion selon laquelle un dragon tenu enfermé grandit moins qu'un dragon libre. Aucune mesure n'est donnée. L'année 299 est une reconstitution des lecteurs.",
+        "en": "Smaller than Drogon. He spends much of the fifth book shut beneath the Great Pyramid of Meereen with Viserion; the novels report the view that a dragon kept confined grows less than one left free. No measurement is given. The year 299 AC is a readers' reconstruction."
+      },
+      "colorNote": {
+        "fr": "Vert et bronze, disent les romans : écailles vert sombre, ailes vert jade, yeux de bronze. Hormis les yeux, le texte ne dit pas quelle partie du corps porte le bronze ; cornes et crête restent donc en gris neutre. Son feu est décrit tantôt jaune, tantôt orange et jaune veiné de vert.",
+        "en": "Green and bronze, the novels say: dark green scales, jade-green wings, bronze eyes. Apart from the eyes, the text does not say which part of the body carries the bronze, so horns and crest stay in neutral grey. His fire is described now as yellow, now as orange and yellow veined with green."
+      }
+    },
+    {
+      "dragonId": "viserion",
+      "look": {
+        "span": 0.13,
+        "neck": 0.6,
+        "tail": 0.6,
+        "horns": 2,
+        "body": "oklch(0.93 0.035 92)",
+        "wing": "oklch(0.64 0.008 85)",
+        "crest": "oklch(0.76 0.13 85)",
+        "flame": "oklch(0.9 0.09 92)",
+        "attested": { "body": true, "wing": false, "crest": true, "flame": true, "size": false }
+      },
+      "hatched": 299,
+      "sizeNote": {
+        "fr": "Plus petit que Drogon. Enfermé avec Rhaegal sous la Grande Pyramide de Meereen pendant une bonne part du cinquième tome, il n'est mesuré nulle part. L'année 299 est une reconstitution des lecteurs.",
+        "en": "Smaller than Drogon. Shut beneath the Great Pyramid of Meereen with Rhaegal for much of the fifth book, he is measured nowhere. The year 299 AC is a readers' reconstruction."
+      },
+      "colorNote": {
+        "fr": "Écailles couleur de crème ; cornes, os des ailes et crête dorsale dorés ; yeux d'or fondu. On l'appelle souvent le dragon blanc. Les membranes des ailes ne sont pas décrites à part, et restent en gris neutre. Son feu est d'un or pâle, mêlé de rouge et d'orange.",
+        "en": "Cream-colored scales; golden horns, wing bones and spinal crest; eyes of molten gold. He is often called the white dragon. The wing membranes are not described separately and stay in neutral grey. His fire is pale gold, streaked with red and orange."
+      }
+    }
+  ]
+}

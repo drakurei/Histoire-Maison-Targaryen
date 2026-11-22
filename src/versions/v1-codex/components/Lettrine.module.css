@@ -1,0 +1,25 @@
+/* Lettrine de quatre lignes. La ponctuation d'ouverture (« ) reste attachée à la lettre. */
+.lettrine::first-letter {
+  float: left;
+  margin: 0.06em 0.09em 0 -0.02em;
+  font-family: var(--f-lettrine);
+  font-size: calc(4 * var(--il-recit) * 1em - 0.15em);
+  font-weight: 640;
+  line-height: 0.8;
+  color: var(--v1-rubrique);
+}
+
+@supports (initial-letter: 4) or (-webkit-initial-letter: 4) {
+  .lettrine::first-letter {
+    float: none;
+    margin: 0 0.12em 0 0;
+    font-size: inherit;
+    line-height: inherit;
+    -webkit-initial-letter: 4;
+    initial-letter: 4;
+  }
+}
+
+.lettrine[data-gilded]::first-letter {
+  color: var(--v1-or);
+}

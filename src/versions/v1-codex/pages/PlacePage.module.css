@@ -1,0 +1,162 @@
+/* Un lieu : la carte recadrée, la notice, les annales du lieu. */
+.head {
+  display: grid;
+  gap: var(--e3);
+  margin-block-end: var(--e4);
+}
+
+.kind {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.3;
+  color: var(--encre-pale);
+}
+
+.mapFigure {
+  margin-block: var(--e5) var(--e7);
+}
+
+.subhead {
+  margin-block: var(--e6) var(--e4);
+}
+
+.margin {
+  margin-block-start: var(--e6);
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--encre-pale);
+}
+
+@media (min-width: 1024px) {
+  .margin {
+    margin-block-start: 0;
+  }
+}
+
+.marginHead {
+  margin-block-end: var(--e2);
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t0);
+  color: var(--encre);
+}
+
+.sourcesHead {
+  margin-block-start: var(--e6);
+}
+
+.near {
+  display: grid;
+  gap: var(--e1);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.near li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.5em;
+  min-block-size: 1.9rem;
+}
+
+.nearLink {
+  font-family: var(--f-chronique);
+  font-size: 1.05rem;
+  color: var(--encre);
+}
+
+.nearKind {
+  font-size: 0.8rem;
+}
+
+.section {
+  margin-block-start: var(--e7);
+}
+
+/* Annales du lieu : l'année en marge suspendue, à l'encre rouge. */
+.annals {
+  display: grid;
+  gap: var(--e4);
+  margin: var(--e4) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.annal {
+  display: grid;
+  grid-template-columns: 7rem minmax(0, 1fr);
+  column-gap: var(--e4);
+  align-items: baseline;
+}
+
+.year {
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--rubrique);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.annalBody {
+  max-inline-size: 44rem;
+}
+
+.annalTitle {
+  display: inline;
+  font-family: var(--f-chronique);
+  font-size: 1.15rem;
+  font-weight: 500;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+}
+
+.mark {
+  margin-inline-start: 0.45em;
+}
+
+.annalWar {
+  margin-block-start: 0.15rem;
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  color: var(--encre-pale);
+}
+
+.annalOutcome {
+  margin-block-start: var(--e2);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.5;
+  color: var(--encre);
+}
+
+.nothing {
+  margin-block-start: var(--e3);
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--encre-pale);
+}
+
+.pager {
+  margin-block-start: var(--e8);
+}
+
+.back {
+  display: inline-flex;
+  align-items: center;
+  min-block-size: var(--cible);
+  font-family: var(--f-musee);
+  font-size: 0.95rem;
+  color: var(--encre);
+}
+
+@media (max-width: 719px) {
+  .annal {
+    grid-template-columns: 1fr;
+    row-gap: 0.15rem;
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "schema": 1,
+  "phases": [
+    {
+      "id": "A",
+      "title": "Préparation",
+      "summary": "Audit, skills, équipe, Command Center, plan."
+    },
+    {
+      "id": "B",
+      "title": "Recherche",
+      "summary": "Études historique, linguistique, technique et artistique."
+    },
+    {
+      "id": "C",
+      "title": "Conception",
+      "summary": "Maquette interactive, design system, parcours."
+    },
+    {
+      "id": "D",
+      "title": "Version 1",
+      "summary": "Première expérience complète, fidèle au cahier des charges."
+    },
+    {
+      "id": "E",
+      "title": "Audit de la version 1",
+      "summary": "Chaque agent examine sa partie ; corrections."
+    },
+    {
+      "id": "F",
+      "title": "Version 2",
+      "summary": "Proposition alternative des agents."
+    },
+    {
+      "id": "G",
+      "title": "Comparaison",
+      "summary": "Confrontation argumentée des versions 1 et 2."
+    },
+    {
+      "id": "H",
+      "title": "Version 3",
+      "summary": "Édition ultime, fusion arbitrée."
+    },
+    {
+      "id": "I",
+      "title": "Audit complet",
+      "summary": "Tests techniques, linguistiques, historiques, visuels, responsive."
+    },
+    {
+      "id": "J",
+      "title": "Livraison",
+      "summary": "Trois versions, documentation, rapports."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "A1",
+      "phase": "A",
+      "agent": "01",
+      "title": "Audit de l'environnement",
+      "deliverable": "documentation/research/audit-environnement.md",
+      "dependsOn": []
+    },
+    {
+      "id": "A2",
+      "phase": "A",
+      "agent": "01",
+      "title": "Lecture des skills disponibles et statut d'ECC",
+      "deliverable": "documentation/research/audit-environnement.md",
+      "dependsOn": []
+    },
+    {
+      "id": "A3",
+      "phase": "A",
+      "agent": "01",
+      "title": "Registre des 14 agents",
+      "deliverable": "command-center/orchestration/registry.json",
+      "dependsOn": []
+    },
+    {
+      "id": "A4",
+      "phase": "A",
+      "agent": "01",
+      "title": "Système d'orchestration : état, journal, checkpoints, file de commandes",
+      "deliverable": "command-center/orchestration/orchestrate.mjs",
+      "dependsOn": [
+        "A3"
+      ]
+    },
+    {
+      "id": "A5",
+      "phase": "A",
+      "agent": "01",
+      "title": "Application Command Center (locale)",
+      "deliverable": "command-center/application/",
+      "dependsOn": [
+        "A4"
+      ]
+    },
+    {
+      "id": "A6",
+      "phase": "A",
+      "agent": "01",
+      "title": "Tests du Command Center dans un navigateur réel",
+      "deliverable": "reports/qa/command-center-tests.md",
+      "dependsOn": [
+        "A5"
+      ]
+    },
+    {
+      "id": "A7",
+      "phase": "A",
+      "agent": "01",
+      "title": "Plan de développement et guide de reprise",
+      "deliverable": "PROJECT_GUIDE.md",
+      "dependsOn": [
+        "A3"
+      ]
+    },
+    {
+      "id": "B1",
+      "phase": "B",
+      "agent": "04",
+      "title": "Lexique d'interface en haut valyrien et base linguistique",
+      "deliverable": "content/glossary/lexicon.json",
+      "dependsOn": [
+        "A3"
+      ]
+    },
+    {
+      "id": "B2",
+      "phase": "B",
+      "agent": "08",
+      "title": "Étude typographique : polices, licences, couverture des glyphes",
+      "deliverable": "documentation/design/typographie.md",
+      "dependsOn": [
+        "A3"
+      ]
+    },
+    {
+      "id": "B3",
+      "phase": "B",
+      "agent": "07",
+      "title": "Cahier artistique : palette, matières, sceau original, trois directions",
+      "deliverable": "documentation/design/cahier-artistique.md",
+      "dependsOn": [
+        "A3"
+      ]
+    },
+    {
+      "id": "B4",
+      "phase": "B",
+      "agent": "06",
+      "title": "Architecture de l'information, navigation, wireframes",
+      "deliverable": "documentation/design/ux-architecture.md",
+      "dependsOn": [
+        "A3"
+      ]
+    },
+    {
+      "id": "B5",
+      "phase": "B",
+      "agent": "02",
+      "title": "Chronologie de référence et registre des sources",
+      "deliverable": "content/timeline/timeline.json",
+      "dependsOn": [
+        "A3"
+      ]
+    },
+    {
+      "id": "B6",
+      "phase": "B",
+      "agent": "03",
+      "title": "Première structure généalogique vérifiée",
+      "deliverable": "content/genealogy/genealogy.json",
+      "dependsOn": [
+        "A3"
+      ]
+    },
+    {
+      "id": "B7",
+      "phase": "B",
+      "agent": "09",
+      "title": "Étude technique et ADR d'architecture (socle commun, trois versions)",
+      "deliverable": "documentation/architecture/ADR-001-socle.md",
+      "dependsOn": [
+        "B4"
+      ]
+    },
+    {
+      "id": "B8",
+      "phase": "B",
+      "agent": "10",
+      "title": "Étude des outils d'animation et bible du mouvement",
+      "deliverable": "documentation/design/motion.md",
+      "dependsOn": [
+        "B3"
+      ]
+    },
+    {
+      "id": "B9",
+      "phase": "B",
+      "agent": "11",
+      "title": "Modèle de données et validation des contenus",
+      "deliverable": "documentation/architecture/modele-de-donnees.md",
+      "dependsOn": [
+        "B5",
+        "B6",
+        "B1"
+      ]
+    },
+    {
+      "id": "B10",
+      "phase": "B",
+      "agent": "02",
+      "title": "Corpus historique complet des huit périodes",
+      "deliverable": "content/",
+      "dependsOn": [
+        "B5"
+      ]
+    },
+    {
+      "id": "B11",
+      "phase": "B",
+      "agent": "05",
+      "title": "Terminologie française et anglaise de référence",
+      "deliverable": "documentation/valyrian/terminologie-fr-en.md",
+      "dependsOn": [
+        "B1"
+      ]
+    },
+    {
+      "id": "C1",
+      "phase": "C",
+      "agent": "01",
+      "title": "Maquette interactive : ouverture, portail et espaces principaux",
+      "deliverable": "design/prototypes/maquette.html",
+      "dependsOn": [
+        "B1",
+        "B2",
+        "B3",
+        "B4"
+      ]
+    },
+    {
+      "id": "C2",
+      "phase": "C",
+      "agent": "07",
+      "title": "Design system : jetons et composants fondamentaux",
+      "deliverable": "design/design-system/tokens.css",
+      "dependsOn": [
+        "B2",
+        "B3"
+      ]
+    },
+    {
+      "id": "C3",
+      "phase": "C",
+      "agent": "01",
+      "title": "Vérification responsive de la maquette (360 à 1920 px)",
+      "deliverable": "reports/qa/maquette-tests.md",
+      "dependsOn": [
+        "C1"
+      ]
+    },
+    {
+      "id": "C4",
+      "phase": "C",
+      "agent": "14",
+      "title": "Audit indépendant de la maquette et du dispositif",
+      "deliverable": "reports/audits/audit-maquette.md",
+      "dependsOn": [
+        "C1"
+      ]
+    },
+    {
+      "id": "C5",
+      "phase": "C",
+      "agent": "01",
+      "title": "Corrections issues de l'audit de la maquette",
+      "deliverable": "design/prototypes/maquette.html",
+      "dependsOn": [
+        "C4"
+      ]
+    },
+    {
+      "id": "D0",
+      "phase": "D",
+      "agent": "01",
+      "title": "Version 1 — à découper en tâches au lancement de la phase",
+      "deliverable": "versions/version-1/",
+      "dependsOn": [
+        "C5",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11"
+      ]
+    },
+    {
+      "id": "E0",
+      "phase": "E",
+      "agent": "14",
+      "title": "Audit de la version 1 — à découper au lancement de la phase",
+      "deliverable": "reports/audits/",
+      "dependsOn": [
+        "D0"
+      ]
+    },
+    {
+      "id": "F0",
+      "phase": "F",
+      "agent": "01",
+      "title": "Version 2 — à découper au lancement de la phase",
+      "deliverable": "versions/version-2/",
+      "dependsOn": [
+        "E0"
+      ]
+    },
+    {
+      "id": "G0",
+      "phase": "G",
+      "agent": "01",
+      "title": "Comparaison argumentée des versions 1 et 2",
+      "deliverable": "documentation/decisions/",
+      "dependsOn": [
+        "F0"
+      ]
+    },
+    {
+      "id": "H0",
+      "phase": "H",
+      "agent": "01",
+      "title": "Version 3 — à découper au lancement de la phase",
+      "deliverable": "versions/version-3/",
+      "dependsOn": [
+        "G0"
+      ]
+    },
+    {
+      "id": "I0",
+      "phase": "I",
+      "agent": "13",
+      "title": "Audit complet — à découper au lancement de la phase",
+      "deliverable": "reports/final/",
+      "dependsOn": [
+        "H0"
+      ]
+    },
+    {
+      "id": "J0",
+      "phase": "J",
+      "agent": "01",
+      "title": "Livraison finale",
+      "deliverable": "reports/final/",
+      "dependsOn": [
+        "I0"
+      ]
+    },
+    {
+      "dependsOn": [
+        "C5"
+      ],
+      "deliverable": "reports/qa/",
+      "id": "C6",
+      "phase": "C",
+      "agent": "13",
+      "title": "Contre-vérification de la maquette : tests bloquants de langue (aucun texte de l autre langue) et de cibles tactiles"
+    },
+    {
+      "dependsOn": [
+        "C5"
+      ],
+      "deliverable": "reports/audits/",
+      "id": "C7",
+      "phase": "C",
+      "agent": "12",
+      "title": "Audit responsive, accessibilité et contrastes sur matières de la maquette"
+    },
+    {
+      "dependsOn": [
+        "B9"
+      ],
+      "deliverable": "content/",
+      "id": "B12",
+      "phase": "B",
+      "agent": "05",
+      "title": "Traduction anglaise et française intégrale des données affichées (dragons, lieux, notes)"
+    },
+    {
+      "dependsOn": [
+        "B3"
+      ],
+      "deliverable": "assets/illustrations/",
+      "id": "B13",
+      "phase": "B",
+      "agent": "07",
+      "title": "Dragons originaux en SVG, icônes, planche de carte abstraite (suite de la décision S-001)"
+    },
+    {
+      "dependsOn": [
+        "B1"
+      ],
+      "deliverable": "content/glossary/",
+      "id": "B14",
+      "phase": "B",
+      "agent": "04",
+      "title": "Lexique étendu : rubriques de la version 1, incipit des volumes, grammaire structurée, formes à confirmer"
+    }
+  ]
+}

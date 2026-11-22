@@ -1,0 +1,220 @@
+/* Un parcours : en-tête au chiffre gothique, étapes avec leur marge, questionnaire, page suivante. */
+.header {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: var(--e4) var(--e5);
+  align-items: end;
+  margin-block-end: var(--e5);
+}
+
+.numeral {
+  font-family: var(--f-lettrine);
+  font-size: var(--t6);
+  line-height: 0.78;
+  color: var(--v1-rubrique);
+  font-variant-numeric: lining-nums;
+}
+
+.headText {
+  display: grid;
+  gap: var(--e2);
+  padding-block-end: 0.4rem;
+}
+
+.kicker {
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+}
+
+.back {
+  display: inline-flex;
+  align-items: center;
+  min-block-size: var(--cible);
+  color: var(--v1-texte-2);
+}
+
+.title {
+  margin: 0;
+}
+
+.meta {
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  line-height: var(--il-cartel);
+  color: var(--v1-texte-2);
+  font-variant-numeric: lining-nums;
+}
+
+.intro {
+  margin-block-end: var(--e3);
+}
+
+.section {
+  margin-block: var(--e7) var(--e3);
+  scroll-margin-block-start: 6rem;
+}
+
+/* ------------------------------------------------------------ Étapes */
+.steps {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  border-block-start: 2px solid var(--v1-texte);
+}
+
+.step {
+  display: grid;
+  gap: var(--e4);
+  padding-block: var(--e5) var(--e6);
+  border-block-end: 1px solid var(--v1-trait);
+}
+
+@media (min-width: 1024px) {
+  .step {
+    grid-template-columns: minmax(0, 7fr) minmax(0, 3fr);
+    column-gap: var(--gouttiere);
+  }
+}
+
+.stepMain {
+  display: grid;
+  gap: var(--e3);
+  min-inline-size: 0;
+}
+
+.stepTitle {
+  display: grid;
+  grid-template-columns: 2.5rem minmax(0, 1fr);
+  align-items: baseline;
+  gap: var(--e3);
+}
+
+.stepNumber {
+  font-family: var(--f-lettrine);
+  font-size: var(--t3);
+  line-height: 0.8;
+  color: var(--v1-rubrique);
+  font-variant-numeric: lining-nums;
+}
+
+.stepName {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 560;
+  line-height: 1.02;
+  letter-spacing: -0.02em;
+  color: var(--v1-texte);
+}
+
+.stepGloss {
+  font-size: 0.95rem;
+}
+
+.stepMargin {
+  display: grid;
+  align-content: start;
+  gap: var(--e5);
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  line-height: var(--il-cartel);
+}
+
+@media (min-width: 1024px) {
+  .stepMargin {
+    padding-block-start: 0.4rem;
+  }
+}
+
+.marginTitle {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--v1-rubrique);
+}
+
+.retainList,
+.linkList {
+  display: grid;
+  gap: var(--e2);
+  margin: var(--e2) 0 0;
+  padding: 0;
+}
+
+.retainList > li {
+  color: var(--v1-texte);
+}
+
+.link {
+  display: inline-flex;
+  align-items: center;
+  min-block-size: 2rem;
+  color: var(--v1-texte);
+  font-weight: 500;
+}
+
+/* ------------------------------------------------------------ Questionnaire */
+.quizIntro,
+.quizEmpty {
+  max-inline-size: var(--mesure);
+  margin-block-end: var(--e5);
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  color: var(--v1-texte);
+}
+
+.quizEmpty {
+  font-style: italic;
+  color: var(--v1-texte-2);
+}
+
+/* ------------------------------------------------------------ Parcours voisins */
+.pager {
+  display: grid;
+  gap: var(--e4);
+  margin-block-start: var(--e8);
+  padding-block-start: var(--e4);
+  border-block-start: 2px solid var(--v1-texte);
+}
+
+@media (min-width: 720px) {
+  .pager {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.pagerLink {
+  display: grid;
+  gap: var(--e1);
+  justify-items: start;
+  min-block-size: var(--cible);
+  color: var(--v1-texte);
+  text-decoration: none;
+}
+
+.pagerNext {
+  justify-items: end;
+  text-align: end;
+}
+
+.pagerLabel {
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  color: var(--v1-texte-2);
+}
+
+.pagerTitle {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 560;
+  line-height: 1.05;
+  text-decoration-line: underline;
+  text-decoration-color: var(--v1-rubrique);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.16em;
+}
+
+.pagerGloss {
+  margin-block-start: 0.35rem;
+  font-size: 0.9rem;
+}

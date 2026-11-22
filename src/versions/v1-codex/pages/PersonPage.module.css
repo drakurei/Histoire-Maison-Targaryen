@@ -1,0 +1,301 @@
+/*
+ * La fiche : une initiale gothique géante à l'encre rouge (à l'or sombre pour qui a porté la
+ * couronne), le nom à sa droite ; puis la vie, la parenté, le récit, en sections espacées.
+ */
+.head {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: end;
+  column-gap: var(--e4);
+  margin-block-end: var(--e6);
+}
+
+.initial {
+  font-family: var(--f-lettrine);
+  font-size: var(--t6);
+  font-weight: 500;
+  line-height: 0.74;
+  color: var(--rubrique);
+  /* La lettre descend sous la ligne du nom, comme une lettrine qui tombe sur plusieurs lignes. */
+  margin-block-end: -0.06em;
+}
+
+.initial[data-crowned] {
+  color: var(--v1-or-sombre);
+}
+
+.identity {
+  display: grid;
+  gap: var(--e2);
+  padding-block-end: var(--e2);
+}
+
+.title {
+  font-size: var(--t4);
+}
+
+.epithet {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: var(--t1);
+  line-height: 1.2;
+  color: var(--encre);
+}
+
+.titles {
+  display: grid;
+  gap: 0.1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  color: var(--encre);
+}
+
+.dates {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--e1) var(--e5);
+  margin-block-start: var(--e2);
+  font-family: var(--f-musee);
+  font-size: 0.95rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+}
+
+.life {
+  color: var(--encre);
+  font-weight: 500;
+}
+
+.alive,
+.house {
+  font-style: normal;
+}
+
+@media (max-width: 599.98px) {
+  .head {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .initial {
+    font-size: 7rem;
+    line-height: 0.8;
+  }
+}
+
+/* ------------------------------------------------------------ ouverture */
+
+.opening {
+  margin-block-end: var(--e6);
+  row-gap: var(--e5);
+}
+
+.margin {
+  display: grid;
+  gap: var(--e4);
+  align-content: start;
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  line-height: var(--il-cartel);
+  color: var(--encre-pale);
+}
+
+.crownNote {
+  display: grid;
+  gap: var(--e2);
+}
+
+.reignLine {
+  display: flex;
+  align-items: baseline;
+  gap: var(--e3);
+  color: var(--v1-or-sombre);
+  font-weight: 500;
+  font-size: 0.92rem;
+}
+
+.ordinal {
+  font-family: var(--f-lettrine);
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1;
+}
+
+
+
+.treeLink {
+  justify-self: start;
+  display: inline-flex;
+  align-items: center;
+  min-block-size: var(--cible);
+  padding-inline: var(--e4);
+  background: var(--encre);
+  color: var(--velin);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: 0.92rem;
+  text-decoration: none;
+}
+
+.treeLink:hover {
+  background: var(--rubrique);
+  color: var(--velin);
+}
+
+/* ------------------------------------------------------------ sections */
+
+.section {
+  margin-block-end: var(--e7);
+}
+
+.rule {
+  margin-block: var(--e4) var(--e5);
+}
+
+.annals {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  max-inline-size: 52rem;
+}
+
+.annal {
+  display: grid;
+  grid-template-columns: 7.5rem minmax(0, 1fr) auto;
+  column-gap: var(--e4);
+  align-items: baseline;
+  padding-block: var(--e2);
+}
+
+.annalYear {
+  font-family: var(--f-musee);
+  font-size: 0.86rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--rubrique);
+  text-align: end;
+}
+
+.annalTitle {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: 1.4;
+}
+
+.annalMark {
+  color: var(--encre-pale);
+}
+
+.quiet,
+.notice {
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--encre-pale);
+}
+
+.notice {
+  max-inline-size: 58ch;
+  margin-block-start: var(--e3);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+}
+
+@media (max-width: 599.98px) {
+  .annal {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  .annalYear {
+    grid-column: 1 / -1;
+    text-align: start;
+  }
+}
+
+/* Dragons montés : la gravure, petite, à l'échelle de son envergure ; le nom dessous. */
+.mounts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--e5) var(--e6);
+  margin: var(--e4) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.mount {
+  --dragon-ink: var(--encre);
+  --dragon-paper: var(--velin);
+
+  display: grid;
+  justify-items: start;
+  inline-size: 11rem;
+}
+
+.mountFigure {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  inline-size: 100%;
+  block-size: 8rem;
+  color: var(--encre);
+}
+
+.mountFigure > div {
+  max-block-size: 100%;
+}
+
+.mountName {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  line-height: 1.1;
+}
+
+.mountYears {
+  font-family: var(--f-musee);
+  font-size: 0.8rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+}
+
+.doubt {
+  display: grid;
+  gap: var(--e2);
+  margin-block-start: var(--e4);
+}
+
+.doubtLine {
+  margin-block-start: var(--e4);
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--encre-pale);
+}
+
+/* L'adaptation, tenue à part : un feuillet d'une autre teinte, marqué de sa propre marque. */
+.adaptation {
+  padding: var(--e5);
+  background: var(--velin-ombre);
+}
+
+.adaptationMark {
+  margin-block-end: var(--e2);
+  font-family: var(--f-musee);
+  font-size: var(--t-1);
+  color: var(--encre-pale);
+}
+
+.showList {
+  display: grid;
+  gap: var(--e2);
+  margin: var(--e3) 0 0;
+  padding: 0;
+  list-style: none;
+  font-family: var(--f-recit);
+}
+
+.claim {
+  display: grid;
+  gap: var(--e1);
+  color: var(--rubrique);
+}

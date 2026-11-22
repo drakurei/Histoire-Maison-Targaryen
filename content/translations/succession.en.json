@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-05",
+  "items": {
+    "0": {
+      "relationFr": "founder of the dynasty",
+      "noteFr": "Conquest of the Seven Kingdoms (Dorne excepted). The “AC” reckoning begins with Aegon's coronation at Oldtown, at the close of the two years of the Conquest."
+    },
+    "1": {
+      "relationFr": "eldest son",
+      "noteFr": "A succession without a Targaryen rival; the revolts at the start of the reign (Harren the Red, the Vulture King and others) put forward no claimant from the house."
+    },
+    "2": {
+      "relationFr": "younger half-brother",
+      "noteFr": "On Aenys's death Maegor returned from exile, crowned himself on Dragonstone and had Grand Maester Gawen beheaded for upholding the right of Prince Aegon, Aenys's eldest son. He had his title confirmed by a trial of seven. Aegon was killed in 43 AC at the Battle Beneath the Gods Eye; his brother Viserys died in 44 AC."
+    },
+    "3": {
+      "relationFr": "nephew (son of his half-brother Aenys I)",
+      "noteFr": "Jaehaerys, the last surviving son of Aenys I, was proclaimed king in 48 AC; the realm abandoned Maegor, who was found dead on the Iron Throne. Maegor had named as his heir his grandniece Aerea, daughter of Prince Aegon: by strict seniority Aegon's line (Aerea and her twin Rhaella) came before Jaehaerys, but their mother Rhaena did not press that right."
+    },
+    "4": {
+      "relationFr": "grandson (eldest son of Baelon, the king's second son)",
+      "noteFr": "The two sons who stood in turn as heir died before the king: Aemon in 92 AC (Jaehaerys then named Baelon rather than Aemon's daughter Rhaenys), Baelon in 101 AC. The Great Council at Harrenhal (101 AC) preferred Viserys, through the male line, to Laenor Velaryon, son of Rhaenys. That precedent weighed on every succession that followed."
+    },
+    "5": {
+      "relationFr": "eldest son (first son of the second marriage)",
+      "noteFr": "Viserys I had named his eldest daughter Rhaenyra as heir and had the lords swear to her. At his death the green council crowned Aegon II: a usurpation in the eyes of the blacks; for the greens, male primogeniture in keeping with the precedent of 101 AC. The succession is classed here as decided by war, so as to take no side: it was the Dance of the Dragons that settled it. The official lists count Aegon II."
+    },
+    "6": {
+      "relationFr": "nephew (son of his half-sister Rhaenyra)",
+      "noteFr": "Aegon II died of poison in 131 AC as the black armies drew near; both his sons had died during the war. The crown passed to Rhaenyra's son, who was married to Jaehaera, daughter of Aegon II, so that the two lines might be joined. A regency followed until 136 AC."
+    },
+    "7": {
+      "relationFr": "eldest son",
+      "noteFr": "Daeron I came to the throne at fourteen."
+    },
+    "8": {
+      "relationFr": "younger brother",
+      "noteFr": "Daeron I was killed in Dorne, unwed and childless; his brother succeeded him."
+    },
+    "9": {
+      "relationFr": "uncle (younger brother of Aegon III)",
+      "noteFr": "Baelor died childless. His three sisters were set aside in favour of their uncle Viserys, who had served for years as Hand of the King: a collateral succession through the male line, resting on the precedents of 101 AC and of the Dance. The crown went back up a generation. One rumour accuses Viserys of hastening Baelor's death; nothing establishes it."
+    },
+    "10": {
+      "relationFr": "eldest son",
+      "noteFr": "Viserys II reigned for only a year."
+    },
+    "11": {
+      "relationFr": "son (only legitimate son)",
+      "noteFr": "On his deathbed Aegon IV legitimized all his bastards. The rumour he had himself kept alive about Daeron's birth (that he was in truth the son of Aemon the Dragonknight) fed the claim of Daemon Blackfyre, who rose in 196 AC and died on the Redgrass Field. The Blackfyre pretenders returned in 212 AC, then in 219, 236 and 260 AC."
+    },
+    "12": {
+      "relationFr": "second son",
+      "noteFr": "The heir, Baelor Breakspear, died in 209 AC after the tourney at Ashford Meadow; in the same year the Great Spring Sickness carried off his sons Valarr and Matarys, and then the king. The crown passed to the second son."
+    },
+    "13": {
+      "relationFr": "younger brother (fourth son of Daeron II)",
+      "noteFr": "Aerys I died childless. Each of his heirs in turn had died before him: his brother Rhaegel (215 AC), then Rhaegel's son Aelor (217 AC), then Aelora, Aelor's twin and wife. The sources say nothing of any claim made for Daenora, Rhaegel's youngest daughter."
+    },
+    "14": {
+      "relationFr": "fourth son",
+      "noteFr": "Maekar was killed at the siege of Starpike. The Great Council of 233 AC passed over Vaella, the simple-minded daughter of Prince Daeron, and Maegor, the infant son of Aerion; Maester Aemon refused the crown; Aegon was chosen. Aenys Blackfyre, who had come under a safe conduct, was executed on Bloodraven's orders."
+    },
+    "15": {
+      "relationFr": "second son",
+      "noteFr": "The eldest son, Duncan, had given up the crown in 239 AC to marry Jenny of Oldstones; he died with his father in the tragedy at Summerhall (259 AC)."
+    },
+    "16": {
+      "relationFr": "only son",
+      "noteFr": "Jaehaerys II died of illness after a reign of three years."
+    },
+    "17": {
+      "relationFr": "cousin (son of Steffon Baratheon, first cousin of Aerys II; grandson of Rhaelle Targaryen)",
+      "noteFr": "Robert's Rebellion: Rhaegar was killed at the Trident, Aerys II in King's Landing, Rhaegar's children during the Sack. The end of the dynasty on the Iron Throne. Robert drew his claim from his grandmother Rhaelle, daughter of Aegon V. In exile Viserys proclaimed himself the third of his name (he died in 298 AC); Daenerys then took up the claim."
+    },
+    "5.1": {
+      "relationFr": "elder half-sister",
+      "noteFr": "Rhaenyra took King's Landing and sat the Iron Throne for some six months in 130 AC. Aegon II, in flight, was never deposed. The official lists do not count this episode."
+    },
+    "5.2": {
+      "relationFr": "younger half-brother",
+      "noteFr": "Driven from King's Landing by the riots, Rhaenyra was put to death on Dragonstone (130 AC); Aegon II regained the throne. Her supporters carried on the war in the name of her son, Aegon the Younger."
+    }
+  }
+}

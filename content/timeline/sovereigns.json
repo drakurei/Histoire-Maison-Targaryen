@@ -1,0 +1,686 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-02",
+  "generatedOn": "2026-11-13",
+  "noteFr": "Dix-sept rois sont comptés par les histoires officielles de l'univers, d'Aegon Ier à Aerys II. Rhaenyra, couronnée à Peyredragon et maîtresse de Port-Réal pendant environ six mois, n'y figure pas : elle est donnée ici à sa place chronologique, sans numéro d'ordre, avec contested = true. Les dates sont en années après la Conquête (négatives avant). born = null signifie que l'année de naissance n'est pas donnée par les ouvrages.",
+  "noteEn": "Seventeen kings are counted by the in-world official histories, from Aegon I to Aerys II. Rhaenyra, crowned on Dragonstone and mistress of King's Landing for about six months, is not among them: she is given here in her chronological place, without an ordinal, with contested = true. Dates are in years after the Conquest (negative before). born = null means the birth year is not given by the books.",
+  "sovereigns": [
+    {
+      "id": "aegon-i",
+      "ordinal": 1,
+      "nameEn": "Aegon I Targaryen",
+      "nameFr": "Aegon Ier Targaryen",
+      "epithetFr": "le Conquérant",
+      "epithetEn": "the Conqueror",
+      "reignFrom": 1,
+      "reignTo": 37,
+      "born": -27,
+      "died": 37,
+      "predecessor": null,
+      "successor": "aenys-i",
+      "relationToPredecessorFr": "Fondateur de la dynastie ; fils d'Aerion Targaryen, seigneur de Peyredragon.",
+      "relationToPredecessorEn": "Founder of the dynasty; son of Aerion Targaryen, Lord of Dragonstone.",
+      "contested": false,
+      "contestedNoteFr": null,
+      "contestedNoteEn": null,
+      "noteFr": "Couronné une première fois par Visenya dès le débarquement (2 av. C.) ; le règne est compté à partir du sacre de Villevieille. Mort d'une attaque à Peyredragon.",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aegon's Conquest"
+        },
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon I"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aenys-i",
+      "ordinal": 2,
+      "nameEn": "Aenys I Targaryen",
+      "nameFr": "Aenys Ier Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "reignFrom": 37,
+      "reignTo": 42,
+      "born": 7,
+      "died": 42,
+      "predecessor": "aegon-i",
+      "successor": "maegor-i",
+      "relationToPredecessorFr": "Fils aîné (né de la reine Rhaenys).",
+      "relationToPredecessorEn": "Elder son (by Queen Rhaenys).",
+      "contested": false,
+      "contestedNoteFr": null,
+      "contestedNoteEn": null,
+      "noteFr": "Pas d'épithète consacrée ; la Foi l'appela « le Roi Abomination ». Mort à Peyredragon : maladie selon la version reçue, empoisonnement par Visenya selon une rumeur.",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aenys I"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "maegor-i",
+      "ordinal": 3,
+      "nameEn": "Maegor I Targaryen",
+      "nameFr": "Maegor Ier Targaryen",
+      "epithetFr": "le Cruel",
+      "epithetEn": "the Cruel",
+      "reignFrom": 42,
+      "reignTo": 48,
+      "born": 12,
+      "died": 48,
+      "predecessor": "aenys-i",
+      "successor": "jaehaerys-i",
+      "relationToPredecessorFr": "Demi-frère cadet (né de la reine Visenya) ; prend la couronne au détriment du fils d'Aenys.",
+      "relationToPredecessorEn": "Younger half-brother (by Queen Visenya); took the crown at the expense of Aenys's son.",
+      "contested": false,
+      "contestedNoteFr": "Usurpateur au regard du droit d'aînesse, mais compté parmi les rois par toutes les histoires. Son neveu Aegon « le Sans-Couronne » lui disputa le trône en 43 et fut tué.",
+      "contestedNoteEn": "A usurper by the rule of primogeniture, yet counted among the kings by every history. His nephew Aegon 'the Uncrowned' contested the throne in 43 AC and was killed.",
+      "noteFr": "Trouvé mort sur le Trône de Fer ; meurtre ou suicide, la question reste ouverte.",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "tsotd"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maegor I"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "jaehaerys-i",
+      "ordinal": 4,
+      "nameEn": "Jaehaerys I Targaryen",
+      "nameFr": "Jaehaerys Ier Targaryen",
+      "epithetFr": "le Conciliateur",
+      "epithetEn": "the Conciliator",
+      "reignFrom": 48,
+      "reignTo": 103,
+      "born": 34,
+      "died": 103,
+      "predecessor": "maegor-i",
+      "successor": "viserys-i",
+      "relationToPredecessorFr": "Neveu (dernier fils survivant d'Aenys Ier).",
+      "relationToPredecessorEn": "Nephew (last surviving son of Aenys I).",
+      "contested": false,
+      "contestedNoteFr": null,
+      "contestedNoteEn": null,
+      "noteFr": "Aussi appelé « le Sage » et « le Vieux Roi ». Régence de sa mère jusqu'en 50. Plus long règne de la dynastie (55 ans).",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Prince into King — The Ascension of Jaehaerys I"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon — A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "viserys-i",
+      "ordinal": 5,
+      "nameEn": "Viserys I Targaryen",
+      "nameFr": "Viserys Ier Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "reignFrom": 103,
+      "reignTo": 129,
+      "born": 77,
+      "died": 129,
+      "predecessor": "jaehaerys-i",
+      "successor": "aegon-ii",
+      "relationToPredecessorFr": "Petit-fils (fils du prince Baelon), choisi par le Grand Conseil de 101.",
+      "relationToPredecessorEn": "Grandson (son of Prince Baelon), chosen by the Great Council of 101.",
+      "contested": false,
+      "contestedNoteFr": null,
+      "contestedNoteEn": null,
+      "noteFr": "Mort le troisième jour de la troisième lune de 129. Avait désigné sa fille Rhaenyra pour héritière.",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon — A Question of Succession"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aegon-ii",
+      "ordinal": 6,
+      "nameEn": "Aegon II Targaryen",
+      "nameFr": "Aegon II Targaryen",
+      "epithetFr": "l'Aîné",
+      "epithetEn": "the Elder",
+      "reignFrom": 129,
+      "reignTo": 131,
+      "born": 107,
+      "died": 131,
+      "predecessor": "viserys-i",
+      "successor": "aegon-iii",
+      "relationToPredecessorFr": "Fils aîné (né de la reine Alicent Hightower) ; couronné contre la volonté exprimée de son père.",
+      "relationToPredecessorEn": "Eldest son (by Queen Alicent Hightower); crowned against his father's stated will.",
+      "contested": true,
+      "contestedNoteFr": "Son droit fut contesté les armes à la main par sa demi-sœur Rhaenyra (129–130). « L'Aîné » le distingue d'Aegon le Jeune ; ses adversaires disaient « l'Usurpateur ». Chassé de Port-Réal pendant environ six mois en 130. Les histoires officielles le comptent comme roi.",
+      "contestedNoteEn": "His right was contested in arms by his half-sister Rhaenyra (129–130 AC). 'The Elder' distinguishes him from Aegon the Younger; his opponents said 'the Usurper'. Driven from King's Landing for about six months in 130 AC. The official histories count him as king.",
+      "noteFr": "Empoisonné en 131 ; les coupables n'ont jamais été établis.",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "tpatq"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "rhaenyra",
+      "ordinal": null,
+      "nameEn": "Rhaenyra Targaryen",
+      "nameFr": "Rhaenyra Targaryen",
+      "epithetFr": "le Délice du Royaume",
+      "epithetEn": "the Realm's Delight",
+      "reignFrom": 129,
+      "reignTo": 130,
+      "born": 97,
+      "died": 130,
+      "predecessor": "viserys-i",
+      "successor": null,
+      "relationToPredecessorFr": "Fille aînée (née de la reine Aemma Arryn), héritière désignée depuis 105.",
+      "relationToPredecessorEn": "Eldest daughter (by Queen Aemma Arryn), named heir since 105 AC.",
+      "contested": true,
+      "contestedNoteFr": "Couronnée à Peyredragon en 129 ; tient Port-Réal et le Trône de Fer environ six mois en 130 (« la Reine d'une demi-année », traduction de l'agent). Les histoires officielles ne la comptent pas dans la succession et ne la nomment que comme rivale d'Aegon II. Ce sont pourtant ses fils, Aegon III puis Viserys II, qui continuent la lignée royale. Tuée à Peyredragon le 22e jour de la 10e lune de 130.",
+      "contestedNoteEn": "Crowned on Dragonstone in 129 AC; held King's Landing and the Iron Throne for about six months in 130 AC ('the Half-Year Queen'). The official histories do not count her in the succession and name her only as Aegon II's rival. Yet it was her sons, Aegon III and then Viserys II, who carried on the royal line. Killed on Dragonstone on the 22nd day of the 10th moon of 130 AC.",
+      "noteFr": "Entrée sans numéro d'ordre, faute de figurer sur les listes officielles. Elle n'a pas de successeur propre : sa prétention passe à son fils Aegon III, qui succède officiellement à Aegon II.",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon — A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — Rhaenyra Overthrown"
+        },
+        {
+          "id": "tpatq"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        }
+      ],
+      "verifiedOnline": true,
+      "noteEn": "Listed without an ordinal, since the official lists leave her out. She has no successor of her own: her claim passed to her son Aegon III, who officially succeeded Aegon II."
+    },
+    {
+      "id": "aegon-iii",
+      "ordinal": 7,
+      "nameEn": "Aegon III Targaryen",
+      "nameFr": "Aegon III Targaryen",
+      "epithetFr": "le Fléau des dragons",
+      "epithetEn": "the Dragonbane",
+      "reignFrom": 131,
+      "reignTo": 157,
+      "born": 120,
+      "died": 157,
+      "predecessor": "aegon-ii",
+      "successor": "daeron-i",
+      "relationToPredecessorFr": "Neveu (fils de Rhaenyra, demi-sœur d'Aegon II, et de Daemon Targaryen).",
+      "relationToPredecessorEn": "Nephew (son of Rhaenyra, Aegon II's half-sister, and of Daemon Targaryen).",
+      "contested": false,
+      "contestedNoteFr": null,
+      "contestedNoteEn": null,
+      "noteFr": "Aussi « Aegon le Jeune », « l'Infortuné », « le Roi brisé ». Régence de 131 à 136. Le dernier dragon meurt sous son règne (153). Mort de consomption.",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Aftermath — The Hour of the Wolf"
+        },
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        }
+      ],
+      "verifiedOnline": true,
+      "noteEn": "Also “Aegon the Younger”, “the Unlucky”, “the Broken King”. Under a regency from 131 to 136 AC. The last dragon died in his reign (153 AC). He died of a wasting illness."
+    },
+    {
+      "id": "daeron-i",
+      "ordinal": 8,
+      "nameEn": "Daeron I Targaryen",
+      "nameFr": "Daeron Ier Targaryen",
+      "epithetFr": "le Jeune Dragon",
+      "epithetEn": "the Young Dragon",
+      "reignFrom": 157,
+      "reignTo": 161,
+      "born": 143,
+      "died": 161,
+      "predecessor": "aegon-iii",
+      "successor": "baelor-i",
+      "relationToPredecessorFr": "Fils aîné.",
+      "relationToPredecessorEn": "Elder son.",
+      "contested": false,
+      "contestedNoteFr": null,
+      "contestedNoteEn": null,
+      "noteFr": "Tué à Dorne sous une bannière de paix, à dix-huit ans, quatre ans après son avènement.",
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron I"
+        }
+      ],
+      "verifiedOnline": true,
+      "noteEn": "Killed in Dorne under a banner of peace, at eighteen, four years after his accession."
+    },
+    {
+      "id": "baelor-i",
+      "ordinal": 9,
+      "nameEn": "Baelor I Targaryen",
+      "nameFr": "Baelor Ier Targaryen",
+      "epithetFr": "le Bienheureux",
+      "epithetEn": "the Blessed",
+      "reignFrom": 161,
+      "reignTo": 171,
+      "born": 144,
+      "died": 171,
+      "predecessor": "daeron-i",
+      "successor": "viserys-ii",
+      "relationToPredecessorFr": "Frère cadet.",
+      "relationToPredecessorEn": "Younger brother.",
+      "contested": false,
+      "contestedNoteFr": null,
+      "contestedNoteEn": null,
+      "noteFr": "Aussi « le Bien-Aimé ». Mort à la suite d'un jeûne ; une rumeur accuse son oncle Viserys.",
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "viserys-ii",
+      "ordinal": 10,
+      "nameEn": "Viserys II Targaryen",
+      "nameFr": "Viserys II Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "reignFrom": 171,
+      "reignTo": 172,
+      "born": 122,
+      "died": 172,
+      "predecessor": "baelor-i",
+      "successor": "aegon-iv",
+      "relationToPredecessorFr": "Oncle (frère cadet d'Aegon III, fils de Rhaenyra et de Daemon) ; préféré aux sœurs de Baelor.",
+      "relationToPredecessorEn": "Uncle (younger brother of Aegon III, son of Rhaenyra and Daemon); preferred over Baelor's sisters.",
+      "contested": false,
+      "contestedNoteFr": null,
+      "contestedNoteEn": null,
+      "noteFr": "Main de trois rois avant de régner un an. Le bruit a couru que son fils l'avait empoisonné ; rien ne le prouve.",
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys II"
+        }
+      ],
+      "verifiedOnline": true,
+      "noteEn": "Hand to three kings before reigning for a single year. It was rumoured that his son had poisoned him; nothing proves it."
+    },
+    {
+      "id": "aegon-iv",
+      "ordinal": 11,
+      "nameEn": "Aegon IV Targaryen",
+      "nameFr": "Aegon IV Targaryen",
+      "epithetFr": "l'Indigne",
+      "epithetEn": "the Unworthy",
+      "reignFrom": 172,
+      "reignTo": 184,
+      "born": 135,
+      "died": 184,
+      "predecessor": "viserys-ii",
+      "successor": "daeron-ii",
+      "relationToPredecessorFr": "Fils aîné.",
+      "relationToPredecessorEn": "Elder son.",
+      "contested": false,
+      "contestedNoteFr": null,
+      "contestedNoteEn": null,
+      "noteFr": "Légitime ses bâtards sur son lit de mort, origine des rébellions Feunoyr.",
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon IV"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "daeron-ii",
+      "ordinal": 12,
+      "nameEn": "Daeron II Targaryen",
+      "nameFr": "Daeron II Targaryen",
+      "epithetFr": "le Bon",
+      "epithetEn": "the Good",
+      "reignFrom": 184,
+      "reignTo": 209,
+      "born": 153,
+      "died": 209,
+      "predecessor": "aegon-iv",
+      "successor": "aerys-i",
+      "relationToPredecessorFr": "Fils aîné légitime (né de la reine Naerys).",
+      "relationToPredecessorEn": "Eldest trueborn son (by Queen Naerys).",
+      "contested": true,
+      "contestedNoteFr": "Sa naissance fut mise en doute par les partisans de Daemon Feunoyr, qui le disaient fils du prince Aemon le Chevalier-Dragon (« Daeron le Faux-Né ») ; rien ne l'établit. Son droit fut contesté par la première rébellion Feunoyr (196).",
+      "contestedNoteEn": "His birth was questioned by the partisans of Daemon Blackfyre, who called him the son of Prince Aemon the Dragonknight ('Daeron Falseborn'); nothing establishes it. His right was contested by the First Blackfyre Rebellion (196 AC).",
+      "noteFr": "Né le dernier jour de 153. Mort lors du Grand Fléau de Printemps.",
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "tss"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aerys-i",
+      "ordinal": 13,
+      "nameEn": "Aerys I Targaryen",
+      "nameFr": "Aerys Ier Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "reignFrom": 209,
+      "reignTo": 221,
+      "born": null,
+      "died": 221,
+      "predecessor": "daeron-ii",
+      "successor": "maekar-i",
+      "relationToPredecessorFr": "Deuxième fils ; hérite après la mort de son frère aîné Baelor et de ses neveux.",
+      "relationToPredecessorEn": "Second son; inherited after the deaths of his elder brother Baelor and his nephews.",
+      "contested": false,
+      "contestedNoteFr": null,
+      "contestedNoteEn": null,
+      "noteFr": "Année de naissance non donnée par les livres ; on la place par calcul entre 172 et 177. Laisse gouverner sa Main, Freuxsanglant. Meurt sans enfant.",
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "tss"
+        },
+        {
+          "id": "tmk"
+        }
+      ],
+      "verifiedOnline": true,
+      "noteEn": "Year of birth not given by the books; it is placed by calculation between 172 and 177 AC. He left the governing to his Hand, Bloodraven. He died childless."
+    },
+    {
+      "id": "maekar-i",
+      "ordinal": 14,
+      "nameEn": "Maekar I Targaryen",
+      "nameFr": "Maekar Ier Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "reignFrom": 221,
+      "reignTo": 233,
+      "born": null,
+      "died": 233,
+      "predecessor": "aerys-i",
+      "successor": "aegon-v",
+      "relationToPredecessorFr": "Frère cadet (quatrième fils de Daeron II), seul frère survivant.",
+      "relationToPredecessorEn": "Younger brother (fourth son of Daeron II), the only surviving brother.",
+      "contested": false,
+      "contestedNoteFr": null,
+      "contestedNoteEn": null,
+      "noteFr": "Année de naissance non donnée par les livres ; on la place par calcul entre 174 et 179. Tué en 233 en assiégeant un seigneur rebelle des marches de Dorne. « L'Enclume » est un surnom de bataille plus qu'une épithète de règne.",
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Maekar I"
+        },
+        {
+          "id": "thk"
+        }
+      ],
+      "verifiedOnline": true,
+      "noteEn": "Year of birth not given by the books; it is placed by calculation between 174 and 179 AC. Killed in 233 AC while besieging a rebel lord of the Dornish Marches. “The Anvil” is a battle name rather than a regnal epithet."
+    },
+    {
+      "id": "aegon-v",
+      "ordinal": 15,
+      "nameEn": "Aegon V Targaryen",
+      "nameFr": "Aegon V Targaryen",
+      "epithetFr": "l'Invraisemblable",
+      "epithetEn": "the Unlikely",
+      "reignFrom": 233,
+      "reignTo": 259,
+      "born": 200,
+      "died": 259,
+      "predecessor": "maekar-i",
+      "successor": "jaehaerys-ii",
+      "relationToPredecessorFr": "Quatrième fils, choisi par le Grand Conseil de 233.",
+      "relationToPredecessorEn": "Fourth son, chosen by the Great Council of 233.",
+      "contested": false,
+      "contestedNoteFr": "Élu par un Grand Conseil de préférence à une nièce, à un neveu au berceau et à son frère aîné Aemon, mestre, qui refusa la couronne.",
+      "contestedNoteEn": "Chosen by a Great Council over a niece, an infant nephew and his elder brother Aemon, a maester, who refused the crown.",
+      "noteFr": "« L'Œuf » des nouvelles de Dunk et l'Œuf. Mort dans l'incendie de Lestival.",
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "thk"
+        },
+        {
+          "id": "acok",
+          "locator": "Jon I (ch. 6)"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "jaehaerys-ii",
+      "ordinal": 16,
+      "nameEn": "Jaehaerys II Targaryen",
+      "nameFr": "Jaehaerys II Targaryen",
+      "epithetFr": null,
+      "epithetEn": null,
+      "reignFrom": 259,
+      "reignTo": 262,
+      "born": 225,
+      "died": 262,
+      "predecessor": "aegon-v",
+      "successor": "aerys-ii",
+      "relationToPredecessorFr": "Deuxième fils ; héritier depuis la renonciation de son frère aîné Duncan.",
+      "relationToPredecessorEn": "Second son; heir since his elder brother Duncan's renunciation.",
+      "contested": false,
+      "contestedNoteFr": null,
+      "contestedNoteEn": null,
+      "noteFr": "Règne de trois ans, marqué par la guerre des Rois à Neuf Sous. Mort de maladie. Selon un fait d'édition connu des lecteurs mais non recontrôlé ici, l'appendice d'origine du premier roman omettait ce roi, et la liste a été corrigée par la suite.",
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        }
+      ],
+      "verifiedOnline": true
+    },
+    {
+      "id": "aerys-ii",
+      "ordinal": 17,
+      "nameEn": "Aerys II Targaryen",
+      "nameFr": "Aerys II Targaryen",
+      "epithetFr": "le Roi Fou",
+      "epithetEn": "the Mad King",
+      "reignFrom": 262,
+      "reignTo": 283,
+      "born": 244,
+      "died": 283,
+      "predecessor": "jaehaerys-ii",
+      "successor": null,
+      "relationToPredecessorFr": "Fils unique.",
+      "relationToPredecessorEn": "Only son.",
+      "contested": true,
+      "contestedNoteFr": "Renversé par la rébellion de Robert Baratheon (282–283), qui lui succède sur le Trône de Fer. Tué par ser Jaime Lannister, de sa propre Garde Royale, pendant le sac de Port-Réal.",
+      "contestedNoteEn": "Overthrown by Robert Baratheon's rebellion (282–283 AC); Robert succeeded him on the Iron Throne. Killed by Ser Jaime Lannister of his own Kingsguard during the Sack of King's Landing.",
+      "noteFr": "Dernier roi Targaryen : à sa mort, le trône passe à une autre maison. Son année de naissance est obtenue par calcul ; les livres ne l'écrivent pas.",
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys II"
+        },
+        {
+          "id": "asos",
+          "locator": "Jaime II (ch. 11) ; Jaime V (ch. 37)"
+        },
+        {
+          "id": "agot",
+          "locator": "Appendix"
+        }
+      ],
+      "verifiedOnline": true,
+      "noteEn": "The last Targaryen king: at his death the throne passed to another house. His year of birth is reached by calculation; the books do not state it."
+    }
+  ],
+  "claimantsNotCounted": [
+    {
+      "nameFr": "Aegon « le Sans-Couronne », fils d’Aenys Ier",
+      "nameEn": "Aegon 'the Uncrowned', son of Aenys I",
+      "years": "42–43",
+      "noteFr": "Héritier direct d'Aenys, tué par Maegor sous l'Œildieu.",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        }
+      ]
+    },
+    {
+      "nameFr": "Trystane Truefyre et Gaemon Cheveux-Pâles",
+      "nameEn": "Trystane Truefyre and Gaemon Palehair",
+      "years": "130",
+      "noteFr": "Rois de quelques semaines à Port-Réal pendant la Lune des Trois Rois.",
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons — The Short, Sad Reign of Aegon II"
+        }
+      ]
+    },
+    {
+      "nameFr": "Prétendants Feunoyr (Daemon Ier, Daemon II, Haegon, Daemon III, Maelys)",
+      "nameEn": "Blackfyre pretenders (Daemon I, Daemon II, Haegon, Daemon III, Maelys)",
+      "years": "196–260",
+      "noteFr": "Branche légitimée issue d'Aegon IV ; cinq soulèvements, aucun règne.",
+      "sources": [
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Daeron II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon V"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys II"
+        }
+      ]
+    },
+    {
+      "nameFr": "Viserys Targaryen, fils d’Aerys II",
+      "nameEn": "Viserys Targaryen, son of Aerys II",
+      "years": "283–298",
+      "noteFr": "Se dit Viserys III en exil ; n'a jamais régné.",
+      "sources": [
+        {
+          "id": "agot",
+          "locator": "Daenerys I (ch. 3)"
+        }
+      ]
+    },
+    {
+      "nameFr": "Daenerys Targaryen",
+      "nameEn": "Daenerys Targaryen",
+      "years": "depuis 298",
+      "noteFr": "Se proclame reine en exil ; règne à Meereen, non sur le Trône de Fer, dans les livres parus.",
+      "sources": [
+        {
+          "id": "adwd",
+          "locator": "Daenerys I (ch. 2)"
+        }
+      ]
+    },
+    {
+      "nameFr": "« Aegon », dit Griff le Jeune",
+      "nameEn": "'Aegon', called Young Griff",
+      "years": "300",
+      "noteFr": "Se dit fils de Rhaegar ; identité non établie.",
+      "sources": [
+        {
+          "id": "adwd",
+          "locator": "The Lost Lord (ch. 24)"
+        }
+      ]
+    }
+  ]
+}

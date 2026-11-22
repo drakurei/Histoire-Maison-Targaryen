@@ -1,0 +1,75 @@
+/* Réclames : ce qui précède à gauche, ce qui suit à droite, séparés par le blanc. */
+.nav {
+  grid-column: 1 / -1;
+  display: grid;
+  gap: var(--e5);
+  margin-block-start: var(--e7);
+}
+
+.link {
+  display: grid;
+  align-content: start;
+  gap: var(--e1);
+  min-block-size: var(--cible);
+  color: var(--v1-texte);
+  text-decoration: none;
+}
+
+.kind {
+  font-family: var(--f-recit);
+  font-size: 0.95rem;
+  font-style: italic;
+  color: var(--v1-texte-2);
+}
+
+.mark {
+  font-family: var(--f-lettrine);
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--v1-rubrique);
+  font-variant-numeric: lining-nums;
+}
+
+.mark[data-kind='date'] {
+  font-family: var(--f-musee);
+  font-size: 0.95rem;
+  font-weight: 700;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.title {
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 520;
+  line-height: 1.1;
+  letter-spacing: -0.015em;
+  text-decoration-line: underline;
+  text-decoration-color: var(--v1-trait);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.16em;
+  text-wrap: balance;
+}
+
+.link:hover .title,
+.link:focus-visible .title {
+  text-decoration-color: var(--v1-rubrique);
+}
+
+.title :global(.gloss__tr) {
+  display: block;
+  margin-block-start: 0.3em;
+  font-size: 0.95rem;
+}
+
+@media (min-width: 720px) {
+  .nav {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: var(--e7);
+  }
+
+  .link[data-side='next'] {
+    justify-items: end;
+    text-align: end;
+  }
+}

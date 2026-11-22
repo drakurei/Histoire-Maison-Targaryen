@@ -1,0 +1,158 @@
+/* Les lieux : la carte et son index, comme les deux pages ouvertes d'un atlas. */
+.head {
+  display: grid;
+  gap: var(--e4);
+  margin-block-end: var(--e5);
+}
+
+.lead {
+  max-inline-size: 36em;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.42;
+  color: var(--encre);
+  text-wrap: pretty;
+}
+
+.filters {
+  margin-block-end: var(--e5);
+}
+
+.atlas {
+  display: grid;
+  gap: var(--e6);
+  align-items: start;
+}
+
+.mapColumn {
+  display: grid;
+  gap: var(--e3);
+}
+
+.caption {
+  max-inline-size: 40rem;
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+  color: var(--encre-pale);
+}
+
+/* ------------------------------------------------------------ index */
+.index {
+  display: grid;
+  gap: var(--e4);
+}
+
+@media (min-width: 720px) and (max-width: 1023px) {
+  .index {
+    display: block;
+    columns: 2;
+    column-gap: var(--gouttiere);
+  }
+
+  .letter {
+    margin-block-end: var(--e4);
+  }
+}
+
+.letter {
+  break-inside: avoid;
+  display: grid;
+  grid-template-columns: 2.2rem minmax(0, 1fr);
+  column-gap: var(--e3);
+  align-items: start;
+}
+
+/* L'initiale de la section d'index : Grenze Gotisch, à l'encre rouge. */
+.initial {
+  font-family: var(--f-lettrine);
+  font-size: var(--t2);
+  font-weight: 600;
+  line-height: 1;
+  color: var(--rubrique);
+}
+
+.entries {
+  display: grid;
+  gap: var(--e1);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.entry {
+  display: grid;
+  padding-block: 0.2rem;
+}
+
+.entryLink {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.5em;
+  min-block-size: 1.9rem;
+  color: var(--encre);
+  text-decoration: none;
+}
+
+.entryName {
+  font-family: var(--f-chronique);
+  font-size: 1.12rem;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  text-decoration-line: underline;
+  text-decoration-color: transparent;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  transition: text-decoration-color var(--d-geste-court) var(--c-power4);
+}
+
+.entryGloss {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--encre-pale);
+}
+
+.entryLink:hover .entryName,
+.entryLink:focus-visible .entryName,
+.entry[data-active] .entryName {
+  color: var(--rubrique);
+  text-decoration-color: var(--rubrique);
+}
+
+.entryKind {
+  font-family: var(--f-musee);
+  font-size: 0.85rem;
+  line-height: 1.35;
+  color: var(--encre-pale);
+}
+
+@media (min-width: 1024px) {
+  .head {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+    column-gap: var(--gouttiere);
+    align-items: end;
+  }
+
+  .lead {
+    grid-column: 1 / 7;
+  }
+
+  .index {
+    display: block;
+    columns: 3;
+    column-gap: var(--gouttiere);
+  }
+
+  .letter {
+    margin-block-end: var(--e4);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .entryName {
+    transition: none;
+  }
+}

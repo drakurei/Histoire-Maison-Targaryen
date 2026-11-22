@@ -1,0 +1,232 @@
+/* Un événement : la date gravée en tête, le récit à gauche, l'appareil en marge. */
+.head {
+  display: grid;
+  gap: var(--e4);
+  align-items: end;
+}
+
+.date {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.18em;
+  margin: 0;
+  font-family: var(--f-lettrine);
+  line-height: 0.8;
+  color: var(--v1-rubrique);
+  font-variant-numeric: lining-nums;
+}
+
+.number {
+  font-size: clamp(6rem, 2rem + 12vw, 13rem);
+  font-weight: 640;
+  letter-spacing: -0.04em;
+}
+
+.dash {
+  font-size: clamp(3rem, 1.4rem + 8vw, 7rem);
+  font-weight: 500;
+}
+
+.era,
+.approx {
+  font-family: var(--f-musee);
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1;
+}
+
+.era {
+  margin-inline: 0.2em 0.5em;
+}
+
+.approx {
+  align-self: flex-start;
+  margin-inline-end: 0.3em;
+  font-family: var(--f-recit);
+  font-size: 1.15rem;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.dateLoose {
+  margin: 0;
+  font-family: var(--f-chronique);
+  font-size: var(--t3);
+  font-style: italic;
+  line-height: 1;
+  color: var(--v1-rubrique);
+}
+
+.volume {
+  display: grid;
+  justify-items: start;
+  gap: 0.2rem;
+  min-block-size: var(--cible);
+  color: var(--v1-texte);
+  text-decoration: none;
+}
+
+.volumeNumber {
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--v1-rubrique);
+}
+
+.volumeTitle {
+  font-family: var(--f-chronique);
+  font-size: 1.15rem;
+  font-weight: 520;
+  text-decoration-line: underline;
+  text-decoration-color: var(--v1-trait);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+.volume:hover .volumeTitle {
+  text-decoration-color: var(--v1-rubrique);
+}
+
+.volumeGloss {
+  display: block;
+  font-family: var(--f-recit);
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--v1-texte-2);
+}
+
+.title {
+  margin-block-start: var(--e5);
+}
+
+.dateNote {
+  max-inline-size: 36em;
+  margin-block-start: var(--e3);
+  font-family: var(--f-recit);
+  font-size: 1rem;
+  font-style: italic;
+  line-height: 1.45;
+  color: var(--v1-texte-2);
+}
+
+.body {
+  margin-block-start: var(--e6);
+}
+
+.text {
+  min-inline-size: 0;
+}
+
+.adaptation {
+  max-inline-size: 34em;
+  margin-block-end: var(--e4);
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--v1-rubrique);
+}
+
+.consequenceTitle {
+  margin-block: var(--e6) var(--e3);
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 560;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--v1-rubrique);
+}
+
+.consequence {
+  font-size: var(--t1);
+  line-height: 1.5;
+}
+
+.margin {
+  display: grid;
+  align-content: start;
+  gap: var(--e5);
+  margin-block-start: var(--e6);
+}
+
+.block {
+  display: grid;
+  gap: var(--e2);
+}
+
+.blockTitle {
+  margin: 0;
+  font-family: var(--f-recit);
+  font-size: 0.95rem;
+  font-style: italic;
+  font-weight: 400;
+  color: var(--v1-texte-2);
+}
+
+.refs {
+  display: grid;
+  gap: 0.15rem;
+  margin: 0;
+  font-family: var(--f-recit);
+  font-size: 1.02rem;
+  line-height: 1.45;
+  color: var(--v1-texte);
+}
+
+.refs > li {
+  min-block-size: 1.75rem;
+}
+
+.reliability {
+  font-size: 0.95rem;
+}
+
+.note {
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+  color: var(--v1-texte-2);
+}
+
+.figure {
+  margin-block-start: var(--e7);
+}
+
+@media (min-width: 1024px) {
+  .head {
+    grid-template-columns: subgrid;
+    column-gap: var(--gouttiere);
+  }
+
+  .date {
+    grid-column: 1 / 8;
+  }
+
+  .volume {
+    grid-column: 8 / 11;
+    padding-block-end: 0.6rem;
+  }
+
+  .title {
+    grid-column: 1 / 8;
+  }
+
+  .dateNote {
+    grid-column: 1 / 8;
+  }
+
+  .body {
+    grid-template-columns: subgrid;
+    column-gap: var(--gouttiere);
+    align-items: start;
+  }
+
+  .text {
+    grid-column: 1 / 8;
+  }
+
+  .margin {
+    grid-column: 8 / 11;
+    margin-block-start: 0.35rem;
+  }
+}

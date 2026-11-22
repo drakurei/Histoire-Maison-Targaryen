@@ -1,0 +1,258 @@
+/*
+ * Le volet : un feuillet de vélin posé sur le rouleau, ombre courte et dure vers la gauche.
+ * Pas de cadre, pas de carte : un papier sur un papier.
+ */
+.panel {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: var(--e5) var(--e5) var(--e6);
+  background-color: var(--velin);
+  background-image: linear-gradient(100deg, oklch(0.86 0.04 80 / 0.55), transparent 9%);
+  color: var(--encre);
+  font-family: var(--f-recit);
+  line-height: 1.45;
+  cursor: auto;
+  user-select: text;
+  touch-action: pan-y;
+}
+
+.panel[data-placement='side'] {
+  position: absolute;
+  inset-block: var(--e3);
+  inset-inline-end: 0;
+  inline-size: min(23rem, 44%);
+  box-shadow: -7px 7px 0 oklch(0.3 0.04 40 / 0.2);
+}
+
+.panel[data-placement='sheet'] {
+  max-block-size: min(46svh, 30rem);
+  box-shadow: 0 -7px 0 oklch(0.3 0.04 40 / 0.16);
+}
+
+.head {
+  position: relative;
+  padding-inline-end: var(--e7);
+}
+
+.name {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 580;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--rubrique);
+  text-wrap: balance;
+}
+
+.crown {
+  display: inline-block;
+  margin-inline-end: 0.25em;
+  vertical-align: 0.02em;
+  color: var(--v1-or-sombre);
+}
+
+.epithet {
+  margin-block-start: var(--e2);
+  font-style: italic;
+  font-size: var(--t0);
+  color: var(--encre);
+}
+
+.dates,
+.reign {
+  margin-block-start: var(--e1);
+  font-family: var(--f-musee);
+  font-size: 0.9rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+}
+
+.reign {
+  color: var(--v1-or-sombre);
+  font-weight: 500;
+}
+
+.close {
+  position: absolute;
+  inset-block-start: calc(-1 * var(--e2));
+  inset-inline-end: calc(-1 * var(--e2));
+  display: grid;
+  place-items: center;
+  inline-size: var(--cible);
+  block-size: var(--cible);
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--encre);
+  cursor: pointer;
+}
+
+.close svg {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.5;
+}
+
+.close:hover {
+  color: var(--rubrique);
+}
+
+.block {
+  margin-block-start: var(--e5);
+}
+
+.blockTitle {
+  margin-block-end: var(--e2);
+  font-family: var(--f-chronique);
+  font-size: var(--t1);
+  font-weight: 540;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  color: var(--rubrique);
+}
+
+.couple {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--e1) var(--e2);
+}
+
+.coupleMember {
+  display: inline-flex;
+  align-items: baseline;
+  gap: var(--e2);
+}
+
+.mark {
+  font-family: var(--f-recit);
+  font-style: italic;
+  color: var(--encre-pale);
+}
+
+.person {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e2);
+}
+
+.personButton {
+  min-block-size: 2rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--encre);
+  font: inherit;
+  font-size: 1.02rem;
+  text-align: start;
+  text-decoration-line: underline;
+  text-decoration-color: var(--rubrique);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+
+.personButton:hover {
+  text-decoration-thickness: 3px;
+}
+
+.years {
+  font-family: var(--f-musee);
+  font-size: 0.8rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+  white-space: nowrap;
+}
+
+.note {
+  font-style: italic;
+  font-size: 0.88rem;
+  color: var(--encre-pale);
+}
+
+.quiet {
+  font-size: 0.92rem;
+  font-style: italic;
+  color: var(--encre-pale);
+}
+
+.doubt {
+  display: flex;
+  align-items: baseline;
+  gap: var(--e2);
+  margin-block-start: var(--e2);
+  font-family: var(--f-musee);
+  font-size: 0.86rem;
+  line-height: 1.4;
+  color: var(--encre-pale);
+}
+
+.unions {
+  display: grid;
+  gap: var(--e4);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.unionHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--e1) var(--e2);
+}
+
+.kin {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--e1) var(--e3);
+  margin-block-start: 0.1rem;
+  font-style: italic;
+  font-size: 0.92rem;
+  color: var(--rubrique);
+}
+
+.coefficient {
+  font-family: var(--f-musee);
+  font-style: normal;
+  font-size: 0.78rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--encre-pale);
+}
+
+/* Les enfants d'une union, en retrait, comme dans une table généalogique imprimée. */
+.children {
+  display: grid;
+  gap: 0;
+  margin: var(--e1) 0 0;
+  padding: 0 0 0 var(--e5);
+  list-style: none;
+  background: linear-gradient(var(--v1-trait), var(--v1-trait)) 0.45rem 0.4rem / 1.5px calc(100% - 1.2rem) no-repeat;
+}
+
+.siblings {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.read {
+  display: inline-flex;
+  align-items: center;
+  min-block-size: var(--cible);
+  margin-block-start: var(--e6);
+  padding-inline: var(--e4);
+  background: var(--sang);
+  color: var(--ivoire);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  font-size: 0.95rem;
+  text-decoration: none;
+}
+
+.read:hover {
+  background: var(--cramoisi);
+  color: var(--ivoire);
+}

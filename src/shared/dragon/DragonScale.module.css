@@ -1,0 +1,34 @@
+.scale {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+
+/* Sur fond sombre, le « papier » du trait est la pierre (voir DragonFigure.module.css). */
+.scale[data-ground='dark'] {
+  --dragon-paper: var(--dragon-paper-dark, var(--obsidienne, oklch(0.14 0.012 25)));
+}
+
+.item,
+.dimmed {
+  overflow: visible;
+  transition: opacity var(--d-geste, 220ms) var(--c-power4, cubic-bezier(0.22, 1, 0.36, 1));
+}
+
+.dimmed {
+  opacity: 0.38;
+}
+
+/* Le repère humain prend l'encre de la planche. */
+.human {
+  overflow: visible;
+  fill: var(--dragon-ink, currentColor);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .item,
+  .dimmed {
+    transition: none;
+  }
+}

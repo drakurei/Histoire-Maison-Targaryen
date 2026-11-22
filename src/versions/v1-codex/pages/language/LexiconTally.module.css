@@ -1,0 +1,30 @@
+/* Le lexique en marques : un carré par forme, l'encre du statut ; les formes écartées pâlissent. */
+.tally {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+  max-inline-size: 22rem;
+}
+
+.cell {
+  display: block;
+  line-height: 0;
+  color: var(--v1-texte);
+  transition: opacity var(--d-geste) var(--c-expo);
+}
+
+.cell > svg {
+  display: block;
+}
+
+.cell[data-status='editorial'] {
+  color: var(--v1-rubrique);
+}
+
+.cell[data-status='adaptation'] {
+  color: var(--v1-texte-2);
+}
+
+.cell[data-off] {
+  opacity: 0.18;
+}

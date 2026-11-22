@@ -1,0 +1,35 @@
+/* Lien d'évitement : un signet rouge qui descend du haut de la page au premier appui sur Tab. */
+.skip {
+  position: fixed;
+  inset-block-start: 0;
+  inset-inline-start: var(--marge-page);
+  z-index: 1000;
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--cible);
+  padding: var(--e2) var(--e4);
+  background: var(--sang);
+  color: var(--ivoire);
+  font-family: var(--f-musee);
+  font-weight: 500;
+  line-height: var(--il-cartel);
+  text-decoration: none;
+  transform: translateY(-100%);
+  transition: transform var(--d-geste-court) var(--c-expo);
+}
+
+.skip:focus {
+  transform: translateY(0);
+}
+
+.label {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: var(--e3);
+}
+
+.translation {
+  font-weight: 400;
+  font-style: italic;
+}

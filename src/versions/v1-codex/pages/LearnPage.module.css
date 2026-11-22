@@ -1,0 +1,122 @@
+/* Apprendre : titre monumental, puis la suite numérotée, chiffres gothiques suspendus à gauche. */
+.title {
+  margin-block-end: var(--e6);
+}
+
+.lead {
+  max-inline-size: 34em;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  hyphens: manual;
+  text-wrap: pretty;
+}
+
+.empty {
+  margin-block-end: var(--e4);
+}
+
+.section {
+  margin-block: var(--e6) var(--e3);
+}
+
+.paths {
+  display: grid;
+  margin: var(--e6) 0 0;
+  padding: 0;
+  border-block-start: 2px solid var(--v1-texte);
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 3.25rem minmax(0, 1fr);
+  gap: var(--e4);
+  align-items: start;
+  padding-block: var(--e5);
+  border-block-end: 1px solid var(--v1-trait);
+}
+
+@media (min-width: 720px) {
+  .row {
+    grid-template-columns: 6rem minmax(0, 1fr);
+    gap: var(--e5);
+  }
+}
+
+.numeral {
+  font-family: var(--f-lettrine);
+  font-size: clamp(3rem, 2rem + 3vw, 4.8rem);
+  line-height: 0.8;
+  color: var(--v1-rubrique);
+  font-variant-numeric: lining-nums;
+}
+
+.rowBody {
+  display: grid;
+  gap: var(--e2);
+  min-inline-size: 0;
+  max-inline-size: 42rem;
+}
+
+.rowLink {
+  justify-self: start;
+  color: var(--v1-texte);
+  text-decoration: none;
+}
+
+.rowTitle {
+  font-family: var(--f-chronique);
+  font-size: var(--t2);
+  font-weight: 560;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  text-decoration-line: underline;
+  text-decoration-color: var(--v1-rubrique);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.16em;
+}
+
+.rowLink:hover .rowTitle {
+  color: var(--v1-rubrique);
+}
+
+.rowGloss {
+  margin-block-start: 0.4rem;
+  font-size: 0.95rem;
+}
+
+.intro {
+  font-family: var(--f-recit);
+  font-size: var(--t0);
+  line-height: var(--il-recit);
+  hyphens: auto;
+}
+
+.meta {
+  font-family: var(--f-musee);
+  font-size: 0.875rem;
+  line-height: var(--il-cartel);
+  color: var(--v1-texte-2);
+  font-variant-numeric: lining-nums;
+}
+
+.progress {
+  font-family: var(--f-recit);
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--v1-texte-2);
+}
+
+.row[data-progress='done'] .progress,
+.row[data-progress='ongoing'] .progress {
+  color: var(--v1-rubrique);
+}
+
+.srOnly {
+  position: absolute;
+  inline-size: 1px;
+  block-size: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}

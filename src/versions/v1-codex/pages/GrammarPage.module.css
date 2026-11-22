@@ -1,0 +1,22 @@
+/* La grammaire : chapeau, planche du nom en pleine largeur, leçons. */
+.title {
+  margin-block-end: var(--e5);
+}
+
+.lead {
+  max-inline-size: 34em;
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  hyphens: manual;
+  text-wrap: pretty;
+}
+
+.section {
+  margin-block: var(--e7) var(--e2);
+  scroll-margin-block-start: 6rem;
+}
+
+.frame {
+  margin-block: var(--e4) var(--e5);
+}

@@ -1,0 +1,155 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-02",
+  "items": [
+    {
+      "periodId": "p3",
+      "sections": [
+        {
+          "id": "p3-une-maison-sur-un-rocher",
+          "heading": {
+            "fr": "Une maison d'exilés sur un rocher",
+            "en": "A House of Exiles on a Rock"
+          },
+          "body": {
+            "fr": "Lorsque Aegon prend la mer, sa famille vit depuis plus d'un siècle à Peyredragon, l'avant-poste le plus occidental de Valyria. Aenar Targaryen s'y était retiré douze ans avant le Fléau ; la catastrophe qui anéantit les Possessions changea cette retraite en survie. Pendant les longues guerres qui suivirent à l'est, les Targaryen restèrent à l'écart, riches de leurs dragons et de leurs liens avec les Velaryon et les Celtigar, mais sans royaume.\n\nAegon naît sur l'île en 27 av. C., fils d'Aerion Targaryen et de Valaena Velaryon. On sait qu'il intervint une fois dans les affaires de l'Essos, à la demande de Pentos et de Tyrosh, et qu'il brûla devant Lys une flotte de Volantis. Après quoi il cessa de regarder vers l'est.\n\nPourquoi l'Ouest ? La chronique ne donne pas de réponse ferme. Elle rapporte qu'Aegon avait visité avec Visenya la Citadelle de Villevieille et la Treille, peut-être aussi les terres des Lannister, et qu'il avait fait tailler à Peyredragon une grande table à la forme de Westeros, sur laquelle aucune frontière n'était peinte. Ces indices disent un intérêt ancien ; ils ne prouvent pas un dessein. Toute explication qui prête au Conquérant un plan arrêté de longue date est écrite après coup, par des gens qui connaissaient l'issue.",
+            "en": "When Aegon put to sea, his family had lived on Dragonstone, the westernmost outpost of Valyria, for more than a century. Aenar Targaryen had withdrawn there twelve years before the Doom; the catastrophe that destroyed the Freehold turned a retreat into a survival. Through the long wars that followed in the east, the Targaryens kept apart, rich in dragons and in their ties to the Velaryons and the Celtigars, but without a kingdom.\n\nAegon was born on the island in 27 BC, the son of Aerion Targaryen and Valaena Velaryon. He is known to have intervened once in the affairs of Essos, at the request of Pentos and Tyrosh, burning a Volantene fleet off Lys. After that he stopped looking east.\n\nWhy the west? The chronicle gives no firm answer. It reports that Aegon had visited the Citadel of Oldtown and the Arbor with Visenya, perhaps the lands of the Lannisters as well, and that he had a great table cut at Dragonstone in the shape of Westeros, with no borders painted on it. These clues point to a long interest; they do not prove a design. Any explanation that credits the Conqueror with a plan fixed long in advance is written with hindsight, by people who already knew how it ended."
+          },
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" },
+            { "id": "asos", "locator": "Davos IV (ch. 36)" }
+          ]
+        },
+        {
+          "id": "p3-trois-cavaliers",
+          "heading": {
+            "fr": "Trois cavaliers, trois dragons",
+            "en": "Three Riders, Three Dragons"
+          },
+          "body": {
+            "fr": "La Conquête n'est pas l'œuvre d'un homme seul. Aegon avait épousé ses deux sœurs, ce qui, même chez les seigneurs dragons, sortait de l'usage sans être sans exemple. Une tradition veut qu'il ait pris Visenya par devoir et Rhaenys par inclination ; la formule est trop commode pour être tenue pour sûre, mais elle dit comment la cour se représentait le ménage.\n\nVisenya, l'aînée, s'était formée aux armes dès l'enfance et partait au combat avec Sœur Noire, son épée d'acier valyrien ; la tradition lui prête un caractère austère, peu enclin à l'indulgence. Rhaenys, la cadette, aimait la musique et la poésie, et plus encore le vol. Aegon portait Feunoyr. Chacun montait son dragon : Balerion, le plus grand, seul survivant des dragons amenés de Valyria ; Vhagar et Meraxès, nées à Peyredragon et bien plus jeunes.\n\nLe point décisif est l'usage que la famille fit de ce nombre. Trois dragons permettaient de mener trois campagnes à la fois, et chacune des deux reines commanda un front, ce que peu de cours de Westeros auraient confié à une femme. Avant d'envoyer ses corbeaux, Aegon tint conseil avec ses vassaux et ses sœurs. À leurs côtés se tenait Orys Baratheon, ami du roi, que la rumeur disait son demi-frère bâtard ; rien ne l'établit, rien ne l'exclut.",
+            "en": "The Conquest was not the work of one man. Aegon had married both his sisters, which, even among the dragonlords, departed from custom without being unheard of. A tradition holds that he took Visenya out of duty and Rhaenys out of desire; the phrase is too convenient to be trusted, but it shows how the court pictured the household.\n\nVisenya, the elder, had been schooled in arms from childhood and went to war carrying Dark Sister, her Valyrian steel blade; tradition credits her with a hard temper, little given to indulgence. Rhaenys, the younger, cared for music and verse, and for flying more than either. Aegon bore Blackfyre. Each rode a dragon: Balerion, the largest, the last survivor of the dragons brought out of Valyria; Vhagar and Meraxes, hatched on Dragonstone and far younger.\n\nWhat mattered was the use the family made of that number. Three dragons allowed three campaigns at once, and each of the two queens commanded a front, something few courts in Westeros would have entrusted to a woman. Before sending out his ravens, Aegon took counsel with his bannermen and his sisters. Beside them stood Orys Baratheon, the king's friend, rumoured to be his bastard half-brother; nothing proves it, and nothing rules it out."
+          },
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon I" }
+          ]
+        },
+        {
+          "id": "p3-sept-royaumes",
+          "heading": {
+            "fr": "Sept royaumes et aucune paix",
+            "en": "Seven Kingdoms and No Peace"
+          },
+          "body": {
+            "fr": "À la veille du débarquement, Westeros compte sept souverains. Torrhen Stark règne sur le Nord ; au Val, la régente Sharra Arryn gouverne pour son fils Ronnel, encore enfant ; Loren Lannister tient le Roc, Mern IX Jardinier le Bief, le vieil Argilac Durrandon les terres de l'Orage, et Meria Martell, aveugle et octogénaire, Dorne. Le plus redouté est Harren le Noir, roi des Îles et des Rivières : les Fer-nés tiennent le Conflans par la force, et Harren achève alors au bord de l'Œildieu le plus grand château jamais bâti.\n\nCette carte n'a rien d'un équilibre. Chaque royaume craint son voisin plus qu'un envahisseur venu de la mer. C'est la peur de Harren qui pousse Argilac à offrir à Aegon la main de sa fille Argella, avec en dot des terres qui appartiennent en fait aux Hoare. Aegon refuse et propose Orys à sa place ; Argilac fait couper les mains de l'envoyé. L'affront fournit un motif commode, mais il n'explique pas à lui seul une entreprise de cette ampleur.\n\nAegon répond par une proclamation adressée à tous : il n'y aura plus qu'un roi. Meria Martell et Sharra Arryn lui proposent une alliance contre leurs ennemis du moment ; il la refuse, parce qu'il exige une soumission. Ce premier refus annonce la règle de toute la campagne : qui plie garde ses terres, qui résiste perd tout.",
+            "en": "On the eve of the landing, Westeros had seven rulers. Torrhen Stark reigned in the North; in the Vale, the regent Sharra Arryn governed for her young son Ronnel; Loren Lannister held the Rock, Mern IX Gardener the Reach, the ageing Argilac Durrandon the stormlands, and Meria Martell, blind and past eighty, Dorne. The most feared was Harren the Black, King of the Isles and the Rivers: the ironborn held the riverlands by force, and Harren was then finishing, on the shore of the Gods Eye, the largest castle ever raised.\n\nThis map was no balance of power. Each kingdom feared its neighbour more than any invader from the sea. It was fear of Harren that led Argilac to offer Aegon the hand of his daughter Argella, with a dowry of lands that in truth belonged to the Hoares. Aegon declined and proposed Orys in his place; Argilac had the envoy's hands cut off. The insult supplied a convenient pretext, but it cannot by itself explain an undertaking on this scale.\n\nAegon answered with a proclamation sent to all: there would henceforth be one king. Meria Martell and Sharra Arryn offered him alliance against their enemies of the moment; he refused, because what he required was submission. That first refusal set the rule for the whole campaign: those who bent the knee kept their lands, those who resisted lost everything."
+          },
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" }
+          ]
+        },
+        {
+          "id": "p3-debarquement-et-harrenhal",
+          "heading": {
+            "fr": "Le débarquement et la chute de Harrenhal",
+            "en": "The Landing and the Fall of Harrenhal"
+          },
+          "body": {
+            "fr": "Aegon prend terre à l'embouchure de la Néra avec quelque mille six cents hommes et élève un fort de bois sur la plus haute des trois collines. Rosby se rend à Rhaenys, Stokeworth à Visenya ; les seigneurs de Sombreval et de Viergétang, venus avec leurs levées pour le rejeter à la mer, sont tués. Visenya pose alors sur la tête de son frère une couronne d'acier valyrien, et Rhaenys le salue roi.\n\nLa campagne se divise aussitôt. La flotte, confiée à Daemon Velaryon, est battue devant Goëville par les Arryn, renforcés de navires braaviens ; l'amiral y meurt, et Visenya ne peut que brûler après coup les vaisseaux vainqueurs. Sur mer, sans dragon au-dessus d'elles, les forces d'Aegon restaient des forces ordinaires.\n\nContre Harren, Aegon gagne d'abord sans combattre : les seigneurs du Conflans, menés par Edmyn Tully, se soulèvent contre des maîtres fer-nés qu'ils subissaient depuis trois générations. Enfermé dans Harrenhal, Harren refuse de se rendre ; la nuit venue, Balerion embrase les tours, et le roi périt avec ses fils. Le lendemain, Edmyn Tully reçoit la suzeraineté du Trident. La chronique prête aux deux rois un dialogue devant les portes ; comme tout dialogue de chronique, c'est une reconstruction. La leçon, elle, fut comprise partout : la plus haute muraille du continent n'avait protégé personne.",
+            "en": "Aegon came ashore at the mouth of the Blackwater with some sixteen hundred men and raised a wooden fort on the highest of three hills. Rosby yielded to Rhaenys, Stokeworth to Visenya; the lords of Duskendale and Maidenpool, who marched with their levies to drive him back into the sea, were killed. Visenya then set a crown of Valyrian steel on her brother's head, and Rhaenys hailed him king.\n\nThe campaign divided at once. The fleet, under Daemon Velaryon, was beaten off Gulltown by the Arryns, reinforced by Braavosi ships; the admiral died there, and Visenya could only burn the victorious vessels afterwards. At sea, with no dragon overhead, Aegon's forces were ordinary forces.\n\nAgainst Harren, Aegon first won without fighting: the river lords, led by Edmyn Tully, rose against ironborn masters they had endured for three generations. Shut up in Harrenhal, Harren refused to yield; that night Balerion set the towers alight, and the king died with his sons. The next day Edmyn Tully was made overlord of the Trident. The chronicle gives the two kings an exchange before the gates; like every dialogue in a chronicle, it is a reconstruction. The lesson, however, was understood everywhere: the highest walls on the continent had protected no one."
+          },
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" },
+            { "id": "asos", "locator": "Davos V (ch. 54)" }
+          ]
+        },
+        {
+          "id": "p3-tempete-et-champ-de-feu",
+          "heading": {
+            "fr": "La Dernière Tempête et le Champ de Feu",
+            "en": "The Last Storm and the Field of Fire"
+          },
+          "body": {
+            "fr": "Pendant qu'Aegon marche sur Harrenhal, le gros de l'armée descend vers Accalmie sous Orys Baratheon, avec Rhaenys et Meraxès. Argilac, apprenant la fin de Harren, choisit la bataille rangée. Elle se livre en pleine tempête : les chevaliers de l'Orage percent le centre d'Orys, puis se heurtent au dragon. Argilac refuse de se rendre et meurt de la main d'Orys. Sa fille Argella se proclame reine dans Accalmie ; ce sont ses propres soldats qui la livrent. Orys l'épouse et reprend les armes et la devise des Durrandon : la maison Baratheon naît en se coulant dans la légitimité de ceux qu'elle remplace.\n\nÀ l'ouest, Mern IX et Loren Lannister unissent leurs armées : environ cinquante-cinq mille hommes, dont plus de cinq mille chevaliers, cinq fois les forces d'Aegon. Pour la seule fois de la guerre, les trois dragons combattent ensemble, et le feu court dans les herbes sèches. Plus de quatre mille hommes brûlent, les blessés se comptent par dizaines de milliers. Mern meurt avec sa parenté et la maison Jardinier s'éteint ; Loren s'enfuit, est pris le lendemain et plie le genou.\n\nHautjardin se rend sans combat, livré par son intendant Harlan Tyrell, qui en reçoit la garde et la suzeraineté du Bief. Le choix est révélateur : Aegon récompense celui qui ouvre les portes plutôt que le plus noble des survivants, et élève une maison qui lui doit tout. Quant aux chiffres de la bataille, ils ont la rondeur des récits de vainqueurs.",
+            "en": "While Aegon marched on Harrenhal, the bulk of the army went south towards Storm's End under Orys Baratheon, with Rhaenys and Meraxes. Argilac, hearing of Harren's end, chose a pitched battle. It was fought in a howling storm: the storm knights broke through Orys's centre, then ran into the dragon. Argilac refused to yield and died by Orys's hand. His daughter Argella declared herself queen in Storm's End; her own soldiers delivered her up. Orys married her and took the arms and words of the Durrandons: House Baratheon was born by slipping into the legitimacy of those it replaced.\n\nIn the west, Mern IX and Loren Lannister joined their hosts: some fifty-five thousand men, more than five thousand of them knights, five times Aegon's strength. For the only time in the war, all three dragons fought together, and fire ran through the dry grass. More than four thousand men burned, and the wounded numbered in the tens of thousands. Mern died with his kin and House Gardener ended; Loren fled, was taken the next day and bent the knee.\n\nHighgarden surrendered without a fight, handed over by its steward Harlan Tyrell, who was given the castle and lordship over the Reach. The choice is telling: Aegon rewarded the man who opened the gates rather than the noblest of the survivors, and raised up a house that owed him everything. As for the figures of the battle, they have the roundness of a victor's tale."
+          },
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" },
+            { "id": "twoiaf", "locator": "The Seven Kingdoms: The Stormlands, House Baratheon" }
+          ]
+        },
+        {
+          "id": "p3-royaumes-qui-plierent",
+          "heading": {
+            "fr": "Les royaumes qui plièrent",
+            "en": "The Kingdoms That Knelt"
+          },
+          "body": {
+            "fr": "Deux royaumes entrèrent dans l'obéissance d'Aegon sans bataille, et ce sont peut-être les épisodes les plus instructifs de la Conquête.\n\nTorrhen Stark descend jusqu'au Trident avec trente mille hommes et trouve sur l'autre rive une armée une fois et demie plus nombreuse, grossie des vaincus du Champ de Feu, et les trois dragons. Ses bannerets se divisent : certains veulent attaquer, d'autres se retrancher à Moat Cailin. Son frère bâtard, Brandon Snow, offre de passer la rivière de nuit pour tuer les dragons dans leur sommeil. Torrhen préfère l'envoyer négocier avec des mestres, puis franchit le Trident et dépose sa couronne. Le Nord entre dans le royaume intact, ses seigneurs à leur place ; Torrhen y gagne le surnom de roi qui s'agenouilla, qu'on peut entendre comme une moquerie ou comme un éloge.\n\nAu Val, Sharra Arryn renforce Goëville, poste une armée à la Porte Sanglante et triple les garnisons des relais qui montent aux Eyrié. Rien de cela ne sert : Visenya pose Vhagar dans la cour intérieure du château. La régente y trouve le jeune roi Ronnel auprès de la reine, demandant à voler ; il fait trois fois le tour de la Lance du Géant et redescend seigneur des Eyrié. Dans les deux cas, une défense pensée contre des armées d'hommes s'était révélée sans objet. Plier n'était pas une lâcheté, mais un calcul que les années suivantes ont plutôt justifié.",
+            "en": "Two kingdoms passed under Aegon's rule without a battle, and these may be the most instructive episodes of the Conquest.\n\nTorrhen Stark marched down to the Trident with thirty thousand men and found on the far bank a host half again as large, swollen with the defeated of the Field of Fire, and all three dragons. His bannermen were divided: some wished to attack, others to fall back on Moat Cailin. His bastard brother, Brandon Snow, offered to cross the river by night and kill the dragons as they slept. Torrhen chose instead to send him to treat, with maesters, then crossed the Trident and laid down his crown. The North entered the realm whole, its lords in their places; Torrhen earned the name of the King Who Knelt, which can be heard as mockery or as praise.\n\nIn the Vale, Sharra Arryn strengthened Gulltown, posted an army at the Bloody Gate and tripled the garrisons of the waycastles that climb to the Eyrie. None of it served: Visenya landed Vhagar in the castle's inner yard. The regent found the boy king Ronnel beside the queen, asking to fly; he circled the Giant's Lance three times and came down Lord of the Eyrie. In both cases, defences designed against armies of men had proved beside the point. To kneel was not cowardice but a calculation that the following years tended to vindicate."
+          },
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" },
+            { "id": "twoiaf", "locator": "The Seven Kingdoms: The Vale, House Arryn" }
+          ]
+        },
+        {
+          "id": "p3-villevieille",
+          "heading": {
+            "fr": "Villevieille et l'onction de la Foi",
+            "en": "Oldtown and the Anointing"
+          },
+          "body": {
+            "fr": "Villevieille n'a pas combattu au Champ de Feu, et cette absence est une décision. À la nouvelle du débarquement, rapporte la chronique, le Grand Septon s'enferma sept jours et sept nuits dans le Septuaire étoilé ; l'Aïeule lui aurait montré la ville en flammes si elle résistait. Manfred Hightower en tira la conclusion : la cité ouvrit ses portes, et son seigneur sortit au-devant d'Aegon.\n\nOn peut lire cette vision comme un signe, ou comme la forme qu'une cité marchande et son clergé donnèrent à un choix raisonnable. Les deux lectures ne s'excluent pas, et la chronique ne tranche pas. La portée politique du geste, elle, est certaine. Trois jours plus tard, le Grand Septon oint Aegon des sept huiles et le couronne roi des Andals, des Rhoynars et des Premiers Hommes. Un conquérant issu de Valyria recevait la sanction de la religion de la plupart de ses nouveaux sujets. La chronique note d'ailleurs que les trois enfants d'Aerion avaient prié au septuaire de Peyredragon la veille du départ.\n\nC'est ce jour, et non le débarquement, qu'Aegon choisit pour point de départ de son règne, et les mestres comptent les années à partir de lui. Le choix n'est pas neutre : il fait commencer l'ère nouvelle par une bénédiction plutôt que par une invasion. Il a sa contrepartie. Une dynastie qui épouse ses sœurs devait tôt ou tard se heurter à la loi de la Foi qu'elle venait de prendre pour garante.",
+            "en": "Oldtown did not fight on the Field of Fire, and its absence was a decision. On hearing of the landing, the chronicle says, the High Septon shut himself in the Starry Sept for seven days and seven nights; the Crone is said to have shown him the city in flames should it resist. Manfred Hightower drew the conclusion: the city opened its gates, and its lord rode out to meet Aegon.\n\nThe vision can be read as a sign, or as the shape a merchant city and its clergy gave to a reasonable choice. The two readings do not exclude each other, and the chronicle does not choose. The political weight of the act is beyond doubt. Three days later the High Septon anointed Aegon with the seven oils and crowned him King of the Andals, the Rhoynar and the First Men. A conqueror out of Valyria received the sanction of the religion of most of his new subjects. The chronicle also notes that Aerion's three children had prayed in the sept at Dragonstone on the eve of their departure.\n\nIt was this day, and not the landing, that Aegon chose as the beginning of his reign, and the maesters count the years from it. The choice was not neutral: it opens the new era with a blessing rather than an invasion. It also had a price. A dynasty that married its sisters was bound, sooner or later, to collide with the law of the Faith it had just taken as its guarantor."
+          },
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon I" }
+          ]
+        },
+        {
+          "id": "p3-dorne",
+          "heading": {
+            "fr": "Dorne, le royaume qui refusa",
+            "en": "Dorne, the Kingdom That Refused"
+          },
+          "body": {
+            "fr": "Dorne fut le seul royaume que la Conquête n'atteignit pas, et la manière de ce refus importe autant que le refus lui-même. Rhaenys évita les lanciers qui gardaient la passe des montagnes Rouges et la franchit par les airs. Elle trouva les châteaux vides, puis, dans un port de la côte, seulement des femmes et des enfants. À Lancehélion l'attendait la princesse Meria Martell, aveugle, âgée d'environ quatre-vingts ans, qui refusa à la fois de combattre et de s'agenouiller.\n\nLes Dorniens avaient compris ce que le Champ de Feu enseignait : un dragon détruit une armée rassemblée, il ne soumet pas un pays qui refuse de se rassembler. La chronique prête aux deux femmes des paroles que l'on cite volontiers ; il faut y voir la mise en forme d'une rencontre, non sa transcription.\n\nLa conséquence se lit sur toute la période suivante. Aegon a réuni six royaumes mais en revendique sept ; au sud des montagnes Rouges, Dorne reste une principauté indépendante. Le roi tente d'abord la négociation, puis la guerre. Ce qui commence avec un vol au-dessus de châteaux déserts finit, en 10 apr. C., par la mort de Rhaenys elle-même à Denfert, et Dorne n'entrera dans le royaume que par un mariage, près de deux siècles plus tard. Le Conquérant n'a donc jamais conquis tout ce que désigne son titre de suzerain des Sept Couronnes.",
+            "en": "Dorne was the one kingdom the Conquest did not reach, and the manner of its refusal matters as much as the refusal itself. Rhaenys avoided the spearmen guarding the pass through the Red Mountains and crossed it by air. She found the castles empty, then, in a coastal town, only women and children. At Sunspear the old princess Meria Martell waited for her, blind and some eighty years of age, and refused both to fight and to kneel.\n\nThe Dornish had grasped what the Field of Fire taught: a dragon destroys an army that gathers, but it cannot subdue a country that refuses to gather. The chronicle gives the two women words that are often quoted; they should be read as the shaping of an encounter, not as its transcript.\n\nThe consequence runs through the whole of the following period. Aegon had united six kingdoms yet claimed seven; south of the Red Mountains, Dorne remained an independent principality. The king tried negotiation first, then war. What began with a flight over deserted castles ended, in 10 AC, with the death of Rhaenys herself at Hellholt, and Dorne would join the realm only through a marriage, nearly two centuries later. The Conqueror never conquered all that his title of Lord of the Seven Kingdoms claimed."
+          },
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "twoiaf", "locator": "The Reign of the Dragons: The Conquest" },
+            { "id": "twoiaf", "locator": "The Seven Kingdoms: Dorne, Dorne Against the Dragons" }
+          ]
+        },
+        {
+          "id": "p3-trone-et-gouvernement",
+          "heading": {
+            "fr": "Un trône d'épées, un royaume à gouverner",
+            "en": "A Throne of Swords, a Realm to Govern"
+          },
+          "body": {
+            "fr": "Victorieux, Aegon fait fondre et marteler les épées des vaincus, chauffées au souffle de Balerion, pour en faire un siège hérissé de lames. Les chansons parlent de mille lames, et la tradition de cinquante-neuf jours de martelage ; aucun de ces chiffres ne se vérifie. Le roi le voulait, dit-on, inconfortable. Le trône reste au fort de bois de la Néra, et non à Peyredragon ni à Villevieille : Aegon gouvernera depuis le lieu de son débarquement, où une ville commence à pousser.\n\nGouverner fut une autre affaire que vaincre. Aegon laissa en place les seigneurs qui avaient plié et confirma à chaque région ses lois et ses coutumes, y compris le droit de haute justice et le droit de cuissage. Il n'imposa d'abord qu'une règle commune, la paix du roi, qui interdisait toute guerre privée sans l'aveu du trône. Il réunit un conseil restreint et fit d'Orys Baratheon sa première Main. Il passait la moitié de chaque année à parcourir le royaume avec sa cour, entouré de mestres chargés de l'instruire des usages de chaque région.\n\nEn 2 apr. C., il mena une expédition contre les îles de Fer, livrées aux querelles depuis la mort de Harren, puis en régla le sort : il refusa de les soumettre aux Tully ou aux Lannister, ou de les brûler, et laissa les Fer-nés choisir leur seigneur, Vickon Greyjoy. Conquérir par le feu, puis gouverner avec le consentement des puissants : cette méthode définit le règne. Elle avait une faiblesse, que les fils d'Aegon allaient découvrir : tout reposait sur la personne du roi et sur ses dragons.",
+            "en": "Victorious, Aegon had the swords of the vanquished melted and hammered, softened by Balerion's breath, into a seat bristling with blades. The songs speak of a thousand blades, and tradition of fifty-nine days of hammering; neither figure can be checked. The king, it is said, wanted it uncomfortable. The throne stayed at the wooden fort on the Blackwater, not at Dragonstone or Oldtown: Aegon would rule from the place where he had landed, where a city was beginning to grow.\n\nGoverning was a different matter from winning. Aegon left in place the lords who had knelt and confirmed each region in its own laws and customs, including the right of pit and gallows and the lord's right to the first night. At first he imposed a single common rule, the King's Peace, which forbade private war without the throne's leave. He gathered a small council and made Orys Baratheon his first Hand. He spent half of every year travelling the realm with his court, attended by maesters whose task was to teach him the customs of each region.\n\nIn 2 AC he led an expedition against the Iron Islands, torn by feuds since Harren's death, and then settled their fate: he refused to place them under the Tullys or the Lannisters, or to burn them, and let the ironborn choose their own lord, Vickon Greyjoy. To conquer by fire, then govern with the consent of the powerful: that method defines the reign. It had a weakness that Aegon's sons would discover: everything rested on the person of the king and on his dragons."
+          },
+          "sources": [
+            { "id": "fab", "locator": "Aegon's Conquest" },
+            { "id": "fab", "locator": "Three Heads Had the Dragon: Governance Under King Aegon I" },
+            { "id": "twoiaf", "locator": "The Targaryen Kings: Aegon I" },
+            { "id": "twoiaf", "locator": "The Seven Kingdoms: The Iron Islands, The Greyjoys of Pyke" }
+          ]
+        }
+      ]
+    }
+  ]
+}
