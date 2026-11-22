@@ -58,8 +58,8 @@
       },
       "status": "atteste",
       "context": {
-        "fr": "Le mot vient de Martin : dans le troisième volume du Trône de fer, Daenerys choisit dracarys, « feu de dragon » en haut valyrien, comme un ordre que personne ne risque de prononcer par hasard. Peterson l'écrit avec un k et en fait un nom ordinaire, le feu que crache un dragon, distinct de perzys, « feu » ; il tient pour fortuite sa ressemblance avec le latin draco, puisque le latin n'existe pas dans ce monde, et le dragon se dit chez lui zaldrīzes. À l'écran : Daenerys à Astapor (Game of Thrones, saison 3, épisode 4), Missandei (saison 8, épisode 4) ; Rhaenyra à Syrax (House of the Dragon, saison 1, épisode 1), Lucerys et Laena (saison 1, épisode 6), Aegon II et Aemond (saison 2, épisode 4).",
-        "en": "The word comes from Martin: in A Storm of Swords, Daenerys chooses dracarys, “dragonfire” in High Valyrian, as a command nobody is likely to say by chance. Peterson spells it with a k and makes it an ordinary noun, the fire a dragon breathes, distinct from perzys, “fire”; he treats its likeness to Latin draco as coincidence, since Latin does not exist in that world, and his word for dragon is zaldrīzes. On screen: Daenerys at Astapor (Game of Thrones, season 3, episode 4), Missandei (season 8, episode 4); Rhaenyra to Syrax (House of the Dragon, season 1, episode 1), Lucerys and Laena (season 1, episode 6), Aegon II and Aemond (season 2, episode 4)."
+        "fr": "Le mot vient de Martin : dans le troisième livre du cycle, Daenerys apprend à ses dragons à cracher le feu sur l'ordre dracarys, « feu de dragon » en haut valyrien. Peterson l'écrit avec un k et en fait un nom ordinaire, le feu que crache un dragon, distinct de perzys, « feu » ; il tient pour fortuite sa ressemblance avec le latin draco, puisque le latin n'existe pas dans ce monde, et le dragon se dit chez lui zaldrīzes. À l'écran : Daenerys à Astapor (Game of Thrones, saison 3, épisode 4), Missandei (saison 8, épisode 4) ; Rhaenyra à Syrax (House of the Dragon, saison 1, épisode 1), Lucerys et Laena (saison 1, épisode 6), Aegon II et Aemond (saison 2, épisode 4).",
+        "en": "The word comes from Martin: in A Storm of Swords, Daenerys teaches her dragons to breathe fire at the command dracarys, “dragonfire” in High Valyrian. Peterson spells it with a k and makes it an ordinary noun, the fire a dragon breathes, distinct from perzys, “fire”; he treats its likeness to Latin draco as coincidence, since Latin does not exist in that world, and his word for dragon is zaldrīzes. On screen: Daenerys at Astapor (Game of Thrones, season 3, episode 4), Missandei (season 8, episode 4); Rhaenyra to Syrax (House of the Dragon, season 1, episode 1), Lucerys and Laena (season 1, episode 6), Aegon II and Aemond (season 2, episode 4)."
       },
       "refs": [
         "https://wiki.languageinvention.com/index.php?title=Drakarys",
@@ -79,8 +79,8 @@
       },
       "status": "atteste",
       "context": {
-        "fr": "Rhaenyra à son oncle Daemon (House of the Dragon, saison 1, épisode 1). Le mot valonqar vient de Martin : dans le quatrième volume du Trône de fer, Cersei apprend qu'il signifie « petit frère » en haut valyrien, au sujet d'une prophétie qui la poursuit. Chez Peterson, c'est un nom aquatique de la première déclinaison, « frère cadet ».",
-        "en": "Rhaenyra to her uncle Daemon (House of the Dragon, season 1, episode 1). The word valonqar comes from Martin: in A Feast for Crows, Cersei learns that it means “little brother” in High Valyrian, in connection with a prophecy that haunts her. In Peterson's language it is an aquatic noun of the first declension, “younger brother”."
+        "fr": "Rhaenyra à son oncle Daemon (House of the Dragon, saison 1, épisode 1). Le mot valonqar vient de Martin : dans le quatrième livre du cycle, ce mot, tiré d'une prophétie qui poursuit Cersei, est glosé « petit frère » en haut valyrien. Chez Peterson, c'est un nom aquatique de la première déclinaison, « frère cadet ».",
+        "en": "Rhaenyra to her uncle Daemon (House of the Dragon, season 1, episode 1). The word valonqar comes from Martin: in A Feast for Crows, the word, taken from a prophecy that haunts Cersei, is glossed as “little brother” in High Valyrian. In Peterson's language it is an aquatic noun of the first declension, “younger brother”."
       },
       "refs": [
         "https://wiki.languageinvention.com/index.php?title=Valonqar",
@@ -590,11 +590,11 @@
     {
       "id": "olvi-vokti-rulloro-qelbria",
       "hv": "Olvī voktī Rulloro Qelbriā ūndessun daor.",
-      "fr": "Je ne vois guère de prêtres de R’hllor dans le Conflans.",
-      "en": "I do not see many priests of R’hllor in the Riverlands.",
+      "fr": "Je ne vois guère de prêtresses de R’hllor dans le Conflans.",
+      "en": "I do not see many priestesses of R’hllor in the Riverlands.",
       "literal": {
-        "fr": "olvī : beaucoup de ; voktī : prêtres (accusatif pluriel de voktys) ; Rulloro : de R’hllor (génitif) ; Qelbriā : dans le Conflans (locatif) ; ūndessun : je vois (subjonctif aoriste de ūndegon) ; daor : ne pas",
-        "en": "olvī: many; voktī: priests (accusative plural of voktys); Rulloro: of R’hllor (genitive); Qelbriā: in the Riverlands (locative); ūndessun: I see (aorist subjunctive of ūndegon); daor: not"
+        "fr": "olvī : beaucoup de ; voktī : prêtresses (accusatif pluriel de voktys, qui désigne un prêtre comme une prêtresse) ; Rulloro : de R’hllor (génitif) ; Qelbriā : dans le Conflans (locatif) ; ūndessun : je vois (subjonctif aoriste de ūndegon) ; daor : ne pas",
+        "en": "olvī: many; voktī: priestesses (accusative plural of voktys, used of a priest or a priestess); Rulloro: of R’hllor (genitive); Qelbriā: in the Riverlands (locative); ūndessun: I see (aorist subjunctive of ūndegon); daor: not"
       },
       "status": "atteste",
       "context": {
@@ -654,8 +654,8 @@
       "fr": "Des ténèbres, la lumière. Des cendres, le feu. De la mort, la vie.",
       "en": "From darkness, light. From ashes, fire. From death, life.",
       "literal": {
-        "fr": "hen sȳndrorro : hors de l’ombre (locatif collectif de sȳndor) ; ōños : lumière ; hen ñuqīr : hors de la cendre (locatif de ñuqir) ; perzys : feu ; hen morghot : hors de la mort (locatif de morghon) ; glaeson : vie",
-        "en": "hen sȳndrorro: out of shadow (locative collective of sȳndor); ōños: light; hen ñuqīr: out of ash (locative of ñuqir); perzys: fire; hen morghot: out of death (locative of morghon); glaeson: life"
+        "fr": "hen sȳndrorro : de l’ombre (locatif collectif de sȳndor) ; ōños : lumière ; hen ñuqīr : de la cendre (locatif de ñuqir) ; perzys : feu ; hen morghot : de la mort (locatif de morghon) ; glaeson : vie",
+        "en": "hen sȳndrorro: from shadow (locative collective of sȳndor); ōños: light; hen ñuqīr: from ash (locative of ñuqir); perzys: fire; hen morghot: from death (locative of morghon); glaeson: life"
       },
       "status": "atteste",
       "context": {
@@ -875,8 +875,8 @@
       },
       "status": "atteste",
       "context": {
-        "fr": "Ordre d'un gardien de dragons à Syrax (House of the Dragon, saison 1, épisode 1). C'est l'ordre le plus fréquent dans la série : Aemond à Vhagar, Dohaerās, Vagus (saison 1, épisode 7), Rhaenyra à Vermithor (saison 2, épisode 7).",
-        "en": "A dragonkeeper's order to Syrax (House of the Dragon, season 1, episode 1). It is the most frequent command in the series: Aemond to Vhagar, Dohaerās, Vagus (season 1, episode 7), Rhaenyra to Vermithor (season 2, episode 7)."
+        "fr": "Ordre d'un gardien de dragons à Syrax (House of the Dragon, saison 1, épisode 1). C'est l'un des ordres les plus fréquents de la série : Aemond à Vhagar, Dohaerās, Vagus (saison 1, épisode 7), Rhaenyra à Vermithor (saison 2, épisode 7).",
+        "en": "A dragonkeeper's order to Syrax (House of the Dragon, season 1, episode 1). It is one of the most frequent commands in the series: Aemond to Vhagar, Dohaerās, Vagus (season 1, episode 7), Rhaenyra to Vermithor (season 2, episode 7)."
       },
       "refs": [
         "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_101",
@@ -895,8 +895,8 @@
       },
       "status": "atteste",
       "context": {
-        "fr": "Les gardiens de dragons (House of the Dragon, saison 1, épisode 1), puis Aemond, Rhaenyra, Daemon et d'autres cavaliers. Ce n'est pas un impératif mais un adverbe.",
-        "en": "The dragonkeepers (House of the Dragon, season 1, episode 1), then Aemond, Rhaenyra, Daemon and other riders. It is not an imperative but an adverb."
+        "fr": "Les gardiens de dragons (House of the Dragon, saison 1, épisode 1), puis Aemond, Lucerys, Rhaenyra et d'autres cavaliers. Ce n'est pas un impératif mais un adverbe.",
+        "en": "The dragonkeepers (House of the Dragon, season 1, episode 1), then Aemond, Lucerys, Rhaenyra and other riders. It is not an imperative but an adverb."
       },
       "refs": [
         "https://wiki.languageinvention.com/index.php?title=Season_1_House_of_the_Dragon_Dialogue#Episode_101",
@@ -1170,8 +1170,8 @@
       "fr": "Au revoir.",
       "en": "Goodbye.",
       "literal": {
-        "fr": "geros : chemin ; ilas : sois droit (forme de ilagon, pris dans son sens ancien « être droit »)",
-        "en": "geros: path; ilas: lie straight (a form of ilagon, in its old sense “to lie straight”)"
+        "fr": "geros : chemin ; ilas : forme impérative de ilagon, « être étendu, se trouver » ; ensemble : « chemin, étends-toi droit »",
+        "en": "geros: path; ilas: imperative form of ilagon, “to lie, to be located”; together: “path, lie straight”"
       },
       "status": "atteste",
       "context": {

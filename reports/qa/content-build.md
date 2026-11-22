@@ -18,7 +18,7 @@ Rapport écrit par `node scripts/build-content.mjs`. Ne pas le modifier à la ma
 | Filiations | 132 |
 | Souverains | 18 |
 | Successions | 20 |
-| Biographies | 39 |
+| Biographies | 48 |
 | Dragons | 28 |
 | Guerres | 12 |
 | Batailles | 51 |

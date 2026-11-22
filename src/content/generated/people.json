@@ -1580,7 +1580,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "aegon-ii",
@@ -1610,7 +1610,7 @@
         "trotd",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "helaena",
@@ -1631,7 +1631,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "aemond",
@@ -1656,7 +1656,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "daeron-fils-viserys-i",
@@ -1681,7 +1681,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "harwin-strong",
@@ -1979,7 +1979,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "jaehaera",
@@ -2000,7 +2000,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "maelor",
@@ -2021,7 +2021,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "alys-rivers",
@@ -2142,7 +2142,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "daeron-i",

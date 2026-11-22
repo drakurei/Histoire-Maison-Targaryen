@@ -31,8 +31,8 @@
         {
           "kind": "p",
           "text": {
-            "fr": "S'y ajoutent quatre diphtongues descendantes, ae, āe, ao et āo, et des diphtongues montantes qui commencent par i ou u (ia, io, ue…). Le mot daor, « ne pas », devrait former une seule syllabe ; on l'entend pourtant presque toujours en deux, parce que Peterson le prononce ainsi.",
-            "en": "There are also four falling diphthongs, ae, āe, ao and āo, and rising diphthongs that begin with i or u (ia, io, ue…). The word daor, “not”, should form a single syllable; it is nevertheless almost always heard as two, because that is how Peterson says it."
+            "fr": "S'y ajoutent quatre diphtongues descendantes, ae, āe, ao et āo, et des diphtongues montantes qui commencent par i ou u (ia, io, ue…). Le mot daor, « ne pas », pourrait former une seule syllabe ; on l'entend pourtant le plus souvent en deux, l'accent sur la seconde, trace d'un ancien radical verbal accentué sur sa fin. C'est le seul cas connu où deux voyelles capables de former une diphtongue restent séparées.",
+            "en": "There are also four falling diphthongs, ae, āe, ao and āo, and rising diphthongs that begin with i or u (ia, io, ue…). The word daor, “not”, could form a single syllable; it is nevertheless usually heard as two, stressed on the second, a trace of an old verb stem stressed on its end. It is the only known case in which two vowels able to form a diphthong stay apart."
           }
         },
         {
@@ -176,15 +176,15 @@
         {
           "kind": "p",
           "text": {
-            "fr": "Peterson écrit k et ks là où Martin écrit c et x : drakarys pour dracarys, Syraks pour Syrax, Karaksys pour Caraxès, Arraks pour Arrax. Le Vhagar des livres devient chez lui Vagar, et l'on entend dans House of the Dragon son vocatif, Vagus. Le site garde la graphie des livres quand il raconte l'histoire et celle de Peterson quand il cite la langue.",
-            "en": "Peterson writes k and ks where Martin writes c and x: drakarys for dracarys, Syraks for Syrax, Karaksys for Caraxes, Arraks for Arrax. The Vhagar of the books becomes Vagar, and House of the Dragon lets us hear its vocative, Vagus. The site keeps the books’ spelling when it tells the history and Peterson’s when it quotes the language."
+            "fr": "Peterson écrit k et ks là où Martin écrit c et x : drakarys pour dracarys, Syraks pour Syrax, Karakses pour Caraxès (Karaksys au vocatif), Arraks pour Arrax. Le Vhagar des livres devient chez lui Vagar, et l'on entend dans House of the Dragon son vocatif, Vagus. Le site garde la graphie des livres quand il raconte l'histoire et celle de Peterson quand il cite la langue.",
+            "en": "Peterson writes k and ks where Martin writes c and x: drakarys for dracarys, Syraks for Syrax, Karakses for Caraxes (Karaksys in the vocative), Arraks for Arrax. The Vhagar of the books becomes Vagar, and House of the Dragon lets us hear its vocative, Vagus. The site keeps the books’ spelling when it tells the history and Peterson’s when it quotes the language."
           }
         },
         {
           "kind": "p",
           "text": {
-            "fr": "Aucun système d'écriture valyrien complet n'a été publié. Les livres parlent de glyphes, sur des rouleaux ou gravés sur un cor de dragon, sans jamais en reproduire un seul. Pour House of the Dragon, Peterson a conçu une écriture mixte, à la fois idéographique, alphabétique et grammaticale ; elle relève de l'adaptation, et il la tient pour inachevée tant que la série se poursuit. Ce site n'en reproduit aucun glyphe et n'en invente aucun : tout le valyrien y est donné dans la romanisation latine de Peterson.",
-            "en": "No complete Valyrian writing system has been published. The books speak of glyphs, on scrolls or carved on a dragon horn, without ever reproducing one. For House of the Dragon, Peterson designed a mixed script, at once ideographic, alphabetic and grammatical; it belongs to the adaptation, and he regards it as unfinished while the series continues. This site reproduces none of its glyphs and invents none: all Valyrian here is given in Peterson’s Latin romanization."
+            "fr": "Aucun système d'écriture valyrien complet n'a été publié. Les livres parlent de glyphes, sur des rouleaux ou gravés sur un cor de dragon, sans jamais en reproduire un seul. Pour House of the Dragon, Peterson a conçu une écriture mixte, à la fois logographique, alphabétique et grammaticale ; elle relève de l'adaptation, et il la tient pour inachevée tant que la série se poursuit. Ce site n'en reproduit aucun glyphe et n'en invente aucun : tout le valyrien y est donné dans la romanisation latine de Peterson.",
+            "en": "No complete Valyrian writing system has been published. The books speak of glyphs, on scrolls or carved on a dragon horn, without ever reproducing one. For House of the Dragon, Peterson designed a mixed script, at once logographic, alphabetic and grammatical; it belongs to the adaptation, and he regards it as unfinished while the series continues. This site reproduces none of its glyphs and invents none: all Valyrian here is given in Peterson’s Latin romanization."
           }
         }
       ],
@@ -645,8 +645,8 @@
         {
           "kind": "p",
           "text": {
-            "fr": "La langue n'a que trois prépositions : hae, « comme », avec le locatif ; hen, « de, depuis », avec le locatif, ou « hors de », avec le datif ; va, « vers, auprès de », avec le locatif, ou « jusqu'à, dans », avec le datif. Toutes les postpositions connues régissent le génitif : syt, « pour » ; naejot, « devant » ; bē, « sur, au sujet de » ; toliot, « après, au-dessus de ».",
-            "en": "The language has only three prepositions: hae, “as, like”, with the locative; hen, “from, since”, with the locative, or “out of”, with the dative; va, “towards, near”, with the locative, or “up to, into”, with the dative. Every known postposition governs the genitive: syt, “for”; naejot, “in front of”; bē, “on, about”; toliot, “after, over”."
+            "fr": "La langue n'a que trois prépositions : hae, « comme », avec le locatif ; hen, « de », avec le locatif, ou « hors de », avec le datif ; va, « vers, auprès de », avec le locatif, ou « jusqu'à, dans », avec le datif. Toutes les postpositions connues régissent le génitif : syt, « pour » ; naejot, « devant » ; bē, « sur, au sujet de » ; toliot, « après, au-dessus de ».",
+            "en": "The language has only three prepositions: hae, “as, like”, with the locative; hen, “from, of”, with the locative, or “out of”, with the dative; va, “towards, near”, with the locative, or “up to, into”, with the dative. Every known postposition governs the genitive: syt, “for”; naejot, “in front of”; bē, “on, about”; toliot, “after, over”."
           }
         },
         {
@@ -1123,8 +1123,8 @@
         {
           "kind": "p",
           "text": {
-            "fr": "Troisième déclinaison, voyelle o, type aquatique : lentor, « maison, lignée », le mot du titre de ce site. Le nominatif et l'accusatif se confondent au singulier et au pluriel, de même que le datif et le locatif singuliers, l'instrumental et le comitatif singuliers. C'est pourquoi la formule hen Targārio Lentrot, « de la Maison Targaryen », emploie la forme lentrot.",
-            "en": "Third declension, vowel o, aquatic type: lentor, “house, lineage”, the word in this site’s title. Nominative and accusative coincide in singular and plural, as do dative and locative singular, and instrumental and comitative singular. That is why the formula hen Targārio Lentrot, “of House Targaryen”, uses the form lentrot."
+            "fr": "Troisième déclinaison, voyelle o, type aquatique : lentor, « maison, lignée », le mot du titre de ce site. Le nominatif et l'accusatif se confondent au singulier et au pluriel, de même que le datif et le locatif singuliers, et l'instrumental et le comitatif au singulier comme au pluriel. C'est pourquoi la formule hen Targārio Lentrot, « de la Maison Targaryen », emploie la forme lentrot.",
+            "en": "Third declension, vowel o, aquatic type: lentor, “house, lineage”, the word in this site’s title. Nominative and accusative coincide in singular and plural, as do dative and locative singular, and instrumental and comitative in both singular and plural. That is why the formula hen Targārio Lentrot, “of House Targaryen”, uses the form lentrot."
           }
         },
         {
@@ -1962,8 +1962,8 @@
         {
           "kind": "p",
           "text": {
-            "fr": "Le verbe s'accorde avec son sujet en personne et en nombre ; le collectif compte comme un singulier, le paucal comme un pluriel. La terminaison suffisant à dire qui agit, le pronom sujet est d'ordinaire omis : iksan, « je suis ». La forme du dictionnaire est l'infinitif, en -agon, plus rarement -egon, -igon ou -ugon ; il peut aussi servir de nom.",
-            "en": "The verb agrees with its subject in person and number; the collective counts as singular, the paucal as plural. Since the ending is enough to show who acts, the subject pronoun is usually left out: iksan, “I am”. The dictionary form is the infinitive, in -agon, more rarely -egon, -igon or -ugon; it can also serve as a noun."
+            "fr": "Le verbe s'accorde avec son sujet en personne et en nombre ; le collectif compte comme un singulier, le paucal comme un pluriel. La terminaison suffisant à dire qui agit, le pronom sujet est d'ordinaire omis : iksan, « je suis ». La forme du dictionnaire est l'infinitif, en -agon, plus rarement -egon, -igon, -ogon ou -ugon ; il peut aussi servir de nom.",
+            "en": "The verb agrees with its subject in person and number; the collective counts as singular, the paucal as plural. Since the ending is enough to show who acts, the subject pronoun is usually left out: iksan, “I am”. The dictionary form is the infinitive, in -agon, more rarely -egon, -igon, -ogon or -ugon; it can also serve as a noun."
           }
         },
         {
@@ -2191,8 +2191,8 @@
         {
           "kind": "p",
           "text": {
-            "fr": "Le sens. L'aoriste dit ce qui vaut toujours : mot à mot, la phrase signifie « tous les hommes meurent ». Aucun mot ne porte le « doivent » de la traduction reçue. Peterson a précisé que l'aoriste, joint au collectif d'un nom désignant des individus, prend une valeur d'obligation ; il a dit aussi avoir voulu, dès l'origine, un sens littéral distinct du sens courant.",
-            "en": "The meaning. The aorist states what always holds: word for word, the sentence means “all men die”. No word carries the “must” of the received translation. Peterson has stated that the aorist, combined with the collective of a noun denoting individuals, takes on the force of obligation; he has also said that he wanted, from the start, a literal sense distinct from the everyday one."
+            "fr": "Le sens. L'aoriste dit ce qui vaut toujours : mot à mot, la phrase signifie « tous les hommes meurent ». Aucun mot ne porte le « doivent » de la traduction reçue : Peterson dit avoir voulu, dès l'origine, un sens littéral distinct de celui que la phrase prend dans l'usage.",
+            "en": "The meaning. The aorist states what always holds: word for word, the sentence means “all men die”. No word carries the “must” of the received translation: Peterson says he wanted, from the start, a literal sense distinct from the one the phrase takes in use."
           }
         },
         {
@@ -2763,8 +2763,8 @@
         {
           "kind": "p",
           "text": {
-            "fr": "Un nombre adjectival s'accorde avec le nom compté : lanti vali, « deux hommes ». Après pyrys, qui est un nom, il passe au génitif pluriel : lantys pyryssy valoti, « deux mille hommes ». Le zéro se dit daorys, le même mot que « personne », suivi d'un génitif singulier.",
-            "en": "An adjectival numeral agrees with the counted noun: lanti vali, “two men”. After pyrys, which is a noun, it goes into the genitive plural: lantys pyryssy valoti, “two thousand men”. Zero is daorys, the same word as “no one”, followed by a genitive singular."
+            "fr": "Un nombre adjectival s'accorde avec le nom compté : lanti vali, « deux hommes ». Après pyrys, qui est un nom, c'est le nom compté qui passe au génitif pluriel : lantys pyryssy valoti, « deux mille hommes ». Le zéro se dit daorys, le même mot que « personne », suivi d'un génitif singulier.",
+            "en": "An adjectival numeral agrees with the counted noun: lanti vali, “two men”. After pyrys, which is a noun, the counted noun goes into the genitive plural: lantys pyryssy valoti, “two thousand men”. Zero is daorys, the same word as “no one”, followed by a genitive singular."
           }
         }
       ],
@@ -3010,7 +3010,7 @@
         {
           "kind": "p",
           "text": {
-            "fr": "Les cités libres parlent des dialectes issus du haut valyrien ; chacune a le sien, et ces parlers s'éloignent un peu plus de leur origine à chaque siècle. Autour de la baie des Serfs, à Astapor, Yunkai et Meereen, le valyrien s'est mêlé au vieux ghiscari, la langue de l'ancien empire de Ghis. Martin décrit ces parlers par leur son et par quelques mots ; il n'en donne pas la grammaire.",
+            "fr": "Les cités libres parlent des dialectes issus du haut valyrien, qu'on appelle souvent valyrien bâtard ; chacune a le sien, et ces parlers s'éloignent un peu plus de leur origine à chaque siècle. Autour de la baie des Serfs, à Astapor, Yunkai et Meereen, le valyrien s'est mêlé au vieux ghiscari, la langue de l'ancien empire de Ghis. Martin décrit ces parlers par leur son et par quelques mots ; il n'en donne pas la grammaire.",
             "en": "The Free Cities speak dialects descended from High Valyrian, often called bastard Valyrian; each city has its own, and these tongues drift a little further from their origin with every century. Around Slaver’s Bay, in Astapor, Yunkai and Meereen, Valyrian has mingled with Old Ghiscari, the language of the old empire of Ghis. Martin describes these tongues by their sound and a few words; he gives no grammar for them."
           }
         },
