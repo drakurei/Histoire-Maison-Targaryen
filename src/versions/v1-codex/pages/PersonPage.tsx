@@ -1,14 +1,14 @@
 import { useParams } from 'react-router-dom';
 
 import { MAIN_ID } from '@/app/a11y';
-import { NotFound } from '@/app/NotFound';
+import { NotFound } from '../components/NotFound';
 import { VLink } from '@/app/version';
 import { getBiography } from '@/core/content/biographies';
 import { getDragon } from '@/core/content/dragons';
 import { getPerson, sovereigns } from '@/core/content/people';
 import { events } from '@/core/content/timeline';
 import type { Biography, Dragon, HistoricalEvent, Person, SourceRef } from '@/core/content/types';
-import { formatSpan, formatYear, useLang, useT, useTitle, useTx } from '@/core/i18n';
+import { formatSpan, formatYear, useLang, useT, useTitle } from '@/core/i18n';
 import { DragonFigure } from '@/shared/dragon';
 import { NARRATIVE_END } from '@/core/timeline';
 
@@ -25,6 +25,7 @@ import type { YearMark, YearSpan } from '../components/YearRule';
 import { CROWNED, graph, RIDERS, shortName } from './lineage/model';
 import styles from './PersonPage.module.css';
 import { Kinship } from './people/Kinship';
+import { useTxTypo } from '../components/typo';
 
 /** Événements des annales où la personne paraît, dans l'ordre du temps. */
 function eventsOf(person: Person, biography: Biography | undefined): HistoricalEvent[] {
@@ -79,7 +80,7 @@ export default function PersonPage() {
   const { personId = '' } = useParams();
   const person = getPerson(personId);
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const title = useTitle();
   const { reading } = useLang();
   if (!person) return <NotFound />;

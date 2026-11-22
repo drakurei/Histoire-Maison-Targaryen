@@ -1,0 +1,1987 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-02",
+  "items": [
+    {
+      "personId": "jaehaerys-i",
+      "titles": [
+        {
+          "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+          "en": "King of the Andals, the Rhoynar, and the First Men"
+        },
+        {
+          "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+          "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+        }
+      ],
+      "lead": {
+        "fr": "Quatrième roi Targaryen, Jaehaerys Ier gouverna cinquante-cinq ans, de 48 à 103 apr. C., et donna au royaume conquis par son grand-père des lois, des routes et une paix durable.",
+        "en": "The fourth Targaryen king, Jaehaerys I ruled for fifty-five years, from 48 to 103 AC, and gave the realm his grandfather had conquered its laws, its roads and a lasting peace."
+      },
+      "sections": [
+        {
+          "id": "jaehaerys-i-enfance",
+          "heading": {
+            "fr": "Un enfant sous Maegor",
+            "en": "A Boy Under Maegor"
+          },
+          "body": {
+            "fr": "Jaehaerys naît à Port-Réal en 34 apr. C., troisième fils d'Aenys Ier et d'Alyssa Velaryon. Sa sœur aînée Rhaena avait déposé un œuf dans son berceau ; c'est de cet œuf, rapporte la chronique, que sortit Vermithor. Il a huit ans quand son père meurt, en 42 apr. C., et que son oncle Maegor prend la couronne au détriment des fils d'Aenys.\n\nLes années suivantes sont celles d'un otage. Retenu à Peyredragon avec sa mère et sa sœur Alysanne sous la garde de la reine douairière Visenya, il s'enfuit en 44 apr. C., à la mort de celle-ci, en emmenant les deux jeunes dragons et l'épée Sœur Noire. Maegor se venge sur son frère Viserys, resté à la cour, qui meurt sous la torture. En 47 apr. C., le roi le déshérite. L'année suivante, Jaehaerys revendique le trône depuis Accalmie avec l'appui de lord Rogar Baratheon, et un royaume las de Maegor se range peu à peu derrière lui.",
+            "en": "Jaehaerys was born in King's Landing in 34 AC, the third son of Aenys I and Alyssa Velaryon. His elder sister Rhaena had laid an egg in his cradle, and from that egg, the chronicle says, came Vermithor. He was eight when his father died in 42 AC and his uncle Maegor took the crown over the claims of Aenys's sons.\n\nThe years that followed were those of a hostage. Held on Dragonstone with his mother and his sister Alysanne in the keeping of the dowager queen Visenya, he fled in 44 AC upon her death, taking the two young dragons and the sword Dark Sister with him. Maegor took his revenge on Jaehaerys's brother Viserys, who had stayed at court and died under torture. In 47 AC the king disinherited Jaehaerys. The next year Jaehaerys claimed the throne from Storm's End with the backing of Lord Rogar Baratheon, and a realm weary of Maegor gradually came over to him."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Sons of the Dragon"
+            },
+            {
+              "id": "tsotd"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Maegor I"
+            }
+          ]
+        },
+        {
+          "id": "jaehaerys-i-minorite",
+          "heading": {
+            "fr": "Une minorité disputée",
+            "en": "A Contested Minority"
+          },
+          "body": {
+            "fr": "Maegor est trouvé mort sur le Trône de Fer en 48 apr. C., et Jaehaerys entre à Port-Réal sur Vermithor, en avant de l'armée de lord Rogar. Il a quatorze ans. Sa mère gouverne comme régente, Rogar comme Main du Roi et protecteur du royaume. Le jeune roi pardonne largement aux hommes de Maegor, contre otages ou rançon, et ne réserve la mort qu'aux geôliers de son frère. Couronné à Villevieille par le Grand Septon, il refuse de rétablir les ordres armés de la Foi mais lève les primes mises sur leurs têtes ; beaucoup de leurs anciens membres finissent à la Garde de Nuit.\n\nLe mariage fut sa première épreuve. Apprenant que le conseil destinait Alysanne à un frère de Rogar, il l'épousa en secret à Peyredragon en 49 apr. C. Rogar tenta de faire annuler l'union, puis de lui substituer sur le trône la princesse Aerea ; il y perdit sa charge. Jaehaerys prit le pouvoir à sa majorité, en 50 apr. C.",
+            "en": "Maegor was found dead on the Iron Throne in 48 AC, and Jaehaerys entered King's Landing on Vermithor, ahead of Lord Rogar's army. He was fourteen. His mother governed as regent, Rogar as Hand of the King and Protector of the Realm. The young king pardoned Maegor's men freely, in return for hostages or gold, and kept death for his brother's gaolers alone. Crowned in Oldtown by the High Septon, he refused to restore the Faith's armed orders but lifted the bounties on their heads; many of their former members ended up on the Wall.\n\nHis marriage was his first test. Learning that the council meant to give Alysanne to one of Rogar's brothers, he married her in secret on Dragonstone in 49 AC. Rogar tried to have the union undone, and then to put Princess Aerea on the throne in his place; it cost him his office. Jaehaerys took power in his own right when he came of age in 50 AC."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Prince into King: The Ascension of Jaehaerys I"
+            },
+            {
+              "id": "fab",
+              "locator": "The Year of the Three Brides: 49 AC"
+            },
+            {
+              "id": "fab",
+              "locator": "A Surfeit of Rulers"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        },
+        {
+          "id": "jaehaerys-i-gouverner",
+          "heading": {
+            "fr": "Gouverner un royaume conquis",
+            "en": "Governing a Conquered Realm"
+          },
+          "body": {
+            "fr": "Le règne personnel commence par les comptes : le trésor était vide ; Jaehaerys confia les finances à un Pentoshi, Rego Draz, taxa les marchandises de luxe et les créneaux des châteaux neufs, et put reprendre les travaux de Fossedragon. Plutôt que d'affronter la Foi sur son mariage, il fit prêcher que le sang de Valyria plaçait sa maison hors de la règle commune. La doctrine passa sans révolte, sans que les historiens sachent bien pourquoi.\n\nAvec le septon Barth, son ami, bientôt Main du Roi, et avec la reine, il entreprit en 55 apr. C. de réunir les lois des Sept Couronnes en un seul code, travail de plusieurs décennies. À partir de 62 apr. C., il fit tracer des routes, dont la route Royale. En 83 apr. C., avec ses fils Aemon et Baelon, il brûla la flotte du prince Morion Martell avant qu'elle ne touche la côte : une guerre gagnée en un jour. Selon les archimestres, la population du royaume au nord de Dorne doubla sous son règne.",
+            "en": "His personal rule began with the accounts. The treasury was empty; Jaehaerys gave the finances to a Pentoshi, Rego Draz, taxed luxury goods and the crenellations of new castles, and was able to resume work on the Dragonpit. Rather than confront the Faith over his marriage, he had it preached that the blood of Valyria set his house outside the common rule. The doctrine was accepted without revolt, though historians cannot say quite why.\n\nWith Septon Barth, his friend and later his Hand, and with the queen, he set out in 55 AC to gather the laws of the Seven Kingdoms into a single code, a labour of several decades. From 62 AC he had roads laid, the kingsroad among them. In 83 AC, with his sons Aemon and Baelon, he burned Prince Morion Martell's fleet before it could reach the shore: a war won in a single day. By the archmaesters' reckoning, the population of the realm north of Dorne doubled during his reign."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "A Time of Testing: The Realm Remade"
+            },
+            {
+              "id": "fab",
+              "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+            },
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        },
+        {
+          "id": "jaehaerys-i-deuils",
+          "heading": {
+            "fr": "Le roi et ses enfants",
+            "en": "The King and His Children"
+          },
+          "body": {
+            "fr": "Alysanne lui donna treize enfants. Plusieurs moururent au berceau ; Daenerys fut emportée à six ans par l'épidémie de 60 apr. C. Entre 82 et 87 apr. C., trois filles moururent encore, Daella et Alyssa des suites de leurs couches, Viserra lors d'une course nocturne à travers la ville. Saera, compromise en 84 apr. C. dans un scandale puis enfuie à Lys, fut reniée par son père. Ses proches datent de ces années son changement : on cessa de l'appeler le Conciliateur pour dire le Vieux Roi.\n\nCes deuils séparèrent deux fois le couple royal. La première querelle, de 87 à 89 apr. C., naquit du refus de rappeler Saera. La seconde suivit la mort d'Aemon, en 92 apr. C. : Jaehaerys désigna pour héritier son fils Baelon plutôt que Rhaenys, la fille d'Aemon. La reine tenait ce choix pour fondé sur le seul sexe de leur petite-fille et se retira à Peyredragon pendant deux ans. Ils se réconcilièrent sans jamais s'accorder sur le fond.",
+            "en": "Alysanne bore him thirteen children. Several died in the cradle; Daenerys was taken at six by the sickness of 60 AC. Between 82 and 87 AC three more daughters died, Daella and Alyssa of the consequences of childbirth, Viserra during a night race through the city. Saera, compromised in a scandal in 84 AC and then fled to Lys, was disowned by her father. Those close to him dated his change from these years: men stopped calling him the Conciliator and began to speak of the Old King.\n\nThese losses twice divided the royal couple. The first quarrel, from 87 to 89 AC, arose from his refusal to recall Saera. The second followed Aemon's death in 92 AC: Jaehaerys named his son Baelon heir in preference to Rhaenys, Aemon's daughter. The queen held that the choice rested on nothing but their granddaughter's sex and withdrew to Dragonstone for two years. They were reconciled without ever agreeing on the substance."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        },
+        {
+          "id": "jaehaerys-i-fin",
+          "heading": {
+            "fr": "Le Grand Conseil et la mort",
+            "en": "The Great Council and the End"
+          },
+          "body": {
+            "fr": "La reine meurt en 100 apr. C., Baelon l'année suivante. Pour éviter que la succession ne se règle par les armes entre Rhaenys et Viserys, le roi fait venir son dernier fils, l'archimestre Vaegon, qui lui conseille de s'en remettre aux seigneurs. Le Grand Conseil se tient à Harrenhal en 101 apr. C. ; Jaehaerys n'y va pas, mais il accepte le verdict et fait de Viserys son héritier.\n\nSes dernières années sont celles d'un vieillard alité. Otto Hightower gouverne comme Main ; sa fille Alicent veille le roi et lui fait la lecture, et il la prend parfois pour l'une de ses filles, à la fin pour Saera. Il meurt en 103 apr. C., à soixante-neuf ans, après le plus long règne de la dynastie. Ses cendres rejoignent celles d'Alysanne à Peyredragon. Le royaume qu'il laisse est en paix ; la question de succession, qu'il avait tranchée par un conseil et non par une loi, reste ouverte.",
+            "en": "The queen died in 100 AC, Baelon the following year. To keep the succession from being settled by arms between Rhaenys and Viserys, the king sent for his last son, Archmaester Vaegon, who advised him to leave the matter to the lords. The Great Council met at Harrenhal in 101 AC; Jaehaerys did not attend, but he accepted the verdict and made Viserys his heir.\n\nHis last years were those of a bedridden old man. Otto Hightower governed as Hand; his daughter Alicent tended the king and read to him, and he sometimes took her for one of his daughters, at the very end for Saera. He died in 103 AC, aged sixty-nine, after the longest reign of the dynasty. His ashes were laid with Alysanne's on Dragonstone. He left a realm at peace; the question of succession, which he had settled by a council rather than a law, remained open."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "vermithor"
+      ],
+      "eventIds": [
+        "p4-mort-maegor",
+        "p4-jaehaerys-alysanne",
+        "p4-aerea-balerion",
+        "p4-voyage-nord",
+        "p4-mort-aemon",
+        "p4-grand-conseil-101",
+        "p4-avenement-viserys"
+      ],
+      "warIds": [
+        "soulevement-foi-militante"
+      ],
+      "disputed": {
+        "fr": "La mort de Maegor, qui ouvre le règne, n'a jamais été expliquée : meurtre ou suicide. Le résultat du Grand Conseil de 101 apr. C. n'est connu que par la rumeur d'un vote à vingt contre un, les mestres n'ayant pas publié le décompte. Le bouffon Champignon insinue que la jeune Alicent Hightower était pour le vieux roi plus qu'une garde-malade ; aucun autre témoin ne le dit. Un libelle attribué à Coryanne Wylde affirme que Rogar Baratheon l'avait chargée de séduire le roi pendant sa minorité ; l'attribution même du texte est incertaine.",
+        "en": "Maegor's death, which opened the reign, has never been explained: murder or suicide. The outcome of the Great Council of 101 AC is known only through the rumour of a vote of twenty to one, since the maesters never published the count. The fool Mushroom hints that young Alicent Hightower was more to the old king than a nurse; no other witness says so. A pamphlet attributed to Coryanne Wylde claims that Rogar Baratheon had charged her with seducing the king during his minority; even its authorship is uncertain."
+      },
+      "adaptation": {
+        "fr": "Dans House of the Dragon, Jaehaerys préside en personne le Grand Conseil de Harrenhal et y annonce le choix de Viserys. Dans les livres, il reste à Port-Réal et se contente d'entériner le vote.",
+        "en": "In House of the Dragon, Jaehaerys presides over the Great Council at Harrenhal in person and announces the choice of Viserys there. In the books he stays in King's Landing and merely confirms the vote."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Prince into King: The Ascension of Jaehaerys I"
+        },
+        {
+          "id": "fab",
+          "locator": "The Year of the Three Brides: 49 AC"
+        },
+        {
+          "id": "fab",
+          "locator": "A Time of Testing: The Realm Remade"
+        },
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        },
+        {
+          "id": "hotd",
+          "locator": "saison 1, épisode 1"
+        }
+      ]
+    },
+    {
+      "personId": "alysanne",
+      "titles": [
+        {
+          "fr": "Reine des Andals, des Rhoynars et des Premiers Hommes",
+          "en": "Queen of the Andals, the Rhoynar, and the First Men"
+        },
+        {
+          "fr": "Princesse de la maison Targaryen",
+          "en": "Princess of House Targaryen"
+        }
+      ],
+      "lead": {
+        "fr": "Sœur et épouse de Jaehaerys Ier, Alysanne fut pendant un demi-siècle la reine la plus écoutée du royaume, artisane de plusieurs de ses lois et cavalière de Silverwing.",
+        "en": "Sister and wife of Jaehaerys I, Alysanne was for half a century the most heeded queen in the realm, the author of several of its laws and the rider of Silverwing."
+      },
+      "sections": [
+        {
+          "id": "alysanne-jeunesse",
+          "heading": {
+            "fr": "Une enfance en fuite",
+            "en": "A Childhood in Flight"
+          },
+          "body": {
+            "fr": "Alysanne naît en 36 apr. C., fille d'Aenys Ier et d'Alyssa Velaryon, cadette de Jaehaerys de deux ans. Une tradition familiale veut que sa sœur Rhaena ait placé dans son berceau l'œuf d'où sortit Silverwing. Enfant, elle partage le sort de son frère : la fuite de 41 apr. C. devant la Foi Militante, la mort de leur père, la captivité à Peyredragon sous Visenya, puis l'évasion de 44 apr. C. avec leur mère et les deux jeunes dragons.\n\nEn 49 apr. C., le conseil de régence la promet à ser Orryn Baratheon et cherche ailleurs une épouse pour le roi, de peur de rallumer la colère de la Foi. Prévenue, elle en avertit Jaehaerys ; tous deux s'envolent pour Peyredragon et s'y marient en secret. Le roi refuse de consommer l'union, la jugeant trop jeune, ce qui laisse à lord Rogar un argument pour la contester. Le mariage public n'a lieu qu'en 51 apr. C., devant le Trône de Fer, et cette fois il est consommé.",
+            "en": "Alysanne was born in 36 AC, the daughter of Aenys I and Alyssa Velaryon, two years younger than Jaehaerys. A family tradition holds that her sister Rhaena laid in her cradle the egg from which Silverwing hatched. As a child she shared her brother's fortunes: the flight of 41 AC before the Faith Militant, their father's death, captivity on Dragonstone under Visenya, and the escape of 44 AC with their mother and the two young dragons.\n\nIn 49 AC the regency council promised her to Ser Orryn Baratheon and looked elsewhere for a bride for the king, fearing to rekindle the anger of the Faith. Forewarned, she told Jaehaerys; the two flew to Dragonstone and married there in secret. The king refused to consummate the union, thinking her too young, which left Lord Rogar an argument for contesting it. The public wedding took place only in 51 AC, before the Iron Throne, and this time the marriage was consummated."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Prince into King: The Ascension of Jaehaerys I"
+            },
+            {
+              "id": "fab",
+              "locator": "The Year of the Three Brides: 49 AC"
+            },
+            {
+              "id": "fab",
+              "locator": "A Surfeit of Rulers"
+            },
+            {
+              "id": "fab",
+              "locator": "A Time of Testing: The Realm Remade"
+            }
+          ]
+        },
+        {
+          "id": "alysanne-cours",
+          "heading": {
+            "fr": "Les audiences des femmes",
+            "en": "The Women's Courts"
+          },
+          "body": {
+            "fr": "Dès le premier voyage royal, en 51 apr. C., Alysanne tient à Sombreval une audience réservée aux femmes, qu'elle renouvellera dans chaque ville visitée. Le même voyage montre ce que lui coûte sa position : à Viergétang, trois femmes attachées au bassin sacré l'attaquent au couteau pendant son bain, parce qu'elle porte l'enfant d'une union qu'elles tiennent pour impie. L'enfant, Aegon, naît trop tôt en 52 apr. C. et meurt au bout de trois jours ; la reine se donne ensuite une femme pour garde, Jonquil Darke.\n\nAu conseil, sa parole pèse. Elle prend part au travail sur le code des lois. C'est elle qui fait accepter à Port-Réal les puits et les fontaines, en présentant au roi et à son maître des monnaies, réticents devant la dépense, une chope d'eau du fleuve qu'aucun des deux ne voulut boire. Au retour du Nord, elle obtient l'abolition du droit du seigneur sur la première nuit des épousées, réforme qui lui valut l'affection du petit peuple et la rancune durable de quelques seigneurs.",
+            "en": "On the first royal progress, in 51 AC, Alysanne held at Duskendale an audience for women alone, repeated wherever she went. The same progress showed what her position cost her: at Maidenpool, three women who served the sacred pool attacked her with knives as she bathed, for carrying the child of a union they held impious. The child, Aegon, was born too early in 52 AC and died after three days; the queen then took a woman as her sworn shield, Jonquil Darke.\n\nShe took part in the work on the code of laws. It was she who won acceptance in King's Landing for the wells and fountains, by setting before the king and his master of coin, who balked at the cost, a tankard of river water neither would drink. On her return from the North she secured the abolition of a lord's right to the first night of a bride, a reform that earned her the affection of the smallfolk and the lasting resentment of some lords."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "A Time of Testing: The Realm Remade"
+            },
+            {
+              "id": "fab",
+              "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+            },
+            {
+              "id": "fab",
+              "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        },
+        {
+          "id": "alysanne-nord",
+          "heading": {
+            "fr": "Le voyage au Mur",
+            "en": "The Journey to the Wall"
+          },
+          "body": {
+            "fr": "En 58 apr. C., retenu à Port-Réal par une médiation entre Pentos et Tyrosh, Jaehaerys laisse sa femme partir seule vers le Nord. Elle gagne Blancport sur Silverwing, y écoute les plaintes de deux cents femmes, puis rejoint Winterfell, où lord Alaric Stark la reçoit froidement. De là, elle vole jusqu'au Mur et visite plusieurs châteaux de la Garde de Nuit. Trois fois elle tente de mener son dragon au-delà ; trois fois Silverwing refuse, et la reine en reste troublée.\n\nElle donne ses propres joyaux pour remplacer le Fort-Nox, trop coûteux à entretenir, par un château plus petit, que la Garde rebaptise ensuite en son honneur. Revenue à Winterfell, elle persuade le roi de doubler les terres de la Garde : c'est le Nouveau Don, que les seigneurs du Nord durent céder et dont les Stark, selon le mestre Yandel, gardèrent rancune. Un village sur la route du Mur changea de nom en souvenir de sa halte.",
+            "en": "In 58 AC, held in King's Landing by a mediation between Pentos and Tyrosh, Jaehaerys let his wife set out alone for the North. She reached White Harbor on Silverwing, heard the grievances of two hundred women there, then went on to Winterfell, where Lord Alaric Stark received her coldly. From there she flew to the Wall and visited several castles of the Night's Watch. Three times she tried to take her dragon beyond it; three times Silverwing refused, and the queen was left troubled.\n\nShe gave her own jewels to replace the Nightfort, too costly to maintain, with a smaller castle, which the Watch later renamed in her honour. Back at Winterfell, she persuaded the king to double the Watch's lands: this was the New Gift, which the northern lords were obliged to yield and which the Starks, according to Maester Yandel, did not forgive. A village on the road to the Wall took the name Queenscrown in memory of her stay."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            },
+            {
+              "id": "asos",
+              "locator": "ch. 40, ch. 41"
+            }
+          ]
+        },
+        {
+          "id": "alysanne-fin",
+          "heading": {
+            "fr": "Querelles et déclin",
+            "en": "Quarrels and Decline"
+          },
+          "body": {
+            "fr": "Mère de treize enfants, Alysanne en enterra la plupart. La mort de Daella en couches, en 82 apr. C., ouvrit entre elle et le roi une première fêlure : elle lui reprochait d'avoir marié leur fille trop jeune. Après la mort de trois filles en cinq ans, elle supplia Jaehaerys de rappeler Saera ; devant son refus, elle se retira à Peyredragon de 87 à 89 apr. C. En 92 apr. C., quand le roi préféra Baelon à Rhaenys, elle partit de nouveau, après lui avoir dit sans ménagement ce qu'elle pensait de ce choix. Leur fille Maegelle les réconcilia les deux fois.\n\nElle vola pour la dernière fois en 93 apr. C. ; deux ans plus tard, une chute dans l'escalier lui brisa la hanche. Gael, la plus jeune, resta sa seule compagnie, jusqu'à sa mort en 99 apr. C. La reine quitta alors Port-Réal pour Peyredragon, où elle mourut d'un mal de langueur au septième mois de 100 apr. C. Ses cendres y reposent avec celles du roi.",
+            "en": "The mother of thirteen children, Alysanne buried most of them. Daella's death in childbed in 82 AC opened a first rift between her and the king: she blamed him for marrying their daughter too young. After three daughters had died in five years, she begged Jaehaerys to recall Saera; when he refused, she withdrew to Dragonstone from 87 to 89 AC. In 92 AC, when the king preferred Baelon to Rhaenys, she left again, having told him bluntly what she thought of the choice. Their daughter Maegelle reconciled them both times.\n\nShe flew for the last time in 93 AC; two years later a fall on the stairs broke her hip. Gael, the youngest, remained her only companion until her death in 99 AC. The queen then left King's Landing for Dragonstone, where she died of a wasting illness in the seventh month of 100 AC. Her ashes lie there with the king's."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "silverwing"
+      ],
+      "eventIds": [
+        "p4-jaehaerys-alysanne",
+        "p4-voyage-nord",
+        "p4-mort-aemon"
+      ],
+      "warIds": [],
+      "disputed": {
+        "fr": "Les récits ne s'accordent pas sur la personne qui avertit la princesse du projet de mariage avec Orryn Baratheon : un serviteur présent au conseil, ou son oncle lord Daemon Velaryon. La date de son vol jusqu'au Mur diffère aussi : Gyldayn la fait partir de Winterfell avant l'arrivée du roi, la tradition du Nord rapportée par Bran Stark après. L'œuf que Rhaena aurait placé dans son berceau relève de la légende familiale.",
+        "en": "Accounts disagree on who warned the princess of the planned marriage to Orryn Baratheon: a servant present at the council, or her uncle Lord Daemon Velaryon. The timing of her flight to the Wall also differs: Gyldayn has her leave Winterfell before the king arrived, while the northern tradition repeated by Bran Stark places it after. The egg Rhaena is said to have laid in her cradle belongs to family legend."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Year of the Three Brides: 49 AC"
+        },
+        {
+          "id": "fab",
+          "locator": "A Time of Testing: The Realm Remade"
+        },
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        },
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        },
+        {
+          "id": "asos",
+          "locator": "ch. 40, ch. 41"
+        }
+      ]
+    },
+    {
+      "personId": "aemon-fils-jaehaerys-i",
+      "titles": [
+        {
+          "fr": "Prince de Peyredragon",
+          "en": "Prince of Dragonstone"
+        },
+        {
+          "fr": "Grand justicier et maître des lois",
+          "en": "Lord Justiciar and Master of Laws"
+        }
+      ],
+      "lead": {
+        "fr": "Fils aîné de Jaehaerys Ier et héritier du trône pendant trente ans, Aemon mourut en 92 apr. C. avant son père, et sa mort ouvrit la première querelle de succession de la dynastie.",
+        "en": "The eldest son of Jaehaerys I and heir to the throne for thirty years, Aemon died in 92 AC before his father, and his death opened the dynasty's first dispute over the succession."
+      },
+      "sections": [
+        {
+          "id": "aemon-fils-jaehaerys-i-heritier",
+          "heading": {
+            "fr": "Un héritier désigné au berceau",
+            "en": "An Heir from the Cradle"
+          },
+          "body": {
+            "fr": "Aemon naît à Peyredragon en 55 apr. C., premier fils du couple royal à survivre. À la suggestion de la reine, on place un œuf de dragon dans son berceau. Son père le dit son héritier dès sa naissance ; Alysanne objecte que leur fille Daenerys est l'aînée, et le roi répond que les deux enfants régneront ensemble une fois mariés. La mort de Daenerys en 60 apr. C. met fin au projet. En 62 apr. C., à sept ans, Aemon reçoit le titre de prince de Peyredragon.\n\nL'enfant est grave, prudent, curieux ; sa mère racontait que son premier mot avait été une question. Il grandit aux côtés de son frère Baelon, qui le suit partout, et leurs assauts dans la cour d'armes attirent la foule. On ne le marie pas à sa sœur Alyssa, que la reine destine à Baelon, mais à Jocelyn Baratheon, demi-sœur du roi par sa mère. Le mariage, annoncé en 68 apr. C., est célébré en grande pompe en 70 apr. C.",
+            "en": "Aemon was born on Dragonstone in 55 AC, the first son of the royal couple to survive. At the queen's suggestion, a dragon's egg was placed in his cradle. His father called him his heir from birth; Alysanne objected that their daughter Daenerys was the elder, and the king answered that the two children would reign together once married. Daenerys's death in 60 AC ended the plan. In 62 AC, at the age of seven, Aemon was made Prince of Dragonstone.\n\nThe boy was serious, careful and curious; his mother used to say that his first word had been a question. He grew up beside his brother Baelon, who followed him everywhere, and their bouts in the training yard drew crowds. He was not married to his sister Alyssa, whom the queen meant for Baelon, but to Jocelyn Baratheon, the king's half-sister through his mother. The match, announced in 68 AC, was celebrated with great ceremony in 70 AC."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+            },
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            }
+          ]
+        },
+        {
+          "id": "aemon-fils-jaehaerys-i-chevalier",
+          "heading": {
+            "fr": "Le chevalier et Caraxes",
+            "en": "The Knight and Caraxes"
+          },
+          "body": {
+            "fr": "En 72 apr. C., Aemon remporte la mêlée des écuyers au tournoi de Sombreval, se distingue ensuite en lice et reçoit l'adoubement. De retour à Port-Réal, il prend pour monture Caraxes, le plus farouche des jeunes dragons de Fossedragon. Sa fille unique, Rhaenys, naît en 74 apr. C. En 81 apr. C., à vingt-six ans, il succède à lord Rodrik Arryn, parti pour le Val avec la princesse Daella, comme grand justicier et maître des lois.\n\nSa seule guerre fut brève. En 83 apr. C., le prince Morion Martell tente de débarquer dans les terres de l'Orage ; Aemon, Baelon et le roi, montés sur leurs dragons, brûlent sa flotte avant qu'elle ne touche terre. Port-Réal fête une victoire acquise sans perdre un homme, ce que le Conquérant lui-même n'avait jamais pu dire. Pendant la première querelle de ses parents, en 88 apr. C., Aemon rejoint son père dans l'Ouest, sans parvenir à le ramener à la cour.",
+            "en": "In 72 AC Aemon won the squires' melee at the tourney at Duskendale, went on to distinguish himself in the lists and was knighted. Back in King's Landing he claimed Caraxes, the fiercest of the young dragons in the Dragonpit. His only child, Rhaenys, was born in 74 AC. In 81 AC, at twenty-six, he succeeded Lord Rodrik Arryn, who had left for the Vale with Princess Daella, as Lord Justiciar and Master of Laws.\n\nHis only war was short. In 83 AC Prince Morion Martell attempted a landing in the stormlands; Aemon, Baelon and the king, mounted on their dragons, burned his fleet before it reached the shore. King's Landing celebrated a victory won without the loss of a single man, something the Conqueror himself had never been able to claim. During his parents' first quarrel, in 88 AC, Aemon joined his father in the westerlands but could not persuade him to return to court."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            }
+          ]
+        },
+        {
+          "id": "aemon-fils-jaehaerys-i-mort",
+          "heading": {
+            "fr": "La mort à Torth",
+            "en": "Death on Tarth"
+          },
+          "body": {
+            "fr": "En 92 apr. C., des exilés de Myr se sont emparés de la moitié orientale de Torth. Aemon part les combattre au troisième mois, peu après avoir appris que Rhaenys attend son premier enfant, et devance la flotte de son gendre, lord Corlys Velaryon. Il rejoint lord Cameron Torth dans son camp, au cœur montagneux de l'île. Deux éclaireurs myriens découvrent le camp ; l'un tire sur le seigneur de l'île, le manque, et atteint le prince à la gorge. Aemon meurt sur place.\n\nBaelon vole aussitôt sur Vhagar venger son frère. Mais la mort d'Aemon pose une question que personne n'avait voulu prévoir : son unique enfant est une fille. Jaehaerys choisit Baelon pour héritier, écartant Rhaenys et l'enfant qu'elle porte. La reine s'y oppose, les Velaryon et les Baratheon aussi. De ce choix naît le surnom que Champignon donnera plus tard à Rhaenys, « la Reine qui ne fut jamais ».",
+            "en": "In 92 AC exiles from Myr had seized the eastern half of Tarth. Aemon set out against them in the third month, shortly after learning that Rhaenys was expecting her first child, and arrived ahead of the fleet of his son-in-law, Lord Corlys Velaryon. He joined Lord Cameron Tarth at his camp in the mountainous heart of the island. Two Myrish scouts discovered the camp; one of them shot at the lord of the island, missed, and struck the prince in the throat. Aemon died where he stood.\n\nBaelon flew at once on Vhagar to avenge his brother. But Aemon's death raised a question no one had cared to foresee: his only child was a daughter. Jaehaerys chose Baelon as his heir, passing over Rhaenys and the child she carried. The queen opposed the choice, and so did the Velaryons and the Baratheons. From it came the name Mushroom would later give Rhaenys, “the Queen Who Never Was”."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "caraxes"
+      ],
+      "eventIds": [
+        "p4-mort-aemon"
+      ],
+      "warIds": [],
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        },
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "personId": "baelon-fils-jaehaerys-i",
+      "titles": [
+        {
+          "fr": "Prince de Peyredragon",
+          "en": "Prince of Dragonstone"
+        },
+        {
+          "fr": "Main du Roi",
+          "en": "Hand of the King"
+        }
+      ],
+      "lead": {
+        "fr": "Second fils de Jaehaerys Ier, Baelon devint héritier du trône à la mort de son frère Aemon en 92 apr. C. et mourut lui-même en 101 apr. C., avant d'avoir régné.",
+        "en": "The second son of Jaehaerys I, Baelon became heir to the throne on the death of his brother Aemon in 92 AC and died himself in 101 AC, before he could reign."
+      },
+      "sections": [
+        {
+          "id": "baelon-fils-jaehaerys-i-jeunesse",
+          "heading": {
+            "fr": "Le prince du Printemps",
+            "en": "The Spring Prince"
+          },
+          "body": {
+            "fr": "Baelon naît en 57 apr. C., deux jours après que la Citadelle eut annoncé le retour du printemps ; on l'appelle d'abord le prince du Printemps. Il porte le nom d'un ancien seigneur de Peyredragon. Plus petit que son frère Aemon à la naissance, il est plus bruyant, et dès qu'il marche il le suit partout, un bâton à la main quand on le juge trop jeune pour l'épée de bois. Les deux frères deviennent inséparables.\n\nSon second surnom vient d'une visite à Fossedragon : l'enfant frappe Balerion sur le museau, et un chevalier de la Garde Royale se demande à voix haute s'il est brave ou fou. On retint le premier mot, et il resta Baelon le Brave. En 72 apr. C., il perd contre Aemon la mêlée des écuyers de Sombreval. L'année suivante, son père lui confie l'entraînement de leur jeune frère Vaegon ; l'expérience, pénible pour l'un et l'autre, s'achève au bout d'un an.",
+            "en": "Baelon was born in 57 AC, two days after the Citadel had announced the return of spring; at first he was called the Spring Prince. He was named after an earlier Lord of Dragonstone. Smaller than his brother Aemon at birth, he was louder, and as soon as he could walk he followed Aemon everywhere, a stick in his hand when he was judged too young for a wooden sword. The two brothers became inseparable.\n\nHis second byname came from a visit to the Dragonpit: the boy struck Balerion on the snout, and a knight of the Kingsguard wondered aloud whether he was brave or mad. The first word stuck, and he remained Baelon the Brave. In 72 AC he lost the squires' melee at Duskendale to Aemon. The following year his father gave him the task of training their younger brother Vaegon; the experiment, painful for both, ended after a year."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+            },
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            }
+          ]
+        },
+        {
+          "id": "baelon-fils-jaehaerys-i-chevalier",
+          "heading": {
+            "fr": "Le Fou d'argent et Vhagar",
+            "en": "The Silver Fool and Vhagar"
+          },
+          "body": {
+            "fr": "En 73 apr. C., à seize ans, Baelon entre en lice sans se faire connaître au tournoi de Vieux-Chêne, sous le nom de Fou d'argent. Il désarçonne plusieurs chevaliers avant de tomber sous la lance de ser Rickard Redwyne, qui le démasque et l'adoube sur-le-champ. De retour à Port-Réal, il réclame Vhagar, l'ancienne monture de Visenya, restée sans cavalier depuis la mort de la reine en 44 apr. C.\n\nIl avait toujours été proche de sa sœur Alyssa ; il l'épouse en 75 apr. C. Le couple a deux fils, Viserys en 77 apr. C. et Daemon en 81 apr. C. En 83 apr. C., Baelon vole avec son père et son frère contre la flotte de Morion Martell. La mort d'Alyssa, des suites d'une troisième couche, le brise ; il ne se remarie pas. Quand, quelques années plus tard, sa jeune sœur Viserra se glisse dans sa chambre pour échapper au mariage qu'on lui destine, il la renvoie.",
+            "en": "In 73 AC, at sixteen, Baelon entered the lists without revealing himself at the tourney at Old Oak, under the name of the Silver Fool. He unhorsed several knights before falling to the lance of Ser Rickard Redwyne, who unmasked him and knighted him on the spot. Back in King's Landing he claimed Vhagar, once Visenya's mount, which had been without a rider since the queen's death in 44 AC.\n\nHe had always been close to his sister Alyssa; he married her in 75 AC. The couple had two sons, Viserys in 77 AC and Daemon in 81 AC. In 83 AC Baelon flew with his father and brother against Morion Martell's fleet. Alyssa's death, after a third childbirth, broke him; he never remarried. When, a few years later, his young sister Viserra slipped into his bedchamber to escape the marriage intended for her, he sent her away."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            }
+          ]
+        },
+        {
+          "id": "baelon-fils-jaehaerys-i-heritier",
+          "heading": {
+            "fr": "Prince de Peyredragon et Main du Roi",
+            "en": "Prince of Dragonstone and Hand"
+          },
+          "body": {
+            "fr": "En 92 apr. C., Aemon est tué à Torth. Baelon s'y rend sur Vhagar et combat les exilés myriens avec Sœur Noire ; Port-Réal l'acclame à son retour. Le roi le désigne prince de Peyredragon de préférence à Rhaenys, fille d'Aemon. Le choix est populaire dans le royaume, beaucoup moins auprès de la reine, des Velaryon et des Baratheon, et il pèsera sur la succession pendant des décennies.\n\nDans les dernières années du règne, après la mort du septon Barth et l'échec de ser Ryam Redwyne dans la charge, Baelon devient Main du Roi. Il est alors l'homme sur qui repose l'avenir de la dynastie : un héritier aimé, éprouvé à la guerre, père de deux fils adultes. Rien dans les chroniques ne laisse prévoir qu'il ne régnera pas. La reine elle-même, malgré leur désaccord sur Rhaenys, lui avait assuré avant de mourir qu'il serait un bon roi.",
+            "en": "In 92 AC Aemon was killed on Tarth. Baelon went there on Vhagar and fought the Myrish exiles with Dark Sister; King's Landing cheered him on his return. The king named him Prince of Dragonstone in preference to Rhaenys, Aemon's daughter. The choice was popular in the realm, much less so with the queen, the Velaryons and the Baratheons, and it would weigh on the succession for decades.\n\nIn the last years of the reign, after the death of Septon Barth and the failure of Ser Ryam Redwyne in the office, Baelon became Hand of the King. He was then the man on whom the future of the dynasty rested: a well-loved heir, proven in war, the father of two grown sons. Nothing in the chronicles suggests that he would not reign. The queen herself, despite their disagreement over Rhaenys, had assured him before she died that he would make a good king."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        },
+        {
+          "id": "baelon-fils-jaehaerys-i-mort",
+          "heading": {
+            "fr": "Une mort soudaine",
+            "en": "A Sudden Death"
+          },
+          "body": {
+            "fr": "En 101 apr. C., au cours d'une chasse, Baelon se plaint d'un point de côté. La douleur s'aggrave après son retour à Port-Réal ; il s'alite dans la tour de la Main et meurt cinq jours plus tard, le ventre rompu. Le vieux roi allume lui-même son bûcher.\n\nSa mort laisse la succession sans titulaire évident. Deux lignées peuvent prétendre au trône : celle d'Aemon, par Rhaenys et son fils Laenor Velaryon, et celle de Baelon, par son fils Viserys. Jaehaerys, qui craint une guerre, réunit le Grand Conseil de Harrenhal, et les seigneurs y choisissent Viserys. Le fils aîné de Baelon montera sur le trône en 103 apr. C., et ses deux fils, Viserys et Daemon, domineront les trente années suivantes. Le surnom de Brave lui est resté, attaché moins à ses campagnes qu'au geste d'un enfant devant Balerion.",
+            "en": "In 101 AC, during a hunt, Baelon complained of a stitch in his side. The pain grew worse after his return to King's Landing; he took to his bed in the Tower of the Hand and died five days later of a burst belly. The old king lit his pyre himself.\n\nHis death left the succession without an obvious holder. Two lines could claim the throne: Aemon's, through Rhaenys and her son Laenor Velaryon, and Baelon's, through his son Viserys. Jaehaerys, fearing a war, summoned the Great Council at Harrenhal, and the lords chose Viserys there. Baelon's elder son would ascend the throne in 103 AC, and his two sons, Viserys and Daemon, would dominate the thirty years that followed. The byname of the Brave has stayed with him, attached less to his campaigns than to a child's gesture before Balerion."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "vhagar"
+      ],
+      "eventIds": [
+        "p4-mort-aemon",
+        "p4-grand-conseil-101"
+      ],
+      "warIds": [],
+      "disputed": {
+        "fr": "Les récits placent sa nomination comme Main du Roi en 99 ou en 100 apr. C. ; ils s'accordent sur le fait qu'il succéda à ser Ryam Redwyne et garda la charge jusqu'à sa mort.",
+        "en": "Accounts place his appointment as Hand of the King in 99 or 100 AC; they agree that he succeeded Ser Ryam Redwyne and held the office until his death."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        },
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "personId": "alyssa-fille-jaehaerys-i",
+      "titles": [
+        {
+          "fr": "Princesse de la maison Targaryen",
+          "en": "Princess of House Targaryen"
+        }
+      ],
+      "lead": {
+        "fr": "Fille de Jaehaerys Ier, épouse de son frère Baelon et première cavalière de Meleys, Alyssa fut la mère du roi Viserys Ier et du prince Daemon.",
+        "en": "A daughter of Jaehaerys I, wife of her brother Baelon and the first rider of Meleys, Alyssa was the mother of King Viserys I and Prince Daemon."
+      },
+      "sections": [
+        {
+          "id": "alyssa-fille-jaehaerys-i-enfance",
+          "heading": {
+            "fr": "Une princesse dans la cour d'armes",
+            "en": "A Princess in the Training Yard"
+          },
+          "body": {
+            "fr": "Alyssa naît à la fin de 60 apr. C., quelques mois après la mort de sa sœur Daenerys, et reçoit le nom de sa grand-mère, Alyssa Velaryon. Elle ne ressemble guère aux siens : des cheveux d'un blond terne sans reflet d'argent, un œil violet et l'autre vert, un nez cassé à six ans par une épée de bois et resté de travers. Elle ne s'en souciait pas.\n\nEnfant, elle fuit la compagnie des filles, s'habille en garçon quand on la laisse faire, monte à cheval, grimpe et se bat dans la cour. Elle suit Baelon comme lui suivait Aemon, à son grand agacement d'abord. Quand on songe à la marier à Aemon, l'aîné, la reine refuse : elle la destine à Baelon. En 73 apr. C., après une insulte de Vaegon à leur sœur Daella, elle lui vide un pichet de vin sur la tête ; l'année suivante, vêtue de mailles, elle l'humilie dans la cour d'armes au point qu'il n'y revient plus.",
+            "en": "Alyssa was born late in 60 AC, a few months after the death of her sister Daenerys, and was named after her grandmother, Alyssa Velaryon. She looked little like her kin: dull fair hair without a trace of silver, one violet eye and one green, and a nose broken at six by a wooden sword that healed crooked. She did not care.\n\nAs a child she shunned the company of girls, dressed as a boy whenever she was allowed, rode, climbed and fought in the yard. She followed Baelon as he followed Aemon, much to his annoyance at first. When there was talk of marrying her to Aemon, the elder, the queen refused: she meant her for Baelon. In 73 AC, after Vaegon had insulted their sister Daella, Alyssa emptied a flagon of wine over his head; the following year, clad in mail, she humiliated him in the training yard so thoroughly that he never went back."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            }
+          ]
+        },
+        {
+          "id": "alyssa-fille-jaehaerys-i-meleys",
+          "heading": {
+            "fr": "Meleys et le mariage",
+            "en": "Meleys and Marriage"
+          },
+          "body": {
+            "fr": "Elle épouse Baelon en 75 apr. C., à quinze ans. La nuit de noces fit rire la cour plusieurs jours, et elle en plaisantait la première. La même année, elle décide de devenir dragonnière. Les gardiens de Fossedragon la détournent de Balerion, qu'ils jugent trop vieux et trop lent pour elle, et elle prend Meleys, que personne n'avait encore montée.\n\nLes deux époux passent ensemble chaque heure que le ciel leur laisse. Viserys naît en 77 apr. C. ; neuf jours plus tard, malgré les conseils, Alyssa l'emmène emmailloté voler sur Meleys, et assure qu'il a ri tout le long. Elle fait de même avec Daemon, né en 81 apr. C., dans les deux semaines qui suivent sa naissance. Les deux princes qui allaient dominer le règne suivant connurent ainsi le ciel avant de savoir marcher.",
+            "en": "She married Baelon in 75 AC, at fifteen. The wedding night kept the court laughing for days, and she was the first to joke about it. That same year she resolved to become a dragonrider. The keepers of the Dragonpit steered her away from Balerion, whom they thought too old and too slow for her, and she claimed Meleys, whom no one had yet ridden.\n\nThe couple spent together every hour the sky left them. Viserys was born in 77 AC; nine days later, against all advice, Alyssa took him up in his swaddling clothes for a flight on Meleys, and claimed he laughed the whole way. She did the same with Daemon, born in 81 AC, within a fortnight of his birth. The two princes who would dominate the next reign thus knew the sky before they could walk."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            }
+          ]
+        },
+        {
+          "id": "alyssa-fille-jaehaerys-i-mort",
+          "heading": {
+            "fr": "Une troisième naissance",
+            "en": "A Third Birth"
+          },
+          "body": {
+            "fr": "Alyssa est enceinte une troisième fois en 83 apr. C. ; Baelon confie à Aemon qu'il espère une fille. Elle accouche en 84 apr. C., après un travail long et difficile, d'un fils nommé Aegon. Elle parle encore d'avoir d'autres enfants, mais ne se remet pas, et meurt dans l'année, à vingt-quatre ans. L'enfant ne lui survit que six mois.\n\nSa mort est la deuxième d'une série qui frappe les filles de Jaehaerys en cinq ans, après celle de Daella et avant celle de Viserra. Baelon ne se remarie pas. Meleys reste sans cavalière jusqu'en 87 apr. C., quand Rhaenys, la fille d'Aemon, la réclame ; la dragonne d'Alyssa servira plus tard le parti de Rhaenyra et mourra à Repos-du-Freux. Ses deux fils survivants furent, l'un, le roi Viserys Ier, l'autre, le prince Daemon, dont la rivalité puis l'alliance avec Rhaenyra ouvrirent la Danse des dragons.",
+            "en": "Alyssa was with child a third time in 83 AC; Baelon told Aemon he was hoping for a daughter. In 84 AC, after a long and difficult labour, she gave birth to a son named Aegon. She still spoke of having more children, but she never recovered, and died within the year at the age of twenty-four. The child outlived her by only six months.\n\nHer death was the second in a series that struck the daughters of Jaehaerys within five years, after Daella's and before Viserra's. Baelon never remarried. Meleys remained without a rider until 87 AC, when Rhaenys, Aemon's daughter, claimed her; Alyssa's dragon would later serve Rhaenyra's party and die at Rook's Rest. Her two surviving sons were King Viserys I and Prince Daemon, whose rivalry, and later his alliance with Rhaenyra, led into the Dance of the Dragons."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "meleys"
+      ],
+      "eventIds": [],
+      "warIds": [],
+      "disputed": {
+        "fr": "La chronique situe sa mort dans l'année qui suit la naissance d'Aegon sans en donner la date exacte ; selon les récits, l'enfant meurt avant la fin de 84 apr. C. ou au début de l'année suivante.",
+        "en": "The chronicle places her death within the year after Aegon's birth without giving the exact date; depending on the account, the child died before the end of 84 AC or early in the following year."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "personId": "vaegon",
+      "titles": [
+        {
+          "fr": "Archimestre de la Citadelle",
+          "en": "Archmaester of the Citadel"
+        },
+        {
+          "fr": "Prince de la maison Targaryen",
+          "en": "Prince of House Targaryen"
+        }
+      ],
+      "lead": {
+        "fr": "Seul fils de Jaehaerys Ier à n'avoir jamais monté de dragon, Vaegon quitta la cour pour la Citadelle et ne reparut qu'une fois, en 101 apr. C., pour conseiller à son père de réunir un Grand Conseil.",
+        "en": "The only son of Jaehaerys I never to ride a dragon, Vaegon left the court for the Citadel and reappeared only once, in 101 AC, to advise his father to summon a Great Council."
+      },
+      "sections": [
+        {
+          "id": "vaegon-enfance",
+          "heading": {
+            "fr": "Le prince des livres",
+            "en": "The Prince of Books"
+          },
+          "body": {
+            "fr": "Vaegon naît en 63 apr. C., quatrième fils et septième enfant de Jaehaerys et d'Alysanne. Il a les cheveux et les yeux des Targaryen, mais un visage long, des épaules rondes et une bouche pincée que les témoins notent dès son enfance. Peu robuste, il n'aime ni les armes ni la compagnie ; il vit à la bibliothèque. Il n'est pas cruel, disent les chroniques, mais franc au point de blesser.\n\nSes parents le destinaient à Daella. Les deux enfants se détestent : il la tient pour sotte, elle a peur de lui. En 73 apr. C., interrogé en public sur la date de leurs noces, il répond par une insulte qui fait fuir sa sœur en larmes. Le roi confie alors à Baelon le soin d'en faire un guerrier ; après un an de leçons, Vaegon jette son épée et ne revient plus dans la cour. Il est le seul fils du roi à n'avoir jamais réclamé de dragon, ce qui lui vaut chez les historiens le surnom de Vaegon sans Dragon.",
+            "en": "Vaegon was born in 63 AC, the fourth son and seventh child of Jaehaerys and Alysanne. He had the hair and eyes of the Targaryens, but a long face, rounded shoulders and a pinched mouth that witnesses remarked on from his childhood. Never robust, he cared neither for arms nor for company; he lived in the library. He was not cruel, the chronicles say, but frank to the point of wounding.\n\nHis parents had meant him for Daella. The two children loathed each other: he thought her stupid, she was afraid of him. In 73 AC, asked in public when they would marry, he answered with an insult that sent his sister fleeing in tears. The king then gave Baelon the task of making a fighter of him; after a year of lessons, Vaegon threw down his sword and never returned to the yard. He was the only son of the king who never claimed a dragon, which earned him among historians the name of Vaegon the Dragonless."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        },
+        {
+          "id": "vaegon-citadelle",
+          "heading": {
+            "fr": "La Citadelle",
+            "en": "The Citadel"
+          },
+          "body": {
+            "fr": "En 78 apr. C., pour ses quinze ans, ses parents demandent au grand mestre Elysar s'il ferait un mestre. La réponse est non : Vaegon n'a le don ni des hommes ni des corbeaux. Mais il pourrait, ajoute Elysar, faire un archimestre. Trois jours plus tard, le roi lui annonce qu'il partira pour Villevieille dans la quinzaine ; le prince accepte en peu de mots, et Jaehaerys confiera à la reine qu'il l'a cru voir presque sourire.\n\nÀ la Citadelle, il devient archimestre avant trente-six ans et porte l'anneau, la verge et le masque d'or jaune, métal que les mestres associent à l'étude des monnaies et des comptes. Il s'occupe aussi d'alchimie, d'astronomie et de mathématiques. Ses lettres à ses parents sont régulières et sans chaleur. Il ne revient pas à la cour, et à la fin du règne le royaume a presque oublié qu'un fils du roi vit encore parmi les livres de Villevieille.",
+            "en": "In 78 AC, on his fifteenth nameday, his parents asked Grand Maester Elysar whether he might make a maester. The answer was no: Vaegon had a gift neither for people nor for ravens. But he might, Elysar added, make an archmaester. Three days later the king told him that he would sail for Oldtown within a fortnight; the prince accepted in few words, and Jaehaerys later told the queen he thought he had seen him almost smile.\n\nAt the Citadel he became an archmaester before the age of thirty-six and wore the ring, rod and mask of yellow gold, the metal the maesters associate with the study of money and accounts. He also pursued alchemy, astronomy and mathematics. His letters to his parents were regular and without warmth. He never returned to court, and by the end of the reign the realm had all but forgotten that a son of the king still lived among the books of Oldtown."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        },
+        {
+          "id": "vaegon-conseil",
+          "heading": {
+            "fr": "Le conseiller de 101",
+            "en": "The Counsellor of 101 AC"
+          },
+          "body": {
+            "fr": "À la mort de Baelon, en 101 apr. C., le roi rappelle Vaegon à Port-Réal. Les sources divergent sur ce qu'il attendait de lui : selon les uns, Jaehaerys lui offrit le trône et Vaegon le refusa ; selon d'autres, il voulait seulement son avis. C'est en tout cas l'archimestre qui proposa de réunir un Grand Conseil pour trancher la succession, plutôt que de laisser le roi désigner seul un héritier que l'une des deux branches contesterait.\n\nÀ Harrenhal, la prétention de Vaegon lui-même fut vite écartée : ses vœux lui interdisaient de régner. Après 101 apr. C., les chroniques ne le mentionnent plus. Il avait trente-huit ans ; il pouvait vivre encore pendant la Danse des dragons, mais rien ne dit ce qu'il advint de lui. Le seul acte public qu'on lui connaisse fut ainsi de proposer la procédure qui fit de Viserys un roi, et dont les deux partis de la Danse allaient tirer des leçons opposées.",
+            "en": "On Baelon's death in 101 AC, the king summoned Vaegon back to King's Landing. Sources differ on what he wanted of him: some say Jaehaerys offered him the throne and Vaegon refused it; others that he sought only his advice. It was in any case the archmaester who proposed calling a Great Council to settle the succession, rather than letting the king alone name an heir whom one of the two branches would contest.\n\nAt Harrenhal, Vaegon's own claim was quickly set aside: his vows forbade him to reign. After 101 AC the chronicles no longer mention him. He was thirty-eight; he could still have been alive during the Dance of the Dragons, but nothing tells us what became of him. The only public act known of him was thus to propose the procedure that made Viserys king, and from which the two parties of the Dance would draw opposite lessons."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p4-grand-conseil-101"
+      ],
+      "warIds": [],
+      "disputed": {
+        "fr": "Pourquoi le roi le rappela en 101 apr. C. reste débattu : offre de la couronne refusée, ou simple consultation. La date et les circonstances de sa mort ne sont pas connues.",
+        "en": "Why the king summoned him in 101 AC remains debated: an offer of the crown that he refused, or a mere consultation. The date and circumstances of his death are unknown."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "personId": "saera",
+      "titles": [
+        {
+          "fr": "Princesse de la maison Targaryen",
+          "en": "Princess of House Targaryen"
+        }
+      ],
+      "lead": {
+        "fr": "Fille de Jaehaerys Ier reniée par son père après un scandale de cour en 84 apr. C., Saera s'enfuit outre-mer et finit sa vie connue à Volantis.",
+        "en": "A daughter of Jaehaerys I disowned by her father after a court scandal in 84 AC, Saera fled across the sea and spent the rest of her known life in Volantis."
+      },
+      "sections": [
+        {
+          "id": "saera-enfance",
+          "heading": {
+            "fr": "Une enfant difficile",
+            "en": "A Difficult Child"
+          },
+          "body": {
+            "fr": "Saera naît en 67 apr. C., neuvième enfant du couple royal. Elle refuse d'être sevrée avant quatre ans, et le premier mot qu'on lui connaît est un refus. Vive, intelligente, elle obtient tout de son père et presque rien de sa mère, qui la compare à sa cousine Aerea. Ses tours visent d'abord Daella, dont elle peuple la chambre de chats et d'abeilles ; à dix ans, elle teint en rose les manteaux blancs de la Garde Royale. À douze ans, elle se présente souvent ivre au septuaire.\n\nVers quinze ans, elle s'entoure de trois jeunes seigneurs, Jonah Mooton, Roy Connington et ser Braxton Beesbury, et de deux amies de son âge, Perianne Moore et Alys Turnberry. Pendant plus d'un an, la petite troupe ne se quitte pas. Le roi voit en chacun des trois jeunes gens un parti possible. La reine se méfie, surtout de Beesbury ; Jaehaerys répond que sa fille n'est jamais seule, puisque des serviteurs l'accompagnent toujours.",
+            "en": "Saera was born in 67 AC, the ninth child of the royal couple. She refused to be weaned until past the age of four, and the first word anyone recorded from her was a refusal. Quick and clever, she could get anything from her father and almost nothing from her mother, who compared her to her cousin Aerea. Her pranks were aimed first at Daella, whose bedchamber she filled with cats and bees; at ten she dyed the white cloaks of the Kingsguard pink. At twelve she often came to the sept drunk.\n\nAt about fifteen she gathered around her three young lords, Jonah Mooton, Roy Connington and Ser Braxton Beesbury, and two friends of her own age, Perianne Moore and Alys Turnberry. For more than a year the little band was inseparable. The king saw in each of the three young men a possible match. The queen was wary, of Beesbury above all; Jaehaerys answered that his daughter was never alone, since servants always attended her."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            }
+          ]
+        },
+        {
+          "id": "saera-scandale",
+          "heading": {
+            "fr": "Le scandale de 84",
+            "en": "The Scandal of 84 AC"
+          },
+          "body": {
+            "fr": "En 84 apr. C., une farce cruelle jouée au bouffon de la cour dans une maison close de la ville amène les trois jeunes gens devant le roi. Ils se taisent sur la princesse ; ses deux amies, menacées de prison, parlent. La reine apprend que les serviteurs restaient à la porte et qu'Alys Turnberry est enceinte. Confrontée à ses parents, Saera nie, minimise, se justifie, puis défie : chacun des trois garçons se croit le premier, et elle les épouserait volontiers tous les trois, comme Aegon ou Maegor avaient eu plusieurs épouses.\n\nLa comparaison avec Maegor met le roi hors de lui. Alysanne plaide pourtant pour qu'on laisse à leur fille une chance de se racheter. La nuit suivante, Saera s'échappe et tente de s'emparer d'un dragon à Fossedragon ; les gardiens l'arrêtent. Enfermée dans une tour, elle doit regarder de sa fenêtre son père tuer ser Braxton Beesbury, qui avait réclamé le jugement par combat. La tentative sur Fossedragon avait ruiné le plaidoyer de la reine.",
+            "en": "In 84 AC a cruel jest played on the court fool in a brothel in the city brought the three young men before the king. They kept silent about the princess; her two friends, threatened with prison, talked. The queen learned that the servants had been kept outside the door and that Alys Turnberry was with child. Faced with her parents, Saera denied, made light, justified herself and then defied them: each of the three boys believed himself the first, and she would gladly marry all three, as Aegon and Maegor had taken several wives.\n\nThe comparison with Maegor sent the king into a fury. Alysanne pleaded for their daughter to be given a chance to redeem herself. The following night Saera escaped and tried to seize a dragon at the Dragonpit; the keepers caught her. Confined in a tower, she was made to watch as her father killed Ser Braxton Beesbury, who had demanded trial by combat. The attempt on the Dragonpit had wrecked the queen's plea."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            }
+          ]
+        },
+        {
+          "id": "saera-exil",
+          "heading": {
+            "fr": "Lys et Volantis",
+            "en": "Lys and Volantis"
+          },
+          "body": {
+            "fr": "Saera est envoyée à Villevieille comme novice chez les sœurs du Silence, sous la garde de sa sœur Maegelle, devenue septa. Le septon Barth pensait que le roi voulait lui donner une leçon de quelques années, non l'enfermer pour toujours. Saera ne lui laissa pas le temps de le montrer : en 85 apr. C., elle s'enfuit de nuit, s'embarque pour Lys et entre dans un jardin de plaisir. Jaehaerys interdit à la reine tout contact avec elle ; Alysanne lui écrivit quand même, sans jamais recevoir de réponse.\n\nRiche et décriée, Saera passe ensuite à Volantis, où elle tient une maison de plaisir réputée. Au Grand Conseil de 101 apr. C., trois de ses fils bâtards, nés de trois pères différents dont un triarque, présentent leurs prétentions ; elle-même ne réclame rien pour son compte. Sur son lit de mort, en 103 apr. C., Jaehaerys prenait la jeune Alicent Hightower, qui le soignait, pour Saera revenue d'outre-mer.",
+            "en": "Saera was sent to Oldtown as a novice among the silent sisters, in the care of her sister Maegelle, who had become a septa. Septon Barth believed the king meant to teach her a lesson lasting a few years, not to shut her away for good. Saera gave him no time to show it: in 85 AC she fled by night, took ship for Lys and entered a pleasure garden. Jaehaerys forbade the queen any contact with her; Alysanne wrote to her all the same and never received an answer.\n\nWealthy and notorious, Saera later moved to Volantis, where she kept a well-known pleasure house. At the Great Council of 101 AC, three of her bastard sons, born of three different fathers, one of them a triarch, put forward their claims; she herself asked nothing on her own account. On his deathbed in 103 AC, Jaehaerys took young Alicent Hightower, who nursed him, for Saera come home from across the sea."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p4-grand-conseil-101"
+      ],
+      "warIds": [],
+      "disputed": {
+        "fr": "On ignore si la réclusion chez les sœurs du Silence devait être définitive : le septon Barth y voyait une punition temporaire. La date et le lieu de la mort de Saera ne sont pas connus ; elle vivait encore à Volantis en 101 apr. C. L'un de ses fils passait, dit-on, pour le portrait du jeune Jaehaerys ; rien ne permet d'en juger.",
+        "en": "It is not known whether her confinement among the silent sisters was meant to be permanent: Septon Barth saw it as a temporary punishment. The date and place of Saera's death are unknown; she was still living in Volantis in 101 AC. One of her sons was said to be the image of the young Jaehaerys; there is no way to judge."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "personId": "daella-fille-jaehaerys-i",
+      "titles": [
+        {
+          "fr": "Princesse de la maison Targaryen",
+          "en": "Princess of House Targaryen"
+        },
+        {
+          "fr": "Dame des Eyrié",
+          "en": "Lady of the Eyrie"
+        }
+      ],
+      "lead": {
+        "fr": "Fille de Jaehaerys Ier, mariée à lord Rodrik Arryn, Daella mourut en couches à dix-huit ans en mettant au monde Aemma Arryn, future épouse du roi Viserys Ier.",
+        "en": "A daughter of Jaehaerys I married to Lord Rodrik Arryn, Daella died in childbed at eighteen, giving birth to Aemma Arryn, the future wife of King Viserys I."
+      },
+      "sections": [
+        {
+          "id": "daella-fille-jaehaerys-i-enfance",
+          "heading": {
+            "fr": "La petite fleur",
+            "en": "The Little Flower"
+          },
+          "body": {
+            "fr": "Daella naît en 64 apr. C. Petite et frêle, elle paraît toujours plus jeune que son âge ; sa mère l'appelle sa petite fleur. Elle est douce et bonne, mais d'une timidité qui la laisse sans voix, prompte aux larmes, effrayée par les chats, les abeilles, les chevaux et plus encore par les dragons. Elle ne lit qu'avec peine et ne retient pas les prières, si bien qu'elle ne pourra pas, comme sa sœur, entrer dans la Foi. Elle vénère sa mère et prend Maegelle pour guide.\n\nSes parents la destinaient à Vaegon, d'un an son aîné. Elle a peur de lui ; il la tient pour sotte. En 73 apr. C., devant les dames de la reine, il la blesse d'une réplique sur les enfants qu'elle pourrait porter, et elle s'enfuit en pleurant. Saera, de son côté, fait d'elle la cible favorite de ses farces. Le roi et la reine renoncent au mariage prévu et cherchent ailleurs.",
+            "en": "Daella was born in 64 AC. Small and frail, she always seemed younger than her years; her mother called her my little flower. She was sweet and kind, but so shy as to be struck dumb, quick to cry, frightened of cats, bees, horses and dragons most of all. She read only haltingly and could not remember her prayers, so that she could not, like her sister, enter the Faith. She adored her mother and took Maegelle as her guide.\n\nHer parents had meant her for Vaegon, a year older than she. She was afraid of him; he thought her stupid. In 73 AC, before the queen's ladies, he wounded her with a remark about the children she might bear, and she fled in tears. Saera, for her part, made her the favourite target of her pranks. The king and queen gave up the planned marriage and looked elsewhere."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            }
+          ]
+        },
+        {
+          "id": "daella-fille-jaehaerys-i-mariage",
+          "heading": {
+            "fr": "Trouver un mari",
+            "en": "Finding a Husband"
+          },
+          "body": {
+            "fr": "Les prétendants se succèdent sans succès. À treize ans, elle traverse la baie pour rencontrer Corlys Velaryon, souffre du mal de mer, et revient persuadée qu'il s'intéresse davantage à ses navires qu'à elle. À quatorze, une compagnie d'écuyers la dégoûte de leur société. À quinze, elle s'éprend de Royce Blackwood, qui lui chante ses propres ballades, jusqu'à apprendre que sa maison prie les anciens dieux et qu'elle devrait se marier devant un barral.\n\nAu premier jour de 80 apr. C., le roi exige qu'elle soit mariée avant la fin de l'année. Alysanne lui laisse choisir entre trois hommes : lord Boremund Baratheon, ser Tymond Lannister et lord Rodrik Arryn, sire des Eyrié, veuf et père de quatre enfants, qui avait longtemps servi le roi comme maître des lois. Elle choisit Rodrik, qui lui paraît bon et sage comme son père. Le mariage a lieu à Peyredragon, devant quelques témoins, sans cérémonie du coucher, qu'elle n'aurait pas supportée.",
+            "en": "Suitors came and went without success. At thirteen she crossed the bay to meet Corlys Velaryon, was seasick, and came back convinced that he cared more for his ships than for her. At fourteen a company of squires gave her a distaste for their society. At fifteen she fell for Royce Blackwood, who sang her ballads of his own making, until she learned that his house prayed to the old gods and that she would have to marry before a weirwood.\n\nOn the first day of 80 AC, the king demanded that she be married before the year was out. Alysanne let her choose among three men: Lord Boremund Baratheon, Ser Tymond Lannister and Lord Rodrik Arryn, Lord of the Eyrie, a widower with four children who had long served the king as master of laws. She chose Rodrik, who seemed to her good and wise like her father. The wedding took place on Dragonstone, before a few witnesses, without a bedding ceremony, which she could not have borne."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            }
+          ]
+        },
+        {
+          "id": "daella-fille-jaehaerys-i-mort",
+          "heading": {
+            "fr": "Les Eyrié",
+            "en": "The Eyrie"
+          },
+          "body": {
+            "fr": "Aux Eyrié, Daella se heurte à l'aînée de son mari, Elys, plus âgée qu'elle de trois ans, mais s'attache aux trois cadets, qui le lui rendent. Rodrik tient sa promesse : il la protège et la gâte, et les lettres qu'elle fait écrire à sa mère disent son bonheur. En 82 apr. C., elle écrit elle-même, pour annoncer une grossesse et avouer sa peur. Alysanne vole jusqu'à elle sur Silverwing et reste trois mois à son chevet.\n\nLe travail commence deux semaines trop tôt et dure longtemps. L'enfant, Aemma, naît en bonne santé ; la mère est prise de fièvre et meurt au matin, à dix-huit ans. La reine refuse que Rodrik l'ensevelisse dans le Val : Daella est brûlée et ses cendres sont déposées à Peyredragon, près de celles de sa sœur Daenerys. Selon Gyldayn, cette mort marque la première fêlure entre Alysanne et le roi, qu'elle accusait d'avoir pressé ce mariage.",
+            "en": "At the Eyrie Daella clashed with her husband's eldest, Elys, three years older than herself, but grew fond of the three younger children, who returned her affection. Rodrik kept his word: he protected and pampered her, and the letters she had written to her mother spoke of her happiness. In 82 AC she wrote in her own hand to announce that she was with child and to confess her fear. Alysanne flew to her on Silverwing and stayed at her side for three months.\n\nHer labour began a fortnight early and was long. The child, Aemma, was born healthy; the mother took a fever and died by morning, at eighteen. The queen refused to let Rodrik bury her in the Vale: Daella was burned and her ashes laid on Dragonstone beside those of her sister Daenerys. According to Gyldayn, her death marked the first rift between Alysanne and the king, whom she blamed for hurrying the marriage."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [],
+      "warIds": [],
+      "disputed": {
+        "fr": "La date du mariage varie selon les récits, à la fin de 80 apr. C. ou au début de 81 apr. C. ; la consigne du roi fixait l'échéance à la fin de 80 apr. C.",
+        "en": "The date of the wedding varies between accounts, late in 80 AC or early in 81 AC; the king's command had set the end of 80 AC as the deadline."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "personId": "gael",
+      "titles": [
+        {
+          "fr": "Princesse de la maison Targaryen",
+          "en": "Princess of House Targaryen"
+        }
+      ],
+      "lead": {
+        "fr": "Dernière enfant de Jaehaerys Ier et d'Alysanne, Gael fut la compagne des vieux jours de sa mère et mourut en 99 apr. C. dans des circonstances que la cour tint secrètes.",
+        "en": "The last child of Jaehaerys I and Alysanne, Gael was her mother's companion in her old age and died in 99 AC in circumstances the court kept secret."
+      },
+      "sections": [
+        {
+          "id": "gael-naissance",
+          "heading": {
+            "fr": "L'enfant de l'hiver",
+            "en": "The Winter Child"
+          },
+          "body": {
+            "fr": "Gael naît en 80 apr. C., treizième et dernière enfant de Jaehaerys et d'Alysanne. On l'appelle l'enfant de l'hiver, parce qu'elle vient au monde pendant un hiver et, selon d'autres, parce que sa mère, âgée de quarante-quatre ans, est elle-même à l'hiver de ses maternités. Petite et pâle à la naissance, elle passe sa première année aux soins du grand mestre Elysar et d'une septa.\n\nL'enfant grandit douce et timide, mais simple d'esprit et fragile. Les chroniques en disent peu, et ce peu tient surtout à sa place auprès de sa mère. Elle naît deux ans après le départ de son frère Vaegon pour la Citadelle, l'année même où le roi exige que Daella soit mariée. La famille qu'elle découvre en grandissant est déjà celle des départs et des deuils : elle n'a que deux ans à la mort de Daella, quatre à celle d'Alyssa et au scandale de Saera.",
+            "en": "Gael was born in 80 AC, the thirteenth and last child of Jaehaerys and Alysanne. She was called the Winter Child, because she came into the world during a winter and, some say, because her mother, then forty-four, was herself in the winter of her childbearing years. Small and pale at birth, she spent her first year in the care of Grand Maester Elysar and a septa.\n\nThe child grew up sweet and shy, but simple-minded and frail. The chronicles say little of her, and that little concerns mostly her place at her mother's side. She was born two years after her brother Vaegon left for the Citadel, in the very year the king demanded that Daella be married. The family she came to know as she grew was already one of departures and bereavements: she was only two when Daella died, four at Alyssa's death and Saera's disgrace."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            }
+          ]
+        },
+        {
+          "id": "gael-compagne",
+          "heading": {
+            "fr": "L'ombre de la reine",
+            "en": "The Queen's Shadow"
+          },
+          "body": {
+            "fr": "Entre 82 et 87 apr. C., trois de ses sœurs meurent, Daella, Alyssa et Viserra, et Saera est perdue de l'autre côté de la mer. Gael devient, avec Maegelle, le réconfort de sa mère. Elle la suit comme son ombre et dort dans son lit.\n\nLa reine vieillit mal. Elle vole pour la dernière fois en 93 apr. C., se brise la hanche deux ans plus tard, perd l'ouïe, puis la mémoire des noms. Après la mort de Maegelle, en 96 apr. C., il ne lui reste que quatre enfants : Baelon, souvent retenu par ses devoirs d'héritier puis de Main ; Vaegon, qui écrit sans chaleur et qu'elle n'a pas vu depuis des années ; Saera, qui ne répond pas à ses lettres ; et Gael. Dans ces années, la plus jeune des princesses est la seule présence constante auprès de la reine, et les chroniques la disent sa fille préférée.",
+            "en": "Between 82 and 87 AC three of her sisters died, Daella, Alyssa and Viserra, and Saera was lost across the sea. Gael became, with Maegelle, her mother's comfort. She followed her like a shadow and slept in her bed.\n\nThe queen aged badly. She flew for the last time in 93 AC, broke her hip two years later, lost her hearing and then her memory for names. After Maegelle's death in 96 AC, only four of her children remained: Baelon, often kept away by his duties as heir and then as Hand; Vaegon, who wrote without warmth and whom she had not seen in years; Saera, who did not answer her letters; and Gael. In those years the youngest of the princesses was the only constant presence beside the queen, and the chronicles call her Alysanne's favourite daughter."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            }
+          ]
+        },
+        {
+          "id": "gael-mort",
+          "heading": {
+            "fr": "Une mort tue",
+            "en": "A Death Kept Silent"
+          },
+          "body": {
+            "fr": "En 99 apr. C., Gael disparaît de la cour. On annonce qu'une fièvre d'été l'a emportée. La vérité ne fut connue qu'après la mort du roi et de la reine : un chanteur de passage l'avait séduite ; elle avait mis au monde un fils mort-né, puis, accablée de chagrin, s'était avancée dans les eaux de la Néra pour s'y noyer.\n\nAlysanne ne s'en remit pas. Port-Réal et le Donjon Rouge lui devinrent insupportables ; elle se retira à Peyredragon, où elle avait passé les années les plus heureuses de sa vie, et y mourut moins d'un an après sa fille. Le silence officiel sur la mort de Gael dit quelque chose de la cour de Jaehaerys dans ses dernières années : une famille réduite, un roi vieilli, et des chagrins qu'on préférait taire plutôt que d'en laisser un récit public. Le nom du séducteur ne nous est pas parvenu.",
+            "en": "In 99 AC Gael vanished from court. It was announced that a summer fever had taken her. The truth became known only after the deaths of the king and queen: a travelling singer had seduced her; she had given birth to a stillborn son and then, overcome with grief, had walked into the waters of the Blackwater to drown.\n\nAlysanne never recovered. King's Landing and the Red Keep became unbearable to her; she withdrew to Dragonstone, where she had spent the happiest years of her life, and died there less than a year after her daughter. The official silence about Gael's death says something about Jaehaerys's court in its last years: a diminished family, an aged king, and griefs that were kept quiet rather than given a public account. The seducer's name has not come down to us."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [],
+      "warIds": [],
+      "disputed": {
+        "fr": "La version officielle d'une fièvre d'été ne fut démentie qu'après la mort de ses parents. Le chanteur n'est pas nommé, et les récits placent la noyade tantôt dans la baie de la Néra, tantôt dans le fleuve.",
+        "en": "The official account of a summer fever was contradicted only after her parents' deaths. The singer is not named, and accounts place the drowning sometimes in Blackwater Bay, sometimes in the river."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        }
+      ]
+    },
+    {
+      "personId": "aerea",
+      "titles": [
+        {
+          "fr": "Princesse de la maison Targaryen",
+          "en": "Princess of House Targaryen"
+        },
+        {
+          "fr": "Héritière présomptive du Trône de Fer",
+          "en": "Heir presumptive to the Iron Throne"
+        }
+      ],
+      "lead": {
+        "fr": "Fille du prince Aegon et de Rhaena, héritière de Maegor puis de Jaehaerys Ier, Aerea s'enfuit sur Balerion en 54 apr. C. et revint mourir à Port-Réal en 56 apr. C.",
+        "en": "The daughter of Prince Aegon and Rhaena, heir to Maegor and then to Jaehaerys I, Aerea flew away on Balerion in 54 AC and came back to die in King's Landing in 56 AC."
+      },
+      "sections": [
+        {
+          "id": "aerea-naissance",
+          "heading": {
+            "fr": "Une naissance dans la guerre",
+            "en": "Born in Wartime"
+          },
+          "body": {
+            "fr": "Aerea naît en 42 apr. C. à Castral Roc, où ses parents, le prince Aegon et la princesse Rhaena, se cachent des Pauvres Compagnons. Elle a une sœur jumelle, Rhaella. L'année suivante, son père meurt sous l'Œildieu en disputant la couronne à Maegor. Rhaena déguise les deux fillettes et les confie à des alliés, sans savoir elle-même où on les emmène ; c'est Tyanna de la Tour, l'une des épouses de Maegor, qui finit par les retrouver.\n\nEn 47 apr. C., Maegor contraint Rhaena à l'épouser et se sert des jumelles pour s'assurer de sa docilité. Faute d'un fils, il déclare Aerea son héritière et déshérite Jaehaerys. L'enfant est alors timide, prompte aux larmes, effrayée par les chevaux, les chiens, les hommes barbus et les dragons. En 48 apr. C., quand lord Rogar Baratheon proclame Jaehaerys, Rhaena s'enfuit avec elle de nuit sur Dreamfyre pour rejoindre son frère.",
+            "en": "Aerea was born in 42 AC at Casterly Rock, where her parents, Prince Aegon and Princess Rhaena, were hiding from the Poor Fellows. She had a twin sister, Rhaella. The following year her father died beneath the Gods Eye, contesting the crown with Maegor. Rhaena disguised the two little girls and entrusted them to allies, without knowing herself where they were taken; it was Tyanna of the Tower, one of Maegor's wives, who eventually found them.\n\nIn 47 AC Maegor forced Rhaena to marry him and used the twins to ensure her compliance. Lacking a son, he declared Aerea his heir and disinherited Jaehaerys. The child was then timid, quick to tears, afraid of horses, dogs, bearded men and dragons. In 48 AC, when Lord Rogar Baratheon proclaimed Jaehaerys, Rhaena fled with her by night on Dreamfyre to join her brother."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Sons of the Dragon"
+            },
+            {
+              "id": "tsotd"
+            },
+            {
+              "id": "fab",
+              "locator": "Prince into King: The Ascension of Jaehaerys I"
+            }
+          ]
+        },
+        {
+          "id": "aerea-heritiere",
+          "heading": {
+            "fr": "L'héritière de Jaehaerys",
+            "en": "Jaehaerys's Heir"
+          },
+          "body": {
+            "fr": "Jaehaerys, roi sans enfant, garde Aerea pour héritière. Certains jugeaient même son droit meilleur que le sien, puisqu'elle était la fille du fils aîné d'Aenys ; sa propre mère reconnaissait qu'une enfant si craintive ne pouvait régner. Après le couronnement de Villevieille, à la fin de 48 apr. C., la petite princesse change brusquement : hardie, vive, toujours aux écuries. Au même moment, sa jumelle Rhaella, restée novice au Septuaire étoilé, devient timide. On murmura que les deux sœurs avaient été échangées.\n\nEn 50 apr. C., lord Rogar Baratheon propose d'écarter le roi au profit d'Aerea, et ses hommes tentent de l'enlever. Prévenus, ses gardiens l'ont déjà cachée, cheveux teints, dans une écurie près de la porte du Roi, où elle travaille jusqu'à la fin de la régence ; elle dira plus tard que ce furent ses années les plus heureuses. La naissance de Daenerys, en 53 apr. C., lui ôte son rang d'héritière.",
+            "en": "Jaehaerys, a childless king, kept Aerea as his heir. Some even held her claim to be better than his, since she was the daughter of Aenys's eldest son; her own mother admitted that so fearful a child could not rule. After the coronation in Oldtown, late in 48 AC, the little princess changed abruptly: bold, lively, forever in the stables. At the same moment her twin Rhaella, who had stayed behind as a novice at the Starry Sept, became timid. It was whispered that the two sisters had been switched.\n\nIn 50 AC Lord Rogar Baratheon proposed setting the king aside in favour of Aerea, and his men tried to carry her off. Forewarned, her guardians had already hidden her, her hair dyed, in a stable near the King's Gate, where she worked until the end of the regency; she later said those were the happiest years of her life. The birth of Daenerys in 53 AC took her place as heir from her."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Prince into King: The Ascension of Jaehaerys I"
+            },
+            {
+              "id": "fab",
+              "locator": "A Surfeit of Rulers"
+            },
+            {
+              "id": "fab",
+              "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+            }
+          ]
+        },
+        {
+          "id": "aerea-peyredragon",
+          "heading": {
+            "fr": "L'exil de Peyredragon",
+            "en": "Exile on Dragonstone"
+          },
+          "body": {
+            "fr": "En 51 apr. C., Rhaena obtient du roi Peyredragon pour siège et le retour de sa fille. Aerea ne connaît pas sa mère et déteste l'île : pas d'enfants de son âge, une cour qui l'ignore, l'interdiction de se mêler aux gens du port. Sa seule amie est Elissa Farman, qui parle de reprendre la mer vers l'ouest ; Aerea la supplie de l'emmener. Rhaena la mène aux dragons de l'île et l'encourage à en réclamer un.\n\nL'enfant devient intraitable. Elle manque prières et leçons, affuble la cour de sa mère de sobriquets grossiers. En 54 apr. C., Elissa part sans elle, en emportant, découvrira-t-on, trois œufs de dragon. Quand Alysanne vient consoler sa sœur après une série d'empoisonnements à Peyredragon, Aerea lui reproche que Rhaena l'ait jadis abandonnée et la supplie de la ramener à Port-Réal. Rhaena refuse, et la mère et la fille se querellent violemment.",
+            "en": "In 51 AC Rhaena obtained from the king Dragonstone as her seat and the return of her daughter. Aerea did not know her mother and hated the island: no children of her age, a court that ignored her, a ban on mixing with the people of the harbour. Her only friend was Elissa Farman, who talked of going back to sea towards the west; Aerea begged her to take her along. Rhaena brought her to the island's dragons and urged her to claim one.\n\nThe girl became unmanageable. She skipped prayers and lessons and gave her mother's household coarse nicknames. In 54 AC Elissa left without her, taking with her, as was later discovered, three dragon eggs. When Alysanne came to comfort her sister after a series of poisonings on Dragonstone, Aerea reproached her mother for having once abandoned her and begged the queen to take her back to King's Landing. Rhaena refused, and mother and daughter quarrelled bitterly."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+            }
+          ]
+        },
+        {
+          "id": "aerea-balerion",
+          "heading": {
+            "fr": "Balerion et la fin",
+            "en": "Balerion and the End"
+          },
+          "body": {
+            "fr": "À la fin de 54 apr. C., Aerea disparaît de Peyredragon sur Balerion, que personne ne montait depuis la mort de Maegor. On la cherche dans tout le royaume et jusque dans les Cités libres ; Rhaena survole les Sept Couronnes sur Dreamfyre. Le septon Barth fait observer qu'un dragon privé de cavalier serait revenu à son antre, et que, s'il n'est vu nulle part, c'est sans doute qu'il est parti vers l'est.\n\nLe treizième jour du quatrième mois de 56 apr. C., Balerion se pose à Port-Réal, l'enfant agrippée à son dos, décharnée, brûlante, les yeux en sang. Elle meurt le soir même. Seuls le grand mestre Benifer et Barth assistent à son agonie ; Barth décrit dans ses papiers des formes qui remuaient sous sa peau. Il pensait que Balerion l'avait ramenée à Valyria. Le roi interdit ensuite tout voyage vers la péninsule, sous peine de mort. Rhaena dispersa les cendres de sa fille au vent, du haut de Dreamfyre.",
+            "en": "Late in 54 AC Aerea vanished from Dragonstone on Balerion, whom no one had ridden since Maegor's death. She was sought throughout the realm and as far as the Free Cities; Rhaena flew over the Seven Kingdoms on Dreamfyre. Septon Barth observed that a dragon left without a rider would have returned to its lair, and that if it had been seen nowhere, it had most likely gone east.\n\nOn the thirteenth day of the fourth month of 56 AC, Balerion landed in King's Landing with the girl clinging to his back, wasted, burning, her eyes full of blood. She died that same evening. Only Grand Maester Benifer and Barth attended her last hours; in his papers Barth describes shapes that moved beneath her skin. He believed Balerion had carried her back to Valyria. The king then forbade all voyages to the peninsula on pain of death. Rhaena scattered her daughter's ashes to the wind from Dreamfyre's back."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+            },
+            {
+              "id": "fab",
+              "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "balerion"
+      ],
+      "eventIds": [
+        "p4-sous-oeildieu",
+        "p4-mort-maegor",
+        "p4-aerea-balerion"
+      ],
+      "warIds": [
+        "soulevement-foi-militante"
+      ],
+      "disputed": {
+        "fr": "L'échange des jumelles à Villevieille ne fut jamais prouvé, et personne n'eut intérêt à le vérifier tant que l'héritière servait la couronne. Ce qu'Aerea vécut pendant plus d'un an d'absence est inconnu : l'hypothèse d'un retour de Balerion à Valyria est celle de Barth seul, et le récit de son agonie ne repose que sur ses papiers et sur quelques mots du chevalier qui la porta jusqu'au grand mestre.",
+        "en": "The switching of the twins in Oldtown was never proven, and no one had any interest in looking into it while the heir served the crown. What Aerea lived through in more than a year of absence is unknown: the theory that Balerion flew back to Valyria is Barth's alone, and the account of her death rests only on his papers and on a few words from the knight who carried her to the Grand Maester."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Sons of the Dragon"
+        },
+        {
+          "id": "fab",
+          "locator": "Prince into King: The Ascension of Jaehaerys I"
+        },
+        {
+          "id": "fab",
+          "locator": "A Surfeit of Rulers"
+        },
+        {
+          "id": "fab",
+          "locator": "Birth, Death, and Betrayal Under King Jaehaerys I"
+        },
+        {
+          "id": "fab",
+          "locator": "Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+        }
+      ]
+    },
+    {
+      "personId": "rhaenys-fille-aemon",
+      "titles": [
+        {
+          "fr": "Princesse de la maison Targaryen",
+          "en": "Princess of House Targaryen"
+        },
+        {
+          "fr": "Dame de Lamarck",
+          "en": "Lady of Driftmark"
+        }
+      ],
+      "lead": {
+        "fr": "Fille unique du prince Aemon, deux fois écartée du trône, en 92 et en 101 apr. C., Rhaenys fut l'épouse de Corlys Velaryon et la cavalière de Meleys, avec qui elle mourut à Repos-du-Freux en 129 apr. C.",
+        "en": "The only child of Prince Aemon, twice passed over for the throne, in 92 and 101 AC, Rhaenys was the wife of Corlys Velaryon and the rider of Meleys, with whom she died at Rook's Rest in 129 AC."
+      },
+      "sections": [
+        {
+          "id": "rhaenys-fille-aemon-jeunesse",
+          "heading": {
+            "fr": "La petite-fille du roi",
+            "en": "The King's Granddaughter"
+          },
+          "body": {
+            "fr": "Rhaenys naît le septième jour du septième mois de 74 apr. C., unique enfant du prince Aemon et de Jocelyn Baratheon. Fille du prince de Peyredragon, elle passe pour la suivante dans l'ordre de succession ; sa grand-mère Alysanne, en la voyant, la salue comme une future reine. Elle a les cheveux noirs de sa mère et les yeux lilas des Targaryen, et tous les témoins lui prêtent de l'orgueil, de la vivacité et du courage.\n\nEn 87 apr. C., elle réclame Meleys, la dragonne de sa tante Alyssa, morte trois ans plus tôt. En 89 apr. C., elle rejoint son grand-père en voyage, vole avec lui jusqu'aux îles Boucliers et lui annonce son intention d'épouser lord Corlys Velaryon ; elle obtient sa bénédiction. Le mariage a lieu en 90 apr. C. : elle a seize ans, son époux trente-sept. Elle tient à arriver à la cérémonie sur le dos de Meleys.",
+            "en": "Rhaenys was born on the seventh day of the seventh month of 74 AC, the only child of Prince Aemon and Jocelyn Baratheon. As the daughter of the Prince of Dragonstone, she was held to be next in the line of succession; her grandmother Alysanne, on seeing her, greeted her as a queen to be. She had her mother's black hair and the lilac eyes of the Targaryens, and every witness credits her with pride, spirit and courage.\n\nIn 87 AC she claimed Meleys, the dragon of her aunt Alyssa, who had died three years before. In 89 AC she joined her grandfather on his progress, flew with him to the Shield Islands and told him of her intention to marry Lord Corlys Velaryon; she received his blessing. The wedding took place in 90 AC: she was sixteen, her husband thirty-seven. She insisted on arriving at the ceremony on Meleys's back."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            }
+          ]
+        },
+        {
+          "id": "rhaenys-fille-aemon-ecartee",
+          "heading": {
+            "fr": "Deux fois écartée",
+            "en": "Twice Passed Over"
+          },
+          "body": {
+            "fr": "En 92 apr. C., Rhaenys est enceinte quand son père meurt à Torth. Jaehaerys choisit Baelon pour héritier, de préférence à elle et à l'enfant qu'elle porte. Elle proteste la première ; Corlys quitte le conseil restreint et l'amirauté, et le couple se retire à Lamarck. La reine, les Baratheon et les Velaryon partagent leur colère. Laena naît à la fin de l'année, Laenor en 94 apr. C. ; les deux maisons soutiennent que le garçon a un meilleur droit que Baelon.\n\nÀ la mort de Baelon, en 101 apr. C., le Grand Conseil de Harrenhal examine quatorze prétentions. Celles de Rhaenys et de Laena sont écartées parce qu'elles sont femmes, et le débat se réduit à Laenor et à Viserys. Le couple engage sa fortune et son crédit pour Laenor, soutenu par lord Boremund Baratheon, lord Ellard Stark et plusieurs seigneurs du Nord et des côtes. Les seigneurs choisissent Viserys. Champignon la nommera plus tard la Reine qui ne fut jamais.",
+            "en": "In 92 AC Rhaenys was with child when her father died on Tarth. Jaehaerys chose Baelon as his heir in preference to her and the child she carried. She was the first to protest; Corlys left the small council and the admiralty, and the couple withdrew to Driftmark. The queen, the Baratheons and the Velaryons shared their anger. Laena was born late that year, Laenor in 94 AC; both houses maintained that the boy had a better claim than Baelon.\n\nWhen Baelon died in 101 AC, the Great Council at Harrenhal considered fourteen claims. Those of Rhaenys and Laena were set aside because they were women, and the debate narrowed to Laenor and Viserys. The couple spent their fortune and their influence on Laenor, backed by Lord Boremund Baratheon, Lord Ellard Stark and a number of northern and coastal lords. The lords chose Viserys. Mushroom would later call her the Queen Who Never Was."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        },
+        {
+          "id": "rhaenys-fille-aemon-viserys",
+          "heading": {
+            "fr": "Sous Viserys Ier",
+            "en": "Under Viserys I"
+          },
+          "body": {
+            "fr": "Le règne de Viserys Ier lui offrit d'autres occasions d'être tenue à l'écart. En 105 apr. C., après la mort de la reine Aemma, le grand mestre Runciter propose au roi d'épouser Laena, alors âgée de douze ans ; Viserys lui préfère Alicent Hightower. Rhaenys et les siens ne paraissent pas au mariage de 106 apr. C., et Corlys se tourne vers le prince Daemon et la guerre des Degrés de Pierre.\n\nEn 114 apr. C., le roi marie enfin sa fille Rhaenyra à Laenor, ce qui rapproche les deux branches : les enfants de ce mariage sont, en droit, les petits-fils de Rhaenys et les héritiers du trône. Mais l'année 120 apr. C. lui prend ses deux enfants. Laena meurt après un accouchement malheureux ; Laenor est tué peu après, à une foire de Lamarck, par ser Qarl Correy, l'un de ses compagnons. À quarante-six ans, Rhaenys n'a plus d'enfant vivant ; ses descendants sont les fils de Rhaenyra, dont la naissance est contestée, et les jumelles de Laena.",
+            "en": "The reign of Viserys I gave her further occasions to be kept aside. In 105 AC, after Queen Aemma's death, Grand Maester Runciter suggested that the king marry Laena, then twelve years old; Viserys preferred Alicent Hightower. Rhaenys and her family did not attend the wedding in 106 AC, and Corlys turned to Prince Daemon and the war for the Stepstones.\n\nIn 114 AC the king at last married his daughter Rhaenyra to Laenor, which drew the two branches together: the children of that marriage were, in law, Rhaenys's grandsons and heirs to the throne. But the year 120 AC took both her children from her. Laena died after an ill-fated childbirth; Laenor was killed soon afterwards at a fair on Driftmark by Ser Qarl Correy, one of his companions. At forty-six Rhaenys had no living child; her descendants were Rhaenyra's sons, whose birth was disputed, and Laena's twin daughters."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "trp"
+            }
+          ]
+        },
+        {
+          "id": "rhaenys-fille-aemon-danse",
+          "heading": {
+            "fr": "Au conseil des noirs",
+            "en": "On the Black Council"
+          },
+          "body": {
+            "fr": "Quand Viserys meurt en 129 apr. C., Rhaenys siège au conseil de Rhaenyra à Peyredragon. Le plan des noirs lui confie un rôle précis : tandis que la flotte de Corlys ferme le Gosier, elle doit tenir le ciel au-dessus des navires sur Meleys pour décourager les dragons verts. Quand arrive la nouvelle de la mort de Lucerys, c'est elle et Corlys qui empêchent le jeune Joffrey de s'envoler pour venger son frère.\n\nSelon Champignon, la reine, accablée de chagrin, laisse alors à Rhaenys et à Corlys la conduite du conseil de guerre. Le bouffon est seul à l'affirmer, mais le récit des premiers mois montre le poids que le couple avait dans le camp noir : plus de la moitié de l'armée de Rhaenyra était faite d'hommes liés à la maison Velaryon, et Rhaenys était la dragonnière la plus expérimentée de son parti. Elle avait alors cinquante-cinq ans et plus de quarante années de vol derrière elle.",
+            "en": "When Viserys died in 129 AC, Rhaenys sat on Rhaenyra's council on Dragonstone. The blacks' plan gave her a precise task: while Corlys's fleet closed the Gullet, she was to hold the sky above the ships on Meleys to discourage the green dragons. When news came of Lucerys's death, it was she and Corlys who stopped young Joffrey from flying off to avenge his brother.\n\nAccording to Mushroom, the queen, overcome with grief, then left the conduct of the war council to Rhaenys and Corlys. The fool is alone in saying so, but the account of the first months shows how much weight the couple carried in the black camp: more than half of Rhaenyra's army was made up of men bound to House Velaryon, and Rhaenys was the most experienced dragonrider of her party. She was fifty-five by then, with more than forty years of flying behind her."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: A Son for a Son"
+            },
+            {
+              "id": "tpatq"
+            }
+          ]
+        },
+        {
+          "id": "rhaenys-fille-aemon-mort",
+          "heading": {
+            "fr": "Repos-du-Freux",
+            "en": "Rook's Rest"
+          },
+          "body": {
+            "fr": "En 129 apr. C., ser Criston Cole assiège Repos-du-Freux, le château de lord Staunton, qui appelle Peyredragon à l'aide. Neuf jours après l'appel, Rhaenys paraît au-dessus des assiégeants sur Meleys et les attaque. C'était un piège : Aegon II sur Sunfyre et Aemond sur Vhagar fondent sur elle. Rhaenys fait face au lieu de fuir, alors que Meleys ne pouvait l'emporter contre deux dragons. Les trois bêtes s'empoignent en l'air et tombent ensemble. Meleys meurt ; on trouve près d'elle un corps si calciné qu'on ne put l'identifier avec certitude.\n\nSa mort prive les noirs de leur dragonnière la plus aguerrie, mais elle coûte cher aux verts : Sunfyre est mutilé et le roi reste des mois entre la vie et la mort. Corlys reprocha à Rhaenyra d'avoir envoyé sa femme au lieu d'y aller elle-même, et d'avoir interdit à ses fils de l'accompagner. La femme qu'on avait deux fois écartée du trône mourut ainsi au service d'une autre héritière écartée.",
+            "en": "In 129 AC Ser Criston Cole laid siege to Rook's Rest, Lord Staunton's castle, and Staunton appealed to Dragonstone for help. Nine days after the appeal, Rhaenys appeared above the besiegers on Meleys and fell upon them. It was a trap: Aegon II on Sunfyre and Aemond on Vhagar descended on her. Rhaenys turned to fight rather than flee, though Meleys could not prevail against two dragons. The three beasts locked together in the air and fell as one. Meleys died; beside her lay a body so badly burned that it could not be identified with certainty.\n\nHer death deprived the blacks of their most seasoned dragonrider, but it cost the greens dearly: Sunfyre was maimed and the king hung between life and death for months. Corlys blamed Rhaenyra for sending his wife instead of going herself, and for forbidding her sons to go with her. The woman twice passed over for the throne thus died in the service of another heir who had been passed over."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "tpatq"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon II"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "meleys"
+      ],
+      "eventIds": [
+        "p4-mort-aemon",
+        "p4-grand-conseil-101",
+        "p5-alicent",
+        "p5-mariage-laenor",
+        "p5-printemps-rouge",
+        "p5-repos-des-freux",
+        "tv-p5-rhaenys-fossedragon",
+        "tv-p5-laenor"
+      ],
+      "warIds": [
+        "danse-des-dragons"
+      ],
+      "disputed": {
+        "fr": "Le rôle de Rhaenys à la tête du conseil de guerre noir n'est attesté que par Champignon. Le corps trouvé près de Meleys à Repos-du-Freux ne put être identifié avec certitude.",
+        "en": "Rhaenys's role at the head of the black war council rests on Mushroom's word alone. The body found beside Meleys at Rook's Rest could not be identified with certainty."
+      },
+      "adaptation": {
+        "fr": "Dans House of the Dragon, Rhaenys interrompt le couronnement d'Aegon II en faisant surgir Meleys du sol de Fossedragon, puis repart sans frapper ; dans les livres, elle se trouve alors à Lamarck. La série fait aussi survivre son fils Laenor, qui feint sa mort et s'enfuit en Essos, alors que les livres le font tuer en 120 apr. C. Sa mort à Repos-du-Freux est conservée.",
+        "en": "In House of the Dragon, Rhaenys interrupts Aegon II's coronation by bursting up through the floor of the Dragonpit on Meleys, then leaves without striking; in the books she is on Driftmark at the time. The series also lets her son Laenor survive by faking his death and fleeing to Essos, whereas in the books he is killed in 120 AC. Her death at Rook's Rest is kept."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "tpatq"
+        },
+        {
+          "id": "hotd",
+          "locator": "saison 1, épisodes 7 et 9 ; saison 2, épisode 4"
+        }
+      ]
+    },
+    {
+      "personId": "viserys-i",
+      "titles": [
+        {
+          "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes",
+          "en": "King of the Andals, the Rhoynar, and the First Men"
+        },
+        {
+          "fr": "Seigneur des Sept Couronnes et Protecteur du Royaume",
+          "en": "Lord of the Seven Kingdoms and Protector of the Realm"
+        },
+        {
+          "fr": "Prince de Peyredragon",
+          "en": "Prince of Dragonstone"
+        }
+      ],
+      "lead": {
+        "fr": "Choisi par le Grand Conseil de 101 apr. C., Viserys Ier régna de 103 à 129 apr. C. sur un royaume en paix, mais laissa à sa mort deux héritiers qui se réclamaient chacun de lui.",
+        "en": "Chosen by the Great Council of 101 AC, Viserys I reigned from 103 to 129 AC over a realm at peace, but left at his death two heirs who each claimed his authority."
+      },
+      "sections": [
+        {
+          "id": "viserys-i-jeunesse",
+          "heading": {
+            "fr": "Le dernier cavalier de Balerion",
+            "en": "Balerion's Last Rider"
+          },
+          "body": {
+            "fr": "Viserys naît en 77 apr. C., fils aîné du prince Baelon et de la princesse Alyssa. Neuf jours après sa naissance, sa mère l'emmène voler sur Meleys. Il a sept ans quand elle meurt des suites d'une troisième couche. Enfant rond et rieur selon le septon Barth, il grandit sans goût pour la joute, la chasse ou l'épée.\n\nEn 93 apr. C., il réclame Balerion, le dernier dragon né à Valyria. La bête, très vieille, se laisse difficilement mener ; ils font trois fois le tour de Port-Réal, et le prince renonce à pousser jusqu'à Peyredragon, de peur que le dragon n'en ait plus la force. Balerion meurt l'année suivante, et Viserys ne monte plus jamais de dragon. La même année 93 apr. C., il épouse sa cousine Aemma Arryn, âgée de onze ans. Après plusieurs fausses couches et un fils mort au berceau, leur fille Rhaenyra naît en 97 apr. C.",
+            "en": "Viserys was born in 77 AC, the elder son of Prince Baelon and Princess Alyssa. Nine days after his birth his mother took him flying on Meleys. He was seven when she died after a third childbirth. A plump and cheerful child according to Septon Barth, he grew up with no taste for jousting, hunting or the sword.\n\nIn 93 AC he claimed Balerion, the last dragon born in Valyria. The ancient beast was hard to rouse; they circled King's Landing three times, and the prince gave up any thought of flying on to Dragonstone, fearing the dragon no longer had the strength. Balerion died the following year, and Viserys never rode a dragon again. In that same year of 93 AC he married his cousin Aemma Arryn, then eleven. After several miscarriages and a son who died in the cradle, their daughter Rhaenyra was born in 97 AC."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "viserys-i-avenement",
+          "heading": {
+            "fr": "Le choix des seigneurs",
+            "en": "The Lords' Choice"
+          },
+          "body": {
+            "fr": "La mort de son père, en 101 apr. C., fait de Viserys l'un des deux candidats sérieux au Grand Conseil de Harrenhal, face à son cousin Laenor Velaryon, fils de Rhaenys. Les seigneurs le préfèrent, et Jaehaerys le nomme prince de Peyredragon. Il succède à son grand-père en 103 apr. C. Il hérite d'un trône sûr, d'un trésor plein et d'une maison qui compte plus de membres et de dragons qu'à aucun moment depuis le Fléau.\n\nLe nouveau roi est aimable, généreux, désireux de plaire, et sa cour devient un lieu de fêtes, de tournois et de faveurs. On le croit faible ; les chroniques le disent plutôt incapable de supporter un conflit, mais inébranlable une fois sa décision prise. Son frère Daemon se voit en héritier. Viserys l'aime sans vouloir de lui pour successeur ; il le fait entrer au conseil, puis, devant sa rivalité avec la Main, Otto Hightower, lui confie le commandement du Guet.",
+            "en": "His father's death in 101 AC made Viserys one of the two serious candidates before the Great Council at Harrenhal, against his cousin Laenor Velaryon, Rhaenys's son. The lords preferred him, and Jaehaerys named him Prince of Dragonstone. He succeeded his grandfather in 103 AC. He inherited a secure throne, a full treasury and a house with more members and more dragons than at any time since the Doom.\n\nThe new king was amiable, generous and eager to please, and his court became a place of feasts, tourneys and favours. Men thought him weak; the chronicles describe him rather as unable to bear conflict, yet unshakeable once he had made up his mind. His brother Daemon saw himself as heir. Viserys loved him without wanting him as successor; he gave him a seat on the council and then, faced with his rivalry with the Hand, Otto Hightower, put him in command of the City Watch."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            },
+            {
+              "id": "trp"
+            }
+          ]
+        },
+        {
+          "id": "viserys-i-heritiere",
+          "heading": {
+            "fr": "L'héritière de 105",
+            "en": "The Heir of 105 AC"
+          },
+          "body": {
+            "fr": "Viserys comptait sur un fils. En 105 apr. C., la reine Aemma meurt en couches ; l'enfant, nommé Baelon, ne lui survit qu'un jour. On rapporte au roi que Daemon, ivre dans une maison de la rue de la Soie, a raillé cet héritier d'un jour. Le chagrin de Viserys se change en colère. À l'issue du deuil, il fait proclamer sa fille Rhaenyra, huit ans, princesse de Peyredragon, et des centaines de seigneurs jurent de défendre son droit. Daemon quitte la cour.\n\nCe serment contredisait le précédent de 101 apr. C., qui avait porté Viserys au trône parce qu'on avait écarté une femme et son fils. Le roi ne vit pas, ou ne voulut pas voir, la contradiction. Il fit siéger Rhaenyra au conseil, l'instruisit comme une future reine régnante et s'en tint à ce choix jusqu'à sa mort, quoi qu'il advînt ensuite à sa cour.",
+            "en": "Viserys had been counting on a son. In 105 AC Queen Aemma died in childbed; the child, named Baelon, outlived her by a single day. The king was told that Daemon, drunk in a house on the Street of Silk, had mocked this heir for a day. Viserys's grief turned to anger. When the mourning was over, he had his eight-year-old daughter Rhaenyra proclaimed Princess of Dragonstone, and hundreds of lords swore to defend her right. Daemon left court.\n\nThat oath contradicted the precedent of 101 AC, which had raised Viserys to the throne by setting aside a woman and her son. The king did not see the contradiction, or would not. He gave Rhaenyra a seat on the council, schooled her as a future ruling queen and held to that choice until his death, whatever befell his court thereafter."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "trp"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "viserys-i-familles",
+          "heading": {
+            "fr": "Deux familles",
+            "en": "Two Families"
+          },
+          "body": {
+            "fr": "En 106 apr. C., Viserys épouse Alicent Hightower, fille de sa Main, de préférence à Laena Velaryon. Elle lui donne Aegon, Helaena, Aemond et Daeron. Le roi ne change rien à l'ordre de succession, qu'il juge réglé. Otto Hightower insiste tant qu'il est renvoyé à Villevieille et remplacé par lord Lyonel Strong. En 111 apr. C., au tournoi du cinquième anniversaire du mariage, les couleurs de la reine et de la princesse donnent leur nom aux verts et aux noirs.\n\nViserys passe la suite de son règne à apaiser une querelle qu'il refuse de trancher. Il exile Daemon une seconde fois ; il impose à Rhaenyra, en 114 apr. C., un mariage avec Laenor Velaryon en la menaçant de revenir sur sa succession ; il fait partager une nourrice à son petit-fils Jacaerys et à son fils Daeron. Quand la rumeur donne Harwin Strong pour père aux enfants de Rhaenyra, il décrète qu'on coupera la langue à quiconque la répète. Tant qu'il vit, la paix tient.",
+            "en": "In 106 AC Viserys married Alicent Hightower, his Hand's daughter, in preference to Laena Velaryon. She bore him Aegon, Helaena, Aemond and Daeron. The king changed nothing in the order of succession, which he considered settled. Otto Hightower pressed him so hard that he was sent back to Oldtown and replaced by Lord Lyonel Strong. In 111 AC, at the tourney for the fifth anniversary of the marriage, the colours worn by the queen and the princess gave their names to the greens and the blacks.\n\nViserys spent the rest of his reign soothing a quarrel he refused to settle. He exiled Daemon a second time; in 114 AC he forced on Rhaenyra a marriage with Laenor Velaryon by threatening to revisit her succession; he had his grandson Jacaerys and his son Daeron share a wet nurse. When rumour named Harwin Strong as the father of Rhaenyra's children, he decreed that anyone who repeated it would lose his tongue. As long as he lived, the peace held."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "trp"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "viserys-i-mort",
+          "heading": {
+            "fr": "Déclin et mort",
+            "en": "Decline and Death"
+          },
+          "body": {
+            "fr": "Avec l'âge, l'embonpoint du roi lui vaut la goutte, des douleurs et le souffle court. En 126 apr. C., à l'issue d'une audience où il a fait couper la langue à des Velaryon qui contestaient la légitimité des fils de Rhaenyra, il s'entaille la main jusqu'à l'os sur le Trône de Fer. La plaie s'infecte ; on ne le sauve qu'en lui ôtant deux doigts. Il ne s'assied plus jamais sur le trône. Pendant ces années, Otto Hightower, rappelé comme Main en 120 apr. C., remplit le conseil de partisans de la reine.\n\nViserys meurt dans son sommeil le troisième jour du troisième mois de 129 apr. C., après avoir raconté une histoire à ses petits-enfants et s'être plaint d'une oppression dans la poitrine. Alicent tait sa mort pendant que le conseil restreint décide de couronner Aegon, et la nouvelle n'est rendue publique qu'au bout d'une semaine. Le roi qui n'avait jamais voulu choisir laissait deux héritiers, chacun appuyé sur un acte de son règne.",
+            "en": "With age the king's girth brought him gout, aches and shortness of breath. In 126 AC, at the end of an audience in which he had ordered the tongues of some Velaryons removed for disputing the legitimacy of Rhaenyra's sons, he cut his hand to the bone on the Iron Throne. The wound festered; he was saved only by the removal of two fingers. He never sat the throne again. Throughout these years Otto Hightower, recalled as Hand in 120 AC, filled the council with the queen's partisans.\n\nViserys died in his sleep on the third day of the third month of 129 AC, after telling his grandchildren a story and complaining of a tightness in his chest. Alicent kept his death secret while the small council resolved to crown Aegon, and the news was made public only after a week. The king who had never wished to choose left two heirs, each resting on an act of his reign."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "tpatq"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "balerion"
+      ],
+      "eventIds": [
+        "p4-mort-balerion",
+        "p4-grand-conseil-101",
+        "p4-avenement-viserys",
+        "p4-degres-de-pierre",
+        "p5-rhaenyra-heritiere",
+        "p5-alicent",
+        "p5-verts-noirs",
+        "p5-mariage-laenor",
+        "p5-printemps-rouge",
+        "p5-mort-viserys"
+      ],
+      "warIds": [
+        "danse-des-dragons"
+      ],
+      "disputed": {
+        "fr": "La cause du second exil de Daemon, en 111 apr. C., est contestée : le grand mestre Runciter parle d'une simple querelle entre frères, la rumeur d'une liaison avec Rhaenyra. La paternité des fils de Rhaenyra n'a jamais été établie. L'incendie de Harrenhal, en 120 apr. C., qui tua Lyonel et Harwin Strong, fut attribué par la rumeur à Daemon, à Corlys Velaryon, à Larys Strong, et même au roi. Pendant la guerre, Perkin la Puce présenta son écuyer Trystane comme un bâtard de Viserys, sans preuve.",
+        "en": "The cause of Daemon's second exile in 111 AC is disputed: Grand Maester Runciter speaks of a simple quarrel between brothers, rumour of an affair with Rhaenyra. The paternity of Rhaenyra's sons was never established. The fire at Harrenhal in 120 AC, which killed Lyonel and Harwin Strong, was laid by rumour at the door of Daemon, Corlys Velaryon, Larys Strong, and even the king. During the war, Perkin the Flea presented his squire Trystane as a bastard of Viserys, without proof."
+      },
+      "adaptation": {
+        "fr": "Dans House of the Dragon, Viserys tient de ses ancêtres un songe d'Aegon le Conquérant qu'il transmet à Rhaenyra, et Alicent prend ses derniers mots, qui portaient sur ce songe, pour un vœu en faveur de leur fils Aegon ; rien de cela ne figure dans les livres. La série montre aussi une lente décomposition du corps du roi, là où les livres parlent de goutte, d'embonpoint et de deux doigts perdus.",
+        "en": "In House of the Dragon, Viserys has inherited from his forebears a dream of Aegon the Conqueror, which he passes on to Rhaenyra, and Alicent takes his last words, which concerned that dream, for a wish in favour of their son Aegon; none of this appears in the books. The series also shows the king's body slowly rotting away, whereas the books speak of gout, girth and two lost fingers."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "tpatq"
+        },
+        {
+          "id": "hotd",
+          "locator": "saison 1, épisodes 1 et 8"
+        }
+      ]
+    },
+    {
+      "personId": "aemma-arryn",
+      "titles": [
+        {
+          "fr": "Reine des Andals, des Rhoynars et des Premiers Hommes",
+          "en": "Queen of the Andals, the Rhoynar, and the First Men"
+        }
+      ],
+      "lead": {
+        "fr": "Petite-fille de Jaehaerys Ier par sa mère Daella, première épouse de Viserys Ier et mère de Rhaenyra, Aemma Arryn mourut en couches en 105 apr. C.",
+        "en": "A granddaughter of Jaehaerys I through her mother Daella, the first wife of Viserys I and the mother of Rhaenyra, Aemma Arryn died in childbed in 105 AC."
+      },
+      "sections": [
+        {
+          "id": "aemma-arryn-naissance",
+          "heading": {
+            "fr": "Une naissance aux Eyrié",
+            "en": "Born at the Eyrie"
+          },
+          "body": {
+            "fr": "Aemma naît en 82 apr. C., seule enfant de lord Rodrik Arryn et de sa seconde épouse, la princesse Daella, fille de Jaehaerys Ier. Le travail a commencé deux semaines trop tôt ; l'enfant est en bonne santé, mais sa mère, prise de fièvre, meurt avant le lendemain matin, sous les yeux de la reine Alysanne venue l'assister. Aemma a quatre demi-frères et sœurs, nés du premier mariage de son père, dont Elys et Amanda.\n\nEn 93 apr. C., à onze ans, elle épouse son cousin Viserys, fils du prince Baelon, alors héritier du trône. Le mariage n'est consommé que deux ans plus tard. Ces noces unissent deux lignées issues des enfants de Jaehaerys, celle de Baelon et celle de Daella, à un moment où la succession vient d'être fixée sur Baelon. Les chroniques parlent de l'alliance, non de l'enfant qu'on y engageait, et ne rapportent rien de ce qu'elle en pensait.",
+            "en": "Aemma was born in 82 AC, the only child of Lord Rodrik Arryn by his second wife, Princess Daella, daughter of Jaehaerys I. The labour had begun a fortnight early; the child was healthy, but her mother took a fever and died before the next morning, before the eyes of Queen Alysanne, who had come to attend her. Aemma had four half-siblings from her father's first marriage, among them Elys and Amanda.\n\nIn 93 AC, at eleven, she married her cousin Viserys, son of Prince Baelon, then heir to the throne. The marriage was consummated only two years later. The match joined two lines descended from the children of Jaehaerys, Baelon's and Daella's, at a time when the succession had just been settled on Baelon. The chronicles speak of the alliance, not of the child committed to it, and record nothing of what she thought of it."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            }
+          ]
+        },
+        {
+          "id": "aemma-arryn-grossesses",
+          "heading": {
+            "fr": "Les grossesses",
+            "en": "The Pregnancies"
+          },
+          "body": {
+            "fr": "Les premières années du mariage sont une suite d'épreuves. Aemma conçoit plusieurs fois, perd plusieurs enfants avant terme et met au monde un fils qui meurt au berceau. Certains mestres attribuent ces malheurs à un mariage et à une consommation trop précoces. En 97 apr. C., elle donne enfin naissance à une fille en bonne santé, Rhaenyra, que les deux parents adorent.\n\nEn 101 apr. C., le Grand Conseil fait de son mari l'héritier du trône, et en 103 apr. C. elle devient reine. La question de la succession revient aussitôt. Beaucoup redoutent que Daemon, frère du roi, ne soit l'héritier ; quand on l'interroge, Viserys répond seulement qu'il attend un fils d'Aemma. L'avenir de la dynastie repose ainsi, aux yeux du roi, sur une femme dont presque toutes les grossesses avaient mal fini. Pendant ce temps, Rhaenyra, seule enfant vivante du couple, accompagne son père à toutes les fêtes de la cour.",
+            "en": "The early years of the marriage were a succession of trials. Aemma conceived several times, lost several children before their time and gave birth to a son who died in the cradle. Some maesters blamed these misfortunes on a marriage and a consummation that came too early. In 97 AC she at last gave birth to a healthy daughter, Rhaenyra, whom both parents adored.\n\nIn 101 AC the Great Council made her husband heir to the throne, and in 103 AC she became queen. The question of the succession returned at once. Many feared that Daemon, the king's brother, would be the heir; when asked, Viserys answered only that he expected a son from Aemma. In the king's eyes, the future of the dynasty thus rested on a woman nearly all of whose pregnancies had ended badly. Meanwhile Rhaenyra, the couple's only living child, attended her father at every feast of the court."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "aemma-arryn-mort",
+          "heading": {
+            "fr": "La mort en couches",
+            "en": "Death in Childbed"
+          },
+          "body": {
+            "fr": "Au début de 105 apr. C., Aemma est de nouveau enceinte, et le roi l'annonce avec joie à la cour et au conseil. Elle accouche à la fin de l'année d'un fils, nommé Baelon d'après son grand-père, et meurt pendant l'accouchement. L'enfant ne lui survit qu'un jour.\n\nSa mort a des conséquences qui dépassent de loin le deuil d'un roi. Les railleries de Daemon sur cet « héritier d'un jour » brouillent les deux frères, et Viserys fait de Rhaenyra son héritière. Le conseil le presse de se remarier ; il épouse Alicent Hightower, qui lui donnera trois fils. De la succession de 105 apr. C. et de ce remariage sortiront les deux partis de la Danse des dragons. La lignée d'Aemma survécut pourtant à la guerre : par Rhaenyra, ses petits-fils Aegon III et Viserys II portèrent la couronne, et c'est de Viserys II que descendent les rois suivants.",
+            "en": "Early in 105 AC Aemma was with child again, and the king joyfully announced it to the court and council. Late in the year she gave birth to a son, named Baelon after his grandfather, and died in the delivery. The child outlived her by a single day.\n\nHer death had consequences far beyond a king's mourning. Daemon's jests about this “heir for a day” set the two brothers at odds, and Viserys made Rhaenyra his heir. The council pressed him to remarry; he wed Alicent Hightower, who would give him three sons. From the succession of 105 AC and that remarriage came the two parties of the Dance of the Dragons. Aemma's line nonetheless survived the war: through Rhaenyra, her grandsons Aegon III and Viserys II wore the crown, and the later kings descend from Viserys II."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "trp"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p4-grand-conseil-101",
+        "p4-avenement-viserys",
+        "p5-rhaenyra-heritiere",
+        "p5-alicent"
+      ],
+      "warIds": [],
+      "adaptation": {
+        "fr": "Dans House of the Dragon, Viserys fait ouvrir le ventre de la reine pendant le travail pour tenter de sauver l'enfant, et Aemma meurt de cette opération. Les livres disent seulement qu'elle mourut en couches.",
+        "en": "In House of the Dragon, Viserys has the queen cut open during labour in an attempt to save the child, and Aemma dies of the operation. The books say only that she died in childbed."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "hotd",
+          "locator": "saison 1, épisode 1"
+        }
+      ]
+    },
+    {
+      "personId": "corlys-velaryon",
+      "titles": [
+        {
+          "fr": "Seigneur des Marées",
+          "en": "Lord of the Tides"
+        },
+        {
+          "fr": "Sire de Lamarck",
+          "en": "Master of Driftmark"
+        },
+        {
+          "fr": "Main de la Reine",
+          "en": "Hand of the Queen"
+        },
+        {
+          "fr": "Régent d'Aegon III",
+          "en": "Regent for Aegon III"
+        },
+        {
+          "fr": "Maître des navires",
+          "en": "Master of Ships"
+        }
+      ],
+      "lead": {
+        "fr": "Navigateur des neuf voyages et seigneur de Lamarck, Corlys Velaryon fut maître des navires sous Jaehaerys Ier, l'allié décisif de Rhaenyra pendant la Danse des dragons, puis régent d'Aegon III.",
+        "en": "The navigator of the nine voyages and lord of Driftmark, Corlys Velaryon was master of ships under Jaehaerys I, Rhaenyra's decisive ally during the Dance of the Dragons, and then a regent for Aegon III."
+      },
+      "sections": [
+        {
+          "id": "corlys-velaryon-mer",
+          "heading": {
+            "fr": "Un marin",
+            "en": "A Sailor"
+          },
+          "body": {
+            "fr": "Corlys naît à Lamarck en 53 apr. C., fils de Corwyn Velaryon et petit-fils de lord Daemon Velaryon. À six ans, il traverse le détroit jusqu'à Pentos avec un oncle, et il navigue ensuite chaque année dans les équipages. Il commande son premier navire à seize ans. Dans ces années, il touche Villevieille, les Cités libres, les îles d'Été, Braavos et Fort-Levant ; il va même par mer au-delà du Mur, sans trouver de passage vers le nord autour de Westeros.\n\nSur le Serpent de mer, navire qu'il a conçu, il accomplit neuf grands voyages vers l'est. Le premier le mène au-delà de Qarth jusqu'à Yi Ti et Leng, et double la fortune de sa maison. Au dernier, il achète vingt navires à Qarth et les charge d'épices, de soie et d'éléphants : quatorze reviennent, les éléphants meurent tous, et Corlys devient plus riche que les Lannister et les Hightower. Le nom du navire lui reste comme surnom.",
+            "en": "Corlys was born on Driftmark in 53 AC, the son of Corwyn Velaryon and grandson of Lord Daemon Velaryon. At six he crossed the narrow sea to Pentos with an uncle, and thereafter he sailed every year as one of the crew. He commanded his first ship at sixteen. In those years he called at Oldtown, the Free Cities, the Summer Isles, Braavos and Eastwatch-by-the-Sea; he even sailed beyond the Wall, without finding a passage north around Westeros.\n\nOn the Sea Snake, a ship of his own design, he made nine great voyages to the east. The first took him past Qarth to Yi Ti and Leng, and doubled the fortune of his house. On the last he bought twenty ships in Qarth and loaded them with spices, silk and elephants: fourteen came home, all the elephants died, and Corlys became richer than the Lannisters and the Hightowers. The ship's name stayed with him as a byname."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "trotd"
+            }
+          ]
+        },
+        {
+          "id": "corlys-velaryon-seigneur",
+          "heading": {
+            "fr": "Le seigneur des Marées",
+            "en": "Lord of the Tides"
+          },
+          "body": {
+            "fr": "Héritier de son grand-père, Corlys devient seigneur des Marées et sire de Lamarck. Sa fortune lui permet de bâtir sur Lamarck un nouveau siège où il entrepose les trésors de l'Orient, tandis que deux bourgs marchands nés sur l'île détournent une part du commerce de Port-Réal. Il siège au conseil restreint comme maître des navires. En 90 apr. C., à trente-sept ans, il épouse Rhaenys, fille du prince Aemon, de vingt et un ans sa cadette.\n\nEn 92 apr. C., il conduit sa flotte à Torth pour soutenir Aemon contre les exilés myriens ; le prince est tué avant son arrivée. Quand Jaehaerys préfère Baelon à Rhaenys et à l'enfant qu'elle porte, Corlys abandonne sa charge et rentre à Lamarck. Laena naît à la fin de l'année, Laenor en 94 apr. C. Dès lors, la maison Velaryon se tient pour la branche lésée de la dynastie, et elle a les moyens de le faire savoir.",
+            "en": "Heir to his grandfather, Corlys became Lord of the Tides and Master of Driftmark. His fortune allowed him to build a new seat on Driftmark, where he stored the treasures of the east, while two merchant towns that grew up on the island drew part of the trade away from King's Landing. He sat on the small council as master of ships. In 90 AC, at thirty-seven, he married Rhaenys, Prince Aemon's daughter, twenty-one years his junior.\n\nIn 92 AC he took his fleet to Tarth to support Aemon against the Myrish exiles; the prince was killed before he arrived. When Jaehaerys preferred Baelon to Rhaenys and the child she carried, Corlys gave up his office and went home to Driftmark. Laena was born late that year, Laenor in 94 AC. From then on House Velaryon regarded itself as the wronged branch of the dynasty, and it had the means to make that known."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            },
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        },
+        {
+          "id": "corlys-velaryon-alliances",
+          "heading": {
+            "fr": "Le Grand Conseil et les Degrés de Pierre",
+            "en": "The Great Council and the Stepstones"
+          },
+          "body": {
+            "fr": "En 101 apr. C., on rapporte à la cour que Corlys rassemble navires et hommes pour défendre le droit de son fils. Le Grand Conseil écarte la menace : le couple y plaide pour Laenor de toute sa fortune, et perd. En 105 apr. C., le roi refuse Laena et épouse Alicent Hightower ; Corlys s'allie alors au prince Daemon. À partir de 106 apr. C., Daemon commande l'armée et Corlys la flotte contre la Triarchie, qui tient les Degrés de Pierre. En 109 apr. C., c'est Corlys qui pose la couronne sur la tête de Daemon.\n\nEn 114 apr. C., Laenor épouse Rhaenyra, et Corlys impose pour le premier enfant un prénom de sa maison, Jacaerys. Laena épouse Daemon. L'année 120 apr. C. lui enlève ses deux enfants. En 126 apr. C., malade, il voit son neveu Vaemond contester l'héritage de Lamarck en traitant de bâtards les fils de Rhaenyra ; Daemon fait exécuter Vaemond, et Corlys se rétablit.",
+            "en": "In 101 AC word reached the court that Corlys was gathering ships and men to defend his son's right. The Great Council defused the threat: the couple pleaded Laenor's cause there with all their fortune, and lost. In 105 AC the king turned down Laena and married Alicent Hightower; Corlys then allied himself with Prince Daemon. From 106 AC Daemon led the army and Corlys the fleet against the Triarchy, which held the Stepstones. In 109 AC it was Corlys who set the crown on Daemon's head.\n\nIn 114 AC Laenor married Rhaenyra, and Corlys insisted that the first child be given a name of his house, Jacaerys. Laena married Daemon. The year 120 AC took both his children from him. In 126 AC, while he lay ill, his nephew Vaemond contested the inheritance of Driftmark, calling Rhaenyra's sons bastards; Daemon had Vaemond executed, and Corlys recovered."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "trp"
+            }
+          ]
+        },
+        {
+          "id": "corlys-velaryon-danse",
+          "heading": {
+            "fr": "La guerre des noirs",
+            "en": "The Blacks' War"
+          },
+          "body": {
+            "fr": "En 129 apr. C., Corlys rejoint Rhaenyra à Peyredragon. Il est le plus grand seigneur de son parti : plus de la moitié de l'armée noire lui doit allégeance, et sa flotte ferme le Gosier, étranglant le commerce de Port-Réal. Il s'oppose à ceux qui veulent brûler la ville, puisqu'on veut la gouverner. La mort de Rhaenys à Repos-du-Freux le dresse contre la reine, qu'il en tient pour responsable ; Jacaerys le ramène en le faisant Main de la Reine.\n\nLa bataille du Gosier coûte à sa flotte un tiers de ses navires ; les survivants de la flotte de la Triarchie pillent et brûlent son château et ses trésors. Après la défection de deux dragonniers de basse naissance à Chutebourg, quand Rhaenyra fait arrêter ceux qui lui restent, il défend Addam Velaryon, le prévient et le laisse fuir sur Seasmoke. Il est battu, enchaîné, jeté dans une cellule noire. Ses hommes, qui formaient la moitié des forces de la reine dans la ville, désertent par centaines.",
+            "en": "In 129 AC Corlys joined Rhaenyra on Dragonstone. He was the greatest lord of her party: more than half of the black army owed him allegiance, and his fleet closed the Gullet, strangling the trade of King's Landing. He opposed those who wanted to burn the city, since the aim was to rule it. Rhaenys's death at Rook's Rest turned him against the queen, whom he held responsible; Jacaerys won him back by making him Hand of the Queen.\n\nThe battle in the Gullet cost his fleet a third of its ships; the survivors of the Triarchy's fleet sacked and burned his castle and his treasures. After two lowborn dragonriders went over to the enemy at Tumbleton, and Rhaenyra ordered the arrest of those who remained, he spoke up for Addam Velaryon, warned him and let him escape on Seasmoke. He was beaten, chained and thrown into a black cell. His men, who made up half the queen's strength in the city, deserted by the hundreds."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+            },
+            {
+              "id": "tpatq"
+            }
+          ]
+        },
+        {
+          "id": "corlys-velaryon-fin",
+          "heading": {
+            "fr": "La paix et la régence",
+            "en": "Peace and Regency"
+          },
+          "body": {
+            "fr": "Sorti de prison après la fuite de Rhaenyra, Corlys traite avec les verts. En échange de son ralliement à Aegon II, il obtient le pardon de tous ceux qui ont combattu pour Rhaenyra, la libération de sa petite-fille Baela et la promesse que le jeune Aegon, fils de Rhaenyra, épousera Jaehaera, fille du roi, et sera son héritier. Quand Aegon II parle de châtrer l'enfant et que d'autres réclament sa mort, Corlys quitte le conseil ; il y revient pour préparer, avec Larys Strong, la fin de la guerre.\n\nAprès la mort d'Aegon II, il demande la paix aux grands seigneurs du parti vert. Arrêté pendant l'Heure du Loup, il est libéré par un édit d'Aegon III. Régent du jeune roi à partir de 131 apr. C., il est le plus puissant de ses tuteurs quand il s'effondre dans l'escalier du Donjon Rouge, le sixième jour du troisième mois de 132 apr. C., à soixante-dix-neuf ans. Il est enseveli en mer, à bord du vieux Serpent de mer.",
+            "en": "Released from prison after Rhaenyra's flight, Corlys treated with the greens. In return for coming over to Aegon II, he obtained a pardon for all who had fought for Rhaenyra, the release of his granddaughter Baela and the promise that young Aegon, Rhaenyra's son, would marry Jaehaera, the king's daughter, and be his heir. When Aegon II spoke of gelding the boy and others called for his death, Corlys walked out of the council; he returned to prepare, with Larys Strong, the end of the war.\n\nAfter Aegon II's death he sued for peace with the great lords of the green party. Arrested during the Hour of the Wolf, he was freed by an edict of Aegon III. A regent for the young king from 131 AC, he was the most powerful of his guardians when he collapsed on the stairs of the Red Keep on the sixth day of the third month of 132 AC, aged seventy-nine. He was buried at sea aboard the old Sea Snake."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+            },
+            {
+              "id": "fab",
+              "locator": "Aftermath: The Hour of the Wolf"
+            },
+            {
+              "id": "fab",
+              "locator": "Under the Regents: The Hooded Hand"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon III"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p4-mort-aemon",
+        "p4-grand-conseil-101",
+        "p4-degres-de-pierre",
+        "p5-mariage-laenor",
+        "p5-printemps-rouge",
+        "p5-repos-des-freux",
+        "p5-gosier",
+        "p5-tumbleton-1",
+        "p5-mort-aegon-ii",
+        "p5-heure-du-loup",
+        "p6-regence",
+        "tv-p5-laenor"
+      ],
+      "warIds": [
+        "danse-des-dragons"
+      ],
+      "disputed": {
+        "fr": "Deux versions de sa libération existent : selon Gyldayn, les hommes de Perkin la Puce ouvrirent les cachots en prenant le Donjon Rouge ; selon Yandel, il fallut attendre le retour des hommes d'Aegon II. Addam et Alyn, qu'il défendit comme de vrais héritiers de Lamarck, passaient officiellement pour des bâtards de Laenor ; la rumeur les donnait pour ses propres fils. Champignon l'accuse d'avoir trempé dans l'incendie de Harrenhal en 120 apr. C. ; aucun autre témoin ne le dit. La date de la bataille du Gosier, fin 129 ou 130 apr. C., varie selon les récits, et Gyldayn doute que le dragon Cannibale ait survolé ses funérailles.",
+        "en": "There are two versions of his release: according to Gyldayn, the men of Perkin the Flea opened the dungeons when they took the Red Keep; according to Yandel, he had to wait for the return of Aegon II's men. Addam and Alyn, whom he defended as true heirs of Driftmark, were officially bastards of Laenor; rumour made them his own sons. Mushroom accuses him of a hand in the fire at Harrenhal in 120 AC; no other witness says so. The date of the battle in the Gullet, late 129 or 130 AC, varies between accounts, and Gyldayn doubts that the dragon Cannibal flew over his funeral."
+      },
+      "adaptation": {
+        "fr": "Dans House of the Dragon, son fils Laenor ne meurt pas en 120 apr. C. : il feint sa mort avec l'aide de Rhaenyra et de Daemon et s'enfuit en Essos, à l'insu de son père. Dans les livres, il est tué à Lamarck par Qarl Correy.",
+        "en": "In House of the Dragon, his son Laenor does not die in 120 AC: he fakes his death with the help of Rhaenyra and Daemon and flees to Essos, unbeknown to his father. In the books he is killed on Driftmark by Qarl Correy."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+        },
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "fab",
+          "locator": "Aftermath: The Hour of the Wolf"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Hooded Hand"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        },
+        {
+          "id": "trotd"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "tpatq"
+        },
+        {
+          "id": "hotd",
+          "locator": "saison 1, épisode 7"
+        }
+      ]
+    }
+  ]
+}

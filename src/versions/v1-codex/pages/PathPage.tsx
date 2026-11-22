@@ -1,11 +1,11 @@
 import { useParams } from 'react-router-dom';
 
 import { MAIN_ID } from '@/app/a11y';
-import { NotFound } from '@/app/NotFound';
+import { NotFound } from '../components/NotFound';
 import { VLink } from '@/app/version';
 import { getPath, paths } from '@/core/content/paths';
 import type { PathStep } from '@/core/content/types';
-import { Gloss, useLang, useT, useTx } from '@/core/i18n';
+import { Gloss, useLang, useT } from '@/core/i18n';
 
 import { Folio } from '../components/Folio';
 import { col } from '../components/grid';
@@ -13,6 +13,7 @@ import { Prose } from '../components/Prose';
 import { Rubric } from '../components/Rubric';
 import { Quiz } from './learn/Quiz';
 import styles from './PathPage.module.css';
+import { useTxTypo } from '../components/typo';
 
 /**
  * Un parcours (/apprendre/:pathId) : ses étapes dans l'ordre, chacune avec ce qu'il faut
@@ -96,7 +97,7 @@ export default function PathPage() {
 
 function Step({ step, n }: { step: PathStep; n: number }) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const { reading } = useLang();
   const id = `etape-${step.id}`;
   return (

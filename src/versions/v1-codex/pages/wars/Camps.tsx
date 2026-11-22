@@ -1,9 +1,10 @@
 import { getPerson } from '@/core/content/people';
 import type { Belligerent } from '@/core/content/types';
-import { useT, useTx } from '@/core/i18n';
+import { useT } from '@/core/i18n';
 
 import { EntityLink } from '../../components/EntityLink';
 import styles from './Camps.module.css';
+import { useTxTypo } from '../../components/typo';
 
 interface CampsProps {
   sides: readonly Belligerent[];
@@ -16,7 +17,7 @@ interface CampsProps {
  */
 export function Camps({ sides }: CampsProps) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const duel = sides.length === 2;
 
   return (

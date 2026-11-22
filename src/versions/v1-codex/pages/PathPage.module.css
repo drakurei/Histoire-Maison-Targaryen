@@ -49,6 +49,30 @@
   margin-block-end: var(--e3);
 }
 
+/*
+ * Téléphone et tablette : le retour passe en tête sur toute la largeur, le chiffre se range
+ * contre le titre seul ; sinon il repousse tout l'en-tête dans une colonne étroite.
+ */
+@media (max-width: 1023.98px) {
+  .header {
+    column-gap: var(--e4);
+    row-gap: var(--e2);
+  }
+
+  .headText {
+    display: contents;
+  }
+
+  .kicker {
+    grid-column: 1 / -1;
+    order: -1;
+  }
+
+  .meta {
+    grid-column: 1 / -1;
+  }
+}
+
 .section {
   margin-block: var(--e7) var(--e3);
   scroll-margin-block-start: 6rem;
@@ -147,7 +171,7 @@
 .link {
   display: inline-flex;
   align-items: center;
-  min-block-size: 2rem;
+  min-block-size: var(--cible);
   color: var(--v1-texte);
   font-weight: 500;
 }

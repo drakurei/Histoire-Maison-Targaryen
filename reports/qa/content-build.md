@@ -2,7 +2,7 @@
 
 Rapport écrit par `node scripts/build-content.mjs`. Ne pas le modifier à la main : il est réécrit à chaque exécution.
 
-État : aucune erreur bloquante. Avertissements : 1.
+État : aucune erreur bloquante. Avertissements : 0.
 
 ## Résumé chiffré
 
@@ -18,7 +18,7 @@ Rapport écrit par `node scripts/build-content.mjs`. Ne pas le modifier à la ma
 | Filiations | 132 |
 | Souverains | 18 |
 | Successions | 20 |
-| Biographies | 0 |
+| Biographies | 39 |
 | Dragons | 28 |
 | Guerres | 12 |
 | Batailles | 51 |
@@ -54,9 +54,7 @@ Rapport écrit par `node scripts/build-content.mjs`. Ne pas le modifier à la ma
 
 ## Avertissements
 
-### jeux absents (1)
-
-- content/characters/biographies/*.json absents : aucune biographie rédigée.
+Aucun.
 
 ## Références non résolues
 

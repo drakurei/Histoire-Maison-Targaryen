@@ -13,14 +13,16 @@
       },
       "status": "atteste",
       "context": {
-        "fr": "Formule de George R. R. Martin, qui écrit valar morghulis : Jaqen H'ghar la confie à Arya dans le deuxième volume du Trône de fer, et le sens n'en est donné que plus tard. En haut valyrien de Peterson : Thoros à Melisandre (Game of Thrones, saison 3, épisode 6), puis Ver Gris (saison 4, épisode 4), Hizdahr zo Loraq (saison 5, épisode 5) et Melisandre (saison 8, épisode 3). Salutation et signe de reconnaissance ; la réponse attendue est valar dohaeris.",
-        "en": "A formula of George R. R. Martin, who spells it valar morghulis: Jaqen H'ghar entrusts it to Arya in A Clash of Kings, and its meaning is only given later. In Peterson's High Valyrian: Thoros to Melisandre (Game of Thrones, season 3, episode 6), then Grey Worm (season 4, episode 4), Hizdahr zo Loraq (season 5, episode 5) and Melisandre (season 8, episode 3). A greeting and a sign of recognition; the expected reply is valar dohaeris."
+        "fr": "Formule de George R. R. Martin, qui écrit valar morghulis : Jaqen H'ghar la confie à Arya dans le deuxième livre du cycle, sans l'expliquer ; le sens n'en est donné qu'au livre suivant, quand Missandei la prononce devant Daenerys. En haut valyrien de Peterson : Thoros à Melisandre (Game of Thrones, saison 3, épisode 6), Hizdahr zo Loraq (saison 5, épisode 5) et Melisandre (saison 8, épisode 3) ; Ver Gris la dit aussi au cours d'un échange en astapori (saison 4, épisode 4). Salutation et signe de reconnaissance ; la réponse attendue est valar dohaeris.",
+        "en": "A formula of George R. R. Martin, who spells it valar morghulis: Jaqen H'ghar entrusts it to Arya in A Clash of Kings without explaining it; its meaning is only given in A Storm of Swords, when Missandei says it to Daenerys. In Peterson's High Valyrian: Thoros to Melisandre (Game of Thrones, season 3, episode 6), Hizdahr zo Loraq (season 5, episode 5) and Melisandre (season 8, episode 3); Grey Worm also says it during an exchange in Astapori (season 4, episode 4). A greeting and a sign of recognition; the expected reply is valar dohaeris."
       },
       "refs": [
         "https://wiki.languageinvention.com/index.php?title=Valar_morgh%C5%ABlis",
         "https://wiki.languageinvention.com/index.php?title=Morgh%C5%ABlis",
         "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_306",
-        "https://dothraki.com/?p=1227"
+        "https://dothraki.com/?p=1227",
+        "https://wiki.languageinvention.com/index.php?title=Season_4_Game_of_Thrones_Dialogue#Episode_404",
+        "https://awoiaf.westeros.org/index.php/Valar_morghulis"
       ]
     },
     {
@@ -34,14 +36,15 @@
       },
       "status": "atteste",
       "context": {
-        "fr": "Réponse à valar morghūlis. Chez Martin, un capitaine de Braavos la prononce lorsque Arya lui présente la pièce de Jaqen, à la fin du troisième volume du Trône de fer ; la traduction vient dans le quatrième. À l'écran : Melisandre (Game of Thrones, saison 3, épisode 6), puis la formule revient dans la saison 8, épisode 3, dite par Ver Gris.",
+        "fr": "Réponse à valar morghūlis. Chez Martin, un capitaine de Braavos la prononce lorsque Arya lui présente la pièce de Jaqen, à la fin du troisième livre du cycle ; la traduction ne vient que dans le quatrième, à Braavos. À l'écran : Melisandre (Game of Thrones, saison 3, épisode 6), puis la formule revient dans la saison 8, épisode 3, dite par Ver Gris.",
         "en": "The reply to valar morghūlis. In Martin, a Braavosi captain speaks it when Arya shows him Jaqen's coin, at the end of A Storm of Swords; the translation comes in A Feast for Crows. On screen: Melisandre (Game of Thrones, season 3, episode 6), and the formula returns in season 8, episode 3, spoken by Grey Worm."
       },
       "refs": [
         "https://wiki.languageinvention.com/index.php?title=Valar_dohaeris",
         "https://wiki.languageinvention.com/index.php?title=Dohaeris",
         "https://wiki.languageinvention.com/index.php?title=Season_3_Game_of_Thrones_Dialogue#Episode_306",
-        "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Corpus"
+        "https://wiki.languageinvention.com/index.php?title=High_Valyrian_Corpus",
+        "https://awoiaf.westeros.org/index.php/Valar_morghulis"
       ]
     },
     {

@@ -1,11 +1,11 @@
 import { useParams } from 'react-router-dom';
 
 import { MAIN_ID } from '@/app/a11y';
-import { NotFound } from '@/app/NotFound';
+import { NotFound } from '../components/NotFound';
 import { VLink } from '@/app/version';
 import { events, eventsOfPeriod, getEvent, getPeriod } from '@/core/content/timeline';
 import type { EntityRef, HistoricalEvent } from '@/core/content/types';
-import { Gloss, useLang, useT, useTx, yearParts } from '@/core/i18n';
+import { Gloss, useLang, useT, yearParts } from '@/core/i18n';
 
 import { EntityLink } from '../components/EntityLink';
 import type { EntityKind } from '../components/EntityLink';
@@ -21,6 +21,7 @@ import { YearRule } from '../components/YearRule';
 import { NeighbourNav } from './chronicles/NeighbourNav';
 import type { Neighbour } from './chronicles/NeighbourNav';
 import styles from './EventPage.module.css';
+import { useTxTypo } from '../components/typo';
 
 function MarginList({ titleKey, kind, refs }: { titleKey: string; kind: EntityKind; refs: readonly EntityRef[] }) {
   const t = useT();
@@ -42,7 +43,7 @@ function MarginList({ titleKey, kind, refs }: { titleKey: string; kind: EntityKi
 /** La date monumentale : le nombre en gothique, le sigle d'ère en cartel ; à défaut, la date telle que la source la donne. */
 function BigDate({ event }: { event: HistoricalEvent }) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const { reading } = useLang();
   const start = yearParts(event.year, reading);
   if (!start) return <p className={styles.dateLoose}>{tx(event.yearLabel)}</p>;
@@ -82,7 +83,7 @@ function neighbour(event: HistoricalEvent | undefined, tx: (loc: HistoricalEvent
 export default function EventPage() {
   const { periodId = '', eventId = '' } = useParams();
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const { reading } = useLang();
   const period = getPeriod(periodId);
   const event = getEvent(eventId);

@@ -60,6 +60,7 @@
 
 .rowLink {
   justify-self: start;
+  min-block-size: var(--cible);
   color: var(--v1-texte);
   text-decoration: none;
 }

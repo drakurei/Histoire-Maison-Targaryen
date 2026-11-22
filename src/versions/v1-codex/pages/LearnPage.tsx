@@ -5,7 +5,7 @@ import { VLink } from '@/app/version';
 import { paths } from '@/core/content/paths';
 import { periods } from '@/core/content/timeline';
 import type { LearningPath } from '@/core/content/types';
-import { formatSpan, Gloss, useLang, useT, useTx } from '@/core/i18n';
+import { formatSpan, Gloss, useLang, useT } from '@/core/i18n';
 
 import { EmptyState } from '../components/EmptyState';
 import { Folio } from '../components/Folio';
@@ -15,6 +15,7 @@ import { Rubric } from '../components/Rubric';
 import { readProgress, safeStorage } from './learn/progress';
 import type { PathProgress } from './learn/progress';
 import styles from './LearnPage.module.css';
+import { useTxTypo } from '../components/typo';
 
 /**
  * Apprendre (/apprendre) : les parcours, numérotés parce qu'ils forment une vraie suite,
@@ -84,7 +85,7 @@ function progressText(t: ReturnType<typeof useT>, progress: PathProgress): strin
 
 function PathRow({ path, progress }: { path: LearningPath; progress: PathProgress }) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const { reading } = useLang();
   return (
     <li className={styles.row} data-progress={progress.kind}>

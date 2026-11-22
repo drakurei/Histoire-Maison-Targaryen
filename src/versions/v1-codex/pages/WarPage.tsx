@@ -2,13 +2,13 @@ import { useEffect, useMemo } from 'react';
 import { useLocation, useParams } from 'react-router-dom';
 
 import { MAIN_ID } from '@/app/a11y';
-import { NotFound } from '@/app/NotFound';
+import { NotFound } from '../components/NotFound';
 import { VLink } from '@/app/version';
 import { getPlace, mapAvailable } from '@/core/content/places';
 import { getPeriod } from '@/core/content/timeline';
 import type { War } from '@/core/content/types';
 import { getWar, wars } from '@/core/content/wars';
-import { formatSpan, useLang, useT, useTitle, useTx, VALYRIAN_TAG } from '@/core/i18n';
+import { formatSpan, useLang, useT, useTitle, VALYRIAN_TAG } from '@/core/i18n';
 import { boundsOfPoints } from '@/shared/map';
 import type { MapBounds, MapFrame, WorldMapPlace } from '@/shared/map';
 
@@ -26,6 +26,7 @@ import styles from './WarPage.module.css';
 import { BattleEntry } from './wars/BattleEntry';
 import { Camps } from './wars/Camps';
 import { battleMarkers, battlesInOrder } from './wars/warModel';
+import { useTxTypo } from '../components/typo';
 
 /** Largeur minimale de la carte de situation, en unités de la carte. */
 const MIN_FRAME = 320;
@@ -38,7 +39,7 @@ export default function WarPage() {
   const { warId = '' } = useParams();
   const war = getWar(warId);
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const title = useTitle();
   const { reading } = useLang();
   const { hash } = useLocation();

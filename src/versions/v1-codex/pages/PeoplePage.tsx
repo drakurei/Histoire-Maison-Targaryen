@@ -4,7 +4,7 @@ import { MAIN_ID } from '@/app/a11y';
 import { VLink } from '@/app/version';
 import { persons } from '@/core/content/people';
 import type { Person } from '@/core/content/types';
-import { formatYear, useLang, useT, useTx } from '@/core/i18n';
+import { formatYear, useLang, useT } from '@/core/i18n';
 import { CrownGlyph, WingGlyph } from '@/shared/marks/Marks';
 
 import { EmptyState } from '../components/EmptyState';
@@ -20,6 +20,7 @@ import styles from './PeoplePage.module.css';
 import { countHouse, groupIndex, hasRole, HOUSE_FILTERS, matches, medianBirth, ROLES } from './people/peopleIndex';
 import type { IndexGroup, Role, SortMode } from './people/peopleIndex';
 import { ReignRibbon } from './people/ReignRibbon';
+import { useTxTypo } from '../components/typo';
 
 const SORTS: readonly SortMode[] = ['alpha', 'generation', 'house'];
 
@@ -32,7 +33,7 @@ function toggled<T>(set: ReadonlySet<T>, value: T): Set<T> {
 
 function Entry({ person }: { person: Person }) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const { reading } = useLang();
   const name = indexName(person, reading);
   const years = lifeYears(person, reading);

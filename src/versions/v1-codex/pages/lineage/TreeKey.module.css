@@ -89,9 +89,8 @@
 }
 
 .medal {
-  fill: oklch(0.88 0.05 82 / 0.75);
-  stroke: var(--v1-or-sombre);
-  stroke-width: 1.4;
+  fill: var(--velin-ombre);
+  stroke: none;
 }
 
 .crown {

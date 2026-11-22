@@ -2,11 +2,12 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 
 import type { Dragon, DragonLook, Localized } from '@/core/content/types';
 import { buildDragon } from '@/core/dragons/geometry';
-import { useT, useTx } from '@/core/i18n';
+import { useT } from '@/core/i18n';
 import { usePrefersReducedMotion } from '@/core/motion/reducedMotion';
 import { DragonFigure } from '@/shared/dragon';
 
 import styles from './Plate.module.css';
+import { useTxTypo } from '../../components/typo';
 
 interface PlateProps {
   dragon: Dragon;
@@ -33,7 +34,7 @@ function beatOf(look: DragonLook): number {
  */
 export function Plate({ dragon, name, colorNote }: PlateProps) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const reduced = usePrefersReducedMotion();
   const [flying, setFlying] = useState(false);
   const timer = useRef<number | null>(null);

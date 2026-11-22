@@ -1130,7 +1130,7 @@
             "en": "From one fourth son to another"
           },
           "body": {
-            "fr": "Daeron II épouse une princesse de Dorne, Myriah Martell, et en a quatre fils. L'aîné, Baelor, dit Briselance, meurt en 209 à Cendregué d'un coup reçu lors d'un procès par combat ; ses deux fils sont emportés la même année par le Grand Fléau de Printemps, comme Daeron II lui-même. La couronne passe au deuxième fils, Aerys Ier, qui meurt sans enfant en 221. Le troisième, Rhaegel, l'a précédé dans la tombe ; c'est donc le quatrième, Maekar, qui règne. À sa mort, en 233, l'héritier n'a rien d'évident : un Grand Conseil écarte une fillette, un nourrisson et mestre Aemon, qui refuse, puis choisit le quatrième fils de Maekar, Aegon, qu'on appelait l'Œuf dans sa jeunesse.",
+            "fr": "Daeron II épouse une princesse de Dorne, Myriah Martell, et en a quatre fils. L'aîné, Baelor, dit Briselance, meurt en 209 à Cendregué d'un coup reçu lors d'un procès par combat ; ses deux fils sont emportés la même année par le Grand Fléau de Printemps, comme Daeron II lui-même. La couronne passe au deuxième fils, Aerys Ier, qui meurt sans enfant en 221. Le troisième, Rhaegel, l'a précédé dans la tombe ; c'est donc le quatrième, Maekar, qui règne. À sa mort, en 233, l'héritier n'a rien d'évident : un Grand Conseil écarte une jeune fille, un nourrisson et mestre Aemon, qui refuse, puis choisit le quatrième fils de Maekar, Aegon, qu'on appelait l'Œuf dans sa jeunesse.",
             "en": "Daeron II married a princess of Dorne, Myriah Martell, and had four sons by her. The eldest, Baelor, called Breakspear, died at Ashford in 209 of a blow taken in a trial by combat; his two sons were carried off the same year by the Great Spring Sickness, as was Daeron II himself. The crown passed to the second son, Aerys I, who died childless in 221. The third, Rhaegel, had gone to the grave before him, so the fourth, Maekar, reigned. At his death in 233 the heir was anything but obvious: a Great Council set aside a girl, an infant and Maester Aemon, who refused, and chose Maekar's fourth son, Aegon, known in his youth as Egg."
           },
           "links": [
@@ -1240,8 +1240,8 @@
             "en": "What is left of the tree"
           },
           "body": {
-            "fr": "Rhaegar épouse Elia Martell en 280 ; ils ont deux enfants, Rhaenys et Aegon. En 283, Rhaegar meurt au Trident, puis Elia et ses enfants sont tués lors du sac de Port-Réal, où Aerys II périt aussi. La reine Rhaella, enceinte, a été envoyée à Peyredragon avec son fils Viserys ; Daenerys y naît en 284, et les deux enfants sont emmenés en Essos. Robert Baratheon monte sur le trône, fort de sa victoire et du sang de sa grand-mère. Dans les livres publiés, Daenerys est la dernière Targaryen dont la filiation ne fait pas de doute, avec le vieux mestre Aemon jusqu'à sa mort. Un jeune homme débarque pourtant en Westeros en se disant Aegon, fils de Rhaegar ; rien ne permet encore de confirmer ni d'écarter sa prétention.",
-            "en": "Rhaegar married Elia Martell in 280; they had two children, Rhaenys and Aegon. In 283 Rhaegar died at the Trident, and Elia and her children were killed in the sack of King's Landing, where Aerys II also perished. Queen Rhaella, with child, had been sent to Dragonstone with her son Viserys; Daenerys was born there in 284, and both children were carried off to Essos. Robert Baratheon took the throne on the strength of his victory and of his grandmother's blood. In the published books, Daenerys is the last Targaryen whose descent is not in doubt, together with old Maester Aemon until his death. Yet a young man lands in Westeros calling himself Aegon, son of Rhaegar; nothing yet allows his claim to be either confirmed or dismissed."
+            "fr": "Rhaegar épouse Elia Martell en 280 ; ils ont deux enfants, Rhaenys et Aegon. En 283, Rhaegar meurt au Trident, puis Elia et ses enfants sont tués, du moins le royaume le croit, lors du sac de Port-Réal, où Aerys II périt aussi. La reine Rhaella, enceinte, a été envoyée à Peyredragon avec son fils Viserys ; Daenerys y naît en 284, et les deux enfants sont emmenés en Essos. Robert Baratheon monte sur le trône, fort de sa victoire et du sang de sa grand-mère. Dans les livres publiés, Viserys meurt en 298 et mestre Aemon, dernier frère d'Aegon V, en 300 ; Daenerys reste alors la seule à porter le nom de Targaryen sans que son ascendance soit discutée. Un jeune homme débarque pourtant en Westeros en se disant Aegon, fils de Rhaegar ; rien ne permet encore de confirmer ni d'écarter sa prétention.",
+            "en": "Rhaegar married Elia Martell in 280; they had two children, Rhaenys and Aegon. In 283 Rhaegar died at the Trident, and Elia and her children were killed, or so the realm believed, in the sack of King's Landing, where Aerys II also perished. Queen Rhaella, with child, had been sent to Dragonstone with her son Viserys; Daenerys was born there in 284, and both children were carried off to Essos. Robert Baratheon took the throne on the strength of his victory and of his grandmother's blood. In the published books Viserys dies in 298 and Maester Aemon, the last brother of Aegon V, in 300; Daenerys is then the only one left bearing the Targaryen name whose descent is not open to question. Yet a young man lands in Westeros calling himself Aegon, son of Rhaegar; nothing yet allows his claim to be either confirmed or dismissed."
           },
           "links": [
             {
@@ -1275,8 +1275,8 @@
           ],
           "retain": [
             {
-              "fr": "Les enfants de Rhaegar et d'Elia meurent en 283.",
-              "en": "The children of Rhaegar and Elia die in 283."
+              "fr": "Les enfants de Rhaegar et d'Elia sont tenus pour morts en 283.",
+              "en": "Rhaegar and Elia's children are held to have died in 283."
             },
             {
               "fr": "Daenerys naît à Peyredragon en 284.",
@@ -2444,8 +2444,8 @@
           ],
           "answer": 1,
           "explanation": {
-            "fr": "Daemon sur Caraxès et Aemond sur Vhagar s'affrontèrent au-dessus de l'Œildieu en 130. Les deux princes et leurs dragons y trouvèrent la mort.",
-            "en": "Daemon on Caraxes and Aemond on Vhagar met in the air above the Gods Eye in 130. Both princes and both dragons died there."
+            "fr": "Daemon sur Caraxès et Aemond sur Vhagar s'affrontèrent au-dessus de l'Œildieu en 130. Les deux princes et leurs dragons y trouvèrent la mort. Vhagar, la plus vieille dragonne du royaume, tomba avec eux dans le lac.",
+            "en": "Daemon on Caraxes and Aemond on Vhagar met in the air above the Gods Eye in 130. Both princes and both dragons died there. Vhagar, the oldest dragon in the realm, fell into the lake with them."
           },
           "source": {
             "id": "fab"
@@ -2572,15 +2572,15 @@
             "en": "One dragon, one rider"
           },
           "body": {
-            "fr": "Les livres ne disent jamais exactement ce qu'est un dragon, et les mestres de Westeros en savent moins qu'ils ne le laissent croire. On sait que les dragons naissent d'œufs, qu'ils ne cessent de grandir tant qu'ils vivent et mangent à leur faim, que leur feu fond la pierre et l'acier, et qu'ils ne se laissent en général monter que par un seul cavalier à la fois, celui qui s'est lié à eux. Valyria fondait sa puissance sur ce lien, et les Targaryen en héritèrent. Un dragon sans cavalier n'en devient pas docile pour autant : plusieurs vivront sauvages à Peyredragon. Quand les livres ne décrivent pas les couleurs ou la taille d'un dragon, le parcours n'en dit rien.",
-            "en": "The books never say exactly what a dragon is, and the maesters of Westeros know less about them than they let on. We know that dragons hatch from eggs, that they never stop growing as long as they live and are well fed, that their fire melts stone and steel, and that as a rule they let only one rider at a time mount them, the one who has bonded with them. Valyria built its power on that bond, and the Targaryens inherited it. A dragon without a rider does not become tame for all that: several would live wild on Dragonstone. Where the books do not describe a dragon's colours or size, the path says nothing of them."
+            "fr": "Les livres ne disent jamais exactement ce qu'est un dragon, et les mestres de Westeros en savent moins qu'ils ne le laissent croire. On sait que les dragons naissent d'œufs, qu'ils ne cessent de grandir tant qu'ils vivent et mangent à leur faim, que leur feu fond la pierre et l'acier, et qu'ils ne se laissent en général monter que par un seul cavalier à la fois, celui qui s'est lié à eux. Valyria fondait sa puissance sur ce lien, et les Targaryen en héritèrent. Un dragon sans cavalier n'en devient pas docile pour autant : plusieurs vivront sauvages à Peyredragon.",
+            "en": "The books never say exactly what a dragon is, and the maesters of Westeros know less about them than they let on. We know that dragons hatch from eggs, that they never stop growing as long as they live and are well fed, that their fire melts stone and steel, and that as a rule they let only one rider at a time mount them, the one who has bonded with them. Valyria built its power on that bond, and the Targaryens inherited it. A dragon without a rider does not become tame for all that: several would live wild on Dragonstone."
           },
           "links": [
             {
-              "to": "/dragons",
+              "to": "/lieux/quatorze-flammes",
               "label": {
-                "fr": "Le registre des dragons",
-                "en": "The register of dragons"
+                "fr": "Les Quatorze Flammes",
+                "en": "The Fourteen Flames"
               }
             },
             {

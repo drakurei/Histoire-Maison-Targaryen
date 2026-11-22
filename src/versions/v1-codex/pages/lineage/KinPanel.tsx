@@ -4,13 +4,14 @@ import { VLink } from '@/app/version';
 import { getPerson, sovereigns } from '@/core/content/people';
 import type { Person } from '@/core/content/types';
 import { focusOn } from '@/core/genealogy';
-import { formatSpan, formatYear, useLang, useT, useTx } from '@/core/i18n';
+import { formatSpan, formatYear, useLang, useT } from '@/core/i18n';
 import { CrownGlyph } from '@/shared/marks/Marks';
 
 import { ReliabilityMark } from '../../components/ReliabilityMark';
 import styles from './KinPanel.module.css';
 import { CROWNED, graph, lifeYears, shortName } from './model';
 import { useKinWords } from './useKinWords';
+import { useTxTypo } from '../../components/typo';
 
 interface KinPanelProps {
   id: string;
@@ -43,7 +44,7 @@ function PersonButton({ person, onSelect, note }: { person: Person; onSelect: (i
  */
 export function KinPanel({ id, onSelect, onClose, placement }: KinPanelProps) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const { reading } = useLang();
   const words = useKinWords();
   const headingId = useId();

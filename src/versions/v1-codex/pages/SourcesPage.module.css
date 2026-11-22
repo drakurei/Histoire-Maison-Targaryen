@@ -273,7 +273,9 @@
 
 .memberLink {
   display: inline-block;
-  padding-block: 0.3rem;
+  min-block-size: var(--cible);
+  min-inline-size: var(--cible);
+  padding-block: 0.6rem;
   font-weight: 700;
   color: var(--v1-texte);
 }

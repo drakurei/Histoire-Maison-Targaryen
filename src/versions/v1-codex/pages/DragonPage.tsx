@@ -2,14 +2,14 @@ import { useMemo } from 'react';
 import { useParams } from 'react-router-dom';
 
 import { MAIN_ID } from '@/app/a11y';
-import { NotFound } from '@/app/NotFound';
+import { NotFound } from '../components/NotFound';
 import { VLink } from '@/app/version';
 import { dragons, getDragon, getExtraTextualNote, getLookNote } from '@/core/content/dragons';
 import { getPerson } from '@/core/content/people';
 import { events, periods } from '@/core/content/timeline';
 import type { Battle, Dragon } from '@/core/content/types';
 import { getBattle, getWar } from '@/core/content/wars';
-import { formatSpan, formatYear, useLang, useT, useTitle, useTx, VALYRIAN_TAG } from '@/core/i18n';
+import { formatSpan, formatYear, useLang, useT, useTitle, VALYRIAN_TAG } from '@/core/i18n';
 import { DragonScale } from '@/shared/dragon';
 
 import { EntityLink } from '../components/EntityLink';
@@ -27,6 +27,7 @@ import { useDragonYears } from './dragons/DragonRow';
 import { Plate } from './dragons/Plate';
 import { dragonEpochs, dragonName, firstKnownYear, neighbours } from './dragons/registry';
 import { SpanRuler } from './dragons/SpanRuler';
+import { useTxTypo } from '../components/typo';
 
 const BALERION = 'balerion';
 const NARRATIVE_END = 300;
@@ -55,7 +56,7 @@ export default function DragonPage() {
   const { dragonId = '' } = useParams();
   const dragon = getDragon(dragonId);
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const title = useTitle();
   const { reading } = useLang();
   const years = useDragonYears();

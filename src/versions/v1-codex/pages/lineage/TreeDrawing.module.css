@@ -133,20 +133,13 @@
   font-family: var(--f-recit);
 }
 
-/* Souverains : double médaillon d'or sombre, couronne, nom plus appuyé. */
-.medal,
-.medalInner {
-  fill: none;
-  stroke: var(--v1-or-sombre);
-}
-
+/*
+ * Souverains : un aplat d'ombre de vélin sous le nom, la couronne au-dessus, le nom plus
+ * appuyé. Aucun filet ni cadre d'or (DESIGN.md §0 et §2) : l'or est la couronne, pas un trait.
+ */
 .medal {
-  stroke-width: 1.6;
-  fill: oklch(0.88 0.05 82 / 0.75);
-}
-
-.medalInner {
-  stroke-width: 0.8;
+  fill: var(--velin-ombre);
+  stroke: none;
 }
 
 .crown {
@@ -155,11 +148,11 @@
 
 .node[data-crowned] .name {
   font-weight: 640;
-  stroke: oklch(0.88 0.05 82);
+  stroke: var(--velin-ombre);
 }
 
 .node[data-crowned] .years {
-  stroke: oklch(0.88 0.05 82);
+  stroke: var(--velin-ombre);
 }
 
 /* Sélection : un cartouche rubriqué ; le nom passe à l'encre rouge. */

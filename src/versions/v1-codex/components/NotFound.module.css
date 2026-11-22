@@ -1,0 +1,55 @@
+/* Page introuvable : la formule rubriquée, la phrase d'explication, le retour, la table des volumes. */
+.body {
+  max-inline-size: var(--mesure);
+  margin-block: var(--e5) var(--e6);
+  font-family: var(--f-recit);
+  font-size: var(--t1);
+  line-height: 1.45;
+  color: var(--v1-texte);
+  text-wrap: pretty;
+}
+
+/* L'action principale de la page : aplat de sang, angles vifs, 44 px au moins. */
+.action {
+  display: inline-flex;
+  align-items: center;
+  min-block-size: var(--cible);
+  padding: var(--e2) var(--e5);
+  color: var(--ivoire);
+  text-decoration: none;
+  background: var(--sang);
+  transition: background-color var(--d-geste-court) var(--c-expo);
+}
+
+.action:hover {
+  background: var(--cramoisi);
+}
+
+.actionMain {
+  font-family: var(--f-musee);
+  font-size: 1.0625rem;
+  font-weight: 500;
+}
+
+/* La glose sur l'aplat rouge : ivoire, pas l'encre pâle du vélin qui ne s'y lirait pas. */
+.action .actionTr {
+  font-family: var(--f-recit);
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--ivoire);
+}
+
+/* Même rangée que la table des volumes des chroniques et du portail. */
+.table {
+  margin-block-start: var(--e7);
+}
+
+.tableTitle {
+  grid-column: 1 / -1;
+}
+
+@media (min-width: 1024px) {
+  .tableTitle {
+    grid-column: 1 / 8;
+  }
+}

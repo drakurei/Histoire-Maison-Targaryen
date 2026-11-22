@@ -26,7 +26,9 @@
   flex-wrap: wrap;
   align-items: baseline;
   column-gap: 0.45em;
-  min-block-size: 1.75rem;
+  /* Une liste de sources se touche du doigt : 44 px par ligne (DESIGN.md §6). */
+  min-block-size: var(--cible);
+  padding-block: 0.6rem;
   color: var(--v1-texte);
   text-decoration: none;
 }

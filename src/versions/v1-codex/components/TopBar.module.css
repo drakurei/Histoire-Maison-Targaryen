@@ -75,7 +75,7 @@
   align-items: center;
   gap: var(--e3);
   inline-size: clamp(13rem, 26vw, 21rem);
-  min-block-size: 2.5rem;
+  min-block-size: var(--cible);
   padding: 0 var(--e3) 0 var(--e4);
   background: oklch(0.105 0.011 25);
   color: var(--cendre);

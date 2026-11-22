@@ -109,7 +109,8 @@
 
 .ref {
   display: inline-block;
-  padding-block: 0.3rem;
+  padding-block: 0.6rem;
+  min-block-size: var(--cible);
   color: var(--v1-texte);
   overflow-wrap: anywhere;
 }

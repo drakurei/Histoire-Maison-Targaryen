@@ -112,7 +112,7 @@
   display: flex;
   align-items: baseline;
   gap: var(--e3);
-  color: var(--v1-or-sombre);
+  color: var(--v1-or-encre);
   font-weight: 500;
   font-size: 0.92rem;
 }

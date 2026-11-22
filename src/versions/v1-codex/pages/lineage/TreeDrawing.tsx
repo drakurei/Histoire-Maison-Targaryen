@@ -194,7 +194,6 @@ export const TreeDrawing = memo(function TreeDrawing({
               {crowned ? (
                 <>
                   <ellipse className={styles.medal} cx={cx} cy={node.y + node.h / 2} rx={node.w / 2 + 4} ry={node.h / 2 + 2} />
-                  <ellipse className={styles.medalInner} cx={cx} cy={node.y + node.h / 2} rx={node.w / 2 + 0.5} ry={node.h / 2 - 1.5} />
                   <g transform={`translate(${cx - 7} ${node.y + 2})`} className={styles.crown}>
                     <CrownGlyph size="14" />
                   </g>

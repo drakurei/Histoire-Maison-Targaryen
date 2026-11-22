@@ -1,8 +1,9 @@
 import type { Localized } from '@/core/content/types';
-import { useLang, useTx } from '@/core/i18n';
+import { useLang } from '@/core/i18n';
 
 import { Lettrine } from './Lettrine';
 import styles from './Prose.module.css';
+import { useTxTypo } from './typo';
 
 interface ProseProps {
   /** Texte de récit ; les paragraphes sont séparés par une ligne vide. */
@@ -21,7 +22,7 @@ const PARAGRAPH_BREAK = /\n\s*\n/;
  * césure activée (l'attribut `lang` local la rend possible même en mode valyrien).
  */
 export function Prose({ text, lettrine = false, variant = 'recit', className }: ProseProps) {
-  const tx = useTx();
+  const tx = useTxTypo();
   const { reading } = useLang();
   const paragraphs = tx(text)
     .split(PARAGRAPH_BREAK)

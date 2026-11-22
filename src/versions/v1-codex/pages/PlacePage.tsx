@@ -2,7 +2,7 @@ import { useMemo } from 'react';
 import { useParams } from 'react-router-dom';
 
 import { MAIN_ID } from '@/app/a11y';
-import { NotFound } from '@/app/NotFound';
+import { NotFound } from '../components/NotFound';
 import { VLink } from '@/app/version';
 import { getPlace, mapAvailable, places } from '@/core/content/places';
 import { getEvent } from '@/core/content/timeline';
@@ -69,7 +69,7 @@ export default function PlacePage() {
         </header>
 
         {mapAvailable ? (
-          <Figure className={`${col.pleine} ${styles.mapFigure}`} caption={t('page.place.map.caption', { name: name.primary })}>
+          <Figure className={`${col.pleine} ${styles.mapFigure}`} caption={<MapCaption text={t('page.place.map.caption', { name: NAME_SLOT })} name={name.primary} hv={name.isHv} />}>
             <CodexMap
               places={mapPlaces}
               title={t('page.place.map.title', { name: name.primary })}
@@ -167,5 +167,19 @@ function BattleLine({ battle }: { battle: Battle }) {
         <p className={styles.annalOutcome}>{tx(battle.outcome)}</p>
       </div>
     </li>
+  );
+}
+
+/** Repère du nom dans la légende : le nom valyrien y reçoit son balisage de langue. */
+const NAME_SLOT = '\u0000';
+
+function MapCaption({ text, name, hv }: { text: string; name: string; hv: boolean }) {
+  const [before, after = ''] = text.split(NAME_SLOT);
+  return (
+    <>
+      {before}
+      <span lang={hv ? VALYRIAN_TAG : undefined}>{name}</span>
+      {after}
+    </>
   );
 }

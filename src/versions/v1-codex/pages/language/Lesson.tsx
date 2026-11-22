@@ -1,19 +1,20 @@
 import type { GrammarBlock, GrammarLesson, Localized } from '@/core/content/types';
-import { useLang, useT, useTx, VALYRIAN_TAG } from '@/core/i18n';
+import { useLang, useT, VALYRIAN_TAG } from '@/core/i18n';
 
 import { Prose } from '../../components/Prose';
 import { Rubric } from '../../components/Rubric';
 import { toRoman } from '../../components/numerals';
 import styles from './Lesson.module.css';
+import { useTxTypo } from '../../components/typo';
 
 /** Une cellule de tableau : la forme valyrienne quand elle existe (c'est le sujet de la leçon), sinon le texte lu. */
 function Cell({ value }: { value: Localized }) {
-  const tx = useTx();
+  const tx = useTxTypo();
   return value.hv ? <span lang={VALYRIAN_TAG}>{value.hv}</span> : <>{tx(value)}</>;
 }
 
 function Block({ block }: { block: GrammarBlock }) {
-  const tx = useTx();
+  const tx = useTxTypo();
   const { reading } = useLang();
 
   if (block.kind === 'p') return <Prose text={block.text} className={styles.p} />;
@@ -105,6 +106,6 @@ export function Lesson({ lesson }: { lesson: GrammarLesson }) {
 }
 
 function LessonTitle({ text }: { text: Localized }) {
-  const tx = useTx();
+  const tx = useTxTypo();
   return <>{tx(text)}</>;
 }

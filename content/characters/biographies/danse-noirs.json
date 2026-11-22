@@ -1,0 +1,2015 @@
+{
+  "schema": 1,
+  "generatedBy": "agent-02",
+  "items": [
+    {
+      "personId": "rhaenyra",
+      "titles": [
+        {
+          "fr": "Reine, couronnée à Peyredragon en 129 apr. C. (prétendante)",
+          "en": "Queen, crowned on Dragonstone in 129 AC (claimant)"
+        },
+        {
+          "fr": "Princesse de Peyredragon",
+          "en": "Princess of Dragonstone"
+        },
+        {
+          "fr": "Héritière désignée de Viserys Ier",
+          "en": "Designated heir of Viserys I"
+        },
+        {
+          "fr": "Princesse",
+          "en": "Princess"
+        }
+      ],
+      "lead": {
+        "fr": "Fille aînée de Viserys Ier, désignée héritière en 105 apr. C., Rhaenyra disputa le trône à son demi-frère Aegon II pendant la Danse des Dragons et le tint quelques mois avant d'être livrée à Sunfyre.",
+        "en": "Eldest child of Viserys I, named heir in 105 AC, Rhaenyra contested the throne with her half-brother Aegon II in the Dance of the Dragons and held it for a few months before she was given to Sunfyre."
+      },
+      "sections": [
+        {
+          "id": "rhaenyra-heritiere",
+          "heading": {
+            "fr": "Une héritière contre l'usage",
+            "en": "An Heir Against Custom"
+          },
+          "body": {
+            "fr": "Rhaenyra naît en 97 apr. C. du prince Viserys et d'Aemma Arryn, seule enfant du couple à survivre au berceau. Elle monte Syrax vers sept ans et, l'année suivante, devient l'échanson de son père, qu'elle sert à table, aux tournois et à la cour. Les chroniques la décrivent vive et hardie ; le peuple l'appelle alors le délice du royaume.\n\nEn 105 apr. C., Aemma meurt en couches et l'enfant, Baelon, ne lui survit qu'un jour. Viserys, blessé par les plaisanteries que Daemon aurait faites sur cet « héritier d'un jour », fait de sa fille la princesse de Peyredragon et réunit les seigneurs pour qu'ils lui jurent fidélité. Le geste contredit le Grand Conseil de 101 apr. C., qui avait écarté les droits transmis par les femmes. Le remariage du roi avec Alicent Hightower, l'année suivante, puis la naissance de deux fils rouvrent aussitôt la question que le serment devait clore.",
+            "en": "Rhaenyra was born in 97 AC to Prince Viserys and Aemma Arryn, the only child of the marriage to survive infancy. She flew Syrax at about seven and, a year later, became her father's cupbearer, serving him at table, at tourneys and at court. The chronicles describe a quick and bold girl; the smallfolk of the time called her the Realm's Delight.\n\nIn 105 AC Aemma died in childbirth, and the boy, Baelon, outlived her by a single day. Viserys, stung by the jokes Daemon was said to have made about an “heir for a day”, named his daughter Princess of Dragonstone and summoned the lords to swear fealty to her. The act ran against the Great Council of 101 AC, which had set aside claims passed through women. The king's remarriage to Alicent Hightower the following year, and then the birth of two sons, reopened at once the question the oath was meant to settle."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "rhaenyra-mariages",
+          "heading": {
+            "fr": "Deux mariages et une rumeur",
+            "en": "Two Marriages and a Rumour"
+          },
+          "body": {
+            "fr": "Le tournoi de 111 apr. C. donne leur nom aux deux partis : la reine y porte du vert, la princesse le rouge et le noir de sa maison. Viennent ensuite les prétendants, puis un mariage politique. En 114 apr. C., Rhaenyra épouse Laenor Velaryon, héritier de Lamarck, dont chacun savait qu'il préférait la compagnie des hommes ; Gyldayn rapporte qu'elle n'accepta l'union que sous la menace d'être remplacée par Aegon. Les époux vivent le plus souvent séparés.\n\nTrois fils naissent, Jacaerys, Lucerys et Joffrey, aux cheveux et aux yeux bruns, alors que leurs deux parents ont les traits de Valyria. La cour murmure le nom de ser Harwin Strong, toujours proche de la princesse. Viserys protège ses petits-fils et menace de la langue quiconque répète l'accusation. En 120 apr. C., après la mort de Laenor, Rhaenyra épouse en secret son oncle Daemon ; Aegon naît à la fin de l'année, Viserys en 122 apr. C.",
+            "en": "The tourney of 111 AC gave the two parties their names: the queen wore green, the princess the red and black of her house. Suitors followed, then a political marriage. In 114 AC Rhaenyra wed Laenor Velaryon, heir to Driftmark, whose preference for the company of men was common knowledge; Gyldayn reports that she accepted the match only under the threat of being replaced by Aegon. The couple lived apart most of the time.\n\nThree sons were born, Jacaerys, Lucerys and Joffrey, with brown hair and brown eyes, although both their parents had the looks of Valyria. The court whispered the name of Ser Harwin Strong, who was never far from the princess. Viserys shielded his grandsons and threatened the tongue of anyone who repeated the charge. In 120 AC, after Laenor's death, Rhaenyra secretly married her uncle Daemon; Aegon was born at the end of that year, Viserys in 122 AC."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "trp"
+            }
+          ]
+        },
+        {
+          "id": "rhaenyra-couronne",
+          "heading": {
+            "fr": "La couronne de Peyredragon",
+            "en": "The Crown of Dragonstone"
+          },
+          "body": {
+            "fr": "Viserys meurt en 129 apr. C. pendant que sa fille, enceinte, attend à Peyredragon. Les verts retiennent la nouvelle assez longtemps pour couronner Aegon II. Quand elle l'apprend, Rhaenyra entre en travail avant terme et met au monde une fille morte, Visenya, dont elle impute la perte à ses ennemis. Elle se fait couronner à son tour : ser Steffon Darklyn a rapporté de Port-Réal la couronne de Jaehaerys et de Viserys, et Daemon la lui pose sur la tête.\n\nElle rejette les conditions de son demi-frère, qui lui laissait Peyredragon contre sa renonciation. La guerre qu'elle conduit est d'abord une guerre d'alliances : ses fils partent en messagers, et Lucerys est tué au-dessus de la baie des Naufrageurs. Les pertes s'enchaînent, Repos-du-Freux puis le Gosier, jusqu'à ce qu'en 130 apr. C. les dragons des noirs la portent jusqu'à Port-Réal, que les verts n'ont plus les moyens de tenir.",
+            "en": "Viserys died in 129 AC while his daughter, heavily pregnant, waited on Dragonstone. The greens held back the news long enough to crown Aegon II. When it reached her, Rhaenyra went into early labour and gave birth to a dead daughter, Visenya, whose loss she laid at her enemies' door. She had herself crowned in turn: Ser Steffon Darklyn had brought from King's Landing the crown of Jaehaerys and Viserys, and Daemon set it on her head.\n\nShe rejected her half-brother's terms, which would have left her Dragonstone in exchange for giving up her claim. The war she led was at first a war of alliances: her sons went out as envoys, and Lucerys was killed over Shipbreaker Bay. Losses followed one another, Rook's Rest and then the Gullet, until in 130 AC the dragons of the blacks carried her into King's Landing, which the greens no longer had the means to hold."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: A Son for a Son"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "tpatq"
+            }
+          ]
+        },
+        {
+          "id": "rhaenyra-port-real",
+          "heading": {
+            "fr": "Six mois au Donjon Rouge",
+            "en": "Half a Year in the Red Keep"
+          },
+          "body": {
+            "fr": "Rhaenyra prend place sur le Trône de Fer et y reçoit, toute une nuit, la soumission des vaincus. Elle règne environ six mois. Les verts ont vidé le trésor avant de fuir ; son grand argentier lève impôt sur impôt, et la ville qui l'avait accueillie se met à l'affubler d'un sobriquet injurieux qui l'assimile à Maegor. Les têtes se multiplient au-dessus des portes.\n\nLa méfiance gagne la reine. Après la trahison de deux dragonniers à Tumbleton, elle déclare traîtres Addam Velaryon et Orties ; Corlys, qui a prévenu Addam, est emprisonné, et la flotte velaryonne se retire. La mort de la reine Helaena, que la rumeur lui impute, déclenche l'émeute. La foule du Berger prend d'assaut Fossedragon, Joffrey meurt en tentant de monter Syrax, et Syrax elle-même périt. Le lendemain, Rhaenyra quitte la ville avec son fils Aegon et une poignée de fidèles.",
+            "en": "Rhaenyra took her seat on the Iron Throne and spent a whole night there receiving the submission of the defeated. She ruled for about six months. The greens had emptied the treasury before they fled; her master of coin raised one tax after another, and the city that had welcomed her began to call her by an insulting name that likened her to Maegor. Heads multiplied above the gates.\n\nDistrust took hold of the queen. After two dragonriders changed sides at Tumbleton, she declared Addam Velaryon and Nettles traitors; Corlys, who had warned Addam, was imprisoned, and the Velaryon fleet withdrew. The death of Queen Helaena, which rumour laid at her door, set off a riot. The Shepherd's mob stormed the Dragonpit, Joffrey died trying to mount Syrax, and Syrax herself perished. The next day Rhaenyra left the city with her son Aegon and a handful of loyal followers."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+            }
+          ]
+        },
+        {
+          "id": "rhaenyra-fin",
+          "heading": {
+            "fr": "La fin à Peyredragon",
+            "en": "The End on Dragonstone"
+          },
+          "body": {
+            "fr": "La fuite est une longue déchéance. Sans argent, Rhaenyra vend sa couronne pour payer son passage sur un navire braavien et gagne Peyredragon, qu'elle croit encore sûr. L'île est tombée par trahison aux mains d'Aegon II. Ser Alfred Broome la livre ; ses derniers gardes sont tués. Dans la cour du château, Aegon II la fait brûler et dévorer par Sunfyre, blessé et incapable de voler, sous les yeux de son jeune fils Aegon.\n\nSa mémoire reste partagée. Pour les partisans d'Aegon II, elle fut une usurpatrice, et les listes officielles des rois ne la comptent pas ; pour d'autres, elle était l'héritière légitime de son père, trahie par le propre conseil de celui-ci. Ses deux fils cadets, nés de Daemon, ont pourtant régné l'un après l'autre, Aegon III puis Viserys II, si bien que tous les rois Targaryen venus ensuite descendent d'elle.",
+            "en": "Her flight was a long decline. Without money, Rhaenyra sold her crown to pay for passage on a Braavosi ship and made for Dragonstone, which she believed still safe. The island had fallen to Aegon II through treachery. Ser Alfred Broome handed her over; her last guards were cut down. In the castle yard Aegon II had her burned and devoured by Sunfyre, wounded and unable to fly, before the eyes of her young son Aegon.\n\nHer memory remains divided. To Aegon II's partisans she was a usurper, and the official lists of kings do not count her; to others she was her father's lawful heir, betrayed by his own council. Yet her two younger sons by Daemon both reigned in turn, Aegon III and then Viserys II, so that every Targaryen king who came after descends from her."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon II"
+            },
+            {
+              "id": "asos",
+              "locator": "Chapter 36"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "syrax",
+        "sunfyre"
+      ],
+      "eventIds": [
+        "p5-rhaenyra-heritiere",
+        "p5-alicent",
+        "p5-verts-noirs",
+        "p5-mariage-laenor",
+        "p5-printemps-rouge",
+        "p5-mort-viserys",
+        "p5-deux-couronnements",
+        "p5-accalmie",
+        "p5-chute-port-real",
+        "p5-fossedragon",
+        "p5-mort-rhaenyra"
+      ],
+      "warIds": [
+        "danse-des-dragons"
+      ],
+      "disputed": {
+        "fr": "La paternité de Jacaerys, Lucerys et Joffrey n'a jamais été établie : la version officielle les tient pour fils de Laenor Velaryon, la rumeur pour fils de Harwin Strong. Ses liens avec Daemon et avec ser Criston Cole avant son premier mariage ne sont connus que par le septon Eustace et le bouffon Champignon, qui se contredisent. Eustace, favorable aux verts, affirme aussi que le Trône de Fer la blessait chaque fois qu'elle s'y asseyait, détail qui sert sa thèse d'un règne rejeté.",
+        "en": "The paternity of Jacaerys, Lucerys and Joffrey was never established: the official version holds them to be Laenor Velaryon's sons, rumour Harwin Strong's. Her relations with Daemon and with Ser Criston Cole before her first marriage are known only through Septon Eustace and the fool Mushroom, who contradict each other. Eustace, who favoured the greens, also claims that the Iron Throne cut her each time she sat on it, a detail that suits his view of a reign the throne itself rejected."
+      },
+      "adaptation": {
+        "fr": "House of the Dragon laisse peu de doute sur la paternité de Harwin Strong et ajoute une prophétie transmise d'héritier en héritier, absente des livres, dont la série fait dépendre en partie le coup de force des verts à travers une méprise d'Alicent au chevet du roi mourant.",
+        "en": "House of the Dragon leaves little doubt about Harwin Strong's paternity and adds a prophecy handed down from heir to heir, absent from the books, on which the series partly rests the greens' seizure of power through Alicent's misreading of the dying king's words."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        },
+        {
+          "id": "tpatq"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "hotd",
+          "locator": "Season 1"
+        }
+      ]
+    },
+    {
+      "personId": "daemon",
+      "titles": [
+        {
+          "fr": "Prince",
+          "en": "Prince"
+        },
+        {
+          "fr": "Protecteur du royaume, sous Rhaenyra",
+          "en": "Protector of the Realm, under Rhaenyra"
+        },
+        {
+          "fr": "Roi des Degrés de Pierre et du Détroit (titre qu'il se donna)",
+          "en": "King of the Stepstones and the Narrow Sea (self-proclaimed)"
+        },
+        {
+          "fr": "Commandant du Guet de Port-Réal",
+          "en": "Commander of the City Watch of King's Landing"
+        },
+        {
+          "fr": "Grand argentier, puis maître des lois",
+          "en": "Master of coin, then master of laws"
+        }
+      ],
+      "lead": {
+        "fr": "Frère cadet de Viserys Ier, chevalier, cavalier de Caraxes et second mari de Rhaenyra, Daemon fut le principal chef de guerre des noirs jusqu'à sa mort au-dessus de l'Œildieu en 130 apr. C.",
+        "en": "Younger brother of Viserys I, a knight, rider of Caraxes and Rhaenyra's second husband, Daemon was the chief war leader of the blacks until his death above the Gods Eye in 130 AC."
+      },
+      "sections": [
+        {
+          "id": "daemon-jeunesse",
+          "heading": {
+            "fr": "Le cadet de Baelon",
+            "en": "Baelon's Younger Son"
+          },
+          "body": {
+            "fr": "Daemon naît en 81 apr. C. du prince Baelon et de sa sœur et épouse Alyssa, sous le règne de son grand-père Jaehaerys Ier. Fait chevalier à seize ans, il reçoit du vieux roi l'épée valyrienne Sœur Noire et lie son sort à Caraxes, un dragon rouge au long cou. En 97 apr. C., on le marie à Rhea Royce, héritière d'une puissante maison du Val ; il n'aime ni l'épouse ni la contrée, et les délaisse l'une et l'autre.\n\nAu Grand Conseil de 101 apr. C., il soutient son frère Viserys contre Laenor Velaryon, puisque la victoire de Viserys fait de lui l'héritier suivant, et rassemble des hommes d'armes au cas où les Velaryon recourraient à la force. Quand Viserys monte sur le trône en 103 apr. C., Daemon siège brièvement au conseil comme grand argentier, puis comme maître des lois. L'administration l'ennuie, et Otto Hightower, Main du roi, obtient qu'on l'en écarte.",
+            "en": "Daemon was born in 81 AC to Prince Baelon and his sister-wife Alyssa, in the reign of his grandfather Jaehaerys I. Knighted at sixteen, he received from the old king the Valyrian sword Dark Sister and bound his fate to Caraxes, a red dragon with a long neck. In 97 AC he was married to Rhea Royce, heir to a powerful house of the Vale; he cared neither for his wife nor for her country, and neglected both.\n\nAt the Great Council of 101 AC he backed his brother Viserys against Laenor Velaryon, since a victory for Viserys made him next in line, and he gathered men-at-arms in case the Velaryons resorted to force. When Viserys came to the throne in 103 AC, Daemon sat briefly on the council as master of coin, then as master of laws. Government bored him, and Otto Hightower, the King's Hand, had him removed."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "fab",
+              "locator": "The Long Reign: Jaehaerys and Alysanne: Policy, Progeny, and Pain"
+            }
+          ]
+        },
+        {
+          "id": "daemon-guet-degres",
+          "heading": {
+            "fr": "Le Guet et les Degrés de Pierre",
+            "en": "The Watch and the Stepstones"
+          },
+          "body": {
+            "fr": "Placé à la tête du Guet de Port-Réal, Daemon en fait une troupe redoutée : il équipe ses deux mille hommes, leur donne les manteaux d'or qu'ils garderont, et punit les voleurs avec une dureté dont les rues se souviennent. Il fréquente les bordels de Culpucier, où il rencontre Mysaria, et se fait appeler prince de la Cité. Il espère le titre de prince de Peyredragon ; Viserys le lui refuse.\n\nAprès la mort de la reine Aemma en 105 apr. C., ses railleries supposées sur le nouveau-né mort poussent le roi à proclamer héritière sa nièce. Daemon quitte la cour. L'année suivante, il s'allie à Corlys Velaryon contre la Triarchie, qui tient les Degrés de Pierre : la flotte est velaryonne, l'armée faite d'aventuriers et de fils cadets, et Caraxes apporte le feu. En 109 apr. C., Corlys le couronne roi des Degrés de Pierre et du Détroit, royaume pauvre dont Daemon se lasse vite.",
+            "en": "Placed at the head of the City Watch of King's Landing, Daemon made it a feared force: he equipped its two thousand men, gave them the gold cloaks they would keep, and punished thieves with a harshness the streets remembered. He frequented the brothels of Flea Bottom, where he met Mysaria, and had himself called Prince of the City. He hoped to be made Prince of Dragonstone; Viserys refused him.\n\nAfter Queen Aemma's death in 105 AC, his reported mockery of the dead newborn drove the king to proclaim his niece heir. Daemon left court. The following year he joined Corlys Velaryon against the Triarchy, which held the Stepstones: the fleet was Velaryon, the army made up of sellswords and younger sons, and Caraxes brought the fire. In 109 AC Corlys crowned him King of the Stepstones and the Narrow Sea, a poor realm Daemon soon tired of."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "daemon-mariages",
+          "heading": {
+            "fr": "Trois mariages",
+            "en": "Three Marriages"
+          },
+          "body": {
+            "fr": "Revenu à la cour en 111 apr. C., Daemon offre sa couronne à son frère, se réconcilie avec lui et passe de longues heures auprès de Rhaenyra. Six mois plus tard, il est de nouveau exilé, pour des motifs que chaque témoin explique à sa manière. En 115 apr. C., Rhea Royce meurt d'une chute de cheval. Le Val lui refuse les terres de sa femme ; Daemon se tourne vers Lamarck, tue en duel le fiancé braavien de Laena Velaryon et l'épouse sans l'aveu du roi.\n\nLe couple voyage dans les Cités libres ; leurs jumelles, Baela et Rhaena, naissent à Pentos en 116 apr. C. Laena meurt en 120 apr. C. Moins de six mois plus tard, alors que Laenor vient lui aussi de mourir, Daemon épouse en secret sa nièce Rhaenyra à Peyredragon. Viserys s'en indigne, puis finit par pardonner. En 126 apr. C., c'est Daemon qui fait décapiter Vaemond Velaryon, lequel contestait la légitimité des fils de Rhaenyra.",
+            "en": "Back at court in 111 AC, Daemon offered his crown to his brother, was reconciled with him and spent long hours at Rhaenyra's side. Six months later he was exiled again, for reasons each witness explains in his own way. In 115 AC Rhea Royce died after a fall from her horse. The Vale denied him his wife's lands; Daemon turned to Driftmark, killed Laena Velaryon's Braavosi betrothed in a duel and married her without the king's leave.\n\nThe couple travelled through the Free Cities; their twin daughters, Baela and Rhaena, were born in Pentos in 116 AC. Laena died in 120 AC. Less than six months later, with Laenor also newly dead, Daemon secretly married his niece Rhaenyra on Dragonstone. Viserys was furious, then in time forgave. In 126 AC it was Daemon who beheaded Vaemond Velaryon, who had challenged the legitimacy of Rhaenyra's sons."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            }
+          ]
+        },
+        {
+          "id": "daemon-danse",
+          "heading": {
+            "fr": "Le chef de guerre des noirs",
+            "en": "The War Leader of the Blacks"
+          },
+          "body": {
+            "fr": "À la mort de Viserys, Daemon couronne Rhaenyra et prend le titre de protecteur du royaume. Il conseille de gagner les grandes maisons encore indécises, puis passe aux actes : en 129 apr. C., Caraxes se pose sur une tour de Harrenhal, et la forteresse se rend sans combat, ce qui permet au Conflans de se déclarer pour la reine. Après la mort de Lucerys, il charge Mysaria de trouver deux tueurs, Sang et Fromage, qui assassinent au Donjon Rouge Jaehaerys, le jeune fils d'Aegon II.\n\nEn 130 apr. C., il rejoint Rhaenyra pour la prise de Port-Réal. Envoyé ensuite avec Orties chasser Aemond dans le Conflans, il garde la jeune dragonnière auprès de lui ; Champignon les dit amants, le mestre Norren décrit une affection presque paternelle. Quand la reine ordonne la mort d'Orties, Daemon, averti, l'aide à seller Sheepstealer et à s'enfuir, puis annonce qu'il repart pour Harrenhal.",
+            "en": "When Viserys died, Daemon crowned Rhaenyra and took the title of Protector of the Realm. He advised courting the great houses that had not yet declared, then acted: in 129 AC Caraxes landed on one of the towers of Harrenhal, and the fortress yielded without a fight, which allowed the Riverlands to declare for the queen. After Lucerys's death he had Mysaria find two killers, Blood and Cheese, who murdered Jaehaerys, Aegon II's young son, in the Red Keep.\n\nIn 130 AC he joined Rhaenyra for the taking of King's Landing. Sent afterwards with Nettles to hunt Aemond in the Riverlands, he kept the young dragonrider at his side; Mushroom calls them lovers, while Maester Norren describes an almost fatherly affection. When the queen ordered Nettles killed, Daemon, forewarned, helped her saddle Sheepstealer and get away, then announced that he was leaving for Harrenhal."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: A Son for a Son"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            }
+          ]
+        },
+        {
+          "id": "daemon-oeildieu",
+          "heading": {
+            "fr": "Au-dessus de l'Œildieu",
+            "en": "Above the Gods Eye"
+          },
+          "body": {
+            "fr": "À Harrenhal, Daemon attend seul. Chaque soir, dit-on, il entaille l'arbre-cœur du bois sacré. Au quatorzième jour, Aemond arrive sur Vhagar. Les deux dragons s'affrontent au-dessus du lac ; Caraxes, plus petit, prend Vhagar à la gorge, et Daemon passe d'une selle à l'autre pour enfoncer Sœur Noire dans l'œil que son neveu avait perdu. Les bêtes s'abîment dans l'Œildieu. Caraxes se traîne jusqu'à la rive pour y mourir ; Vhagar et Aemond sont retrouvés au fond du lac des années plus tard.\n\nLe corps de Daemon ne l'a jamais été. Les historiens tiennent sa mort pour certaine, mais les chanteurs l'ont fait survivre auprès d'Orties. Il n'a jamais porté la couronne qu'il convoitait ; ses deux fils par Rhaenyra, Aegon III et Viserys II, l'ont portée l'un après l'autre. Les entailles faites dans l'arbre de Harrenhal saignent, raconte-t-on, à chaque printemps.",
+            "en": "At Harrenhal Daemon waited alone. Each evening, it is said, he cut into the heart tree of the godswood. On the fourteenth day Aemond came on Vhagar. The two dragons met above the lake; Caraxes, the smaller, took Vhagar by the throat, and Daemon threw himself from one saddle to the other to drive Dark Sister through the eye his nephew had lost. The beasts plunged into the Gods Eye. Caraxes dragged himself to the shore to die; Vhagar and Aemond were found at the bottom of the lake years later.\n\nDaemon's body never was. Historians hold his death to be certain, but singers have him survive and live on with Nettles. He never wore the crown he coveted; his two sons by Rhaenyra, Aegon III and Viserys II, each wore it in turn. The cuts he made in the Harrenhal tree are said to bleed every spring."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "caraxes",
+        "vhagar"
+      ],
+      "eventIds": [
+        "p4-grand-conseil-101",
+        "p4-avenement-viserys",
+        "p4-degres-de-pierre",
+        "p5-rhaenyra-heritiere",
+        "p5-printemps-rouge",
+        "p5-deux-couronnements",
+        "p5-harrenhal-conflans",
+        "p5-sang-et-fromage",
+        "p5-chute-port-real",
+        "p5-oeildieu"
+      ],
+      "warIds": [
+        "danse-des-dragons"
+      ],
+      "disputed": {
+        "fr": "La cause de son exil de 111 apr. C. varie selon les témoins : simple querelle entre frères pour le grand mestre Runciter, séduction de Rhaenyra pour le septon Eustace, leçons de séduction données à la princesse pour Champignon. Champignon l'accuse aussi d'avoir payé Qarl Correy pour tuer Laenor Velaryon, sans aucune preuve, et Eustace le range parmi les suspects de l'incendie de Harrenhal en 120 apr. C. La nature de ses liens avec Orties reste discutée, et l'absence de corps a nourri la légende de sa survie.",
+        "en": "The cause of his exile in 111 AC varies with the witness: a mere quarrel between brothers for Grand Maester Runciter, the seduction of Rhaenyra for Septon Eustace, lessons in seduction given to the princess for Mushroom. Mushroom also accuses him, without any proof, of paying Qarl Correy to kill Laenor Velaryon, and Eustace counts him among the suspects for the fire at Harrenhal in 120 AC. The nature of his bond with Nettles remains debated, and the missing body fed the legend that he survived."
+      },
+      "adaptation": {
+        "fr": "Dans House of the Dragon, Daemon tue lui-même Rhea Royce, que les livres font mourir d'une chute de cheval, et il aide Laenor à simuler sa mort au lieu d'être soupçonné de l'avoir fait assassiner.",
+        "en": "In House of the Dragon Daemon kills Rhea Royce himself, whereas the books have her die after a fall from her horse, and he helps Laenor fake his death instead of being suspected of having him murdered."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "tpatq"
+        },
+        {
+          "id": "hotd",
+          "locator": "Season 1"
+        }
+      ]
+    },
+    {
+      "personId": "laenor-velaryon",
+      "titles": [
+        {
+          "fr": "Ser, chevalier",
+          "en": "Ser, knight"
+        },
+        {
+          "fr": "Héritier de Lamarck",
+          "en": "Heir to Driftmark"
+        },
+        {
+          "fr": "Prétendant au Grand Conseil de 101 apr. C.",
+          "en": "Claimant at the Great Council of 101 AC"
+        },
+        {
+          "fr": "Époux de la princesse de Peyredragon",
+          "en": "Husband of the Princess of Dragonstone"
+        }
+      ],
+      "lead": {
+        "fr": "Fils de Corlys Velaryon et de la princesse Rhaenys, Laenor fut écarté du trône enfant par le Grand Conseil de 101 apr. C., épousa Rhaenyra en 114 apr. C. et mourut en 120 apr. C., tué par l'un de ses compagnons.",
+        "en": "Son of Corlys Velaryon and Princess Rhaenys, Laenor was passed over for the throne as a child by the Great Council of 101 AC, married Rhaenyra in 114 AC and died in 120 AC, killed by one of his companions."
+      },
+      "sections": [
+        {
+          "id": "laenor-velaryon-grand-conseil",
+          "heading": {
+            "fr": "L'enfant du Grand Conseil",
+            "en": "The Child of the Great Council"
+          },
+          "body": {
+            "fr": "Laenor naît en 94 apr. C. de lord Corlys Velaryon et de la princesse Rhaenys, fille du prince Aemon, l'aîné de Jaehaerys Ier. Par sa mère, il appartient à la branche aînée ; c'est pourquoi les Velaryon et les Baratheon, parents de Rhaenys, soutiennent que son droit au trône vaut mieux que celui des fils de Baelon. Quand Baelon meurt en 101 apr. C., Jaehaerys convoque à Harrenhal un Grand Conseil pour fixer la succession.\n\nLaenor a sept ans. Ses parents engagent leur fortune et leurs alliances, et plusieurs seigneurs se déclarent pour lui, mais la grande majorité préfère un homme fait, descendant par les mâles : Viserys l'emporte très largement. L'issue installe pour longtemps l'idée qu'un droit transmis par une femme cède devant celui d'un homme. À cette date, l'enfant vient de se lier au jeune dragon Seasmoke, qu'il ne monte pas encore.",
+            "en": "Laenor was born in 94 AC to Lord Corlys Velaryon and Princess Rhaenys, daughter of Prince Aemon, the eldest son of Jaehaerys I. Through his mother he belonged to the senior line, which is why the Velaryons and the Baratheons, Rhaenys's kin, maintained that his claim to the throne was better than that of Baelon's sons. When Baelon died in 101 AC, Jaehaerys called a Great Council at Harrenhal to settle the succession.\n\nLaenor was seven. His parents committed their wealth and their alliances, and several lords declared for him, but the great majority preferred a grown man descended through the male line: Viserys won by a wide margin. The outcome long fixed the notion that a claim passed through a woman gives way to that of a man. By then the boy had just bonded with the young dragon Seasmoke, which he did not yet ride."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Jaehaerys I"
+            }
+          ]
+        },
+        {
+          "id": "laenor-velaryon-mariage",
+          "heading": {
+            "fr": "Un mariage d'État",
+            "en": "A Marriage of State"
+          },
+          "body": {
+            "fr": "En 114 apr. C., le conseil de Viserys choisit Laenor pour époux de Rhaenyra : l'union doit réconcilier les deux branches que le Grand Conseil avait opposées. Le seul obstacle avoué est son peu de goût pour les femmes ; le grand mestre Mellos passe outre. Laenor est fait chevalier quinze jours avant la noce. Au tournoi qui la célèbre, son favori, ser Joffrey Lonmouth, est mortellement blessé par ser Criston Cole et meurt quelques jours plus tard.\n\nLaenor regagne ensuite Lamarck, où ser Qarl Correy devient son compagnon, tandis que Rhaenyra reste à la cour. Il ne la rejoint que pour les cérémonies où on l'attend. Trois fils naissent : Jacaerys en 114 apr. C., Lucerys l'année suivante, Joffrey en 117 apr. C., ce dernier nommé selon le vœu de Laenor en souvenir de son ami mort. Aucun ne lui ressemble, et la rumeur désigne ser Harwin Strong. Laenor, lui, ne les a jamais reniés.",
+            "en": "In 114 AC Viserys's council chose Laenor as Rhaenyra's husband: the match was meant to reconcile the two branches the Great Council had set against each other. The only objection openly raised was his lack of interest in women; Grand Maester Mellos brushed it aside. Laenor was knighted a fortnight before the wedding. At the tourney held to celebrate it, his favourite, Ser Joffrey Lonmouth, was mortally wounded by Ser Criston Cole and died some days later.\n\nLaenor then went back to Driftmark, where Ser Qarl Correy became his companion, while Rhaenyra stayed at court. He joined her only for the ceremonies at which he was expected. Three sons were born: Jacaerys in 114 AC, Lucerys the following year, Joffrey in 117 AC, the last named at Laenor's wish after his dead friend. None of them resembled him, and rumour pointed to Ser Harwin Strong. Laenor himself never disowned them."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "trp"
+            }
+          ]
+        },
+        {
+          "id": "laenor-velaryon-mort",
+          "heading": {
+            "fr": "Une foire à Lamarck",
+            "en": "A Fair on Driftmark"
+          },
+          "body": {
+            "fr": "En 120 apr. C., Laenor se rend à une foire dans un bourg marchand de Lamarck. Des marchands l'entendent se quereller bruyamment avec Qarl Correy ; les lames sortent, et Laenor est tué. Correy s'enfuit et ne reparaît jamais, malgré la forte récompense que Corlys promet à qui le lui livrera. Le roi et la cour assistent aux funérailles à Lamarck, où se rassemblent tant de dragons que le septon Eustace parle d'une nouvelle Valyria. C'est pendant ce séjour qu'Aemond s'empare de Vhagar.\n\nSeasmoke reste sans cavalier près de dix ans, jusqu'à ce qu'Addam de la Carène le monte lors des Semailles. Ce même Addam et son frère Alyn sont présentés par leur mère comme des bâtards de Laenor, qui passait parfois par le chantier naval où elle travaillait ; beaucoup en doutent, mais Corlys les accueille et Rhaenyra les légitime. Moins de six mois après la mort de son mari, elle avait épousé Daemon.",
+            "en": "In 120 AC Laenor went to a fair in a market town on Driftmark. Merchants heard him quarrelling loudly with Qarl Correy; blades were drawn, and Laenor was killed. Correy fled and was never seen again, despite the large reward Corlys promised to whoever delivered him. The king and court attended the funeral on Driftmark, where so many dragons gathered that Septon Eustace spoke of a new Valyria. It was during that stay that Aemond claimed Vhagar.\n\nSeasmoke remained riderless for almost ten years, until Addam of Hull mounted him during the Sowing. That same Addam and his brother Alyn were presented by their mother as Laenor's bastards, for he had sometimes called at the shipyard where she worked; many doubted it, but Corlys took them in and Rhaenyra legitimised them. Less than six months after her husband's death she had married Daemon."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "seasmoke"
+      ],
+      "eventIds": [
+        "p4-grand-conseil-101",
+        "p5-mariage-laenor",
+        "p5-printemps-rouge",
+        "p5-semailles"
+      ],
+      "warIds": [],
+      "disputed": {
+        "fr": "Le motif de Qarl Correy reste inconnu : jalousie envers un nouveau favori selon le septon Eustace, meurtre commandé par Daemon selon Champignon, qui n'en donne aucune preuve. La paternité des trois fils de Rhaenyra est contestée, comme celle d'Addam et d'Alyn de la Carène, que Champignon attribue à Corlys lui-même.",
+        "en": "Qarl Correy's motive remains unknown: jealousy of a new favourite according to Septon Eustace, a killing ordered by Daemon according to Mushroom, who offers no proof. The paternity of Rhaenyra's three sons is contested, as is that of Addam and Alyn of Hull, whom Mushroom attributes to Corlys himself."
+      },
+      "adaptation": {
+        "fr": "House of the Dragon montre Laenor simulant sa mort avec l'aide de Daemon et partant pour Essos avec Qarl Correy ; dans les livres, il meurt de la main de Correy.",
+        "en": "House of the Dragon shows Laenor faking his death with Daemon's help and leaving for Essos with Qarl Correy; in the books he dies at Correy's hand."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Jaehaerys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "hotd",
+          "locator": "Season 1"
+        }
+      ]
+    },
+    {
+      "personId": "laena-velaryon",
+      "titles": [
+        {
+          "fr": "Dame de la maison Velaryon",
+          "en": "Lady of House Velaryon"
+        },
+        {
+          "fr": "Cavalière de Vhagar",
+          "en": "Rider of Vhagar"
+        },
+        {
+          "fr": "Épouse du prince Daemon",
+          "en": "Wife of Prince Daemon"
+        }
+      ],
+      "lead": {
+        "fr": "Fille aînée de Corlys Velaryon et de la princesse Rhaenys, Laena monta Vhagar, épousa le prince Daemon en 115 apr. C. et mourut des suites de couches en 120 apr. C.",
+        "en": "Elder child of Corlys Velaryon and Princess Rhaenys, Laena rode Vhagar, married Prince Daemon in 115 AC and died after childbirth in 120 AC."
+      },
+      "sections": [
+        {
+          "id": "laena-velaryon-enfance",
+          "heading": {
+            "fr": "La fille du Serpent de mer",
+            "en": "The Sea Snake's Daughter"
+          },
+          "body": {
+            "fr": "Laena naît à la fin de 92 apr. C., peu après la mort de son grand-père, le prince Aemon. Avant sa naissance, la cour a débattu de « l'enfant dans le ventre » : un fils de Rhaenys aurait pu faire valoir les droits de la branche aînée. C'est une fille, et en 101 apr. C. le Grand Conseil l'écarte avec sa mère au profit de Viserys.\n\nEncore enfant, Laena devient la cavalière de Vhagar, ancienne monture de la reine Visenya et la plus grande des bêtes que possèdent alors les Targaryen. Après la mort d'Aemma Arryn, le grand mestre Runciter suggère au roi d'épouser cette jeune fille de douze ans pour réconcilier les deux maisons. Viserys lui préfère Alicent Hightower. Corlys s'en offense ; Laena, à en croire le mestre de son père, se souciait davantage de voler que de prétendants.",
+            "en": "Laena was born late in 92 AC, shortly after the death of her grandfather, Prince Aemon. Before her birth the court had argued over “the boy in the belly”: a son of Rhaenys might have pressed the rights of the senior line. She was a girl, and in 101 AC the Great Council passed over her and her mother in favour of Viserys.\n\nWhile still a child, Laena became the rider of Vhagar, once Queen Visenya's mount and the largest beast the Targaryens then possessed. After Aemma Arryn's death, Grand Maester Runciter suggested that the king marry this girl of twelve to reconcile the two houses. Viserys preferred Alicent Hightower. Corlys took offence; Laena, if her father's maester is to be believed, cared more for flying than for suitors."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "laena-velaryon-daemon",
+          "heading": {
+            "fr": "Le mariage de Lamarck",
+            "en": "The Driftmark Marriage"
+          },
+          "body": {
+            "fr": "À douze ans, Laena est promise à un fils du Seigneur de la Mer de Braavos. Le père meurt, le fils dilapide sa fortune et vient s'installer à Lamarck, et pendant des années Corlys trouve des raisons de repousser la noce sans oser rompre la promesse. En 115 apr. C., Daemon, veuf depuis peu, arrive sur l'île ; il provoque le fiancé, le tue en duel avec Sœur Noire, et épouse Laena quinze jours plus tard. Les chanteurs y voient un coup de foudre, d'autres un calcul.\n\nSachant le roi mécontent, les époux gagnent Pentos sur leurs dragons, puis Volantis, Qohor et Norvos. Revenue à Pentos, Laena s'y découvre enceinte et y met au monde, en 116 apr. C., deux filles jumelles, Baela et Rhaena. Six mois plus tard, elle les ramène par mer à Lamarck, tandis que Daemon ramène les dragons par la voie des airs.",
+            "en": "At twelve Laena was promised to a son of the Sealord of Braavos. The father died, the son squandered his fortune and came to live on Driftmark, and for years Corlys found reasons to put off the wedding without daring to break the promise. In 115 AC Daemon, lately widowed, came to the island; he provoked the betrothed, killed him in a duel with Dark Sister and married Laena a fortnight later. Singers saw love at first sight, others a calculation.\n\nKnowing the king would be displeased, the couple flew to Pentos on their dragons, then on to Volantis, Qohor and Norvos. Back in Pentos, Laena found she was with child and gave birth there, in 116 AC, to twin daughters, Baela and Rhaena. Six months later she brought them home to Driftmark by sea, while Daemon flew the dragons back."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            }
+          ]
+        },
+        {
+          "id": "laena-velaryon-mort",
+          "heading": {
+            "fr": "La mort dans la tour",
+            "en": "Death in the Tower"
+          },
+          "body": {
+            "fr": "Revenue à l'ouest, Laena se lie d'amitié avec Rhaenyra, sa belle-sœur par Laenor ; les deux femmes se rendent visite et volent ensemble. En 118 apr. C., avec l'accord du roi, les jumelles sont promises aux deux fils aînés de la princesse. Enceinte de nouveau en 119 apr. C., Laena entre en travail dans les premiers jours de 120 apr. C., Rhaenyra à son chevet. Après un jour et une nuit, elle met au monde un fils difforme, qui meurt dans l'heure.\n\nLa fièvre suit. Ni le mestre de Lamarck ni celui de Peyredragon ne parviennent à la sauver, et elle s'éteint après trois jours de délire. On rapporte qu'elle se leva pour rejoindre Vhagar, voulant voler encore une fois, et que ses forces la trahirent dans l'escalier de la tour. Sa mort laisse Vhagar sans cavalier ; aux funérailles de Laenor, la même année, le jeune Aemond s'en empare. Baela donnera plus tard le prénom de sa mère à sa première fille.",
+            "en": "Back in the west, Laena grew close to Rhaenyra, her sister-in-law through Laenor; the two women visited each other and flew together. In 118 AC, with the king's consent, the twins were betrothed to the princess's two eldest sons. With child again in 119 AC, Laena went into labour in the first days of 120 AC, with Rhaenyra at her side. After a day and a night she bore a misshapen son, who died within the hour.\n\nFever followed. Neither the maester of Driftmark nor the maester of Dragonstone could save her, and she died after three days of delirium. It is said that she rose from her bed to go to Vhagar, wanting to take wing once more, and that her strength gave out on the stairs of the tower. Her death left Vhagar without a rider; at Laenor's funeral the same year, the young Aemond claimed her. Baela would later give her mother's name to her first daughter."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "fab",
+              "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "vhagar"
+      ],
+      "eventIds": [
+        "p4-grand-conseil-101",
+        "p5-alicent",
+        "p5-printemps-rouge"
+      ],
+      "warIds": [],
+      "disputed": {
+        "fr": "Les motifs de Daemon en l'épousant sont discutés : passion selon les chanteurs, ambition et besoin d'alliés selon d'autres. Champignon prétend que le couple alla jusqu'aux ruines de Valyria ; des sources jugées plus sûres le font seulement voyager dans les Cités libres. Sa dernière tentative pour rejoindre Vhagar n'est rapportée que comme une tradition.",
+        "en": "Daemon's motives in marrying her are debated: passion according to the singers, ambition and the need for allies according to others. Mushroom claims the couple went as far as the ruins of Valyria; sources considered more reliable have them travel only through the Free Cities. Her last attempt to reach Vhagar is reported only as a tradition."
+      },
+      "adaptation": {
+        "fr": "House of the Dragon la fait mourir pendant l'accouchement en ordonnant à Vhagar de la brûler ; dans les livres, elle succombe à la fièvre quelques jours après la naissance de son fils.",
+        "en": "House of the Dragon has her die during labour by ordering Vhagar to burn her; in the books she succumbs to fever a few days after her son's birth."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "hotd",
+          "locator": "Season 1"
+        }
+      ]
+    },
+    {
+      "personId": "harwin-strong",
+      "titles": [
+        {
+          "fr": "Ser, chevalier",
+          "en": "Ser, knight"
+        },
+        {
+          "fr": "Héritier de Harrenhal",
+          "en": "Heir to Harrenhal"
+        },
+        {
+          "fr": "Capitaine du Guet de Port-Réal",
+          "en": "Captain in the City Watch of King's Landing"
+        },
+        {
+          "fr": "Bouclier lige de la princesse Rhaenyra",
+          "en": "Sworn shield of Princess Rhaenyra"
+        }
+      ],
+      "lead": {
+        "fr": "Fils aîné de Lyonel Strong, seigneur de Harrenhal et Main du roi, Harwin fut le champion de Rhaenyra et l'homme que la rumeur désigna comme le véritable père de ses trois premiers fils.",
+        "en": "Eldest son of Lyonel Strong, Lord of Harrenhal and Hand of the King, Harwin was Rhaenyra's champion and the man rumour named as the true father of her first three sons."
+      },
+      "sections": [
+        {
+          "id": "harwin-strong-cour",
+          "heading": {
+            "fr": "Le champion de la princesse",
+            "en": "The Princess's Champion"
+          },
+          "body": {
+            "fr": "Harwin est le fils aîné et l'héritier de lord Lyonel Strong, seigneur de Harrenhal. Son père l'amène à la cour en 105 apr. C. avec son frère cadet Larys et ses deux sœurs, et il obtient un grade de capitaine dans le Guet de Port-Réal. On lui prête une force peu commune, d'où son surnom de Breakbones, le briseur d'os. En 112 apr. C., il compte parmi les nombreux prétendants de Rhaenyra.\n\nAu tournoi des noces de la princesse avec Laenor Velaryon, en 114 apr. C., Rhaenyra lui accorde sa faveur. Il y affronte ser Criston Cole, qui lui brise la clavicule et le coude ; le bouffon Champignon le raille alors en retournant son surnom. Dès lors, Harwin ne quitte plus guère la princesse. Il devient l'un des premiers des noirs, et la suit à Peyredragon comme bouclier lige lorsqu'elle s'éloigne de la cour.",
+            "en": "Harwin was the eldest son and heir of Lord Lyonel Strong, Lord of Harrenhal. His father brought him to court in 105 AC with his younger brother Larys and his two sisters, and he was given a captaincy in the City Watch of King's Landing. He was credited with uncommon strength, hence the name Breakbones. In 112 AC he was among Rhaenyra's many suitors.\n\nAt the tourney for the princess's wedding to Laenor Velaryon in 114 AC, Rhaenyra gave him her favour. There he faced Ser Criston Cole, who broke his collarbone and his elbow; the fool Mushroom then mocked him by turning his name around. From that time Harwin was seldom far from the princess. He became one of the foremost of the blacks, and followed her to Dragonstone as her sworn shield when she withdrew from court."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "harwin-strong-rumeur",
+          "heading": {
+            "fr": "Les trois garçons",
+            "en": "The Three Boys"
+          },
+          "body": {
+            "fr": "Les trois fils de Rhaenyra, nés entre 114 et 117 apr. C., ont les cheveux et les yeux bruns et le nez court, quand Rhaenyra et Laenor portent les traits de Valyria. La cour fait le rapprochement avec Harwin, toujours présent. Selon le septon Eustace, il assiste avec Laenor à la naissance de Lucerys ; selon Champignon, il partage la couche de la princesse dès 113 apr. C. Ni l'un ni l'autre n'apporte de preuve.\n\nLa rumeur devient une arme. En 120 apr. C., aux funérailles de Laenor, Aemond traite ses neveux de « Strong », et la rixe lui coûte un œil. Viserys menace de la langue quiconque répétera l'injure, mais retire Harwin à sa fille : le chevalier rentre à Harrenhal et ser Erryk Cargyll le remplace auprès de Rhaenyra. Plus tard, les verts, puis des cousins velaryon, reprendront l'accusation pour contester les droits des trois garçons.",
+            "en": "Rhaenyra's three sons, born between 114 and 117 AC, had brown hair, brown eyes and snub noses, while Rhaenyra and Laenor had the looks of Valyria. The court drew the connection with Harwin, who was always nearby. According to Septon Eustace, he was present with Laenor at Lucerys's birth; according to Mushroom, he had shared the princess's bed since 113 AC. Neither offers proof.\n\nThe rumour became a weapon. In 120 AC, at Laenor's funeral, Aemond called his nephews “Strongs”, and the brawl cost him an eye. Viserys threatened the tongue of anyone who repeated the insult, but took Harwin away from his daughter: the knight went home to Harrenhal and Ser Erryk Cargyll replaced him at Rhaenyra's side. Later the greens, and then Velaryon cousins, would take up the charge to contest the three boys' rights."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "trp"
+            }
+          ]
+        },
+        {
+          "id": "harwin-strong-incendie",
+          "heading": {
+            "fr": "L'incendie de Harrenhal",
+            "en": "The Fire at Harrenhal"
+          },
+          "body": {
+            "fr": "La même année, un incendie ravage Harrenhal et tue Harwin avec son père, lord Lyonel, Main du roi. On l'attribue d'abord à la malédiction qui pèse sur la forteresse depuis qu'Aegon l'a brûlée. D'autres noms circulent : Daemon, qui se serait débarrassé d'un rival ; Corlys Velaryon, qui aurait vengé l'honneur de son fils ; Larys Strong, à qui la mort de son père et de son frère livre l'héritage ; le roi lui-même, enfin. Rien n'a jamais été prouvé contre aucun d'eux.\n\nHarwin ne laisse aucun enfant reconnu. Son nom survit pourtant dans l'insulte lancée aux fils de Rhaenyra, que leurs ennemis appellent des Strong jusqu'à leur mort. Larys, devenu seigneur de Harrenhal, siège ensuite au conseil des verts, et certains ont lu dans cette ascension la preuve de ce que les chroniques ne peuvent établir.",
+            "en": "That same year a fire swept through Harrenhal and killed Harwin together with his father, Lord Lyonel, the King's Hand. It was blamed at first on the curse that had hung over the fortress since Aegon burned it. Other names went round: Daemon, ridding himself of a rival; Corlys Velaryon, avenging his son's honour; Larys Strong, to whom the death of his father and brother delivered the inheritance; and lastly the king himself. Nothing was ever proven against any of them.\n\nHarwin left no acknowledged child. His name nonetheless lived on in the insult thrown at Rhaenyra's sons, whom their enemies called Strongs until they died. Larys, now Lord of Harrenhal, later sat on the greens' council, and some have read in that rise the proof of what the chronicles cannot establish."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p5-mariage-laenor",
+        "p5-printemps-rouge"
+      ],
+      "warIds": [],
+      "disputed": {
+        "fr": "Sa paternité des trois fils de Rhaenyra n'a jamais été établie : la version officielle les tient pour fils de Laenor Velaryon. L'origine de l'incendie qui le tua reste inconnue, et chacun des suspects ne l'est que par la rumeur. Son année de naissance n'est pas donnée.",
+        "en": "His paternity of Rhaenyra's three sons was never established: the official version holds them to be Laenor Velaryon's sons. The cause of the fire that killed him remains unknown, and each suspect is one only by rumour. His year of birth is not recorded."
+      },
+      "adaptation": {
+        "fr": "House of the Dragon tient sa paternité pour à peu près acquise et montre Larys Strong organisant l'incendie de Harrenhal, que les livres laissent sans coupable.",
+        "en": "House of the Dragon treats his paternity as all but certain and shows Larys Strong arranging the fire at Harrenhal, which the books leave without a culprit."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "hotd",
+          "locator": "Season 1"
+        }
+      ]
+    },
+    {
+      "personId": "jacaerys-velaryon",
+      "titles": [
+        {
+          "fr": "Prince de Peyredragon, nommé par Rhaenyra en 129 apr. C.",
+          "en": "Prince of Dragonstone, named by Rhaenyra in 129 AC"
+        },
+        {
+          "fr": "Prince",
+          "en": "Prince"
+        },
+        {
+          "fr": "Cavalier de Vermax",
+          "en": "Rider of Vermax"
+        }
+      ],
+      "lead": {
+        "fr": "Fils aîné de Rhaenyra et de Laenor Velaryon, Jacaerys fut l'héritier des noirs et leur négociateur auprès des seigneurs du Val et du Nord, avant de mourir à la bataille du Gosier au début de 130 apr. C.",
+        "en": "Eldest son of Rhaenyra and Laenor Velaryon, Jacaerys was the heir of the blacks and their envoy to the lords of the Vale and the North before he died in the battle of the Gullet early in 130 AC."
+      },
+      "sections": [
+        {
+          "id": "jacaerys-velaryon-enfance",
+          "heading": {
+            "fr": "L'aîné contesté",
+            "en": "The Contested Eldest"
+          },
+          "body": {
+            "fr": "Jacaerys naît à la fin de 114 apr. C. Laenor voulait l'appeler Joffrey ; Corlys impose un prénom de la tradition velaryonne. Peu après naît Daeron, dernier fils de la reine Alicent, et Viserys fait partager aux deux enfants la même nourrice, dans l'espoir que des frères de lait ne grandiront pas en ennemis. Comme ses frères, Jace reçoit au berceau un œuf de dragon ; il éclot, et le dragon, Vermax, dément ceux qui prédisaient que des bâtards n'en feraient rien naître.\n\nEn 118 apr. C., il est promis à sa cousine Baela. Deux ans plus tard, aux funérailles de Laenor, Aemond traite les fils de Rhaenyra de « Strong » ; dans la rixe, Lucerys crève un œil à son oncle pour défendre Jace. Le roi menace de la langue quiconque reprendra l'insulte. Aemond la répète pourtant, en public, au banquet du premier jour de 127 apr. C.",
+            "en": "Jacaerys was born at the end of 114 AC. Laenor wanted to call him Joffrey; Corlys insisted on a traditional Velaryon name. Soon afterwards Daeron, Queen Alicent's last son, was born, and Viserys had the two infants share a wet nurse in the hope that milk brothers would not grow up as enemies. Like his brothers, Jace was given a dragon egg in the cradle; it hatched, and the dragon, Vermax, confounded those who had foretold that bastards would hatch nothing.\n\nIn 118 AC he was betrothed to his cousin Baela. Two years later, at Laenor's funeral, Aemond called Rhaenyra's sons “Strongs”; in the brawl, Lucerys put out one of his uncle's eyes in Jace's defence. The king threatened the tongue of anyone who repeated the insult. Aemond repeated it all the same, in public, at the feast on the first day of 127 AC."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "jacaerys-velaryon-ambassade",
+          "heading": {
+            "fr": "L'ambassade du Nord",
+            "en": "The Embassy to the North"
+          },
+          "body": {
+            "fr": "En 129 apr. C., Jacaerys a quatorze ans. Au premier conseil des noirs, il se propose avec Lucerys pour porter les lettres de sa mère, et jure de ne pas prendre part aux combats. Le lendemain, Rhaenyra le nomme prince de Peyredragon. Sur Vermax, il gagne d'abord les Eyrié, où Jeyne Arryn promet son appui pourvu que des dragons défendent le Val, puis les Trois Sœurs, et enfin Blancport, où il obtient le soutien des Manderly en promettant son frère Joffrey à la plus jeune fille de lord Desmond.\n\nÀ Winterfell, il se lie avec le jeune lord Cregan Stark. Selon le grand mestre Munkun, les deux hommes chassent et boivent ensemble et se jurent fraternité. L'accord qu'ils concluent, le pacte de Glace et de Feu, promet la première fille de Jacaerys à l'héritier de Winterfell en échange des épées du Nord. Cregan s'en souviendra après la mort de celui qui l'avait conclu.",
+            "en": "In 129 AC Jacaerys was fourteen. At the first council of the blacks he offered, with Lucerys, to carry his mother's letters, and swore to take no part in the fighting. The next day Rhaenyra named him Prince of Dragonstone. On Vermax he flew first to the Eyrie, where Jeyne Arryn promised support provided dragons would defend the Vale, then to the Three Sisters, and finally to White Harbor, where he won the Manderlys by promising his brother Joffrey to Lord Desmond's youngest daughter.\n\nAt Winterfell he formed a bond with the young Lord Cregan Stark. According to Grand Maester Munkun, the two hunted and drank together and swore brotherhood. The agreement they made, the Pact of Ice and Fire, promised Jacaerys's first daughter to the heir of Winterfell in exchange for the swords of the North. Cregan would remember it after the death of the man who had made it."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: A Son for a Son"
+            }
+          ]
+        },
+        {
+          "id": "jacaerys-velaryon-semailles",
+          "heading": {
+            "fr": "Les Semailles",
+            "en": "The Sowing"
+          },
+          "body": {
+            "fr": "Revenu à Peyredragon, Jacaerys trouve un parti en deuil : Lucerys a été tué près d'Accalmie, puis la princesse Rhaenys est morte à Repos-du-Freux, et Corlys s'éloigne de la reine. Jace le ramène en le faisant Main et prépare avec lui une attaque contre Port-Réal. Il envoie Joffrey dans le Val, loin des combats, et remet à la fin de la guerre le mariage que Baela réclame.\n\nPour remplacer les dragons perdus, il promet terres et chevalerie à quiconque montera l'un des dragons sans maître de Peyredragon. Champignon revendique l'idée ; Munkun la rend au prince. Beaucoup de candidats y meurent, quatre réussissent, et Addam de la Carène, monté sur Seasmoke, est légitimé à la demande de Corlys et de Jace. Le prince obtient aussi du prince de Pentos qu'il accueille ses demi-frères Aegon et Viserys ; ils embarquent à la fin de 129 apr. C.",
+            "en": "Back on Dragonstone, Jacaerys found a party in mourning: Lucerys had been killed near Storm's End, then Princess Rhaenys had died at Rook's Rest, and Corlys was drifting away from the queen. Jace won him back by making him Hand and planned an attack on King's Landing with him. He sent Joffrey to the Vale, far from the fighting, and put off until the war's end the marriage Baela was demanding.\n\nTo replace the lost dragons, he promised land and knighthood to anyone who could mount one of the masterless dragons of Dragonstone. Mushroom claims the idea as his own; Munkun gives it to the prince. Many candidates died in the attempt, four succeeded, and Addam of Hull, mounted on Seasmoke, was legitimised at the request of Corlys and Jace. The prince also persuaded the Prince of Pentos to take in his half-brothers Aegon and Viserys; they sailed at the end of 129 AC."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon II"
+            }
+          ]
+        },
+        {
+          "id": "jacaerys-velaryon-gosier",
+          "heading": {
+            "fr": "Le Gosier",
+            "en": "The Gullet"
+          },
+          "body": {
+            "fr": "Le navire des deux enfants tombe dans le Gosier sur une flotte de la Triarchie, venue à l'appel des verts. Aegon s'échappe sur Stormcloud ; Viserys est pris. Au début de 130 apr. C., Jacaerys attaque la flotte ennemie avec Vermax et les nouveaux dragonniers. La victoire semble acquise lorsque Vermax descend trop bas : touché à l'œil par un carreau, ou retenu par un grappin selon d'autres récits, il s'abat sur une galère en flammes.\n\nProjeté hors de la selle, Jace se cramponne à l'épave jusqu'à ce que les arbalétriers myriens l'envoient par le fond. Il a quinze ans. La flotte velaryonne finit par repousser les navires de la Triarchie, mais Lamarck a été pillée pendant la bataille. Les noirs perdent leur héritier et celui qui leur avait gagné le Val et le Nord. Baela épousera plus tard Alyn Velaryon, et Cregan Stark descendra vers le sud en 131 apr. C., fidèle à la parole donnée à Jace.",
+            "en": "The children's ship ran into a Triarchy fleet in the Gullet, summoned by the greens. Aegon escaped on Stormcloud; Viserys was taken. Early in 130 AC Jacaerys attacked the enemy fleet with Vermax and the new dragonriders. Victory seemed won when Vermax came down too low: struck in the eye by a bolt, or caught by a grapnel according to other accounts, he crashed onto a burning galley.\n\nThrown clear of the saddle, Jace held on to the burning hulk until Myrish crossbowmen sent him under. He was fifteen. The Velaryon fleet in the end drove off the Triarchy's ships, but Driftmark had been sacked during the battle. The blacks lost their heir and the man who had won them the Vale and the North. Baela would later marry Alyn Velaryon, and Cregan Stark would march south in 131 AC, true to the word he had given Jace."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "fab",
+              "locator": "Aftermath: The Hour of the Wolf"
+            },
+            {
+              "id": "tpatq"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "vermax"
+      ],
+      "eventIds": [
+        "p5-mariage-laenor",
+        "p5-printemps-rouge",
+        "p5-deux-couronnements",
+        "p5-semailles",
+        "p5-gosier",
+        "p5-heure-du-loup"
+      ],
+      "warIds": [
+        "danse-des-dragons"
+      ],
+      "disputed": {
+        "fr": "Sa filiation est contestée : fils de Laenor selon la version officielle, de Harwin Strong selon la rumeur. Champignon affirme qu'il épousa en secret Sara Snow, demi-sœur de Cregan Stark, dans le bois sacré de Winterfell, que Jeyne Arryn mit son lit pour condition à son alliance, et que Vermax pondit des œufs sous Winterfell ; Gyldayn et Eustace écartent ces récits. La cause exacte de la chute de Vermax n'est pas établie.",
+        "en": "His parentage is contested: Laenor's son according to the official version, Harwin Strong's according to rumour. Mushroom claims that he secretly married Sara Snow, Cregan Stark's half-sister, in the godswood of Winterfell, that Jeyne Arryn made her bed the price of her alliance, and that Vermax laid eggs beneath Winterfell; Gyldayn and Eustace dismiss these tales. The exact cause of Vermax's fall is not established."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The North: Winterfell"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "personId": "lucerys-velaryon",
+      "titles": [
+        {
+          "fr": "Prince",
+          "en": "Prince"
+        },
+        {
+          "fr": "Héritier désigné de Lamarck",
+          "en": "Designated heir to Driftmark"
+        },
+        {
+          "fr": "Cavalier d'Arrax",
+          "en": "Rider of Arrax"
+        }
+      ],
+      "lead": {
+        "fr": "Deuxième fils de Rhaenyra et de Laenor Velaryon, désigné héritier de Lamarck, Lucerys fut tué par Aemond au-dessus de la baie des Naufrageurs en 129 apr. C., et sa mort fit d'une querelle de succession une guerre ouverte.",
+        "en": "Second son of Rhaenyra and Laenor Velaryon and designated heir to Driftmark, Lucerys was killed by Aemond over Shipbreaker Bay in 129 AC, and his death turned a quarrel over the succession into open war."
+      },
+      "sections": [
+        {
+          "id": "lucerys-velaryon-enfance",
+          "heading": {
+            "fr": "L'œil d'Aemond",
+            "en": "Aemond's Eye"
+          },
+          "body": {
+            "fr": "Lucerys naît en 115 apr. C. Le roi, dit-on, se réjouit du petit-fils qu'on lui présente, tandis que la reine Alicent conseille à Laenor, devant la cour, de persévérer jusqu'à en avoir un qui lui ressemble. Comme ses frères, il reçoit au berceau un œuf qui éclot : son dragon se nomme Arrax. En 118 apr. C., il est promis à sa cousine Rhaena, fille de Daemon et de Laena.\n\nEn 120 apr. C., aux funérailles de Laenor à Lamarck, Aemond, dix ans, monte Vhagar à la dérobée. Les trois fils de Rhaenyra l'attendent avec des épées d'exercice ; Aemond prend le dessus et les traite de « Strong ». Quand il s'acharne sur Jacaerys, Lucerys, cinq ans, tire un couteau et lui crève l'œil droit. Alicent exige qu'on lui prenne un œil en retour ; Viserys refuse et se contente d'excuses échangées entre les enfants.",
+            "en": "Lucerys was born in 115 AC. The king, it is said, was delighted with the grandson presented to him, while Queen Alicent advised Laenor, before the court, to keep trying until he got one who looked like him. Like his brothers he was given an egg in the cradle that hatched: his dragon was named Arrax. In 118 AC he was betrothed to his cousin Rhaena, daughter of Daemon and Laena.\n\nIn 120 AC, at Laenor's funeral on Driftmark, the ten-year-old Aemond secretly mounted Vhagar. Rhaenyra's three sons were waiting for him with practice swords; Aemond got the better of them and called them “Strongs”. When he set upon Jacaerys, the five-year-old Lucerys drew a knife and put out his right eye. Alicent demanded that the boy lose an eye in return; Viserys refused and settled for apologies exchanged between the children."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "lucerys-velaryon-lamarck",
+          "heading": {
+            "fr": "L'héritier de Lamarck",
+            "en": "The Heir to Driftmark"
+          },
+          "body": {
+            "fr": "En 126 apr. C., Corlys tombe malade et la succession de Lamarck se pose. Jacaerys doit hériter du trône ; Rhaenyra presse donc Corlys de désigner Lucerys. Ser Vaemond Velaryon, neveu du Serpent de mer, proteste que les fils de la princesse sont des bâtards de Harwin Strong. Daemon le fait saisir et décapiter. Les parents de Vaemond portent l'accusation devant le roi, qui leur fait couper la langue et maintient Lucerys.\n\nÀ l'ouverture de la guerre, Lucerys a treize ans et sert depuis longtemps comme écuyer. Avec Jacaerys, il propose de porter les lettres de sa mère, pour montrer aussi, en arrivant à dos de dragon, que ses frères et lui sont bien des Targaryen. Il jure sur L'Étoile à sept branches de ne pas se battre. On lui confie la mission jugée la plus courte et la plus sûre : Accalmie, chez lord Borros Baratheon, dont on attend un accueil favorable.",
+            "en": "In 126 AC Corlys fell ill and the succession to Driftmark came into question. Jacaerys was to inherit the throne, so Rhaenyra urged Corlys to name Lucerys. Ser Vaemond Velaryon, the Sea Snake's nephew, protested that the princess's sons were Harwin Strong's bastards. Daemon had him seized and beheaded. Vaemond's kinsmen carried the charge before the king, who had their tongues removed and upheld Lucerys.\n\nWhen the war began, Lucerys was thirteen and had long served as a squire. With Jacaerys he offered to carry his mother's letters, and to show, by arriving on dragonback, that he and his brothers were true Targaryens. He swore on The Seven-Pointed Star that he would not fight. He was given the mission thought shortest and safest: Storm's End, to Lord Borros Baratheon, who was expected to receive him kindly."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            }
+          ]
+        },
+        {
+          "id": "lucerys-velaryon-accalmie",
+          "heading": {
+            "fr": "La baie des Naufrageurs",
+            "en": "Shipbreaker Bay"
+          },
+          "body": {
+            "fr": "À Accalmie, Lucerys trouve Aemond arrivé avant lui sur Vhagar, venu acheter l'alliance de Borros en épousant une de ses filles. Borros demande au jeune prince laquelle il prendrait, lui ; Lucerys répond qu'il est promis à Rhaena, et le seigneur le renvoie. Aemond exige qu'il s'arrache un œil pour solder sa dette ; Borros refuse que le sang d'un messager coule sous son toit, mais laisse Aemond partir à sa suite.\n\nAu-dessus de la baie des Naufrageurs, dans l'orage, Vhagar, cinq fois plus grande, rattrape Arrax. Les chroniqueurs doutent qu'il y ait eu un véritable affrontement. Le dragon tombe à la mer ; trois jours plus tard, les flots rendent sa tête et son cou au pied des falaises. Le corps de Lucerys n'est jamais retrouvé. Rhaenyra s'effondre à la nouvelle, Joffrey jure vengeance, et Daemon répond par le meurtre d'un fils d'Aegon II.",
+            "en": "At Storm's End Lucerys found that Aemond had arrived before him on Vhagar, come to buy Borros's alliance by marrying one of his daughters. Borros asked the young prince which of them he would take; Lucerys answered that he was betrothed to Rhaena, and the lord sent him away. Aemond demanded that he put out his own eye to settle his debt; Borros refused to let an envoy's blood be shed under his roof, but allowed Aemond to leave after him.\n\nOver Shipbreaker Bay, in the storm, Vhagar, five times his size, caught up with Arrax. The chroniclers doubt there was a real fight at all. The dragon fell into the sea; three days later the waves gave back his head and neck at the foot of the cliffs. Lucerys's body was never found. Rhaenyra collapsed at the news, Joffrey swore vengeance, and Daemon answered with the murder of a son of Aegon II."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: A Son for a Son"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon II"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "arrax",
+        "vhagar"
+      ],
+      "eventIds": [
+        "p5-mariage-laenor",
+        "p5-printemps-rouge",
+        "p5-deux-couronnements",
+        "p5-accalmie",
+        "p5-sang-et-fromage"
+      ],
+      "warIds": [
+        "danse-des-dragons"
+      ],
+      "disputed": {
+        "fr": "Sa filiation est contestée comme celle de ses frères. Les récits de sa fin divergent : Champignon prétend qu'Aemond retrouva le corps sur le rivage et en offrit les yeux à Maris Baratheon ; d'autres disent que Vhagar arracha le prince à sa selle et l'avala, ou qu'il survécut sans mémoire. Gyldayn juge ces versions douteuses, et Munkun tient qu'il mourut avec son dragon.",
+        "en": "His parentage is contested, like his brothers'. Accounts of his end diverge: Mushroom claims that Aemond found the body on the shore and offered its eyes to Maris Baratheon; others say that Vhagar plucked the prince from his saddle and swallowed him, or that he survived with no memory of who he was. Gyldayn judges these versions doubtful, and Munkun holds that he died with his dragon."
+      },
+      "adaptation": {
+        "fr": "House of the Dragon présente la mort de Lucerys comme un accident : Vhagar échappe au contrôle d'Aemond, qui ne voulait que l'effrayer. Les livres ne donnent pas cette excuse et montrent Aemond lancé à la poursuite d'Arrax.",
+        "en": "House of the Dragon presents Lucerys's death as an accident: Vhagar slips out of the control of Aemond, who meant only to frighten him. The books offer no such excuse and show Aemond setting off in pursuit of Arrax."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: A Son for a Son"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        },
+        {
+          "id": "hotd",
+          "locator": "Season 1"
+        }
+      ]
+    },
+    {
+      "personId": "joffrey-velaryon",
+      "titles": [
+        {
+          "fr": "Prince de Peyredragon, après la mort de Jacaerys",
+          "en": "Prince of Dragonstone, after the death of Jacaerys"
+        },
+        {
+          "fr": "Prince",
+          "en": "Prince"
+        },
+        {
+          "fr": "Cavalier de Tyraxes",
+          "en": "Rider of Tyraxes"
+        }
+      ],
+      "lead": {
+        "fr": "Troisième fils de Rhaenyra et de Laenor Velaryon, Joffrey devint l'héritier des noirs après la mort de Jacaerys et périt en 130 apr. C., pendant l'assaut de Fossedragon, en tentant de monter Syrax.",
+        "en": "Third son of Rhaenyra and Laenor Velaryon, Joffrey became the heir of the blacks after the death of Jacaerys and perished in 130 AC, during the storming of the Dragonpit, trying to mount Syrax."
+      },
+      "sections": [
+        {
+          "id": "joffrey-velaryon-enfance",
+          "heading": {
+            "fr": "Le nom d'un ami",
+            "en": "A Friend's Name"
+          },
+          "body": {
+            "fr": "Joffrey naît en 117 apr. C. Laenor obtient enfin de lui donner le prénom de ser Joffrey Lonmouth, son favori tué au tournoi de 114 apr. C. L'enfant a, comme ses aînés, les cheveux bruns et le visage « commun » que la cour remarque, et sa naissance relance la rumeur qui attribue les trois garçons à ser Harwin Strong. Il reçoit lui aussi un œuf au berceau, d'où sort Tyraxes.\n\nÀ trois ans, aux funérailles de Laenor, c'est lui qui surprend Aemond auprès de Vhagar. Son oncle le gifle, le menace et le pousse dans les déjections du dragon pour le faire taire ; l'enfant court réveiller ses frères, et la rixe qui suit coûte un œil à Aemond. Il grandit ensuite à Peyredragon, loin de la cour, dans la maison de sa mère et de Daemon, avec ses frères et les filles de Laena.",
+            "en": "Joffrey was born in 117 AC. Laenor was at last allowed to give him the name of Ser Joffrey Lonmouth, his favourite, killed at the tourney of 114 AC. Like his elders, the child had the brown hair and “common” features the court remarked on, and his birth revived the rumour that gave all three boys to Ser Harwin Strong. He too was given an egg in the cradle, from which Tyraxes hatched.\n\nAt three, at Laenor's funeral, it was he who caught Aemond beside Vhagar. His uncle slapped him, threatened him and pushed him into the dragon's droppings to silence him; the boy ran to wake his brothers, and the brawl that followed cost Aemond an eye. He then grew up on Dragonstone, far from court, in the household of his mother and Daemon, with his brothers and Laena's daughters."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "trp"
+            }
+          ]
+        },
+        {
+          "id": "joffrey-velaryon-guerre",
+          "heading": {
+            "fr": "Un héritier tenu à l'écart",
+            "en": "An Heir Kept Away"
+          },
+          "body": {
+            "fr": "En 129 apr. C., Joffrey a onze ans et demande à porter lui aussi des messages sur Tyraxes ; on le juge trop jeune. Jacaerys le promet à la plus jeune fille de lord Desmond Manderly en échange de l'appui de Blancport. Quand arrive la nouvelle de la mort de Lucerys, Joffrey jure de se venger d'Aemond et de Borros Baratheon, et ses grands-parents Corlys et Rhaenys doivent l'empêcher de s'envoler sur-le-champ.\n\nJacaerys l'envoie ensuite à Goëville avec sa cousine Rhaena, officiellement pour défendre le Val contre les dragons des verts, en réalité, selon Munkun, pour le tenir loin des combats. La mort de Jacaerys au Gosier fait de lui l'héritier de sa mère. Après la prise de Port-Réal, Rhaenyra le fait venir avec Tyraxes et prépare une fête pour l'installer officiellement comme prince de Peyredragon et héritier du trône.",
+            "en": "In 129 AC Joffrey was eleven and asked to carry messages on Tyraxes as well; he was judged too young. Jacaerys promised him to Lord Desmond Manderly's youngest daughter in exchange for White Harbor's support. When word came of Lucerys's death, Joffrey swore vengeance on Aemond and Borros Baratheon, and his grandparents Corlys and Rhaenys had to stop him from flying off at once.\n\nJacaerys then sent him to Gulltown with his cousin Rhaena, officially to defend the Vale against the greens' dragons, in truth, according to Munkun, to keep him far from the fighting. Jacaerys's death in the Gullet made him his mother's heir. After the taking of King's Landing, Rhaenyra sent for him and Tyraxes and prepared a celebration to install him formally as Prince of Dragonstone and heir to the throne."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: A Son for a Son"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon II"
+            },
+            {
+              "id": "tpatq"
+            }
+          ]
+        },
+        {
+          "id": "joffrey-velaryon-fossedragon",
+          "heading": {
+            "fr": "La nuit de Fossedragon",
+            "en": "The Night of the Dragonpit"
+          },
+          "body": {
+            "fr": "Pendant l'émeute de 130 apr. C., la foule du Berger marche sur Fossedragon, où Tyraxes est enchaîné. Joffrey supplie sa mère de le laisser sortir défendre son dragon ; Rhaenyra, qui a déjà perdu deux fils, le lui interdit. Il s'échappe et enfourche Syrax, qu'il n'a jamais montée, sans selle ni fouet. La dragonne se débat sous ce cavalier inconnu, les pierres et les lances montent de la foule, et le prince tombe de très haut sur les toits de Culpucier.\n\nIl meurt de ses blessures dans la rue. La tradition veut qu'une fille de chandelier l'ait réconforté et qu'il ait demandé pardon à une mère, la sienne ou la Mère d'en haut. La foule mutile son corps avant que des chevaliers envoyés par la reine ne parviennent à le reprendre. Tyraxes meurt dans son antre, et Aegon le Jeune devient l'héritier de Rhaenyra.",
+            "en": "During the riot of 130 AC, the Shepherd's mob marched on the Dragonpit, where Tyraxes was chained. Joffrey begged his mother to let him go out and defend his dragon; Rhaenyra, who had already lost two sons, forbade it. He slipped away and mounted Syrax, whom he had never ridden, without saddle or whip. The she-dragon fought this unfamiliar rider, stones and spears flew up from the crowd, and the prince fell from a great height onto the roofs of Flea Bottom.\n\nHe died of his injuries in the street. Tradition has it that a chandler's daughter comforted him and that he asked forgiveness of a mother, his own or the Mother Above. The mob mutilated his body before knights sent by the queen managed to recover it. Tyraxes died in his lair, and Aegon the Younger became Rhaenyra's heir."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "tyraxes",
+        "syrax"
+      ],
+      "eventIds": [
+        "p5-mariage-laenor",
+        "p5-printemps-rouge",
+        "p5-accalmie",
+        "p5-gosier",
+        "p5-chute-port-real",
+        "p5-fossedragon"
+      ],
+      "warIds": [
+        "danse-des-dragons"
+      ],
+      "disputed": {
+        "fr": "Sa filiation est contestée comme celle de ses frères. Les récits de sa chute et de ses derniers instants se contredisent dans le détail, et l'on ignore à quelle mère s'adressait la demande de pardon que la tradition lui prête.",
+        "en": "His parentage is contested, like his brothers'. Accounts of his fall and his last moments contradict one another in detail, and it is not known which mother the plea for forgiveness that tradition gives him was addressed to."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        },
+        {
+          "id": "trp"
+        },
+        {
+          "id": "tpatq"
+        }
+      ]
+    },
+    {
+      "personId": "baela",
+      "titles": [
+        {
+          "fr": "Dame de Lamarck, par son mariage avec Alyn Velaryon",
+          "en": "Lady of Driftmark, by her marriage to Alyn Velaryon"
+        },
+        {
+          "fr": "Princesse",
+          "en": "Princess"
+        },
+        {
+          "fr": "Cavalière de Moondancer",
+          "en": "Rider of Moondancer"
+        }
+      ],
+      "lead": {
+        "fr": "Fille de Daemon et de Laena Velaryon, aînée de deux jumelles, Baela affronta Aegon II sur Moondancer en 130 apr. C. et devint ensuite, par son mariage avec Alyn Velaryon, dame de Lamarck.",
+        "en": "Daughter of Daemon and Laena Velaryon and the elder of twins, Baela fought Aegon II on Moondancer in 130 AC and afterwards, by her marriage to Alyn Velaryon, became Lady of Driftmark."
+      },
+      "sections": [
+        {
+          "id": "baela-enfance",
+          "heading": {
+            "fr": "Une jumelle de Pentos",
+            "en": "A Twin from Pentos"
+          },
+          "body": {
+            "fr": "Baela naît à Pentos en 116 apr. C., l'aînée de deux jumelles, petites et fragiles à la naissance ; elle porte le nom de son grand-père paternel, le prince Baelon. Six mois plus tard, sa mère la ramène à Lamarck, et Daemon la présente à la cour l'année suivante. En 118 apr. C., avec la bénédiction du roi, elle est promise à son cousin Jacaerys, l'aîné de Rhaenyra.\n\nSa mère meurt en 120 apr. C. et son père épouse Rhaenyra la même année : Baela grandit à Peyredragon, parmi les enfants des deux mariages. Elle se lie à un jeune dragon, Moondancer, encore trop petit pour la porter quand la guerre éclate. Les chroniques la montrent rétive et batailleuse, prompte à lutter avec les écuyers dans la cour du château, ce qu'on lui reproche sans grand effet.",
+            "en": "Baela was born in Pentos in 116 AC, the elder of twin girls who were small and frail at birth; she was named after her paternal grandfather, Prince Baelon. Six months later her mother brought her home to Driftmark, and Daemon presented her at court the following year. In 118 AC, with the king's blessing, she was betrothed to her cousin Jacaerys, Rhaenyra's eldest.\n\nHer mother died in 120 AC and her father married Rhaenyra that same year: Baela grew up on Dragonstone, among the children of both marriages. She bonded with a young dragon, Moondancer, still too small to carry her when war broke out. The chronicles show her restless and combative, quick to wrestle with squires in the castle yard, for which she was scolded to little effect."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "baela-moondancer",
+          "heading": {
+            "fr": "Moondancer contre Sunfyre",
+            "en": "Moondancer Against Sunfyre"
+          },
+          "body": {
+            "fr": "En 129 apr. C., Baela veut combattre aux côtés de Jacaerys et l'épouser sans attendre ; il préfère attendre la paix, et meurt au Gosier. Elle vole pour la première fois sur Moondancer en 130 apr. C. et partage ses jours entre Peyredragon et Lamarck. Quand Grey Ghost est retrouvé mort au pied du Mont-Dragon, elle veut aller voir elle-même ce qui l'a tué ; le castellan, ser Robert Quince, la fait enfermer.\n\nPendant la chute de Peyredragon, dans la seconde moitié de 130 apr. C., elle quitte sa chambre par la fenêtre et rejoint Moondancer. Quand Aegon II descend sur Sunfyre, elle s'élève à sa rencontre. Les deux dragons s'empoignent et s'écrasent dans la cour. Moondancer meurt, Sunfyre ne volera plus. Brûlée et meurtrie, Baela parvient à se dégager ; ser Marston Waters arrête l'épée d'Alfred Broome, qui allait l'achever.",
+            "en": "In 129 AC Baela wanted to fight beside Jacaerys and to marry him without delay; he preferred to wait for peace, and died in the Gullet. She first flew Moondancer in 130 AC and divided her days between Dragonstone and Driftmark. When Grey Ghost was found dead at the foot of the Dragonmont, she wanted to go and see for herself what had killed him; the castellan, Ser Robert Quince, had her confined.\n\nDuring the fall of Dragonstone, in the second half of 130 AC, she left her chamber by the window and reached Moondancer. When Aegon II came down on Sunfyre, she rose to meet him. The two dragons grappled and crashed into the yard. Moondancer died; Sunfyre would never fly again. Burned and battered, Baela managed to free herself; Ser Marston Waters stopped the sword of Alfred Broome, who was about to finish her."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+            }
+          ]
+        },
+        {
+          "id": "baela-captive",
+          "heading": {
+            "fr": "Captive d'Aegon II",
+            "en": "Aegon II's Captive"
+          },
+          "body": {
+            "fr": "Baela passe les mois suivants dans les cachots de Peyredragon. À la mort de Sunfyre, Aegon II, en larmes, la fait conduire au billot, puis se ravise quand on lui rappelle qu'elle est la petite-fille de Corlys Velaryon : il préfère s'en servir pour contraindre Alyn Velaryon à se soumettre. Corlys fait de sa libération une condition de son ralliement ; Baela suit pourtant la cour à Port-Réal enchaînée, tant on craint qu'elle ne s'en prenne au roi.\n\nLe jour où Aegon II meurt empoisonné, en 131 apr. C., des hommes de Larys Strong l'emmènent hors de sa prison. Pendant l'Heure du Loup, quand Cregan Stark condamne ceux qui l'ont délivrée, elle brandit une épée pour les défendre, et Cregan, amusé, leur laisse la vie. Avec sa sœur, elle obtient d'Aegon III la grâce de leur grand-père.",
+            "en": "Baela spent the following months in the dungeons of Dragonstone. When Sunfyre died, a weeping Aegon II had her brought to the block, then thought better of it when reminded that she was Corlys Velaryon's granddaughter: he preferred to use her to force Alyn Velaryon's submission. Corlys made her release a condition of rallying to the king; Baela nonetheless followed the court to King's Landing in chains, so great was the fear that she would attack the king.\n\nOn the day Aegon II died of poison, in 131 AC, men of Larys Strong took her from her prison. During the Hour of the Wolf, when Cregan Stark condemned those who had freed her, she brandished a sword in their defence, and Cregan, amused, spared their lives. With her sister, she won from Aegon III a pardon for their grandfather."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+            },
+            {
+              "id": "fab",
+              "locator": "Aftermath: The Hour of the Wolf"
+            }
+          ]
+        },
+        {
+          "id": "baela-lamarck",
+          "heading": {
+            "fr": "Dame de Lamarck",
+            "en": "Lady of Driftmark"
+          },
+          "body": {
+            "fr": "Sous la régence, Baela et Rhaena sont presque les seules Targaryen que l'on voie, et le peuple de Port-Réal les adopte. Baela fausse compagnie à ses dames pour courir la ville, parier, traverser la Néra à la nage en pleine nuit. En 132 apr. C., les régents, qui voient dans les jumelles les seules héritières acceptables d'un roi sans enfant, veulent la marier à lord Thaddeus Rowan. Elle s'enfuit à Lamarck et épouse quinze jours plus tard Alyn Velaryon, nouveau seigneur des Marées.\n\nCe coup d'éclat l'écarte de la succession aux yeux des régents. En 133 apr. C., au bal donné pour choisir une épouse au roi, elle et Rhaena présentent à Aegon III la jeune Daenaera Velaryon, sa pupille, qu'il épouse à la fin de l'année. Une fille, Laena, naît en 134 apr. C. pendant le grand voyage d'Alyn. Le mariage est orageux, et la date de la mort de Baela n'est pas connue.",
+            "en": "Under the regency, Baela and Rhaena were almost the only Targaryens to be seen, and the people of King's Landing took them to heart. Baela gave her ladies the slip to roam the city, to gamble, to swim the Blackwater in the dead of night. In 132 AC the regents, who saw the twins as the only acceptable heirs to a childless king, sought to marry her to Lord Thaddeus Rowan. She fled to Driftmark and a fortnight later married Alyn Velaryon, the new Lord of the Tides.\n\nThat stroke put her out of the succession in the regents' eyes. In 133 AC, at the Maiden's Day ball held to find the king a bride, she and Rhaena presented to Aegon III the young Daenaera Velaryon, her ward, whom he married at the end of the year. A daughter, Laena, was born in 134 AC during Alyn's great voyage. The marriage was stormy, and the date of Baela's death is not known."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Under the Regents: The Hooded Hand"
+            },
+            {
+              "id": "fab",
+              "locator": "Under the Regents: War and Peace and Cattle Shows"
+            },
+            {
+              "id": "fab",
+              "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+            },
+            {
+              "id": "fab",
+              "locator": "The Lysene Spring and the End of Regency"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "moondancer",
+        "sunfyre"
+      ],
+      "eventIds": [
+        "p5-gosier",
+        "p5-peyredragon-reprise",
+        "p5-mort-aegon-ii",
+        "p5-heure-du-loup",
+        "p6-regence"
+      ],
+      "warIds": [
+        "danse-des-dragons"
+      ],
+      "disputed": {
+        "fr": "Champignon attribue à Alysanne Blackwood, et non aux jumelles, la grâce accordée à Corlys Velaryon. Le lien de parenté de Baela avec son mari dépend d'une autre incertitude : Alyn est son cousin s'il est fils de Laenor, son oncle s'il est fils de Corlys, comme l'affirme Champignon. La date de sa mort n'est pas donnée.",
+        "en": "Mushroom credits Alysanne Blackwood, not the twins, with the pardon granted to Corlys Velaryon. Baela's kinship with her husband hangs on another uncertainty: Alyn is her cousin if he was Laenor's son, her uncle if he was Corlys's, as Mushroom asserts. The date of her death is not recorded."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "fab",
+          "locator": "Aftermath: The Hour of the Wolf"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Hooded Hand"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: War and Peace and Cattle Shows"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys I"
+        }
+      ]
+    },
+    {
+      "personId": "rhaena-fille-daemon",
+      "titles": [
+        {
+          "fr": "Princesse",
+          "en": "Princess"
+        },
+        {
+          "fr": "Dame, épouse de Corwyn Corbray puis de Garmund Hightower",
+          "en": "Lady, wife of Corwyn Corbray and later of Garmund Hightower"
+        },
+        {
+          "fr": "Cavalière de Morning",
+          "en": "Rider of Morning"
+        }
+      ],
+      "lead": {
+        "fr": "Cadette des jumelles de Daemon et de Laena Velaryon, Rhaena passa la Danse dans le Val, où éclot Morning, l'un des quatre dragons encore en vie à la fin de la guerre.",
+        "en": "The younger of Daemon and Laena Velaryon's twins, Rhaena spent the Dance in the Vale, where Morning hatched, one of the four dragons still alive at the end of the war."
+      },
+      "sections": [
+        {
+          "id": "rhaena-fille-daemon-oeufs",
+          "heading": {
+            "fr": "Les œufs qui ne voulaient pas éclore",
+            "en": "Eggs That Would Not Hatch"
+          },
+          "body": {
+            "fr": "Rhaena naît à Pentos en 116 apr. C., seconde des jumelles de Daemon et de Laena ; elle porte le nom de sa grand-mère maternelle, la princesse Rhaenys. Ramenée à Lamarck à six mois, elle est présentée à la cour l'année suivante et promise en 118 apr. C. à son cousin Lucerys. Son œuf de berceau éclot, mais le petit dragon, malingre, meurt en quelques heures.\n\nOn lui confie ensuite un œuf d'une autre couvée, pondu par Syrax. Elle dort avec lui, dit-on, chaque nuit, et prie pour un dragon qui vaille celui de sa sœur. L'œuf demeure inerte. Dans une famille où monter un dragon fonde une part du droit à régner, Rhaena grandit à Peyredragon sans monture. La guerre la trouve démunie, quand sa sœur Baela a déjà Moondancer.",
+            "en": "Rhaena was born in Pentos in 116 AC, the younger of Daemon and Laena's twins; she was named after her maternal grandmother, Princess Rhaenys. Brought home to Driftmark at six months, she was presented at court the following year and betrothed in 118 AC to her cousin Lucerys. Her cradle egg hatched, but the little dragon was sickly and died within hours.\n\nShe was then given an egg from another clutch, laid by Syrax. She slept with it every night, it is said, and prayed for a dragon to match her sister's. The egg stayed lifeless. In a family where riding a dragon underpinned part of the right to rule, Rhaena grew up on Dragonstone without a mount. War found her empty-handed, while her sister Baela already had Moondancer."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys I"
+            }
+          ]
+        },
+        {
+          "id": "rhaena-fille-daemon-val",
+          "heading": {
+            "fr": "Le Val et Morning",
+            "en": "The Vale and Morning"
+          },
+          "body": {
+            "fr": "En 129 apr. C., Lucerys, son promis, est tué près d'Accalmie. Jacaerys l'envoie ensuite avec Joffrey à Goëville, officiellement pour défendre le Val, en réalité pour mettre les deux enfants à l'abri. Rhaena emporte trois œufs de dragon et prie chaque nuit pour qu'ils éclosent. Joffrey repart pour Port-Réal après la prise de la ville ; elle reste dans le Val, pupille de Jeyne Arryn, dame des Eyrié, et y mène une vie aisée où les chanteurs célèbrent sa beauté.\n\nL'un des œufs finit par éclore. Elle nomme la petite dragonne Morning. La nouvelle parvient aux verts vers le début de 131 apr. C. et les inquiète : ils ont perdu leurs dragons, et Alicent craint que le peuple ne lise dans cette naissance un signe en faveur des noirs. Morning est encore bien trop jeune pour être montée quand la guerre prend fin, quelques mois plus tard.",
+            "en": "In 129 AC Lucerys, her betrothed, was killed near Storm's End. Jacaerys then sent her with Joffrey to Gulltown, officially to defend the Vale, in fact to put the two children out of harm's way. Rhaena took three dragon eggs with her and prayed every night that they would hatch. Joffrey went back to King's Landing after the city fell; she stayed in the Vale as the ward of Jeyne Arryn, Lady of the Eyrie, living in comfort among singers who praised her beauty.\n\nOne of the eggs hatched at last. She named the little she-dragon Morning. The news reached the greens around the start of 131 AC and troubled them: they had lost their dragons, and Alicent feared the smallfolk would read the birth as a sign in favour of the blacks. Morning was still far too young to be ridden when the war ended a few months later."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+            },
+            {
+              "id": "fab",
+              "locator": "Under the Regents: The Hooded Hand"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon II"
+            }
+          ]
+        },
+        {
+          "id": "rhaena-fille-daemon-regence",
+          "heading": {
+            "fr": "Une héritière possible",
+            "en": "A Possible Heir"
+          },
+          "body": {
+            "fr": "À la fin de la guerre, Rhaena gagne Port-Réal avec Jeyne Arryn. Le peuple l'acclame, et Morning, seul dragon de la capitale, souvent enroulée sur ses épaules comme une étole, fascine la ville ; Aegon III, qui a vu Sunfyre dévorer sa mère, ordonne qu'on éloigne la bête de sa vue. Avec Baela, Rhaena obtient du roi la grâce de Corlys Velaryon.\n\nEn 132 apr. C., les régents jugent Rhaena plus docile que sa sœur et plus apte à assurer la suite d'un roi sans enfant. Après l'escapade de Baela, ils pressent son mariage. Rhaena accepte, mais choisit elle-même : ser Corwyn Corbray, rencontré dans le Val, cadet et veuf, qui porte l'épée valyrienne de sa maison. Une grossesse annoncée en 133 apr. C. s'achève par une fausse couche. Au bal où le roi choisit sa nouvelle épouse, les jumelles lui présentent Daenaera Velaryon.",
+            "en": "At the war's end Rhaena came to King's Landing with Jeyne Arryn. The people cheered her, and Morning, the only dragon in the capital, often coiled about her shoulders like a stole, fascinated the city; Aegon III, who had watched Sunfyre devour his mother, ordered the creature taken out of his sight. With Baela, Rhaena won from the king a pardon for Corlys Velaryon.\n\nIn 132 AC the regents judged Rhaena more biddable than her sister and better suited to secure the line of a childless king. After Baela's elopement they pressed for her marriage. Rhaena agreed but chose for herself: Ser Corwyn Corbray, whom she had met in the Vale, a widowed younger son who bore his house's Valyrian sword. A pregnancy announced in 133 AC ended in a miscarriage. At the ball where the king chose his new bride, the twins presented Daenaera Velaryon to him."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Aftermath: The Hour of the Wolf"
+            },
+            {
+              "id": "fab",
+              "locator": "Under the Regents: The Hooded Hand"
+            },
+            {
+              "id": "fab",
+              "locator": "Under the Regents: War and Peace and Cattle Shows"
+            }
+          ]
+        },
+        {
+          "id": "rhaena-fille-daemon-peyredragon",
+          "heading": {
+            "fr": "Peyredragon et la suite",
+            "en": "Dragonstone and After"
+          },
+          "body": {
+            "fr": "En 134 apr. C., le retour du prince Viserys, qu'on croyait mort, éloigne les jumelles de la succession. Au troisième mois de 135 apr. C., Rhaena monte Morning pour la première fois ; elle s'enhardit chaque jour, mais ne se pose qu'une fois au Donjon Rouge, où le roi redoute toujours les dragons, et part s'établir à Peyredragon, où dragons et cavaliers sont mieux reçus. Peu après, Corwyn Corbray est tué dans le Val en voulant régler une querelle de succession ; Baela vient veiller à ce que sa sœur ne s'envole pas pour le venger.\n\nRhaena épouse plus tard Garmund Hightower, frère cadet de lord Lyonel Hightower, dont elle a six filles. La date de sa mort n'est pas donnée, et l'on ignore quand et comment mourut Morning.",
+            "en": "In 134 AC the return of Prince Viserys, thought dead, moved the twins further from the succession. In the third month of 135 AC Rhaena flew Morning for the first time; she grew bolder each day, but landed only once in the Red Keep, where the king still dreaded dragons, and went to live on Dragonstone, where dragons and their riders were better received. Soon afterwards Corwyn Corbray was killed in the Vale while trying to settle a succession dispute; Baela came to make sure her sister would not fly off to avenge him.\n\nRhaena later married Garmund Hightower, younger brother of Lord Lyonel Hightower, by whom she had six daughters. The date of her death is not recorded, and nothing is known of when or how Morning died."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+            },
+            {
+              "id": "fab",
+              "locator": "The Lysene Spring and the End of Regency"
+            },
+            {
+              "id": "fab",
+              "locator": "Aftermath: The Hour of the Wolf"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "Appendix: Targaryen Lineage"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "morning"
+      ],
+      "eventIds": [
+        "p5-accalmie",
+        "p5-bilan-dragons",
+        "p5-heure-du-loup",
+        "p6-regence"
+      ],
+      "warIds": [
+        "danse-des-dragons"
+      ],
+      "disputed": {
+        "fr": "La date exacte de l'éclosion de Morning n'est pas connue : la nouvelle n'atteint la cour qu'au tournant de 130 et 131 apr. C. Champignon attribue à Alysanne Blackwood, plutôt qu'aux jumelles, la grâce de Corlys Velaryon.",
+        "en": "The exact date of Morning's hatching is not known: the news reached the court only at the turn of 130 and 131 AC. Mushroom credits Alysanne Blackwood, rather than the twins, with Corlys Velaryon's pardon."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Blacks and the Greens"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "fab",
+          "locator": "Aftermath: The Hour of the Wolf"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Hooded Hand"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: War and Peace and Cattle Shows"
+        },
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "Appendix: Targaryen Lineage"
+        }
+      ]
+    },
+    {
+      "personId": "aegon-iii",
+      "titles": [
+        {
+          "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes, de 131 à 157 apr. C.",
+          "en": "King of the Andals, the Rhoynar and the First Men, from 131 to 157 AC"
+        },
+        {
+          "fr": "Prince, héritier de Rhaenyra après la mort de Joffrey",
+          "en": "Prince, Rhaenyra's heir after the death of Joffrey"
+        },
+        {
+          "fr": "Cavalier de Stormcloud, le temps d'un seul vol",
+          "en": "Rider of Stormcloud, for a single flight"
+        }
+      ],
+      "lead": {
+        "fr": "Fils aîné de Rhaenyra et de Daemon, Aegon III monta sur le trône à dix ans, au sortir de la Danse, et régna jusqu'en 157 apr. C. sur un royaume où les dragons s'éteignirent.",
+        "en": "Elder son of Rhaenyra and Daemon, Aegon III came to the throne at ten, as the Dance ended, and reigned until 157 AC over a realm in which the dragons died out."
+      },
+      "sections": [
+        {
+          "id": "aegon-iii-enfance",
+          "heading": {
+            "fr": "Aegon le Jeune",
+            "en": "Aegon the Younger"
+          },
+          "body": {
+            "fr": "Aegon naît à la fin de 120 apr. C., premier fils de Rhaenyra et de Daemon, avec les cheveux d'argent et les yeux violets qui manquaient à ses demi-frères. Le choix du prénom, celui du Conquérant, offense la reine Alicent, dont le fils aîné le porte déjà : l'histoire distingue depuis Aegon l'Aîné et Aegon le Jeune. Il grandit à Peyredragon, inséparable de son frère Viserys, né en 122 apr. C., avec qui il partage chambre et leçons.\n\nEn 129 apr. C., il s'est lié au dragon Stormcloud sans l'avoir encore monté. Aegon II propose de le prendre pour écuyer si Rhaenyra se soumet ; elle refuse. À la fin de l'année, Jacaerys envoie les deux garçons à Pentos. Dans le Gosier, leur navire tombe aux mains de la Triarchie. Aegon s'échappe sur Stormcloud, qu'il monte pour la première fois ; le dragon, blessé, meurt à Peyredragon dans l'heure qui suit.",
+            "en": "Aegon was born at the end of 120 AC, the first son of Rhaenyra and Daemon, with the silver hair and purple eyes his half-brothers lacked. The choice of name, that of the Conqueror, offended Queen Alicent, whose eldest son already bore it: history has since distinguished Aegon the Elder from Aegon the Younger. He grew up on Dragonstone, inseparable from his brother Viserys, born in 122 AC, with whom he shared a bedchamber and lessons.\n\nBy 129 AC he had bonded with the dragon Stormcloud but had not yet ridden him. Aegon II offered to take him as a squire if Rhaenyra submitted; she refused. At the end of the year Jacaerys sent the two boys to Pentos. In the Gullet their ship fell into the hands of the Triarchy. Aegon escaped on Stormcloud, riding him for the first time; the wounded dragon died on Dragonstone within the hour."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "trp"
+            }
+          ]
+        },
+        {
+          "id": "aegon-iii-temoin",
+          "heading": {
+            "fr": "Le témoin",
+            "en": "The Witness"
+          },
+          "body": {
+            "fr": "Aegon ne remontera jamais sur un dragon, et le remords d'avoir laissé son frère ne le quittera plus. Après la prise de Port-Réal, Rhaenyra le fait venir et le nomme son échanson pour le garder près d'elle. Il ne dit presque rien. Du toit du Donjon Rouge, il voit tomber Joffrey et mourir Syrax ; il fuit ensuite la ville avec sa mère, qui refuse de le perdre de vue.\n\nÀ Peyredragon, il est le premier à comprendre le piège et crie en vain à sa mère de fuir. Il ramasse l'épée d'un garde tué ; Alfred Broome la lui fait sauter des mains. Dans la cour, il voit Sunfyre brûler et dévorer Rhaenyra. Broome veut le tuer ; Aegon II le garde comme otage, enchaîné dans les cachots, puis accepte, sur le conseil de Larys Strong, de le fiancer à sa fille Jaehaera et de le désigner pour héritier.",
+            "en": "Aegon would never ride a dragon again, and remorse at having left his brother never left him. After the taking of King's Landing, Rhaenyra sent for him and made him her cupbearer to keep him close. He said almost nothing. From the roof of the Red Keep he watched Joffrey fall and Syrax die; he then fled the city with his mother, who would not let him out of her sight.\n\nOn Dragonstone he was the first to see the trap, and cried out in vain for his mother to flee. He picked up a slain guard's sword; Alfred Broome knocked it out of his hand. In the yard he watched Sunfyre burn and devour Rhaenyra. Broome wanted him killed; Aegon II kept him as a hostage, chained in the dungeons, then agreed, on Larys Strong's advice, to betroth him to his daughter Jaehaera and name him heir."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Triumphant"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+            }
+          ]
+        },
+        {
+          "id": "aegon-iii-regence",
+          "heading": {
+            "fr": "Un roi sous tutelle",
+            "en": "A King in Wardship"
+          },
+          "body": {
+            "fr": "Après la mort d'Aegon II, en 131 apr. C., le garçon sort de Port-Réal avec Corlys sous la bannière de paix pour remettre la ville à l'armée du Conflans. Il a dix ans. Cregan Stark se fait nommer Main, juge les meurtriers du roi défunt, puis rend sa charge ; c'est Aegon qui, contre l'avis de Cregan, gracie Corlys. Il épouse Jaehaera au septième mois et il est couronné le jour même.\n\nCinq ans de régence suivent, où les Mains se succèdent : Tyland Lannister, emporté par la fièvre d'Hiver en 133 apr. C., puis Unwin Peake, puis Thaddeus Rowan. Le roi, taciturne, signe ce qu'on lui présente. Pendant l'épidémie, il se distingue pourtant en veillant les malades. Jaehaera meurt en 133 apr. C., tombée d'une fenêtre ; Aegon choisit lui-même Daenaera Velaryon au bal organisé pour le remarier. En 134 apr. C., Alyn Velaryon lui ramène de Lys son frère Viserys.",
+            "en": "After Aegon II's death in 131 AC, the boy rode out of King's Landing with Corlys under a peace banner to yield the city to the army of the Riverlands. He was ten. Cregan Stark had himself named Hand, judged the late king's murderers and then gave up his office; it was Aegon who, against Cregan's wishes, pardoned Corlys. He married Jaehaera in the seventh month and was crowned the same day.\n\nFive years of regency followed, with one Hand after another: Tyland Lannister, carried off by the Winter Fever in 133 AC, then Unwin Peake, then Thaddeus Rowan. The silent king signed what was put before him. During the epidemic, however, he distinguished himself by sitting with the sick. Jaehaera died in 133 AC after a fall from a window; Aegon himself chose Daenaera Velaryon at the ball held to find him a new wife. In 134 AC Alyn Velaryon brought his brother Viserys back to him from Lys."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+            },
+            {
+              "id": "fab",
+              "locator": "Aftermath: The Hour of the Wolf"
+            },
+            {
+              "id": "fab",
+              "locator": "Under the Regents: The Hooded Hand"
+            },
+            {
+              "id": "fab",
+              "locator": "Under the Regents: War and Peace and Cattle Shows"
+            },
+            {
+              "id": "fab",
+              "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon III"
+            }
+          ]
+        },
+        {
+          "id": "aegon-iii-regne",
+          "heading": {
+            "fr": "Le roi brisé",
+            "en": "The Broken King"
+          },
+          "body": {
+            "fr": "En 135 apr. C., quand des conjurés emprisonnent Thaddeus Rowan et veulent arrêter Larra Rogare, l'épouse lysienne de Viserys, les deux frères s'enferment dans la citadelle de Maegor et tiennent jusqu'à ce que l'accusation s'effondre. Le jour de ses seize ans, en 136 apr. C., Aegon congédie sans ménagement ses régents et sa Main, et annule le voyage royal qu'ils lui préparaient.\n\nOn l'appellera le Roi brisé. Il veut un royaume en paix et nourri, mais ne sait ni ne veut se concilier seigneurs et petites gens ; il lui arrive de s'enfermer des jours entiers. Son mariage n'est consommé qu'une dizaine d'années plus tard. Daenaera lui donne cinq enfants, dont les futurs rois Daeron Ier et Baelor Ier. Dans les dernières années du règne, son frère Viserys est sa Main ; ensemble, ils démasquent plusieurs imposteurs qui se font passer pour le prince Daeron, frère d'Aegon II.",
+            "en": "In 135 AC, when conspirators imprisoned Thaddeus Rowan and tried to arrest Larra Rogare, Viserys's Lysene wife, the two brothers shut themselves in Maegor's Holdfast and held out until the case collapsed. On his sixteenth nameday, in 136 AC, Aegon dismissed his regents and his Hand without ceremony and cancelled the royal progress they had been preparing for him.\n\nHe would be called the Broken King. He sought to keep the realm fed and at peace, but could not bring himself to win over lords or commons; at times he shut himself away for days. His marriage was not consummated until some ten years later. Daenaera gave him five children, among them the future kings Daeron I and Baelor I. In the last years of the reign his brother Viserys was his Hand; together they unmasked several impostors passing themselves off as Prince Daeron, Aegon II's brother."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "The Lysene Spring and the End of Regency"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon III"
+            }
+          ]
+        },
+        {
+          "id": "aegon-iii-dragons",
+          "heading": {
+            "fr": "La fin des dragons",
+            "en": "The End of the Dragons"
+          },
+          "body": {
+            "fr": "Aegon III n'aime pas les dragons, et l'on comprend pourquoi. Sous son règne, les derniers s'éteignent : le tout dernier, une femelle chétive aux ailes atrophiées, meurt à Port-Réal en 153 apr. C. après avoir pondu des œufs qui n'éclosent pas. La rumeur accuse le roi de l'avoir empoisonnée, et il en garde le surnom de Fléau des dragons. Il n'a pourtant pas renoncé à leur puissance : à l'instigation de Viserys, il fait venir d'Essos des mages pour faire éclore des œufs, sans succès.\n\nIl meurt de consomption en 157 apr. C., à trente-six ans. Ceux qui le voyaient lui donnaient bien davantage ; son enfance s'était arrêtée en 130 apr. C. Son fils Daeron, quatorze ans, lui succède ; quand Daeron puis Baelor meurent sans enfants, la couronne passe à Viserys II. La mémoire d'Aegon III reste sans chaleur : on lui doit la paix, non l'attachement de ses sujets.",
+            "en": "Aegon III had no love for dragons, and it is easy to see why. In his reign the last of them died out: the very last, a stunted female with withered wings, died in King's Landing in 153 AC after laying eggs that never hatched. Rumour accused the king of poisoning her, and the name Dragonbane stayed with him. Yet he had not given up on their power: at Viserys's urging he brought mages from Essos to hatch eggs, without success.\n\nHe died of consumption in 157 AC, at thirty-six. Those who saw him gave him many more years than he had lived; his childhood had stopped in 130 AC. His son Daeron, aged fourteen, succeeded him; when Daeron and then Baelor died childless, the crown passed to Viserys II. Aegon III is remembered without warmth: he gave the realm peace, not the affection of his subjects."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon III"
+            },
+            {
+              "id": "thk"
+            },
+            {
+              "id": "agot",
+              "locator": "Daenerys III"
+            },
+            {
+              "id": "asos",
+              "locator": "Chapter 54"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [
+        "stormcloud",
+        "sunfyre",
+        "dernier-dragon"
+      ],
+      "eventIds": [
+        "p5-gosier",
+        "p5-fossedragon",
+        "p5-mort-rhaenyra",
+        "p5-mort-aegon-ii",
+        "p5-heure-du-loup",
+        "p6-regence",
+        "p5-dernier-dragon"
+      ],
+      "warIds": [
+        "danse-des-dragons"
+      ],
+      "disputed": {
+        "fr": "La mort de la reine Jaehaera, en 133 apr. C., passe pour un suicide, mais la ville parla de meurtre. Le poison qu'on prête au roi contre le dernier dragon n'est pas prouvé ; bien plus tard, l'archimestre Marwyn en rendra responsables les mestres de la Citadelle, sans plus de preuve.",
+        "en": "Queen Jaehaera's death in 133 AC is held to have been suicide, but the city spoke of murder. The poison the king is said to have used against the last dragon is unproven; much later Archmaester Marwyn would lay the blame on the maesters of the Citadel, with no more proof."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: Rhaenyra Overthrown"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Short, Sad Reign of Aegon II"
+        },
+        {
+          "id": "fab",
+          "locator": "Aftermath: The Hour of the Wolf"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Hooded Hand"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: War and Peace and Cattle Shows"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+        },
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        },
+        {
+          "id": "thk"
+        },
+        {
+          "id": "affc",
+          "locator": "Samwell V"
+        }
+      ]
+    },
+    {
+      "personId": "viserys-ii",
+      "titles": [
+        {
+          "fr": "Roi des Andals, des Rhoynars et des Premiers Hommes, de 171 à 172 apr. C.",
+          "en": "King of the Andals, the Rhoynar and the First Men, from 171 to 172 AC"
+        },
+        {
+          "fr": "Main du roi sous Aegon III, Daeron Ier et Baelor Ier",
+          "en": "Hand of the King under Aegon III, Daeron I and Baelor I"
+        },
+        {
+          "fr": "Prince",
+          "en": "Prince"
+        }
+      ],
+      "lead": {
+        "fr": "Fils cadet de Rhaenyra et de Daemon, Viserys passa sa jeunesse captif à Lys, gouverna le royaume comme Main sous trois rois et ne régna lui-même qu'un an, de 171 à 172 apr. C.",
+        "en": "Younger son of Rhaenyra and Daemon, Viserys spent his youth as a captive in Lys, governed the realm as Hand under three kings and reigned himself for only a year, from 171 to 172 AC."
+      },
+      "sections": [
+        {
+          "id": "viserys-ii-gosier",
+          "heading": {
+            "fr": "L'enfant du Gosier",
+            "en": "The Boy from the Gullet"
+          },
+          "body": {
+            "fr": "Viserys naît en 122 apr. C., second fils de Rhaenyra et de Daemon, et reçoit le prénom de son grand-père. Selon l'usage, on place un œuf de dragon dans son berceau. Il grandit à Peyredragon aux côtés de son frère Aegon, son compagnon de jeux et d'études. À la fin de 129 apr. C., les deux garçons embarquent pour Pentos, où un prince de la cité doit les accueillir le temps de la guerre.\n\nDans le Gosier, la flotte de la Triarchie s'empare de leur navire. Aegon s'enfuit sur Stormcloud ; Viserys n'a que son œuf. Il le cache et se fait passer pour un mousse, jusqu'à ce qu'un homme d'équipage le dénonce. Remis à l'amiral de la Triarchie, il disparaît des récits : sa famille le croit mort, et Aegon se reproche pendant des années de l'avoir abandonné.",
+            "en": "Viserys was born in 122 AC, the second son of Rhaenyra and Daemon, and was named after his grandfather. As custom required, a dragon egg was placed in his cradle. He grew up on Dragonstone beside his brother Aegon, his companion at play and at lessons. At the end of 129 AC the two boys sailed for Pentos, where a prince of that city was to shelter them for the duration of the war.\n\nIn the Gullet the Triarchy's fleet seized their ship. Aegon escaped on Stormcloud; Viserys had only his egg. He hid it and passed himself off as a ship's boy, until one of the crew gave him away. Handed over to the Triarchy's admiral, he vanished from the record: his family believed him dead, and Aegon reproached himself for years for having abandoned him."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Heirs of the Dragon: A Question of Succession"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Blacks and the Greens"
+            },
+            {
+              "id": "fab",
+              "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+            },
+            {
+              "id": "fab",
+              "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+            }
+          ]
+        },
+        {
+          "id": "viserys-ii-lys",
+          "heading": {
+            "fr": "Lys et les Rogare",
+            "en": "Lys and the Rogares"
+          },
+          "body": {
+            "fr": "Viserys se retrouve à Lys, dans la demeure d'un magistrat, puis, quand celui-ci meurt criblé de dettes, entre les mains de Lysandro Rogare, dont la banque rivalise alors avec celle de Braavos. Mesurant la valeur de son captif, Rogare le traite en hôte et lui donne pour épouse sa fille Larra, de sept ans son aînée. En 134 apr. C., Alyn Velaryon le rachète moyennant une forte rançon et le ramène à Port-Réal, avec Larra et plusieurs de ses frères.\n\nSon retour rend au roi une joie qu'il n'avait plus connue depuis la guerre ; jusqu'à la fin de sa vie, Aegon ne se fiera pleinement qu'à lui. Mais les Rogare suscitent à la cour des haines que leurs fautes réelles ne suffisent pas à expliquer. En 135 apr. C., quand des conjurés veulent arrêter Larra, les deux frères la protègent dans la citadelle de Maegor jusqu'à ce que l'accusation tombe d'elle-même.",
+            "en": "Viserys ended up in Lys, in the house of a magister, then, when that man died deep in debt, in the hands of Lysandro Rogare, whose bank at the time rivalled that of Braavos. Weighing the worth of his captive, Rogare treated him as a guest and gave him his daughter Larra, seven years his senior, as a wife. In 134 AC Alyn Velaryon ransomed him at great cost and brought him back to King's Landing, together with Larra and several of her brothers.\n\nHis return gave the king a joy he had not known since the war; to the end of his life Aegon trusted no one else fully. But the Rogares stirred hatreds at court that their real misdeeds were not enough to explain. In 135 AC, when conspirators tried to arrest Larra, the two brothers protected her in Maegor's Holdfast until the case fell apart of its own accord."
+          },
+          "sources": [
+            {
+              "id": "fab",
+              "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+            },
+            {
+              "id": "fab",
+              "locator": "The Lysene Spring and the End of Regency"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon III"
+            }
+          ]
+        },
+        {
+          "id": "viserys-ii-main",
+          "heading": {
+            "fr": "La Main de trois rois",
+            "en": "Hand to Three Kings"
+          },
+          "body": {
+            "fr": "Viserys et Larra ont trois enfants : Aegon, né en 135 apr. C., puis Aemon et Naerys. Larra ne se fait jamais à la cour et finit par retourner à Lys en laissant ses enfants ; on dit que Viserys en devint plus sévère. Il mariera plus tard Aegon à Naerys, avec l'accord du roi, tandis qu'Aemon entre dans la Garde Royale.\n\nMain d'Aegon III dans les dernières années du règne, il le reste sous Daeron Ier, sans réclamer de régence pour ce neveu de quatorze ans, puis sous Baelor Ier. Il gouverne pendant que Daeron conquiert Dorne et pendant que Baelor marche pieds nus jusqu'à Lancehélion. Il désapprouve l'enfermement des sœurs du roi au Donjon Rouge ; la rumeur lui prête même l'empoisonnement du tailleur de pierre dont Baelor avait fait un Grand Septon.",
+            "en": "Viserys and Larra had three children: Aegon, born in 135 AC, then Aemon and Naerys. Larra never grew used to the court and in the end went back to Lys, leaving her children behind; it is said that Viserys grew sterner for it. He would later marry Aegon to Naerys, with the king's consent, while Aemon joined the Kingsguard.\n\nHand to Aegon III in the last years of the reign, he remained so under Daeron I, without demanding a regency for that fourteen-year-old nephew, and then under Baelor I. He governed while Daeron conquered Dorne and while Baelor walked barefoot to Sunspear. He objected when the king shut his sisters away in the Red Keep; rumour even credits him with poisoning the stonemason whom Baelor had made High Septon."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Aegon III"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys II"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Baelor I"
+            },
+            {
+              "id": "affc",
+              "locator": "Chapter 28"
+            }
+          ]
+        },
+        {
+          "id": "viserys-ii-regne",
+          "heading": {
+            "fr": "Un an de règne",
+            "en": "A Single Year"
+          },
+          "body": {
+            "fr": "Baelor meurt en 171 apr. C. après un long jeûne. Sa sœur aînée Daena a des partisans, mais on invoque les précédents de 101 apr. C. et de la Danse, et la couronne revient à Viserys, alors âgé de quarante-neuf ans. Certains l'accusent d'avoir hâté la mort de son neveu ; rien ne l'établit.\n\nSon règne dure à peine plus d'un an. On lui attribue une réforme de la maison royale, un nouvel atelier monétaire, des efforts pour le commerce de l'autre côté du détroit et des retouches au code de lois de Jaehaerys Ier. Plusieurs historiens ont vu en lui l'étoffe d'un second Jaehaerys. Une maladie soudaine l'emporte en 172 apr. C. ; son fils Aegon IV lui succède, et certains soupçonnent celui-ci d'avoir empoisonné son père. La mémoire commune lui est peu favorable et oublie souvent ses longues années de Main.",
+            "en": "Baelor died in 171 AC after a long fast. His elder sister Daena had supporters, but the precedents of 101 AC and of the Dance were invoked, and the crown went to Viserys, then forty-nine years old. Some accused him of hastening his nephew's death; nothing proves it.\n\nHis reign lasted little more than a year. He is credited with a reform of the royal household, a new mint, efforts to encourage trade across the narrow sea and revisions to the code of laws of Jaehaerys I. Several historians have seen in him the makings of a second Jaehaerys. A sudden illness carried him off in 172 AC; his son Aegon IV succeeded him, and some suspect the son of having poisoned his father. Common memory has not been kind to him, and often forgets his long years as Hand."
+          },
+          "sources": [
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Baelor I"
+            },
+            {
+              "id": "twoiaf",
+              "locator": "The Targaryen Kings: Viserys II"
+            },
+            {
+              "id": "asos",
+              "locator": "Chapter 59"
+            }
+          ]
+        }
+      ],
+      "dragonIds": [],
+      "eventIds": [
+        "p5-gosier",
+        "p6-regence",
+        "p6-daeron-dorne",
+        "p6-baelor",
+        "p6-viserys-ii",
+        "p6-aegon-iv"
+      ],
+      "warIds": [
+        "danse-des-dragons",
+        "conquete-de-dorne"
+      ],
+      "disputed": {
+        "fr": "Deux soupçons pèsent sur lui sans preuve : avoir empoisonné Baelor, pour régner ou pour épargner au royaume une guerre de religion, et avoir fait périr le Grand Septon nommé par Baelor. Sa propre mort a fait accuser Aegon IV. La date de son mariage n'est pas sûre : The World of Ice & Fire donne à Larra un âge qui le placerait vers 134 apr. C., alors que Fire & Blood laisse entendre une union rapide après son arrivée chez les Rogare.",
+        "en": "Two suspicions hang over him without proof: that he poisoned Baelor, to reign or to spare the realm a war of religion, and that he had Baelor's High Septon done away with. His own death brought suspicion on Aegon IV. The date of his marriage is uncertain: The World of Ice & Fire gives Larra an age that would place it around 134 AC, whereas Fire & Blood implies a swift union after he came into the Rogares' hands."
+      },
+      "sources": [
+        {
+          "id": "fab",
+          "locator": "Heirs of the Dragon: A Question of Succession"
+        },
+        {
+          "id": "fab",
+          "locator": "The Dying of the Dragons: The Red Dragon and the Gold"
+        },
+        {
+          "id": "fab",
+          "locator": "Under the Regents: The Voyage of Alyn Oakenfist"
+        },
+        {
+          "id": "fab",
+          "locator": "The Lysene Spring and the End of Regency"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Aegon III"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Viserys II"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Targaryen Kings: Baelor I"
+        },
+        {
+          "id": "twoiaf",
+          "locator": "The Free Cities: The Quarrelsome Daughters: Myr, Lys, and Tyrosh"
+        },
+        {
+          "id": "asos",
+          "locator": "Chapter 59"
+        }
+      ]
+    }
+  ]
+}

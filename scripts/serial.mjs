@@ -7,7 +7,7 @@ import path from 'node:path';
 import { spawn } from 'node:child_process';
 
 const LOCK = path.resolve('node_modules/.tmp/heavy.lock');
-const STALE_MS = 10 * 60 * 1000; // a lock older than 10 minutes is considered abandoned
+const STALE_MS = 45 * 60 * 1000; // a lock older than 45 minutes is considered abandoned (a full link audit can take 15)
 const [cmd, ...args] = process.argv.slice(2);
 
 if (!cmd) {

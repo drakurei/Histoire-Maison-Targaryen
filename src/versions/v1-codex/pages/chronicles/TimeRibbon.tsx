@@ -6,7 +6,7 @@ import { useVersionPath } from '@/app/version';
 import { dragons } from '@/core/content/dragons';
 import { sovereigns } from '@/core/content/people';
 import { events, periods } from '@/core/content/timeline';
-import { formatSpan, formatYear, useLang, useT, useTitle } from '@/core/i18n';
+import { formatSpan, formatYear, useLang, useT, useTitle, VALYRIAN_TAG } from '@/core/i18n';
 import { createTimeScale, reignRibbons, timeTicks, timeZones, yearToX } from '@/core/timeline';
 
 import { useElementWidth } from '../../components/hooks';
@@ -176,7 +176,7 @@ export function TimeRibbon() {
                   </text>
                 ) : null}
                 {showName ? (
-                  <text className={styles.volName} x={x0 + numeral.length * 11 + 16} y={y + drawing.volH / 2 + 5}>
+                  <text className={styles.volName} x={x0 + numeral.length * 11 + 16} y={y + drawing.volH / 2 + 5} lang={name.isHv ? VALYRIAN_TAG : undefined}>
                     {name.primary}
                   </text>
                 ) : null}

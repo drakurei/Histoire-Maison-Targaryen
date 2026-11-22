@@ -17,6 +17,8 @@ Une entrée reçoit `status: "atteste"` et `verified: true` lorsque :
 
 Le champ `refs` donne l'URL de la page du mot ; les 4 URL testées répondent 200.
 
+**Contrôle de reprise (22 novembre 2026).** Après l'interruption du travail, les 235 pages citées dans `refs` ont été relues d'un bloc par l'API (`action=query&prop=revisions`, cinq requêtes de 50 titres) : aucune page manquante, aucune redirection, chaque titre identique à la forme `hv`. Le genre, la déclinaison, le pluriel nominatif, la classe d'adjectif et le participe parfait de chaque entrée ont été comparés aux gabarits `{{head|…}}` et `{{hv-adj|…}}` de la page, et la glose française et anglaise à la définition `<onlyinclude>` : aucun écart. Le fichier se parse, chaque identifiant suit `lex.<thème>.<forme sans diacritiques>`, aucun texte ne contient de tiret cadratin ni de point d'exclamation, les 87 entrées d'origine ont toutes un thème. `node scripts/serial.mjs node scripts/build-content.mjs` sort sans erreur bloquante ni avertissement (322 mots au lexique : 87 + 235).
+
 ## 2. Ce que disent les notes au lecteur
 
 Chaque note comporte une phrase originale (sens, nuance, étymologie, emploi notable), puis, générés à partir de la page du mot :

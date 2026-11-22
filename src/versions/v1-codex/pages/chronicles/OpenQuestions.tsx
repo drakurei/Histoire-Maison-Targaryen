@@ -1,9 +1,10 @@
 import { openQuestionsOfPeriod } from '@/core/content/timeline';
 import type { Period } from '@/core/content/types';
-import { useLang, useT, useTx } from '@/core/i18n';
+import { useLang, useT } from '@/core/i18n';
 
 import { SourceList } from '../../components/SourceList';
 import styles from './OpenQuestions.module.css';
+import { useTxTypo } from '../../components/typo';
 
 /**
  * Les questions ouvertes d'un volume : chacune posée en titre, puis ce qui est établi, ce
@@ -11,7 +12,7 @@ import styles from './OpenQuestions.module.css';
  */
 export function OpenQuestions({ period }: { period: Period }) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const { reading } = useLang();
   const details = openQuestionsOfPeriod(period.id);
 

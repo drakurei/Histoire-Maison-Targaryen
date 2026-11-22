@@ -13,7 +13,8 @@
   align-content: end;
   min-block-size: calc(100svh - var(--v1-barre) - 6.5rem);
   padding-block: var(--e6) var(--e7);
-  padding-inline: 0.25rem;
+  /* Même retrait que le texte du folio sur téléphone : le titre ne touche jamais le bord de l'écran. */
+  padding-inline: 1.25rem;
   color: var(--ivoire);
 }
 
@@ -26,6 +27,14 @@
   aspect-ratio: 1;
   color: var(--sang);
   pointer-events: none;
+}
+
+/* Téléphone : emblème plus petit, sa queue sort du cadre au lieu de passer sous la glose du titre. */
+@media (max-width: 639.98px) {
+  .emblem {
+    inset-inline-end: -38%;
+    block-size: min(64vw, 40svh);
+  }
 }
 
 .emblem svg {

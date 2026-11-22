@@ -7,7 +7,7 @@ import { reliabilityLevels, sources, sourceScale } from '@/core/content/sources'
 import { events } from '@/core/content/timeline';
 import type { Reliability, Source, SourceRef } from '@/core/content/types';
 import { wars } from '@/core/content/wars';
-import { useLang, useT, useTx } from '@/core/i18n';
+import { useLang, useT } from '@/core/i18n';
 import { ReliabilityGlyph } from '@/shared/marks/Marks';
 
 import { Figure } from '../components/Figure';
@@ -17,6 +17,7 @@ import { Prose } from '../components/Prose';
 import { Rubric } from '../components/Rubric';
 import { useHashScroll } from './language/useHashScroll';
 import styles from './SourcesPage.module.css';
+import { useTxTypo } from '../components/typo';
 
 /*
  * Sigles des ouvrages : les mêmes que dans components/SourceList (qui ne les exporte pas),
@@ -199,7 +200,7 @@ export default function SourcesPage() {
 
 function LevelRow({ level, count }: { level: Reliability; count: number }) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const { reading } = useLang();
   const data = reliabilityLevels.find((item) => item.id === level);
   return (
@@ -226,7 +227,7 @@ function LevelRow({ level, count }: { level: Reliability; count: number }) {
 }
 
 function NatureHead({ id, stepId }: { id: string; stepId: string }) {
-  const tx = useTx();
+  const tx = useTxTypo();
   const { reading } = useLang();
   const step = sourceScale.find((item) => item.id === stepId);
   return (

@@ -2,7 +2,7 @@ import { useMemo } from 'react';
 import { useParams } from 'react-router-dom';
 
 import { MAIN_ID } from '@/app/a11y';
-import { NotFound } from '@/app/NotFound';
+import { NotFound } from '../components/NotFound';
 import { eventsOfPeriod, getPeriod, periods } from '@/core/content/timeline';
 import type { Period } from '@/core/content/types';
 import { formatSpan, Gloss, useLang, useT } from '@/core/i18n';

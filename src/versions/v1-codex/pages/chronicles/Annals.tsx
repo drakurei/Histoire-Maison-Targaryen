@@ -3,7 +3,7 @@ import { useMemo, useState } from 'react';
 import { VLink } from '@/app/version';
 import { getReliabilityLevel } from '@/core/content/sources';
 import type { HistoricalEvent, Reliability } from '@/core/content/types';
-import { useLang, useT, useTitle, useTx, VALYRIAN_TAG, yearParts } from '@/core/i18n';
+import { useLang, useT, useTitle, VALYRIAN_TAG, yearParts } from '@/core/i18n';
 import { eventFacets, eventsByYear, filterEvents } from '@/core/timeline';
 import type { YearGroup } from '@/core/timeline';
 
@@ -12,6 +12,7 @@ import { FilterBar } from '../../components/FilterBar';
 import type { FilterGroup } from '../../components/FilterBar';
 import { ReliabilityMark } from '../../components/ReliabilityMark';
 import styles from './Annals.module.css';
+import { useTxTypo } from '../../components/typo';
 
 /** Nombre de personnes et de dragons proposés comme filtres : les plus cités du volume. */
 const FACETS_SHOWN = 8;
@@ -28,7 +29,7 @@ function toggle(set: ReadonlySet<string>, value: string): Set<string> {
 /** L'année suspendue en marge : le nombre en grand, le sigle d'ère dessous ; à défaut, la date telle que la source la donne. */
 function HangingYear({ group }: { group: YearGroup }) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const { reading } = useLang();
   const first = group.events[0];
   const parts = yearParts(group.year, reading);
@@ -46,7 +47,7 @@ function HangingYear({ group }: { group: YearGroup }) {
 
 function Entry({ event }: { event: HistoricalEvent }) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const title = useTitle();
   const { reading } = useLang();
   const span = event.yearEnd !== undefined && event.yearEnd !== event.year;
@@ -82,7 +83,7 @@ function Entry({ event }: { event: HistoricalEvent }) {
  */
 export function Annals({ events }: { events: readonly HistoricalEvent[] }) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const title = useTitle();
   const { reading } = useLang();
   const [chosen, setChosen] = useState<Record<Criterion, ReadonlySet<string>>>({

@@ -36,7 +36,7 @@
         "fab",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "gaemon-peyredragon",
@@ -65,7 +65,7 @@
         "twoiaf",
         "fab"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "daenys",
@@ -99,7 +99,7 @@
         "fab",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "aegon-peyredragon",
@@ -267,7 +267,7 @@
         "twoiaf",
         "fab"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "valaena-velaryon",
@@ -326,7 +326,7 @@
         "fab",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "visenya",
@@ -349,7 +349,7 @@
         "trotd",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "aegon-i",
@@ -383,7 +383,7 @@
         "trotd",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "rhaenys",
@@ -414,7 +414,7 @@
         "trotd",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "aenys-i",
@@ -440,7 +440,7 @@
         "trotd",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "maegor-i",
@@ -470,7 +470,7 @@
         "trotd",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "alyssa-velaryon",
@@ -491,7 +491,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "ceryse-hightower",
@@ -709,7 +709,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "aegon-fils-aenys-i",
@@ -746,7 +746,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "viserys-fils-aenys-i",
@@ -797,7 +797,7 @@
         "trotd",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "alysanne",
@@ -823,7 +823,7 @@
         "twoiaf",
         "trotd"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "vaella-fille-aenys-i",
@@ -869,7 +869,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "rhaella-fille-aegon",
@@ -961,7 +961,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "baelon-fils-jaehaerys-i",
@@ -986,7 +986,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "alyssa-fille-jaehaerys-i",
@@ -1007,7 +1007,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "maegelle",
@@ -1061,7 +1061,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "daella-fille-jaehaerys-i",
@@ -1082,7 +1082,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "saera",
@@ -1111,7 +1111,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "viserra",
@@ -1199,7 +1199,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "rhaenys-fille-aemon",
@@ -1225,7 +1225,7 @@
         "twoiaf",
         "trotd"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "viserys-i",
@@ -1251,7 +1251,7 @@
         "trotd",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "daemon",
@@ -1277,7 +1277,7 @@
         "twoiaf",
         "trotd"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "aegon-fils-baelon",
@@ -1344,7 +1344,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "corlys-velaryon",
@@ -1370,7 +1370,7 @@
         "twoiaf",
         "trotd"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "laena-velaryon",
@@ -1391,7 +1391,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "laenor-velaryon",
@@ -1412,7 +1412,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "marilda-de-hull",
@@ -1534,7 +1534,7 @@
         "trotd",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "baelon-fils-viserys-i",
@@ -1710,7 +1710,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "jacaerys-velaryon",
@@ -1731,7 +1731,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "lucerys-velaryon",
@@ -1752,7 +1752,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "joffrey-velaryon",
@@ -1773,7 +1773,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "rhea-royce",
@@ -1819,7 +1819,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "rhaena-fille-daemon",
@@ -1844,7 +1844,7 @@
         "fab",
         "twoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "mysaria",
@@ -1903,7 +1903,7 @@
         "trotd",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "viserys-ii",
@@ -1933,7 +1933,7 @@
         "trotd",
         "asoiaf"
       ],
-      "hasBiography": false
+      "hasBiography": true
     },
     {
       "id": "visenya-fille-rhaenyra",
@@ -7233,7 +7233,7 @@
       },
       "contested": true,
       "contestedNote": {
-        "fr": "Couronnée à Peyredragon en 129 ; tient Port-Réal et le Trône de Fer environ six mois en 130 (« la Reine d'une demi-année », traduction de l'agent). Les histoires officielles ne la comptent pas dans la succession et ne la nomment que comme rivale d'Aegon II. Ce sont pourtant ses fils, Aegon III puis Viserys II, qui continuent la lignée royale. Tuée à Peyredragon le 22e jour de la 10e lune de 130.",
+        "fr": "Couronnée à Peyredragon en 129 ; tient Port-Réal et le Trône de Fer environ six mois en 130 (« la Reine d'une demi-année », traduction libre du surnom anglais). Les histoires officielles ne la comptent pas dans la succession et ne la nomment que comme rivale d'Aegon II. Ce sont pourtant ses fils, Aegon III puis Viserys II, qui continuent la lignée royale. Tuée à Peyredragon le 22e jour de la 10e lune de 130.",
         "en": "Crowned on Dragonstone in 129 AC; held King's Landing and the Iron Throne for about six months in 130 AC ('the Half-Year Queen'). The official histories do not count her in the succession and name her only as Aegon II's rival. Yet it was her sons, Aegon III and then Viserys II, who carried on the royal line. Killed on Dragonstone on the 22nd day of the 10th moon of 130 AC."
       },
       "note": {

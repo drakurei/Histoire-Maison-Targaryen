@@ -1,13 +1,14 @@
 import { VLink } from '@/app/version';
 import { getPerson } from '@/core/content/people';
 import type { Dragon } from '@/core/content/types';
-import { formatSpan, formatYear, useLang, useT, useTitle, useTx, VALYRIAN_TAG } from '@/core/i18n';
+import { formatSpan, formatYear, useLang, useT, useTitle, VALYRIAN_TAG } from '@/core/i18n';
 import { DragonFigure } from '@/shared/dragon';
 
 import { EntityLink } from '../../components/EntityLink';
 import { ReliabilityMark } from '../../components/ReliabilityMark';
 import styles from './DragonRow.module.css';
 import { dragonName } from './registry';
+import { useTxTypo } from '../../components/typo';
 
 interface DragonRowProps {
   dragon: Dragon;
@@ -34,7 +35,7 @@ export function useDragonYears(): (dragon: Dragon) => string {
  */
 export function DragonRow({ dragon }: DragonRowProps) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const title = useTitle();
   const years = useDragonYears();
   const name = title(dragonName(dragon));

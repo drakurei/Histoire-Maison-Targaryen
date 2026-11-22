@@ -1,6 +1,6 @@
 import { getDragon } from '@/core/content/dragons';
 import type { Battle, War } from '@/core/content/types';
-import { formatYear, useLang, useT, useTitle, useTx } from '@/core/i18n';
+import { formatYear, useLang, useT, useTitle } from '@/core/i18n';
 import { DragonFigure } from '@/shared/dragon';
 
 import { EntityLink } from '../../components/EntityLink';
@@ -10,6 +10,7 @@ import { SourceList } from '../../components/SourceList';
 import { dragonName } from '../dragons/registry';
 import styles from './BattleEntry.module.css';
 import { belligerentOf, inSentence } from './warModel';
+import { useTxTypo } from '../../components/typo';
 
 interface BattleEntryProps {
   war: War;
@@ -26,7 +27,7 @@ interface BattleEntryProps {
  */
 export function BattleEntry({ war, battle, number, mapped }: BattleEntryProps) {
   const t = useT();
-  const tx = useTx();
+  const tx = useTxTypo();
   const title = useTitle();
   const { reading } = useLang();
   const [a, b] = battle.sides;

@@ -33,6 +33,8 @@
 
     /* Or sombre sur vélin (lettrine d'ouverture, couronne) : DESIGN.md, v1-codex §3. */
     --v1-or-sombre: oklch(0.52 0.1 75);
+    /* Or d'encre pour le texte courant sur vélin (dates de règne, petites mentions) : 5.1:1, quand l'or sombre plafonne à 4.2:1. */
+    --v1-or-encre: oklch(0.47 0.09 72);
     /* Ombre portée du folio : courte, dure, teintée, jamais grise ni floue. */
     --v1-ombre-portee: oklch(0.08 0.012 25 / 0.62);
 

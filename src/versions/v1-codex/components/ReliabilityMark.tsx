@@ -1,9 +1,9 @@
 import { getReliabilityLevel } from '@/core/content/sources';
 import type { Reliability } from '@/core/content/types';
-import { useTx } from '@/core/i18n';
 import { ReliabilityGlyph } from '@/shared/marks/Marks';
 
 import styles from './ReliabilityMark.module.css';
+import { useTxTypo } from './typo';
 
 interface ReliabilityMarkProps {
   level: Reliability;
@@ -17,7 +17,7 @@ interface ReliabilityMarkProps {
  * cinq formes, partout les mêmes ; la couleur ne porte jamais seule le sens.
  */
 export function ReliabilityMark({ level, compact = false, className }: ReliabilityMarkProps) {
-  const tx = useTx();
+  const tx = useTxTypo();
   const label = tx(getReliabilityLevel(level)?.label) || level;
 
   if (compact) {
